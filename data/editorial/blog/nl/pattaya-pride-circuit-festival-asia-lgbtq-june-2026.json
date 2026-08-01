@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "pattaya-pride-circuit-festival-asia-lgbtq-june-2026",
+  "route": "/nl/blog/pattaya-pride-circuit-festival-asia-lgbtq-june-2026/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Pattaya Pride en Circuit Festival 2026: terugblik",
+    "description": "De Pride-evenementen van juni 2026 in Pattaya zijn voorbij. Lees wat is bevestigd en waar je een volgende editie opnieuw controleert.",
+    "primaryKeyword": "Pattaya Pride 2026",
+    "secondaryKeywords": ["Circuit Festival Asia 2026", "Pattaya International Pride Festival"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/pattaya-pride-circuit-festival-asia-lgbtq-june-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Verstreken evenement",
+    "title": "Pattaya Pride 2026",
+    "accent": "De juni-editie is voorbij.",
+    "description": "Gebruik deze pagina als terugblik. Data, locaties, toegang en programma voor een volgende editie moeten opnieuw worden bevestigd.",
+    "image": "/images/redesign/editorial/pattaya-pride-circuit-festival-asia-lgbtq-june-2026-hero.webp",
+    "imageAlt": "Kleurrijke Pride-vlaggen tijdens een feestelijke bijeenkomst aan de kust van Pattaya",
+    "primaryCta": { "label": "Bekijk de status", "href": "#status" },
+    "secondaryCta": { "label": "Plan Pattaya", "href": "/nl/city/pattaya/" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-06-01", "endsOn": "2026-06-30", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "De beschreven Pride- en circuitactiviteiten van juni 2026 zijn verstreken. Wacht voor een volgende reis op nieuwe informatie van Pattaya City, TAT en de afzonderlijke organisator.",
+  "blocks": [
+    { "kind": "callout", "id": "status", "tone": "warning", "title": "Geen boekbare 2026-agenda", "description": "Deze pagina presenteert geen verstreken data of locaties als toekomstig. Een volgende editie kan een ander programma, terrein of toegangssysteem hebben." },
+    {
+      "kind": "comparison",
+      "id": "onderscheid",
+      "title": "Houd de organisatoren uit elkaar",
+      "options": [
+        { "title": "Pattaya International Pride", "description": "Een stedelijk Pride-programma waarvan de gemeente en samenwerkende organisaties de actuele route publiceren.", "label": "Stadsevenement" },
+        { "title": "Circuit Festival Asia", "description": "Een afzonderlijk commercieel dance-evenement met eigen tickets, locaties en voorwaarden.", "label": "Ticketed event" },
+        { "title": "Pattaya nightlife", "description": "De reguliere avondplanning bestaat ook buiten Pride en heeft een eigen, bredere owner.", "label": "Evergreen" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "volgende-editie",
+      "title": "Controleer bij een volgende editie",
+      "items": ["Officiële datum en organisator", "Exacte parade- of evenementlocatie", "Ticket- en leeftijdsvoorwaarden", "Hotelafstand en veilige terugreis", "Weersverwachting en buitenprogramma", "Respectvolle fotografie en consent"]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bronnen voor de 2026-status",
+      "items": [
+        { "title": "Pride Month Festivals 2026", "publisher": "Government Public Relations Department Thailand", "url": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/508710", "checkedAt": "2026-08-01", "note": "Landelijk overzicht waarin Pattaya Pride en Circuit Festival afzonderlijk zijn genoemd." },
+        { "title": "Pride For All 2026", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/06/centrals-pride-celebration-2026-expands-pride-for-all-nationwide/", "checkedAt": "2026-08-01", "note": "Bevestiging van de Pattaya-samenwerking in juni 2026." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan Pattaya zonder verlopen kalender",
+      "items": [
+        { "title": "Pattaya overzicht", "description": "Kies strand, wijk en reisritme.", "href": "/nl/city/pattaya/" },
+        { "title": "Nachtleven in Pattaya", "description": "De actuele gebiedsowner voor een gewone avond.", "href": "/nl/nightlife/pattaya/" },
+        { "title": "Waar verblijven in Pattaya", "description": "Vergelijk gebieden op sfeer en terugreis.", "href": "/nl/best-hotels/pattaya/" }
+      ]
+    }
+  ]
+}

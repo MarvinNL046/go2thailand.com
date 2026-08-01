@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "chiang-rai-white-temple-entrance-fee-doubles-2026",
+  "route": "/nl/blog/chiang-rai-white-temple-entrance-fee-doubles-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "White Temple entree 2026: wat is bevestigd?",
+    "description": "De entree voor buitenlandse bezoekers van Wat Rong Khun wijzigde in 2026. Lees wat is bevestigd en wat je voor vertrek opnieuw controleert.",
+    "primaryKeyword": "white temple entree 2026",
+    "secondaryKeywords": ["Wat Rong Khun entree", "White Temple Chiang Rai prijs", "White Temple bezoeken"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/chiang-rai-white-temple-entrance-fee-doubles-2026/"
+  },
+  "hero": {
+    "eyebrow": "Actuele bezoekersupdate",
+    "title": "White Temple entree",
+    "accent": "Bevestigd voor 2026.",
+    "description": "De wijziging is ingegaan. Controleer vlak voor je bezoek alsnog het officiële bezoekerskanaal voor toegang, regels en eventuele nieuwe wijzigingen.",
+    "image": "/images/redesign/editorial/chiang-rai-white-temple-entrance-fee-doubles-2026-hero.webp",
+    "imageAlt": "Witte spiegelende gevel van Wat Rong Khun in Chiang Rai",
+    "primaryCta": { "label": "Lees de bevestiging", "href": "#bevestigd" },
+    "secondaryCta": { "label": "Plan Chiang Rai", "href": "/nl/city/chiang-rai/attractions/" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "confirmed", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Voor buitenlandse bezoekers werd de entree per 1 januari 2026 aangepast van 100 naar 200 baht. Zie dit als een gecontroleerde momentopname, niet als een blijvende prijsgarantie.",
+  "blocks": [
+    { "kind": "callout", "id": "bevestigd", "tone": "saffron", "title": "Wat is bevestigd?", "description": "De aangekondigde wijziging ging op 1 januari 2026 in en omvat volgens de lokale bekendmaking ook toegang tot de Cave of Art. Controleer de actuele voorwaarden opnieuw op de bezoekdag." },
+    {
+      "kind": "checklist",
+      "id": "bezoekcheck",
+      "title": "Controleer voor vertrek",
+      "items": ["Actuele entree en welke delen zijn inbegrepen", "Toegang en eventuele tijdelijke sluitingen", "Kledingregels voor het religieuze deel", "Vervoer terug naar Chiang Rai", "Fotoregels per ruimte"]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over de White Temple-entree",
+      "items": [
+        { "question": "Wat kost de White Temple in 2026?", "answer": "De lokaal gepubliceerde wijziging noemt 200 baht voor buitenlandse bezoekers vanaf 1 januari 2026. Controleer de actuele prijs ter plaatse of via het officiële kanaal." },
+        { "question": "Is Wat Rong Khun een oude tempel?", "answer": "Nee. Het is een hedendaags kunst- en tempelcomplex van kunstenaar Chalermchai Kositpipat." },
+        { "question": "Vervangt deze pagina de Chiang Rai-attractiegids?", "answer": "Nee. Deze owner behandelt alleen de entree-update. Routekeuze, andere tempels en een volledige dagplanning staan in de Chiang Rai-attractiegids." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bronnen en controle",
+      "items": [
+        { "title": "Wat Rong Khun fee announcement", "publisher": "Chiang Rai Focus / Wat Rong Khun", "url": "https://www.chiangraifocus.com/41740/", "checkedAt": "2026-08-01", "note": "Lokale publicatie van de prijswijziging en ingangsdatum." },
+        { "title": "Chiang Rai destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Rai/102", "checkedAt": "2026-08-01", "note": "Bestemmingscontext; geen prijsbelofte." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Bouw de rest van je dag",
+      "items": [
+        { "title": "Chiang Rai bezienswaardigheden", "description": "De brede owner voor tempels, stad en buitengebied.", "href": "/nl/city/chiang-rai/attractions/" },
+        { "title": "Chiang Rai overzicht", "description": "Kies verblijf, reistempo en regio.", "href": "/nl/city/chiang-rai/" },
+        { "title": "Eten in Chiang Rai", "description": "Plan lokale gerechten zonder je tempeldag te overladen.", "href": "/nl/city/chiang-rai/food/" }
+      ]
+    }
+  ]
+}

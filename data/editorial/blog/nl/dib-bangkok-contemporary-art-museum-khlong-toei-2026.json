@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "dib-bangkok-contemporary-art-museum-khlong-toei-2026",
+  "route": "/nl/blog/dib-bangkok-contemporary-art-museum-khlong-toei-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Dib Bangkok bezoeken: kunst in Khlong Toei",
+    "description": "Plan een bezoek aan Dib Bangkok. Lees voor wie het museum past, hoe je de actuele expositie controleert en wat je in Khlong Toei combineert.",
+    "primaryKeyword": "Dib Bangkok",
+    "secondaryKeywords": ["museum Khlong Toei", "hedendaagse kunst Bangkok", "Dib Bangkok bezoeken"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/dib-bangkok-contemporary-art-museum-khlong-toei-2026/"
+  },
+  "hero": {
+    "eyebrow": "Nieuwe kunstplek in een oude loods",
+    "title": "Dib Bangkok",
+    "accent": "Kijk eerst naar het programma.",
+    "description": "Het museum is open, maar tentoonstellingen wisselen. Kies deze stop om hedendaagse kunst en industriële architectuur — niet voor een vaste checklist van topstukken.",
+    "image": "/images/redesign/editorial/dib-bangkok-contemporary-art-museum-khlong-toei-2026-hero.webp",
+    "imageAlt": "Modern cultureel gebouw aan de rivier met de skyline van Bangkok",
+    "primaryCta": { "label": "Plan je bezoek", "href": "#bezoek" },
+    "secondaryCta": { "label": "Bekijk Bangkok", "href": "/nl/city/bangkok/attractions/" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "split", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Dib Bangkok past bij kunst- en architectuurliefhebbers die buiten de klassieke tempelroute willen kijken. Controleer vóór vertrek de lopende tentoonstelling, tickets en museumuren op de officiële site.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "bezoek",
+      "eyebrow": "Kies bewust",
+      "title": "Wanneer past Dib in je Bangkok-dag?",
+      "cards": [
+        { "title": "Je volgt hedendaagse kunst", "description": "De collectie en tijdelijke programma's staan centraal; namen en werken kunnen per bezoek verschillen.", "label": "Beste match" },
+        { "title": "Je houdt van hergebruik", "description": "Een voormalige loods geeft het museum een ander karakter dan een klassiek wit museumgebouw.", "label": "Architectuur" },
+        { "title": "Je wilt Khlong Toei zien", "description": "Maak er een wijkgerichte dag van en vermijd een onrealistische sprong naar attracties aan de andere kant van de stad.", "label": "Route" }
+      ]
+    },
+    { "kind": "callout", "id": "actueel", "tone": "warning", "title": "De openingstentoonstelling loopt af", "description": "De eerste tentoonstelling eindigt volgens Dib op 3 augustus 2026. Controleer voor een later bezoek welk programma daadwerkelijk te zien is." },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Dib Bangkok",
+      "items": [
+        { "question": "Is Dib Bangkok al open?", "answer": "Ja. Het museum opende eind 2025 en publiceert op de eigen site de actuele tentoonstellingen en bezoekersinformatie." },
+        { "question": "Waar ligt Dib Bangkok?", "answer": "Aan Soi Sukhumvit 40 in Khlong Toei. Controleer de laatste kilometer en terugreis voordat je vertrekt." },
+        { "question": "Hoeveel tijd heb je nodig?", "answer": "Dat hangt af van de lopende tentoonstelling. Reserveer liever een flexibel dagdeel dan een vaste duur aan te nemen." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële museumbronnen",
+      "items": [
+        { "title": "Dib Bangkok", "publisher": "Dib Bangkok", "url": "https://dibbangkok.org/", "checkedAt": "2026-08-01", "note": "Actueel programma en museuminformatie." },
+        { "title": "Location and hours", "publisher": "Dib Bangkok", "url": "https://dibbangkok.org/contact", "checkedAt": "2026-08-01", "note": "Adres en actuele bezoekersuren." },
+        { "title": "Frequently asked questions", "publisher": "Dib Bangkok", "url": "https://dibbangkok.org/faq", "checkedAt": "2026-08-01", "note": "Bezoekersregels en voorzieningen." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Meer kunst en stad",
+      "items": [
+        { "title": "Bangkok bezienswaardigheden", "description": "De brede attractie-owner voor een volledige stadsplanning.", "href": "/nl/city/bangkok/attractions/" },
+        { "title": "Talad Noi", "description": "Combineer erfgoed, straatbeeld en creativiteit in een eigen buurtwandeling.", "href": "/nl/blog/24-hours-talad-noi-bangkok-hidden-gem/" },
+        { "title": "Waar verblijven in Bangkok", "description": "Vergelijk wijken op route en reistijd.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" }
+      ]
+    }
+  ]
+}

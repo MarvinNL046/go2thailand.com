@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "pattaya-walking-street-reinvention-2026",
+  "route": "/nl/blog/pattaya-walking-street-reinvention-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Walking Street-vernieuwing 2026: wat weten we?",
+    "description": "De berichtgeving over vernieuwing van Pattaya Walking Street bevat voorstellen en gesprekken, maar geen volledig bevestigd reizigersplan.",
+    "primaryKeyword": "Pattaya Walking Street vernieuwing 2026",
+    "secondaryKeywords": ["Walking Street Pattaya update", "Pattaya nightlife verandering"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/pattaya-walking-street-reinvention-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gearchiveerde nieuwsduiding",
+    "title": "Walking Street-vernieuwing",
+    "accent": "Voorstel is geen reisfeit.",
+    "description": "Er zijn gesprekken en losse projecten, maar geen voldoende onderbouwd totaalplan waarop je een avondroute kunt baseren.",
+    "image": "/images/redesign/editorial/pattaya-walking-street-reinvention-2026-hero.webp",
+    "imageAlt": "Neonverlichting en voetgangers in Walking Street Pattaya in de avond",
+    "primaryCta": { "label": "Lees de correctie", "href": "#stand" },
+    "secondaryCta": { "label": "Actuele nightlife-gids", "href": "/nl/nightlife/pattaya/" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Op 1 augustus 2026 is geen compleet officieel revitalisatieplan gevonden dat alle genoemde veranderingen bevestigt. Gebruik deze route daarom niet als actuele gebiedsgids; de Pattaya-nightlife-owner neemt die taak over.",
+  "blocks": [
+    { "kind": "callout", "id": "stand", "tone": "warning", "title": "Geen bewezen totaalplan", "description": "Een openbaar gesprek, ondernemerswens of los inkoopproject bewijst niet dat Walking Street als geheel volgens één vastgesteld concept wordt vernieuwd." },
+    {
+      "kind": "checklist",
+      "id": "bewijs",
+      "title": "Wat een toekomstige update nodig heeft",
+      "items": ["Een besluit van Pattaya City", "Een afgebakend projectgebied", "Publicatie van planning en uitvoering", "Bevestigde gevolgen voor voetgangers en verkeer", "Nieuwe controle na oplevering"]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Controleerbare stadsbronnen",
+      "items": [
+        { "title": "Pattaya Data Platform", "publisher": "Pattaya City", "url": "https://data.pattaya.go.th/en", "checkedAt": "2026-08-01", "note": "Stedelijke datasets en plannen; geen compleet Walking Street-totaalplan aangetroffen." },
+        { "title": "Walking Street LED procurement notice", "publisher": "Pattaya City", "url": "https://dsp.pattaya.go.th/detail.php?id=66f3b69007af7", "checkedAt": "2026-08-01", "note": "Bewijs van een afzonderlijk LED-project uit een eerdere begrotingsperiode, niet van de brede claims uit de oude tekst." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Gebruik de blijvende owners",
+      "items": [
+        { "title": "Pattaya nightlife", "description": "Vergelijk Walking Street met andere avondgebieden en plan je terugreis.", "href": "/nl/nightlife/pattaya/" },
+        { "title": "Pattaya bezienswaardigheden", "description": "Plan de dag buiten het nachtleven.", "href": "/nl/city/pattaya/attractions/" },
+        { "title": "Pattaya overzicht", "description": "De centrale owner voor wijk- en verblijfskeuze.", "href": "/nl/city/pattaya/" }
+      ]
+    }
+  ]
+}

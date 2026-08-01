@@ -1,270 +1,118 @@
 ---
-title: "Bangkok naar Koh Samui: 4 beste manieren (prijzen 2026)"
+title: "Van Bangkok naar Koh Samui: kies je route"
 slug: "bangkok-to-koh-samui-guide"
 date: "2026-03-21"
 author:
   name: "Go2Thailand Team"
 category: "transport"
-tags: ["bangkok naar koh samui", "koh samui vervoer", "thailand vluchten", "ferry thailand", "Thailand tips", "vakantie Thailand", "reisgids Koh Samui"]
-image: "/images/blog/bangkok-to-koh-samui-guide.webp"
-description: "Hoe reis je van Bangkok naar Koh Samui? Vergelijk vluchten (€45-€110), bus+ferry (€14-€23), trein+ferry (€14-€28) en privétransfers. Actuele prijzen 2026."
+tags: ["bangkok naar koh samui", "koh samui vervoer", "ferry koh samui", "trein surat thani"]
+image: "/images/redesign/editorial/bangkok-to-koh-samui-guide-hero.webp"
+description: "Vergelijk vliegen, trein of bus met ferry van Bangkok naar Koh Samui. Kies op reistijd, overstappen, bagage en zeecondities."
 featured: false
-readingTime: 10
-lastUpdated: "2026-03-28"
+readingTime: 8
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Bangkok Airways — Flight Deals"
-    url: "https://www.bangkokair.com/flightdeals/view"
-  - name: "12Go Asia — Ferries from Bangkok to Koh Samui"
-    url: "https://12go.asia/en/ferry/bangkok/koh-samui"
-  - name: "Lomprayah High Speed Ferries"
+  - name: "Bangkok Airways — boekingsmodule"
+    url: "https://www.bangkokair.com/eng/flight/booking"
+  - name: "Bangkok Airways — Samui International Airport"
+    url: "https://www.bangkokair.com/samui-international-airport"
+  - name: "Lomprayah"
     url: "https://www.lomprayah.com/"
-  - name: "Seat61 — Train Travel in Thailand"
-    url: "https://www.seat61.com/Thailand.htm"
-  - name: "Samui Airport — Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Samui_Airport"
-  - name: "Skyscanner — Bangkok to Samui Flights"
-    url: "https://www.skyscanner.com/routes/bkk/usm/bangkok-suvarnabhumi-to-samui-international.html"
-  - name: "Direct Ferries — Ferries to Koh Samui 2026"
-    url: "https://www.directferries.com/koh_samui_island.htm"
 ---
 
-De reis van **Bangkok naar Koh Samui** is een van de meest gemaakte trajecten in Thailand — en kent meer opties (en prijsvalkuilen) dan je zou denken. Of je nu voor de lunch al op [Chaweng Beach](https://go2-thailand.com/city/koh-samui/attractions/chaweng-beach/) wilt liggen, of liever je baht bewaart voor cocktails aan zee: er is altijd een route die past bij je budget en reisstijl.
+Van **Bangkok naar Koh Samui** reis je rechtstreeks per vliegtuig of via het vasteland met een vlucht, trein of bus en daarna een ferry. De beste keuze hangt niet alleen af van de laagste prijs. Ook het aantal overstappen, je bagage, slaapcomfort en de afstand van de aankomstpier tot je hotel tellen mee.
 
-Deze reisgids zet elke manier om Koh Samui te bereiken vanuit Bangkok in 2026 op een rij, met echte prijzen, reistijden en praktische tips zodat je de beste keuze maakt voor je vakantie.
+De vuistregel is eenvoudig: rechtstreeks vliegen vraagt het minste regelwerk. Via Surat Thani reizen kan goedkoper zijn, maar bestaat uit meerdere delen. Vergelijk daarom de hele route van vertrekpunt tot hotel en niet alleen het eerste ticket.
 
----
+## Optie 1: rechtstreeks vliegen
 
-## Snelle vergelijking: alle opties in één oogopslag
+Bangkok Airways biedt verbindingen tussen Bangkok en Samui. Controleer in de officiële boekingsmodule vanaf welke luchthaven je vlucht vertrekt. Een vertrek vanaf Suvarnabhumi past vaak beter bij een internationale aansluiting; Don Mueang kan gunstiger liggen wanneer je al elders in Bangkok bent.
 
-| Optie | Duur | Prijs (EUR) | Comfort | Ideaal voor |
-|--------|----------|-------------|---------|----------|
-| **Directe vlucht (Bangkok Airways)** | 1 uur | €65–135 | 5/5 | Snelheid, gemak |
-| **Vlucht naar Surat Thani + ferry** | 3–4 uur | €28–45 totaal | 3/5 | Budgetvliegers |
-| **Bus + ferry combi** | 12–14 uur | €14–23 | 2/5 | Budgetreizigers |
-| **Trein + ferry** | 14–16 uur | €14–28 | 3/5 | Schilderachtige ervaring |
-| **Privétransfer** | 10–12 uur | €140–230 | 4/5 | Gezinnen, groepen |
+Deze route past goed wanneer:
 
----
+- je weinig vakantiedagen hebt;
+- je met kinderen of veel bagage reist;
+- je geen nacht in trein of bus wilt doorbrengen;
+- je dezelfde dag nog rustig bij je hotel wilt aankomen.
 
-## Optie 1: Vliegen naar Koh Samui (snelst)
+Een getoond starttarief is geen prijsbelofte. Datum, bagage, ticketvoorwaarden en vraag beïnvloeden het bedrag. Vergelijk daarom de uiteindelijke prijs na toevoeging van alles wat je nodig hebt.
 
-Vliegen is veruit de snelste manier om van Bangkok naar Koh Samui te komen. De vlucht duurt slechts een uur en zet je af op een eiland waar het vliegveld zelf al een bezienswaardigheid is — een openluchtterminal met rieten daken en tropische tuinen.
+## Optie 2: vliegen naar Surat Thani en door met de ferry
 
-### Het Bangkok Airways-monopolie
+Bij deze route land je op het vasteland. Daarna reis je over de weg naar een pier en steek je per boot over naar Koh Samui. De route kan aantrekkelijk zijn wanneer de directe vlucht duur is, maar alleen als de aansluitingen logisch op elkaar aansluiten.
 
-Dit moet elke reiziger weten: **Samui Airport (USM) is privé-eigendom van Bangkok Airways**. Daardoor heeft Bangkok Airways een bijna-monopolie op directe vluchten vanuit Bangkok naar Koh Samui. Thai Airways vloog tot 2018 twee keer per dag op deze route, maar staakte de vluchten, waardoor Bangkok Airways als enige direct vliegt.
+Controleer vóór aankoop:
 
-Zonder concurrentie liggen de prijzen hoger dan je zou verwachten voor een korte binnenlandse vlucht in Thailand. Waar een vergelijkbare vlucht van een uur bij een budgetmaatschappij €18–38 zou kosten, beginnen de tickets Bangkok–Samui meestal bij **€65–95 enkele reis** en lopen ze op tot **€135 of meer** in het hoogseizoen of bij last-minute boekingen.
+1. of de transfer vanaf de luchthaven is inbegrepen;
+2. vanaf welke pier de ferry vertrekt;
+3. hoeveel tijd er tussen landing en vertrek zit;
+4. wat er gebeurt bij vluchtvertraging;
+5. op welke pier op Koh Samui je aankomt.
 
-### Vluchtprijzen en boekingtips
+Een losse goedkope vlucht kan minder voordelig worden zodra je landtransfer, ferry en vervoer op het eiland optelt. Een gecombineerd ticket is overzichtelijker, maar lees ook daarbij welke vervoerder ieder deel uitvoert.
 
-Op basis van actuele 2026-prijzen van grote boekingsplatformen:
+## Optie 3: nachttrein en ferry
 
-- **Budgettarieven**: Vanaf €65 enkele reis bij boeking 3–6 weken vooraf (Skyscanner, Google Flights)
-- **Gemiddelde prijs**: €90–110 enkele reis (Momondo, KAYAK)
-- **Hoogseizoen / last minute**: €120–135+ enkele reis (Expedia)
-- **Retourdeals**: Vanaf €125 als je vroeg boekt en buiten het hoogseizoen reist
+Koh Samui heeft geen treinstation. Je reist per trein naar de omgeving van Surat Thani en gaat daarna verder naar de pier. Deze optie is interessant als je een nachtreis prettig vindt en de reis zelf onderdeel van de ervaring mag zijn.
 
-**Pro-tips om geld te besparen op vluchten:**
-- Boek minstens 2–3 weken vooraf — last-minute tickets zijn fors duurder
-- Maart is meestal de goedkoopste maand op deze route
-- Boeken rond 40 dagen vooraf geeft doorgaans de beste tarieven
-- Check Bangkok Airways rechtstreeks — er zijn soms web-only aanbiedingen
-- Bij elk ticket zit gratis lounge-toegang op Suvarnabhumi inbegrepen
+Een slaapplaats is belangrijker dan alleen de klassebenaming. Kijk naar bedtype, airconditioning en aankomsttijd. Reserveer rond drukke Thaise feestdagen en populaire reisperiodes niet op het laatste moment. Gebruik voor de actuele dienstregeling en beschikbaarheid altijd het officiële treinkanaal of een betrouwbare boekingspartij.
 
-### Budgetalternatief: vlieg naar Surat Thani + ferry
+Plan na aankomst voldoende marge voor de transfer naar de kust. Een treinvertraging en een los ferryticket vormen samen een kwetsbare aansluiting.
 
-Als de prijzen van Bangkok Airways je doen schrikken, vlieg dan naar **Surat Thani Airport (URT)**. Meerdere maatschappijen vliegen deze route — AirAsia, Nok Air en Thai Lion Air — met tarieven vanaf **€18–32 enkele reis**. Vanuit [Surat Thani](https://go2-thailand.com/city/surat-thani/) neem je een ferry naar Koh Samui (ongeveer 1,5–2 uur). Totale kosten: circa **€28–45**, een besparing van €45–90 ten opzichte van direct vliegen.
+## Optie 4: bus en ferry
 
-Lomprayah biedt transfers van Surat Thani Airport naar het eiland voor 600 THB (ca. €16), inclusief minivan naar de pier en de high-speed catamaran naar Nathon-pier op Koh Samui.
+Bus-ferrycombinaties zijn vaak de meest budgetgerichte keuze. Ze vragen wel een lange zit en soms een nacht onderweg. Let op het exacte vertrekpunt in Bangkok: een terminal, kantoor of toeristisch ophaalpunt zijn niet hetzelfde.
 
----
+Vergelijk niet alleen de totale duur. Kijk ook naar:
 
-## Optie 2: Bus + ferry (budgetkeuze)
+- stoeltype en geplande pauzes;
+- bagageregels van bus én boot;
+- overstaphulp bij de pier;
+- aankomsttijd op Koh Samui;
+- vervoer vanaf de pier naar je accommodatie.
 
-Het gecombineerde bus- en ferryticket is de klassieke backpackersroute van Bangkok naar Koh Samui. Het is de goedkoopste optie en je hoeft maar één ticket te boeken. Dezelfde overnachtingsstrategie wordt ook gebruikt door budgetreizigers richting [Krabi](https://go2-thailand.com/city/krabi/) of [Phuket](https://go2-thailand.com/islands/phuket/).
+Bewaar waardevolle spullen en medicijnen in je handbagage. Neem een lichte extra laag mee voor sterke airconditioning, maar ga niet uit van een vaste temperatuur of gegarandeerde slaapkwaliteit.
 
-### Hoe het werkt
+## Welke aankomstpier past bij je hotel?
 
-Je stapt in Bangkok op een nachtbus, slaapt tijdens de lange rit naar het zuiden, komt 's ochtends aan bij een pier in de provincie Surat Thani en stapt direct over op een ferry naar Koh Samui. De meeste vervoerders verkopen **combitickets** die de hele reis dekken — bus, transfer én ferry — zodat je maar één keer hoeft te boeken.
+De laatste kilometer wordt vaak vergeten. Koh Samui is groot genoeg om na de ferry nog een merkbare transfer te hebben. Controleer daarom of je aankomt bij Nathon, Lipa Noi of een andere pier en vergelijk dat met je hotelzone.
 
-### Vertrekpunten in Bangkok
+Wie nog geen accommodatie heeft gekozen, kan eerst de [beste gebieden om te overnachten op Koh Samui](/nl/best-hotels/koh-samui/) vergelijken. Bekijk ook het [Koh Samui-overzicht](/nl/city/koh-samui/) voor de verschillen tussen stranden en plaatsen.
 
-- **Southern Bus Terminal (Sai Tai Mai)** — het grote busstation voor zuidelijke routes
-- **[Khao San Road](https://go2-thailand.com/city/bangkok/attractions/khao-san-road/)** — verschillende private operators bieden directe pickup vanuit deze backpackerswijk
-- **Diverse pickup points** — bedrijven als Lomprayah halen je op in hotelwijken
+## Weer en zeecondities
 
-### Prijzen (2026)
+Een ferry vaart niet los van het weer. Wind en zee kunnen reistijd, comfort of uitvoering beïnvloeden. Plan een ruime buffer als je op dezelfde dag een internationale vlucht moet halen. Bij onrustige zee is een flexibele wijziging vaak waardevoller dan de laagste niet-wijzigbare prijs.
 
-- **Standaard combiticket (bus + ferry)**: 960–1.100 THB (ca. €25–29)
-- **Lomprayah VIP-bus + high-speed catamaran**: 1.400–1.450 THB (ca. €37–39) — vertrek om 21:00 's avonds of 06:00 's ochtends
-- **Budgetoperators via 12Go Asia**: Vanaf 700–900 THB (ca. €18–24)
+Reis je via het vasteland en wil je niet haasten, dan kan een overnachting in [Surat Thani](/nl/city/surat-thani/) de keten rustiger maken.
 
-Voor de allergoedkoopste optie boek je via [12Go Asia](https://12go.tpo.lv/tNA80urD), waar combitickets starten rond **€14–23**, afhankelijk van operator en comfortniveau.
+## Zo vergelijk je actuele tickets
 
-### Ferrybedrijven
+Open voor jouw reisdatum de volledige route en noteer per optie:
 
-Bij de pier stap je op een van de drie grote ferryoperators:
+- vertrek- en aankomstlocatie;
+- totale deur-tot-deurtijd;
+- aantal losse tickets;
+- inbegrepen bagage;
+- wijzigings- en annuleringsvoorwaarden;
+- geplande buffer;
+- kosten voor de laatste transfer.
 
-- **Lomprayah** — High-speed catamaran, snelste oversteek (ca. 1,5 uur naar Nathon-pier), duurst maar meest betrouwbaar. 450 THB vanuit Surat Thani stad.
-- **Seatran Discovery** — Middenklasse in snelheid en prijs, komt aan in Nathon. 120 THB vanaf Don Sak-pier.
-- **Raja Ferry** — Klassieke ferry, goedkoopst op 120 THB vanaf Don Sak, neemt ook voertuigen mee. Trager maar ruim.
-
-### Tips voor bus + ferry
-
-- **Boek een VIP-bus** als je budget het toelaat — extra beenruimte en verstelbare stoelen maken groot verschil op een rit van 10+ uur
-- Neem een jasje of trui mee — Thaise bussen zetten de airco arctisch koud
-- Verwacht aankomst op Koh Samui tussen 8:00 en 11:00 de volgende ochtend
-- Totale reistijd: **12–14 uur**, afhankelijk van verkeer en ferryaansluitingen
-
----
-
-## Optie 3: Trein + ferry (de mooiste route)
-
-De nachttrein met slaapcoupé van Bangkok naar Surat Thani is een van de mooiste reiservaringen van Thailand. Je valt in slaap terwijl de buitenwijken van Bangkok voorbijglijden en wordt wakker in Zuid-Thailand met palmbomen en kalksteenrotsen voor je raam. Hou je van schilderachtige treinreizen? Bekijk dan ook de [Bangkok–Chiang Mai nachttrein](https://go2-thailand.com/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) voor je volgende trip noordwaarts.
-
-### De reis
-
-- **Vertrek**: Bangkoks Hua Lamphong (of Krung Thep Aphiwat / Bang Sue Grand Station voor nieuwere diensten)
-- **Aankomst**: Station Surat Thani na circa 10–12 uur
-- **Daarna**: Transfer naar pier + ferry naar Koh Samui (nog 2–3 uur)
-
-### Treinprijzen (2026)
-
-Prijzen Bangkok naar Surat Thani per trein:
-
-- **2e klas slaapcoupé (airco)**: 700–900 THB (ca. €18–24) — de sweet spot voor de meeste reizigers
-- **2e klas slaapcoupé (alleen ventilator)**: 500–600 THB (ca. €13–16)
-- **1e klas slaapcoupé (privécabine)**: 1.200–1.500 THB (ca. €32–40)
-- **3e klas (alleen zitplaats)**: 250–300 THB (ca. €7–8) — niet aan te raden voor de nacht
-
-Tickets aan het station zijn 50–100 THB goedkoper dan online, maar online boeken via [12Go Asia](https://12go.tpo.lv/tNA80urD) garandeert je een slaapplek.
-
-### Belangrijk boekingsadvies
-
-Slaapplekken — vooral 1e en 2e klas airco — **zijn dagen of zelfs weken vooraf uitverkocht** in het hoogseizoen (november–februari) en rond Thaise feestdagen. Ga er niet vanuit dat je een dag van tevoren nog een ticket krijgt. Boek zo vroeg mogelijk.
-
-### Aansluitende ferry
-
-Vanaf het treinstation Surat Thani kun je een combitransfer boeken:
-
-- **Lomprayah**: 500 THB (ca. €13) vanaf het station, inclusief minivan naar pier + high-speed catamaran
-- **Seatran/Raja**: Goedkoper op 120–200 THB voor het ferry-gedeelte, maar je moet zelf transport naar Don Sak-pier regelen
-
-Totale kosten voor trein + ferry: **€14–28**, afhankelijk van je treinklasse en ferrykeuze.
-
-Meer details over deze route? Bekijk onze [Surat Thani-reisgids](https://go2-thailand.com/nl/city/surat-thani/) en [complete vervoerswijzer](https://go2-thailand.com/nl/transport/).
-
----
-
-## Optie 4: Privétransfer (meest comfortabel)
-
-Reis je met het gezin, in een groep of wil je simpelweg geen gedoe? Dan regelt een privétransfer alles: een chauffeur haalt je op bij je [hotel in Bangkok](https://go2-thailand.com/best-hotels/bangkok/), rijdt je zuidwaarts, regelt de ferry en zet je af bij je [accommodatie op Koh Samui](https://go2-thailand.com/best-hotels/koh-samui/).
-
-### Wat je kunt verwachten
-
-- **Duur**: 10–12 uur (vergelijkbaar met bus, maar met pauzes wanneer jij wilt)
-- **Prijs**: €140–230, afhankelijk van voertuig (sedan, SUV of minivan)
-- **Inbegrepen**: Deur-tot-deurservice, ferrytickets, brandstof, tol en chauffeur
-
-### Wanneer is dit logisch
-
-- **Gezinnen met jonge kinderen** die een nachtbus of -trein niet aankunnen
-- **Groepen van 4–6** waar kostendeling het vergelijkbaar maakt met vliegen
-- **Reizigers met veel bagage** — surfers, duikers met gear, enz.
-- **Luxereizigers** die tijd en comfort boven alles zetten
-
-Boek via betrouwbare operators op Klook, GetYourGuide of vraag je hotel een transfer te regelen. Check altijd of de prijs de ferry-oversteek omvat — sommige offertes dekken alleen de rit naar de pier.
-
----
-
-## Welke optie past bij jou?
-
-Nog twijfels? Een snelle beslisgids:
-
-**Kies vliegen** als je tijd waardevol vindt, 2+ weken vooraf kunt boeken voor een redelijk tarief, of gewoon een hekel hebt aan lange busritten. De vlucht met Bangkok Airways is pijnloos en de luchthavenervaring op Samui is echt leuk.
-
-**Kies bus + ferry** bij een krap budget en als je een nachtreis aankan. Het is de goedkoopste manier en de combitickets maken het simpel.
-
-**Kies trein + ferry** voor een onvergetelijke reiservaring. De slaaptrein is typisch Thais en levert mooie verhalen op. Boek wel op tijd je slaapplek.
-
-**Kies een privétransfer** als je met kinderen of een groep van 4+ reist, of wilt dat iemand anders alles regelt.
-
-Voor de meeste reizigers met een middenbudget is onze topaanbeveling: **vlieg met een budgetmaatschappij naar Surat Thani en pak de Lomprayah-ferry** — de beste balans tussen prijs (€28–45 totaal), snelheid (3–4 uur) en gemak.
-
----
-
-## Aankomst op Koh Samui: wat je moet weten
-
-Hoe je ook aankomt — op Samui Airport of een van de ferrypiers — zo kom je bij je hotel.
-
-### Vanaf Samui Airport
-
-Samui Airport gebruikt een **zonegebaseerd taxisysteem** met vaste tarieven:
-
-| Zone | Gebieden | Taxiprijs |
-|------|-------|-----------|
-| Zone 1 | Bangrak, Bophut, Chaweng, Choengmon | 500 THB (ca. €13) |
-| Zone 2 | Chaweng Noi, Maenam | 800 THB (ca. €21) |
-| Zone 3 | Lamai, Bantai, Bangpor | 900 THB (ca. €24) |
-| Zone 4 | Nathon, Hua Thanon | 1.140 THB (ca. €30) |
-| Zone 5 | Lipa Noi, Taling Ngam | 1.520 THB (ca. €40) |
-
-Gedeelde minivans kosten **100–200 THB** per persoon naar grote stranden, maar stoppen meerdere keren en zijn dus trager.
-
-### Vanaf ferrypiers
-
-Kom je aan bij **Nathon-pier** (Lomprayah, Seatran) of een andere pier, dan staan er songthaews (pick-ups met bankjes) klaar. Tarieven zijn doorgaans **100–200 THB** per persoon naar populaire stranden als Chaweng of [Lamai](https://go2-thailand.com/city/koh-samui/attractions/lamai-beach/). Spreek de prijs af vóór je instapt.
-
-### Rondreizen op het eiland
-
-- **Grab** werkt op Koh Samui en is vaak goedkoper en transparanter dan onderhandelen met taxichauffeurs
-- **Scooterhuur**: 200–300 THB per dag — de populairste manier, maar alleen doen als je ervaren bent en altijd met helm
-- **Autohuur**: Vanaf 800–1.200 THB per dag, prima voor gezinnen
-- **Songthaew**: Goedkoopste manier tussen stranden; aanhouden langs de ringweg
-
----
+Gebruik het onderdeel met actuele vervoersopties op deze pagina om de live routeketen te vergelijken. Controleer de gegevens daarna ook bij de uitvoerende vervoerder; de zichtbare disclosure legt uit wanneer Go2Thailand een commissie kan ontvangen.
 
 ## Veelgestelde vragen
 
-### Hoe lang duurt Bangkok naar Koh Samui?
+### Kun je rechtstreeks van Bangkok naar Koh Samui vliegen?
 
-Het snelst is een directe vlucht met Bangkok Airways: ongeveer **1 uur**. Vliegen naar Surat Thani plus ferry duurt in totaal 3–4 uur. De bus + ferry combi duurt 12–14 uur 's nachts, trein + ferry 14–16 uur.
+Ja. Controleer bij Bangkok Airways welke luchthaven, tijd en ticketvoorwaarden bij jouw datum horen.
 
-### Waarom zijn vluchten naar Koh Samui zo duur?
+### Heeft Koh Samui een treinstation?
 
-Omdat **Samui Airport privé-eigendom is van Bangkok Airways**, dat daardoor een bijna-monopolie heeft op directe vluchten uit Bangkok. Zonder concurrentie blijven de tarieven hoog. Omzeil dit door met een budgetmaatschappij (AirAsia, Nok Air) naar Surat Thani te vliegen en daar de ferry te nemen.
+Nee. De trein brengt je naar het vasteland. Daarna volgen een transfer naar de pier en de ferry.
 
-### Kan ik naar Surat Thani vliegen en dan de ferry pakken?
+### Is één combiticket altijd beter?
 
-Ja, en dat is vaak de slimste keuze. Budgetmaatschappijen vliegen Bangkok–Surat Thani voor €18–32 enkele reis. Vanaf Surat Thani Airport biedt Lomprayah een combitransfer (minivan + high-speed ferry) voor 600 THB (ca. €16). Totaal: ongeveer €28–45, flink goedkoper dan direct met Bangkok Airways.
+Niet altijd, maar het kan de aansluiting eenvoudiger maken. Lees wie ieder traject uitvoert en welke hulp je krijgt wanneer een eerder deel vertraging heeft.
 
-### Is de nachtbus naar Koh Samui veilig?
+### Wat is de goedkoopste route?
 
-Ja, het is een bekende route waar duizenden reizigers gebruik van maken. Grote operators zoals Lomprayah rijden moderne, gekoelde bussen. Kies **VIP of eerste klas** voor meer comfort en veiligheid. Houd waardevolle spullen bij je en stop je bagage in het bagageruim op slot.
-
-### Moet ik de trein naar Surat Thani vooraf boeken?
-
-**Absoluut.** Slaapplekken op de nachttrein Bangkok–Surat Thani zijn snel uitverkocht, vooral 2e klas airco in het hoogseizoen (november–februari). Boek minstens 1–2 weken vooraf via [12Go Asia](https://12go.tpo.lv/tNA80urD) of op een station in Thailand.
-
-### Welke ferrymaatschappij is de beste voor Koh Samui?
-
-**Lomprayah** is de populairste keuze — de high-speed catamarans zijn snel (1,5 uur van Don Sak naar Nathon), betrouwbaar en goed aangesloten op bus- en treintransfers. **Seatran Discovery** is een prima middenklasse optie. **Raja Ferry** is het goedkoopst (120 THB vanaf Don Sak) en de enige keuze als je een voertuig meeneemt.
-
-### Kan ik van Koh Samui naar Koh Phangan?
-
-Ja, en makkelijk. Ferries varen meerdere keren per dag tussen Koh Samui en [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) in slechts **30–45 minuten**. Dit is de standaardroute voor bezoekers van de [Full Moon Party op Koh Phangan](https://go2-thailand.com/blog/full-moon-party-koh-phangan-guide-2026/). Lomprayah en Seatran varen beide. Vanaf Koh Phangan kun je ook door naar [Koh Tao](https://go2-thailand.com/islands/koh-tao/) voor wereldklasse duiken.
-
-### Wat is de goedkoopste manier van Bangkok naar Koh Samui?
-
-Het goedkoopst is een **bus + ferry combiticket**, vanaf ongeveer **700–960 THB (€18–25)** voor de hele reis. Het duurt 12–14 uur 's nachts maar brengt je er voor weinig. Trein + ferry is iets duurder op €14–28, maar comfortabeler 's nachts.
-
----
-
-## Tot slot
-
-Van Bangkok naar Koh Samui hoeft niet duur of stressvol te zijn. Of je nu in een uur vliegt, de schilderachtige nachttrein neemt of spaart met bus en ferry — elke optie heeft zijn charme. Veel Nederlandse reizigers combineren deze trip trouwens prima met een directe KLM-vlucht vanaf Schiphol naar Bangkok.
-
-Voor de ultieme Koh Samui-trip combineer je deze gids met onze [complete Koh Samui reisgids](https://go2-thailand.com/city/koh-samui/) en [top-bezienswaardigheden Koh Samui](https://go2-thailand.com/city/koh-samui/top-10-attractions/). Ga je na Samui eilandhoppen? Bekijk onze gids voor [Koh Samui naar Krabi](https://go2-thailand.com/transport/koh-samui-to-krabi/). Blijf je langer? Bekijk onze [Thailand eilandhop-gids](https://go2-thailand.com/blog/thailand-island-hopping-guide/) of de [beste hotels op Koh Samui](https://go2-thailand.com/best-hotels/koh-samui/). Houd ook het [nieuws over de uitbreiding van Koh Samui Airport](https://go2-thailand.com/blog/koh-samui-airport-international-hub-bangkok-airways-2026/) in de gaten nu nieuwe internationale routes in 2026 starten.
-
-Goede reis — we zien je op het strand.
+Dat wisselt per datum en beschikbaarheid. Vergelijk de totale keten inclusief bagage, transfers en vervoer vanaf de pier; alleen het eerste ticket vergelijken geeft een misleidend beeld.

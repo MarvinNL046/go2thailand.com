@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thai-airways-a321neo-fleet-modernization-32-jets-2026",
+  "route": "/nl/blog/thai-airways-a321neo-fleet-modernization-32-jets-2026/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thai Airways A321neo: wat merkt de reiziger?",
+    "description": "Thai Airways zet de A321neo in op korte en middellange routes. Lees wat officieel is bevestigd en waarom het toestel niet je routekeuze bepaalt.",
+    "primaryKeyword": "Thai Airways A321neo",
+    "secondaryKeywords": ["A321neo Thai Airways", "Thai Airways vloot 2026", "Thai Airways regional flights"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thai-airways-a321neo-fleet-modernization-32-jets-2026/"
+  },
+  "hero": {
+    "eyebrow": "Vlootupdate met reizigerscontext",
+    "title": "Thai Airways A321neo",
+    "accent": "Controleer je vlucht, niet alleen het type.",
+    "description": "Het toestel vliegt in de regionale vloot. Een boeking garandeert echter geen specifiek vliegtuig: schema en toestel kunnen wijzigen.",
+    "image": "/images/redesign/editorial/thai-airways-a321neo-fleet-modernization-32-jets-2026-hero.webp",
+    "imageAlt": "Thai Airways-vliegtuig op de luchthaven bij het vallen van de avond",
+    "primaryCta": { "label": "Wat is bevestigd?", "href": "#bevestigd" },
+    "secondaryCta": { "label": "Plan je vlucht", "href": "#reiziger" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "confirmed", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Thai Airways nam de eerste A321neo eind 2025 in ontvangst en zette het type in 2026 op korte en middellange routes in. De totale bestelling telt 32 toestellen; dat betekent niet dat alle 32 in 2026 zijn geleverd.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "bevestigd",
+      "eyebrow": "Feit, geen voorspelling",
+      "title": "Drie punten die officieel zijn onderbouwd",
+      "cards": [
+        { "title": "32 toestellen totaal", "description": "De bestelling omvat 32 A321neo's die gefaseerd worden geleverd, niet allemaal binnen één jaar.", "label": "Vlootplan" },
+        { "title": "Regionale inzet", "description": "Het type ondersteunt korte en middellange verbindingen in Azië.", "label": "Netwerk" },
+        { "title": "Nieuwe cabine", "description": "Thai Airways noemt Royal Silk- en economycabines met modern entertainment en connectiviteit.", "label": "Aan boord" }
+      ]
+    },
+    { "kind": "callout", "id": "reiziger", "tone": "jade", "title": "Vliegtuigtype kan wijzigen", "description": "Kies je vlucht eerst op route, overstap, bagage en ticketvoorwaarden. Een operationele toestelwissel kan ook na boeking plaatsvinden." },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over de Thai Airways A321neo",
+      "items": [
+        { "question": "Kreeg Thai Airways in 2026 alle 32 A321neo's?", "answer": "Nee. De 32 toestellen vormen het totale programma. Thai Airways meldde voor 2026 een deel van de leveringen en een verdere uitrol richting 2028." },
+        { "question": "Heeft de A321neo businessclass?", "answer": "Ja. De officiële vlootpagina noemt 16 Royal Silk-stoelen en 159 economy-stoelen voor de getoonde configuratie." },
+        { "question": "Kun je zeker weten dat jouw vlucht met een A321neo gaat?", "answer": "Nee. Controleer het geplande toestel in je boeking, maar houd rekening met operationele wijzigingen." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële airlinebronnen",
+      "items": [
+        { "title": "THAI welcomes its first Airbus A321neo", "publisher": "Thai Airways", "url": "https://www.thaiairways.com/en-th/content/news-and-announcements/thai-welcomes-its-first-airbus-a321neo/", "checkedAt": "2026-08-01", "note": "Eerste levering en totaalprogramma van 32 toestellen." },
+        { "title": "Airbus A321neo fleet page", "publisher": "Thai Airways", "url": "https://www.thaiairways.com/en-us/content/our-fleet/A321neo/", "checkedAt": "2026-08-01", "note": "Actuele cabine-indeling en vlootstatus." },
+        { "title": "First-quarter 2026 management discussion", "publisher": "Thai Airways Investor Relations", "url": "https://ir.thaiairways.com/wp-content/uploads/2026/05/20260514-thai-mdna-1q2026-EN.pdf", "checkedAt": "2026-08-01", "note": "Operationele ingebruikname en reizigersproduct." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan de route, niet het toestel",
+      "items": [
+        { "title": "Bangkok naar Koh Samui", "description": "Vergelijk een complete binnenlandse routeketen.", "href": "/nl/blog/bangkok-to-koh-samui-guide/" },
+        { "title": "Thailand vervoer", "description": "Kies tussen trein, bus, boot en binnenlandse vlucht.", "href": "/nl/transport/" },
+        { "title": "Bangkok openbaar vervoer", "description": "Plan je luchthaven- en stadsverplaatsingen.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" }
+      ]
+    }
+  ]
+}
