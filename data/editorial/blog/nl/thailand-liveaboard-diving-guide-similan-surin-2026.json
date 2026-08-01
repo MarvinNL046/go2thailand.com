@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-liveaboard-diving-guide-similan-surin-2026",
+  "route": "/nl/blog/thailand-liveaboard-diving-guide-similan-surin-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Liveaboard duiken in Thailand: Similan & Surin",
+    "description": "Plan een Thailand-liveaboard naar Similan, Surin en Richelieu Rock: seizoen, ervaringsniveau, bootveiligheid en boekchecklist.",
+    "primaryKeyword": "liveaboard duiken Thailand",
+    "secondaryKeywords": ["Similan liveaboard", "Surin duiken", "Richelieu Rock liveaboard"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/thailand-liveaboard-diving-guide-similan-surin-2026/"
+  },
+  "hero": {
+    "eyebrow": "Meerdere dagen op zee",
+    "title": "Thailand per liveaboard",
+    "accent": "Kies veiligheid vóór luxe",
+    "description": "De Noord-Andamanzee beloont ervaren duikers, maar afstand, stroming en seizoenssluiting maken voorbereiding belangrijk.",
+    "image": "/images/redesign/editorial/thailand-liveaboard-diving-guide-similan-surin-2026-hero.webp",
+    "imageAlt": "Duiker boven een rif in de heldere Andamanzee met een liveaboard aan de oppervlakte",
+    "primaryCta": { "label": "Kies je route", "href": "#routes" },
+    "secondaryCta": { "label": "Controleer de boot", "href": "#bootcheck" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Een Thailand-liveaboard is vooral geschikt als je comfortabel bent met meerdere duiken per dag, bootnachten en wisselende stroming. Similan en Surin sluiten normaal van 16 mei tot en met 14 oktober; controleer de actuele parkstatus vóór betaling.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "routes",
+      "title": "Welke route past bij je?",
+      "options": [
+        { "title": "Similan", "description": "Granietformaties, riffen en een brede mix aan duikprofielen; vaak onderdeel van een korte of gecombineerde route.", "label": "Variatie" },
+        { "title": "Surin & Richelieu Rock", "description": "Meer afgelegen en regelmatig stromingsgevoeliger; kies op je actuele ervaring, niet op een soortenlijst.", "label": "Remote" },
+        { "title": "Combinatieroute", "description": "Meer dagen en duiken, maar ook meer vermoeidheid. Reserveer een rustdag vóór vliegen.", "label": "Volledig programma" }
+      ]
+    },
+    {
+      "kind": "card-grid",
+      "id": "seizoen",
+      "eyebrow": "Parken bepalen de kalender",
+      "title": "Wanneer kun je gaan?",
+      "cards": [
+        { "title": "15 oktober–15 mei", "description": "Dit is doorgaans de open periode van Mu Ko Similan en Mu Ko Surin." },
+        { "title": "December–maart", "description": "Vaak rustiger zeecondities, maar zicht en stroming blijven dagafhankelijk." },
+        { "title": "16 mei–14 oktober", "description": "Jaarlijkse natuursluiting; boek geen route die de parkregels omzeilt." },
+        { "title": "Geen diergarantie", "description": "Walvishaaien en manta's zijn wilde dieren. Kies nooit een boot op gegarandeerde ontmoetingen." }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "bootcheck",
+      "title": "Vraag dit vóór je aanbetaalt",
+      "items": [
+        "Vaarregistratie, verzekering en de ervaring van kapitein en duikcrew",
+        "Werkende noodzuurstof, EHBO, reddingsvesten en brandblussers",
+        "Communicatiemiddel op afstand en een locatiespecifiek noodplan",
+        "Maximale groepsgrootte, gidsratio en minimumcertificering per duikplek",
+        "Recente parkstatus, inbegrepen parkfees en annuleringsregels bij slecht weer",
+        "Tank, nitrox, huuruitrusting, duikcomputer en surface marker buoy in de prijs"
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "voorbereiden",
+      "title": "Van certificaat naar veilige reis",
+      "steps": [
+        { "title": "Wees eerlijk over ervaring", "description": "Aantal duiken zegt niet alles. Meld wanneer je voor het laatst dook en hoeveel stromingsduiken je hebt gemaakt." },
+        { "title": "Doe zo nodig een refresher", "description": "Oefen drijfvermogen, buddycheck en het oplaten van een DSMB vóór je aan een remote route begint." },
+        { "title": "Plan herstelruimte", "description": "Kom minimaal een dag eerder aan en volg de aanbevolen oppervlakte-interval vóór je terugvlucht." },
+        { "title": "Neem essentiële spullen mee", "description": "Certificeringspas, logboek, duikverzekering, medicatie, signaalmiddelen en goed passende persoonlijke basisuitrusting." }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "prijsbeleid",
+      "tone": "cream",
+      "title": "Vergelijk de actuele totaalprijs",
+      "description": "Een lage vanafprijs kan parkfees, nitrox, huurspullen, transfers en eenpersoons­toeslag missen. Vraag een volledige prijsopgave met datum en voorwaarden; deze pagina toont bewust geen vaste bootprijzen."
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Maak je duikreis compleet",
+      "items": [
+        { "title": "Duiken en snorkelen", "description": "Vergelijk de beste regio's van Thailand.", "href": "/nl/best-diving-snorkeling-in-thailand/" },
+        { "title": "Similan-eilanden", "description": "Praktische eiland- en parkcontext.", "href": "/nl/islands/similan-islands/" },
+        { "title": "Khao Lak", "description": "Handige vertrekbasis voor Noord-Andamanroutes.", "href": "/nl/city/khao-lak/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Kan ik als beginnende Open Water-duiker mee?", "answer": "Sommige routes accepteren beginners, maar stroming en diepte verschillen per plek. Kies een programma dat expliciet bij jouw recente ervaring past." },
+        { "question": "Wanneer zijn Similan en Surin gesloten?", "answer": "De jaarlijkse sluiting is normaal van 16 mei tot en met 14 oktober. Controleer altijd de actuele DNP- of TAT-status." },
+        { "question": "Zijn walvishaaien gegarandeerd?", "answer": "Nee. Geen betrouwbare operator kan een ontmoeting met wilde dieren garanderen." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Park- en duikveiligheidsbronnen",
+      "items": [
+        { "title": "Opening and closing status of national parks", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2023/07/the-latest-opening-and-closing-status-of-thailands-national-parks/", "checkedAt": "2026-08-01" },
+        { "title": "TAT and PADI dive-tourism partnership", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/02/tat-boosts-dive-tourism-through-padi-partnership-under-healing-is-the-new-luxury-campaign/", "checkedAt": "2026-08-01" },
+        { "title": "Dive Boat Safety", "publisher": "Divers Alert Network", "url": "https://dan.org/alert-diver/article/dive-boat-safety/", "checkedAt": "2026-08-01" },
+        { "title": "Travel Smarter: Liveaboard Diving", "publisher": "Divers Alert Network", "url": "https://dan.org/alert-diver/article/travel-smarter-liveaboard-diving/", "checkedAt": "2026-08-01" }
+      ]
+    }
+  ]
+}

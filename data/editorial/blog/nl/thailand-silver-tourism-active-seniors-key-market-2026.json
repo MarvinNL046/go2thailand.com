@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-silver-tourism-active-seniors-key-market-2026",
+  "route": "/nl/blog/thailand-silver-tourism-active-seniors-key-market-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Silver tourism Thailand: trendpagina gearchiveerd",
+    "description": "Deze branchetrend over seniorentoerisme is gearchiveerd. Gebruik onze praktische Thailand-gidsen voor tempo, vervoer en gezondheid.",
+    "primaryKeyword": "gearchiveerde silver tourism Thailand trend",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/thailand-silver-tourism-active-seniors-key-market-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Branchetrend gearchiveerd",
+    "title": "Reizen op jouw tempo",
+    "accent": "Leeftijd is geen reisstijl",
+    "description": "De oude marktsegmentpagina hielp reizigers niet genoeg. Plan liever op mobiliteit, gezondheid, hitte en gewenste rust.",
+    "image": "/images/redesign/editorial/thailand-silver-tourism-active-seniors-key-market-2026-hero.webp",
+    "imageAlt": "Ouder reizigerspaar wandelt over een schaduwrijk en toegankelijk tempelpad in Thailand",
+    "primaryCta": { "label": "Lees praktische reisinformatie", "href": "/nl/practical-info/" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze pagina is gearchiveerd omdat een breed marktlabel geen bruikbaar persoonlijk reisadvies oplevert en de genoemde groeicijfers niet robuust genoeg waren voor een blijvende owner.",
+  "blocks": [
+    { "kind": "callout", "id": "gearchiveerd", "tone": "cream", "title": "Plan op behoeften, niet op leeftijd", "description": "Controleer loopafstanden, trappen, hitte, medicatie, reisverzekering en transfertijd per route. Bespreek persoonlijke gezondheidsvragen met een bevoegde zorgverlener.", "cta": { "label": "Open praktische informatie", "href": "/nl/practical-info/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Contextbronnen", "items": [
+      { "title": "Turning ageing into opportunities", "publisher": "Thailand Development Research Institute", "url": "https://tdri.or.th/en/2026/01/turning-ageing-into-opportunities/", "checkedAt": "2026-08-01", "note": "Economische context; geen individuele reisaanbeveling." },
+      { "title": "A guide on safe food for travellers", "publisher": "World Health Organization", "url": "https://www.who.int/docs/default-source/wpro---documents/posters/food-safety/guide-safe-food-for-travellers.pdf?sfvrsn=6d0d3448_2", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

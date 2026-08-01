@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tourism-competition-vietnam-regional-rivals-2026",
+  "route": "/nl/blog/thailand-tourism-competition-vietnam-regional-rivals-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand-Vietnam toerismevergelijking samengevoegd",
+    "description": "Deze brancheanalyse is samengevoegd met onze praktische vergelijking tussen Thailand en Vietnam voor reizigers.",
+    "primaryKeyword": "gearchiveerde Thailand Vietnam toerismevergelijking",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/thailand-tourism-competition-vietnam-regional-rivals-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Vergelijking samengebracht",
+    "title": "Thailand of Vietnam?",
+    "accent": "Kies op reisvorm",
+    "description": "Bezoekersaantallen bepalen niet welk land bij jou past. Onze hoofdvergelijking kijkt naar route, vervoer, kust en tempo.",
+    "image": "/images/redesign/editorial/thailand-tourism-competition-vietnam-regional-rivals-2026-hero.webp",
+    "imageAlt": "Reisbeeld dat een Thaise baai en een Vietnamese historische rivierstad samenbrengt",
+    "primaryCta": { "label": "Vergelijk Thailand en Vietnam", "href": "/nl/blog/thailand-vs-vietnam-which-country-visit-2026/" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze nieuwsroute is gearchiveerd omdat de bestaande Thailand-versus-Vietnam-owner dezelfde keuzevraag vollediger en blijvender beantwoordt.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Ga naar de praktische vergelijking", "description": "Vergelijk de twee landen op routevorm, afstanden, steden en eilandkeuze zonder een winnaar af te leiden uit tijdelijke bezoekerscijfers.", "cta": { "label": "Open Thailand of Vietnam", "href": "/nl/blog/thailand-vs-vietnam-which-country-visit-2026/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Contextbronnen", "items": [
+      { "title": "Thailand tourism outlook recalibrated", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/04/tat-refocuses-on-value-over-volume-as-2026-tourism-outlook-is-recalibrated/", "checkedAt": "2026-08-01" },
+      { "title": "Vietnam transport planning", "publisher": "Vietnam Tourism", "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

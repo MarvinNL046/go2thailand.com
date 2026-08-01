@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T01:29:46.102Z",
+  "generatedAt": "2026-08-01T01:38:15.537Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 667,
       "hybrid": 0,
       "noSignature": 33,
-      "exactOwners": 484,
+      "exactOwners": 488,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 105,
       "amazonLinks": 230,
-      "provisionalInventoryDecisions": 98,
+      "provisionalInventoryDecisions": 91,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -702,24 +702,24 @@
       "closed": true
     },
     "nl:editorial": {
-      "definition": "The Dutch editorial family is in progress. The blog hub and 154 independently reviewed article owners use the typed premium editorial system or a registered specialized renderer with typed evidence. Forty-eight overlapping, price-led, superseded or elapsed owners are archived with noindex; seventeen exact duplicates also redirect permanently to established NL owners. Every remaining article still requires an explicit update, consolidation or retire decision.",
+      "definition": "The Dutch editorial family is in progress. The blog hub and 161 independently reviewed article owners use the typed premium editorial system or a registered specialized renderer with typed evidence. Fifty-one overlapping, price-led, superseded or elapsed owners are archived with noindex; eighteen exact duplicates also redirect permanently to established NL owners. Every remaining article still requires an explicit update, consolidation or retire decision.",
       "expected": 253,
-      "complete": 155,
-      "exactOwners": 108,
-      "remainingCount": 98,
+      "complete": 162,
+      "exactOwners": 112,
+      "remainingCount": 91,
       "remaining": [
         "/nl/blog/koh-kood-quiet-island-guide-trat-2026/",
-        "/nl/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/",
-        "/nl/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/",
-        "/nl/blog/thailand-liveaboard-diving-guide-similan-surin-2026/",
-        "/nl/blog/thailand-low-season-tourism-stimulus-tax-breaks-2026/",
-        "/nl/blog/thailand-quietcation-trend-tranquil-travel-2026/",
-        "/nl/blog/thailand-silver-tourism-active-seniors-key-market-2026/",
-        "/nl/blog/thailand-tourism-competition-vietnam-regional-rivals-2026/",
         "/nl/blog/thailand-tourism-festival-2026-5-must-do-food-culture-highlights/",
         "/nl/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/",
         "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/",
-        "/nl/blog/thailand-tourism-growth-target-2026-recovery-after-2025-decline/"
+        "/nl/blog/thailand-tourism-growth-target-2026-recovery-after-2025-decline/",
+        "/nl/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/",
+        "/nl/blog/thailand-visa-run-era-ending-2026-expat-guide/",
+        "/nl/blog/the-new-thailand-itb-berlin-2026-sustainable-wellness-tourism/",
+        "/nl/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/",
+        "/nl/blog/voco-bangkok-surawong-ihg-first-thailand-opening-2026/",
+        "/nl/blog/wildlife-conservation-volunteering-thailand-2026-turtles-elephants/",
+        "/nl/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/"
       ],
       "remainingTruncated": true,
       "evidence": [
@@ -771,7 +771,9 @@
         "seo/audits/nl-editorial-culture-stays-experiences-batch-17-2026-08-01.md",
         "seo/research/nl/2026-08-01-editorial-culture-stays-experiences-batch-17-current-web.md",
         "seo/audits/nl-editorial-attractions-airlines-food-events-batch-18-2026-08-01.md",
-        "seo/research/nl/2026-08-01-editorial-attractions-airlines-food-events-batch-18-current-web.md"
+        "seo/research/nl/2026-08-01-editorial-attractions-airlines-food-events-batch-18-current-web.md",
+        "seo/audits/nl-editorial-sustainability-food-dive-trends-batch-19-2026-08-01.md",
+        "seo/research/nl/2026-08-01-editorial-sustainability-food-dive-trends-batch-19-current-web.md"
       ],
       "closed": false
     },
@@ -8444,12 +8446,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -8486,12 +8488,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -8500,12 +8502,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -8514,12 +8516,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -8542,12 +8544,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -8556,12 +8558,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -8570,12 +8572,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",

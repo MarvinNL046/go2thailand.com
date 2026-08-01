@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-jay-food-vegan-street-guide-yellow-flag-2026",
+  "route": "/nl/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Jay food in Thailand: herken de gele เจ-vlag",
+    "description": "Leer jay food herkennen, bestel plantaardig in het Thais en voorkom misverstanden rond vissaus, allergenen en kruiscontact.",
+    "primaryKeyword": "jay food Thailand",
+    "secondaryKeywords": ["gele vlag vegan Thailand", "เจ eten Thailand", "plantaardig eten Thailand"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/"
+  },
+  "hero": {
+    "eyebrow": "Eten zonder giswerk",
+    "title": "Zo herken je jay food",
+    "accent": "Volg de gele เจ-vlag",
+    "description": "Jay is een Chinees-Thaise eettraditie met strengere regels dan westers vegan eten. Dit moet je weten vóór je bestelt.",
+    "image": "/images/redesign/editorial/thailand-jay-food-vegan-street-guide-yellow-flag-2026-hero.webp",
+    "imageAlt": "Thaise jay-eetkraam met plantaardige gerechten en een gele vlag met rode เจ-tekens",
+    "primaryCta": { "label": "Leer het verschil", "href": "#verschil" },
+    "secondaryCta": { "label": "Bewaar de bestelzinnen", "href": "#bestellen" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "overview", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Jay (เจ) is een Chinees-Thaise religieuze eetwijze zonder dierlijke ingrediënten en meestal ook zonder vijf sterk ruikende planten, waaronder knoflook en ui. Zoek de gele vlag met rode เจ-tekens, maar bespreek ernstige allergieën afzonderlijk: jay is geen allergenencertificaat.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "verschil",
+      "title": "Jay is niet hetzelfde als vegetarisch",
+      "options": [
+        { "title": "เจ · jay", "description": "Geen vlees, vis, ei of zuivel; traditioneel ook geen knoflook, ui, prei, bieslook en sjalot.", "label": "Strikte traditie" },
+        { "title": "มังสวิรัติ · mangsawirat", "description": "Vegetarisch in bredere zin; ei en zuivel kunnen wel voorkomen en sauzen vragen extra controle.", "label": "Vegetarisch" }
+      ]
+    },
+    {
+      "kind": "card-grid",
+      "id": "vinden",
+      "eyebrow": "Aan kraam of buffet",
+      "title": "Zo herken en kies je",
+      "cards": [
+        { "title": "Gele เจ-vlag", "description": "Het duidelijkste herkenningsteken bij kraampjes, restaurants en verpakte producten." },
+        { "title": "Rijst met toppings", "description": "Wijs gerechten aan bij een jay-buffet en vraag welke niet pittig zijn." },
+        { "title": "Festivalperiode", "description": "Tijdens de negende Chinese maanmaand groeit het aanbod sterk, vooral in Phuket en Chinees-Thaise wijken." },
+        { "title": "Ook buiten het festival", "description": "Zoek in Maps op อาหารเจ of vraag naar raan ahaan jay; vaste zaken zijn het hele jaar open." }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "bestellen",
+      "title": "Zinnen om op je telefoon te bewaren",
+      "items": [
+        "กินเจ — gin jay — ik eet jay",
+        "ไม่ใส่น้ำปลา — mai sai nam pla — geen vissaus",
+        "ไม่ใส่ไข่ — mai sai khai — geen ei",
+        "แพ้ถั่ว — phae thua — allergisch voor noten of pinda's; wijs het specifieke allergeen aan",
+        "Vraag bij een ernstige allergie ook naar dezelfde wok, lepel, snijplank en frituurolie"
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "allergenen",
+      "tone": "warning",
+      "title": "Jay betekent niet allergeenvrij",
+      "description": "Soja, pinda, noten, gluten en sesam komen veel voor. Ook kruiscontact via wok, tang of frituurolie blijft mogelijk. Vertrouw bij een ernstige allergie niet uitsluitend op de vlag of het woord jay."
+    },
+    {
+      "kind": "steps",
+      "id": "veilig-kiezen",
+      "title": "Een praktische bestelroutine",
+      "steps": [
+        { "title": "Toon het เจ-teken", "description": "Dat voorkomt uitspraakverwarring en brengt je sneller bij het juiste aanbod." },
+        { "title": "Noem je grens apart", "description": "Zeg vegan, vegetarisch of allergisch niet alsof die woorden onderling uitwisselbaar zijn." },
+        { "title": "Vraag naar sauzen", "description": "Buiten een toegewijde jay-keuken kunnen vissaus, oestersaus en garnalenpasta verborgen ingrediënten zijn." },
+        { "title": "Kies vers en heet", "description": "Gebruik de WHO-basisregels: schoon, goed verhit en niet lang lauw bewaard." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "meer-eten",
+      "title": "Verder eten in Thailand",
+      "items": [
+        { "title": "Thaise keuken uitgelegd", "description": "Leer smaken, sauzen en gangbare ingrediënten kennen.", "href": "/nl/blog/what-is-thai-food-cuisine-guide/" },
+        { "title": "Streetfood in Bangkok", "description": "Kies een wijk en markt die bij je avond past.", "href": "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/" },
+        { "title": "Food safety", "description": "Praktische keuzes bij kraampjes, markten en restaurants.", "href": "/nl/blog/thailand-street-food-safety-guide-avoid-getting-sick/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is jay altijd vegan?", "answer": "De traditionele jay-regels sluiten dierlijke ingrediënten uit. Vraag bij een gemengde keuken toch hoe het gerecht en de sauzen zijn bereid." },
+        { "question": "Waarom bevat jay geen knoflook en ui?", "answer": "De religieuze traditie vermijdt vijf sterk ruikende planten. Daardoor is jay strenger dan een westers vegan dieet." },
+        { "question": "Is de gele vlag veilig bij een pinda- of soja-allergie?", "answer": "Nee. De vlag zegt iets over de jay-eetregels, niet over allergenen of kruiscontact." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Cultuur- en veiligheidsbronnen",
+      "items": [
+        { "title": "Southern Vegetarian Festival", "publisher": "Tourism Authority of Thailand", "url": "https://thai.tourismthailand.org/Articles/vegetarian-festival-24", "checkedAt": "2026-08-01" },
+        { "title": "Five keys to safer food", "publisher": "World Health Organization", "url": "https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food", "checkedAt": "2026-08-01" },
+        { "title": "Klanten informeren over allergenen", "publisher": "Nederlandse Voedsel- en Warenautoriteit", "url": "https://www.nvwa.nl/onderwerpen/voedselveiligheid/voedselveilig-werken-in-horeca-ambacht-en-retail/hoe-werk-ik-veilig/allergenen", "checkedAt": "2026-08-01", "note": "Gebruikt voor de uitleg dat een voedingsstijl geen allergenengarantie vormt." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-low-season-tourism-stimulus-tax-breaks-2026",
+  "route": "/nl/blog/thailand-low-season-tourism-stimulus-tax-breaks-2026/",
+  "cluster": "planning",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thaise low-season belastingmaatregel gearchiveerd",
+    "description": "Deze tijdelijke binnenlandse belastingmaatregel is gearchiveerd. Plan het groene seizoen via actuele weer- en regiogidsen.",
+    "primaryKeyword": "gearchiveerde Thailand toerismestimulus",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/thailand-low-season-tourism-stimulus-tax-breaks-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Tijdelijke maatregel",
+    "title": "Low-season stimuluspakket",
+    "accent": "Niet voor Nederlandse vakantiegangers",
+    "description": "De oude nieuwspagina ging over Thaise belastingregels en vormt geen blijvende boek- of planningsgids.",
+    "image": "/images/redesign/editorial/thailand-low-season-tourism-stimulus-tax-breaks-2026-hero.webp",
+    "imageAlt": "Thaise trein op een rustig perron tijdens een bui in het groene seizoen",
+    "primaryCta": { "label": "Plan per seizoen", "href": "/nl/weather/" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze tijdelijke belasting- en stimulustekst is gearchiveerd: de regeling was gericht op binnenlandse Thaise uitgaven en geeft Nederlandse reizigers geen boekingsvoordeel.",
+  "blocks": [
+    { "kind": "callout", "id": "gearchiveerd", "tone": "cream", "title": "Plan op seizoen, niet op een oude fiscale actie", "description": "Gebruik actuele weerinformatie en controleer live voorwaarden bij je aanbieder. Oude aftrekbedragen en campagneperiodes zijn geen betrouwbare reisbasis.", "cta": { "label": "Bekijk Thailand per seizoen", "href": "/nl/weather/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Archief- en seizoensbronnen", "items": [
+      { "title": "Blooming and Bright Amazing Thailand", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/07/tat-invites-travellers-to-discover-blooming-and-bright-amazing-thailand/", "checkedAt": "2026-08-01" },
+      { "title": "Domestic tourism tax-measure archive", "publisher": "Ministry of Finance Thailand", "url": "https://www.mof.go.th/news/104812/", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}
