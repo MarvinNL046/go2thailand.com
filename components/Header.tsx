@@ -30,7 +30,7 @@ export default function Header() {
       <header className={`hidden lg:block ${hasOverlayHeader ? 'absolute inset-x-0 top-[30px] z-50 border-b border-white/45 bg-white/45 backdrop-blur-md' : 'sticky top-0 z-50 border-b border-jade/10 bg-ivory/95 backdrop-blur-xl'}`}>
         <nav className="container-custom flex h-[76px] items-center justify-between">
           <Link href="/" className="flex shrink-0 items-center transition-transform hover:scale-[1.02]" aria-label="Go2 Thailand home">
-            <Image src="/images/brand/go2thailand-logo-2026.png" alt="Go2 Thailand" width={108} height={72} priority className="h-[64px] w-[96px] object-contain" />
+            <Image src="/images/brand/go2thailand-logo-2026.png" alt="Go2 Thailand" width={108} height={72} className="h-[64px] w-[96px] object-contain" />
           </Link>
 
           <div className="flex items-center gap-8">
