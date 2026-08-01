@@ -393,7 +393,7 @@ export function BangkokDestinationOverview({ activitiesHref, hotelsHref, transpo
         <div className="container-custom flex flex-col gap-5 text-[10px] leading-5 text-charcoal/52 lg:flex-row lg:items-start lg:justify-between">
           <div className="max-w-3xl">
             <p className="font-bold uppercase tracking-[0.18em] text-jade">Editorial method</p>
-            <p className="mt-2">This owner separates broad destination decisions from live venue, weather, hotel and transport inventory. Official destination material, current English SERPs and specialist transport or itinerary sources inform the structure; users should verify changing access and service details with the operator.</p>
+            <p className="mt-2">This guide separates broad destination decisions from live venue, weather, hotel and transport inventory. Official destination material, current English SERPs and specialist transport or itinerary sources inform the structure; users should verify changing access and service details with the operator.</p>
           </div>
           <div className="flex flex-wrap gap-x-4 gap-y-2 font-bold text-jade">
             <a href="https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219" target="_blank" rel="noopener noreferrer nofollow" className="hover:text-saffron-dark">Tourism Authority of Thailand</a>
