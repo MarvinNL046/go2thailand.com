@@ -26,6 +26,7 @@ interface RelatedPostsProps {
 
 export default function RelatedPosts({ posts, prevPost, nextPost, locale = 'en' }: RelatedPostsProps) {
   const heading = locale === 'nl' ? 'Anderen lezen ook' : 'People Also Read';
+  const blogHref = (slug: string) => `${locale === 'nl' ? '/nl' : ''}/blog/${slug}/`;
 
   return (
     <section className="py-12 bg-gray-50">
@@ -35,7 +36,7 @@ export default function RelatedPosts({ posts, prevPost, nextPost, locale = 'en' 
           <div className="flex flex-col sm:flex-row justify-between gap-4 mb-10">
             {prevPost ? (
               <Link
-                href={`/blog/${prevPost.slug}/`}
+                href={blogHref(prevPost.slug)}
                 className="group flex-1 bg-white rounded-xl p-4 shadow-sm hover:shadow-md transition-shadow"
               >
                 <span className="text-xs text-gray-500 uppercase tracking-wide">
@@ -48,7 +49,7 @@ export default function RelatedPosts({ posts, prevPost, nextPost, locale = 'en' 
             ) : <div className="flex-1" />}
             {nextPost ? (
               <Link
-                href={`/blog/${nextPost.slug}/`}
+                href={blogHref(nextPost.slug)}
                 className="group flex-1 bg-white rounded-xl p-4 shadow-sm hover:shadow-md transition-shadow text-right"
               >
                 <span className="text-xs text-gray-500 uppercase tracking-wide">
@@ -72,7 +73,7 @@ export default function RelatedPosts({ posts, prevPost, nextPost, locale = 'en' 
               {posts.slice(0, 3).map((post) => (
                 <Link
                   key={post.slug}
-                  href={`/blog/${post.slug}/`}
+                  href={blogHref(post.slug)}
                   className="group bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col"
                 >
                   <div className="relative w-full h-48 flex-shrink-0">

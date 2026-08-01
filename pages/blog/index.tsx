@@ -54,9 +54,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
   const lang = locale === 'nl' ? 'nl' : 'en';
   const isNl = lang === 'nl';
 
-  if (isNl) {
-    return <NlBlogHub posts={posts} categories={categories} />;
-  }
+  return <NlBlogHub posts={posts} categories={categories} locale={lang} />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

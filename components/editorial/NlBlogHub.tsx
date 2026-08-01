@@ -33,6 +33,7 @@ export interface NlBlogHubPost {
 interface NlBlogHubProps {
   posts: NlBlogHubPost[];
   categories: string[];
+  locale?: 'nl' | 'en';
 }
 
 const pageSize = 12;
@@ -51,6 +52,23 @@ const categoryLabels: Record<string, string> = {
   transport: 'Vervoer',
   travel: 'Reisinspiratie',
   'travel-planning': 'Reisplanning',
+  wellness: 'Wellness',
+};
+
+const categoryLabelsEn: Record<string, string> = {
+  all: 'All',
+  attractions: 'Attractions',
+  culture: 'Culture',
+  events: 'Events',
+  food: 'Food & drink',
+  hotels: 'Places to stay',
+  islands: 'Islands',
+  news: 'News',
+  planning: 'Trip planning',
+  safety: 'Travel safety',
+  transport: 'Transport',
+  travel: 'Travel inspiration',
+  'travel-planning': 'Trip planning',
   wellness: 'Wellness',
 };
 
@@ -78,20 +96,22 @@ const editorialDoors = [
   },
 ];
 
-function labelForCategory(category: string): string {
-  return categoryLabels[category.toLowerCase()] || category.replace(/-/g, ' ');
+function labelForCategory(category: string, locale: 'nl' | 'en' = 'nl'): string {
+  const labels = locale === 'nl' ? categoryLabels : categoryLabelsEn;
+  return labels[category.toLowerCase()] || category.replace(/-/g, ' ');
 }
 
-function readableDate(value: string): string {
+function readableDate(value: string, locale: 'nl' | 'en' = 'nl'): string {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return value;
-  return new Intl.DateTimeFormat('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' }).format(date);
+  return new Intl.DateTimeFormat(locale === 'nl' ? 'nl-NL' : 'en-GB', { day: 'numeric', month: 'long', year: 'numeric' }).format(date);
 }
 
-function BlogCard({ post }: { post: NlBlogHubPost }) {
+function BlogCard({ post, locale }: { post: NlBlogHubPost; locale: 'nl' | 'en' }) {
+  const href = `${locale === 'nl' ? '/nl' : ''}/blog/${post.slug}/`;
   return (
     <article className="group flex min-h-[520px] flex-col overflow-hidden rounded-[24px] border border-jade/10 bg-white shadow-editorial-card transition hover:-translate-y-1 hover:shadow-editorial-lift">
-      <Link href={`/blog/${post.slug}/`} className="relative block h-60 overflow-hidden">
+      <Link href={href} className="relative block h-60 overflow-hidden">
         <Image
           src={post.image}
           alt=""
@@ -101,28 +121,36 @@ function BlogCard({ post }: { post: NlBlogHubPost }) {
         />
         <div className="absolute inset-0 bg-gradient-to-t from-jade/40 via-transparent to-transparent" />
         <span className="absolute bottom-4 left-4 rounded-full border border-white/25 bg-jade/78 px-3 py-1 text-[9px] font-extrabold uppercase tracking-[.13em] text-white backdrop-blur-sm">
-          {labelForCategory(post.category)}
+          {labelForCategory(post.category, locale)}
         </span>
       </Link>
       <div className="flex flex-1 flex-col p-6">
         <div className="flex items-center gap-3 text-[10px] font-semibold text-charcoal/48">
-          <span>{readableDate(post.date)}</span>
+          <span>{readableDate(post.date, locale)}</span>
           <span aria-hidden="true">·</span>
-          <span>{post.readingTime || 1} min lezen</span>
+          <span>{post.readingTime || 1} {locale === 'nl' ? 'min lezen' : 'min read'}</span>
         </div>
         <h2 className="mt-5 font-display text-[1.75rem] font-semibold leading-[1.02] text-jade">
-          <Link href={`/blog/${post.slug}/`} className="transition hover:text-saffron-dark">{post.title}</Link>
+          <Link href={href} className="transition hover:text-saffron-dark">{post.title}</Link>
         </h2>
         <p className="mt-4 line-clamp-3 text-xs font-medium leading-6 text-charcoal/62">{post.description}</p>
-        <Link href={`/blog/${post.slug}/`} className="mt-auto inline-flex min-h-11 items-center gap-2 pt-6 text-[10px] font-extrabold text-jade">
-          Lees de gids <ArrowRight size={13} className="text-saffron-dark" aria-hidden="true" />
+        <Link href={href} className="mt-auto inline-flex min-h-11 items-center gap-2 pt-6 text-[10px] font-extrabold text-jade">
+          {locale === 'nl' ? 'Lees de gids' : 'Read the guide'} <ArrowRight size={13} className="text-saffron-dark" aria-hidden="true" />
         </Link>
       </div>
     </article>
   );
 }
 
-export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
+export default function NlBlogHub({ posts, categories, locale = 'nl' }: NlBlogHubProps) {
+  const isNl = locale === 'nl';
+  const blogHref = (slug: string) => `${isNl ? '/nl' : ''}/blog/${slug}/`;
+  const localHref = (path: string) => isNl ? `/nl${path}` : path;
+  const copy = isNl ? {
+    seoTitle: 'Thailand blog: gidsen, reisplanning en actuele uitleg', seoDescription: 'Lees Nederlandse Thailand-gidsen over routes, bestemmingen, eten, cultuur en actuele reisvragen. Met bronchecks en duidelijke grenzen voor veranderlijke informatie.', heroAlt: 'Redactionele reisplanning met Thailand-kaart, longtailboot en landschap', breadcrumbsHome: 'Thailand', breadcrumbsBlog: 'Reisblog', heroEyebrow: 'Van inspiratie naar een beter besluit', heroTitle: <>Thailand lezen.<br /><span className="text-saffron-light">Slimmer reizen.</span></>, heroDescription: 'Geen losse lijst met virale tips. Hier verbinden we reisideeën met routekeuze, actuele checks en de gids die het onderwerp echt bezit.', latest: 'Bekijk de nieuwste gidsen', choose: 'Kies een startpunt', navLabel: 'Op deze pagina', starts: 'Startpunten', allGuides: 'Alle gidsen', method: 'Onze werkwijze', startEyebrow: 'Eerst je hoofdvraag', startTitle: 'Drie sterke startpunten', startDescription: 'Gebruik een artikel voor verdieping. Gebruik een ownerpagina wanneer je een bestemming, route of concrete reisbeslissing moet kiezen.', door1: 'Een route kiezen', door1Copy: 'Begin bij reistijd, tempo en regio voordat losse tips je planning bepalen.', door2: 'Bestemmingen vergelijken', door2Copy: 'Vind de plek die past bij strand, stad, natuur of een rustige uitvalsbasis.', door3: 'Thailand proeven', door3Copy: 'Leer gerechten en regio’s kennen en ga daarna door naar lokale foodgidsen.', openChoice: 'Open de keuzehulp', archiveEyebrow: 'Zoek in het archief', archiveTitle: 'Gidsen, uitleg en actuele dossiers', archiveDescription: 'Tijdgevoelige artikelen krijgen een zichtbare datum en live-checkgrens. Evergreen gidsen verwijzen door naar de juiste beslispagina.', searchLabel: 'Zoek een artikel', searchPlaceholder: 'Zoek op bestemming, onderwerp of reisvraag', filterLabel: 'Filter artikelen op categorie', newDossier: 'Nieuw in het dossier', readArticle: 'Lees het artikel', noGuide: 'Geen gids gevonden', noGuideCopy: 'Probeer een bredere zoekterm of kies ‘Alles’.', previous: 'Vorige', next: 'Volgende', page: 'Pagina', fullIndexEyebrow: 'Volledige publicatie-index', fullIndexTitle: 'Iedere gids heeft een vaste ingang', fullIndexDescription: 'Open per onderwerp de complete, indexeerbare collectie. Zo blijven ook oudere maar nog actuele dossiers rechtstreeks bereikbaar zonder door een zoekfilter te hoeven gaan.', fullIndexNote: 'Verlopen of samengevoegde artikelen staan niet in deze index. Zij blijven alleen als transparant archief bereikbaar of verwijzen naar hun definitieve owner.', guides: 'gidsen', methodEyebrow: 'Onze redactionele grens', methodTitle: 'Een datum is geen garantie.', methodDescription: 'Nieuws, prijzen, tickets, routes en regels kunnen veranderen. Daarom scheiden we stabiele keuzehulp van informatie die je op de bezoekdag opnieuw moet controleren.', principles: [['Bron boven samenvatting', 'Belangrijke actuele claims horen terug te leiden naar een controleerbare bron.'], ['Owner boven dubbel artikel', 'Bij dezelfde zoekintentie verwijst één sterke pagina door; we houden geen tweede zwakke winnaar in leven.'], ['Prijs als live check', 'We tonen geen oude vanafprijs alsof die vandaag nog geldt.'], ['Affiliate na uitleg', 'Een commerciële uitgang volgt pas wanneer de gratis keuzehulp het besluit al heeft verduidelijkt.']], schemaName: 'GO2 Thailand reisblog', schemaDescription: 'Nederlandse Thailand-gidsen, reisplanning en actuele redactionele uitleg met zichtbare bron- en actualiteitsgrenzen.', inLanguage: 'nl-NL', blogName: 'Reisblog', schemaList: 'Nieuwe artikelen van GO2 Thailand',
+  } : {
+    seoTitle: 'Thailand travel blog: guides, planning and practical advice', seoDescription: 'Read practical Thailand travel guides covering routes, destinations, food, culture and current travel questions, with source checks and clear freshness notes.', heroAlt: 'Editorial travel planning with a Thailand map, longtail boat and landscape', breadcrumbsHome: 'Thailand', breadcrumbsBlog: 'Travel blog', heroEyebrow: 'From inspiration to a better decision', heroTitle: <>Read Thailand.<br /><span className="text-saffron-light">Travel smarter.</span></>, heroDescription: 'More than a list of viral tips. We connect travel ideas with route choices, current checks and the guide that truly owns the question.', latest: 'Browse the latest guides', choose: 'Choose a starting point', navLabel: 'On this page', starts: 'Starting points', allGuides: 'All guides', method: 'Our approach', startEyebrow: 'Start with your question', startTitle: 'Three strong starting points', startDescription: 'Use an article for depth. Use an owner page when you need to choose a destination, route or concrete travel option.', door1: 'Choose a route', door1Copy: 'Start with travel time, pace and region before individual tips shape your plan.', door2: 'Compare destinations', door2Copy: 'Find the place that fits beaches, cities, nature or a quieter base.', door3: 'Taste Thailand', door3Copy: 'Learn the dishes and regions, then continue to local food guides.', openChoice: 'Open the trip planner', archiveEyebrow: 'Search the archive', archiveTitle: 'Guides, explainers and current dossiers', archiveDescription: 'Time-sensitive articles show a visible date and freshness boundary. Evergreen guides point to the right decision page.', searchLabel: 'Search articles', searchPlaceholder: 'Search by destination, topic or travel question', filterLabel: 'Filter articles by category', newDossier: 'New in the dossier', readArticle: 'Read the article', noGuide: 'No guide found', noGuideCopy: 'Try a broader search term or choose “All”.', previous: 'Previous', next: 'Next', page: 'Page', fullIndexEyebrow: 'Full publication index', fullIndexTitle: 'Every guide has a clear entry point', fullIndexDescription: 'Open the complete, indexable collection by topic. Older but still useful dossiers stay directly reachable without relying on a search filter.', fullIndexNote: 'Expired or merged articles are not duplicated in this index. They remain available as a transparent archive or point to their definitive owner.', guides: 'guides', methodEyebrow: 'Our editorial boundary', methodTitle: 'A date is not a guarantee.', methodDescription: 'News, prices, tickets, routes and rules can change. We separate stable decision help from information you should check again on the day.', principles: [['Sources before summaries', 'Important current claims should lead back to a source you can verify.'], ['Owner pages over duplicate articles', 'One strong page should own an intent; we do not keep a weaker duplicate alive.'], ['Prices as live checks', 'We never present an old starting price as if it were guaranteed today.'], ['Affiliate after explanation', 'A commercial next step comes only after the free guidance has clarified the decision.']], schemaName: 'GO2 Thailand travel blog', schemaDescription: 'Thailand travel guides, planning and current editorial explainers with visible source and freshness boundaries.', inLanguage: 'en-GB', blogName: 'Travel blog', schemaList: 'Latest GO2 Thailand articles',
+  };
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
   const [page, setPage] = useState(1);
@@ -133,13 +161,13 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
   );
 
   const filteredPosts = useMemo(() => {
-    const query = searchQuery.trim().toLocaleLowerCase('nl-NL');
+    const query = searchQuery.trim().toLocaleLowerCase(locale === 'nl' ? 'nl-NL' : 'en-GB');
     return posts.filter((post) => {
       if (selectedCategory !== 'all' && post.category !== selectedCategory) return false;
       if (!query) return true;
-      return `${post.title} ${post.description} ${post.tags.join(' ')}`.toLocaleLowerCase('nl-NL').includes(query);
+      return `${post.title} ${post.description} ${post.tags.join(' ')}`.toLocaleLowerCase(locale === 'nl' ? 'nl-NL' : 'en-GB').includes(query);
     });
-  }, [posts, searchQuery, selectedCategory]);
+  }, [posts, searchQuery, selectedCategory, locale]);
 
   const totalPages = Math.max(1, Math.ceil(filteredPosts.length / pageSize));
   const safePage = Math.min(page, totalPages);
@@ -148,35 +176,35 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
   const postsByCategory = useMemo(() => {
     const grouped = new Map<string, NlBlogHubPost[]>();
     for (const post of posts) grouped.set(post.category, [...(grouped.get(post.category) || []), post]);
-    return [...grouped.entries()].sort(([left], [right]) => labelForCategory(left).localeCompare(labelForCategory(right), 'nl-NL'));
-  }, [posts]);
+    return [...grouped.entries()].sort(([left], [right]) => labelForCategory(left, locale).localeCompare(labelForCategory(right, locale), locale === 'nl' ? 'nl-NL' : 'en-GB'));
+  }, [posts, locale]);
 
   const schemas = [
     {
       '@context': 'https://schema.org',
       '@type': 'Blog',
-      name: 'GO2 Thailand reisblog',
-      description: 'Nederlandse Thailand-gidsen, reisplanning en actuele redactionele uitleg met zichtbare bron- en actualiteitsgrenzen.',
-      url: 'https://go2-thailand.com/nl/blog/',
-      inLanguage: 'nl-NL',
-      publisher: { '@type': 'Organization', name: 'GO2 Thailand', url: 'https://go2-thailand.com/nl/' },
+      name: copy.schemaName,
+      description: copy.schemaDescription,
+      url: `https://go2-thailand.com${localHref('/blog/')}`,
+      inLanguage: copy.inLanguage,
+      publisher: { '@type': 'Organization', name: 'GO2 Thailand', url: `https://go2-thailand.com${localHref('/')}` },
     },
     {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Thailand', item: 'https://go2-thailand.com/nl/' },
-        { '@type': 'ListItem', position: 2, name: 'Reisblog', item: 'https://go2-thailand.com/nl/blog/' },
+        { '@type': 'ListItem', position: 1, name: copy.breadcrumbsHome, item: `https://go2-thailand.com${localHref('/')}` },
+        { '@type': 'ListItem', position: 2, name: copy.breadcrumbsBlog, item: `https://go2-thailand.com${localHref('/blog/')}` },
       ],
     },
     {
       '@context': 'https://schema.org',
       '@type': 'ItemList',
-      name: 'Nieuwe artikelen van GO2 Thailand',
+      name: copy.schemaList,
       itemListElement: posts.slice(0, 12).map((post, index) => ({
         '@type': 'ListItem',
         position: index + 1,
-        url: `https://go2-thailand.com/nl/blog/${post.slug}/`,
+        url: `https://go2-thailand.com${blogHref(post.slug)}`,
         name: post.title,
       })),
     },
@@ -195,8 +223,8 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
   return (
     <>
       <SEOHead
-        title="Thailand blog: gidsen, reisplanning en actuele uitleg"
-        description="Lees Nederlandse Thailand-gidsen over routes, bestemmingen, eten, cultuur en actuele reisvragen. Met bronchecks en duidelijke grenzen voor veranderlijke informatie."
+        title={copy.seoTitle}
+        description={copy.seoDescription}
         ogImage="https://go2-thailand.com/images/redesign/thailand-editorial-blog-hub-hero.webp"
       >
         {schemas.map((schema, index) => (
@@ -204,17 +232,17 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
         ))}
       </SEOHead>
 
-      <div data-premium-template="nl-blog-hub" className="overflow-hidden bg-canvas text-charcoal">
+      <div data-premium-template={`${isNl ? 'nl' : 'en'}-blog-hub`} className="overflow-hidden bg-canvas text-charcoal">
         <EditorialHero
           image="/images/redesign/thailand-editorial-blog-hub-hero.webp"
-          imageAlt="Redactionele reisplanning met Thailand-kaart, longtailboot en landschap"
-          breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: 'Reisblog' }]}
-          eyebrow="Van inspiratie naar een beter besluit"
-          title={<>Thailand lezen.<br /><span className="text-saffron-light">Slimmer reizen.</span></>}
-          description="Geen losse lijst met virale tips. Hier verbinden we reisideeën met routekeuze, actuele checks en de gids die het onderwerp echt bezit."
+          imageAlt={copy.heroAlt}
+          breadcrumbs={[{ label: copy.breadcrumbsHome, href: localHref('/') }, { label: copy.breadcrumbsBlog }]}
+          eyebrow={copy.heroEyebrow}
+          title={copy.heroTitle}
+          description={copy.heroDescription}
           actions={[
-            { label: 'Bekijk de nieuwste gidsen', href: '#artikelen', kind: 'primary' },
-            { label: 'Kies een startpunt', href: '#startpunten', kind: 'secondary' },
+            { label: copy.latest, href: '#artikelen', kind: 'primary' },
+            { label: copy.choose, href: '#startpunten', kind: 'secondary' },
           ]}
           contentTone="light"
           minHeightClassName="min-h-[780px] lg:min-h-[700px]"
@@ -225,24 +253,27 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
         />
 
         <PageSectionNav
-          label="Op deze pagina"
+          label={copy.navLabel}
           items={[
-            { href: '#startpunten', label: 'Startpunten', icon: Compass },
-            { href: '#artikelen', label: 'Alle gidsen', icon: BookOpen },
-            { href: '#werkwijze', label: 'Onze werkwijze', icon: ShieldCheck },
+            { href: '#startpunten', label: copy.starts, icon: Compass },
+            { href: '#artikelen', label: copy.allGuides, icon: BookOpen },
+            { href: '#werkwijze', label: copy.method, icon: ShieldCheck },
           ]}
         />
 
         <section id="startpunten" className="section-divider-bottom scroll-mt-24 py-14 lg:py-20">
           <div className="container-custom">
             <SectionHeading
-              eyebrow="Eerst je hoofdvraag"
-              title="Drie sterke startpunten"
-              description="Gebruik een artikel voor verdieping. Gebruik een ownerpagina wanneer je een bestemming, route of concrete reisbeslissing moet kiezen."
+              eyebrow={copy.startEyebrow}
+              title={copy.startTitle}
+              description={copy.startDescription}
             />
             <div className="mt-9 grid gap-5 lg:grid-cols-3">
-              {editorialDoors.map(({ title, copy, href, image, icon: Icon }) => (
-                <Link key={href} href={href} className="group grid min-h-[430px] overflow-hidden rounded-[24px] bg-jade text-white shadow-editorial-card">
+              {editorialDoors.map(({ href, image, icon: Icon }, index) => {
+                const title = index === 0 ? copy.door1 : index === 1 ? copy.door2 : copy.door3;
+                const doorCopy = index === 0 ? copy.door1Copy : index === 1 ? copy.door2Copy : copy.door3Copy;
+                return (
+                <Link key={href} href={localHref(href)} className="group grid min-h-[430px] overflow-hidden rounded-[24px] bg-jade text-white shadow-editorial-card">
                   <div className="relative min-h-[235px] overflow-hidden">
                     <Image src={image} alt="" fill sizes="(max-width:1024px) 100vw, 33vw" className="object-cover transition duration-500 group-hover:scale-[1.035]" />
                     <div className="absolute inset-0 bg-gradient-to-t from-jade/70 to-transparent" />
@@ -250,11 +281,12 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
                   </div>
                   <div className="flex flex-col p-6">
                     <h2 className="font-display text-[2rem] font-semibold leading-none">{title}</h2>
-                    <p className="mt-4 text-xs font-medium leading-6 text-white/68">{copy}</p>
-                    <span className="mt-auto inline-flex items-center gap-2 pt-5 text-[10px] font-extrabold text-saffron-light">Open de keuzehulp <ArrowRight size={13} aria-hidden="true" /></span>
+                    <p className="mt-4 text-xs font-medium leading-6 text-white/68">{doorCopy}</p>
+                    <span className="mt-auto inline-flex items-center gap-2 pt-5 text-[10px] font-extrabold text-saffron-light">{copy.openChoice} <ArrowRight size={13} aria-hidden="true" /></span>
                   </div>
                 </Link>
-              ))}
+                );
+              })}
             </div>
           </div>
         </section>
@@ -263,24 +295,24 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
           <div className="container-custom">
             <div className="grid gap-8 lg:grid-cols-[.72fr_1.28fr] lg:items-end">
               <SectionHeading
-                eyebrow="Zoek in het archief"
-                title="Gidsen, uitleg en actuele dossiers"
-                description="Tijdgevoelige artikelen krijgen een zichtbare datum en live-checkgrens. Evergreen gidsen verwijzen door naar de juiste beslispagina."
+                eyebrow={copy.archiveEyebrow}
+                title={copy.archiveTitle}
+                description={copy.archiveDescription}
               />
               <label className="relative block">
-                <span className="sr-only">Zoek een artikel</span>
+                <span className="sr-only">{copy.searchLabel}</span>
                 <Search aria-hidden="true" size={19} className="absolute left-5 top-1/2 -translate-y-1/2 text-jade/45" />
                 <input
                   type="search"
                   value={searchQuery}
                   onChange={(event) => updateSearch(event.target.value)}
-                  placeholder="Zoek op bestemming, onderwerp of reisvraag"
+                  placeholder={copy.searchPlaceholder}
                   className="min-h-14 w-full rounded-2xl border border-jade/12 bg-white pl-14 pr-5 text-sm font-semibold text-jade outline-none transition placeholder:text-charcoal/38 focus:border-saffron/55 focus:ring-4 focus:ring-saffron/10"
                 />
               </label>
             </div>
 
-            <div className="scrollbar-hide mt-8 flex gap-2 overflow-x-auto pb-2" role="group" aria-label="Filter artikelen op categorie">
+            <div className="scrollbar-hide mt-8 flex gap-2 overflow-x-auto pb-2" role="group" aria-label={copy.filterLabel}>
               {['all', ...availableCategories].map((category) => (
                 <button
                   key={category}
@@ -289,7 +321,7 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
                   aria-pressed={selectedCategory === category}
                   className={`min-h-11 shrink-0 rounded-full border px-4 text-[10px] font-extrabold transition ${selectedCategory === category ? 'border-jade bg-jade text-white' : 'border-jade/10 bg-white text-charcoal/62 hover:border-saffron/45 hover:text-jade'}`}
                 >
-                  {labelForCategory(category)}
+                  {labelForCategory(category, locale)}
                 </button>
               ))}
             </div>
@@ -301,58 +333,58 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
                   <div className="absolute inset-0 bg-gradient-to-t from-jade/30 to-transparent" />
                 </div>
                 <div className="flex flex-col justify-center p-7 lg:p-10">
-                  <span className="eyebrow !text-saffron-light">Nieuw in het dossier</span>
+                  <span className="eyebrow !text-saffron-light">{copy.newDossier}</span>
                   <h2 className="mt-3 font-display text-[3rem] font-semibold leading-[.9]">{featured.title}</h2>
                   <p className="mt-6 text-sm font-medium leading-7 text-white/70">{featured.description}</p>
                   <div className="mt-6 flex items-center gap-3 text-[10px] font-bold text-white/50">
-                    <CalendarDays size={14} aria-hidden="true" /> {readableDate(featured.date)} · {featured.readingTime || 1} min lezen
+                    <CalendarDays size={14} aria-hidden="true" /> {readableDate(featured.date, locale)} · {featured.readingTime || 1} {isNl ? 'min lezen' : 'min read'}
                   </div>
-                  <Link href={`/blog/${featured.slug}/`} className="btn-cream mt-8 min-h-12 w-fit px-6 text-saffron-dark">Lees het artikel <ArrowRight size={14} aria-hidden="true" /></Link>
+                  <Link href={blogHref(featured.slug)} className="btn-cream mt-8 min-h-12 w-fit px-6 text-saffron-dark">{copy.readArticle} <ArrowRight size={14} aria-hidden="true" /></Link>
                 </div>
               </article>
             ) : null}
 
             {visiblePosts.length ? (
               <div className="mt-9 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
-                {visiblePosts.map((post) => <BlogCard key={post.slug} post={post} />)}
+                {visiblePosts.map((post) => <BlogCard key={post.slug} post={post} locale={locale} />)}
               </div>
             ) : (
               <div className="mt-9 rounded-2xl border border-jade/10 bg-white p-10 text-center">
                 <Sparkles className="mx-auto text-saffron-dark" aria-hidden="true" />
-                <p className="mt-4 font-display text-2xl font-semibold text-jade">Geen gids gevonden</p>
-                <p className="mt-2 text-sm text-charcoal/58">Probeer een bredere zoekterm of kies ‘Alles’.</p>
+                <p className="mt-4 font-display text-2xl font-semibold text-jade">{copy.noGuide}</p>
+                <p className="mt-2 text-sm text-charcoal/58">{copy.noGuideCopy}</p>
               </div>
             )}
 
             {totalPages > 1 ? (
               <nav className="mt-10 flex items-center justify-center gap-3" aria-label="Paginering van het blogarchief">
-                <button type="button" disabled={safePage === 1} onClick={() => setPage((current) => Math.max(1, current - 1))} className="min-h-11 rounded-xl border border-jade/10 bg-white px-5 text-[10px] font-extrabold text-jade disabled:opacity-35">Vorige</button>
-                <span className="text-[10px] font-bold text-charcoal/50">Pagina {safePage} van {totalPages}</span>
-                <button type="button" disabled={safePage === totalPages} onClick={() => setPage((current) => Math.min(totalPages, current + 1))} className="min-h-11 rounded-xl border border-jade/10 bg-white px-5 text-[10px] font-extrabold text-jade disabled:opacity-35">Volgende</button>
+                <button type="button" disabled={safePage === 1} onClick={() => setPage((current) => Math.max(1, current - 1))} className="min-h-11 rounded-xl border border-jade/10 bg-white px-5 text-[10px] font-extrabold text-jade disabled:opacity-35">{copy.previous}</button>
+                <span className="text-[10px] font-bold text-charcoal/50">{copy.page} {safePage} / {totalPages}</span>
+                <button type="button" disabled={safePage === totalPages} onClick={() => setPage((current) => Math.min(totalPages, current + 1))} className="min-h-11 rounded-xl border border-jade/10 bg-white px-5 text-[10px] font-extrabold text-jade disabled:opacity-35">{copy.next}</button>
               </nav>
             ) : null}
 
             <div className="mt-14 border-t border-jade/10 pt-10">
               <div className="grid gap-6 lg:grid-cols-[.68fr_1.32fr] lg:items-end">
                 <SectionHeading
-                  eyebrow="Volledige publicatie-index"
-                  title="Iedere gids heeft een vaste ingang"
-                  description="Open per onderwerp de complete, indexeerbare collectie. Zo blijven ook oudere maar nog actuele dossiers rechtstreeks bereikbaar zonder door een zoekfilter te hoeven gaan."
+                  eyebrow={copy.fullIndexEyebrow}
+                  title={copy.fullIndexTitle}
+                  description={copy.fullIndexDescription}
                 />
                 <p className="max-w-2xl text-xs font-medium leading-6 text-charcoal/58 lg:justify-self-end">
-                  Verlopen of samengevoegde artikelen staan niet in deze index. Zij blijven alleen als transparant archief bereikbaar of verwijzen naar hun definitieve owner.
+                  {copy.fullIndexNote}
                 </p>
               </div>
               <div className="mt-8 grid gap-3 lg:grid-cols-2">
                 {postsByCategory.map(([category, categoryPosts], index) => (
                   <details key={category} className="group rounded-2xl border border-jade/10 bg-white shadow-editorial-card" open={index < 2}>
                     <summary className="flex min-h-16 cursor-pointer list-none items-center justify-between gap-4 px-5 py-4 text-sm font-extrabold text-jade marker:hidden">
-                      <span>{labelForCategory(category)}</span>
-                      <span className="rounded-full bg-tonal px-3 py-1 text-[9px] tracking-[.08em] text-charcoal/48">{categoryPosts.length} gidsen</span>
+                      <span>{labelForCategory(category, locale)}</span>
+                      <span className="rounded-full bg-tonal px-3 py-1 text-[9px] tracking-[.08em] text-charcoal/48">{categoryPosts.length} {copy.guides}</span>
                     </summary>
                     <div className="grid gap-px border-t border-jade/8 bg-jade/8 sm:grid-cols-2">
                       {categoryPosts.map((post) => (
-                        <Link key={post.slug} href={`/blog/${post.slug}/`} className="group/link flex min-h-14 items-center justify-between gap-3 bg-white px-5 py-3 text-[11px] font-bold leading-5 text-charcoal/68 transition hover:text-jade">
+                        <Link key={post.slug} href={blogHref(post.slug)} className="group/link flex min-h-14 items-center justify-between gap-3 bg-white px-5 py-3 text-[11px] font-bold leading-5 text-charcoal/68 transition hover:text-jade">
                           <span>{post.title}</span>
                           <ArrowRight size={13} className="shrink-0 text-saffron-dark transition group-hover/link:translate-x-0.5" aria-hidden="true" />
                         </Link>
@@ -368,16 +400,13 @@ export default function NlBlogHub({ posts, categories }: NlBlogHubProps) {
         <section id="werkwijze" className="section-divider-bottom scroll-mt-24 py-14 lg:py-20">
           <div className="container-custom grid gap-8 lg:grid-cols-[.72fr_1.28fr] lg:items-center">
             <div>
-              <p className="eyebrow">Onze redactionele grens</p>
-              <h2 className="font-display text-[3.2rem] font-semibold leading-[.9] text-jade">Een datum is geen garantie.</h2>
-              <p className="mt-5 text-sm font-medium leading-7 text-charcoal/65">Nieuws, prijzen, tickets, routes en regels kunnen veranderen. Daarom scheiden we stabiele keuzehulp van informatie die je op de bezoekdag opnieuw moet controleren.</p>
+              <p className="eyebrow">{copy.methodEyebrow}</p>
+              <h2 className="font-display text-[3.2rem] font-semibold leading-[.9] text-jade">{copy.methodTitle}</h2>
+              <p className="mt-5 text-sm font-medium leading-7 text-charcoal/65">{copy.methodDescription}</p>
             </div>
             <div className="grid gap-4 sm:grid-cols-2">
               {[
-                ['Bron boven samenvatting', 'Belangrijke actuele claims horen terug te leiden naar een controleerbare bron.'],
-                ['Owner boven dubbel artikel', 'Bij dezelfde zoekintentie verwijst één sterke pagina door; we houden geen tweede zwakke winnaar in leven.'],
-                ['Prijs als live check', 'We tonen geen oude vanafprijs alsof die vandaag nog geldt.'],
-                ['Affiliate na uitleg', 'Een commerciële uitgang volgt pas wanneer de gratis keuzehulp het besluit al heeft verduidelijkt.'],
+                ...(copy.principles),
               ].map(([title, copy], index) => (
                 <article key={title} className="rounded-2xl border border-jade/10 bg-white p-6 shadow-editorial-card">
                   <span className="text-[9px] font-extrabold tracking-[.15em] text-saffron-dark">PRINCIPE 0{index + 1}</span>
