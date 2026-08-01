@@ -455,8 +455,12 @@ for (const asset of ['rayong-food-eastern-gulf-table.webp', 'rayong-yomjinda-old
   if (!rayongCityFoodEn.includes(asset)) failures.push(`Rayong city-food owner does not use ${asset}`);
   read(`public/images/redesign/${asset}`);
 }
-for (const sitemap of [read('public/sitemap.xml'), read('public/sitemap-nl.xml')]) {
-  if (!sitemap.includes('/thailand-street-food/')) failures.push('Street-food owner is missing from a locale sitemap');
+const streetFoodEnSitemap = read('public/sitemap.xml');
+const streetFoodNlSitemap = read('public/sitemap-nl.xml');
+if (!streetFoodEnSitemap.includes('/thailand-street-food/')) failures.push('English street-food owner is missing from the sitemap');
+if (!streetFoodNlSitemap.includes('/nl/food/')) failures.push('Dutch food owner is missing from the sitemap');
+if (streetFoodNlSitemap.includes('/nl/thailand-street-food/')) failures.push('Dutch sitemap still exposes the redirected street-food route');
+for (const sitemap of [streetFoodEnSitemap, streetFoodNlSitemap]) {
   if (sitemap.includes('/blog/thai-street-food-guide-2026/')) failures.push('A locale sitemap still exposes the obsolete street-food blog owner');
 }
 const hreflang = read('components/Hreflang.tsx');
