@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "royal-ploughing-ceremony-bangkok-may-2026",
+  "route": "/nl/blog/royal-ploughing-ceremony-bangkok-may-2026/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koninklijke Ploegceremonie 2026: archief | Go2Thailand",
+    "description": "De Koninklijke Ploegceremonie 2026 is voorbij. Lees wat op 12 en 13 mei gebeurde en hoe je een volgende editie respectvol volgt.",
+    "primaryKeyword": "Koninklijke Ploegceremonie 2026",
+    "secondaryKeywords": ["Royal Ploughing Ceremony Bangkok", "Sanam Luang ceremonie", "Phra Raek Na Khwan"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/royal-ploughing-ceremony-bangkok-may-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Cultureel archief · editie verstreken",
+    "title": "Koninklijke Ploegceremonie 2026",
+    "accent": "12 en 13 mei, niet 11 mei",
+    "description": "De officiële editie is voorbij. Dit archief legt beide rituele delen uit zonder een oude datum als nieuw programma te verkopen.",
+    "image": "/images/redesign/editorial/royal-ploughing-ceremony-bangkok-may-2026-hero.webp",
+    "imageAlt": "Witte ossen trekken een ceremoniële ploeg over Sanam Luang in Bangkok",
+    "primaryCta": { "label": "Bekijk de tijdlijn", "href": "#tijdlijn" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-05-12", "endsOn": "2026-05-13", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "De 2026-ceremonie vond op 12 en 13 mei plaats en is verstreken. Een volgende datum moet opnieuw bij het Thaise ministerie van Landbouw worden gecontroleerd.",
+  "blocks": [
+    { "kind": "comparison", "id": "tijdlijn", "title": "Twee rituele delen", "options": [
+      { "title": "12 mei", "description": "Boeddhistische zegening van zaden en deelnemers in Wat Phra Si Rattana Satsadaram.", "label": "Pheu Mueang" },
+      { "title": "13 mei", "description": "Brahmaans ploeg- en zaairitueel op Sanam Luang, bevestigd als uitgevoerd.", "label": "Raek Na Khwan" },
+      { "title": "Volgende editie", "description": "Datum, toegang en publieksmaatregelen worden opnieuw officieel vastgesteld.", "label": "Nog controleren" }
+    ] },
+    { "kind": "callout", "id": "geen-voorspelling", "tone": "cream", "title": "Rituele duiding is geen weersgarantie", "description": "De traditionele keuzes en voortekenen horen bij de ceremonie. Presenteer ze niet als wetenschappelijke oogst- of regenvoorspelling." },
+    { "kind": "checklist", "id": "etiquette", "title": "Respectvolle voorbereiding", "items": [
+      "Nette, bedekkende kleding",
+      "Aanwijzingen van beveiliging direct volgen",
+      "Afstand houden van deelnemers, ossen en ploegroute",
+      "Alleen fotograferen waar dat is toegestaan",
+      "Nieuwe datum uitsluitend uit officiële bron halen"
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Wanneer was de ceremonie in 2026?", "answer": "Het boeddhistische deel was op 12 mei en het ploegonderdeel op Sanam Luang op 13 mei 2026." },
+      { "question": "Is dit een toeristisch festival?", "answer": "Nee. Het is een officiële koninklijke en religieuze plechtigheid met grote betekenis voor de landbouw." },
+      { "question": "Is de datum ieder jaar gelijk?", "answer": "Nee. Controleer voor een volgende editie het officiële Thaise programma." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële bronnen", "items": [
+      { "title": "Royal Ploughing Ceremony 2026", "publisher": "Ministry of Agriculture and Cooperatives", "url": "https://www.moac.go.th/royal_ploughing-plant", "checkedAt": "2026-08-01", "note": "Officieel programma voor 12 en 13 mei 2026." },
+      { "title": "MNRE Minister attends the 2026 ceremony", "publisher": "Ministry of Natural Resources and Environment", "url": "https://newweb.mnre.go.th/en/news/detail/245866", "checkedAt": "2026-08-01", "note": "Bevestigt dat de ceremonie op Sanam Luang plaatsvond." }
+    ] }
+  ]
+}

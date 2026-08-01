@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "phuket-best-beach-clubs-2026-yona-catch-barra-cuda",
+  "route": "/nl/blog/phuket-best-beach-clubs-2026-yona-catch-barra-cuda/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Beachclubs Phuket: YONA, Catch, Barra Cuda of Fira?",
+    "description": "Vergelijk vier beachclubs op Phuket op sfeer, ligging, toegang en terugreis zonder verouderde entreeprijzen of superlatieven.",
+    "primaryKeyword": "beachclubs Phuket",
+    "secondaryKeywords": ["YONA Beach Club Phuket", "Catch Beach Club", "Barra Cuda Phuket", "Fira Phuket"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/phuket-best-beach-clubs-2026-yona-catch-barra-cuda/"
+  },
+  "hero": {
+    "eyebrow": "Phuket · vier verschillende clubdagen",
+    "title": "Welke beachclub past?",
+    "accent": "Kies sfeer én terugroute",
+    "description": "Drijvend, aan Bang Tao, midden in Patong of boven Kata Noi: de ligging bepaalt meer dan de hype.",
+    "image": "/images/redesign/editorial/phuket-best-beach-clubs-2026-yona-catch-barra-cuda-hero.webp",
+    "imageAlt": "Phuket-baai met drijvende dagclub, strandterras en hoger gelegen poollounge bij zonsondergang",
+    "primaryCta": { "label": "Vergelijk de clubs", "href": "#vergelijking" },
+    "secondaryCta": { "label": "Boekingscheck", "href": "#controle" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kies YONA voor een drijvende dagclub, Catch voor een lange Bang Tao-dag, Barra Cuda voor energiek Patong en Fira voor pool en uitzicht boven Kata Noi.",
+  "blocks": [
+    { "kind": "comparison", "id": "vergelijking", "title": "Vier clubs, vier plannen", "options": [
+      { "title": "YONA", "description": "Boottransfer en een volledige dagclubervaring; controleer leeftijd, retour en inbegrepen tegoed.", "label": "Drijvend" },
+      { "title": "Catch", "description": "All-day beachclub en restaurant aan Bang Tao, logisch vanuit het noordwesten van Phuket.", "label": "Stranddag" },
+      { "title": "Barra Cuda", "description": "Pool- en beachclub in Patong met energieke zones én rustigere zitopties.", "label": "Party" },
+      { "title": "Fira", "description": "Heuvelcomplex boven Kata Noi met pool, restaurant en skybar; geen club direct op het zand.", "label": "Uitzicht" }
+    ] },
+    { "kind": "checklist", "id": "controle", "title": "Controleer vóór reserveren", "items": [
+      "Ticket, minimum spend of alleen een tafelreservering",
+      "Exacte zitplaats of toegangszône",
+      "Leeftijds- en kledingregels van die dag",
+      "Annuleringsbeleid bij gewijzigd event of transfer",
+      "Veilige terugreis naar je hotel"
+    ] },
+    { "kind": "callout", "id": "veilig", "tone": "warning", "title": "Plan vervoer vóór de avond", "description": "Zon, alcohol, zwemmen en verkeer versterken elkaars risico. Spreek vooraf af wie nuchter blijft of regel professioneel vervoer." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Welke club ligt op het water?", "answer": "YONA. De eigen boottransfer is onderdeel van de logistiek en moet vooraf worden gecontroleerd." },
+      { "question": "Welke club ligt in Patong?", "answer": "Barra Cuda ligt aan Patong Beach en richt zich sterk op pool- en partyzones." },
+      { "question": "Noemt deze gids actuele entreeprijzen?", "answer": "Nee. Prijs, tegoed en minimum spend veranderen; controleer de officiële boekingspagina." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële locatiebronnen", "items": [
+      { "title": "YONA Beach Club", "publisher": "YONA", "url": "https://yonabeach.com/", "checkedAt": "2026-08-01" },
+      { "title": "Catch Beach Club", "publisher": "Catch Beach Club", "url": "https://www.catchbeachclub.com/", "checkedAt": "2026-08-01" },
+      { "title": "Beach Club", "publisher": "Barra Cuda Phuket", "url": "https://www.barracudaphuket.com/beach-club/", "checkedAt": "2026-08-01" },
+      { "title": "Fira Phuket", "publisher": "Fira Phuket", "url": "https://firaphuket.com/", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

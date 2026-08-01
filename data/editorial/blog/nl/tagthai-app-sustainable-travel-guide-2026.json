@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "tagthai-app-sustainable-travel-guide-2026",
+  "route": "/nl/blog/tagthai-app-sustainable-travel-guide-2026/",
+  "cluster": "planning",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "TAGTHAi-app: passen en lokale routes beoordelen",
+    "description": "Gebruik TAGTHAi voor passen, routes en lokale opties, maar toets beschikbaarheid, privacy en duurzaamheidsclaims per aanbieder.",
+    "primaryKeyword": "TAGTHAi app",
+    "secondaryKeywords": ["TAGTHAi Pass", "Thailand reisapp", "duurzaam reizen Thailand app"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/tagthai-app-sustainable-travel-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Thailand reisapp · onafhankelijke keuzehulp",
+    "title": "TAGTHAi slim gebruiken",
+    "accent": "Gemak is nog geen impactbewijs",
+    "description": "Ontdek passen en lokale routes, maar controleer activering, partners, privacy en duurzaamheidsclaims vóór aankoop.",
+    "image": "/images/redesign/editorial/tagthai-app-sustainable-travel-guide-2026-hero.webp",
+    "imageAlt": "Reiziger gebruikt een route-app bij een kleinschalige Thaise markt met lokaal vlechtwerk",
+    "primaryCta": { "label": "Bekijk de functies", "href": "#functies" },
+    "secondaryCta": { "label": "Beoordeel een pas", "href": "#pas-check" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "TAGTHAi is nuttig als een actuele pas of lokale route bij jouw plan past. Gebruik de app als organisatielaag en controleer aanbieders, voorwaarden en officiële informatie apart.",
+  "blocks": [
+    { "kind": "card-grid", "id": "functies", "eyebrow": "Wat de app doet", "title": "Vier functies met een controlepunt", "cards": [
+      { "title": "Passen", "description": "Bundel voordelen, maar bereken alleen stops die je echt en geografisch haalbaar gebruikt.", "label": "Waarde" },
+      { "title": "Routes", "description": "Gebruik aanbevelingen als inspiratie en toets reistijd, rust en opening per locatie.", "label": "Planning" },
+      { "title": "Lokale partners", "description": "Vraag welk deel lokaal blijft en welke concrete impactmaatregelen bestaan.", "label": "Duurzaamheid" },
+      { "title": "Betalen en boeken", "description": "Controleer wie de aanbieder is, hoe restitutie werkt en welke gegevens worden gedeeld.", "label": "Voorwaarden" }
+    ] },
+    { "kind": "steps", "id": "pas-check", "title": "Beoordeel een TAGTHAi Pass", "steps": [
+      { "title": "Kies alleen echte wensen", "description": "Noteer onderdelen die je ook zonder pas zou bezoeken." },
+      { "title": "Controleer de kaart", "description": "Voorkom een afvinkdag met onlogische verplaatsingen." },
+      { "title": "Lees activering", "description": "Bevestig reservering, geldigheid, uitsluitingen en restitutie." },
+      { "title": "Vergelijk live", "description": "Zet de actuele totaalprijs naast losse toegang zonder een besparing te veronderstellen." }
+    ] },
+    { "kind": "callout", "id": "groen", "tone": "jade", "title": "Een groen label is een startpunt", "description": "Toets lokale opbrengst, groepsgrootte, toestemming, natuurmaatregelen en onafhankelijke normen. Minder verplaatsen kan meer betekenen dan meer gelabelde stops." },
+    { "kind": "checklist", "id": "digitaal", "title": "Digitale back-up", "items": [
+      "Lees privacy- en servicevoorwaarden",
+      "Gebruik een uniek wachtwoord",
+      "Bewaar essentiële vouchers offline",
+      "Noteer de juridische aanbieder en support",
+      "Sla adressen, noodnummers en terugroute apart op"
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is TAGTHAi een officiële overheidsapp?", "answer": "TAGTHAi is een sociale onderneming en publiek-private samenwerkingsplatform. Gebruik overheidsbronnen apart voor officiële regels." },
+      { "question": "Bespaart een TAGTHAi Pass altijd geld?", "answer": "Nee. Waarde hangt af van actuele prijs, beschikbare onderdelen en wat je realistisch gebruikt." },
+      { "question": "Is iedere activiteit aantoonbaar duurzaam?", "answer": "Niet automatisch. Controleer concrete impact en voorwaarden per aanbieder." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire TAGTHAi-bronnen", "items": [
+      { "title": "About TAGTHAi", "publisher": "TAGTHAi", "url": "https://www.tagthai.com/th/about", "checkedAt": "2026-08-01", "note": "Organisatievorm en platformdoel." },
+      { "title": "Responsible Journeys with TEATA", "publisher": "TAGTHAi", "url": "https://www.tagthai.com/explore/p/responsible-journey-with-teata", "checkedAt": "2026-08-01", "note": "Eigen duurzaamheidspositionering en TEATA-context." },
+      { "title": "What is TAGTHAi Pass?", "publisher": "TAGTHAi", "url": "https://www.tagthai.com/pass/what-is-tagthai-pass", "checkedAt": "2026-08-01", "note": "Pass-, activatie- en reserveringswerking." },
+      { "title": "Terms and Conditions", "publisher": "TAGTHAi", "url": "https://www.tagthai.com/th/terms-conditions", "checkedAt": "2026-08-01", "note": "Grenzen rond diensten van derden." }
+    ] }
+  ]
+}

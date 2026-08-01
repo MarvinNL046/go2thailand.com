@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "outrigger-phi-phi-island-resort-barefoot-luxury-2026",
+  "route": "/nl/blog/outrigger-phi-phi-island-resort-barefoot-luxury-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "OUTRIGGER Phi Phi Island Resort: keuzehulp | Go2Thailand",
+    "description": "OUTRIGGER Phi Phi Island Resort is geopend. Vergelijk ligging, boottransfer, kamertype en totale reisketen voordat je boekt.",
+    "primaryKeyword": "OUTRIGGER Phi Phi Island Resort",
+    "secondaryKeywords": ["hotel Laem Tong Beach", "Phi Phi resort boottransfer", "OUTRIGGER Phi Phi ervaringen"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/outrigger-phi-phi-island-resort-barefoot-luxury-2026/"
+  },
+  "hero": {
+    "eyebrow": "Phi Phi Don · nu geopend",
+    "title": "OUTRIGGER Phi Phi",
+    "accent": "Rust vraagt bootlogistiek",
+    "description": "Een afgelegen strandresort aan Laem Tong is aantrekkelijk als je wilt blijven, minder als je vaak naar Tonsai wilt.",
+    "image": "/images/redesign/editorial/outrigger-phi-phi-island-resort-barefoot-luxury-2026-hero.webp",
+    "imageAlt": "Longtailboot voor een rustig tropisch strandresort aan de noordkant van Phi Phi Don",
+    "primaryCta": { "label": "Past dit verblijf?", "href": "#voor-wie" },
+    "secondaryCta": { "label": "Controleer de transfer", "href": "#transfer" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Het resort opende in mei 2026 en past bij reizigers die meerdere nachten aan Laem Tong willen blijven. Vergelijk altijd de totale prijs inclusief boottransfer en aansluiting.",
+  "blocks": [
+    { "kind": "comparison", "id": "voor-wie", "title": "Voor wie werkt de ligging?", "options": [
+      { "title": "Koppels", "description": "Sterk als rust en het resort zelf hoofddoelen zijn; minder geschikt voor spontaan uitgaan in Tonsai.", "label": "Rust" },
+      { "title": "Gezinnen", "description": "Familievilla’s en resortactiviteiten zijn relevant, maar controleer leeftijdsgrenzen en transferuitvoering.", "label": "Op terrein blijven" },
+      { "title": "Duikers", "description": "Vraag naar brevet, parktoegang, uitrusting, medische formulieren en alternatief programma.", "label": "Vooraf afstemmen" }
+    ] },
+    { "kind": "checklist", "id": "transfer", "title": "Laat dit schriftelijk bevestigen", "items": [
+      "Exacte vertrekpier en ontmoetingspunt",
+      "Uitvoerder en inbegrepen deel van de boottransfer",
+      "Bagage- en kinderbeleid",
+      "Gevolgen van een vertraagde eerdere aansluiting",
+      "Annulering of wijziging wanneer de boot niet uitvoerbaar is"
+    ] },
+    { "kind": "callout", "id": "duurzaamheid", "tone": "jade", "title": "Vraag door op duurzaamheidsclaims", "description": "Lokale materialen en natuurparkcontext zijn geen volledige impactmeting. Vraag naar energie, afvalwater, inkoop en omgang met lokale gemeenschappen." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is OUTRIGGER Phi Phi geopend?", "answer": "Ja. De hotelgroep meldde op 6 mei 2026 dat de eerste gasten waren ontvangen." },
+      { "question": "Kun je er met de auto komen?", "answer": "Nee. De accommodatie ligt op Phi Phi Don en is alleen over water bereikbaar." },
+      { "question": "Wat moet je bij de prijs optellen?", "answer": "Controleer live kamerprijs, belastingen, maaltijden, boottransfer en eventuele park- of activiteitskosten." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bronnen", "items": [
+      { "title": "Phi Phi Island Resort opens", "publisher": "OUTRIGGER Newsroom", "url": "https://news.outrigger.com/2026/05/06/outrigger-phi-phi-island-resort-opens-where-barefoot-luxury-meets-the-andaman-sea/", "checkedAt": "2026-08-01", "note": "Bevestigt opening, ligging en 63 suites en villa’s." },
+      { "title": "Soul of Rest design", "publisher": "OUTRIGGER Newsroom", "url": "https://news.outrigger.com/2026/03/10/outrigger-phi-phi-island-resort-introduces-soul-of-rest-sustainable-design/", "checkedAt": "2026-08-01", "note": "Design- en duurzaamheidsclaims van de aanbieder." },
+      { "title": "Ko Phi Phi", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Attraction/ko-phi-phi", "checkedAt": "2026-08-01", "note": "Bestemmingscontext." }
+    ] }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "silom-edge-songkran-2026-bangkok-water-festival-event",
+  "route": "/nl/blog/silom-edge-songkran-2026-bangkok-water-festival-event/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Silom Edge Songkran 2026: evenementarchief",
+    "description": "Silom Edge Songkran 2026 is afgelopen. Gebruik dit archief voor context en controleer een volgende Silom-viering opnieuw.",
+    "primaryKeyword": "Silom Edge Songkran 2026",
+    "secondaryKeywords": ["Songkran Silom Road", "Silom waterfestival Bangkok", "Songkran Bangkok 2026"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/silom-edge-songkran-2026-bangkok-water-festival-event/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Evenementarchief · april 2026",
+    "title": "Silom Edge Songkran 2026",
+    "accent": "De activatie is afgelopen",
+    "description": "Silom blijft een bekende Songkranzone, maar het specifieke programma van 2026 geldt niet voor een volgende editie.",
+    "image": "/images/redesign/editorial/silom-edge-songkran-2026-bangkok-water-festival-event-hero.webp",
+    "imageAlt": "Feestvierders spelen met water bij een modern gebouw aan Silom Road tijdens Songkran",
+    "primaryCta": { "label": "Lees de status", "href": "#status" },
+    "secondaryCta": { "label": "Brede Songkran-gids", "href": "/nl/blog/songkran-festival-2026-guide/" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-04-12", "endsOn": "2026-04-14", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Het specifieke Silom Edge-programma van april 2026 is voorbij. Controleer een toekomstige Silom-viering opnieuw bij Bangkok, Bang Rak District en de locatie.",
+  "blocks": [
+    { "kind": "comparison", "id": "status", "title": "Wat is wel en niet actueel?", "options": [
+      { "title": "Silom Edge 2026", "description": "De aangekondigde muziek- en wateractivatie is verstreken.", "label": "Archief" },
+      { "title": "Silom Road", "description": "Blijft een bekende publieke Songkranzone, maar maatregelen worden ieder jaar opnieuw bepaald.", "label": "Terugkerende context" },
+      { "title": "Volgende editie", "description": "Programma, vervoer en toegang pas gebruiken na officiële nieuwe publicatie.", "label": "Opnieuw controleren" }
+    ] },
+    { "kind": "callout", "id": "geen-cta", "tone": "warning", "title": "Geen verlopen programma verkopen", "description": "Dit archief bevat bewust geen ticket-, hotel- of vlucht-CTA rond de verstreken 2026-activatie." },
+    { "kind": "checklist", "id": "toekomst", "title": "Voor een toekomstige Silom-viering", "items": [
+      "Controleer aangewezen activiteitenzones van Bangkok",
+      "Lees aankondigingen van Bang Rak District en Silom Edge",
+      "Check tijdelijke BTS- en MRT-instructies",
+      "Bescherm waardevolle spullen tegen water",
+      "Spreek een ontmoetingspunt buiten de drukste zone af"
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Kan ik het Silom Edge-programma van 2026 nog bezoeken?", "answer": "Nee. Het evenement is verstreken." },
+      { "question": "Is Silom Edge hetzelfde als Songkran op heel Silom Road?", "answer": "Nee. Het complex is één private locatie binnen een veel grotere publieke zone." },
+      { "question": "Waar controleer ik een nieuw programma?", "answer": "Gebruik officiële kanalen van Bangkok, Bang Rak District, vervoerders en de locatie." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen voor locatie en culturele context", "items": [
+      { "title": "Silom Edge", "publisher": "Silom Edge", "url": "https://www.silomedge.com/", "checkedAt": "2026-08-01" },
+      { "title": "Songkran in Thailand", "publisher": "UNESCO Intangible Cultural Heritage", "url": "https://ich.unesco.org/en/RL/songkran-in-thailand-traditional-thai-new-year-festival-01719", "checkedAt": "2026-08-01", "note": "Culturele betekenis naast publieke waterpret." },
+      { "title": "Songkran festivals April 2026", "publisher": "Tourism Authority of Thailand Japan", "url": "https://www.thailandtravel.or.jp/news/161677/", "checkedAt": "2026-08-01", "note": "Historische 2026-context voor Silom Road." }
+    ] }
+  ]
+}
