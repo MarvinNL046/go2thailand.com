@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "is-thai-food-spicy-guide",
+  "route": "/nl/blog/is-thai-food-spicy-guide/",
+  "cluster": "food",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Is Thais eten pittig? Gids vervangen | Go2Thailand",
+    "description": "Deze brede pittigheidsgids is vervangen door de centrale foodgids. Ingrediënten en hittebronnen hebben een afzonderlijke specialistische uitleg.",
+    "primaryKeyword": "is Thais eten pittig gids vervangen",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/is-thai-food-spicy-guide/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gearchiveerde foodgids",
+    "title": "Pittigheidsgids vervangen",
+    "accent": "Brede vraag hoort bij de foodhub",
+    "description": "Gebruik de centrale foodgids voor gerechten en bestellen, en de ingrediëntengids voor de oorzaken van hitte.",
+    "image": "/images/redesign/editorial/is-thai-food-spicy-guide-hero.webp",
+    "imageAlt": "Reiziger vraagt in een Thais eethuis om een apart kommetje chili",
+    "primaryCta": { "label": "Open eten in Thailand", "href": "/nl/food/" },
+    "secondaryCta": { "label": "Wat maakt eten pittig?", "href": "/nl/blog/what-makes-thai-food-spicy/" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze pagina is noindex. De brede vraag over pittigheid hoort bij /nl/food/; de ingrediënten achter pittigheid blijven bij /nl/blog/what-makes-thai-food-spicy/.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "Dubbele brede intentie", "description": "De centrale foodhub bezit ‘is Thais eten pittig?’ al. Een tweede indexeerbare gids zou dezelfde vraag en bestelroute herhalen.", "cta": { "label": "Naar de foodgids", "href": "/nl/food/" } },
+    { "kind": "prose", "id": "grens", "title": "Ownergrens", "markdown": "Pittigheid verschilt per recept, kok en tolerantie. Voor chili, currypasta en andere hittebronnen gebruik je de specialistische ingrediëntengids; voor gerechten en bestellen de foodhub. ‘Niet pittig’ is geen allergenenbelofte." },
+    { "kind": "related", "id": "verder", "title": "Gebruik de juiste eigenaar", "items": [
+      { "title": "Eten in Thailand", "description": "Gerechten, regionale keuken en bestellen.", "href": "/nl/food/" },
+      { "title": "Wat maakt Thais eten pittig?", "description": "Ingrediënten en smaakopbouw.", "href": "/nl/blog/what-makes-thai-food-spicy/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Bron", "items": [
+      { "title": "Discover Thai Cuisine through its four regions", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2018/01/discover-thai-cuisine-famous-four-regions/", "checkedAt": "2026-08-01", "note": "Ondersteunt regionale variatie; niet een universele pittigheidsschaal." }
+    ] }
+  ]
+}

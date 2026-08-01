@@ -790,6 +790,38 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // Consolidate the final NL editorial overlaps into their stronger,
+      // independently researched owners. English remains untouched.
+      {
+        source: "/nl/blog/is-thai-food-spicy-guide/",
+        destination: "/nl/food/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/songkran-2026-airlines-discount-flights/",
+        destination: "/nl/blog/songkran-festival-2026-guide/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-itinerary-first-timers/",
+        destination: "/nl/thailand-for-first-timers/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-oil-crisis-flight-prices-energy-march-2026/",
+        destination: "/nl/blog/middle-east-conflict-thailand-flights-airfare-2026/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-tourism-7-million-visitors-march-2026/",
+        destination: "/nl/blog/thailand-tourism-2026-middle-east-impact-visitor-numbers/",
+        permanent: true,
+        locale: false,
+      },
       // Old URL patterns
       {
         source: "/cities/:slug*/",

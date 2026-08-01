@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tourism-7-million-visitors-march-2026",
+  "route": "/nl/blog/thailand-tourism-7-million-visitors-march-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand-toerismecijfer maart vervangen | Go2Thailand",
+    "description": "De teller tot 11 maart was een tijdelijke momentopname. Gebruik de actuele toerismetijdlijn met latere kwartaal- en junicijfers.",
+    "primaryKeyword": "Thailand toerismecijfer maart 2026 vervangen",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-tourism-7-million-visitors-march-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gearchiveerde statistieksnapshot",
+    "title": "Maartteller ingehaald",
+    "accent": "Gebruik cijfers met een actuele peildatum",
+    "description": "Q1- en junidata hebben de teller tot 11 maart superseded. Realisatie en prognose horen apart te blijven.",
+    "image": "/images/redesign/editorial/thailand-tourism-7-million-visitors-march-2026-hero.webp",
+    "imageAlt": "Internationale aankomsthal met reizigers en een blanco notitieboek op de voorgrond",
+    "primaryCta": { "label": "Open de toerismetijdlijn", "href": "/nl/blog/thailand-tourism-2026-middle-east-impact-visitor-numbers/" },
+    "secondaryCta": { "label": "Bekijk de tijdlijn", "href": "#tijdlijn" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "De 7.489.983 aankomsten tot 11 maart waren correct voor dat meetvenster, maar zijn ingehaald door 9,31 miljoen over Q1 en meer dan 14 miljoen tot 2 juni.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "Een cumulatieve teller veroudert onmiddellijk", "description": "Deze route is noindex. Gebruik de centrale toerismetijdlijn, waar elk getal een peildatum en bronmoment houdt.", "cta": { "label": "Naar de actuele tijdlijn", "href": "/nl/blog/thailand-tourism-2026-middle-east-impact-visitor-numbers/" } },
+    { "kind": "card-grid", "id": "tijdlijn", "title": "Latere officiële meetpunten", "cards": [
+      { "title": "Tot 11 maart", "description": "Het ministerie meldde 7.489.983 internationale aankomsten.", "label": "Momentopname" },
+      { "title": "Eerste kwartaal", "description": "TAT meldde 9,31 miljoen aankomsten over 1 januari tot en met 31 maart.", "label": "Completer venster" },
+      { "title": "Tot 2 juni", "description": "TAT meldde meer dan 14 miljoen internationale aankomsten.", "label": "Latere update" }
+    ] },
+    { "kind": "prose", "id": "betekenis", "title": "Geen reisgarantie", "markdown": "Nationale aankomsten voorspellen geen lokale drukte, prijs, veiligheid of kwaliteit op jouw bestemming. Ook een jaarprognose is geen gerealiseerde uitkomst." },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bronnen", "items": [
+      { "title": "Arrivals through 11 March 2026", "publisher": "Ministry of Tourism and Sports", "url": "https://secretary.mots.go.th/news/6953", "checkedAt": "2026-08-01", "note": "Oorspronkelijke teller en peildatum." },
+      { "title": "2026 outlook recalibrated", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/04/tat-refocuses-on-value-over-volume-as-2026-tourism-outlook-is-recalibrated/", "checkedAt": "2026-08-01", "note": "Volledig Q1-cijfer en gedateerde prognoseband." },
+      { "title": "Thailand Tourism Update at TTM+ 2026", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/06/thailand-tourism-update-at-ttm-2026-reinforces-quality-led-growth-direction/", "checkedAt": "2026-08-01", "note": "Latere realisatie tot 2 juni en bijgewerkte prognose." }
+    ] }
+  ]
+}

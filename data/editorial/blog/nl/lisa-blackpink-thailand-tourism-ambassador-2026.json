@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "lisa-blackpink-thailand-tourism-ambassador-2026",
+  "route": "/nl/blog/lisa-blackpink-thailand-tourism-ambassador-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "LISA Amazing Thailand Ambassador 2026 | Go2Thailand",
+    "description": "TAT benoemde Lalisa LISA Manobal tot Amazing Thailand Ambassador. Bekijk de bevestigde campagne, locaties en de grens tussen promotie en reisfeit.",
+    "primaryKeyword": "LISA Amazing Thailand Ambassador",
+    "secondaryKeywords": ["Amazing Thailand x LISA", "Feel All the Feelings Thailand", "LISA Thailand campagne locaties"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/lisa-blackpink-thailand-tourism-ambassador-2026/"
+  },
+  "hero": {
+    "eyebrow": "TAT-campagne · 2026",
+    "title": "LISA als Thailand-ambassadeur",
+    "accent": "Campagnefeit, geen effectbewijs",
+    "description": "De officiële rol en locaties zijn bevestigd. Marketingclaims over invloed of reisuitkomsten zijn dat niet.",
+    "image": "/images/redesign/editorial/lisa-blackpink-thailand-tourism-ambassador-2026-hero.webp",
+    "imageAlt": "Fictionele campagneopname met Thaise kleding en Wat Arun op de achtergrond, zonder beroemdheid",
+    "primaryCta": { "label": "Wat is bevestigd?", "href": "#bevestigd" },
+    "secondaryCta": { "label": "Plan vanuit locaties", "href": "#locaties" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "confirmed", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "TAT presenteerde LISA op 29 januari 2026 officieel als Amazing Thailand Ambassador voor ‘Feel All the Feelings’. De samenwerking is marketing en bewijst op zichzelf geen groei in bezoekers, bestedingen of kwaliteit.",
+  "blocks": [
+    { "kind": "card-grid", "id": "bevestigd", "title": "Bevestigd versus niet bewezen", "cards": [
+      { "title": "Officiële rol", "description": "TAT kondigde de rol in oktober 2025 aan en onthulde de campagne op 29 januari 2026 bij Wat Arun.", "label": "Bevestigd" },
+      { "title": "Campagnelocaties", "description": "TAT publiceerde een lijst met plaatsen uit de campagnefilm in verschillende regio’s.", "label": "Bevestigd" },
+      { "title": "Toeristisch effect", "description": "De officiële bronnen bewijzen niet hoeveel boekingen, bestedingen of bezoeken door de beroemdheid zijn veroorzaakt.", "label": "Niet aangetoond" }
+    ] },
+    { "kind": "comparison", "id": "locaties", "title": "Kies één regionale richting", "options": [
+      { "title": "Bangkok", "description": "Wat Arun was de lanceerlocatie. Controleer actuele tempelregels en bezoektijden onafhankelijk van de campagne.", "label": "Stad & erfgoed" },
+      { "title": "Noorden", "description": "Onder meer Wat Phumin, Wat Chedi Luang en locaties in bergprovincies verschenen in de officiële campagnelijst.", "label": "Cultuur & landschap" },
+      { "title": "Noordoosten of zuiden", "description": "Red Lotus Sea, Sam Phan Bok en Khao Sok tonen dat de campagne geen compacte route is.", "label": "Plan apart" }
+    ] },
+    { "kind": "steps", "id": "plannen", "title": "Van commercial naar reisplan", "steps": [
+      { "title": "Kies één regio", "description": "De locaties liggen verspreid; maak er geen haastige landelijke checklist van." },
+      { "title": "Open de operationele bron", "description": "Controleer park-, tempel-, weer- en vervoersinformatie bij de bevoegde instantie." },
+      { "title": "Controleer campagnedata", "description": "Spaaracties, prijzen en deelnamevoorwaarden waren tijdgebonden en kunnen verlopen zijn." },
+      { "title": "Beoordeel de plek zelfstandig", "description": "Een celebritycampagne is inspiratie, geen kwaliteitscertificaat of bezoekersgarantie." }
+    ] },
+    { "kind": "callout", "id": "beeld", "tone": "cream", "title": "Hero zonder celebritygelijkenis", "description": "De route-eigen illustratieve foto toont een fictionele campagneproductie en beeldt LISA of een andere echte persoon niet af." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is LISA een Thaise overheidsfunctionaris?", "answer": "Nee. Amazing Thailand Ambassador is een promotionele rol binnen een TAT-marketingcampagne." },
+      { "question": "Kun je de campagne als één route reizen?", "answer": "Niet logisch. De officiële locaties liggen over meerdere regio’s verspreid. Kies een regionaal deel en plan dat zelfstandig." },
+      { "question": "Zijn de campagneprijzen nog beschikbaar?", "answer": "De genoemde actie liep tot 31 juli 2026. Presenteer prijzen of deelname dus niet als actueel zonder een nieuwe officiële publicatie." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire TAT-bronnen", "items": [
+      { "title": "TAT unveils LISA as Amazing Thailand Ambassador", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/01/tat-unveils-lalisa-lisa-manobal-as-amazing-thailand-ambassador-inviting-travellers-to-feel-all-the-feelings/", "checkedAt": "2026-08-01", "note": "Officiële campagneonthulling en rolomschrijving." },
+      { "title": "Follow the footsteps of LISA", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/02/tat-invites-visitors-to-follow-footsteps-of-lisa-the-amazing-thailand-ambassador-in-a-journey-exploring-landmarks-presented-in-tvc-feel-all-the-feelings/", "checkedAt": "2026-08-01", "note": "Officiële campagneplaatsen; geen compacte reisroute." },
+      { "title": "Campaign craft and attire context", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/04/tat-unveils-the-inspiration-behind-feel-all-the-feelings-showcasing-lisas-attire-and-local-artisanal-products-intertwining-thai-heritage-and-culture-within-every-scene/", "checkedAt": "2026-08-01", "note": "Achtergrond over kleding, ambacht en culturele framing." }
+    ] }
+  ]
+}

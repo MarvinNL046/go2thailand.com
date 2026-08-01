@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-oil-crisis-flight-prices-energy-march-2026",
+  "route": "/nl/blog/thailand-oil-crisis-flight-prices-energy-march-2026/",
+  "cluster": "transport",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Oliecrisis en Thailand-vluchten vervangen | Go2Thailand",
+    "description": "Deze momentopname uit maart is vervangen door de actuele vlucht- en overstapcheck. Er geldt geen vast prijspercentage voor iedere route.",
+    "primaryKeyword": "Thailand oliecrisis vluchtupdate vervangen",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-oil-crisis-flight-prices-energy-march-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gearchiveerde crisisupdate",
+    "title": "Vluchtprijsupdate vervangen",
+    "accent": "Controleer je eigen vlucht live",
+    "description": "Operationele kosten voorspellen niet het tarief van iedere datum en route. Gebruik de actuele overstapcheck.",
+    "image": "/images/redesign/editorial/thailand-oil-crisis-flight-prices-energy-march-2026-hero.webp",
+    "imageAlt": "Reiziger controleert een vlucht op een telefoon in een luchthavenlounge",
+    "primaryCta": { "label": "Open de actuele vluchtcheck", "href": "/nl/blog/middle-east-conflict-thailand-flights-airfare-2026/" },
+    "secondaryCta": { "label": "Waarom vervangen?", "href": "#lifecycle" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze pagina is noindex. Gebruik de actuele Middle East-flight owner voor vluchtstatus, overstap en live ticketvoorwaarden; vermijd vaste prijsstijgingsclaims.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "Momentopname kan geen ticketprijs voorspellen", "description": "Brandstof- en routekosten verschillen per airline, datum en ticket. Een algemeen percentage uit maart is geen actuele reizigersprijs.", "cta": { "label": "Naar de actuele vluchtowner", "href": "/nl/blog/middle-east-conflict-thailand-flights-airfare-2026/" } },
+    { "kind": "steps", "id": "live", "title": "Controleer wat voor jou telt", "steps": [
+      { "title": "Open je boeking", "description": "Controleer vluchtnummer en uitvoerende maatschappij." },
+      { "title": "Bekijk de overstap", "description": "Controleer luchthaven, terminal, bagage en ticketbescherming." },
+      { "title": "Vergelijk totaalvoorwaarden", "description": "Gebruik live tarieven en tel bagage, wijziging en self-transfer mee." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire luchtvaartcontext", "items": [
+      { "title": "CAAT Annual Report 2025 and 2026 risk factors", "publisher": "Civil Aviation Authority of Thailand", "url": "https://www.caat.or.th/wp-content/uploads/2026/06/CAAT-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B5-2568_50M_U.pdf", "checkedAt": "2026-08-01", "note": "Noemt geopolitiek, brandstofkosten en routeverstoring als risico’s; geen individueel tariefbewijs." }
+    ] }
+  ]
+}

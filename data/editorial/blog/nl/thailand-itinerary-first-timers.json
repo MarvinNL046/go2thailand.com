@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-itinerary-first-timers",
+  "route": "/nl/blog/thailand-itinerary-first-timers/",
+  "cluster": "planning",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand-route voor beginners vervangen | Go2Thailand",
+    "description": "Deze dubbele beginnersroute is vervangen door de centrale first-timergids en de itineraryhub met routes per reisduur en reisstijl.",
+    "primaryKeyword": "Thailand route beginners vervangen",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-itinerary-first-timers/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gearchiveerde routegids",
+    "title": "Beginnersroute vervangen",
+    "accent": "Eén centrale first-timer-owner",
+    "description": "De first-timergids bezit voorbereiding en routekeuze; de itineraryhub bezit routes per reisduur.",
+    "image": "/images/redesign/editorial/thailand-itinerary-first-timers-hero.webp",
+    "imageAlt": "Reiziger ordent een kaart, blanco routekaartjes en reisfoto’s op tafel",
+    "primaryCta": { "label": "Open de first-timergids", "href": "/nl/thailand-for-first-timers/" },
+    "secondaryCta": { "label": "Vergelijk itineraries", "href": "/nl/itineraries/" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze pagina is noindex. Gebruik /nl/thailand-for-first-timers/ voor de eerste reisbeslissing en /nl/itineraries/ voor een route op reisduur.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "Exacte owner bestaat al", "description": "De centrale first-timergids bezit de eerste reis naar Thailand. Een tweede algemene itinerary zou voorbereiding en routekeuze dupliceren.", "cta": { "label": "Naar Thailand voor first-timers", "href": "/nl/thailand-for-first-timers/" } },
+    { "kind": "comparison", "id": "kies", "title": "Welke pagina heb je nodig?", "options": [
+      { "title": "Eerste keer Thailand", "description": "Voor voorbereiding, eerste 48 uur, routekeuze en valkuilen.", "href": "/nl/thailand-for-first-timers/", "label": "Centrale owner" },
+      { "title": "Route per reisduur", "description": "Voor afzonderlijke itineraries met een beheersbaar aantal bases.", "href": "/nl/itineraries/", "label": "Routehub" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Algemene officiële reisbron", "items": [
+      { "title": "Tourism Authority of Thailand", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/", "checkedAt": "2026-08-01", "note": "Bestemmingscontext; operationele details moeten per route opnieuw worden gecontroleerd." }
+    ] }
+  ]
+}
