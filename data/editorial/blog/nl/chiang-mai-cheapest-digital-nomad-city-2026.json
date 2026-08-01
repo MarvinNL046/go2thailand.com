@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "chiang-mai-cheapest-digital-nomad-city-2026",
+  "route": "/nl/blog/chiang-mai-cheapest-digital-nomad-city-2026/",
+  "cluster": "planning",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Chiang Mai voor digital nomads: werkbasis kiezen | Go2Thailand",
+    "description": "Vergelijk wijk, luchtkwaliteit, internet, visum en totale verblijfskosten voor remote werken in Chiang Mai, zonder verouderde goedkoopste-stadclaims.",
+    "primaryKeyword": "Chiang Mai digital nomad",
+    "secondaryKeywords": ["remote werken Chiang Mai", "coworking Chiang Mai", "wonen in Chiang Mai"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/chiang-mai-cheapest-digital-nomad-city-2026/"
+  },
+  "hero": {
+    "eyebrow": "Werkbasis met context",
+    "title": "Chiang Mai voor remote werk",
+    "accent": "Kies op ritme, niet op een ranglijst",
+    "description": "Vergelijk wijk, verbinding, luchtkwaliteit en totale live kosten voordat je een langer verblijf vastlegt.",
+    "image": "/images/redesign/editorial/chiang-mai-cheapest-digital-nomad-city-2026-hero.webp",
+    "imageAlt": "Remote werker neemt pauze op een rustige veranda met uitzicht op groen en bergen bij Chiang Mai",
+    "primaryCta": { "label": "Vergelijk de wijken", "href": "#wijken" },
+    "secondaryCta": { "label": "Maak je budget", "href": "#budget" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Chiang Mai kan een sterke langverblijf-basis zijn, maar geen universele goedkoopste stad. Test eerst wijk, wifi, geluid en luchtkwaliteit en vergelijk daarna de totale live verblijfskosten en officiële visumvoorwaarden.",
+  "blocks": [
+    { "kind": "comparison", "id": "wijken", "title": "Welke basis past bij je werkdag?", "options": [
+      { "title": "Nimman", "description": "Veel werkplekken en voorzieningen dicht bij elkaar; controleer drukte en vliegtuiglawaai per straat." },
+      { "title": "Oude Stad", "description": "Meer wandel- en cultuurritme; controleer bureau, stilte en route naar je vaste werkplek." },
+      { "title": "Santitham", "description": "Lokaler en soms rustiger; gebouwkwaliteit en looproutes verschillen sterk." }
+    ] },
+    { "kind": "checklist", "id": "budget", "title": "Vergelijk de volledige maand", "items": ["Verblijf, borg en elektriciteit", "Coworking of caféconsumpties", "Mobiele back-updata", "Vervoer en verzekering", "Visumkosten en flexibele buffer"] },
+    { "kind": "callout", "id": "luchtkwaliteit", "tone": "warning", "title": "Luchtkwaliteit verschilt per jaar", "description": "Controleer officiële lokale waarschuwingen kort voor en tijdens je verblijf. Een vaste rookseizoendatum of luchtreiniger vervangt geen actueel gezondheidsadvies." },
+    { "kind": "steps", "id": "proefweek", "title": "Test vóór je een maand vastlegt", "steps": [
+      { "title": "Boek flexibel", "description": "Start met ongeveer een week en vermijd een onomkeerbare langboeking." },
+      { "title": "Werk zoals thuis", "description": "Test wifi, calls, geluid en de route op je echte werktijden." },
+      { "title": "Vergelijk totaal", "description": "Neem energie, borg, vervoer en annuleringsvoorwaarden mee." }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Chiang Mai de goedkoopste digital-nomadstad?", "answer": "Dat is niet betrouwbaar vast te stellen. Ranglijsten verschillen in wisselkoers, woningtype en leefstijl; vergelijk je eigen live totaal." },
+      { "question": "Welke wijk is het beste voor remote werk?", "answer": "Nimman biedt veel voorzieningen; de Oude Stad of Santitham kan rustiger passen. Beoordeel altijd de directe straat en werkplek." },
+      { "question": "Mag ik met ieder visum remote werken?", "answer": "Ga daar niet van uit. Controleer de actuele categorie en toegestane activiteiten bij Thai E-Visa of een bevoegde Thaise vertegenwoordiging." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële controlebronnen", "items": [
+      { "title": "Thai E-Visa Official Website", "publisher": "Ministry of Foreign Affairs of Thailand", "url": "https://www.thaievisa.go.th/", "checkedAt": "2026-08-01", "note": "Actuele visumcategorieën; individuele geschiktheid apart controleren." },
+      { "title": "Chiang Mai Provincial Government", "publisher": "Chiang Mai Province", "url": "https://www.chiangmai.go.th/", "checkedAt": "2026-08-01", "note": "Lokale overheidsupdates, waaronder PM2.5-maatregelen en waarschuwingen." },
+      { "title": "Chiang Mai destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101", "checkedAt": "2026-08-01", "note": "Officiële bestemmingscontext; geen kostenranglijst." }
+    ] }
+  ]
+}

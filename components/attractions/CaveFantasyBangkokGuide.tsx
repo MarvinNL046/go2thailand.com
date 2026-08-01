@@ -35,7 +35,7 @@ import { SourceMethodSection } from '../design/SourceMethodSection';
 const PAGE_URL = 'https://go2-thailand.com/nl/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/';
 const PAGE_TITLE = 'Cave Fantasy Bangkok: tickets, route en eerlijke keuzehulp';
 const PAGE_DESCRIPTION = 'Kies tussen Fantasy Space, Flight Theater en de combo bij Cave Fantasy in MBK Bangkok. Met BTS-route, actuele uren, kindchecks en ticketadvies.';
-const HERO_IMAGE = '/images/redesign/cave-fantasy-hero.webp';
+const HERO_IMAGE = '/images/redesign/editorial/cave-fantasy-mbk-center-bangkok-immersive-art-2026-hero.webp';
 
 const navItems: PageSectionNavItem[] = [
   { href: '#kiezen', label: 'Kies je ticket', icon: Ticket },
@@ -91,7 +91,7 @@ const faqs = [
   { question: 'Wat is Cave Fantasy Bangkok precies?', answer: 'Het is een commerciële, fotogerichte immersive experience met licht, projecties, interactieve elementen en een afzonderlijke Flight Theater-optie. Het is geen traditioneel museum met een kunsthistorische collectie. Verwacht entertainment en beeldwerelden, niet dezelfde inhoud als BACC, MOCA of DIB Bangkok.' },
   { question: 'Heeft Cave Fantasy acht of negen ruimtes?', answer: 'Marketingteksten gebruiken verschillende tellingen. De actuele Klook-combo beschrijft acht thematische zones binnen Fantasy Space plus het afzonderlijke Flight Theater. Zie “negen” daarom als totaalervaring, niet als garantie dat negen vrije galerijen in ieder ticket zitten.' },
   { question: 'Hoe lang duurt Cave Fantasy Bangkok?', answer: 'De ticketlisting adviseert 1–2 uur voor de volledige ervaring. Alleen Fantasy Space kan voor snelle bezoekers korter duren; met kinderen, foto’s en de Flight-combo is extra buffer verstandig. Plan geen krappe volgende reservering direct erachter.' },
-  { question: 'Wat zijn de openingstijden van Cave Fantasy?', answer: 'MBK is dagelijks 10:00–22:00 open. Op 25 juli 2026 vermeldde de ticketlisting voor Fantasy Space 10:00–21:00 op werkdagen en tot 21:30 in het weekend; Flight Theater 11:00–21:00. Producturen en laatste toegang kunnen veranderen, dus controleer je bezoekdatum.' },
+  { question: 'Wat zijn de openingstijden van Cave Fantasy?', answer: 'De officiële MBK-directory vermeldde op 1 augustus 2026 dagelijks 10:00–22:00 voor Cave Fantasy. Producturen, laatste toegang en zonebeschikbaarheid kunnen afwijken, dus controleer je bezoekdatum bij MBK en de gekozen ticketaanbieder.' },
   { question: 'Is Cave Fantasy geschikt voor kinderen?', answer: 'Voor kinderen die van projecties, kleur, spiegels en interactieve vloeren houden kan Fantasy Space goed passen. Klook vermeldt gratis toegang tot en met 90 cm, volwassen tarief vanaf 140 cm en minimaal 100 cm voor Flight Theater. Controleer altijd de actuele voorwaarden en begeleid kinderen in donkere of spiegelende zones.' },
   { question: 'Voor wie is Flight Theater minder geschikt?', answer: 'De ticketvoorwaarden raden Flight Theater onder meer af bij bepaalde medische aandoeningen, zwangerschap en voor senioren. Ook bij bewegingsziekte, duizeligheid of sterke prikkelgevoeligheid is eerst navragen verstandig. Dit is productinformatie, geen medisch advies; sla de rit over bij twijfel.' },
   { question: 'Mag je foto’s maken in Cave Fantasy?', answer: 'Persoonlijke fotografie is volgens de listing toegestaan, maar commerciële opnames en livestreaming niet. Volg personeel en borden, blokkeer geen doorgangen en dim je scherm wanneer dat anderen helpt. Een fotozone is geen uitnodiging om andere bezoekers ongevraagd herkenbaar vast te leggen.' },
@@ -103,16 +103,16 @@ const sources = [
   { title: 'Cave Fantasy directory', creator: 'MBK Center', url: 'https://www.mbk-center.co.th/directory/shop/Cave-Fantasy/', note: 'Primaire locatiebron: verdieping 4, Zone A, ruimte 4K-103 en positionering als 3D immersive experience.' },
   { title: 'Entertainment at MBK Center', creator: 'MBK Center', url: 'https://www.mbk-center.co.th/en/zone/entertainment-zone/', note: 'Officieel entertainmentoverzicht en dagelijkse malluren.' },
   { title: 'How to go to MBK Center', creator: 'MBK Center', url: 'https://www.mbk-center.co.th/en/howtogo/', note: 'Primaire BTS-, MRT-, boot-, bus- en taxiroute; National Stadium is direct verbonden.' },
-  { title: 'Cave Fantasy ticket', creator: 'Klook', url: 'https://www.klook.com/activity/195002-cave-fantasy-ticket-bangkok/', note: 'Actuele productvarianten, zones, duur, uren, lengtecriteria, re-entry en bezoekersvoorwaarden; gecontroleerd 25 juli 2026.' },
-  { title: 'Cave Fantasy ticket overview', creator: 'ThaiPass', url: 'https://www.thethaipass.com/activities/thailand-bangkok/cave-fantasy-bangkok', note: 'DFS-geparseerde concurrentiepagina voor ticketintentie, duur en inclusies.' },
-  { title: 'Cave Fantasy attraction overview', creator: 'Trip.com', url: 'https://us.trip.com/travel-guide/attraction/bangkok/cave-fantasy-154000935/', note: 'DFS-geparseerde secundaire venuebeschrijving; niet gebruikt voor vaste scores of prijzen.' },
+  { title: 'Cave Fantasy ticket', creator: 'Klook', url: 'https://www.klook.com/activity/195002-cave-fantasy-ticket-bangkok/', note: 'Actuele productvarianten, zones, duur, uren, lengtecriteria, re-entry en bezoekersvoorwaarden; gecontroleerd 1 augustus 2026.' },
+  { title: 'Cave Fantasy ticket overview', creator: 'ThaiPass', url: 'https://www.thethaipass.com/activities/thailand-bangkok/cave-fantasy-bangkok', note: 'Aanvullende commerciële productbeschrijving; duur en inclusies altijd live controleren.' },
+  { title: 'Cave Fantasy attraction overview', creator: 'Trip.com', url: 'https://us.trip.com/travel-guide/attraction/bangkok/cave-fantasy-154000935/', note: 'Aanvullende venuebeschrijving; niet gebruikt voor vaste scores of prijzen.' },
 ];
 
 function createSchemas() {
   return [
     {
       '@context': 'https://schema.org', '@type': 'Article', '@id': `${PAGE_URL}#article`, headline: PAGE_TITLE,
-      description: PAGE_DESCRIPTION, image: `https://go2-thailand.com${HERO_IMAGE}`, datePublished: '2026-03-22', dateModified: '2026-07-25',
+      description: PAGE_DESCRIPTION, image: `https://go2-thailand.com${HERO_IMAGE}`, datePublished: '2026-03-22', dateModified: '2026-08-01',
       inLanguage: 'nl-NL', mainEntityOfPage: PAGE_URL,
       author: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
       publisher: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
@@ -158,7 +158,7 @@ export function CaveFantasyBangkokGuide() {
         <meta name="keywords" content="cave fantasy bangkok, cave fantasy mbk, cave fantasy tickets, immersive art bangkok, digitaal museum bangkok, indoor activiteit bangkok" />
         <meta property="og:type" content="article" />
         <meta property="article:published_time" content="2026-03-22" />
-        <meta property="article:modified_time" content="2026-07-25" />
+        <meta property="article:modified_time" content="2026-08-01" />
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
       <div className="overflow-hidden bg-canvas text-charcoal">
@@ -182,7 +182,7 @@ export function CaveFantasyBangkokGuide() {
           gradientClassName="bg-[linear-gradient(180deg,rgba(252,250,246,0.02)_0%,rgba(252,250,246,0.72)_49%,rgba(252,250,246,0.99)_100%)] lg:bg-[linear-gradient(90deg,rgba(252,250,246,0.97)_0%,rgba(252,250,246,0.84)_38%,rgba(7,39,34,0.1)_61%,rgba(5,27,24,0.06)_100%)]"
           sideCard={
             <div className="rounded-2xl border border-white/25 bg-canvas/94 p-6 text-jade shadow-editorial-lift backdrop-blur-xl">
-              <p className="text-[9px] font-extrabold uppercase tracking-[0.16em] text-saffron-dark">Bezoekkaart · 25 juli 2026</p>
+              <p className="text-[9px] font-extrabold uppercase tracking-[0.16em] text-saffron-dark">Bezoekkaart · 1 augustus 2026</p>
               <dl className="mt-5 grid gap-3 text-xs font-bold">
                 <div className="flex justify-between gap-4 border-b border-jade/10 pb-3"><dt className="text-charcoal/45">Locatie</dt><dd className="text-right">MBK · 4F · Zone A</dd></div>
                 <div className="flex justify-between gap-4 border-b border-jade/10 pb-3"><dt className="text-charcoal/45">BTS</dt><dd className="text-right">National Stadium</dd></div>
@@ -290,7 +290,7 @@ export function CaveFantasyBangkokGuide() {
               <div>
                 <SectionHeading eyebrow="Voor gezin en prikkelgevoelige reiziger" title={<>Leuk begint met<br />de juiste grens</>} description="Leeftijd alleen zegt weinig. Donkere overgangen, spiegelwanden, geluid en bewegende beelden kunnen voor het ene kind magisch en voor het andere te veel zijn." />
                 <div className="mt-7 rounded-2xl bg-jade p-6 text-white shadow-editorial-card">
-                  <p className="text-[9px] font-extrabold uppercase tracking-[0.14em] text-saffron-light">Klook-criteria op 25 juli 2026</p>
+                  <p className="text-[9px] font-extrabold uppercase tracking-[0.14em] text-saffron-light">Ticketcriteria op 1 augustus 2026</p>
                   <p className="mt-4 font-display text-2xl font-semibold">Tot en met 90 cm gratis · vanaf 140 cm volwassen tarief · Flight minimaal 100 cm</p>
                   <p className="mt-3 text-xs font-medium leading-6 text-white/58">Dit zijn productvoorwaarden, geen leeftijdsadvies. Controleer de actuele meting, het gekozen pakket en de voorwaarden op je voucher.</p>
                 </div>
@@ -390,7 +390,7 @@ export function CaveFantasyBangkokGuide() {
           </div>
         </section>
 
-        <FaqSplitSection id="vragen" eyebrow="Echte zoekvragen + directe merkvragen" title="Veelgestelde vragen over Cave Fantasy Bangkok" description="Waar DFS geen bruikbare merk-PAA vond, gebruiken we alleen directe bezoekvragen die door primaire venue- en ticketbronnen te beantwoorden zijn. Prijs en voorwaarden blijven een dagcheck." items={faqs} />
+        <FaqSplitSection id="vragen" eyebrow="Praktische merkvragen" title="Veelgestelde vragen over Cave Fantasy Bangkok" description="We gebruiken alleen directe bezoekvragen die door venue- en ticketbronnen te beantwoorden zijn. Prijs en voorwaarden blijven een dagcheck." items={faqs} />
 
         <RelatedGuidesSection
           eyebrow="Bouw verder rond Siam"
@@ -404,7 +404,7 @@ export function CaveFantasyBangkokGuide() {
 
         <SourceMethodSection
           title="Een attractiepagina blijft alleen bruikbaar met een controledatum"
-          description="DFS bepaalde de Nederlandse merk-, ticket- en indoor-intentie via een keywordcluster, tien actuele SERP-sets en echte PAA. Primaire MBK- en Klook-informatie bepaalt locatie, route, productopbouw en voorwaarden; ThaiPass en Trip.com zijn aanvullend geparseerd. Een MBK-parse time-out is vastgelegd en niet verborgen. Vaste prijzen, dynamische reviewscores en oncontroleerbare superlatieven zijn bewust niet overgenomen. Laatst gecontroleerd: 25 juli 2026."
+          description="Primaire MBK- en actuele ticketinformatie bepalen locatie, route, productopbouw en voorwaarden; commerciële platformpagina’s zijn alleen aanvullend gebruikt. Vaste prijzen, dynamische reviewscores en oncontroleerbare superlatieven zijn bewust niet overgenomen. Laatst gecontroleerd: 1 augustus 2026."
           sources={sources}
         />
       </div>

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-lumpini-hawker-centre-street-food-2026",
+  "route": "/nl/blog/bangkok-lumpini-hawker-centre-street-food-2026/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Lumpini Hawker Centre: route, tijden en eten | Go2Thailand",
+    "description": "Plan Lumpini Hawker Centre bij Gate 5 met route, dagchecks voor opening en kramen, betaaladvies en voedselveiligheidskeuzes.",
+    "primaryKeyword": "Lumpini Hawker Centre",
+    "secondaryKeywords": ["streetfood Lumpini Park", "hawker centre Bangkok", "eten Lumpini Park"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/bangkok-lumpini-hawker-centre-street-food-2026/"
+  },
+  "hero": {
+    "eyebrow": "Parkroute met eetstop",
+    "title": "Lumpini Hawker Centre",
+    "accent": "Gate 5, daarna de dagcheck",
+    "description": "Plan vervoer en park eerst; controleer op je bezoekdag welke kramen, shifts en betaalwijzen werkelijk beschikbaar zijn.",
+    "image": "/images/redesign/editorial/bangkok-lumpini-hawker-centre-street-food-2026-hero.webp",
+    "imageAlt": "Verlichte eetkramen bij Lumpini Park in Bangkok met bezoekers aan gedeelde tafels",
+    "primaryCta": { "label": "Plan de route", "href": "#route" },
+    "secondaryCta": { "label": "Kies veilig", "href": "#eten" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "market", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Gebruik Gate 5 als oriëntatiepunt, maar controleer dezelfde dag officiële park- of venue-informatie. Kramen, gerechten, prijzen, shifts en betaalwijzen kunnen rouleren.",
+  "blocks": [
+    { "kind": "steps", "id": "route", "title": "Park plus maaltijd", "steps": [
+      { "title": "Kies je station", "description": "Plan de laatste wandeling vanaf BTS of MRT en bewaar de terugroute offline." },
+      { "title": "Controleer de shift", "description": "Gebruik actuele officiële informatie; neem oude openingsartikelen niet als permanente garantie." },
+      { "title": "Loop eerst langs", "description": "Vergelijk drukte, hygiëne, bereiding en betaalwijze voordat je bestelt." }
+    ] },
+    { "kind": "checklist", "id": "eten", "title": "Praktische kraamcheck", "items": ["Wordt warm eten heet bereid en geserveerd?", "Is rauw gescheiden van gaar?", "Is prijs en portie duidelijk?", "Welke betaalwijze werkt vandaag?", "Waar is drinkwater of een waspunt?"] },
+    { "kind": "callout", "id": "volatiel", "tone": "cream", "title": "Roterend aanbod", "description": "Een genoemde kraam, gerecht, prijs of shift kan wijzigen. Kies op wat je ter plaatse ziet en controleer officiële updates op je bezoekdag." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Waar ligt Lumpini Hawker Centre?", "answer": "Gebruik de Gate 5-zone bij Lumpini Park als oriëntatie en controleer de actuele ingang en route vóór vertrek." },
+      { "question": "Welke openingstijden gelden?", "answer": "Shifts en parktoegang kunnen wijzigen. Controleer dezelfde dag een officiële BMA- of venuebron." },
+      { "question": "Kan ik met kaart betalen?", "answer": "Ga daar niet bij iedere kraam van uit. Vraag vóór bestellen naar betaalwijze en prijs." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële stadsbronnen", "items": [
+      { "title": "Food quality monitoring at Lumpini Gate 5", "publisher": "Bangkok Metropolitan Administration Food Sanitation Division", "url": "https://foodsanitation.bangkok.go.th/activity/detail/13235", "checkedAt": "2026-08-01", "note": "Primaire bron voor locatie en voedselkwaliteitscontrole van de hawkerzone." },
+      { "title": "Bangkok development plan 2026", "publisher": "Bangkok Metropolitan Administration", "url": "https://dp.bangkok.go.th/monitor/frontend/web/bmaplans2569.pdf", "checkedAt": "2026-08-01", "note": "Beleidscontext voor gestandaardiseerde hawkercentra; geen garantie voor dagelijkse kramen." }
+    ] }
+  ]
+}

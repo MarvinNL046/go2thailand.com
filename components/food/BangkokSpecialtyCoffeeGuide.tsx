@@ -35,7 +35,7 @@ import { SourceMethodSection } from '../design/SourceMethodSection';
 const PAGE_URL = 'https://go2-thailand.com/nl/blog/bangkok-specialty-coffee-cafe-guide-2026/';
 const PAGE_TITLE = 'Specialty coffee Bangkok: 3 routes en 6 koffiebars';
 const PAGE_DESCRIPTION = 'Plan specialty coffee in Bangkok via drie slimme routes, zes gecontroleerde café-ankers, een menu-decoder en praktische BTS- en openingstijdenchecks.';
-const HERO_IMAGE = '/images/redesign/bangkok-coffee-hero.webp';
+const HERO_IMAGE = '/images/redesign/editorial/bangkok-specialty-coffee-cafe-guide-2026-hero.webp';
 
 const navItems: PageSectionNavItem[] = [
   { href: '#kiezen', label: 'Kies je route', icon: Route },
@@ -150,7 +150,7 @@ function createSchemas() {
   return [
     {
       '@context': 'https://schema.org', '@type': 'Article', '@id': `${PAGE_URL}#article`, headline: PAGE_TITLE,
-      description: PAGE_DESCRIPTION, image: `https://go2-thailand.com${HERO_IMAGE}`, datePublished: '2026-03-23', dateModified: '2026-07-25',
+      description: PAGE_DESCRIPTION, image: `https://go2-thailand.com${HERO_IMAGE}`, datePublished: '2026-03-23', dateModified: '2026-08-01',
       inLanguage: 'nl-NL', mainEntityOfPage: PAGE_URL,
       author: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
       publisher: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
@@ -194,7 +194,7 @@ export function BangkokSpecialtyCoffeeGuide() {
         <meta name="keywords" content="specialty coffee bangkok, beste koffie bangkok, koffiebar bangkok, cafe hopping bangkok, thaise koffiebonen, factory coffee bangkok, roots bangkok" />
         <meta property="og:type" content="article" />
         <meta property="article:published_time" content="2026-03-23" />
-        <meta property="article:modified_time" content="2026-07-25" />
+        <meta property="article:modified_time" content="2026-08-01" />
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
@@ -226,7 +226,7 @@ export function BangkokSpecialtyCoffeeGuide() {
                 <dt className="text-charcoal/46">Langzaam</dt><dd className="font-extrabold text-jade">Ari in één wijk</dd>
                 <dt className="text-charcoal/46">Ritme</dt><dd className="font-extrabold text-saffron-dark">2 hoofdproeven + water</dd>
               </dl>
-              <p className="border-t border-jade/10 px-5 py-4 text-[10px] font-medium leading-4 text-charcoal/62">Uren zijn gecontroleerd op 25 juli 2026. Controleer dezelfde dag opnieuw bij de officiële locatie.</p>
+              <p className="border-t border-jade/10 px-5 py-4 text-[10px] font-medium leading-4 text-charcoal/62">Uren zijn gecontroleerd op 1 augustus 2026. Controleer dezelfde dag opnieuw bij de officiële locatie.</p>
             </aside>
           )}
         />
@@ -383,7 +383,7 @@ export function BangkokSpecialtyCoffeeGuide() {
           </div>
         </section>
 
-        <FaqSplitSection id="vragen" eyebrow="Echte vragen uit de zoekresultaten" title="Veelgestelde vragen over koffie in Bangkok" description="De antwoorden vervangen geen dagcheck. Locaties, uren, menu’s en events veranderen; smaak en “beste” blijven persoonlijk." items={faqs} />
+        <FaqSplitSection id="vragen" eyebrow="Praktische bezoekvragen" title="Veelgestelde vragen over koffie in Bangkok" description="De antwoorden vervangen geen dagcheck. Locaties, uren, menu’s en events veranderen; smaak en “beste” blijven persoonlijk." items={faqs} />
 
         <RelatedGuidesSection
           eyebrow="Na de laatste kop"
@@ -397,7 +397,7 @@ export function BangkokSpecialtyCoffeeGuide() {
 
         <SourceMethodSection
           title="Een cafékaart is alleen sterk met een datum"
-          description="DFS bepaalde de Nederlandse zoekintentie, concurrentie en echte PAA. Drie rankingconcurrenten zijn volledig geparseerd; locaties en uren komen vervolgens uit officiële café- en venuepagina’s. Google-scores, reviewaantallen en oude prijstabellen zijn bewust niet als selectiecriterium overgenomen. World of Coffee Bangkok wordt als afgelopen evenement gemarkeerd. Laatst gecontroleerd: 25 juli 2026."
+          description="De route-opzet sluit aan op de Nederlandse keuze-intentie. Locaties en uren zijn opnieuw gecontroleerd via officiële café- en venuepagina’s. Google-scores, reviewaantallen en oude prijstabellen zijn bewust niet als selectiecriterium gebruikt. World of Coffee Bangkok staat als afgelopen evenement vermeld. Laatst gecontroleerd: 1 augustus 2026."
           sources={sources}
         />
       </div>

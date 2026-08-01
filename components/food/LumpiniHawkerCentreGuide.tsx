@@ -36,7 +36,7 @@ import { SectionHeading } from '../design/SectionHeading';
 import { SourceMethodSection } from '../design/SourceMethodSection';
 
 const PAGE_URL = 'https://go2-thailand.com/nl/blog/bangkok-lumpini-hawker-centre-street-food-2026/';
-const HERO_IMAGE = '/images/redesign/lumpini-hawker-hero.webp';
+const HERO_IMAGE = '/images/redesign/editorial/bangkok-lumpini-hawker-centre-street-food-2026-hero.webp';
 const PAGE_TITLE = 'Lumpini Hawker Centre Bangkok: route, tijden en eten';
 const PAGE_DESCRIPTION = 'Plan je bezoek aan Lumpini Hawker Centre bij Gate 5: actuele shifts, route vanaf BTS/MRT, gerechtkeuze, betalen en een park-plus-eten plan.';
 
@@ -176,7 +176,7 @@ function createSchemas() {
   return [
     {
       '@context': 'https://schema.org', '@type': 'Article', '@id': `${PAGE_URL}#article`, headline: PAGE_TITLE,
-      description: PAGE_DESCRIPTION, image: `https://go2-thailand.com${HERO_IMAGE}`, datePublished: '2026-03-22', dateModified: '2026-07-25',
+      description: PAGE_DESCRIPTION, image: `https://go2-thailand.com${HERO_IMAGE}`, datePublished: '2026-03-22', dateModified: '2026-08-01',
       inLanguage: 'nl-NL', mainEntityOfPage: PAGE_URL,
       author: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
       publisher: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
@@ -220,7 +220,7 @@ export function LumpiniHawkerCentreGuide() {
         <meta name="keywords" content="lumpini hawker centre, hawker center lumpini bangkok, eten lumpini park, streetfood lumpini park, lumpini hawker centre opening hours" />
         <meta property="og:type" content="article" />
         <meta property="article:published_time" content="2026-03-22" />
-        <meta property="article:modified_time" content="2026-07-25" />
+        <meta property="article:modified_time" content="2026-08-01" />
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
@@ -395,7 +395,7 @@ export function LumpiniHawkerCentreGuide() {
           </div>
         </section>
 
-        <FaqSplitSection id="vragen" eyebrow="Echte vragen uit de zoekresultaten" title="Veelgestelde vragen over Lumpini Hawker Centre" description="De antwoorden gebruiken de gepubliceerde werking van juli 2026 en maken zichtbaar welke details venuebreed zijn en welke per kraam of bezoekdag moeten worden gecontroleerd." items={faqs} />
+        <FaqSplitSection id="vragen" eyebrow="Praktische bezoekvragen" title="Veelgestelde vragen over Lumpini Hawker Centre" description="De antwoorden gebruiken de gepubliceerde werking van 2026 en maken zichtbaar welke details venuebreed zijn en welke per kraam of bezoekdag moeten worden gecontroleerd." items={faqs} />
 
         <RelatedGuidesSection
           eyebrow="Verder eten in Bangkok"
@@ -409,7 +409,7 @@ export function LumpiniHawkerCentreGuide() {
 
         <SourceMethodSection
           title="Een nieuwe venue vraagt gedateerde bronnen"
-          description="DFS stuurde de Nederlandse zoekintentie en echte PAA. Operationele feiten zijn gecontroleerd aan de april-openingspublicaties en BMA-parkdata. Roterende kramen, prijzen, betaalwijzen en aanbod zijn daarom als dagchecks geformuleerd, niet als permanente garanties. Laatst gecontroleerd: 25 juli 2026."
+          description="Operationele feiten zijn opnieuw gecontroleerd aan officiële BMA-voedselveiligheids- en parkbronnen. Roterende kramen, prijzen, betaalwijzen en aanbod zijn als dagchecks geformuleerd, niet als permanente garanties. Laatst gecontroleerd: 1 augustus 2026."
           sources={sources}
         />
       </div>

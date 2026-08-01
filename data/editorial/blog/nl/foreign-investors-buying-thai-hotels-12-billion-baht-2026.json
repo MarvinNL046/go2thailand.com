@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "foreign-investors-buying-thai-hotels-12-billion-baht-2026",
+  "route": "/nl/blog/foreign-investors-buying-thai-hotels-12-billion-baht-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thaise hotelinvesteringen 2026: context en archief | Go2Thailand",
+    "description": "Archiefcontext bij een marktverwachting over Thaise hoteltransacties in 2026, met officiële BOI-regels en praktische controles voor reizigers.",
+    "primaryKeyword": "Thailand hotelinvesteringen 2026",
+    "secondaryKeywords": ["buitenlandse investeerders Thaise hotels", "Thaise hotelsector"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/foreign-investors-buying-thai-hotels-12-billion-baht-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Nieuwsclaim in context",
+    "title": "Investeringen zijn geen boekingsadvies",
+    "accent": "Archiefstatus: 1 augustus 2026",
+    "description": "De oude jaartotaalclaim was een verwachting. Hier lees je wat officieel is bevestigd en wat je per hotel live controleert.",
+    "image": "/images/redesign/editorial/foreign-investors-buying-thai-hotels-12-billion-baht-2026-hero.webp",
+    "imageAlt": "Hotel aan de rivier in Bangkok tijdens een zorgvuldige renovatie met een klein ontwerpteam",
+    "primaryCta": { "label": "Wat is bevestigd?", "href": "#bevestigd" },
+    "secondaryCta": { "label": "Hotelcheck", "href": "#reizigers" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "De genoemde transactiewaarde was een verwachting en is op 1 augustus 2026 geen definitieve jaaruitkomst. BOI-regels bevestigen alleen dat buitenlandse participatie onder specifieke voorwaarden mogelijk is.",
+  "blocks": [
+    { "kind": "callout", "id": "bevestigd", "tone": "warning", "title": "Voorspelling, geen eindstand", "description": "Zonder definitieve transactielijst publiceren we geen totaalbedrag, rendement of bezettingsgraad als vastgesteld feit." },
+    { "kind": "prose", "id": "regels", "title": "Wat de BOI-regels wel zeggen", "markdown": "De officiële investeringsdienst beschrijft voorwaarden waaronder een nieuw hotelproject voor BOI-promotie en buitenlands aandeelhouderschap in aanmerking kan komen. Dat is geen algemene toestemming voor iedere bestaande hotelovername." },
+    { "kind": "checklist", "id": "reizigers", "title": "Controleer per hotel", "items": ["Actuele naam en exploitant", "Renovatiewerk en beschikbare faciliteiten", "Live totaalprijs en voorwaarden", "Recente verblijfsreviews", "Officiële openingsbevestiging"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is het oude transactietotaal definitief?", "answer": "Nee. Het was een marktverwachting en geen gecontroleerde eindstand voor heel 2026." },
+      { "question": "Worden hotelkamers goedkoper door investeringen?", "answer": "Niet automatisch. Controleer live prijs, renovatiestatus, locatie en voorwaarden voor jouw datum." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële context", "items": [
+      { "title": "Hotel Business FAQ", "publisher": "Thailand BOI One Start One Stop Investment Center", "url": "https://osos.boi.go.th/TH/faq-group/88/Hotel-Business/", "checkedAt": "2026-08-01", "note": "Voorwaarden rond hotellicentie, nieuw project en BOI-promotie." },
+      { "title": "Tourism Statistics 2026", "publisher": "Ministry of Tourism and Sports Thailand", "url": "https://www.mots.go.th/news/category/816", "checkedAt": "2026-08-01", "note": "Voorlopige toerismestatistiek; geen hoteltransactieregister." },
+      { "title": "Thailand Tourism Next", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/01/tat-sets-thailand-tourism-next-for-value-growth-plan/", "checkedAt": "2026-08-01", "note": "Officiële strategiecontext voor kwaliteit en duurzame waarde." }
+    ] }
+  ]
+}

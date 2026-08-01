@@ -34,7 +34,7 @@ import { SectionHeading } from '../design/SectionHeading';
 import { SourceMethodSection } from '../design/SourceMethodSection';
 
 const PAGE_URL = 'https://go2-thailand.com/nl/blog/durian-season-thailand-2026-where-to-eat-buy-guide/';
-const HERO_IMAGE = '/images/redesign/durian-season-hero.webp';
+const HERO_IMAGE = '/images/redesign/editorial/durian-season-thailand-2026-where-to-eat-buy-guide-hero.webp';
 const PAGE_TITLE = 'Durian in Thailand: seizoen, soorten en waar proeven';
 const PAGE_DESCRIPTION = 'Plan je eerste durian in Thailand met een regionale seizoenskalender, cultivar- en rijpheidskeuze, koopcheck, Bangkok-opties en boomgaardroute.';
 
@@ -159,7 +159,7 @@ function createSchemas() {
   return [
     {
       '@context': 'https://schema.org', '@type': 'Article', '@id': `${PAGE_URL}#article`, headline: PAGE_TITLE,
-      description: PAGE_DESCRIPTION, image: `https://go2-thailand.com${HERO_IMAGE}`, datePublished: '2026-03-23', dateModified: '2026-07-25',
+      description: PAGE_DESCRIPTION, image: `https://go2-thailand.com${HERO_IMAGE}`, datePublished: '2026-03-23', dateModified: '2026-08-01',
       inLanguage: 'nl-NL', mainEntityOfPage: PAGE_URL,
       author: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
       publisher: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
@@ -200,7 +200,7 @@ export function DurianThailandGuide() {
         <meta name="keywords" content="durian thailand, durian seizoen thailand, durian soorten thailand, durian bangkok, durian kopen thailand, monthong chanee" />
         <meta property="og:type" content="article" />
         <meta property="article:published_time" content="2026-03-23" />
-        <meta property="article:modified_time" content="2026-07-25" />
+        <meta property="article:modified_time" content="2026-08-01" />
         {schemas.map((schema, index) => <script key={`${schema['@type']}-${index}`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
@@ -463,7 +463,7 @@ export function DurianThailandGuide() {
           </div>
         </section>
 
-        <FaqSplitSection id="vragen" eyebrow="Echte vragen uit de zoekresultaten" title="Veelgestelde vragen over durian in Thailand" description="De antwoorden scheiden actuele regionale feiten van smaak, prijs en beleid dat je aan de kraam of bij de vervoerder moet controleren." items={faqs} />
+        <FaqSplitSection id="vragen" eyebrow="Praktische koopvragen" title="Veelgestelde vragen over durian in Thailand" description="De antwoorden scheiden actuele regionale feiten van smaak, prijs en beleid dat je aan de kraam of bij de vervoerder moet controleren." items={faqs} />
 
         <RelatedGuidesSection
           eyebrow="Bouw je fruitreis verder"
@@ -477,7 +477,7 @@ export function DurianThailandGuide() {
 
         <SourceMethodSection
           title="Regionale data boven een universele kalender"
-          description="DFS bepaalde de Nederlandse zoekvragen, PAA en SERP-gaten. Seizoen, cultivar en BTS-regels zijn teruggebracht naar Thaise overheids-, ambassade-, TAT- en operatorbronnen. Oude bronprijzen en ongeverifieerde festivals of buffetten zijn niet overgenomen. Laatst gecontroleerd: 25 juli 2026."
+          description="Seizoen, cultivar en vervoersregels zijn opnieuw gecontroleerd via Thaise overheids-, ambassade-, TAT- en operatorbronnen. Oude bronprijzen en ongeverifieerde festivals of buffetten zijn niet overgenomen. Laatst gecontroleerd: 1 augustus 2026."
           sources={sources}
         />
       </div>

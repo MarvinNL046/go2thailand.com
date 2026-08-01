@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "durian-season-thailand-2026-where-to-eat-buy-guide",
+  "route": "/nl/blog/durian-season-thailand-2026-where-to-eat-buy-guide/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Durian in Thailand: seizoen, soorten en proeven | Go2Thailand",
+    "description": "Plan een durianproeverij met regionale oogstcontext, cultivar- en rijpheidskeuze, koopchecks en actuele markt- of boomgaardvoorwaarden.",
+    "primaryKeyword": "durian seizoen Thailand",
+    "secondaryKeywords": ["durian eten Bangkok", "durian Chanthaburi", "durian soorten Thailand"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/durian-season-thailand-2026-where-to-eat-buy-guide/"
+  },
+  "hero": {
+    "eyebrow": "Proef met seizoenkennis",
+    "title": "Durian in Thailand",
+    "accent": "Rijpheid vóór reputatie",
+    "description": "Gebruik regionale oogstvensters als startpunt en bevestig cultivar, herkomst, eenheid en rijpheid aan de kraam.",
+    "image": "/images/redesign/editorial/durian-season-thailand-2026-where-to-eat-buy-guide-hero.webp",
+    "imageAlt": "Rijpe durian wordt zorgvuldig geopend op een fruitmarkt in Oost-Thailand",
+    "primaryCta": { "label": "Bekijk het seizoen", "href": "#seizoen" },
+    "secondaryCta": { "label": "Doe de koopcheck", "href": "#koopcheck" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "dish", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Voor Oost-Thailand is mei vaak een sterke eerste gok, maar oogst verschilt per jaar, provincie en cultivar. Koop een kleine geopende portie en bevestig rijpheid, herkomst, prijsbasis en accommodatie- of vervoersregels.",
+  "blocks": [
+    { "kind": "comparison", "id": "seizoen", "title": "Regio bepaalt het venster", "options": [
+      { "title": "Chanthaburi en Rayong", "description": "TAT noemt mei–juli als sterke boomgaardperiode; de exacte oogst verschuift per jaar en cultivar." },
+      { "title": "Bangkok", "description": "Aanvoer uit meerdere regio’s verlengt de keuze, maar zegt niets over rijpheid van één bakje." },
+      { "title": "Andere regio’s", "description": "Gebruik provinciale of operatorinformatie van jouw reisjaar; neem een oostelijke kalender niet landelijk over." }
+    ] },
+    { "kind": "checklist", "id": "koopcheck", "title": "Vraag vóór openen", "items": ["Welke cultivar en herkomst?", "Welke rijpheid spreken we af?", "Per kilogram of per bakje?", "Wat is het getoonde totaal?", "Waar mag ik de durian eten of vervoeren?"] },
+    { "kind": "callout", "id": "veilig", "tone": "warning", "title": "Eet geopend fruit vers en schoon", "description": "Kies een schone werkplek, intact vruchtvlees en gekoelde bewaring wanneer je niet direct eet. Laat kwetsbare reizigers bij twijfel lokaal gezondheidsadvies volgen." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Wanneer is het durianseizoen in Thailand?", "answer": "Er is geen landelijk vast venster. Oost-Thailand heeft vaak veel aanbod rond mei–juli, maar controleer de regionale kalender van jouw reisjaar." },
+      { "question": "Waar proef ik durian in Bangkok?", "answer": "Fruitmarkten en gespecialiseerde verkopers zijn praktische startpunten. Vergelijk cultivar, rijpheid, herkomst en eenheid per kraam." },
+      { "question": "Welke durian is het beste?", "answer": "Dat is smaakafhankelijk. Vergelijk kleine porties op vergelijkbare rijpheid in plaats van alleen de duurste cultivar te kiezen." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Oogst- en bestemmingsbronnen", "items": [
+      { "title": "Eastern durian quality measures 2026", "publisher": "Thailand Department of Agriculture", "url": "https://www.doa.go.th/th/news_release/106997/", "checkedAt": "2026-08-01", "note": "Primaire context voor kwaliteitscontrole in de oostelijke oogst." },
+      { "title": "Chanthaburi–Rayong fruit route", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/chanthaburi-rayong", "checkedAt": "2026-08-01", "note": "Officiële boomgaardcontext en indicatief venster mei–juli." },
+      { "title": "Rayong Fruit Festival 2026", "publisher": "Tourism Authority of Thailand", "url": "https://thai.tourismthailand.org/Articles/fruits-festival-rayong-2026", "checkedAt": "2026-08-01", "note": "Historische 2026-eventcheck; niet hergebruiken als datum voor een volgende editie." }
+    ] }
+  ]
+}

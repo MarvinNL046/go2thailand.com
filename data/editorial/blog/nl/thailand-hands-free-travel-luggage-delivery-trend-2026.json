@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-hands-free-travel-luggage-delivery-trend-2026",
+  "route": "/nl/blog/thailand-hands-free-travel-luggage-delivery-trend-2026/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Bagage bezorgen in Thailand: opslag en overdracht | Go2Thailand",
+    "description": "Vergelijk bagageopslag en -bezorging in Thailand. Controleer route, deadline, verzekering, hoteloverdracht en actuele voorwaarden vóór je boekt.",
+    "primaryKeyword": "bagage bezorgen Thailand",
+    "secondaryKeywords": ["bagageopslag Bangkok", "koffer bezorgen Bangkok", "hands-free reizen Thailand"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/thailand-hands-free-travel-luggage-delivery-trend-2026/"
+  },
+  "hero": {
+    "eyebrow": "Licht reizen, strak overdragen",
+    "title": "Bagage bezorgen in Thailand",
+    "accent": "Kies op route en voorwaarden",
+    "description": "Opslag en bezorging kunnen tijd besparen, mits afleverpunt, marge, bewijs en essentiële handbagage kloppen.",
+    "image": "/images/redesign/editorial/thailand-hands-free-travel-luggage-delivery-trend-2026-hero.webp",
+    "imageAlt": "Reiziger draagt een koffer over aan een bemande bagageservice in een luchthavenhal in Thailand",
+    "primaryCta": { "label": "Vergelijk de opties", "href": "#opties" },
+    "secondaryCta": { "label": "Veilige overdracht", "href": "#overdracht" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kies opslag als je op hetzelfde punt terugkomt en bezorging als twee bevestigde locaties en ruime tijdsmarge aantoonbaar beter passen. Houd documenten, medicatie, elektronica en spullen voor de eerste nacht zelf bij je.",
+  "blocks": [
+    { "kind": "comparison", "id": "opties", "title": "Opslag, stad of interprovinciaal", "options": [
+      { "title": "Bagageopslag", "description": "Brengen en ophalen op dezelfde bemande locatie; controleer uren en ophaalmarge." },
+      { "title": "Bezorging in de stad", "description": "Tussen ondersteunde luchthaven-, hotel- of winkelpunten; bevestig beide adressen live." },
+      { "title": "Interprovinciaal", "description": "Langere doorlooptijd; pak handbagage alsof de grote koffer een dag later arriveert." }
+    ] },
+    { "kind": "steps", "id": "overdracht", "title": "Veilige overdracht", "steps": [
+      { "title": "Controleer", "description": "Bevestig officiële balie, route, tijden, uitsluitingen en verzekering." },
+      { "title": "Leg vast", "description": "Fotografeer de gesloten koffer en bewaar ontvangstbewijs en tracking offline." },
+      { "title": "Bevestig ontvangst", "description": "Vraag of accommodatiepersoneel de tas mag aannemen en onder welke boekingsnaam." }
+    ] },
+    { "kind": "checklist", "id": "dagtas", "title": "Dit blijft bij je", "items": ["Paspoort en betaalmiddelen", "Medicatie en medische informatie", "Telefoon en toegestane batterijen", "Eerste set kleding", "Sleutels en accommodatiegegevens"] },
+    { "kind": "callout", "id": "marge", "tone": "warning", "title": "Geen kritieke aansluiting op de vroegste belofte", "description": "Plan ruime marge voor een vlucht, trein of ferry. Lees dekking, uitzonderingen en claimprocedure voordat je waardevolle bagage overdraagt." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Kan mijn koffer van Suvarnabhumi naar mijn hotel?", "answer": "Aanbieders tonen stadsroutes, maar voer beide locaties en je datum in de actuele boekingsmodule in." },
+      { "question": "Is bagagebezorging verzekerd?", "answer": "Dat verschilt per product. Lees limiet, uitzonderingen en bewijsvereisten en houd essentiële spullen zelf bij je." },
+      { "question": "Moet mijn hotel de tas aannemen?", "answer": "Alleen na bevestiging. Controleer receptietijden, boekingsnaam en wat er gebeurt wanneer niemand aanwezig is." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Operator- en luchthavenbronnen", "items": [
+      { "title": "Luggage Delivery and Storage", "publisher": "AIRPORTELs", "url": "https://www.airportels.asia/", "checkedAt": "2026-08-01", "note": "Actuele servicetypen en locatie-ingangen; voorwaarden live controleren." },
+      { "title": "Live booking module", "publisher": "AIRPORTELs", "url": "https://app.airportels.asia/", "checkedAt": "2026-08-01", "note": "Beschikbare trajecten en boekingsvelden; geen vaste prijs overgenomen." },
+      { "title": "Airports of Thailand", "publisher": "AOT", "url": "https://www.airportthai.co.th/", "checkedAt": "2026-08-01", "note": "Officiële luchthaveninformatie voor terminal- en contactchecks." }
+    ] }
+  ]
+}
