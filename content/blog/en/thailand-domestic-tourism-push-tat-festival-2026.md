@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["domestic tourism", "TAT", "Thailand Tourism Festival", "tourism 2026", "travel stimulus"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-domestic-tourism-push-tat-festival-2026-hero.webp"
 description: "The Tourism Authority of Thailand is doubling down on domestic travel, targeting 210 million trips and 1 trillion baht in revenue as global headwinds slow international arrivals."
 featured: false
 readingTime: 3
@@ -44,4 +44,4 @@ For visitors already in Thailand, the domestic push means more competitive hotel
 
 With [international arrivals down 4.4 percent](/blog/thailand-tourism-7-million-visitors-march-2026/) compared to the same period in 2025, the domestic market provides a critical buffer. If TAT hits its targets, domestic tourism will generate more revenue than at any point since before the pandemic, marking a structural shift in how Thailand's tourism economy is balanced. This fits into TAT's broader [value-over-volume strategy](/blog/thailand-tourism-next-strategy-value-over-volume-2026/) and the push toward [sustainable and regional tourism destinations](/blog/thailand-star-green-tourism-accreditation-2026/).
 
-Heading to Thailand soon? Make sure you've filled in your [Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) before you fly — it's mandatory for all arrivals since May 2025.
+Heading to Thailand soon? Make sure you've filled in your [Digital Arrival Card (TDAC)](/visa/digital-arrival-card/) before you fly — it's mandatory for all arrivals since May 2025.

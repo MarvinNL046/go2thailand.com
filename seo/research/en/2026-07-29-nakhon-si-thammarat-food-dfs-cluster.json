@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-29T13:26:42.247Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "nakhon si thammarat food",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "nakhon si thammarat food"
+  ],
+  "keywords": [
+    {
+      "keyword": "nakhon si thammarat food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

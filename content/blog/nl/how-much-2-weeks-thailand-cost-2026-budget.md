@@ -108,7 +108,7 @@ Accommodatie is vaak de grootste uitgave, maar Thailand biedt een enorme variët
 
 ### Middenklasse accommodatie-opties
 
-**3-sterren hotels en middenklasse resorts** kosten **฿800–1.500 per nacht**. Dit omvat privé badkamers, airco, ontbijt en vaak een zwembad of gym. Op eilanden zoals [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) liggen de prijzen aan de hogere kant tijdens het hoogseizoen. Bekijk de [beste hotels in Chiang Mai](https://go2-thailand.com/best-hotels/chiang-mai/) of [beste hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/) voor opties in elk prijssegment.
+**3-sterren hotels en middenklasse resorts** kosten **฿800–1.500 per nacht**. Dit omvat privé badkamers, airco, ontbijt en vaak een zwembad of gym. Op eilanden zoals [Koh Samui](https://go2-thailand.com/city/koh-samui/) of in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) liggen de prijzen aan de hogere kant tijdens het hoogseizoen. Bekijk de [beste hotels in Chiang Mai](https://go2-thailand.com/best-hotels/chiang-mai/) of [beste hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/) voor opties in elk prijssegment.
 
 **Boutique guesthouses** (฿600–1.000) bieden karakter en lokale gastvrijheid zonder het corporate gevoel.
 
@@ -433,7 +433,7 @@ Kosten variëren sterk per locatie:
 - **Eilanden:** Middenklasse (฿1.200–2.000/dag middenklasse)
 - **Isaan regio:** Zeer goedkoop (฿600–1.200/dag middenklasse)
 
-Breng meer tijd door in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) of de [noordelijke regio](https://go2-thailand.com/region/northern/) om je budget te rekken. Onze [vergelijking budget vs. comfort travel](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/) zet de echte afwegingen op een rij.
+Breng meer tijd door in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) of de [noordelijke regio](https://go2-thailand.com/region/northern/) om je budget te rekken. Onze [vergelijking budget vs. comfort travel](https://go2-thailand.com/nl/thailand-index/budget/) zet de echte afwegingen op een rij.
 
 ### Eten trucs
 
@@ -540,7 +540,7 @@ Gebruik deze checklist voor je boeking om je echte kosten in te schatten.
 - [ ] Meld je bank van je reisdata
 - [ ] Boek eerste 3–4 nachten accommodatie
 - [ ] Onderzoek [Thailand weer](https://go2-thailand.com/weather/) voor je reisdata
-- [ ] Regel een [eSIM of SIM-kaart](https://go2-thailand.com/esim/) – bekijk de [beste SIM-kaart gids voor 2026](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/)
+- [ ] Regel een [eSIM of SIM-kaart](https://go2-thailand.com/esim/) – bekijk de [beste SIM-kaart gids voor 2026](/nl/travel-guides/sim-card-thailand/)
 - [ ] Lees over [Thailand reisscams om te vermijden](https://go2-thailand.com/blog/thailand-travel-scams-2026/)
 - [ ] Download offline kaarten en vertaal-apps
 - [ ] Check [vaccinatievereisten](https://go2-thailand.com/travel-guides/health-hospitals-thailand/)

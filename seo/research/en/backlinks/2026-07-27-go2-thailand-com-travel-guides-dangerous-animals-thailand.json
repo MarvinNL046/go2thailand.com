@@ -1,0 +1,64 @@
+{
+  "captured_at": "2026-07-27T08:28:22.160Z",
+  "locale": "en",
+  "target": "https://go2-thailand.com/travel-guides/dangerous-animals-thailand/",
+  "cost": 0.024036,
+  "summary": {
+    "rank": 0,
+    "backlinks": 3,
+    "referringDomains": 1,
+    "referringPages": 1,
+    "referringMainDomains": 1,
+    "dofollow": null,
+    "firstSeen": "2026-06-08 20:49:33 +00:00"
+  },
+  "raw": {
+    "target": "https://go2-thailand.com/travel-guides/dangerous-animals-thailand/",
+    "first_seen": "2026-06-08 20:49:33 +00:00",
+    "lost_date": null,
+    "rank": 0,
+    "backlinks": 3,
+    "backlinks_spam_score": 5,
+    "crawled_pages": 1,
+    "info": {
+      "server": "cloudflare",
+      "cms": null,
+      "platform_type": [
+        "organization"
+      ],
+      "ip_address": "172.67.141.200",
+      "country": "WW",
+      "is_ip": false,
+      "target_spam_score": 0
+    },
+    "internal_links_count": 60,
+    "external_links_count": 14,
+    "broken_backlinks": 0,
+    "broken_pages": 0,
+    "referring_domains": 1,
+    "referring_domains_nofollow": 0,
+    "referring_main_domains": 1,
+    "referring_main_domains_nofollow": 0,
+    "referring_ips": 1,
+    "referring_subnets": 1,
+    "referring_pages": 1,
+    "referring_pages_nofollow": 0,
+    "referring_links_tld": {
+      "de": 1
+    },
+    "referring_links_types": {
+      "anchor": 1
+    },
+    "referring_links_attributes": null,
+    "referring_links_platform_types": {
+      "blogs": 1,
+      "cms": 1
+    },
+    "referring_links_semantic_locations": {
+      "article": 1
+    },
+    "referring_links_countries": {
+      "DE": 1
+    }
+  }
+}

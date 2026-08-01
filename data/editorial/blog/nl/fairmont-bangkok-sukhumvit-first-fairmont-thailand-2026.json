@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "fairmont-bangkok-sukhumvit-first-fairmont-thailand-2026",
+  "route": "/nl/blog/fairmont-bangkok-sukhumvit-first-fairmont-thailand-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Fairmont Bangkok Sukhumvit: status en ligging | Go2Thailand",
+    "description": "Beoordeel Fairmont Bangkok Sukhumvit op actuele openingsstatus, ligging bij Asok, kamerkeuze en live totaalprijs voor jouw reisdata.",
+    "primaryKeyword": "Fairmont Bangkok Sukhumvit",
+    "secondaryKeywords": ["Fairmont hotel Bangkok", "luxe hotel Sukhumvit", "hotel bij Asok Bangkok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/fairmont-bangkok-sukhumvit-first-fairmont-thailand-2026/"
+  },
+  "hero": {
+    "eyebrow": "Nieuw hotel, status eerst",
+    "title": "Fairmont Bangkok Sukhumvit",
+    "accent": "Controleer vóór je boekt",
+    "description": "Officiële Fairmont- en Accor-pagina's tonen boekbare aanbiedingen én een opening in de tweede helft van 2026. Controleer daarom de exacte verblijfsdatum en operationele status.",
+    "image": "/images/redesign/editorial/fairmont-bangkok-sukhumvit-first-fairmont-thailand-2026-hero.webp",
+    "imageAlt": "Luxe hotelentree in Sukhumvit bij avondlicht met de skyline van Bangkok",
+    "primaryCta": { "label": "Bekijk de status", "href": "#status" },
+    "secondaryCta": { "label": "Controleer je kamer", "href": "#kamercheck" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Fairmont Bangkok Sukhumvit staat officieel als Thailands eerste Fairmont gepositioneerd. Op 1 augustus 2026 lopen de officiële signalen over de precieze openingsstatus uiteen; boek alleen als jouw datum echt beschikbaar is en bevestig dat de gewenste faciliteiten operationeel zijn.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "status",
+      "tone": "warning",
+      "title": "De oorspronkelijke juniclaim is niet langer leidend",
+      "description": "Accor noemt op de hotelpagina een opening in de tweede helft van 2026, terwijl Fairmont al openingsaanbiedingen toont. Dat verschil vraagt om een live controle voor jouw datum; deze pagina belooft geen openingsdag."
+    },
+    {
+      "kind": "comparison",
+      "id": "match",
+      "title": "Wanneer past deze ligging?",
+      "options": [
+        { "title": "Sukhumvit en Asok", "description": "Sterk wanneer restaurants, winkels, BTS en MRT een groot deel van je stadsdagen bepalen.", "label": "Logische match" },
+        { "title": "Zakelijk of evenement", "description": "Vergaderruimtes en centrale bereikbaarheid kunnen passen, maar controleer operationele faciliteiten expliciet.", "label": "Statuscheck" },
+        { "title": "Historisch Bangkok", "description": "Voor tempels, Banglamphu en rivierdagen kan een westelijker hotel minder reistijd geven.", "label": "Vergelijk buurten" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "kamercheck",
+      "title": "Controleer vóór je betaalt",
+      "items": ["Is het hotel operationeel op jouw aankomstdatum?", "Is de exacte kamercategorie echt boekbaar?", "Welke restaurants, spa, zwembad en lounge zijn open?", "Wat is de totaalprijs inclusief belastingen?", "Welke annulerings- en wijzigingsvoorwaarden gelden?", "Is de looproute naar BTS Asok of MRT Sukhumvit praktisch voor jou?"]
+    },
+    {
+      "kind": "affiliate",
+      "id": "prijs",
+      "provider": "trip.com",
+      "title": "Controleer beschikbaarheid en actuele totaalprijs",
+      "description": "Vergelijk alleen een daadwerkelijk boekbare kamer voor jouw data. Controleer belastingen, ontbijt, faciliteiten en annulering op de live providerpagina.",
+      "cta": { "label": "Bekijk actuele hotelprijzen", "href": "https://trip.tpo.lv/TmObooZ5?subid=fairmont-bangkok-sukhumvit-nl", "external": true },
+      "placement": "fairmont-bangkok-live-price",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is Fairmont Bangkok Sukhumvit geopend?", "answer": "De officiële pagina's geven op 1 augustus 2026 geen volledig eenduidig signaal: Fairmont toont openingsaanbiedingen, terwijl Accor nog 'opening tweede helft 2026' vermeldt. Controleer jouw datum rechtstreeks." },
+        { "question": "Is dit het eerste Fairmont in Thailand?", "answer": "Fairmont en ontwikkelaar AWC positioneren het hotel als het eerste Fairmont-hotel in Thailand." },
+        { "question": "Ligt het hotel direct aan BTS of MRT?", "answer": "Het adres ligt aan Sukhumvit 20; Accor noemt BTS Asok op ongeveer 530 meter. Controleer de werkelijke looproute en hitte voor jouw dagplan." },
+        { "question": "Wat kost een kamer?", "answer": "Er is geen duurzame vaste prijs. Gebruik de actuele totaalprijs voor je datum, bezetting, kamertype en voorwaarden." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "vergelijken",
+      "title": "Vergelijk de hotelkeuze",
+      "items": [
+        { "title": "Beste hotels in Bangkok", "description": "Vergelijk meerdere buurten en hotelprofielen.", "href": "/nl/best-hotels/bangkok/" },
+        { "title": "Waar overnachten in Bangkok?", "description": "Koppel Sukhumvit aan je dagelijkse route.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
+        { "title": "BTS en MRT", "description": "Plan het openbaar vervoer vanuit Sukhumvit.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële hotelbronnen",
+      "items": [
+        { "title": "Fairmont Bangkok Sukhumvit", "publisher": "Fairmont", "url": "https://www.fairmont.com/en/hotels/bangkok/fairmont-bangkok-sukhumvit.html", "checkedAt": "2026-08-01", "note": "Officiële hotelpagina met actuele aanbiedingen; beschikbaarheid blijft datumgebonden." },
+        { "title": "Fairmont Bangkok Sukhumvit — opening second half 2026", "publisher": "Accor", "url": "https://all.accor.com/hotel/C1G0/index.en.shtml", "checkedAt": "2026-08-01", "note": "Officiële status, adres, kamers en voorzieningen; status wijkt af van oudere juniclaims." },
+        { "title": "First Fairmont hotel in Thailand", "publisher": "Asset World Corporation", "url": "https://www.assetworldcorp-th.com/en/newsroom/news-activities/593/awc-launches-the-first-fairmont-hotel-in-thailand-under-agreement-with-accor-to-elevate-bangkok-as-a-global-hub-for-luxury-mice-market", "checkedAt": "2026-08-01", "note": "Merk- en projectcontext; niet gebruikt als actuele openingsgarantie." }
+      ]
+    }
+  ]
+}

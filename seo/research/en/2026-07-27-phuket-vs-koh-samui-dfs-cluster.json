@@ -1,0 +1,742 @@
+{
+  "captured_at": "2026-07-27T08:28:23.494Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "phuket vs koh samui",
+  "costs": {
+    "suggestions": 0.01512,
+    "related": 0.01488,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "phuket vs koh samui",
+    "koh samui vs phuket",
+    "koh samui vs phuket vs krabi",
+    "krabi vs koh samui vs phuket",
+    "krabi vs phuket vs koh samui",
+    "phuket vs koh samui vs krabi",
+    "phuket vs krabi vs koh samui",
+    "koh samui vs krabi vs phuket",
+    "koh samui vs phuket honeymoon",
+    "koh samui vs phuket nightlife",
+    "koh samui vs phuket reddit",
+    "krabi vs phuket vs koh samui reddit",
+    "pattaya vs phuket vs koh samui",
+    "phuket or koh samui for families",
+    "phuket vs koh samui reddit",
+    "phuket vs koh samui weather",
+    "phuket vs krabi vs koh samui vs phi phi",
+    "phuket vs pattaya vs koh samui"
+  ],
+  "keywords": [
+    {
+      "keyword": "krabi to phuket",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui vs phuket",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi vs phuket",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket vs koh samui",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui vs krabi",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi vs koh samui",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui vs phuket vs krabi",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi vs koh samui vs phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi vs phuket vs koh samui",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket vs koh samui vs krabi",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket vs krabi vs koh samui",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui vs krabi vs phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui vs phuket honeymoon",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui vs phuket nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui vs phuket reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi or koh samui for family",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi or phuket for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi vs koh samui reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi vs phuket nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi vs phuket reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi vs phuket vs koh samui reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi vs phuket which is better",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya vs phuket vs koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket or koh samui for families",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket or krabi with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket vs koh samui reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket vs koh samui weather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket vs krabi vs koh samui vs phi phi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket vs pattaya vs koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bali vs phuket vs koh samui",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui vs phuket expat",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui vs phuket in may",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in phuket vs koh samui",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket vs koh samui to live",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket vs koh samui vs pattaya",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket vs koh samui vs phi phi",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket vs koh samui wedding",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket vs phi phi vs koh samui",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 1.3333333333333333,
+      "keywordCount": 3,
+      "visibility": 2.9,
+      "estimatedTraffic": 147.04
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 3.6666666666666665,
+      "keywordCount": 3,
+      "visibility": 2.2,
+      "estimatedTraffic": 76.646
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 3.6666666666666665,
+      "keywordCount": 3,
+      "visibility": 2.2,
+      "estimatedTraffic": 223.57
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 4.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.9000000000000001,
+      "estimatedTraffic": 23.914
+    },
+    {
+      "domain": "mel365.com",
+      "avgPosition": 9.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.6,
+      "estimatedTraffic": 25.165999999999997
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 1.2,
+      "estimatedTraffic": 49.243
+    },
+    {
+      "domain": "postcardsbyhannah.com",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 16.2
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 2.265
+    },
+    {
+      "domain": "www.travelwithdestinationz.com",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 2.265
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.735
+    },
+    {
+      "domain": "www.onthegotours.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.655
+    },
+    {
+      "domain": "www.saexpeditions.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.45999999999999996
+    },
+    {
+      "domain": "www.thekohsamuiguide.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 18.537000000000003
+    },
+    {
+      "domain": "alike.io",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.47
+    },
+    {
+      "domain": "www.southeastasiasimplified.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.35
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.6699999999999999
+    },
+    {
+      "domain": "traveltriangle.com",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.32999999999999996
+    },
+    {
+      "domain": "travioxa.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.22999999999999998
+    },
+    {
+      "domain": "www.tisland.travel",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.22499999999999998
+    },
+    {
+      "domain": "www.budgetyourtrip.com",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.777
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 33.873
+    },
+    {
+      "domain": "www.odynovotours.com",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "krabinature.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.24
+    },
+    {
+      "domain": "www.tripadvisor.in",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "travel.eatsandretreats.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "explorewithwonder.com",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.201
+    },
+    {
+      "domain": "www.siamroute.com",
+      "avgPosition": 38,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.phuket-escape.com",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.mustseespots.com",
+      "avgPosition": 41.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "pixidia.com",
+      "avgPosition": 42,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "adventureswithcarli.com",
+      "avgPosition": 42.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.tripkolic.com",
+      "avgPosition": 50.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.travelbag.co.uk",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 1.69
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.565
+    },
+    {
+      "domain": "www.villa-finder.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 8.136
+    },
+    {
+      "domain": "samui-authentic.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.5520000000000005
+    },
+    {
+      "domain": "gotravelphuket.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.3999999999999995
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.295
+    },
+    {
+      "domain": "www.inspiringvillas.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.248
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.032
+    },
+    {
+      "domain": "medium.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.215
+    },
+    {
+      "domain": "www.thaiembassy.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.096
+    },
+    {
+      "domain": "theworkingtraveller.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.376
+    },
+    {
+      "domain": "midlifetravel.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.9440000000000002
+    },
+    {
+      "domain": "www.cestee.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.11
+    },
+    {
+      "domain": "de.hotels.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "www.hoteis.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "halfdigitalnomad.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    }
+  ]
+}

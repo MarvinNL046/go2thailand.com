@@ -1,0 +1,3163 @@
+{
+  "captured_at": "2026-07-27T19:09:26.120Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand weather",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.02616,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand weather",
+    "bangkok thailand weather",
+    "phuket thailand weather",
+    "thailand bangkok weather",
+    "thailand phuket weather",
+    "thailand weather bangkok",
+    "thailand weather phuket",
+    "weather bangkok thailand",
+    "weather in thailand bangkok",
+    "weather in thailand phuket",
+    "weather thailand bangkok",
+    "weather thailand phuket",
+    "april in thailand weather",
+    "april thailand weather",
+    "april weather in thailand",
+    "april weather thailand",
+    "december in thailand weather",
+    "december thailand weather",
+    "december weather in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "bangkok thailand weather",
+      "volume": 12100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand weather",
+      "volume": 12100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand bangkok weather",
+      "volume": 12100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand phuket weather",
+      "volume": 12100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather",
+      "volume": 12100,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather bangkok",
+      "volume": 12100,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather phuket",
+      "volume": 12100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather bangkok thailand",
+      "volume": 12100,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand bangkok",
+      "volume": 12100,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand phuket",
+      "volume": 12100,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand bangkok",
+      "volume": 12100,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand phuket",
+      "volume": 12100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "april in thailand weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "april thailand weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "april weather in thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "april weather thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "december in thailand weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "december thailand weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "december weather in thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "december weather thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui thailand weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "november in thailand weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "november thailand weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "november weather in thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "november weather thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "october in thailand weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "october thailand weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "october weather in thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "october weather thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand april weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand december weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in april weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in december weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in november weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in october weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand koh samui weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand november weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand october weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather april",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather december",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather in april",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in december",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in november",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in october",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather koh samui",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather nov",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather november",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather october",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather for thailand in december",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather for thailand in november",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather for thailand in october",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in october in thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in samui thailand",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand",
+      "volume": 6600,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand april",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand dec",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand december",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for april",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for december",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for november",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for october",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in april",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in december",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in november",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in october",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand koh samui",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand november",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand october",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand on april",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand on december",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand on november",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in april",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in december",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in november",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in october",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand april",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand december",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand koh samui",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand november",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand october",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "august in thailand weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "august thailand weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "august weather in thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "august weather thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "january in thailand weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "january thailand weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "january weather thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya city thailand weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand august weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in august weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in january weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand january weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather august",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in august",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in january",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather january",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather pattaya",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather august thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in august in thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in pattaya thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand august",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for august",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in august",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in january",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand jan",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand january",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand on january",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand pattaya",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in august",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in january",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather pattaya city bang lamung district chon buri thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather pattaya thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand august",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand january",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand pattaya",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather-pattaya city bang lamung district chon buri thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "february thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "february weather in thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "february weather thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "july in thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "july thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "july weather in thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "july weather thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "june in thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "june thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "june weather thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi weather thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "march in thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "march thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "march weather thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "may in thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "may thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "may weather thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "september in thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "september thailand weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "september weather in thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "september weather thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in february weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in july weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in june weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in march weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand in september weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand july weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand june weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand march weather",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather feb",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather february",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather in february",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in july",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in june",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in march",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in may",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in september",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather july",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather june",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather krabi",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather march",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather may",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather september",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather at krabi thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather february thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather for krabi thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather for thailand in february",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather for thailand in march",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather for thailand in september",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in may in thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand during may",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand feb",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for february",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for july",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for june",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for may",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand for september",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in february",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in july",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in june",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in march",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in may",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in september",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand july",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand june",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand krabi",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand march",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand may",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand on july",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand on june",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand september",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather krabi thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in february",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in july",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in june",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in march",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather of thailand in may",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand in september",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand july",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand march",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand may",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand september",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather november",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather november phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather by month",
+      "volume": 1600,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather december phuket",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather october phuket",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in phuket in december",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather may phuket",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather september phuket",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather phuket january",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather december",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather november",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather november koh samui",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather january",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather november",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather november krabi",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather september koh samui",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hottest month in thailand",
+      "volume": 480,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather by month",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather december",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather december",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 14 days",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 30 days",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in phuket 10 days",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in thailand 10 days",
+      "volume": 390,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 14 days",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather year round",
+      "volume": 260,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in bangkok 10 days",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather 14 days",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 30 days",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand weather february",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 15 days",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather thailand december january",
+      "volume": 170,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather forecast 30 days",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather 14 days",
+      "volume": 140,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather warning today",
+      "volume": 140,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather 15 days",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 21 days",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather october november",
+      "volume": 110,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to go in thailand in october",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is it worth going to thailand in september",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand rainfall by month",
+      "volume": 70,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather september october",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather in february 2026",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in bangkok tomorrow",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "does it rain in phuket in november",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is it worth going to thailand in may",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand temperature by month celsius",
+      "volume": 30,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 7 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in thailand in october",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 21 days bbc",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 30 days bbc",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 7 days",
+      "volume": 20,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand in october november",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather november 2026",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather october rain",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather temperature by month",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather warning today bangkok",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather warning today map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand weather by month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather 15 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather by month celsius",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather by month fahrenheit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 14 days bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 20 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 21 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 30 days accuweather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 30 days bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 60 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "end of october weather in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is november a good time to visit krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi november weather rain",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather november reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket patong weather forecast 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 14 days accuweather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 20 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 30 days accuweather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 6.0 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather november accuweather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather november humidity",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "storm warning thailand today live",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand climate map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand in october reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather by month celsius",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather by month fahrenheit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather by month humidity",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather by month october",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather december fahrenheit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather december winter",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather february celsius",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather february phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather in december bangkok",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather in may in celsius",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather in may rain",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather may bangkok",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather november bangkok",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather november celsius",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather november rain",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather warning heavy rain",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather warning today met office",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather warning today rain",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather forecast in thailand for next 15 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in bangkok tomorrow hourly",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in thailand 10 days phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to wear in thailand in october",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 1.4,
+      "keywordCount": 5,
+      "visibility": 4.8,
+      "estimatedTraffic": 14955.6
+    },
+    {
+      "domain": "weather.metoffice.gov.uk",
+      "avgPosition": 1.6,
+      "keywordCount": 5,
+      "visibility": 4.7,
+      "estimatedTraffic": 13237.400000000001
+    },
+    {
+      "domain": "www.accuweather.com",
+      "avgPosition": 3,
+      "keywordCount": 5,
+      "visibility": 4,
+      "estimatedTraffic": 5886.65
+    },
+    {
+      "domain": "www.tmd.go.th",
+      "avgPosition": 5.2,
+      "keywordCount": 5,
+      "visibility": 2.9000000000000004,
+      "estimatedTraffic": 2750.33
+    },
+    {
+      "domain": "www.timeanddate.com",
+      "avgPosition": 5.8,
+      "keywordCount": 5,
+      "visibility": 2.65,
+      "estimatedTraffic": 2839.87
+    },
+    {
+      "domain": "weather.com",
+      "avgPosition": 8.6,
+      "keywordCount": 5,
+      "visibility": 1.4,
+      "estimatedTraffic": 1257.1899999999998
+    },
+    {
+      "domain": "www.wunderground.com",
+      "avgPosition": 12.4,
+      "keywordCount": 5,
+      "visibility": 0.7,
+      "estimatedTraffic": 647.35
+    },
+    {
+      "domain": "www.holiday-weather.com",
+      "avgPosition": 15,
+      "keywordCount": 5,
+      "visibility": 0.45,
+      "estimatedTraffic": 469.47999999999996
+    },
+    {
+      "domain": "www.worldweatheronline.com",
+      "avgPosition": 16.4,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 395.67
+    },
+    {
+      "domain": "weather.yahoo.com",
+      "avgPosition": 16.6,
+      "keywordCount": 5,
+      "visibility": 0.55,
+      "estimatedTraffic": 538.45
+    },
+    {
+      "domain": "www.theweathernetwork.com",
+      "avgPosition": 19,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 266.2
+    },
+    {
+      "domain": "www.yr.no",
+      "avgPosition": 20.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 193.6
+    },
+    {
+      "domain": "www.netweather.tv",
+      "avgPosition": 24,
+      "keywordCount": 5,
+      "visibility": 0.7,
+      "estimatedTraffic": 899.03
+    },
+    {
+      "domain": "www.meteoblue.com",
+      "avgPosition": 29.4,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 136.73
+    },
+    {
+      "domain": "www.aqi.in",
+      "avgPosition": 15.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 268.62
+    },
+    {
+      "domain": "www.predictwind.com",
+      "avgPosition": 18,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 197.23000000000002
+    },
+    {
+      "domain": "www.msn.com",
+      "avgPosition": 19.25,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 174.24
+    },
+    {
+      "domain": "www.theweatheroutlook.com",
+      "avgPosition": 20,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 285.55999999999995
+    },
+    {
+      "domain": "www.weatherandradar.co.uk",
+      "avgPosition": 36.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 127.05
+    },
+    {
+      "domain": "zoom.earth",
+      "avgPosition": 21.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 137.94
+    },
+    {
+      "domain": "www.weathercrave.co.uk",
+      "avgPosition": 37.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 127.05
+    },
+    {
+      "domain": "www.weather-forecast.com",
+      "avgPosition": 25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 128.26
+    },
+    {
+      "domain": "www.meteoradar.co.uk",
+      "avgPosition": 31,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 101.64
+    },
+    {
+      "domain": "freemeteo.co.uk",
+      "avgPosition": 33.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 101.64
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 121
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 18.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 388.41
+    },
+    {
+      "domain": "www.weatherbug.com",
+      "avgPosition": 42.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 101.64
+    },
+    {
+      "domain": "meteum.ai",
+      "avgPosition": 45,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 101.64
+    },
+    {
+      "domain": "climeradar.com",
+      "avgPosition": 35.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 76.23
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.9,
+      "estimatedTraffic": 718.74
+    },
+    {
+      "domain": "news.sky.com",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 491.26
+    },
+    {
+      "domain": "www.qweather.com",
+      "avgPosition": 55,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 101.64
+    },
+    {
+      "domain": "weathercity.com",
+      "avgPosition": 40.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 76.23
+    },
+    {
+      "domain": "live.xweather.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 208.12
+    },
+    {
+      "domain": "world-weather.info",
+      "avgPosition": 41,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 76.23
+    },
+    {
+      "domain": "forecast7.com",
+      "avgPosition": 57,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 101.64
+    },
+    {
+      "domain": "www.ventusky.com",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 68.97
+    },
+    {
+      "domain": "meteothailande.com",
+      "avgPosition": 61,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 101.64
+    },
+    {
+      "domain": "weather-and-climate.com",
+      "avgPosition": 49.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 76.23
+    },
+    {
+      "domain": "www.windy.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 53.239999999999995
+    },
+    {
+      "domain": "www.yourweather.co.uk",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 50.82
+    },
+    {
+      "domain": "yandex.com.tr",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 50.82
+    },
+    {
+      "domain": "meteo1.net",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 50.82
+    },
+    {
+      "domain": "www.easeweather.com",
+      "avgPosition": 62.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 76.23
+    },
+    {
+      "domain": "www.meteoprog.com",
+      "avgPosition": 62.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 76.23
+    },
+    {
+      "domain": "www.meteo.ng",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 50.82
+    },
+    {
+      "domain": "meteodays.co.uk",
+      "avgPosition": 50,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 50.82
+    },
+    {
+      "domain": "www.thomascook.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 797.39
+    },
+    {
+      "domain": "www.weatherworld.com",
+      "avgPosition": 52,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 50.82
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 567.49
+    }
+  ]
+}

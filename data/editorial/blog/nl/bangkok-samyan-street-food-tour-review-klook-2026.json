@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-samyan-street-food-tour-review-klook-2026",
+  "route": "/nl/blog/bangkok-samyan-street-food-tour-review-klook-2026/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Samyan streetfoodtour Bangkok: past die bij jou? | Go2Thailand",
+    "description": "Beoordeel de Samyan streetfoodtour in Bangkok op route, groepsvorm, eten, allergenen, vervoer en actuele Klook-voorwaarden — zonder nep-review.",
+    "primaryKeyword": "Samyan streetfoodtour Bangkok",
+    "secondaryKeywords": ["Bangkok foodtour Klook", "streetfoodtour Bangkok", "Samyan foodtour"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/bangkok-samyan-street-food-tour-review-klook-2026/"
+  },
+  "hero": {
+    "eyebrow": "Foodtour zonder reviewtoneel",
+    "title": "Samyan streetfoodtour",
+    "accent": "Vergelijk de avond die nu wordt verkocht",
+    "description": "De productpagina kan wijzigen. Controleer route, eetstops, groepsvorm en dieetafhandeling voordat je boekt.",
+    "image": "/images/redesign/editorial/bangkok-samyan-street-food-tour-review-klook-2026-hero.webp",
+    "imageAlt": "Drukke Bangkokse avondstraat met streetfoodkramen en een tuk-tuk",
+    "primaryCta": { "label": "Bekijk de beslischeck", "href": "#beslischeck" },
+    "secondaryCta": { "label": "Vergelijk live", "href": "#boeken" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "class", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Een begeleide Samyan-foodtour past als je op één avond context, vervoer en meerdere proeverijen wilt. Controleer de huidige route, groepsgrootte, dieetmogelijkheden en eindlocatie; een oude review beschrijft niet het product van jouw datum.",
+  "blocks": [
+    { "kind": "comparison", "id": "beslischeck", "title": "Tour of zelfstandig eten?", "options": [
+      { "title": "Kies de tour", "description": "Je wilt uitleg, een vast avondritme en minder zelf zoeken.", "label": "Structuur" },
+      { "title": "Ga zelfstandig", "description": "Je wilt vrij kiezen, rustig eten en kunt zelf route en bestelling regelen.", "label": "Flexibiliteit" },
+      { "title": "Vraag eerst", "description": "Bij ernstige allergie of strikt dieet moet de aanbieder ingrediënt én kruiscontact concreet kunnen bevestigen.", "label": "Dieet" }
+    ] },
+    { "kind": "checklist", "id": "controle", "title": "Controleer op de actuele productpagina", "items": ["Exact ontmoetingspunt en eindpunt", "Duur, vervoer en hoeveelheid lopen", "Werkelijke eetstops en inbegrepen drank", "Groepsgrootte en taal van de gids", "Allergenen, dieetverzoeken en kruiscontact", "Annulering, weersbeleid en minimumdeelname"] },
+    { "kind": "callout", "id": "veilig-eten", "tone": "warning", "title": "Een gids is geen voedselveiligheidsgarantie", "description": "Let op schoon werken, scheiding van rauw en gaar, grondig verhit eten en veilige bewaartemperatuur. Bij twijfel of onvoldoende allergeneninformatie kies je een andere stop." },
+    { "kind": "affiliate", "id": "boeken", "provider": "klook", "title": "Bekijk het product dat nu beschikbaar is", "description": "Controleer live route, prijs, recente ervaringen, inbegrepen onderdelen en voorwaarden. Deze pagina beoordeelt de keuze, niet een onveranderlijk tourpakket.", "cta": { "label": "Bekijk actuele tourdetails", "href": "https://klook.tpo.lv/rvdOEmkN", "external": true }, "placement": "samyan-food-tour-live-check", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is deze foodtour het geld waard?", "answer": "Dat hangt af van de actuele inhoud. Waarde zit vooral in gids, logistiek en context; vergelijk die met wat je zelfstandig wilt organiseren." },
+      { "question": "Is de tour geschikt bij een allergie?", "answer": "Alleen als de aanbieder ingrediënt en kruiscontact voor jouw situatie concreet kan bevestigen. Een dieetlabel is geen garantie." },
+      { "question": "Moet je vooraf veel eten?", "answer": "Controleer hoeveel proeverijen de actuele tour belooft. Eet niet zwaar vlak ervoor, maar kom ook niet met een medisch onverantwoorde lege-maagstrategie." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Eet verder in Bangkok", "items": [
+      { "title": "Bangkok foodgids", "description": "Kies wijk, gerecht en eetmoment voor de rest van je verblijf.", "href": "/nl/city/bangkok/food/" },
+      { "title": "Streetfood in Bangkok", "description": "Vergelijk bredere markten en buurten zonder productreview.", "href": "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Controlebronnen", "items": [
+      { "title": "Best Eats Midnight Food Tour", "publisher": "Klook", "url": "https://www.klook.com/activity/9647-best-eats-midnight-food-tour-tuk-tuk-bangkok/", "checkedAt": "2026-08-01", "note": "Rechtstreeks productrecord; live details blijven leidend." },
+      { "title": "Five keys to safer food", "publisher": "World Health Organization", "url": "https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food", "checkedAt": "2026-08-01", "note": "Algemeen kader voor voedselveilig gedrag." }
+    ] }
+  ]
+}

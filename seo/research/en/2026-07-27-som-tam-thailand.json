@@ -1,0 +1,665 @@
+{
+  "summary": {
+    "captured_at": "2026-07-27T23:36:25.348Z",
+    "locale": "en",
+    "market": {
+      "language_code": "en",
+      "location_name": "United Kingdom"
+    },
+    "keyword": "som tam thailand",
+    "cost": 0.00215,
+    "organic": [
+      {
+        "position": 4,
+        "title": "Som Tam Thai (Central Thai-Style Green Papaya Salad)",
+        "url": "https://www.seriouseats.com/som-tam-green-papaya-salad-5208332",
+        "domain": "www.seriouseats.com",
+        "description": "17 Nov 2021 — The salad combines crunchy strips of unripe green papaya with fresh chiles, pungent garlic, savory dried shrimp, roasted peanuts, long beans, and tomatoes Read more"
+      },
+      {
+        "position": 5,
+        "title": "Authentic Thai Papaya Salad (Som Tum Thai)",
+        "url": "https://hot-thai-kitchen.com/papaya-salad-v3/",
+        "domain": "hot-thai-kitchen.com",
+        "description": "10 Apr 2026 — Green papaya salad or som tum is world famous for a reason. It's an explosion of sweet-salty-sour-spicy flavours and lots of crunchy texture ... Read more"
+      },
+      {
+        "position": 6,
+        "title": "Som tam (Thai papaya salad)",
+        "url": "https://www.maangchi.com/recipe/som-tam",
+        "domain": "www.maangchi.com",
+        "description": "This is an authentic way of preparing a spicy Thai papaya salad! Let's bruise thin papaya strips with garlic, chilies, palm sugar, lime, and fish sauce! Read more"
+      },
+      {
+        "position": 7,
+        "title": "Thai food recipes: Som tam (papaya salad)",
+        "url": "https://fanclubthailand.co.uk/thai-food-recipes-som-tam-papaya-salad/",
+        "domain": "fanclubthailand.co.uk",
+        "description": "Som tam is a classic Thai dish. Usually made with green papaya, this deliciously addictive dish is as versatile as it is spicy. Read more"
+      },
+      {
+        "position": 8,
+        "title": "Green papaya salad",
+        "url": "https://en.wikipedia.org/wiki/Green_papaya_salad",
+        "domain": "en.wikipedia.org",
+        "description": "From Isan, green papaya salad, known in Thai as som tam, spread throughout Thailand and became a staple of Thai cuisine. ... Thailand may be referred to as som ... Read more"
+      },
+      {
+        "position": 11,
+        "title": "Som Tam (Thai Papaya Salad)",
+        "url": "https://www.mycookinghut.com/recipes/som-tam-papaya-salad",
+        "domain": "www.mycookinghut.com",
+        "description": "20 Nov 2025 — Som tam is a spicy salad that is made from shredded green and firm papaya. Then, it is dressed with a sweet, sour, and spicy dressings."
+      }
+    ],
+    "peopleAlsoAsk": [
+      "What does som tam mean in Thai?",
+      "What is som tam thai dish?",
+      "Is som tum Thai spicy?",
+      "What is som tum made of?",
+      "Is som tam Thai healthy?",
+      "How do Thais call their mom?"
+    ],
+    "relatedSearches": [],
+    "features": [
+      "ai_overview",
+      "recipes",
+      "people_also_ask",
+      "organic",
+      "video",
+      "images",
+      "related_searches"
+    ]
+  },
+  "raw": {
+    "keyword": "som tam thailand",
+    "type": "organic",
+    "se_domain": "google.com",
+    "location_code": 2826,
+    "language_code": "en",
+    "check_url": "https://www.google.com/search?q=som%20tam%20thailand&hl=en&gl=GB&ie=UTF-8&uule=w+CAIQIFISCamRx0IRO1oCEXoliDJDoPjE",
+    "datetime": "2026-07-27 23:36:33 +00:00",
+    "spell": null,
+    "refinement_chips": null,
+    "item_types": [
+      "ai_overview",
+      "recipes",
+      "people_also_ask",
+      "organic",
+      "video",
+      "images",
+      "related_searches"
+    ],
+    "se_results_count": 126,
+    "pages_count": 1,
+    "items_count": 12,
+    "items": [
+      {
+        "type": "ai_overview",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+        "asynchronous_ai_overview": true,
+        "markdown": null,
+        "items": null,
+        "references": null,
+        "rectangle": null
+      },
+      {
+        "type": "recipes",
+        "rank_group": 1,
+        "rank_absolute": 2,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/g-section-with-header[1]",
+        "items": [
+          {
+            "type": "recipes_element",
+            "title": "Som Tam Thai (Central Thai-Style Green Papaya Salad)",
+            "url": "https://www.seriouseats.com/som-tam-green-papaya-salad-5208332",
+            "domain": "www.seriouseats.com",
+            "source": "Serious Eats",
+            "description": "Sticky rice, green papaya, long beans, cherry tomatoes, fish sauce",
+            "time": "15 mins",
+            "rating": {
+              "rating_type": "Max5",
+              "value": 4.7,
+              "votes_count": 4,
+              "rating_max": 5
+            }
+          },
+          {
+            "type": "recipes_element",
+            "title": "Thai Green Papaya Salad ส้มตำไทย (som tum)",
+            "url": "https://hot-thai-kitchen.com/papaya-salad-v3/",
+            "domain": "hot-thai-kitchen.com",
+            "source": "Hot Thai Kitchen",
+            "description": "Papaya salad, green papaya, long beans, fish sauce, dried shrimp",
+            "time": "30 mins",
+            "rating": {
+              "rating_type": "Max5",
+              "value": 4.9,
+              "votes_count": 44,
+              "rating_max": 5
+            }
+          },
+          {
+            "type": "recipes_element",
+            "title": "Som tam (Thai papaya salad)",
+            "url": "https://www.maangchi.com/recipe/som-tam",
+            "domain": "www.maangchi.com",
+            "source": "Maangchi",
+            "description": null,
+            "time": null,
+            "rating": {
+              "rating_type": "Max5",
+              "value": 4.7,
+              "votes_count": 201,
+              "rating_max": 5
+            }
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "people_also_ask",
+        "rank_group": 1,
+        "rank_absolute": 3,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]",
+        "items": [
+          {
+            "type": "people_also_ask_element",
+            "title": "What does som tam mean in Thai?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What is som tam thai dish?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://www.instagram.com/reel/DRrMPcNEvRR/",
+                "domain": "www.instagram.com",
+                "title": "THAI PAPAYA SALAD (Som Tum) 🌶️ Crunchy. Juicy ... - Instagram",
+                "description": "Learn how to make Thai Green Papaya Salad (Som Tum) at home! 🥗🔥 This refreshing and spicy salad is made with shredded raw papaya, lime juice, chili, garlic, fish sauce (or vegetarian alternatives), and crushed peanuts. A perfect blend of sweet, sour, salty, and spicy—just like in Thai street food stalls!",
+                "images": null,
+                "timestamp": null,
+                "table": null
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Is som tum Thai spicy?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://www.facebook.com/street.food.videos/posts/spicy-som-tam-papaya-salad-making-in-bangkok/1347749803585115/",
+                "domain": "www.facebook.com",
+                "title": "Spicy Som Tam Papaya Salad Making in Bangkok - Facebook",
+                "description": "Green papaya salad also called Som Tum ส้มตำ is a spicy, sweet, and tangy salad made from shredded unripe papaya. The salad is very commonly available and popular in Thailand.",
+                "images": null,
+                "timestamp": null,
+                "table": null
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "What is som tum made of?",
+            "seed_question": null,
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_ai_overview_expanded_element",
+                "items": null,
+                "references": null,
+                "asynchronous_ai_overview": true
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "Is som tam Thai healthy?",
+            "seed_question": "What does som tam mean in Thai?",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[7]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://thaisq.com/som-tam-more-than-just-papaya-salad-and-why-you-should-try-it-spicy/",
+                "domain": "thaisq.com",
+                "title": "Som Tam: More Than Just Papaya Salad (And Why You Should Try It ...",
+                "description": "Som Tam happens to be genuinely healthy. Green papaya is low in calories but high in vitamins and fibre. The lime juice provides vitamin C. The garlic and chillies offer various health benefits.",
+                "images": null,
+                "timestamp": null,
+                "table": null
+              }
+            ]
+          },
+          {
+            "type": "people_also_ask_element",
+            "title": "How do Thais call their mom?",
+            "seed_question": "What does som tam mean in Thai?",
+            "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[8]",
+            "expanded_element": [
+              {
+                "type": "people_also_ask_expanded_element",
+                "featured_title": null,
+                "url": "https://preply.com/en/blog/family-members-in-thai/",
+                "domain": "preply.com",
+                "title": "Family members in Thai – words, pronunciation, and culture - Preply",
+                "description": "What do Thai people call their parents? Thai people call their father พ่อ (phâw) and their mother แม่ (mâe), using these terms both when speaking directly to them and when referring to them in conversation.",
+                "images": null,
+                "timestamp": null,
+                "table": null
+              }
+            ]
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 1,
+        "rank_absolute": 4,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+        "domain": "www.seriouseats.com",
+        "title": "Som Tam Thai (Central Thai-Style Green Papaya Salad)",
+        "url": "https://www.seriouseats.com/som-tam-green-papaya-salad-5208332",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.seriouseats.com › ... › Southeast Asian › Thai",
+        "website_name": "Serious Eats",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "17 Nov 2021 — The salad combines crunchy strips of unripe green papaya with fresh chiles, pungent garlic, savory dried shrimp, roasted peanuts, long beans, and tomatoes Read more",
+        "pre_snippet": "4.7(4) · 15 mins",
+        "extended_snippet": null,
+        "images": [
+          {
+            "type": "images_element",
+            "alt": "som tam thailand from www.seriouseats.com",
+            "url": "https://www.seriouseats.com/som-tam-green-papaya-salad-5208332",
+            "image_url": "https://api.dataforseo.com/cdn/i/07280236-1672-0139-0000-159a5d7c6b02:0"
+          }
+        ],
+        "amp_version": false,
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4.7,
+          "votes_count": 4,
+          "rating_max": 5
+        },
+        "price": null,
+        "highlighted": null,
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 2,
+        "rank_absolute": 5,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+        "domain": "hot-thai-kitchen.com",
+        "title": "Authentic Thai Papaya Salad (Som Tum Thai)",
+        "url": "https://hot-thai-kitchen.com/papaya-salad-v3/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://hot-thai-kitchen.com › ... › Soups & Salads",
+        "website_name": "Hot Thai Kitchen",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "10 Apr 2026 — Green papaya salad or som tum is world famous for a reason. It's an explosion of sweet-salty-sour-spicy flavours and lots of crunchy texture ... Read more",
+        "pre_snippet": "4.9(44) · 30 mins",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4.9,
+          "votes_count": 44,
+          "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+          "Green papaya salad or som tum"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 3,
+        "rank_absolute": 6,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+        "domain": "www.maangchi.com",
+        "title": "Som tam (Thai papaya salad)",
+        "url": "https://www.maangchi.com/recipe/som-tam",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.maangchi.com › recipe › som-tam",
+        "website_name": "Maangchi",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "This is an authentic way of preparing a spicy Thai papaya salad! Let's bruise thin papaya strips with garlic, chilies, palm sugar, lime, and fish sauce! Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+          {
+            "type": "images_element",
+            "alt": "som tam thailand from www.maangchi.com",
+            "url": "https://www.maangchi.com/recipe/som-tam",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKhsHRm3QLPckLj_amF1PGPnd1skYM-X7TtaT9aFHE7-Nj88GvisHm&usqp=CAE&s"
+          }
+        ],
+        "amp_version": false,
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4.7,
+          "votes_count": 201,
+          "rating_max": 5
+        },
+        "price": null,
+        "highlighted": [
+          "spicy Thai papaya salad"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 4,
+        "rank_absolute": 7,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+        "domain": "fanclubthailand.co.uk",
+        "title": "Thai food recipes: Som tam (papaya salad)",
+        "url": "https://fanclubthailand.co.uk/thai-food-recipes-som-tam-papaya-salad/",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://fanclubthailand.co.uk › thai-food-recipes-som-ta...",
+        "website_name": "Fan Club Thailand",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "Som tam is a classic Thai dish. Usually made with green papaya, this deliciously addictive dish is as versatile as it is spicy. Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+          {
+            "type": "images_element",
+            "alt": "som tam thailand from fanclubthailand.co.uk",
+            "url": "https://fanclubthailand.co.uk/thai-food-recipes-som-tam-papaya-salad/",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnHJjXBRaSTlr7KYq28KVrmCW1I_jyP-xBG3Ye54M7zjXmtGMICv5r&usqp=CAE&s"
+          }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Som tam is a classic Thai dish"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 5,
+        "rank_absolute": 8,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+        "domain": "en.wikipedia.org",
+        "title": "Green papaya salad",
+        "url": "https://en.wikipedia.org/wiki/Green_papaya_salad",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://en.wikipedia.org › wiki › Green_papaya_salad",
+        "website_name": "Wikipedia",
+        "is_image": true,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "From Isan, green papaya salad, known in Thai as som tam, spread throughout Thailand and became a staple of Thai cuisine. ... Thailand may be referred to as som ... Read more",
+        "pre_snippet": null,
+        "extended_snippet": null,
+        "images": [
+          {
+            "type": "images_element",
+            "alt": "som tam thailand from en.wikipedia.org",
+            "url": "https://en.wikipedia.org/wiki/Green_papaya_salad",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbGg2RuTKq1iSAJ0E4Mf1spH9qmx6eoneHA1BUPh40-hdOqLNgKNt&usqp=CAE&s"
+          }
+        ],
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "green papaya salad, known in Thai as som tam"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": null,
+        "rectangle": null
+      },
+      {
+        "type": "video",
+        "rank_group": 1,
+        "rank_absolute": 9,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]",
+        "items": [
+          {
+            "type": "video_element",
+            "source": "YouTube · Home Cooking with Somjit",
+            "title": "2 Recipes for Som Tam (Green Papaya Salad)",
+            "timestamp": "2025-05-18 00:00:00 +00:00",
+            "url": "https://www.youtube.com/watch?v=YNaVQd8kQ2E&vl=en"
+          },
+          {
+            "type": "video_element",
+            "source": "YouTube · Payal Thakurani",
+            "title": "Thai green papaya salad (Som Tam) recipe from our Thai ...",
+            "timestamp": "2024-10-23 00:00:00 +00:00",
+            "url": "https://www.youtube.com/shorts/Ld03VCBxcTE"
+          },
+          {
+            "type": "video_element",
+            "source": "YouTube · Chef Aaron Middleton",
+            "title": "How to make Som Tam | Thai Papaya Salad Recipe",
+            "timestamp": "2023-03-27 00:00:00 +00:00",
+            "url": "https://www.youtube.com/watch?v=4EH7UElxrbs"
+          }
+        ],
+        "rectangle": null
+      },
+      {
+        "type": "images",
+        "rank_group": 1,
+        "rank_absolute": 10,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]",
+        "title": "Images",
+        "url": "https://www.google.com/search?sca_esv=6452146e743ce5eb&hl=en&gl=GB&q=som+tam+thailand&udm=2&source=univ&fir=FUSPiNx_eDc_hM%252COjW2D0psYwekUM%252C_%253BBR5WglxeIy0t7M%252Cb972u2L4qABSnM%252C_%253BtDgbwiEmUfXeKM%252CNSnXjXO63qhOtM%252C_%253BPPAQ3f90a3q5IM%252CA6ECVPQaxDYw2M%252C_%253Bqo9yBS0d41UXwM%252CnlU-woCWvWKcYM%252C_%253BqXqPbVNfIx9XVM%252CBST56tP74ufM0M%252C_%253B39KeXBuuwQWaJM%252CyRvYl8GVi5JaiM%252C_%253B5Czax33fPwV9MM%252Czq3BTO9TwaUgFM%252C_%253BtRx_-qN7v2XX-M%252CN_wZ3ZyOPTeOmM%252C_&usg=AI4_-kRx27q-7ms1in5gYdX-Bm0gQgkXaw&sa=X&ved=2ahUKEwjb1M2Jg_SVAxU_YUEAHQLZMlwQ7Al6BAhJEAU",
+        "items": [
+          {
+            "type": "images_element",
+            "alt": "Som Tam Thai (Central Thai-Style Green Papaya Salad)",
+            "url": "https://www.seriouseats.com/som-tam-green-papaya-salad-5208332",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUM1385r1pNW1rWnll3mNo_MCw8IEFfcP_g2JOPlLDBleknfrr45ZCyKg&s"
+          },
+          {
+            "type": "images_element",
+            "alt": "Green Papaya Salad - Som Tam - ส้มตำ - Ian Benites",
+            "url": "https://ianbenites.com/green-papaya-salad-som-tam-%E0%B8%AA%E0%B9%89%E0%B8%A1%E0%B8%95%E0%B8%B3/",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGR2K1cjL6hx366dgRI143wiwS0G5DE_8AbSngkxrsOXGbE4rAxpls_Y&s"
+          },
+          {
+            "type": "images_element",
+            "alt": "Green Papaya Salad (Som Tam Malakor)",
+            "url": "https://www.allrecipes.com/recipe/283411/green-papaya-salad-som-tam-malakor/",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVUyvxtI7CD7vpp0j7prTp2y4GeQK_GtgFaXO6wCJ_EhZnowyl4b5xas&s"
+          },
+          {
+            "type": "images_element",
+            "alt": "Thai Som Tam Recipe",
+            "url": "https://grantourismotravels.com/thai-som-tam-recipe-green-papaya-salad/",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiadNHZQsEnzJ5nw_4PAPFLdadZhJiW-kMufZbyVaFum9yUP29seTY7Mg&s"
+          },
+          {
+            "type": "images_element",
+            "alt": "Som Tam (Papaya Salad) Recipe",
+            "url": "https://food.ndtv.com/recipe-som-tam-papaya-salad-408182",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCaIGXBOpzrt0xKkWYll9jMP2us0wRqwe0m__cOzPlG5U6mvL_BYVWyn0&s"
+          },
+          {
+            "type": "images_element",
+            "alt": "Som Tam (Thai-Style Green Papaya Salad)",
+            "url": "https://www.foodandwine.com/som-tam-thai-style-green-papaya-salad-7503164",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNkav0ZzHAkvxXx0JjsoiUkHyNrlsnWrU38vW1PlVNKvYyejQI2iUnf8M&s"
+          },
+          {
+            "type": "images_element",
+            "alt": "Green papaya salad - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Green_papaya_salad",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1b7mas2FlvMwRvDeWNqC-vRzzcLPe8lDkMepSixobdSyoaYqNyeJ51gA&s"
+          },
+          {
+            "type": "images_element",
+            "alt": "Som tam (Thai papaya salad)",
+            "url": "https://www.maangchi.com/recipe/som-tam",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrX5OOFOKpLpgRit6YSwRF2VHVsTX6aG1mgFzhQzfO4UoTIUu4UCbxxc&s"
+          },
+          {
+            "type": "images_element",
+            "alt": "papaya salad - som tam thai",
+            "url": "https://glebekitchen.com/papaya-salad-som-tam-thai/",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZrRKkyC9whia-NRmCEDxYMiMmwcWnjIBsguKyJDFj7lGfQCYYY0Nogn4&s"
+          }
+        ],
+        "related_image_searches": null,
+        "rectangle": null
+      },
+      {
+        "type": "organic",
+        "rank_group": 6,
+        "rank_absolute": 11,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+        "domain": "www.mycookinghut.com",
+        "title": "Som Tam (Thai Papaya Salad)",
+        "url": "https://www.mycookinghut.com/recipes/som-tam-papaya-salad",
+        "cache_url": null,
+        "related_search_url": null,
+        "breadcrumb": "https://www.mycookinghut.com › recipes › som-tam-pap...",
+        "website_name": "My Cooking Hut",
+        "is_image": false,
+        "is_video": false,
+        "is_featured_snippet": false,
+        "is_malicious": false,
+        "is_web_story": false,
+        "description": "20 Nov 2025 — Som tam is a spicy salad that is made from shredded green and firm papaya. Then, it is dressed with a sweet, sour, and spicy dressings.",
+        "pre_snippet": "11/20/2025 00:00:00",
+        "extended_snippet": null,
+        "images": null,
+        "amp_version": false,
+        "rating": null,
+        "price": null,
+        "highlighted": [
+          "Som tam"
+        ],
+        "links": null,
+        "faq": null,
+        "extended_people_also_search": null,
+        "about_this_result": null,
+        "related_result": null,
+        "timestamp": "2025-11-20 00:00:00 +00:00",
+        "rectangle": null
+      },
+      {
+        "type": "related_searches",
+        "rank_group": 1,
+        "rank_absolute": 12,
+        "page": 1,
+        "position": "left",
+        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+        "items": [
+          "Som tam thailand menu",
+          "Som tam thailand recipe",
+          "Som tam thailand price",
+          "Som Tum",
+          "Easy papaya salad recipe",
+          "Som tam ingredients",
+          "Som tam Thai salad",
+          "Thai papaya salad ingredients"
+        ],
+        "rectangle": null
+      }
+    ]
+  }
+}

@@ -6,10 +6,10 @@ import { getCookingClassesIndex } from '../../lib/cooking-classes';
 import { getMuayThaiIndex } from '../../lib/muay-thai';
 import { getElephantSanctuariesIndex } from '../../lib/elephant-sanctuaries';
 import { getDivingSnorkelingIndex } from '../../lib/diving-snorkeling';
-import { formatPrice } from '../../lib/price';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import AffiliateWidget from '../../components/AffiliateWidget';
 import SEOHead from '../../components/SEOHead';
+import ThailandExcursionsGuide from '../../components/activities/ThailandExcursionsGuide';
 
 interface CityEntry {
   slug: string;
@@ -28,7 +28,6 @@ interface ActivityType {
   guidePath: string;
   cities: CityEntry[];
   totalActivities: number;
-  lowestPrice: number;
 }
 
 interface Props {
@@ -53,16 +52,37 @@ function getCityActivityPath(activitySlug: string, citySlug: string) {
 
 export default function ActivitiesPage({ activities }: Props) {
   const { locale } = useRouter();
-  const loc = locale || 'en';
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+
+  if (isNl) return <ThailandExcursionsGuide />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Activiteiten & Tours' : 'Activities & Tours', href: '/activities/' }
   ];
 
-  const totalActivities = activities.reduce((sum, a) => sum + a.totalActivities, 0);
+  const activityListJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'Thailand activity guides',
+    itemListElement: activities.map((activity, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: activity.title,
+      url: `https://go2-thailand.com${activity.guidePath}`,
+    })),
+  };
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((crumb, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: crumb.name,
+      item: `https://go2-thailand.com${crumb.href}`,
+    })),
+  };
 
   return (
     <>
@@ -71,7 +91,9 @@ export default function ActivitiesPage({ activities }: Props) {
         description={isNl
           ? `Redactionele gidsen voor de beste activiteiten in Thailand: kooklessen, Muay Thai, ethische olifantenopvang en duiken. Georganiseerd per bestemming met praktische details.`
           : `Editorial guides to Thailand's best activities: cooking classes, Muay Thai, ethical elephant sanctuaries, and diving. Organised by destination with practical detail.`}
+        ogImage="https://go2-thailand.com/images/blog/best-day-trips-from-bangkok.webp"
       >
+        <link rel="canonical" href="https://go2-thailand.com/activities/" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -82,6 +104,8 @@ export default function ActivitiesPage({ activities }: Props) {
             url: 'https://go2-thailand.com/activities/',
           }) }}
         />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(activityListJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
@@ -133,10 +157,6 @@ export default function ActivitiesPage({ activities }: Props) {
                       <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
                         <div className="text-sm font-bold text-gray-900">{activity.cities.length}</div>
                         <div className="text-[10px] text-gray-500">{isNl ? 'Steden' : 'Cities'}</div>
-                      </div>
-                      <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
-                        <div className="text-sm font-bold text-gray-900">{formatPrice(activity.lowestPrice, loc)}+</div>
-                        <div className="text-[10px] text-gray-500">{isNl ? 'Vanaf' : 'From'}</div>
                       </div>
                     </div>
 
@@ -220,7 +240,7 @@ export default function ActivitiesPage({ activities }: Props) {
               <p className="text-gray-600 text-sm mb-8">
                 {isNl
                   ? 'De activiteitengidsen op deze site verwijzen voornamelijk naar Klook en GetYourGuide. Beide platforms bundelen gecheckte lokale aanbieders, bieden directe bevestiging en hebben duidelijke annuleringsvoorwaarden. Wij ontvangen een commissie als je via onze links boekt, zonder extra kosten voor jou.'
-                  : 'The activity guides on this site link primarily to Klook and GetYourGuide. Both platforms aggregate vetted local operators, offer instant confirmation, and have clear cancellation terms — which matters when plans change. We earn a commission if you book through our links, at no extra cost to you.'}
+                  : 'The activity guides link primarily to Klook and GetYourGuide so you can compare the listed operator, inclusions, availability, reviews, and cancellation terms. We earn a commission if you book through our links, at no extra cost to you.'}
               </p>
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
                 <div className="bg-surface-cream rounded-2xl p-6 border-0">
@@ -228,10 +248,10 @@ export default function ActivitiesPage({ activities }: Props) {
                     <Image src="/images/partners/klook.svg" alt="Klook" fill className="object-contain object-left" />
                   </div>
                   <p className="text-gray-600 text-sm mb-4">
-                    Klook is Asia&apos;s largest activities platform with strong Thailand coverage — particularly for day trips, cooking classes, and airport transfers. Prices are typically in USD and confirmed instantly.
+                    Klook has broad Thailand coverage, particularly for day trips, cooking classes, and airport transfers. Check the live product page for currency, operator, inclusions, confirmation method, and cancellation terms.
                   </p>
                   <AffiliateWidget scriptContent={KLOOK_WIDGET} className="mb-4" minHeight="200px" />
-                  <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer sponsored"
+                  <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer nofollow sponsored"
                     className="inline-block bg-thailand-red text-white text-center px-5 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm">
                     {isNl ? 'Bekijk Thailand activiteiten op Klook' : 'Browse Thailand activities on Klook'}
                   </a>
@@ -246,7 +266,7 @@ export default function ActivitiesPage({ activities }: Props) {
                       : 'GetYourGuide covers a wide range of Thailand tours with a focus on guided experiences, Muay Thai fight tickets, and cultural activities. Good for experiences where guide quality matters.'}
                   </p>
                   <AffiliateWidget scriptContent={GYG_POPULAR_TOURS} className="mb-4" minHeight="200px" />
-                  <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer sponsored"
+                  <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer nofollow sponsored"
                     className="inline-block bg-thailand-blue text-white text-center px-5 py-2 rounded-xl font-semibold hover:bg-blue-800 transition-colors text-sm">
                     {isNl ? 'Bekijk Thailand activiteiten op GetYourGuide' : 'Browse Thailand activities on GetYourGuide'}
                   </a>
@@ -269,13 +289,13 @@ export default function ActivitiesPage({ activities }: Props) {
                   <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Hoe ver van tevoren moet je boeken?' : 'How far in advance should you book?'}</h3>
                   <p className="text-gray-700">{isNl
                     ? 'Tijdens het hoogseizoen (november tot februari) kunnen populaire halfdaagse kooklessen en duiktrips in kleine groepen drie tot vijf dagen van tevoren vol raken. Muay Thai-tickets zijn zelden eerder dan een dag van tevoren uitverkocht, maar goede plaatsen in grote stadions gaan snel. Olifantenopvang met ochtend-badslots zijn vaak het snelst vol — boek die voor je vlucht als de ervaring prioriteit heeft.'
-                    : 'During peak season (November to February), popular half-day cooking classes and small-group diving trips can fill up three to five days ahead. Muay Thai fight tickets rarely sell out more than a day before, but good seats at major stadiums go early. Elephant sanctuaries with morning bathing slots are often the tightest — book those before flights if the experience is a priority.'}</p>
+                    : 'Availability varies by operator, group size, sea conditions, event schedule, and travel period. If an experience anchors your itinerary, check the live calendar before fixing non-refundable transport around it; otherwise keep enough flexibility for weather or operator changes.'}</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Wat betekent de prijsklasse?' : 'What does the price range mean?'}</h3>
                   <p className="text-gray-700">{isNl
                     ? 'De "vanaf" prijs per categorie is de goedkoopste optie over alle steden. Budget kooklessen kunnen onder $15 zijn voor een groepssessie; premium hands-on cursussen met boerderijbezoek kosten $60–$90. Duikdagtrips beginnen rond $50 voor een tweeduiksboot; PADI Open Water-cursussen kosten $300–$400. Gebruik de volledige gids per categorie om te begrijpen wat het prijsverschil je oplevert.'
-                    : 'The \u201cfrom\u201d price shown per category is the cheapest option indexed across all cities. Budget cooking classes can be under $15 for a group session; premium hands-on courses with farm visits run $60\u2013$90. Diving day trips start around $50 for a two-dive boat; PADI Open Water courses run $300\u2013$400. Use the full guide for each category to understand what the price difference actually buys you.'}</p>
+                    : 'Prices vary by date, operator, group size, transfer zone, equipment, meals, park fees, and cancellation terms. Compare the same inclusions on the live product page rather than treating an old headline price as a booking quote.'}</p>
                 </div>
               </div>
             </div>
@@ -289,7 +309,7 @@ export default function ActivitiesPage({ activities }: Props) {
                   { href: '/weather/', title: isNl ? 'Weer per maand' : 'Weather by month', description: isNl ? 'Buitenactiviteiten hangen sterk af van het seizoen. Deze gids behandelt regionale regenpatronen en de beste periodes voor duiken, trekking en olifantenopvang.' : 'Outdoor activities depend heavily on season. This guide covers regional rain patterns and the best windows for diving, trekking, and elephant sanctuary visits.' },
                   { href: '/visa/', title: isNl ? 'Visumgids' : 'Visa guide', description: isNl ? 'Visum bij aankomst, e-visum en vrijstellingen uitgelegd — voor de meeste nationaliteiten en de laatste regels.' : 'Visa on arrival, e-visa, and exemptions explained — covering most nationalities and the latest entry rules.' },
                   { href: '/thailand-for-first-timers/', title: isNl ? 'Gids voor beginners' : "First-timer's guide", description: isNl ? 'Veiligheid, etiquette, vervoer en wat te doen op een korte eerste reis — een praktische basis voor je activiteiten plant.' : 'Safety, etiquette, transport, and what to do on a short first trip — a practical foundation before drilling into activities.' },
-                  { href: '/travel-insurance-thailand/', title: isNl ? 'Reisverzekering' : 'Travel insurance', description: isNl ? 'De meeste standaard polissen sluiten Muay Thai-training, bepaalde duikdieptes en scooterrijden uit. Controleer de dekking voor je activiteiten boekt.' : 'Most standard policies exclude Muay Thai training, certain dive depths, and scooter riding. Check coverage specifics before you book activities.' },
+                  { href: '/travel-insurance/', title: isNl ? 'Reisverzekering' : 'Travel insurance', description: isNl ? 'De meeste standaard polissen sluiten Muay Thai-training, bepaalde duikdieptes en scooterrijden uit. Controleer de dekking voor je activiteiten boekt.' : 'Most standard policies exclude Muay Thai training, certain dive depths, and scooter riding. Check coverage specifics before you book activities.' },
                   { href: '/compare/', title: isNl ? 'Bestemmingen vergelijken' : 'Compare destinations', description: isNl ? 'Vergelijk Thaise steden op kosten, beschikbare activiteiten, stranden en logistiek om te bepalen waar je je baseert.' : 'Compare Thai cities on cost, available activities, beaches, and logistics to decide where to base yourself.' },
                   { href: '/islands/', title: isNl ? 'Eilandgidsen' : 'Island guides', description: isNl ? 'Als duiken of strandactiviteiten de hoofdattractie zijn, behandelt de eilandengids welke kusten bij welke routes passen.' : 'If diving or beach activities are the main draw, the island hub covers which coasts suit which itineraries.' },
                 ].map((guide) => (
@@ -337,7 +357,6 @@ export const getStaticProps: GetStaticProps = async () => {
       guidePath: '/best-cooking-classes-in-thailand/',
       cities,
       totalActivities: cities.reduce((sum, c) => sum + c.classCount, 0),
-      lowestPrice: Math.min(...cities.map(c => c.priceRange.from)),
     });
   }
 
@@ -353,7 +372,6 @@ export const getStaticProps: GetStaticProps = async () => {
       guidePath: '/best-muay-thai-in-thailand/',
       cities,
       totalActivities: cities.reduce((sum, c) => sum + c.classCount, 0),
-      lowestPrice: Math.min(...cities.map(c => c.priceRange.from)),
     });
   }
 
@@ -369,7 +387,6 @@ export const getStaticProps: GetStaticProps = async () => {
       guidePath: '/best-elephant-sanctuaries-in-thailand/',
       cities,
       totalActivities: cities.reduce((sum, c) => sum + c.classCount, 0),
-      lowestPrice: Math.min(...cities.map(c => c.priceRange.from)),
     });
   }
 
@@ -385,7 +402,6 @@ export const getStaticProps: GetStaticProps = async () => {
       guidePath: '/best-diving-snorkeling-in-thailand/',
       cities,
       totalActivities: cities.reduce((sum, c) => sum + c.classCount, 0),
-      lowestPrice: Math.min(...cities.map(c => c.priceRange.from)),
     });
   }
 

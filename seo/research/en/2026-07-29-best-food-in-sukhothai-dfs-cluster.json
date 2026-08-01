@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T07:53:11.742Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best food in sukhothai",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "best food in sukhothai"
+  ],
+  "keywords": [
+    {
+      "keyword": "best food in sukhothai",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

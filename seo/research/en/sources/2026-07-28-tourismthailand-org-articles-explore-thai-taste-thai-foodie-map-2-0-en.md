@@ -1,0 +1,714 @@
+# DFS parsed source — https://www.tourismthailand.org/Articles/explore-thai-taste-thai-foodie-map-2-0-en
+
+**Captured:** 2026-07-28T08:39:25.804Z
+**Cost:** 0.00015
+**HTTP status:** 200
+
+# Explore Thai taste Thai foodie map 2.0
+
+Share to
+
+For the second consecutive year, Booking.com partners with the Tourism Authority of Thailand (TAT) to launch the Thai Foodie Map 2.0, a vibrant guidebook celebrating Thailand's rich culinary landscape, under the #ExploreThaiTaste campaign. This updated guidebook aims to spotlight Thailand’s hidden gems, allowing food lovers to embark on flavorful adventures through the country’s Hidden Gem Cities.
+
+The recommended local restaurants that Booking.com and TAT would like travelers to explore Thailand's rich culinary heritage and evolution, savor the distinctive flavors in different regions are listed below.
+
+- Sukhothai: Khanom Wong Mae Prapai, Mai Klang Krung restaurant, Je Hae Sukhothai Noodles, Mee Khao Pan Pak, and Jay Pao restaurant.
+
+- Uttaradit: Monlablae, Khaw Phan Phak Indy, Pom Khaw Pan Pak, Khanom Thian Sawoey Chidduang Kanokmanee, and Pa Wang Mee Phan Laplae.
+
+- Nakhon Phanom: Kuay Teow Moo Pla Pho Luk Song, Sri Thep Vietnamese Dumplings, Vietnamese Kitchen, Khanom Jeen Pisamai, and Yat Larb Ped.
+
+- Surin: Kalamae Sikhoraphum, Rian Niang Nit Ang Kaeb Bob, Pak Mor Je Nang Surin, Som-Tam Jay-Took Restaurant, and Baan Na Garden Restaurant.
+
+- Suphan Buri: Mae Bouy, Phai Khwang, Khua Rim Klong Song Phi Nong, Rice Field Restaurant, and Ruean Phae Khua Suphan.
+
+- Nakhon Nayok: Mai Na Aroi Restaurant, Krua Look Pla Restaurant, Pla Doo Kru Lord, Chaluay Phochana, and Hydro Kitchen.
+
+- Chumphon: Ban Phuk Pouk, Yai Puad, Kua Luang Pod, Grandma’s Rice Noodles, and Thamsing Cafe.
+
+- Satun: Sam Phi Nong, Mameng Herbal Rice, Salad Fish Curry Shop (Tom Mae Curry House No. 35), Bara Roti, and Madee Satun.
+
+You can also take part in announcing the proud local food by sharing your favorite local restaurants and want everyone to discover their deliciousness with the hashtag #ExploreThaiTaste #Bookingcom #TAT #AmazingThailand
+
+Travelling to Sukhothai, try these Must Eat restaurants
+
+Khanom Wong Mae Prapai
+
+Mai Klang Krung restaurant
+
+Je Hae Sukhothai Noodles
+
+Mee Khao Pan Pak
+
+And don't forget to explore these Must Seek attractions
+
+Si Satchanalai Historical Park
+
+Sangkhalok Kiln Study and Conservation Center
+
+Jay Pao restaurant
+
+Ramkhamhaeng National Park
+
+Sukhothai Historical Park
+
+Wat Sri Chum
+
+Khanom Wong Mae Prapai Shop is a small roadside dessert shop that has been operating for over 10 years. It offers a rare, traditional Northern Thai dessert made from a recipe passed down from the owner’s grandmother.
+
+Opening Hours: Monday - Saturday 8:30 AM to 2:00 PM. (Closed every Sunday)
+
+- Khanom Wong: A local Northern Thai sweet made from a mixture of glutinous rice flour and rice flour, lightly seasoned with salt. The dough is shaped into rings like donuts and fried until crispy. They are then coated with the shop’s special caramelized sugarcane syrup, giving them a sweet flavor and a crunchy texture.
+
+Mai Klang Krung restaurant features recipes passed down from the owner’s grandmother, ensuring a deep connection to traditional flavors. The restaurant highlights the unique ingredients and culinary heritage of Sukhothai province. For instance, they use banana leaves from the local Tanee banana (Wild Balbisiana), a notable export of Sukhothai, to decorate dishes. Long beans, a commonly grown vegetable in the province, are also a key ingredient in their cooking.
+
+Opening Hours: Daily from 8:30 AM to 3:00 PM.
+
+- Sukhothai Pad Thai: This local version of Pad Thai differs from the central region’s version. The noodles are stir-fried with eggs and tender long beans, served with side vegetables like Tanee banana blossom. The noodles are chewy and slightly spicy, often enjoyed with egg crepes.
+
+- Khao Kriap Pak Mor: Steamed rice dumplings drizzled with rich coconut milk for an indulgent flavor mixing, and sprinkled with roasted sesame seeds for added aroma. The dumplings have a balanced flavor, and the purple-blue color of the dough comes naturally from butterfly pea flowers.
+
+Je Hae Sukhothai Noodle shop has been open since 1994. It began by offering free noodles to surrounding locals during the Loy Krathong festival. Thanks to its distinctive taste, the shop started selling its dishes. The highlight of the shop is its homemade ingredients, including egg noodles, barbecued red pork, roasted chili, and roasted peanuts.
+
+Opening Hours: Daily from 8:00 AM to 4:00 PM.
+
+- Sukhothai Noodles: A local delicacy from Sukhothai, featuring freshly crafted noodles made from a cherished family recipe, paired with rich, homemade ingredients such as tender barbecued red pork and crispy pork rinds. Served in a sweet and sour broth, the dish is fragrant with the aroma of peanuts and roasted chili.
+
+- Tom Yum Braised Pork Rib Noodles: Another highlight dish that features braised pork ribs cooked with Chinese herbs. The broth offers a sweet and savory flavor, enriched by the aromatic scent of Chinese herbal spices.
+
+Location: [Khanom Wong Mae Prapai](https://www.google.co.th/maps/place/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%A7%E0%B8%87+%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%9E/@17.00779,99.8215231,700m/data=!3m2!1e3!4b1!4m6!3m5!1s0x30de55cd82730303:0x37e9f0d98494d03e!8m2!3d17.00779!4d99.824098!16s%2Fg%2F11c5gc_8mn?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dish:
+
+Location: [Mai Klang Krung restaurant](https://www.google.co.th/maps/place/%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87/@17.017888,99.8030396,2802m/data=!3m2!1e3!4b1!4m6!3m5!1s0x30de55da8d0836e3:0x93b3a659793f6e06!8m2!3d17.0178888!4d99.8214937!16s%2Fg%2F1hm66vb2_?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dishes:
+
+Location: [Je Hae Sukhothai Noodles](https://www.google.com/maps/place/%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%82%E0%B8%97%E0%B8%B1%E0%B8%A2+%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B9%81%E0%B8%AE/@17.0097049,99.8012058,700m/data=!3m2!1e3!4b1!4m6!3m5!1s0x30de565e59a18ef1:0x8b25e0c9f3d92378!8m2!3d17.0097049!4d99.8012058!16s%2Fg%2F1hc1j2vyx?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dishes:
+
+Mee Khao Pan Pak has been selling its signature dish since 2006. Inspired by a local dish from the central northern region, the owner developed a unique recipe of Mee Khao Pan Pak (Veggie Wrap Rice) that differs from the traditional one by adding egg and vegetable into the steamer. The dish is served with the restaurant’s special sauce.
+
+Opening Hours: Tuesday - Saturday 10:00 AM to 4:00 PM. (Closed every Monday)
+
+- Khaw Phan Phak Hi-So: Influenced by a recipe from Uttaradit province and adapted by the owner, vegetables are wrapped in a thin rice flour sheet, topped with a steamed egg. Served with the restaurant’s special sauce, it offers a sweet and sour flavor. The dish is garnished with crispy wontons for added texture.
+
+- Khao Perp: This local dish consists of vegetables and glass noodles wrapped in a rice flour sheet, topped with a steamed egg. A rich pork bone broth complements its smooth texture.
+
+Jay Pao restaurant has been open for over 23 years, renowned for its fish dishes made from locally sourced ingredients. The fish used in the dishes are naturally caught by local fishermens and sold directly to the restaurant, ensuring a different selection of fish each day. The owner personally prepares every dish using her own recipes.
+
+Opening Hours: Daily from 10:00 AM to 9:00 PM.
+
+- Chu Chee Fresh Chili Pla Khao: A signature dish using locally sourced Pla Khao (Catfish), stir-fried with fresh chilies and herbs. The dish delivers a spicy flavor complemented by the fragrant aroma of herbs.
+
+- Tom Yum Pla Kod Kang: This dish uses Pla Kod Kang (Asian redtail catfish), caught from the rivers in Sukhothai, cooked with aromatic Tom Yum herbs to eliminate the fishy smell. The dish is characterized by its clear herbal aroma.
+
+Location: [Mee Khao Pan Pak](https://www.google.co.th/maps/place/%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%B1%E0%B8%81/@17.523279,99.763705,1084m/data=!3m2!1e3!4b1!4m6!3m5!1s0x30dedc7955555555:0x8855fcb1ff8fbc53!8m2!3d17.523279!4d99.763705!16s%2Fg%2F11bc736mwr?entry=ttu&g_ep=EgoyMDI0MTAwNy4xIKXMDSoASAFQAw%3D%3D)
+
+Recommended dishes:
+
+Jay Pao restaurant
+
+Location: [Jay Pao restaurant](https://www.google.com/maps/place/%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%A0%E0%B8%8A%E0%B8%99%E0%B8%B2/@17.0162218,99.8097423,700m/data=!3m2!1e3!4b1!4m6!3m5!1s0x30de55deef008907:0x83c8a850d85642a5!8m2!3d17.0162218!4d99.8097423!16s%2Fg%2F1hm545ydy?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dishes:
+
+Travelling to Uttaradit, try these Must Eat restaurants
+
+Khaw Phan Phak Indy
+
+Pom Khaw Pan Pak
+
+Khanom Thian Sawoey Chidduang Kanokmanee
+
+Pa Wang Mee Phan Laplae
+
+Kanok Manee House Museum
+
+Ban Lao Wiang Cultural Tourism Community
+
+Wat Ban Kaeng Tai
+
+Ton Sak Yai National Park
+
+Mueang Laplae Museum
+
+Monlablae was established with the aim of revitalizing Laplae district after the major flood crisis in 2006 by showcasing the distinctive district’s culinary culture, which combines between Northern, Central, and Northeasthern. The restaurant uses organic ingredients sourced locally from farmers in Uttaradit, combining with recipes passed down through generations.
+
+Opening Hours: Daily from 9:00 AM to 7:30 PM.
+
+- King of Green Curry with Shrimp: The restaurant’s signature dish, combining diverse culinary elements. The green curry is prepared using a traditional Laplae recipe from the grandmother's time. The curry is complemented with half ripe Mon Thong durian grown in Laplae.
+
+- Huai Mun Spicy Pineapple Salad: Another signature dish, the spicy salad consists of local sweet Huai Mun pineapple grown in Nam Pat district and cashew nuts from Tha Pla community, mixed with a special spicy, sweet, and salty Thai-style salad dressing.
+
+Khaw Phan Phak Indy has been in business for about 20 years. Initially, it started with selling traditional chewy rice crepes. As the business evolved, the owner has introduced a signature dish, Khaw Phan Phak, by combining steamed rice flour with homegrown vegetables. Later, the restaurant has passed down to the son, who modernized the traditional Laplae dishes, making them more diverse and contemporary.
+
+Opening Hours: Thursday - Tuesday 9:30 AM to 5:00 PM. (Closed every Wednesday)
+
+- Rolled Egg with Mushrooms and Yen Ta Fo sauce: A recommended dish that combines the local Khaw Phan Phak with modern twist. The rice flour is steamed and wrapped with vegetables, topped with Yen Ta Fo sauce, the fermented soybean paste. The dish includes special ingredients like rolled egg and enoki mushrooms, served with a flavorful broth.
+
+- Khaw Phan Phak with Stewed Chicken: Another innovative dish that blends the unique Khaw Phan Phak with stewed chicken noodles. The rice flour is steamed with vegetables and topped with a sweet and savory broth, followed by restaurant’s special tender stewed chicken.
+
+Location: [Monlablae](https://www.google.co.th/maps/place/%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A5+-+Monlablae/@17.6636199,100.0313311,698m/data=!3m2!1e3!4b1!4m6!3m5!1s0x30df2fac7ff1aca9:0xbf0daddf0860df45!8m2!3d17.6636199!4d100.033906!16s%2Fg%2F11p5hk8645?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dishes:
+
+Location: [Khaw Phan Phak Indy](https://www.google.co.th/maps/place/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%B1%E0%B8%81+indy/@17.6572717,100.0369407,698m/data=!3m2!1e3!4b1!4m6!3m5!1s0x30df2e5698da1733:0xfb1d8027e68e9edb!8m2!3d17.6572717!4d100.0395156!16s%2Fg%2F11h0tz_36?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dishes:
+
+Pom Khaow Pan Pak started as a small restaurant in Laplae District. With its unique flavor from the owner’s recipe and the use of conveniently sourced local ingredients, it has become a popular spot in Uttaradit.
+
+Opening Hours: Monday - Sunday 9:00 AM to 6:00 PM. (Closed every Wednesday)
+
+- Khaw Pan Pak: The owner’s recipe that modernizes traditional Khaw Pan Pak with egg, seasoned minced pork, tofu, and a variety of vegetables, served with a signature homemade sauce that has a perfectly balanced sweet and sour taste.
+
+The original and unrivaled Khanom Thian Sawoey (Sweet Stuffed Pyramid Dough) from Uttaradit, crafted from a cherished recipe to welcome guests in the past, boasts a rich history of over 60 years.This sweet has an aromatic scent and a chewy texture. The shop uses local ingredients to support the community and also serves as a learning center, sharing knowledge about traditional sweet-making techniques, including stirring the dough, pressing banana leaves, toasting sesame seeds, and skillfully wrapping the treats. It also functions as a museum, showcasing ancient collectibles for visitors to explore.
+
+Opening Hours: Daily from 7:00 AM to 7:00 PM.
+
+- Khanom Thian Sawoey: The exquisite, hand-crafted Khanom Thian Sawoey of Ban Kanokmanee is a small, bite-sized sweet without filling, unlike any other Khanom Thian. It offers chewy texture, mild sweet taste, and fragrant candle smoke aroma, with a crunchy texture from white sesame seeds that balances the sweetness. The meticulous process includes stirring the sweet mixture, mixing the flower water, smoking with candle smoke, and wrapping in well-pressed dried banana leaves using traditional methods that are becoming increasingly rare today.
+
+Pa Whang Mee Phan Laplae is a small restaurant operated out of the owner’s home. It began by selling Mee Klook (Mixed noodles with sauce) and Mee Phan (Wrapped noodles or noodles wrapped with rice crepe), which are unique local dishes of the Laplae District. The distinctive flavor of the restaurant's Wrapped Noodles won the Mee Phan contest in 1999, a recognition that has kept the restaurant well-known to this day.
+
+Opening Hours: Tuesday - Sunday from 10:00 AM to 5:00 PM. (Closed every Monday)
+
+- Mee Klook: A local dish of Laplae District made from cooked rice noodles mixed with ground fish, chili powder, lime juice, and fish sauce, creating a well-balanced and unique flavors.
+
+- Mee Phan: Laplae-style Mee Klook wrapped in Khao Kaeb, a thin rice sheet with a slightly salty taste, commonly made in local households of Lablae, Uttaradit. The dish is chewy and flavorful, perfectly paired with the rice sheet.
+
+Location: [Pom Khaw Pan Pak](https://www.google.co.th/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99+%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%9C%E0%B8%B1%E0%B8%81/@17.6235356,100.0854852,18.15z/data=!4m6!3m5!1s0x30df30162620172d:0x8b4f553656b6c3d5!8m2!3d17.6237212!4d100.0877761!16s%2Fg%2F1tdtytnf?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dish:
+
+Location: [Khanom Thian Sawoey Chidduang Kanokmanee](https://www.google.co.th/maps/place/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%A7%E0%B8%A2+%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B8%A7%E0%B8%87+%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A1%E0%B8%93%E0%B8%B5+%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%9A/@17.6148339,100.0878559,17z/data=!3m1!4b1!4m6!3m5!1s0x30df301a42f2e165:0x2d5f6520fe62f1d3!8m2!3d17.6148339!4d100.0904308!16s%2Fg%2F11gg7553sw?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dish:
+
+Location: [Pa Wang Mee Phan Laplae](https://www.google.co.th/maps/place/%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A5/@17.6553146,100.0370749,17z/data=!3m1!4b1!4m6!3m5!1s0x30df2e569a7eb83d:0xd59fc65150294e3d!8m2!3d17.6553146!4d100.0396498!16s%2Fg%2F11bzshl05y?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dishes:
+
+Travelling to Nakhon Phanom, try these Must Eat restaurants
+
+Kuay Teow Moo Pla Pho Luk Song
+
+Sri Thep Vietnamese Dumplings
+
+Third Thai–Lao Friendship Bridge
+
+Nakhon Phanom Walking Street
+
+Wat Phrathat Phanom Woramahawihan
+
+Vietnamese Kitchen
+
+Khanom Jeen Pisamai
+
+Yat Larb Ped
+
+Wat That Renu
+
+Sri Thep Pak Mor (Sri Thep Vietnamese Dumplings) is a 30 years old restaurant influenced by Vietnamese cuisine. The restaurant’s highlight is the hand-made flour, and signature dipping sauce that has been modernized with a strong flavor.
+
+Opening Hours: Monday - Saturday from 6:30 AM to 13:00 PM. and 15:00 PM. to 19:30 PM. (Sunday from 6:30 AM to 13:00 PM.)
+
+- Pak Mor (Bánh Cuốn): Minced pork stir-fried with chopped green onions, wrapped in thin Pak Mor (Vietnamese dumplings) dough, and sprinkled with fried garlic for added aroma. It is served with a sweet and sour dipping sauce.
+
+- Black Sesame Pak Mor: Black sesame crackers wrapped with Pak Mor (Vietnamese dumplings), offering a fragrant aroma from the black sesame and a crunchy texture. The dish is served with sweet and sour dipping sauce.
+
+Kuay Teow Moo Pla Pho Luk Song is a noodle shop deeply inspired by life along the Mekong River, a region abundant with diverse freshwater fish. This connection to the river infuses every dish with the essence of its rich, natural heritage. They started out raising fish in cages just for themselves, but as their fish stock grew, they decided to turn it into special dishes featuring Pla Pho (Basa fish) as the restaurant’s signature dish due to its sweet taste and firm texture.
+
+Opening Hours: Daily from 8:00 AM to 12:00 PM.
+
+- Pla Pho Noodles: Noodles served with boiled Pla Pho, a fish from Nakhon Phanom known for its firm texture and sweet taste. The dish is topped with a rich pork bone broth and is commonly seasoned with chilli sauce and served with grilled green chili.
+
+- Boiled Pla Pho with Dipping Sauces: Boiled Pla Pho served with three types of dipping sauces: a Nakhon Phanom-style sauce made from chili sauce and peanuts, seafood sauce, and ground chili.
+
+Location: [Sri Thep Vietnamese Spring Roll](https://www.google.co.th/maps/place/Sri+Thep+Vietnamese+Spring+Roll/@17.3982554,104.7792741,16z/data=!4m7!3m6!1s0x313c092da0dc265f:0x9f8d6f25669e4182!8m2!3d17.3982554!4d104.7888013!15sCifguJvguLLguIHguKvguKHguYnguK3guKjguKPguLXguYDguJfguJ5aKyIp4Lib4Liy4LiBIOC4q-C4oeC5ieC4rSDguKjguKPguLXguYDguJfguJ6SARV2aWV0bmFtZXNlX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11dfjysz42?hl=th&entry=tts&g_ep=EgoyMDI0MDcxNC4wKgBIAVAD)
+
+Recommended dishes:
+
+Location: [Kuay Teow Moo Pla Pho Luk Song](https://www.google.co.th/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%AB%E0%B8%A1%E0%B8%B9-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%9C%E0%B8%B2%E0%B8%B0+%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%AA%E0%B8%AD%E0%B8%87/@17.4363979,104.7560384,17z/data=!3m1!4b1!4m6!3m5!1s0x313c097bedf77a05:0xd3410d542dcd19fa!8m2!3d17.4363979!4d104.7586133!16s%2Fg%2F11c3vqvk62?hl=th&entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+
+Recommended dishes:
+
+The owner started his career as a kitchen assistant and start learning to cook, focusing on Isaan recipes and made-to-order dishes. The restaurant is known for using fresh, diverse ingredients sourced from local farmers, with homegrown vegetables.
+
+Opening Hours: Daily from 10:00 AM to 9:30 PM.
+
+- Larb Ped Khao: A house recipe spicy duck salad, seasoning with roasted rice and chili, topped with freshly made fried duck skin and fried garlic, dish by dish.
+
+- Om Krabok Moo: A spicy soup with tender pork salivary glands (Krabok Moo), enhanced with a variety of aromatic herbs.
+
+Khanom Jeen Pisamai has been open since 1998, starting from the owner’s love for Kanom Jeen (fermented rice noodles). The restaurant specializes in Nam Pla Ra (fermented fish sauce), a favorite dish in Renunakhon District.
+
+Opening Hours: Daily from 8:00 AM to 7:00 PM.
+
+- Kanom Jeen Nam Kapi Pla Ra: Freshly pressed, chewy Kanom Jeen noodles topped with a rich and savory sauce made from house specialty fermented fish, which made from Thai river sprat, or shrimp paste. The dish is often seasoned with chili, garlic, and sugar, and served with grilled eggs, crispy pork rinds, and fresh vegetables.
+
+Yat Larb Ped
+
+Location: [Yat Larb Ped](https://www.google.co.th/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A2%E0%B8%B2%E0%B8%94%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%94+%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%82%E0%B8%87+%E0%B8%93+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9E%E0%B8%99%E0%B8%A1/@17.3924634,104.7897722,17z/data=!3m1!4b1!4m6!3m5!1s0x313c0f6bb173df11:0xeb9f829ec7f56a0!8m2!3d17.3924634!4d104.7923471!16s%2Fg%2F11h3k598_g?entry=tts&g_ep=EgoyMDI0MDkwMi4xKgBIAVAD)
+
+Recommended dishes:
+
+Khanom Jeen Pisamai
+
+Location: [Khanom Jeen Pisamai](https://www.google.co.th/maps/place/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2/@17.0515598,104.6672351,16z/data=!4m7!3m6!1s0x313c3f422e5671d3:0x9a16bb5415a1d7d6!8m2!3d17.0552343!4d104.6755239!15sChvguKPguYnguLLguJnguK3guLLguKvguLLguKNaHiIc4Lij4LmJ4Liy4LiZIOC4reC4suC4q-C4suC4o5IBCnJlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUm9iR0ZtZGpWblJSQULgAQA!16s%2Fg%2F1hm2_k92_?hl=th&entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+
+Recommended dish:
+
+Travelling to Surin, try these Must Eat restaurants
+
+Rian Niang Nit Ang Kaeb Bob
+
+Pak Mor Je Nang Surin
+
+Baan Na Garden Restaurant
+
+Prasat Sikhoraphum (Sikornpoom Castle)
+
+Ancient Yok Thong Silk Weaving Village
+
+Khwao Sinarin Silver Handicraft Village
+
+Kalamae Sikhoraphum
+
+Som-Tam Jay-Took Restaurant
+
+Huay Saneng Reservoir
+
+Satom Organic Farm
+
+Rian Niang Nit Ang Kaeb Bob translates from Khmer as “Little Nit Stuffed Frog Shop.” This shop has been serving stuffed frog, a local delicacy since 2006. The shop was the inspiration for the whole community to form the Nong Yai Subdistrict Community Market. The stuffed frog is known for its intensely spicy flavor, a signature of the family recipe.
+
+Opening Hours: Daily from 8:00 AM to 5:00 PM.
+
+- Ang Kaeb Bob: Translates to “stuffed frog” in Khmer. Made from clean, farm-raised frogs, stuffed with minced frog meat mixed with herbs like ginger, galangal, lemongrass, and chili. The frogs are grilled over charcoal and brushed with a red bell pepper sauce for added color and aroma. The dish has a spicy, crunchy texture similar to northern Thai sausage.
+
+- Mok Kob: Made from minced frog meat mixed with herbs such as ginger, galangal, lemongrass, and chili, similar to the stuffing of Ang Kaeb Bob. The mixture is wrapped in banana leaves and grilled. This dish has a rich, spicy flavor and a fragrant aroma from the banana leaves, perfect to enjoy with rice.
+
+Kalamae shop offers soft and chewy texture Kalamae (soft and chewy coconut candy). The candy is fragrant with coconut milk and banana leaves used for wrapping, which offers scent by using the ancient charcoal iron. This unique delicacy from Srikhohrabbum District, Surin, follows a family recipe passed down from generations and made fresh daily without preservatives.
+
+Opening Hours: Daily from 6:00 AM to 5:00 PM.
+
+- Fresh Coconut Milk Kalamae: A renowned dessert from Srikhohrabbum District, Surin. It has a sweet, well-balanced flavor and a soft, chewy texture that melts in your mouth. The dessert is fragrant with coconut milk and banana leaves used for wrapping. The candy is made from simple ingredients like glutinous rice flour, sugar, coconut milk, and a naturally black color from burnt coconut shells.
+
+Pak Mor Je Nang Surin is a renowned restaurant specializing in traditional Pak Mor, delicate steamed Vietnamese dumplings crafted from a time-honored recipe passed down through three generations. The restaurant is known for its meticulous selection and preparation of ingredients, making each dish fresh to order for customers.
+
+Opening Hours: Daily from 9:15 AM to 3:00 PM.
+
+- Pork-filled Pak Mor: The rice flour is mixed with tapioca flour and steamed until cooked. It is then wrapped with seasoned minced pork and green onions. The dough is soft and complements the minced pork filling inside. It is served with a special dipping sauce and homemade fried garlic, offering a balanced taste of sweet, salty, and spicy.
+
+- Coconut Milk Pak Mor: A rare dish in Thailand. The soft and tender dough is filled with a sweet and salty filling, then topped with thick coconut milk made from freshly squeezed coconut. It provides an authentic traditional taste.
+
+Location: [Rian Niang Nit Ang Kaeb Bob is located in Baan Guan Community Market](https://www.google.co.th/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B9%87%E0%B8%A7%E0%B8%A5+(%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%81%E0%B8%9A%E0%B8%9A%E0%B8%AD%E0%B8%9A)/@14.5893046,103.4622295,17z/data=!3m1!4b1!4m6!3m5!1s0x311a0177bd42c26d:0xf792f5645e0eac!8m2!3d14.5893046!4d103.4648044!16s%2Fg%2F11gcxg4pk2?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dishes:
+
+Kalamae Sikhoraphum
+
+Location: [Kalamae Sikhoraphum](https://www.google.co.th/maps/place/%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B8%AA%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%82%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4+%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7/@14.9447381,103.7845844,708m/data=!3m1!1e3!4m7!3m6!1s0x3117425092567181:0x6de552c03f882906!8m2!3d14.9447381!4d103.7871593!15sChNrYWxhbWFlIHNpa2hvcmFiaHVtWhUiE2thbGFtYWUgc2lraG9yYWJodW2SAQtjYW5keV9zdG9yZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VReWNYVklNemxuUlJBQuABAA!16s%2Fg%2F1pztp_21p?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD)
+
+Recommended dish:
+
+Location: [Pak Mor Je Nang Surin](https://www.google.co.th/maps/place/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/@14.8857269,103.4863026,17z/data=!3m1!4b1!4m6!3m5!1s0x3119e3b7f369dc4f:0x2345e33175b4c34!8m2!3d14.8857269!4d103.4863026!16s%2Fg%2F11f54zdc8c?hl=th&entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+
+Recommended Dishes:
+
+Baan Na Garden Restaurant is an Isaan (Northeastern Thai) restaurant that focuses on traditional flavors loved by the people of Surin for nearly 40 years. The restaurant uses high-quality, locally sourced ingredients to support the community, such as fish, chicken, and local vegetables.
+
+Opening Hours: Daily from 10:00 AM to 10:00 PM.
+
+- Jrua Dong: This is a traditional Surin Khmer coconut milk chili paste dish. It uses mackerel meat pounded with chili, roasted garlic, shallots, pea eggplant, and coconut milk. The dish has a balanced salty-sweet flavor from the mackerel and herbs, complemented by the richness of the coconut milk. It is served with a variety of seasonal local greens such as neem, water mimosa, and acacia, or can be paired with fried pork or chicken.
+
+- Deep Fried Chicken with Salt: Baan Na Garden Restaurant’s signature dish, using a whole indigenous chicken. It is simply seasoned with salt and fried to a perfect crisp. The chicken is tender and juicy, with a savory and well-balanced salty flavor. It is served with three types of dipping sauces: Nam jim jeaw (or Thai Chilli Dipping Sauce made of dried chili flakes, fish sauce, lime juice, sugar, and roasted rice powder), seafood sauce, and sweet sauce.
+
+Som-Tam Jay-Took Restaurant is a papaya salad restaurant in Surin that has won awards for its papaya salad made with the signature boiled fermented fish sauce which has a unique aroma and flavor. The restaurant owner ensures freshness and stardardized taste by hand-picking all the ingredients.
+
+Opening Hours: Tuesday - Sunday from 10:30 AM to 17:00 PM. (Closed every Monday)
+
+- Som Tum Pu Pla Ra: Restaurant’s signature papaya salad with crab and fermented fish sauce. The sauce is boiled and prepared by the owner, giving it a fragrant and well-balanced, spicy flavor. The shop offers customers 2 options of preferable crabs - boiled field crab and salt-pickled sesarma mederi.
+
+- Herb-Roasted Chicken in Clay Pot: Whole chicken marinated with a blend of three herbs, crushed garlic, pepper, and coriander root
+
+, before being roasted in a clay pot, giving crispy skin and tender meat texture. The dish is served with restaurant’s special dipping sauce.
+
+Location: [Baan Na Garden Restaurant](https://www.google.co.th/maps/place/%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2/@14.8065342,103.481596,17z/data=!4m7!3m6!1s0x3119fd399283682b:0x2575df5ae999c0f3!8m2!3d14.8065342!4d103.4857159!15sChvguKPguYnguLLguJnguK3guLLguKvguLLguKNaHiIc4Lij4LmJ4Liy4LiZIOC4reC4suC4q-C4suC4o5IBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11jkwvkcrk?hl=th&entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+
+Recommended dishes:
+
+Som-Tam Jay-Took Restaurant
+
+Location: [Som-Tam Jay-Took Restaurant](https://www.google.com/maps/place/Som-Tam+Jay-Took+Restaurant/@14.8880536,103.4827016,17z/data=!3m1!4b1!4m6!3m5!1s0x3119e3c7e454ed4d:0x9f2ed0ab07c539d5!8m2!3d14.8880484!4d103.4852765!16s%2Fg%2F11c7608km6?authuser=0&coh=219815&entry=tts&g_ep=EgoyMDI0MDcwOS4wKgBIAVAD)
+
+Recommended dishes:
+
+Travelling to Suphan Buri, try these Must Eat restaurants
+
+Khua Rim Klong Song Phi Nong
+
+Ruean Phae Khua Suphan
+
+Saphan Khong Floating Market: Giant Fish Trap
+
+Tai Dam Boran Cultural Conservation Center
+
+Buddha Pusaya Khiri Sri Suvarnabhumi - Suphan Buri sky walk
+
+Au Thong National Museum
+
+Museum Of The Descendants Of The Dragon (Heaven Dragon Park)
+
+Mae Bouy
+
+Phai Khwang
+
+Rice Field Restaurant
+
+Kao Hong Market
+
+Mae Bouy is Suphan Buri’s first Sali cake bakery shop, in operation since 1942. The family’s recipe, using 100% organic ingredients, has become a local specialty.
+
+Opening Hours: For bakery from 7:00 AM to 6:00 PM for bakery, daily.
+
+For restaurant from 10:00 AM to 5:00 PM, daily
+
+- Sali Cake: A Suphan Buri’s local specialty, available in three varieties: original, pandan, and coffee. It is freshly made daily with a soft, fluffy texture and a hint of dok-nommaew (Melodorum siamense) scent.
+
+- Sali Thip: A traditional Sali cake with added filling of toasted coconut and a topping of shredded coconut, while preserving the soft, fluffy texture of the original recipe.
+
+Located in Phai Khwang subdistrict, this restaurant has been serving customers for over 50 years and is now running by the fourth generation of the family. Offering traditional recipes with their original flavors, the restaurant also introduces new dishes made from local ingredients.
+
+Opening Hours: Daily from 9:00 AM to 10:00 PM.
+
+- Mee Krob Goong: A traditional dish passed down from the grandmother’s time, featuring a balanced flavor that is not overly sweet. It is served with firm and fresh shrimp.
+
+- Pla Chon Nueng Bai Yor: An old family recipe that involves steaming snakehead fish with local Yor leaves (a type of local greens). The dish is served with grilled eggplant and the restaurant’s special Nam Prik Noom (pounded roasted chili dip), which has a distinct flavor different from the northern Thai originals. The grilled eggplant and spicy dip help enhance the fish’s natural taste.
+
+Krua Rim Klong Song Phi Nong
+
+With a passion for cooking, Krua Rim Khlong Song Phi Nong began with the owner’s mother, who developed her own recipes and decided to open the restaurant for 24 years.
+
+- Pla Chon Roeng Talay: A newly developed dish where a deep-fried Pla Chon (snakehead fish) is tossed in a tangy, sweet, and salty sauce. The fish is fried to a perfect crisp while remaining moist inside. The dish is then enhanced with fresh shrimp, squid, and boiled eggs.
+
+- Pla Mam Tod: A traditional Vietnamese dish, where giant snakehead fish is marinated in pineapple for a year before being deep-fried with herbs. This results in a distinctive salty flavor similar to northeastern Thai fermented fish, typically served with fresh vegetables.
+
+Mae Bouy
+
+Location: [Mae Bouy](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99+%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%9A%E0%B9%8A%E0%B8%A7%E0%B8%A2/@14.404246,100.1518466,17z/data=!3m1!4b1!4m6!3m5!1s0x30e24724bedef5b5:0x62753c77813267d0!8m2!3d14.404246!4d100.1567122!16s%2Fg%2F1hc1476jz?entry=tts&g_ep=EgoyMDI0MDcwOC4xKgBIAVAD)
+
+Recommended dishes:
+
+Phai Khwang
+
+Location: [Phai Khwang](https://www.google.co.th/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%9C%E0%B9%88%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B8%87/@14.4614169,100.1492675,17z/data=!4m6!3m5!1s0x30e238c09fc4e377:0x7dfb1e9bd50a5470!8m2!3d14.4614169!4d100.1492675!16s%2Fg%2F1ts6qh54?entry=tts&g_ep=EgoyMDI0MDkwMi4xKgBIAVAD)
+
+Recommended dishes:
+
+Location: [Krua Rim Klong Song Phi Nong](https://www.google.co.th/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87/@14.2325567,100.0422525,17z/data=!3m1!4b1!4m6!3m5!1s0x30e25048e6f339cb:0xbc3e54eadddf8ade!8m2!3d14.2325567!4d100.0448274!16s%2Fg%2F1hm464085?entry=tts&g_ep=EgoyMDI0MDkwMi4xKgBIAVAD)
+
+Recommended dishes:
+
+Rice Field Restaurant is a Central Thai culinary gem nestled in the heart of the owner’s family rice fields in Suphan Buri. The menu features a harmonious blend of local and traditional dishes, all crafted from cherished recipes passed down from the owner’s grandmother. Adjacent to the restaurant, the family-run Thai dessert café, Baan Rim Na, offers visitors an inviting spot to indulge in sweet treats and enjoy picturesque check-in points, making it a must-visit destination for those seeking an authentic and memorable experience.
+
+- Hay-Baked Chicken: A local three-breed chicken from Suphan Buri is marinated with the restaurant’s herbal recipe and roasted with rice straw and charcoal. The chicken has a tender texture and is served with a Nam jim jeaw (or Thai Chilli Dipping Sauce made of dried chili flakes, fish sauce, lime juice, sugar, and roasted rice powder). Advance ordering is recommended for this dish.
+
+- Miang Kham Bua (Lotus Petal Wrap): This dish replaces traditional Miang leaves with lotus petals as the wrap. It is served with lotus pollen, lime wedges, ginger, red onions, peanuts, dried shrimp, toasted coconut, and lotus seeds, all drizzled with the restaurant’s sweet dipping sauce.
+
+Ruean Phae Krua Suphan
+
+Ruean Phae Krua Suphan is a charming riverside restaurant nestled in a traditional Thai house, offering a warm and inviting atmosphere. For over 30 years, it has served beloved Suphan Buri dishes made from fresh, local ingredients, capturing the essence of authentic Thai cuisine.
+
+- Crab Meat Dip (Lon Poo): Lon Poo, salted crab cooked in coconut milk, is crafted from a traditional recipe passed down from the owner’s mother, which offers rich flavor. It is often served with locally available vegetables.
+
+- Tom Yum Pla Ma: This Tom Yum soup, made with boeseman croaker (Pla Ma), which is a Suphan Buri provincial fish, sourced from the Tha Chin River, is well-seasoned to deliver a balanced, spicy, and tangy flavor, offering a refreshing taste.
+
+Rice Field Restaurant
+
+Location: [Rice Field Restaurant](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%81%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%B2/data=!4m2!3m1!19sChIJLT_XlllZ4jARbjApL5YvMhs)
+
+Recommended dishes:
+
+Location: [Ruean Phae Krua Suphan](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%9E%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93/@14.5047568,100.1191295,17z/data=!3m1!4b1!4m6!3m5!1s0x30e239a11edfb869:0xe696de281d7c524b!8m2!3d14.5047568!4d100.1217098!16s%2Fg%2F1hm5k9vxf?entry=tts&g_ep=EgoyMDI0MDcwOC4xKgBIAVAD)
+
+Recommended dishes:
+
+Travelling to Nakhon Nayok, try these Must Eat restaurants
+
+Mai Na Aroi Restaurant
+
+Krua Look Pla Restaurant
+
+Pla Doo Kru Lord
+
+Wang Takrai National Park
+
+Khun Dan Prakarnchon Dam
+
+Boat Cruise to Chong Lom Mountain
+
+Chaluay Phochana
+
+Hydro Kitchen
+
+Wat Chulabhorn Wanaram
+
+Sarika Adventure Point
+
+Mai Na Aroi is a small restaurant that has been open for about 27 years. The owner used to be a chef in a hotel before leaving to open this restaurant with his own unique recipes. The restaurant is known for its distinctive and innovative menu.
+
+Opening Hours: Daily from 8:30 AM to 4:00 PM
+
+- Rad Na with Young Coconut: Stir-fried noodles with sesame oil, for a fragrant aroma, topped with homemade fried garlic. The dish is served with a separate sauce that includes young coconut meat, providing a sweet flavor and delicate coconut scent.
+
+- Khao Kluk Kapi: The shrimp paste rice (Khao Kluk Kapi) is stir-fried with crab meat, creating a well-rounded and savory flavor. It is served with a variety of side dishes, including roasted pork (a twist on the traditional sweet pork), dried chilies, Chinese sausage, green mango, omelet, and shallots. A special dipping sauce accompanies the meal, adding a unique and delightful taste.
+
+Krua Look Pla Restaurant has been open since 1992, originally started by the family of the current owner. The menu focuses on river fish sourced from local fishermen, with daily specials that vary on the catch of the day.
+
+(If the restaurant is closed on any day, an announcement will be made on the Facebook page)
+
+- Steamed Goby Fish with Soy Sauce: Natural caught goby fish is steamed with soy sauce, resulting in tender and slightly salty fish dish with a fragrant aroma. It is served with the restaurant’s special seafood dipping sauce, enhanced with fresh lime. Advance ordering is recommended for this dish.
+
+- Whisker Sheatfish in Choo Chee Curry: A whisker sheatfish (Pla Daeng) caught from the Nakhon Nayok River is cooked in a signature curry paste, developed by the owner's mother.
+
+Location: [Mai Na Aroi Restaurant](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%A2/data=!4m2!3m1!19sChIJ1TdinDq8HTERDEndgHaCJnk)
+
+Recommended dishes:
+
+Location: [Krua Look Pla Restaurant](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%9B%E0%B8%A5%E0%B8%B2+%E0%B8%88.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81/@14.2138193,101.201093,17z/data=!3m1!4b1!4m6!3m5!1s0x311db0555555554d:0x41bbd12d907a249a!8m2!3d14.2138193!4d101.201093!16s%2Fg%2F1tgx41vn?q=62+%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%9B%E0%B8%A5%E0%B8%B2+%E0%B8%88.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81+%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94+Tha+Chang,+Mueang+Nakhon+Nayok+District,+Nakhon+Nayok+26000&ftid=0x311db0555555554d:0x41bbd12d907a249a&lucs=,94222521,47071704,94206167,47069508,94218641,94203019,47084304&g_st=ic&entry=tts&g_ep=EgoyMDI0MDcxNy4wKgBIAVAD)
+
+Recommended dishes:
+
+Pla Doo Kru Lord is a learning center for traditional Thai Phuan cuisine, a group of people who migrated from Laos during the Thonburi kingdom era. The pace was established in 2006 with the aim of preserving Thai Phuan ancient recipes for the future generations. Additionally, a homemade Pla Doo (traditional fermented fish) dishes from the owner are available every day.
+
+Opening Hours: Daily from 7:00 AM to 18:00 PM
+
+- Fried Pla Doo: This dish uses fermented catfish raised by local villagers in Koh Wai Subdistrict. The fish is marinated with salt, garlic, pepper, and Mayong Chid juice (Marian plum) from Nakhon Nayok, resulting in a balanced salty and sour taste. The Pla Doo meat is firm, chewy, and tender.
+
+- Spicy Stir-Fried Pla Doo: In this dish, Pla Doo is fried and then chopped into small pieces, creating a texture similar to chili paste. It is boneless and commonly enjoyed with boiled or blanched vegetables.
+
+Hydro Kitchen has been open for 17 years and specializes in dishes made with vegetables grown using hydroponic methods within the household. The fresh, homegrown produce, including Chinese kale, Chinese cabbage, and green oak lettuce, is featured in many of their dishes, ensuring a farm-to-table experience.
+
+Opening Hours: Daily from 9:00 AM to 9:00 PM
+
+- Fried Nile Tilapia with Herbs: Nile tilapia from the Nakhon Nayok River is fried with herbs and then topped with more fried herbs, boost its fragrance. This dish is served with the restaurant’s special seafood dipping sauce.
+
+- Royal Pomelo Salad: This dish features the Khao Nam Phueng pomelo, grown in Nakhon Nayok. It is a dry salad made with only sugar and salt, offering a sweet from fresh pomelo and sour taste with a fragrant aroma from toasted coconut.
+
+Chaluay Phochana is a restaurant that has been serving Thai Phuan-style sukiyaki for over 60 years, passed down from the owner’s father. The dish recipe is from traditional Thai Phuan people who migrated from Xiangkhouang, Laos. The owner prepares the ingredients and cooks each dish with an intention to serve customers with authentic traditional Thai Phuan dishes.
+
+Opening Hours: Daily from 8.00- 16.30 P.M.
+
+- Thai Phuan-Style Sukiyaki: The traditional sukiyaki dish incorporates fermented tofu and chili paste, resulting in a thick broth with a sweet, salty, and rich flavor. It is topped with homemade crispy pork cracklings for added depth.
+
+- Glass Noodle Salad: Thai-style glass noodle salad seasoned with fish sauce, lime, pork cracklings, and a signature chili paste that creates a unique red color. The dish has a well-balanced mix of sweet, sour, and salty flavors.
+
+Location: [Pla Doo Kru Lord](https://www.google.com/maps/place/%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%B9%E0%B8%84%E0%B8%A3%E0%B8%B9%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94/@14.1705588,101.256957,15z/data=!4m6!3m5!1s0x311dad7169aa2563:0xaec93622d02b11be!8m2!3d14.1705588!4d101.256957!16s%2Fg%2F11g0j68vtr?sa=X&ved=1t:2428&ictx=111&entry=tts&g_ep=EgoyMDI0MDcwMS4wKgBIAVAD)
+
+Recommended dishes:
+
+Hydro Kitchen
+
+Location: [Hydro Kitchen](https://www.google.com/maps/place/%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B9%84%E0%B8%AE%E0%B9%82%E0%B8%94%E0%B8%A3/data=!4m2!3m1!19sChIJFxZ6p_exHTERNQXEBUg-5FY)
+
+Recommended dishes:
+
+Chaluay Phochana
+
+Location: [Chaluay Phochana](https://www.google.com/maps/place/%E0%B8%89%E0%B8%A5%E0%B8%A7%E0%B8%A2%E0%B9%82%E0%B8%A0%E0%B8%8A%E0%B8%99%E0%B8%B2+:+%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B5%E0%B9%89+%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%95%E0%B9%8A%E0%B8%B0+@+%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%A5%E0%B8%B5+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81/data=!4m2!3m1!19sChIJcxdNC9GtHTERi0dktsUx8S4)
+
+Recommended dishes:
+
+Travelling to Chumphon, try these Must Eat restaurants
+
+Thung Wua Laen Beach
+
+Khao Matsee View Point
+
+Wat Phra Borommathat Sawi
+
+Ban Phuk Pouk
+
+Yai Puad
+
+Kua Luang Pod
+
+Grandma’s Rice Noodles
+
+Thamsing Cafe
+
+Suspension Bridge - Deer
+
+Nam Lot Cave
+
+This southern restaurant serves up rare, authentic dishes typically enjoyed in family homes. Each dish is lovingly prepared by the owner using his own cherished recipes, featuring fresh, local vegetables that perfectly complement the rich, traditional flavors.
+
+Opening Hours: Daily from 11:00 AM to 8:30 PM.
+
+- Squid and Som Poi Leaves in Coconut Milk Broth: Squids are seasoned with a family secret recipe, resulting in a perfectly balanced salty broth, as well as offering the sourness from Som Poi leaves - Acacia concinna - and tamarind juice. It is served with freshly made crab egg chili paste, combining the sweetness of coconut sugar with the tanginess of calamansi for a harmonious blend of flavors. The dish is accompanied by local vegetables.
+
+- Banana Blossom Sour Curry with Pork Belly: A rare traditional dish that braises banana blossom with pork belly, seasoning with tamarind juice to highlight its sour taste. After it cooked, the kumquats juice will be added for the aroma.
+
+Yai Puad offers dishes based on the owner’s mother’s recipes, which she has been making since childhood. The restaurant has been operating for about 30 years, using locally sourced ingredients from Chumphon.
+
+Opening Hours: Thursday - Tuesday from 11:00 AM to 5:00 PM. (Closed every Wednesday)
+
+- Southern Thai Curry with Crab and Raw Banana: The traditional menu of the restaurant made of coconut milk and freshly made Southern curry paste. The dish features spicy taste as well as rich texture from crab and raw banana.
+
+- Fried Salted Fish with Coconut Milk: Inspired by the owner’s mother that originally created just to eat in the family, especially for their kids, a locally sourced salted fish from Chumphon is seasoned and stir-fried with fresh coconut milk to balance the saltiness, resulting in a well-rounded flavor. The dish also has a unique aroma from being cooked over a charcoal stove.
+
+Ban Phuk Pouk
+
+Location: [Ban Phuk Pouk](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B8%9E%E0%B8%A7%E0%B8%81/@10.4696727,99.17047,13.83z/data=!4m7!3m6!1s0x3056000bc2d2c7e5:0x5dad229e4644226b!8m2!3d10.4691189!4d99.1858874!15sCqEB4Lij4LmJ4Liy4LiZ4Lit4Liy4Lir4Liy4Lij4LmD4LiZ4Lin4Lix4LiU4Lie4Lij4Liw4Lia4Lij4Lih4LiY4Liy4LiV4Li44Liq4Lin4Li1IOC4iuC4uOC4oeC4nuC4oyDguJXguLPguJrguKUg4Liq4Lin4Li1IOC4reC4s-C5gOC4oOC4reC4quC4p-C4tSDguIrguLjguKHguJ7guKNaqwEiqAHguKPguYnguLLguJkg4Lit4Liy4Lir4Liy4LijIOC5g-C4mSDguKfguLHguJQg4Lie4Lij4Liw4Lia4Lij4LihIOC4mOC4suC4leC4uCDguKrguKfguLUg4LiK4Li44Lih4Lie4LijIOC4leC4s-C4muC4pSDguKrguKfguLUg4Lit4Liz4LmA4Lig4LitIOC4quC4p-C4tSDguIrguLjguKHguJ7guKOSAQpyZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJuYUhFM09XdDNSUkFC4AEA!16s%2Fg%2F11b6zvczxk?authuser=0&entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+
+Recommended dishes:
+
+Yai Puad
+
+Location: [Yai Puad](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A7%E0%B8%94/@10.4793493,99.1852174,15z/data=!4m6!3m5!1s0x3055fffbf459b9cd:0xb51f5900ff598e56!8m2!3d10.4793493!4d99.1955171!16s%2Fg%2F11b6t33sjl?authuser=0&entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+
+Recommended dishes:
+
+This Khanom Jeen shop in Chumphon Province, owned by a native of Nakhon Si Thammarat, stands out for its use of freshly made curry paste, preserving the authentic, spicy flavors of its origin. The shop also prides itself on serving homegrown, fresh vegetables as side dishes, ensuring every meal reflects their commitment to quality and care.
+
+Opening Hours: Friday - Wednesday from 9:00 AM to 4:00 PM (Closed every Thursday)
+
+- Rice Noodles with Curry Sauce: The restaurant offers four distinctive curry sauces: fish curry made with Pla Daeng (A whisker sheatfish), fish kidney curry (Kaeng Tai Pla) using grilled Bonito and Snakehead fish kidney, crab curry, and jungle curry. Each curry sauce is developed from the restaurant’s unique recipes and served with fresh fermented rice noodles sourced from a local supplier in Chumphon.
+
+- Turmeric Fried Chicken: An ancient recipe passed down from the owner’s mother, this fried chicken is mixed with freshly pounded turmeric, giving it a fragrant aroma, a crispy texture, and a perfectly balanced salty taste.
+
+This local seafood restaurant has been delighting patrons for over 24 years with recipes passed down from the mothers. It proudly showcases the unique flavors of Chumphon by using fresh seafood sourced directly from local fishermen, capturing the true essence of the region's cuisine.
+
+- Miang Pla Chom: A local dish uses freshly caught Pla Chom fish (African Pompano), which is fried and mixed with a homemade Miang sauce made from coconut sugar. The fish has a tender yet firm texture that pairs perfectly with the sweet and balanced flavor of the sauce.
+
+- Crab in Coconut Milk Soup: Blue crab from the restaurant's fishery, braised with the coconut milk and herbals. The crab offers firm texture and sweet mixed with aroma from pepper and shallots.
+
+Thamsing Cafe is a café founded by local coffee farmers in Thamsing Subdistrict to support and uplift their community of growers. The Chumphon authorities later invited them to open a shop at the Khao Matsee viewpoint, blending their passion for coffee with the promotion of local tourism.
+
+- Thamsing Coffee: Also known as honey black coffee, this robusta coffee has a strong, non-acidic flavor with a distinctive aroma. The coffee beans are grown in Thamsing Subdistrict, Chumphon.
+
+- Coffee Blossom Tea: This tea is made from coffee blossoms that bloom only in the winter. When brewed with hot water, it releases a light fragrance and a sweet taste.
+
+Grandma’s Rice Noodles
+
+Location: [Grandma’s Rice Noodles](https://www.google.com/maps/place/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B9%88%E0%B8%B2/@10.4811269,99.1729669,15z/data=!4m6!3m5!1s0x305601b5904c0995:0x22acb18dbc7e2843!8m2!3d10.4811269!4d99.1832666!16s%2Fg%2F11f55gr6l9?authuser=0&entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+
+Recommended dishes:
+
+Kua Luang Pod
+
+Location: [Kua Luang Pod](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B8%E0%B8%87%E0%B8%9B%E0%B9%8A%E0%B8%AD%E0%B8%94/@10.6187078,99.197271,12z/data=!4m6!3m5!1s0x30ff4f8135034815:0x77cc6a7fbeadd31!8m2!3d10.6985334!4d99.3632946!16s%2Fg%2F11c6lx869d?authuser=0&entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+
+Recomended dishes:
+
+Thamsing Cafe
+
+Location: [Thamsing Cafe](https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C+%E0%B8%93+%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B8%8A%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B5+:+Thamsing+Cafe'/@10.4380438,99.2490407,17z/data=!3m1!4b1!4m6!3m5!1s0x3055fee1906acfa3:0x953caa203406a73b!8m2!3d10.4380438!4d99.251621!16s%2Fg%2F11bxfrv1rp?authuser=0&entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+
+Recommended dishes:
+
+Travelling to Satun, try these Must Eat restaurants
+
+Mameng Herbal Rice Salad
+
+Fish Curry Shop (Tom Mae Curry House No. 35)
+
+Wang Sai Thong Waterfall
+
+Phu Pha Petch Cave
+
+Mu Ko Phetra National Park
+
+Sam Phi Nong
+
+Bara Roti
+
+Madee Satun
+
+Le stegodon Cave
+
+Pak Bara Beach
+
+This halal restaurant, now in its third generation, is a culinary treasure where original recipes have been meticulously preserved and passed down through the ages. Beloved by the locals of Satun, it serves dishes that are not only daily favorites but also integral to religious ceremonies. The highlight of each dish is the intense, authentic flavor, elevated by the use of charcoal, which imparts a rich, fragrant aroma that sets it apart.
+
+Opening Hours: Daily from 6:00 AM to 3:00 PM, but if the food runs out, the restaurant may close earlier.
+
+- Yellow Sticky Rice with Chicken Curry: A local breakfast dish in Satun. The restaurant blends yellow curry powder with coconut milk red curry paste, creating a fragrant aroma. It is served with yellow sticky rice, colored with turmeric.
+
+- Chicken Biryani: This dish boasts a unique and intense flavor. The restaurant parboils the rice before cooking, resulting in beautifully shaped grains. The rice is then baked in a charcoal oven to achieve a fragrant aroma.
+
+A herbal rice salad restaurant that has been selling owner's favorite dishes from Narathiwat to the people in Satun for about 30 years. The highlight of the restaurant is the use of home-picked vegetables.
+
+Location: The restaurant does not have a direct pin on the online map but is located opposite [Khuan Don Kindergarten school](https://www.google.co.th/maps/place/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%84%E0%B8%A7%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%99/@6.786887,100.0787021,17z/data=!3m1!4b1!4m6!3m5!1s0x304cefd89a4ea87f:0x8c60bc5678531030!8m2!3d6.786887!4d100.081277!16s%2Fg%2F11c58t8pm4?entry=tts&g_ep=EgoyMDI0MDkwMy4wKgBIAVAD), next to the traffic light intersection in front of the school.
+
+Opening Hours: Friday - Tuesday from 6:20 AM to 10:00 AM. (Closed every Wednesday and Thursday)
+
+- Herbal Rice Salad: A dish where rice is cooked with Yor leaves (a type of local greens) and topped with homemade Budu sauce (anchovy sauce). It is commonly eaten with various vegetables such as cashew shoots, Mun Pu shoots, longevity spinach, torch ginger, etc., which are all homegrown by the owner.
+
+- Nasidagae: A traditional fish curry from Narathiwat made with curry paste, turmeric, galangal, lemongrass, and chili. Glutinous rice is mixed with regular rice and marinated with coconut milk, combined with herbs like ginger, shallots, and fenugreek from Malaysia. It is often sprinkled with a mixture of shredded mackerel and coconut for added fragrance.
+
+A curry rice restaurant that has been open for over 80 years, passing down recipes from generation to generation, originally adapted from India. The menu features local dishes that are popular among the locals.
+
+Opening Hours: Daily from 7:00 AM to 12:00 PM.
+
+- Stir-Fried Red Beef: Grounded beef is stir-fried with homemade dried red chili, offering a sweet and sour taste.
+
+- Fish Gulai Tumis (Tamarind Fish Curry): A local delicacy of Satun, this curry features a mild aroma from Samui leaves (or Curry leaf tree) and Malaysian curry paste, which isn’t too strong. The flavor is perfectly balanced with a sour taste. The restaurant uses Ee-Kut fish (Picnic Seabream) for its firm texture that holds together well in the curry.
+
+Sam Phi Nong
+
+Location: [Sam Phi Nong](https://www.google.com/maps/place/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87/@6.6874943,99.3592297,10z/data=!4m7!3m6!1s0x304c8d643332fead:0x1fa4f3ed6d55bc1f!8m2!3d6.6190954!4d100.0723638!15sClLguKPguYnguLLguJnguK3guLLguKvguLLguKPguKHguLjguKrguKXguLTguKEgMyDguJ7guLXguYjguJnguYnguK3guIcg4Liq4LiV4Li54LilWlYiVOC4o-C5ieC4suC4mSDguK3guLLguKvguLLguKMg4Lih4Li44Liq4Lil4Li04LihIDMg4Lie4Li14LmI4LiZ4LmJ4Lit4LiHIOC4quC4leC4ueC4pZIBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTlNhRm8yTms5M0VBReABAA!16s%2Fg%2F11dxkc7tn9?authuser=0&entry=tts&g_ep=EgoyMDI0MDcwMS4wKgBIAVAD)
+
+Recommended dishes:
+
+Recommended dishes:
+
+Location: [Fish Curry Shop (Tom Mae Curry House No. 35)](https://www.google.com/maps/place/%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B9%81%E0%B8%A1%E0%B9%8A%E0%B8%B0%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%97%E0%B8%B5%E0%B9%88+35/@6.6137258,100.0651841,20.42z/data=!4m6!3m5!1s0x304c8d1d1a9bb7c1:0x8d2f8410b1bce43a!8m2!3d6.6137657!4d100.0653381!16s%2Fg%2F11qp5q_wh5?authuser=0&entry=tts&g_ep=EgoyMDI0MDcwMS4wKgBIAVAD)
+
+Recommended dishes:
+
+Bara Roti, a family-run restaurant with nearly 30 years of history, originates from grandparents who brought their culinary heritage from Phatthalung to Satun. Each generation has upheld the quality and authentic taste of their roti, while continuously evolving the menu to appeal to all ages, making Bara Roti a beloved local spot.
+
+For local dishes from 6:00 AM - 3:00 PM, daily.
+
+For night tea, roti, and pizza from 3:00 PM - 11:00 PM, daily.
+
+- Yellow Peas Curry with Roti: A signature curry dish made from a blend of spices, meat, and yellow peas, offering a predominantly sweet flavor.
+
+- Grilled Roti with Tumi Curry: A popular choice for breakfast and lunch, grilled roti is served with Tumi curry (Assam tumis fish curry). This fish curry has a tangy taste from tamarind and a fragrant aroma from homemade spices.
+
+This made-to-order restaurant, nestled by the sea estuary and surrounded by saltwater mangrove forests, is a hidden gem that captures the essence of coastal dining. The seafood, sourced daily from local fishermen practicing traditional methods, ensures that each dish is a fresh and authentic representation of the sea's bounty. The true charm of this eatery lies in its ever-changing menu, dictated by the catch of the day, and the care with which each dish is prepared—one at a time, as if you were enjoying a home-cooked meal in a serene seaside setting.
+
+Opening Hours: Daily from 11:00 AM to 6:00 PM.
+
+- Beef Gulai Tumis: This dish uses Malaysian curry paste but is adapted to resemble Thai Massaman curry by adding carrots and cassava. It has a sweet, creamy, and well-balanced flavor, served with homemade pickled vegetables (Ajaad).
+
+- Garlic Fried Mantis Shrimp: Mantis shrimp sourced from local fishermen, coated in batter and fried with garlic, served with the restaurant’s special seafood dipping sauce
+
+Bara Roti
+
+Location: [Bara Roti](https://www.google.com/maps/place/%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%95%E0%B8%B5+Bararoti/@6.8546362,99.7229291,17z/data=!3m1!4b1!4m6!3m5!1s0x304c50287a5e4e4d:0x548eae1f04d9ddb1!8m2!3d6.8546309!4d99.725504!16s%2Fg%2F11b7gm9pqw?authuser=0&entry=tts&g_ep=EgoyMDI0MDcwMS4wKgBIAVAD)
+
+Opening Hours:
+
+Recommended dishes:
+
+Madee Satun
+
+Location: [Madee Satun](https://www.google.com/maps/place/%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B5+%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%A5+(Madee+Satun)/@6.702734,99.9302842,17z/data=!3m1!4b1!4m6!3m5!1s0x304cf5236fd9a025:0xe752de014d971451!8m2!3d6.7027287!4d99.9351551!16s%2Fg%2F11rq5t6lg5?authuser=0&entry=tts&g_ep=EgoyMDI0MDcwMS4wKgBIAVAD)
+
+Recommended dishes:
+
+5 0%
+
+4 0%
+
+3 0%
+
+2 0%
+
+1 0%
+

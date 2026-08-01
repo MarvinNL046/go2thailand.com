@@ -1,0 +1,70 @@
+{
+  "captured_at": "2026-07-27T19:26:11.672Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand shoulder season",
+  "costs": {
+    "suggestions": 0.0126,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thailand shoulder season",
+    "shoulder season in thailand",
+    "shoulder season thailand",
+    "what is shoulder season in thailand",
+    "when is shoulder season in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "shoulder season in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shoulder season thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand shoulder season",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is shoulder season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is shoulder season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

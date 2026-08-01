@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-travel-tips-reddit",
+  "route": "/nl/blog/bangkok-travel-tips-reddit/",
+  "cluster": "planning",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Bangkok tips: van Reddit naar een echt plan | Go2Thailand",
+    "description": "Zet losse Reddit-tips om in een haalbaar Bangkok-plan voor je wijk, aankomst, vervoer en eerste drie dagen.",
+    "primaryKeyword": "Bangkok tips eerste keer",
+    "secondaryKeywords": ["Bangkok travel tips Reddit", "eerste keer Bangkok", "Bangkok reis plannen"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/bangkok-travel-tips-reddit/"
+  },
+  "hero": {
+    "eyebrow": "Communityvragen, gecontroleerde antwoorden",
+    "title": "Je eerste Bangkok-plan",
+    "accent": "Minder tips, betere volgorde",
+    "description": "Gebruik Reddit om frictie te vinden en officiële bronnen om vervoer, opening en veiligheid te verifiëren.",
+    "image": "/images/redesign/editorial/bangkok-travel-tips-reddit-hero.webp",
+    "imageAlt": "Avondverkeer, tempeldaken en straatleven in Bangkok",
+    "primaryCta": { "label": "Plan de eerste 90 minuten", "href": "#aankomst" },
+    "secondaryCta": { "label": "Kies je wijk", "href": "#wijken" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Gebruik communitytips als bron voor vragen, niet voor vaste feiten. Regel eerst aankomst en hotelroute, kies daarna een wijk op je dagplan en groepeer bezienswaardigheden per stadsdeel.",
+  "blocks": [
+    { "kind": "steps", "id": "aankomst", "title": "Je eerste negentig minuten", "steps": [
+      { "title": "Maak verbinding", "description": "Bewaar hoteladres, route en belangrijke documenten ook offline." },
+      { "title": "Kies de eenvoudige transfer", "description": "Na een lange vlucht telt betrouwbaarheid zwaarder dan een ingewikkelde kleine besparing." },
+      { "title": "Check in en eet dichtbij", "description": "Houd je eerste avond licht; Bangkok is sterker wanneer je uitgerust begint." },
+      { "title": "Controleer morgen", "description": "Verifieer opening, route, kledingregels en weer voor je eerste volledige dag." }
+    ] },
+    { "kind": "comparison", "id": "wijken", "title": "Vier bases voor een eerste bezoek", "options": [
+      { "title": "Siam", "description": "Centraal railknooppunt, malls en makkelijke overstappen; minder buurtsfeer in de directe omgeving.", "label": "Centraal" },
+      { "title": "Silom", "description": "BTS en MRT, park en eten; praktisch voor meerdere stadsdelen.", "label": "Gebalanceerd" },
+      { "title": "Riverside", "description": "Riviersfeer en boten; controleer afstand tot rail en je exacte pier.", "label": "Sfeer" },
+      { "title": "Banglamphu", "description": "Dicht bij historisch Bangkok; minder direct aan het BTS-netwerk.", "label": "Oude stad" }
+    ] },
+    { "kind": "checklist", "id": "communitycheck", "title": "Verifieer elke virale tip", "items": ["Datum van de post", "Officiële opening en route", "Persoonlijke voorkeur versus feit", "Exacte wijk of vestiging", "Actueel reisadvies", "Prijs en voorwaarden bij de provider", "Of de tip past bij jouw mobiliteit en tempo"] },
+    { "kind": "callout", "id": "dagen", "tone": "jade", "title": "Plan geografisch, niet op bekendheid", "description": "Combineer historisch Bangkok en rivier op één dag, moderne stad en park op een andere, en reserveer een derde blok voor één buurt, markt of museum.", "cta": { "label": "Bekijk Bangkok bezienswaardigheden", "href": "/nl/city/bangkok/attractions/" } },
+    { "kind": "related", "id": "verder", "title": "Van eerste tips naar owners", "items": [
+      { "title": "Waar overnachten?", "description": "Kies je hotelwijk op vervoer en dagroute.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
+      { "title": "Bangkok foodgids", "description": "Plan streetfood en restaurants per stadsdeel.", "href": "/nl/city/bangkok/food/" },
+      { "title": "BTS en MRT", "description": "Vergelijk vervoer zonder één modus voor de hele stad te forceren.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Zijn Bangkok-tips op Reddit betrouwbaar?", "answer": "Ze zijn nuttig voor ervaringen en vragen, maar verifieer vervoer, opening, prijs en veiligheid bij officiële bronnen." },
+      { "question": "Hoeveel dagen heb je nodig voor Bangkok?", "answer": "Drie volledige dagen geven veel eerste bezoekers ruimte voor historisch Bangkok, moderne stad en één eigen verdieping. Minder kan, als je keuzes beperkt." },
+      { "question": "Welke wijk is goed voor de eerste keer?", "answer": "Siam en Silom zijn vaak praktisch door railverbindingen; Riverside en Banglamphu passen beter wanneer sfeer of historische plekken zwaarder wegen." },
+      { "question": "Moet je alles vooraf boeken?", "answer": "Nee. Boek schaarse of datumgebonden onderdelen en houd vrije blokken voor weer, energie en lokale wijzigingen." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële controlepunten", "items": [
+      { "title": "Bangkok destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/bangkok/219", "checkedAt": "2026-08-01" },
+      { "title": "BTS Skytrain", "publisher": "Bangkok Mass Transit System", "url": "https://www.bts.co.th/eng/", "checkedAt": "2026-08-01" },
+      { "title": "MRT Bangkok", "publisher": "Bangkok Expressway and Metro", "url": "https://metro.bemplc.co.th/", "checkedAt": "2026-08-01" },
+      { "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

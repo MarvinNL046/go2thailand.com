@@ -1,0 +1,2060 @@
+{
+  "captured_at": "2026-07-23T21:05:06.750Z",
+  "locale": "nl",
+  "url": "https://www.reisroutes.nl/blog/thailand/bezienswaardigheden-phuket/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Volg ons",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Den Haag",
+          "url": "https://www.reisroutes.nl/stadswandelingen/den-haag/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/stadswandelingen/den-haag/",
+              "anchor_text": "Den Haag"
+            }
+          ]
+        },
+        {
+          "text": "Groothertogdom Luxemburg",
+          "url": "https://www.reisroutes.nl/stadswandelingen/gh-luxemburg/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/stadswandelingen/gh-luxemburg/",
+              "anchor_text": "Groothertogdom Luxemburg"
+            }
+          ]
+        },
+        {
+          "text": "Lille - Rijsel",
+          "url": "https://www.reisroutes.nl/stadswandelingen/lille/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/stadswandelingen/lille/",
+              "anchor_text": "Lille - Rijsel"
+            }
+          ]
+        },
+        {
+          "text": "New York",
+          "url": "https://www.reisroutes.nl/stadswandelingen/new-york/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/stadswandelingen/new-york/",
+              "anchor_text": "New York"
+            }
+          ]
+        },
+        {
+          "text": "Alle stadswandelingen",
+          "url": "https://www.reisroutes.nl/stadswandelingen/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/stadswandelingen/",
+              "anchor_text": "Alle stadswandelingen"
+            }
+          ]
+        },
+        {
+          "text": "Baai van Napels en Amalfi kust",
+          "url": "https://www.reisroutes.nl/rondreizen/baai-napels-amalfi/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/rondreizen/baai-napels-amalfi/",
+              "anchor_text": "Baai van Napels en Amalfi kust"
+            }
+          ]
+        },
+        {
+          "text": "Elzas - Vogezen",
+          "url": "https://www.reisroutes.nl/rondreizen/elzas/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/rondreizen/elzas/",
+              "anchor_text": "Elzas - Vogezen"
+            }
+          ]
+        },
+        {
+          "text": "Franse Ardennen",
+          "url": "https://www.reisroutes.nl/rondreizen/franse-ardennen/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/rondreizen/franse-ardennen/",
+              "anchor_text": "Franse Ardennen"
+            }
+          ]
+        },
+        {
+          "text": "Groothertogdom Luxemburg",
+          "url": "https://www.reisroutes.nl/rondreizen/gh-luxemburg/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/rondreizen/gh-luxemburg/",
+              "anchor_text": "Groothertogdom Luxemburg"
+            }
+          ]
+        },
+        {
+          "text": "Zwarte Woud",
+          "url": "https://www.reisroutes.nl/rondreizen/zwarte-woud/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/rondreizen/zwarte-woud/",
+              "anchor_text": "Zwarte Woud"
+            }
+          ]
+        },
+        {
+          "text": "Alle rondreizen",
+          "url": "https://www.reisroutes.nl/rondreizen/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/rondreizen/",
+              "anchor_text": "Alle rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Antwerpse Kempen",
+          "url": "https://www.reisroutes.nl/fietsroutes/antwerpse-kempen/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/fietsroutes/antwerpse-kempen/",
+              "anchor_text": "Antwerpse Kempen"
+            }
+          ]
+        },
+        {
+          "text": "Belgische kust",
+          "url": "https://www.reisroutes.nl/fietsroutes/belgische-kust/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/fietsroutes/belgische-kust/",
+              "anchor_text": "Belgische kust"
+            }
+          ]
+        },
+        {
+          "text": "Limburgse Kempen",
+          "url": "https://www.reisroutes.nl/fietsroutes/limburg/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/fietsroutes/limburg/",
+              "anchor_text": "Limburgse Kempen"
+            }
+          ]
+        },
+        {
+          "text": "Vlaamse Ardennen",
+          "url": "https://www.reisroutes.nl/fietsroutes/vlaamse-ardennen/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/fietsroutes/vlaamse-ardennen/",
+              "anchor_text": "Vlaamse Ardennen"
+            }
+          ]
+        },
+        {
+          "text": "Alle fietsroutes",
+          "url": "https://www.reisroutes.nl/fietsroutes/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/fietsroutes/",
+              "anchor_text": "Alle fietsroutes"
+            }
+          ]
+        },
+        {
+          "text": "Bloesems in Vlaanderen",
+          "url": "https://www.reisroutes.nl/thema/bloesems-in-vlaanderen/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/thema/bloesems-in-vlaanderen/",
+              "anchor_text": "Bloesems in Vlaanderen"
+            }
+          ]
+        },
+        {
+          "text": "Dwars door Frankrijk",
+          "url": "https://www.reisroutes.nl/thema/dwars-door-frankrijk/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/thema/dwars-door-frankrijk/",
+              "anchor_text": "Dwars door Frankrijk"
+            }
+          ]
+        },
+        {
+          "text": "E-bike fietsroutes",
+          "url": "https://www.reisroutes.nl/thema/e-bike-fietsroutes/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/thema/e-bike-fietsroutes/",
+              "anchor_text": "E-bike fietsroutes"
+            }
+          ]
+        },
+        {
+          "text": "Eerste Wereldoorlog",
+          "url": "https://www.reisroutes.nl/thema/eerste-wereldoorlog/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/thema/eerste-wereldoorlog/",
+              "anchor_text": "Eerste Wereldoorlog"
+            }
+          ]
+        },
+        {
+          "text": "Fietsroutes Vlaamse Kust",
+          "url": "https://www.reisroutes.nl/thema/fietsroutes-vlaamse-kust/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/thema/fietsroutes-vlaamse-kust/",
+              "anchor_text": "Fietsroutes Vlaamse Kust"
+            }
+          ]
+        },
+        {
+          "text": "Gratis fietsgidsen downloaden",
+          "url": "https://www.reisroutes.nl/thema/gratis-fietsgidsen-downloaden/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/thema/gratis-fietsgidsen-downloaden/",
+              "anchor_text": "Gratis fietsgidsen downloaden"
+            }
+          ]
+        },
+        {
+          "text": "Wandelen vanaf een treinstation",
+          "url": "https://www.reisroutes.nl/thema/wandelen-vanaf-treinstation/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/thema/wandelen-vanaf-treinstation/",
+              "anchor_text": "Wandelen vanaf een treinstation"
+            }
+          ]
+        },
+        {
+          "text": "Alle per thema & regio",
+          "url": "https://www.reisroutes.nl/thema/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/thema/",
+              "anchor_text": "Alle per thema & regio"
+            }
+          ]
+        },
+        {
+          "text": "Gratis reisgidsen",
+          "url": "https://www.reisroutes.nl/gratis-reisgidsen/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/gratis-reisgidsen/",
+              "anchor_text": "Gratis reisgidsen"
+            }
+          ]
+        },
+        {
+          "text": "Antwerpse Kempen",
+          "url": "https://www.reisroutes.nl/blog/antwerpse-kempen/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/antwerpse-kempen/",
+              "anchor_text": "Antwerpse Kempen"
+            }
+          ]
+        },
+        {
+          "text": "Ardèche en Drôme",
+          "url": "https://www.reisroutes.nl/blog/ardeche-drome/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/ardeche-drome/",
+              "anchor_text": "Ardèche en Drôme"
+            }
+          ]
+        },
+        {
+          "text": "Baai van Napels en Amalfi kust",
+          "url": "https://www.reisroutes.nl/blog/baai-napels-amalfi/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/baai-napels-amalfi/",
+              "anchor_text": "Baai van Napels en Amalfi kust"
+            }
+          ]
+        },
+        {
+          "text": "Baltische Staten",
+          "url": "https://www.reisroutes.nl/blog/baltische-staten/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/baltische-staten/",
+              "anchor_text": "Baltische Staten"
+            }
+          ]
+        },
+        {
+          "text": "Belgische kust",
+          "url": "https://www.reisroutes.nl/blog/belgische-kust/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/belgische-kust/",
+              "anchor_text": "Belgische kust"
+            }
+          ]
+        },
+        {
+          "text": "Bosnië en Herzegovina",
+          "url": "https://www.reisroutes.nl/blog/bosnie-herzegovina/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/bosnie-herzegovina/",
+              "anchor_text": "Bosnië en Herzegovina"
+            }
+          ]
+        },
+        {
+          "text": "Brugse Ommeland",
+          "url": "https://www.reisroutes.nl/blog/brugse-ommeland/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/brugse-ommeland/",
+              "anchor_text": "Brugse Ommeland"
+            }
+          ]
+        },
+        {
+          "text": "Canarische Eilanden",
+          "url": "https://www.reisroutes.nl/blog/canarische-eilanden/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/canarische-eilanden/",
+              "anchor_text": "Canarische Eilanden"
+            }
+          ]
+        },
+        {
+          "text": "Castilla y León",
+          "url": "https://www.reisroutes.nl/blog/castilla-y-leon/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/castilla-y-leon/",
+              "anchor_text": "Castilla y León"
+            }
+          ]
+        },
+        {
+          "text": "Alle blogitems",
+          "url": "https://www.reisroutes.nl/blog/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/",
+              "anchor_text": "Alle blogitems"
+            }
+          ]
+        },
+        {
+          "text": "Koop je tickets vooraf",
+          "url": "https://www.reisroutes.nl/info/tickets-met-korting/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/tickets-met-korting/",
+              "anchor_text": "Koop je tickets vooraf"
+            }
+          ]
+        },
+        {
+          "text": "Wandel- en fietswebsites",
+          "url": "https://www.reisroutes.nl/info/wandel-fiets-websites/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/wandel-fiets-websites/",
+              "anchor_text": "Wandel- en fietswebsites"
+            }
+          ]
+        },
+        {
+          "text": "Veelgestelde vragen",
+          "url": "https://www.reisroutes.nl/info/faq/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/faq/",
+              "anchor_text": "Veelgestelde vragen"
+            }
+          ]
+        },
+        {
+          "text": "Affiliate worden",
+          "url": "https://www.reisroutes.nl/affiliate-worden/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/affiliate-worden/",
+              "anchor_text": "Affiliate worden"
+            }
+          ]
+        },
+        {
+          "text": "Over ons",
+          "url": "https://www.reisroutes.nl/info/over-ons/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/over-ons/",
+              "anchor_text": "Over ons"
+            }
+          ]
+        },
+        {
+          "text": "Gebruik GPS-tracks",
+          "url": "https://www.reisroutes.nl/info/gebruik-van-gps-tracks/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/gebruik-van-gps-tracks/",
+              "anchor_text": "Gebruik GPS-tracks"
+            }
+          ]
+        },
+        {
+          "text": "Routeplanner fietsknooppunten",
+          "url": "https://www.reisroutes.nl/info/routeplanner-fietsknooppunten/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/routeplanner-fietsknooppunten/",
+              "anchor_text": "Routeplanner fietsknooppunten"
+            }
+          ]
+        },
+        {
+          "text": "GPS coördinaten converteren",
+          "url": "https://www.reisroutes.nl/info/gps-coordinaten-converteren/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/gps-coordinaten-converteren/",
+              "anchor_text": "GPS coördinaten converteren"
+            }
+          ]
+        },
+        {
+          "text": "Verblijf, vervoer & activiteiten",
+          "url": "https://www.reisroutes.nl/verblijf-vervoer-activiteit/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/verblijf-vervoer-activiteit/",
+              "anchor_text": "Verblijf, vervoer & activiteiten"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Gratis reisgidsen",
+          "url": "https://www.reisroutes.nl/gratis-reisgidsen/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/gratis-reisgidsen/",
+              "anchor_text": "Gratis reisgidsen"
+            }
+          ]
+        },
+        {
+          "text": "Koop vooraf je tickets!",
+          "url": "https://www.reisroutes.nl/info/tickets-met-korting/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/tickets-met-korting/",
+              "anchor_text": "Koop vooraf je tickets!"
+            }
+          ]
+        },
+        {
+          "text": "Veelgestelde vragen",
+          "url": "https://www.reisroutes.nl/info/faq/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/faq/",
+              "anchor_text": "Veelgestelde vragen"
+            }
+          ]
+        },
+        {
+          "text": "Reisblog & inspiratie",
+          "url": "https://www.reisroutes.nl/blog/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/blog/",
+              "anchor_text": "Reisblog & inspiratie"
+            }
+          ]
+        },
+        {
+          "text": "Routeplanner fietsknooppunten",
+          "url": "https://www.reisroutes.nl/info/routeplanner-fietsknooppunten/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/routeplanner-fietsknooppunten/",
+              "anchor_text": "Routeplanner fietsknooppunten"
+            }
+          ]
+        },
+        {
+          "text": "Over ons",
+          "url": "https://www.reisroutes.nl/info/over-ons/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/info/over-ons/",
+              "anchor_text": "Over ons"
+            }
+          ]
+        },
+        {
+          "text": "Zet je verblijf op Reisroutes",
+          "url": "https://partner.reisroutes.be/",
+          "urls": [
+            {
+              "url": "https://partner.reisroutes.be/",
+              "anchor_text": "Zet je verblijf op Reisroutes"
+            }
+          ]
+        },
+        {
+          "text": "Partner downloadplatform",
+          "url": "https://partner.reisroutes.be/index-reisgidsen.html",
+          "urls": [
+            {
+              "url": "https://partner.reisroutes.be/index-reisgidsen.html",
+              "anchor_text": "Partner downloadplatform"
+            }
+          ]
+        },
+        {
+          "text": "Affiliate worden - Geld verdienen",
+          "url": "https://www.reisroutes.nl/affiliate-worden/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/affiliate-worden/",
+              "anchor_text": "Affiliate worden - Geld verdienen"
+            }
+          ]
+        },
+        {
+          "text": "Routes per thema & regio",
+          "url": "https://www.reisroutes.nl/thema/",
+          "urls": [
+            {
+              "url": "https://www.reisroutes.nl/thema/",
+              "anchor_text": "Routes per thema & regio"
+            }
+          ]
+        },
+        {
+          "text": "Vakantiehuis Maarkedal",
+          "url": "https://www.lebonheurdelouise.be/",
+          "urls": [
+            {
+              "url": "https://www.lebonheurdelouise.be/",
+              "anchor_text": "Vakantiehuis Maarkedal"
+            }
+          ]
+        },
+        {
+          "text": "© The Media Bay - Reisroutes 2026 - Algemene voorwaarden - Privacy - Cookie - Disclaimer - Nieuwsbrief - Sitemap - Contact",
+          "url": "https://www.themediabay.be/",
+          "urls": [
+            {
+              "url": "https://www.themediabay.be/",
+              "anchor_text": "The Media Bay"
+            },
+            {
+              "url": "https://www.reisroutes.nl/algemene-voorwaarden/",
+              "anchor_text": "Algemene voorwaarden"
+            },
+            {
+              "url": "https://www.reisroutes.nl/privacy/",
+              "anchor_text": "Privacy"
+            },
+            {
+              "url": "https://www.reisroutes.nl/cookie/",
+              "anchor_text": "Cookie"
+            },
+            {
+              "url": "https://www.reisroutes.nl/disclaimer/",
+              "anchor_text": "Disclaimer"
+            },
+            {
+              "url": "https://www.reisroutes.nl/nieuwsbrief/",
+              "anchor_text": "Nieuwsbrief"
+            },
+            {
+              "url": "https://www.reisroutes.nl/sitemap/",
+              "anchor_text": "Sitemap"
+            },
+            {
+              "url": "https://www.reisroutes.nl/contact/",
+              "anchor_text": "Contact"
+            }
+          ]
+        },
+        {
+          "text": "webdesign w247.be",
+          "url": "http://www.w247.be/",
+          "urls": [
+            {
+              "url": "http://www.w247.be/",
+              "anchor_text": "webdesign w247.be"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "De mooiste plekjes en bezienswaardigheden in Phuket + verblijftips",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Het prachtige Phuket (uitgesproken als Pooh-kette, voor het geval je twijfelde), de op een na kleinste provincie en het grootste eiland van Thailand. Beroemd om zijn schilderachtige stranden en kalkstenen karst, is Phuket niet langer het alternatieve backpackersparadijs van tientallen jaren geleden. Vandaag de dag trekt het meer dan de helft van de toeristen van Thailand, zowel buitenlandse als binnenlandse.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In deze blogpost laten we je alvast kennismaken met de mooiste plekjes op Phuket die je gezien moet hebben.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Snuif de sfeer op in de oude binnenstad en bezoek de prachtige Big Buddha-tempel. Boek hier je stadstour door Phuket.",
+            "url": "https://www.getyourguide.nl/phuket-stad-l187/phuket-explorer-onthulling-van-de-charmes-van-de-stad-tour-van-een-halve-dag-t511804/?rpartner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/phuket-stad-l187/phuket-explorer-onthulling-van-de-charmes-van-de-stad-tour-van-een-halve-dag-t511804/?rpartner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "Boek hier je stadstour door Phuket"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Book a Bed Poshtel - SHA Plus (kleurrijk, modern budgethotel)",
+            "url": "https://www.booking.com/hotel/th/book-a-bed-poshtel.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+            "urls": [
+              {
+                "url": "https://www.booking.com/hotel/th/book-a-bed-poshtel.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+                "anchor_text": "Book a Bed Poshtel - SHA Plus"
+              }
+            ]
+          },
+          {
+            "text": "Sinae Phuket - SHA Extra Plus (luxe resort)",
+            "url": "https://www.booking.com/hotel/th/sinae-phuket-luxury.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+            "urls": [
+              {
+                "url": "https://www.booking.com/hotel/th/sinae-phuket-luxury.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+                "anchor_text": "Sinae Phuket - SHA Extra Plus"
+              }
+            ]
+          },
+          {
+            "text": "Buasri Boutique Patong (boetiekstijl, Patong Beach)",
+            "url": "https://www.booking.com/hotel/th/buasri.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+            "urls": [
+              {
+                "url": "https://www.booking.com/hotel/th/buasri.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+                "anchor_text": "Buasri Boutique Patong"
+              }
+            ]
+          },
+          {
+            "text": "Proef lokale en authentieke gerechten tijdens een begeleide food-tour door Phuket Old Town.",
+            "url": "https://www.tiqets.com/nl/phuket-bezienswaardigheden-attracties-c78451/tickets-voor-phuket-old-town-street-food-walking-tour-p1059533?partner=reisroutes&tq_campaign=reisroutes_nl_bezienswaardigheden-phuket-intro",
+            "urls": [
+              {
+                "url": "https://www.tiqets.com/nl/phuket-bezienswaardigheden-attracties-c78451/tickets-voor-phuket-old-town-street-food-walking-tour-p1059533?partner=reisroutes&tq_campaign=reisroutes_nl_bezienswaardigheden-phuket-intro",
+                "anchor_text": "begeleide food-tour door Phuket Old Town"
+              }
+            ]
+          },
+          {
+            "text": "Bezoek de olifanten in het Phuket Elephant Sanctuary, boek hier je uitstap.",
+            "url": "https://www.getyourguide.nl/phuket-l32123/phuket-phuket-elephant-sanctuary-wat-chalong-en-meer-t523097/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/phuket-l32123/phuket-phuket-elephant-sanctuary-wat-chalong-en-meer-t523097/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "boek hier je uitstap"
+              }
+            ]
+          },
+          {
+            "text": "Boek je daguitstap naar de schitterende Koh Phi Phi eilanden.",
+            "url": "https://www.getyourguide.nl/s/?q=Koh%20Phi%20Phi&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/s/?q=Koh%20Phi%20Phi&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "Boek je daguitstap naar de schitterende Koh Phi Phi eilanden"
+              }
+            ]
+          }
+        ],
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Praktische info & tickets voor je bezoek aan Phuket\nDuur 7 - 14 dagen ( download hier je gratis reisgids Thailand )\nVliegtickets 13u45 vliegen naar Bangkok of Phuket, vergelijk prijzen bij Cheaptickets\nShuttle service Taxi van de luchthaven Phuket naar het centrum, boek je transfer hier online\nVerblijven Onze favoriete overnachtingen in Phuket zijn:\nBook a Bed Poshtel - SHA Plus (kleurrijk, modern budgethotel)\nSinae Phuket - SHA Extra Plus (luxe resort)\nBuasri Boutique Patong (boetiekstijl, Patong Beach)\nPakketreizen Deze reis als pakketreis boeken? Kijk bij TUI.be, Prijsvrij, TUI.nl of D-Reizen\nHuurauto In Thailand een auto huren? Boek je huurauto bij Sunnycars (alle verzekeringen incl.) of EasyTerra (meestal de goedkoopste)\nTours en activiteiten Proef lokale en authentieke gerechten tijdens een begeleide food-tour door Phuket Old Town.\nBezoek de olifanten in het Phuket Elephant Sanctuary, boek hier je uitstap.\nSnuif de sfeer op in de oude binnenstad en bezoek de prachtige Big Buddha-tempel. Boek hier je stadstour door Phuket.\nBoek je daguitstap naar de schitterende Koh Phi Phi eilanden.",
+                    "urls": [
+                      {
+                        "url": "https://www.reisroutes.nl/downloadfb.aspx?id=aYnkIraPhlmj4Z0jnaTclQ==&iid=W247BE507LxlnJY4qL/EmXpwLuQ==&URL=QWUgQHyw2GJD8u3oUSxKKDD5afPFhzCTby2FBv4BkMrGMu87mEw4QtS6QBG3P6S21CXHLIuU5GglQQ77W247BEW247BE0Ab6hCfG6OfChaDHdyO4RSLzc=",
+                        "anchor_text": "download hier je gratis reisgids Thailand"
+                      },
+                      {
+                        "url": "https://tc.tradetracker.net/?c=3060&m=12&a=326304&r=bezienswaardigheden-phuket-intro&u=%2F",
+                        "anchor_text": "Cheaptickets"
+                      },
+                      {
+                        "url": "https://www.getyourguide.nl/s/?q=Internationale%20Luchthaven%20Phuket&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                        "anchor_text": "boek je transfer hier online"
+                      },
+                      {
+                        "url": "https://www.booking.com/hotel/th/book-a-bed-poshtel.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+                        "anchor_text": "Book a Bed Poshtel - SHA Plus"
+                      },
+                      {
+                        "url": "https://www.booking.com/hotel/th/sinae-phuket-luxury.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+                        "anchor_text": "Sinae Phuket - SHA Extra Plus"
+                      },
+                      {
+                        "url": "https://www.booking.com/hotel/th/buasri.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+                        "anchor_text": "Buasri Boutique Patong"
+                      },
+                      {
+                        "url": "https://analytics.tui.be/c?c=20021&m=12&a=326304&r=bangkok-intro&u=%2Fnl%2Fvakantie%2Fthailand-tha",
+                        "anchor_text": "TUI.be"
+                      },
+                      {
+                        "url": "https://www.prijsvrij.be/vakantie/?tt=25331_12_326304_&r=%2Fvakanties%2Fthailand%2Fresultaten",
+                        "anchor_text": "Prijsvrij"
+                      },
+                      {
+                        "url": "https://www.elizawashere.nl/reizen?tt=241_12_303521_puglia-intro&r=%2Fzoeken%3FRegion%3D95737%26TransportType%3DFlight",
+                        "anchor_text": ""
+                      },
+                      {
+                        "url": "https://reis.tui.nl/c?c=433&m=12&a=303521&r=bangkok-intro&u=%2Freizen%2Fthailand%2F",
+                        "anchor_text": "TUI.nl"
+                      },
+                      {
+                        "url": "https://www.d-reizen.nl/opvakantie/index.aspx/?tt=37700_12_303521_bangkok-intro&r=%2Fvakantie%2Fthailand",
+                        "anchor_text": "D-Reizen"
+                      },
+                      {
+                        "url": "https://www.sunnycars.be/huureenauto/?tt=21133_12_326304_&r=%2Fauto-huren%2Fthailand%2F",
+                        "anchor_text": "Sunnycars"
+                      },
+                      {
+                        "url": "https://www.easyterra.nl/trade-tracker/redirect?tt=30769_12_303521_&r=%2Fautohuur-thailand-intro.html",
+                        "anchor_text": "EasyTerra"
+                      },
+                      {
+                        "url": "https://www.tiqets.com/nl/phuket-bezienswaardigheden-attracties-c78451/tickets-voor-phuket-old-town-street-food-walking-tour-p1059533?partner=reisroutes&tq_campaign=reisroutes_nl_bezienswaardigheden-phuket-intro",
+                        "anchor_text": "begeleide food-tour door Phuket Old Town"
+                      },
+                      {
+                        "url": "https://www.getyourguide.nl/phuket-l32123/phuket-phuket-elephant-sanctuary-wat-chalong-en-meer-t523097/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                        "anchor_text": "boek hier je uitstap"
+                      },
+                      {
+                        "url": "https://www.getyourguide.nl/phuket-stad-l187/phuket-explorer-onthulling-van-de-charmes-van-de-stad-tour-van-een-halve-dag-t511804/?rpartner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                        "anchor_text": "Boek hier je stadstour door Phuket"
+                      },
+                      {
+                        "url": "https://www.getyourguide.nl/s/?q=Koh%20Phi%20Phi&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                        "anchor_text": "Boek je daguitstap naar de schitterende Koh Phi Phi eilanden"
+                      }
+                    ],
+                    "is_header": true
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Duur",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "7 - 14 dagen ( download hier je gratis reisgids Thailand )",
+                    "urls": [
+                      {
+                        "url": "https://www.reisroutes.nl/downloadfb.aspx?id=aYnkIraPhlmj4Z0jnaTclQ==&iid=W247BE507LxlnJY4qL/EmXpwLuQ==&URL=QWUgQHyw2GJD8u3oUSxKKDD5afPFhzCTby2FBv4BkMrGMu87mEw4QtS6QBG3P6S21CXHLIuU5GglQQ77W247BEW247BE0Ab6hCfG6OfChaDHdyO4RSLzc=",
+                        "anchor_text": "download hier je gratis reisgids Thailand"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Vliegtickets",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "13u45 vliegen naar Bangkok of Phuket, vergelijk prijzen bij Cheaptickets",
+                    "urls": [
+                      {
+                        "url": "https://tc.tradetracker.net/?c=3060&m=12&a=326304&r=bezienswaardigheden-phuket-intro&u=%2F",
+                        "anchor_text": "Cheaptickets"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Shuttle service",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Taxi van de luchthaven Phuket naar het centrum, boek je transfer hier online",
+                    "urls": [
+                      {
+                        "url": "https://www.getyourguide.nl/s/?q=Internationale%20Luchthaven%20Phuket&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                        "anchor_text": "boek je transfer hier online"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Verblijven",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Onze favoriete overnachtingen in Phuket zijn:\nBook a Bed Poshtel - SHA Plus (kleurrijk, modern budgethotel)\nSinae Phuket - SHA Extra Plus (luxe resort)\nBuasri Boutique Patong (boetiekstijl, Patong Beach)",
+                    "urls": [
+                      {
+                        "url": "https://www.booking.com/hotel/th/book-a-bed-poshtel.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+                        "anchor_text": "Book a Bed Poshtel - SHA Plus"
+                      },
+                      {
+                        "url": "https://www.booking.com/hotel/th/sinae-phuket-luxury.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+                        "anchor_text": "Sinae Phuket - SHA Extra Plus"
+                      },
+                      {
+                        "url": "https://www.booking.com/hotel/th/buasri.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket_intro;aid=321180",
+                        "anchor_text": "Buasri Boutique Patong"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Pakketreizen",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Deze reis als pakketreis boeken? Kijk bij TUI.be, Prijsvrij, TUI.nl of D-Reizen",
+                    "urls": [
+                      {
+                        "url": "https://analytics.tui.be/c?c=20021&m=12&a=326304&r=bangkok-intro&u=%2Fnl%2Fvakantie%2Fthailand-tha",
+                        "anchor_text": "TUI.be"
+                      },
+                      {
+                        "url": "https://www.prijsvrij.be/vakantie/?tt=25331_12_326304_&r=%2Fvakanties%2Fthailand%2Fresultaten",
+                        "anchor_text": "Prijsvrij"
+                      },
+                      {
+                        "url": "https://www.elizawashere.nl/reizen?tt=241_12_303521_puglia-intro&r=%2Fzoeken%3FRegion%3D95737%26TransportType%3DFlight",
+                        "anchor_text": ""
+                      },
+                      {
+                        "url": "https://reis.tui.nl/c?c=433&m=12&a=303521&r=bangkok-intro&u=%2Freizen%2Fthailand%2F",
+                        "anchor_text": "TUI.nl"
+                      },
+                      {
+                        "url": "https://www.d-reizen.nl/opvakantie/index.aspx/?tt=37700_12_303521_bangkok-intro&r=%2Fvakantie%2Fthailand",
+                        "anchor_text": "D-Reizen"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Huurauto",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "In Thailand een auto huren? Boek je huurauto bij Sunnycars (alle verzekeringen incl.) of EasyTerra (meestal de goedkoopste)",
+                    "urls": [
+                      {
+                        "url": "https://www.sunnycars.be/huureenauto/?tt=21133_12_326304_&r=%2Fauto-huren%2Fthailand%2F",
+                        "anchor_text": "Sunnycars"
+                      },
+                      {
+                        "url": "https://www.easyterra.nl/trade-tracker/redirect?tt=30769_12_303521_&r=%2Fautohuur-thailand-intro.html",
+                        "anchor_text": "EasyTerra"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Tours en activiteiten",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "Proef lokale en authentieke gerechten tijdens een begeleide food-tour door Phuket Old Town.\nBezoek de olifanten in het Phuket Elephant Sanctuary, boek hier je uitstap.\nSnuif de sfeer op in de oude binnenstad en bezoek de prachtige Big Buddha-tempel. Boek hier je stadstour door Phuket.\nBoek je daguitstap naar de schitterende Koh Phi Phi eilanden.",
+                    "urls": [
+                      {
+                        "url": "https://www.tiqets.com/nl/phuket-bezienswaardigheden-attracties-c78451/tickets-voor-phuket-old-town-street-food-walking-tour-p1059533?partner=reisroutes&tq_campaign=reisroutes_nl_bezienswaardigheden-phuket-intro",
+                        "anchor_text": "begeleide food-tour door Phuket Old Town"
+                      },
+                      {
+                        "url": "https://www.getyourguide.nl/phuket-l32123/phuket-phuket-elephant-sanctuary-wat-chalong-en-meer-t523097/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                        "anchor_text": "boek hier je uitstap"
+                      },
+                      {
+                        "url": "https://www.getyourguide.nl/phuket-stad-l187/phuket-explorer-onthulling-van-de-charmes-van-de-stad-tour-van-een-halve-dag-t511804/?rpartner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                        "anchor_text": "Boek hier je stadstour door Phuket"
+                      },
+                      {
+                        "url": "https://www.getyourguide.nl/s/?q=Koh%20Phi%20Phi&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket-intro&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                        "anchor_text": "Boek je daguitstap naar de schitterende Koh Phi Phi eilanden"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "body": null,
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Historische stadscentrum van Phuket",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Het historische stadscentrum van Phuket: niet iedereen houdt ervan om op het strand te luieren, en als tijd doorbrengen te midden van charmante, gerestaureerde Chinese winkelhuizen, musea, cafés, galerijen, designerwinkels en ambachtelijke boetieks meer jouw ding is, is dit waar je wilt zijn. Let wel op: van hieruit is het minstens een half uur wandelen naar het dichtstbijzijnde strand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "TIP : Proef lokale en authentieke gerechten tijdens een begeleide foodtour door Phuket Old Town.",
+            "url": "https://www.tiqets.com/nl/phuket-bezienswaardigheden-attracties-c78451/tickets-voor-phuket-old-town-street-food-walking-tour-p1059533?partner=reisroutes&tq_campaign=reisroutes_nl_bezienswaardigheden-phuket",
+            "urls": [
+              {
+                "url": "https://www.tiqets.com/nl/phuket-bezienswaardigheden-attracties-c78451/tickets-voor-phuket-old-town-street-food-walking-tour-p1059533?partner=reisroutes&tq_campaign=reisroutes_nl_bezienswaardigheden-phuket",
+                "anchor_text": "begeleide foodtour door Phuket Old Town"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Jui Tui-tempel",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bezoek de Jui Tui-tempel, een fotogenieke Chinese tempel met uitbundig tegelwerk en rode daken, gewijd aan de god van uitvoerende artiesten. In oktober of november (de data variëren op basis van de maankalender) is deze tempel het middelpunt van het levendige 9-daagse Phuket's Vegetarian Festival. Misschien niet meteen voor de gevoelige zielen onder ons; het festival is namelijk vooral bekend vanwege de toegewijden die hun lichaam verfraaien met ongebruikelijke voorwerpen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Thalang Road en Phuket Walking Street",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Thalang Road is bezaaid met felgekleurde en zorgvuldig gerestaureerde Chinees-Portugese winkelhuizen. De winkelstraat wordt gezien als de belangrijkste en drukste straat van de oude binnenstad. Je vindt er tal van charmante cafés zoals Eleven Two & Co en boetiekwinkeltjes waar je leuke souvenirs kan vinden.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Elke zondagavond, vanaf 16 uur, wordt een 360 meter lang stuk van de weg afgesloten voor de Phuket Walking Street, een avondmarkt. Het ideale moment om de typische Zuid-Thaise culinaire specialiteiten te ontdekken, evenals lokale handwerk- en cadeaukraampjes.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Soi Romanee",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Soi Romanee in het hart van de oude binnenstad van Phuket verbindt Thalang Road met Dibuk Road. Deze kleurrijke, charmante straat was vroeger gekend als 'the red-light district '. Inmiddels zijn de bordelen en gokhuizen van vroeger veranderd in aantrekkelijke winkeltjes, dessertcafés en boetiekpensions waar je kan overnachten. Soi Romanee met zijn vintagegebouwen in opvallende kleuren is hoe dan ook een van de meest fotogenieke plekjes van Phuket Town.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Phuket Thai Hua Museum",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Het Phuket Thai Hua Museum is gevestigd in een statig herenhuis uit 1934 en was vroeger de eerste Chineestalige school in Phuket. Vandaag de dag herbergt het gevarieerde en fantasierijke tentoonstellingen die de multi-etnische geschiedenis van Phuket illustreren. Het museum is dagelijks geopend tussen 9 uur en 17 uur.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Chinpracha House",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Chinpracha House, een van de meest prachtige en sfeervolle herenhuizen op het eiland, gebouwd in het begin van de 20e eeuw door een tinmagnaat. De huidige eigenaren wonen op de bovenste verdieping, maar ze hebben de begane grond gerestaureerd en geopend als een museum.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In het midden van het interieur bevindt zich een atrium met een lelievijver, en in de kamers eromheen kan je nog enkele dingen van het oorspronkelijke meubilair, prachtig Chinees lakwerk en een eclectische verzameling decoratieve objecten zien. Ingelijste foto's nemen je mee terug naar het Phuket van begin 1900. Dit museum is dagelijks geopend tussen 9u en 16u30.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Wat Chalong",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Wat Chalong, 10 kilometer ten zuidwesten van het oude stadscentrum van Phuket, is de grootste en meest vereerde van de 29 tempels op het eiland. De 60 meter hoge chedi herbergt een kostbaar reliek: een fragment van het bot van Boeddha, dat je kan bekijken in een glazen vitrine. Elk jaar wordt in Wat Chalong een Chinees Nieuwjaarsfestival georganiseerd en het is het hele jaar door populair bij de lokale bevolking voor gebeden en offers.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "LEESTIP : Mis niets tijdens je verblijf met onze reisgids Thailand, inclusief een rondreis, stadswandelingen en dé highlights.",
+            "url": "https://www.reisroutes.nl/gratis-reisgidsen/reisgids-thailand/",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/gratis-reisgidsen/reisgids-thailand/",
+                "anchor_text": "reisgids Thailand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "De grote witte Boeddha",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Op een heuveltop in Phuket en zichtbaar vanuit het hele zuidelijke deel van het eiland, vind je de Big Buddha (Grote Boeddha). Met een hoogte van 45 meter is deze stralend witte zittende Boeddha voor Phuket wat Christus de Verlosser is voor Rio. Beklim de brede, witte trap met 94 treden om bij het standbeeld te komen, vanwaar je prachtige panoramische uitzichten over de omgeving hebt, misschien zelfs tot aan Phang Nga Bay als de hemel helder is.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit is een actieve tempel, dus kleed je gepast ; indien nodig lenen de mensen van de bewaking je een sarong om je te bedekken.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De tempel kan je dagelijks bezoeken tussen 6u en 18u30.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Meer info op de website",
+            "url": "https://www.mingmongkolphuket.com/",
+            "urls": [
+              {
+                "url": "https://www.mingmongkolphuket.com/",
+                "anchor_text": "Meer info op de website"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Phang Nga Bay",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Phang Nga Bay ligt tussen het eiland Phuket en het Thaise vasteland, een adembenemend landschap van kalkstenen kliffen, karstformaties, grotten en ja hoor, nog meer ongerepte stranden. In 2002 werd het uitgeroepen tot een Ramsar-gebied en de 42 eilanden, wetlands, zeegrasbedden, koraalriffen en mangroven maken dit een kostbaar leefgebied voor talloze soorten vogels, vissen, reptielen en zoogdieren.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Er zijn meerdere manieren om door de baai te varen, waaronder longtailboten, motorjachten, kajaks en zelfs klassieke Chinese jonken. Sommige van de excursies naar Phang Nga Bay zijn inclusief snorkelen en velen stoppen nog even bij Koh Tapu, beter bekend als James Bond Island ; het dramatische landschap diende als achtergrond voor The Man with the Golden Gun (1974).",
+            "url": "https://www.getyourguide.nl/s/?q=Phang%20Nga%20Bay&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/s/?q=Phang%20Nga%20Bay&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "excursies naar Phang Nga Bay"
+              },
+              {
+                "url": "https://www.youtube.com/watch?v=uEy2eLOmQeo",
+                "anchor_text": "The Man with the Golden Gun"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Nationaal Park Similan Islands",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Op 85 km ten noorden van Phuket vind je een archipel van elf eilanden, die in 1982 werd aangewezen als het Nationaal Park Similan Islands. De eilanden zelf bieden dramatische landschappen van regenwoud en enorme rotsblokken, en het kristalheldere azuurblauwe water eromheen barst van het zeeleven. Een ideale plek voor snorkel- en duikliefhebbers. Wie nog meer wil te weten komen, lees zeker onze uitgebreide blogpost met de mooiste eilanden in Thailand.",
+            "url": "https://www.reisroutes.nl/blog/thailand/mooiste-eilanden-thailand/",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/blog/thailand/mooiste-eilanden-thailand/",
+                "anchor_text": "mooiste eilanden in Thailand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Zelf de Similan-eilanden bezoeken? Boek hier je daguitstap naar de Similan-eilanden vanuit Phuket.",
+            "url": "https://www.getyourguide.nl/s/?q=Similan%20Islands%20phuket&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/s/?q=Similan%20Islands%20phuket&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "Boek hier je daguitstap naar de Similan-eilanden vanuit Phuket"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Paradijselijke stranden van Phuket",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Een van de redenen waarom Phuket zo populair is, zijn natuurlijk de paradijselijke stranden. De noordwestkust van Thailand omvat in totaal 11 kilometer aan stranden die samen het Sirinat National Park vormen. Dit is de ideale plek voor mensen die even weg willen van alles en gewoon in alle rust van het strand willen genieten. Wij sommen alvast enkele van de mooiste stranden op die de moeite waard zijn om te bezichtigen tijdens je bezoek aan Phuket.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bang Thao Beach : Met 8 kilometer aan poederachtig wit zand is dit een idyllisch strand en nog steeds relatief rustig, met beperkt nachtleven. Er worden sportieve activiteiten aangeboden, zoals paardrijden en golf ( bekijk ligging ).",
+            "url": "https://maps.app.goo.gl/i5QDihQjCpsrxFfJ7",
+            "urls": [
+              {
+                "url": "https://maps.app.goo.gl/i5QDihQjCpsrxFfJ7",
+                "anchor_text": "bekijk ligging"
+              }
+            ]
+          },
+          {
+            "text": "Surin Beach : Als je op zoek bent naar een vleugje vijfsterrenluxe en exclusiviteit, dan is dit jouw strand; een stadscentrum biedt galerijen, eetgelegenheden en boetieks ( bekijk ligging ).",
+            "url": "https://maps.app.goo.gl/mfMa48XwcD8pph4r8",
+            "urls": [
+              {
+                "url": "https://maps.app.goo.gl/mfMa48XwcD8pph4r8",
+                "anchor_text": "bekijk ligging"
+              }
+            ]
+          },
+          {
+            "text": "Kamala Beach : Deze halvemaanvormige baai biedt 2 kilometer aan strand, dat traditioneel populair is bij families en vaste bezoekers, zowel buitenlanders als Thai ( bekijk ligging ).",
+            "url": "https://maps.app.goo.gl/844NiLQJgAX5s7A99",
+            "urls": [
+              {
+                "url": "https://maps.app.goo.gl/844NiLQJgAX5s7A99",
+                "anchor_text": "bekijk ligging"
+              }
+            ]
+          },
+          {
+            "text": "Patong Beach : Als je op zoek bent naar feestjes, uitgaansgelegenheden en heel wat entertainment, dan is dit de place to be ( bekijk ligging ).",
+            "url": "https://maps.app.goo.gl/rL9ubCJgc9mW12rKA",
+            "urls": [
+              {
+                "url": "https://maps.app.goo.gl/rL9ubCJgc9mW12rKA",
+                "anchor_text": "bekijk ligging"
+              }
+            ]
+          },
+          {
+            "text": "Karon Beach : Met een breed strand van 4 kilometer en tal van activiteiten voor het hele gezin (beachvolleybal of parasailen, iemand?), evenals restaurants, is Karon een van de populaire stranden, maar het is zelden druk ( bekijk ligging ).",
+            "url": "https://maps.app.goo.gl/ekFtQTuECJbAT3Zf6",
+            "urls": [
+              {
+                "url": "https://maps.app.goo.gl/ekFtQTuECJbAT3Zf6",
+                "anchor_text": "bekijk ligging"
+              }
+            ]
+          },
+          {
+            "text": "Nai Harn en Rawai Beaches : deze twee liggen aan de zuidelijke punt van het eiland. Nai Harn, met uitzicht op het westen, is prachtig en een fijne plek om te zwemmen, maar er zijn weinig accommodaties. Rawai ligt aan de oostkust, is niet geschikt om te zwemmen, maar is populair bij veel Thais en expats die een pauze aan zee willen ( bekijk ligging ).",
+            "url": "https://maps.app.goo.gl/EgtuRYH1eMyNK5HX8",
+            "urls": [
+              {
+                "url": "https://maps.app.goo.gl/EgtuRYH1eMyNK5HX8",
+                "anchor_text": "bekijk ligging"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Phuket Elephant Sanctuary",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bezoek tijdens je verblijf aan Phuket ook eens een Elephant Sanctuary, een absolute aanrader. Het belangrijkste doel van het Phuket Elephant Sanctuary is het redden en verzorgen van zieke, gewonde en oude olifanten in Thailand. Ze geven de olifanten een veilige en natuurlijke omgeving waar ze in vrede kunnen leven zonder fysieke en emotionele mishandeling.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De olifanten hebben ongeveer 30 hectare weelderig, tropisch land waar ze vrij kunnen rondlopen, foerageren en baden. In tegenstelling tot veel andere olifantenattracties in Thailand, organiseert men bij Phuket Elephant Sanctuary geen olifantenritten en shows.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Tijdens een bezoek kom je wel meer te weten over het leven en het gedrag van de olifanten, kan je ze in hun natuurlijke habitat bewonderen en kan je ze eventueel ook voederen en knuffelen. Meer info op de website.",
+            "url": "https://www.phuketelephantsanctuary.org/en/",
+            "urls": [
+              {
+                "url": "https://www.phuketelephantsanctuary.org/en/",
+                "anchor_text": "Meer info op de website"
+              }
+            ]
+          },
+          {
+            "text": "TOUR : Boek hier je daguitstap naar Phuket Elephant Sanctuary. Ervaar hoe je de olifanten moet voeren, wassen en aaien, geniet van een heerlijke lunch met Thaise lekkernijen, bezoek nadien de Chalong Temple en geniet na op het prachtige en rustige Nai Harn Beach.",
+            "url": "https://www.getyourguide.nl/phuket-l32123/phuket-phuket-elephant-sanctuary-wat-chalong-en-meer-t523097/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/phuket-l32123/phuket-phuket-elephant-sanctuary-wat-chalong-en-meer-t523097/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "Boek hier je daguitstap naar Phuket Elephant Sanctuary"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "De mooiste zonsondergang bij Laem Phromthep",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Laem Promthep is een kaap gelegen op het zuidelijkste puntje van het eiland Phuket, niet ver van Nai Harn Beach. Deze adembenemende plek is erg populair om de zonsondergang te spotten. Verder is hier ook een vuurtoren met interessante historische maritieme artefacten te bezichtigen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Andere uitzichtpunten in Phuket zijn onder andere Khao Rang Hill ( bekijk ligging ) met panoramisch uitzicht op Phuket Town en Karon Viewpoint ( bekijk ligging ) dat uitkijkt op de stranden van Kata Noi, Kata en Karon. Het is een geweldige plek om foto's te maken.",
+            "url": "https://maps.app.goo.gl/efG86TqQV7o87vT48",
+            "urls": [
+              {
+                "url": "https://maps.app.goo.gl/efG86TqQV7o87vT48",
+                "anchor_text": "bekijk ligging"
+              },
+              {
+                "url": "https://maps.app.goo.gl/dcfeSSUR6qY7xGqk9",
+                "anchor_text": "bekijk ligging"
+              }
+            ]
+          },
+          {
+            "text": "TIP : Boek deze stadstour door Phuket, zie de highlights van de stad zoals de witte Boeddha en de Chalong-tempel, en kom langs de mooiste uitzichtpunten",
+            "url": "https://www.getyourguide.nl/phuket-l32123/phuket-stadstour-van-5-uur-voor-kleine-groepen-t194174/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/phuket-l32123/phuket-stadstour-van-5-uur-voor-kleine-groepen-t194174/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "Boek deze stadstour door Phuket"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Watervallen van Phuket",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "In het oosten van Phuket vind je enkele schitterende watervallen, niet per se de grootste van het land, maar toch zeker de moeite waard om te bezoeken. De bekendste waterval is misschien wel de Kathu Waterfall ( bekijk ligging ). Maar ook Bang Pae Waterfall, gelegen in het Khao Phra Thaeo National Park ( bekijk ligging ), en Ton Sai Waterfall, omgeven door een weelderige jungle ( bekijk ligging ), zijn de moeite. Een aanrader voor natuurliefhebbers!",
+            "url": "https://maps.app.goo.gl/jFKBHMkh3aL18kCU6",
+            "urls": [
+              {
+                "url": "https://maps.app.goo.gl/jFKBHMkh3aL18kCU6",
+                "anchor_text": "bekijk ligging"
+              },
+              {
+                "url": "https://maps.app.goo.gl/cHKxw3e1NWPvoRr89",
+                "anchor_text": "bekijk ligging"
+              },
+              {
+                "url": "https://maps.app.goo.gl/v3LeRotk7QzMm9Dh6",
+                "anchor_text": "bekijk ligging"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Thalang National Museum",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Het Thalang National Museum is een interessant museum, gelegen in Thalang, een district in het noorden van Phuket. Dit museum biedt bezoekers de mogelijkheid om meer te leren over de geschiedenis, cultuur en erfgoed van Phuket, en met name over de historische Slag bij Thalang in 1785, waarin lokale heldin Lady Chan (Chan Muk) een belangrijke rol speelde. Meer info op de website.",
+            "url": "https://www.facebook.com/ThalangNationalMuseum",
+            "urls": [
+              {
+                "url": "https://www.facebook.com/ThalangNationalMuseum",
+                "anchor_text": "Meer info op de website"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Maak een daguitstap naar Koh Phi Phi",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Een van de mooiste uitstappen die je vanuit Phuket kan maken, is naar de Phi Phi-eilanden. Het Koh Phi Phi-archipel, dat bestaat uit eilanden als Phi Phi Don en Phi Phi Leh, is beroemd om zijn adembenemende natuurlijke schoonheid, witte zandstranden, kristalheldere wateren en levendige koraalriffen.",
+            "url": "https://www.reisroutes.nl/blog/thailand/koh-phi-phi-eilanden-bezoeken",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/blog/thailand/koh-phi-phi-eilanden-bezoeken",
+                "anchor_text": "Phi Phi-eilanden"
+              }
+            ]
+          },
+          {
+            "text": "Een van de bekendste plekken hier is Maya Bay, gelegen op Phi Phi Leh. Deze plek is beroemd geworden door de film \" The Beach \" met Leonardo DiCaprio. Het is een prachtige baai met zand witter dan wit en kristalhelder water. De eilanden behoren tevens tot de beste snorkel- en duiklocaties in Thailand vanwege het rijke onderwaterleven. Verder zijn er ook enkele strandbars en nachtclubs waar je tot in de vroege uurtjes kan feesten.",
+            "url": "https://www.youtube.com/watch?v=7vSsx1RkGls",
+            "urls": [
+              {
+                "url": "https://www.youtube.com/watch?v=7vSsx1RkGls",
+                "anchor_text": "The Beach"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "TOUR : Bekijk hier het aanbod tours en excursies naar de Koh Phi Phi-eilanden.",
+            "url": "https://www.getyourguide.nl/s/?q=Koh%20Phi%20Phi&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/s/?q=Koh%20Phi%20Phi&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "Bekijk hier het aanbod tours en excursies naar de Koh Phi Phi-eilanden"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Bekijk hier nog meer leuke daguitstappen vanuit Phuket",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Wil je graag nog meer ontdekken van Phuket, bekijk dan zeker de mooiste dagtours en excursies die worden aangeboden. Begin alvast te dromen en boek je daguitstap vanuit Phuket online op voorhand !",
+            "url": "https://www.getyourguide.nl/s/?q=phuket&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/s/?q=phuket&partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "boek je daguitstap vanuit Phuket online op voorhand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Waar overnachten in Phuket?",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Phuket is natuurlijk immens groot, dé ideale uitvalbasis vinden is dus niet zo gemakkelijk. Het is aan te raden om op voorhand na te gaan, wat je het liefst wilt zien en/of doen tijdens je verblijf in Phuket. De meeste accommodaties zijn te vinden aan de westkust, vooral in het zuidelijke deel van het eiland. Ook de hoofdstad Phuket Town heeft enkele hotels en guesthouses waar je kan verblijven. Bekijk hier onze favoriete verblijven in Phuket per gebied.",
+            "url": "https://www.reisroutes.nl/blog/thailand/overnachten-phuket-verblijven/",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/blog/thailand/overnachten-phuket-verblijven/",
+                "anchor_text": "Bekijk hier onze favoriete verblijven in Phuket per gebied"
+              }
+            ]
+          },
+          {
+            "text": "Waar je ook verblijft, er is meer dan keuze genoeg. Hieronder vind je alvast enkele leuke adresjes van goedkoop tot luxe, voor een uitgebreid aanbod kan je de hotels in Phuket bekijken op Booking.com.",
+            "url": "https://www.booking.com/searchresults.nl.html?ss=phuket;label=reisroutes_nl_bezienswaardigheden-phuket;aid=321180",
+            "urls": [
+              {
+                "url": "https://www.booking.com/searchresults.nl.html?ss=phuket;label=reisroutes_nl_bezienswaardigheden-phuket;aid=321180",
+                "anchor_text": "hotels in Phuket bekijken op Booking.com"
+              }
+            ]
+          },
+          {
+            "text": "Book a Bed Poshtel - SHA Plus, een kleurrijk, modern budgethotel op wandelafstand van de oude stad van Phuket. Meer info en boeken.",
+            "url": "https://www.booking.com/hotel/th/book-a-bed-poshtel.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket;aid=321180",
+            "urls": [
+              {
+                "url": "https://www.booking.com/hotel/th/book-a-bed-poshtel.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket;aid=321180",
+                "anchor_text": "Meer info en boeken"
+              }
+            ]
+          },
+          {
+            "text": "Sinae Phuket - SHA Extra Plus een luxe resort op 700 meter van het strand van Siray Bay. Meer info en boeken.",
+            "url": "https://www.booking.com/hotel/th/sinae-phuket-luxury.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket;aid=321180",
+            "urls": [
+              {
+                "url": "https://www.booking.com/hotel/th/sinae-phuket-luxury.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket;aid=321180",
+                "anchor_text": "Meer info en boeken"
+              }
+            ]
+          },
+          {
+            "text": "Buasri Boutique Patong ligt op wandelafstand van Patong Beach en beschikt over kamers in boetiekstijl en een buitenzwembad. Meer info en boeken.",
+            "url": "https://www.booking.com/hotel/th/buasri.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket;aid=321180",
+            "urls": [
+              {
+                "url": "https://www.booking.com/hotel/th/buasri.nl.html?label=reisroutes_nl_bezienswaardigheden-phuket;aid=321180",
+                "anchor_text": "Meer info en boeken"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Download je reisgids Thailand en mis niets",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Herkenbaar: Wil je er zeker van zijn dat je niets mist tijdens je verblijf in Thailand? Dan is er goed nieuws, want wij deden alvast al het opzoekingswerk voor jou. Koop onze reisgids Thailand met alle bezienswaardigheden en uitgestippelde routes in Thailand. Eerst uitproberen? Download alvast je gratis preview reisgids Thailand.",
+            "url": "https://shop.themediabay.be/nl/reisgidsen/thailand-rondreis-pdf",
+            "urls": [
+              {
+                "url": "https://shop.themediabay.be/nl/reisgidsen/thailand-rondreis-pdf",
+                "anchor_text": "Koop onze reisgids Thailand"
+              },
+              {
+                "url": "https://www.reisroutes.nl/thema/thailand/",
+                "anchor_text": "uitgestippelde routes in Thailand"
+              },
+              {
+                "url": "https://www.reisroutes.nl/gratis-reisgidsen/reisgids-thailand/",
+                "anchor_text": "gratis preview reisgids Thailand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Praktische info & tickets voor je bezoek aan Phuket",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Inhoud artikel",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Historische stadscentrum van Phuket",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Jui Tui-tempel",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thalang Road en Phuket Walking Street",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Soi Romanee",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Phuket Thai Hua Museum",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Chinpracha House",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wat Chalong",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De grote witte Boeddha",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Phang Nga Bay",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nationaal Park Similan Islands",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Paradijselijke stranden van Phuket",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Phuket Elephant Sanctuary",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De mooiste zonsondergang bij Laem Phromthep",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Watervallen van Phuket",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thalang National Museum",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Maak een daguitstap naar Koh Phi Phi",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waar overnachten in Phuket?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Download je reisgids Thailand en mis niets",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Kaartje met de mooiste bezienswaardigheden in Phuket",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Phuket: Similan-eilanden met catamaran",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Phuket: Similan-eilanden met catamaran",
+            "url": "https://www.getyourguide.nl/phuket-l32123/van-phuket-luxe-reis-naar-de-similan-eilanden-per-speedcatamaran-t540809/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/phuket-l32123/van-phuket-luxe-reis-naar-de-similan-eilanden-per-speedcatamaran-t540809/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "Phuket: Similan-eilanden met catamaran"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Phuket: Similan-dagtocht per speedboot",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Phuket: Similan-dagtocht per speedboot",
+            "url": "https://www.getyourguide.nl/phuket-l32123/vanuit-phuket-similan-dagtrip-met-toeslag-voor-nationaal-park-t434486/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/phuket-l32123/vanuit-phuket-similan-dagtrip-met-toeslag-voor-nationaal-park-t434486/?partner_id=W38F18N&cmp=reisroutes_nl_bezienswaardigheden-phuket&data-gyg-locale-code=nl-NL&locale_autoredirect_optout=true",
+                "anchor_text": "Phuket: Similan-dagtocht per speedboot"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Gratis reisgids Thailand downloaden",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Hotels & vakantie Thailand",
+            "url": "https://www.booking.com/searchresults.nl.html?aid=321180&ss=Thailand&label=reisroutes_nl_footer-bezienswaardigheden-phuket",
+            "urls": [
+              {
+                "url": "https://www.booking.com/searchresults.nl.html?aid=321180&ss=Thailand&label=reisroutes_nl_footer-bezienswaardigheden-phuket",
+                "anchor_text": "Hotels & vakantie Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Reispromos Thailand",
+            "url": "https://reis.tui.nl/?tt=433_12_303521_reisroutes-footer",
+            "urls": [
+              {
+                "url": "https://reis.tui.nl/?tt=433_12_303521_reisroutes-footer",
+                "anchor_text": "Reispromos Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Inspiratie: tours & tickets",
+            "url": "https://www.getyourguide.nl/s/?q=Thailand&partner_id=W38F18N&currency=EUR&cmp=reisroutes_nl_footer-bezienswaardigheden-phuket",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.nl/s/?q=Thailand&partner_id=W38F18N&currency=EUR&cmp=reisroutes_nl_footer-bezienswaardigheden-phuket",
+                "anchor_text": "Inspiratie: tours & tickets"
+              }
+            ]
+          },
+          {
+            "text": "Huur je de camper naar Thailand",
+            "url": "https://clk.tradedoubler.com/click?p=325839&a=3319738&epi=reisroutes-nl-footer-bezienswaardigheden-phuket&url=https%3A%2F%2Fwww.goboony.nl%2F",
+            "urls": [
+              {
+                "url": "https://clk.tradedoubler.com/click?p=325839&a=3319738&epi=reisroutes-nl-footer-bezienswaardigheden-phuket&url=https%3A%2F%2Fwww.goboony.nl%2F",
+                "anchor_text": "Huur je de camper naar Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Bereken de prijs: huurauto in Thailand",
+            "url": "https://www.easyterra.nl/trade-tracker/redirect?tt=30769_12_303521_reisroutes-nl-footer-bezienswaardigheden-phuket",
+            "urls": [
+              {
+                "url": "https://www.easyterra.nl/trade-tracker/redirect?tt=30769_12_303521_reisroutes-nl-footer-bezienswaardigheden-phuket",
+                "anchor_text": "Bereken de prijs: huurauto in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Alles mee voor op reis? Bestel het!",
+            "url": "https://goo.gl/dJ7qUf",
+            "urls": [
+              {
+                "url": "https://goo.gl/dJ7qUf",
+                "anchor_text": "Alles mee voor op reis? Bestel het!"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Gerelateerde blogs",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Rondreis Thailand: dé mooiste route voor je roadtrip + kaartje",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Rondreis Thailand: dé mooiste route voor je roadtrip + kaartje",
+            "url": "https://www.reisroutes.nl/blog/thailand/rondreis-thailand-route/",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/blog/thailand/rondreis-thailand-route/",
+                "anchor_text": "Rondreis Thailand: dé mooiste route voor je roadtrip + kaartje"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Waar overnachten in Phuket? 15 x van goedkoop tot luxe",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Waar overnachten in Phuket? 15 x van goedkoop tot luxe",
+            "url": "https://www.reisroutes.nl/blog/thailand/overnachten-phuket-verblijven/",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/blog/thailand/overnachten-phuket-verblijven/",
+                "anchor_text": "Waar overnachten in Phuket? 15 x van goedkoop tot luxe"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "25 top bezienswaardigheden in Bangkok: wat zien & doen?",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "25 top bezienswaardigheden in Bangkok: wat zien & doen?",
+            "url": "https://www.reisroutes.nl/blog/thailand/bezienswaardigheden-bangkok/",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/blog/thailand/bezienswaardigheden-bangkok/",
+                "anchor_text": "25 top bezienswaardigheden in Bangkok: wat zien & doen?"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Download je reisgids Thailand en mis niets",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Geschreven door",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Reisroutes in de buurt",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Phuket wandeling",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Phuket wandeling",
+            "url": "https://www.reisroutes.nl/stadswandelingen/thailand/phuket-wandeling/",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/stadswandelingen/thailand/phuket-wandeling/",
+                "anchor_text": "Phuket wandeling"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Bangkok stadswandeling",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Bangkok stadswandeling",
+            "url": "https://www.reisroutes.nl/stadswandelingen/thailand/bangkok-wandeling/",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/stadswandelingen/thailand/bangkok-wandeling/",
+                "anchor_text": "Bangkok stadswandeling"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Rondreis Thailand: autoroute langs alle highlights",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Rondreis Thailand: autoroute langs alle highlights",
+            "url": "https://www.reisroutes.nl/rondreizen/thailand/rondreis-thailand/",
+            "urls": [
+              {
+                "url": "https://www.reisroutes.nl/rondreizen/thailand/rondreis-thailand/",
+                "anchor_text": "Rondreis Thailand: autoroute langs alle highlights"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "0 reacties",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Gratis reisgids Thailand downloaden",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Wil je elke week leuke reistips en voordelen ontvangen?",
+        "main_title": "15 x mooiste bezienswaardigheden in Phuket: wat zeker zien & doen?",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

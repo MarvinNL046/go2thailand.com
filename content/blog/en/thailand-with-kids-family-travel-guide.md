@@ -32,7 +32,7 @@ This guide covers everything we've learned from three years in [Chiang Mai](http
 |----------|--------|
 | **What is the best time to visit?** | November–February (cool and dry season). Avoid May–October (rainy, hot, and humid). |
 | **How much does it cost?** | Budget family: 1,500–2,000 THB/day per person (~$42–56 USD). Mid-range: 2,500–4,000 THB (~$70–112 USD). |
-| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/islands/phuket/). Domestic travel via budget airlines, trains, or buses. |
+| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/city/phuket/). Domestic travel via budget airlines, trains, or buses. |
 | **Is it safe?** | Very safe for families. Standard precautions apply: watch belongings, avoid tap water, use sunscreen. |
 | **What should I book in advance?** | Flights, [hotels](https://booking.tpo.lv/2PT1kR82) during peak season (Nov–Feb), popular activities like elephant sanctuaries, and cooking classes. |
 | **Do I need visas?** | Most nationalities get 30–60 days visa-free. Check [Thailand visa requirements](https://go2-thailand.com/visa/) for your passport. |
@@ -56,24 +56,12 @@ Avoid May through October entirely if traveling with young children. This is the
 
 **For first-time visitors with kids, plan 10–14 days minimum.** This allows time to adjust to the climate and time zone (jet lag with young children is real), explore 2–3 regions without rushing, and build in rest days. We've found that families trying to cram Thailand into 5–7 days end up exhausted and miss the slower, more meaningful experiences.
 
-A realistic 10-day itinerary might look like: 3 days in [Bangkok](https://go2-thailand.com/city/bangkok/), 4 days in the north ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or [Chiang Rai](https://go2-thailand.com/destinations/chiang-rai/)), and 3 days on an island like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/). This gives kids time to settle into activities without constant movement.
+A realistic 10-day itinerary might look like: 3 days in [Bangkok](https://go2-thailand.com/city/bangkok/), 4 days in the north ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or [Chiang Rai](https://go2-thailand.com/city/chiang-rai/)), and 3 days on an island like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/). This gives kids time to settle into activities without constant movement.
 
 ### Booking Strategy
 
 **Book flights 2–3 months in advance** for peak season (November–February). Prices spike in December, so November or January offer better value. Mid-range and budget airlines (Thai AirAsia, Nok Air, Thai Lion Air) offer domestic flights at 800–2,500 THB ($22–70 USD) per person, but book early for the best fares.
 
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>
 
 For accommodations, book 4–6 weeks ahead during peak season. Family-friendly hotels in mid-range categories (3–4 stars) fill quickly and offer better rates when booked early. Budget options often lack amenities like reliable Wi-Fi or safe play areas—worth the extra 500–1,000 THB per night during peak season.
 
@@ -81,7 +69,7 @@ For accommodations, book 4–6 weeks ahead during peak season. Family-friendly h
 
 ## 2. Getting to Thailand: Flights & Entry Requirements
 
-Most international visitors fly into [Bangkok](https://go2-thailand.com/city/bangkok/)'s Suvarnabhumi Airport (BKK), though [Phuket](https://go2-thailand.com/islands/phuket/) and [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) also receive international flights. Flight times from Europe are 11–13 hours; from North America, 16–18 hours with a connection. With young kids, consider breaking the journey with a stopover in a hub like Bangkok or Singapore.
+Most international visitors fly into [Bangkok](https://go2-thailand.com/city/bangkok/)'s Suvarnabhumi Airport (BKK), though [Phuket](https://go2-thailand.com/city/phuket/) and [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) also receive international flights. Flight times from Europe are 11–13 hours; from North America, 16–18 hours with a connection. With young kids, consider breaking the journey with a stopover in a hub like Bangkok or Singapore.
 
 ### Entry Requirements for Families
 
@@ -105,22 +93,6 @@ Get vaccinations 4–6 weeks before travel. Malaria risk is minimal in [Bangkok]
 
 Bring copies of vaccination records, though they're rarely requested. Ensure travel insurance covers medical evacuation and emergency care—costs in Thailand's private hospitals are reasonable (500–2,000 THB per consultation), but serious cases may require evacuation to Bangkok or home.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -164,24 +136,8 @@ Choosing the right accommodation makes family travel infinitely easier. We've st
 
 **In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/):** The Old City is charming but can be noisy. Nimman is quieter, with cafes and shops. Riverside areas are peaceful. Most attractions are within 15–20 minutes by [songthaew](https://12go.tpo.lv/tNA80urD) (shared taxi).
 
-**On islands:** Beach towns like [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), and [Phuket](https://go2-thailand.com/islands/phuket/) have family resorts. Quieter islands like [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) and [Koh Mak](https://go2-thailand.com/islands/koh-mak/) are better for families seeking peace.
+**On islands:** Beach towns like [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), and [Phuket](https://go2-thailand.com/city/phuket/) have family resorts. Quieter islands like [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) and [Koh Mak](https://go2-thailand.com/islands/koh-mak/) are better for families seeking peace.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Practical Tips for Booking
 
@@ -211,22 +167,6 @@ The Thai [railway](https://trip.tpo.lv/gNIdNBmi) system is romantic and affordab
 
 Long-distance buses are cheap (300–1,500 THB) but uncomfortable for young children on journeys over 3 hours. **VIP buses** (extra legroom, fewer stops) are better but still cramped. For families, **private minivans or car rentals** are worth the extra cost (2,000–4,000 THB per day for a driver, or 1,500–2,500 THB for self-drive rental).
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Local Transport in Cities
 
@@ -261,7 +201,7 @@ Thailand offers far more than temples and beaches for families. The best activit
 
 **[Snorkeling](https://klook.tpo.lv/7Dt6WApj) and diving** are excellent for kids 6+. [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is famous for diving certification courses, but [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), and [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) offer easier snorkeling with less current. A typical snorkeling trip costs 1,500–2,500 THB ($42–70 USD) per person and includes lunch and equipment.
 
-**Beach days** are free or cheap (parking 20–50 THB). [Koh Samui](https://go2-thailand.com/islands/koh-samui/) has calm, family-friendly beaches; [Phuket](https://go2-thailand.com/islands/phuket/) has more facilities but is more crowded.
+**Beach days** are free or cheap (parking 20–50 THB). [Koh Samui](https://go2-thailand.com/islands/koh-samui/) has calm, family-friendly beaches; [Phuket](https://go2-thailand.com/city/phuket/) has more facilities but is more crowded.
 
 ### Cultural & Educational Activities
 
@@ -271,26 +211,10 @@ Thailand offers far more than temples and beaches for families. The best activit
 
 **Markets and street food exploration** are free and fun. [Bangkok](https://go2-thailand.com/city/bangkok/)'s Chatuchak Weekend Market is massive but overwhelming with young kids—go early (8–10 AM) and stay in one section. Floating markets like Damnoen Saduak are touristy but visually stunning.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Adventure Activities
 
-**Zip-lining and jungle canopy tours** are available in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and [Phuket](https://go2-thailand.com/islands/phuket/). Most require kids to be 10+ and weigh at least 30 kg. Costs range from 1,500–3,000 THB ($42–84 USD).
+**Zip-lining and jungle canopy tours** are available in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and [Phuket](https://go2-thailand.com/city/phuket/). Most require kids to be 10+ and weigh at least 30 kg. Costs range from 1,500–3,000 THB ($42–84 USD).
 
 **Waterfall hikes** are excellent for families. [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) has numerous accessible waterfalls (Doi Inthanon National Park is stunning). Bring plenty of water, wear good shoes, and start early to avoid afternoon heat.
 
@@ -303,7 +227,7 @@ For rainy days or heat breaks:
 - **Chiang Mai Night Bazaar:** Shopping and street food; free to explore.
 - **THAINOSAUR Museum:** Bangkok's new [dinosaur and fossil museum](/blog/thainosaur-museum-bangkok-dinosaur-attraction-2026/) is perfect for curious kids aged 5–14.
 - **Science museums:** [Bangkok](https://go2-thailand.com/city/bangkok/) has interactive science centers (entry ~300–500 THB).
-- **Aquariums:** [Phuket](https://go2-thailand.com/islands/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/) have marine aquariums (entry ~500–1,000 THB).
+- **Aquariums:** [Phuket](https://go2-thailand.com/city/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/) have marine aquariums (entry ~500–1,000 THB).
 
 ---
 
@@ -338,7 +262,7 @@ Thai food is often spicier than Western kids expect, but **you can request mild 
 - **Thai fried rice** (khao pad): Mild, customizable, and filling. Add egg, chicken, or shrimp.
 - **Pad Thai:** Slightly sweet, mild noodles. Request without peanuts if there are allergies.
 - **Mango sticky rice:** Dessert that kids love—sweet, simple, and refreshing.
-- **Tom yum goong:** Spicy soup, but broth is mild; ask for mild version — read our [tom yum goong guide](/blog/tom-yum-goong-guide/) to understand the dish.
+- **Tom yum goong:** Spicy soup, but broth is mild; ask for mild version — read our [tom yum goong guide](/food/tom-yum-goong/) to understand the dish.
 - **Satay (meat skewers):** Grilled protein with peanut sauce; kids enjoy the interactive eating.
 
 ### Practical Eating Tips
@@ -362,22 +286,6 @@ If your child has allergies, **learn key phrases in Thai:**
 
 Most Thai restaurants can accommodate vegetarian, vegan, and gluten-free requests. Dairy-free is harder (fish sauce and shrimp paste are in many dishes), but rice-based meals are naturally dairy-free. Our [vegan Thai food guide](/blog/vegan-thai-food-guide/) has useful ordering phrases for families with dietary restrictions.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -456,7 +364,7 @@ Thailand is affordable, but costs vary widely by region, season, and travel styl
 | **Miscellaneous** | 200–400 | $6–11 | Souvenirs, snacks, tips |
 | **TOTAL** | 2,900–5,700 | $81–159 | Per person, per day |
 
-**For a family of 4 for 10 days:** Budget 116,000–228,000 THB ($3,200–6,400 USD). This includes flights from Europe/North America (typically $600–1,200 per person round-trip). For a detailed budget overview, check our [2 weeks in Thailand cost guide](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+**For a family of 4 for 10 days:** Budget 116,000–228,000 THB ($3,200–6,400 USD). This includes flights from Europe/North America (typically $600–1,200 per person round-trip). For a detailed budget overview, check our [2 weeks in Thailand cost guide](/thailand-index/budget/).
 
 ### Money-Saving Tips
 
@@ -518,7 +426,7 @@ Here's a realistic 10-day itinerary balancing culture, nature, and relaxation:
 - Day 7: Rest day, local markets, street food exploration.
 
 **Days 8–10: [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/)**
-- Flight [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) to [Phuket](https://go2-thailand.com/islands/phuket/) (2 hours), then ferry to island (1–2 hours).
+- Flight [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) to [Phuket](https://go2-thailand.com/city/phuket/) (2 hours), then ferry to island (1–2 hours).
 - Beach days, snorkeling, relaxation.
 - Return to [Bangkok](https://go2-thailand.com/city/bangkok/) for international flight.
 
@@ -586,7 +494,7 @@ Packing right prevents headaches. Here's what we never travel without:
 
 ### Is Thailand safe for families?
 
-Yes, Thailand is very safe for families. Crime against tourists is rare, and Thais are welcoming to children. Standard precautions apply: watch belongings, avoid dark alleys at night, and be cautious in crowded areas. The biggest risk is traffic accidents—use Grab or hire drivers rather than renting scooters. Our [is Thailand safe guide](/blog/is-thailand-safe-tourists-2026/) covers this in detail.
+Yes, Thailand is very safe for families. Crime against tourists is rare, and Thais are welcoming to children. Standard precautions apply: watch belongings, avoid dark alleys at night, and be cautious in crowded areas. The biggest risk is traffic accidents—use Grab or hire drivers rather than renting scooters. Our [is Thailand safe guide](/is-thailand-safe/) covers this in detail.
 
 ### What's the best age to take kids to Thailand?
 

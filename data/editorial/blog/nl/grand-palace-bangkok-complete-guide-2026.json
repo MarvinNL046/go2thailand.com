@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "grand-palace-bangkok-complete-guide-2026",
+  "route": "/nl/blog/grand-palace-bangkok-complete-guide-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Het Grand Palace bezoeken | Go2Thailand",
+    "description": "Plan kleding, officiële toegang en een rustige route door het paleiscomplex en Wat Phra Kaew.",
+    "primaryKeyword": "grand palace bangkok",
+    "secondaryKeywords": [
+      "grand palace bangkok bezoeken",
+      "grand palace bangkok tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/grand-palace-bangkok-complete-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Bangkok met context",
+    "title": "Het Grand Palace bezoeken",
+    "accent": "Controleer eerst de kalender",
+    "description": "Plan kleding, officiële toegang en een rustige route door het paleiscomplex en Wat Phra Kaew.",
+    "image": "/images/redesign/editorial/grand-palace-bangkok-complete-guide-2026-hero.webp",
+    "imageAlt": "Gouden daken en rijk gedecoreerde gebouwen van het Grand Palace in Bangkok",
+    "primaryCta": {
+      "label": "Plan je bezoek",
+      "href": "#keuzes"
+    },
+    "secondaryCta": {
+      "label": "Actuele checks",
+      "href": "#actueel"
+    }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "plan",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Controleer op de officiële dagkalender of het complex open is, draag volledig passende kleding en koop alleen via het officiële loket of kanaal.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "keuzes",
+      "eyebrow": "Routekeuze",
+      "title": "Drie ankers voor je bezoek",
+      "cards": [
+        {
+          "title": "Check de dagkalender",
+          "description": "Maak vooraf één duidelijke keuze en laat actuele informatie leidend zijn.",
+          "label": "Stap 1"
+        },
+        {
+          "title": "Kleed je correct",
+          "description": "Bouw rust en respect in; een volle checklist maakt de ervaring niet beter.",
+          "label": "Stap 2"
+        },
+        {
+          "title": "Plan één tempelcombinatie",
+          "description": "Koppel alleen een logisch vervolg en vermijd onnodig heen-en-weer reizen.",
+          "label": "Stap 3"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "actueel",
+      "title": "Controleer vlak voor vertrek",
+      "items": [
+        "Officiële opening of locatie op de bezoekdag",
+        "Kleding, toegang en lokale gedragsregels",
+        "Heen- en terugroute met voldoende marge",
+        "Weer, hitte en persoonlijke belastbaarheid"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Het Grand Palace bezoeken",
+      "items": [
+        {
+          "question": "Hoe plan je Het Grand Palace bezoeken het best?",
+          "answer": "Kies één hoofddoel, controleer officiële bezoekersinformatie en combineer alleen locaties die geografisch logisch bij elkaar liggen."
+        },
+        {
+          "question": "Welke informatie moet je opnieuw controleren?",
+          "answer": "Opening, toegang, vervoer en tijdelijke maatregelen kunnen wijzigen. De gelinkte primaire bron blijft leidend."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire bron voor actuele details",
+      "items": [
+        {
+          "title": "Practical Information",
+          "publisher": "The Grand Palace",
+          "url": "https://www.royalgrandpalace.th/en/visit/practical-information",
+          "checkedAt": "2026-08-01",
+          "note": "Owner- en actualiteitscontrole voor deze route."
+        }
+      ]
+    }
+  ]
+}

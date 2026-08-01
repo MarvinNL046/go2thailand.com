@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "accommodation"
 tags: ["Nan province", "glamping Thailand 2026", "Visama Explorer Nan", "eco-luxury tented camp", "northern Thailand", "responsible tourism Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/visama-explorer-nan-eco-glamping-tented-camp-2026-hero.webp"
 description: "Visama Explorer Nan opened in February 2026 with eight eco-luxury safari tents in a remote mountain setting. Here is everything you need to know about Thailand's newest glamping camp."
 featured: false
 readingTime: 3
@@ -48,4 +48,4 @@ For stays between 1 March and 31 October 2026, the camp is running a "Tent & Tas
 
 ## Is It Worth the Trip?
 
-Nan remains one of Thailand's most underrated provinces. It has mountain scenery, quiet roads, ancient temples and almost no mass tourism. Visama Explorer Nan gives travellers a comfortable and responsible way to experience this part of the country, and the opening promotion makes it an especially good time to go. If you are curious about what to budget for your overall Thailand trip, our [Thailand budget guide 2026](/blog/thailand-budget-2026-daily-costs/) breaks down daily costs in detail. For those planning a longer stay, the [digital nomad Thailand guide](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) covers visa options and the best cities to base yourself. You can also explore more [responsible tourism destinations across Thailand](/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/) if the ethos of this camp appeals to you.
+Nan remains one of Thailand's most underrated provinces. It has mountain scenery, quiet roads, ancient temples and almost no mass tourism. Visama Explorer Nan gives travellers a comfortable and responsible way to experience this part of the country, and the opening promotion makes it an especially good time to go. If you are curious about what to budget for your overall Thailand trip, our [Thailand budget guide 2026](/thailand-index/budget/) breaks down daily costs in detail. For those planning a longer stay, the [digital nomad Thailand guide](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) covers visa options and the best cities to base yourself. You can also explore more [responsible tourism destinations across Thailand](/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/) if the ethos of this camp appeals to you.

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Global Wellness Summit", "GWS 2026", "Phuket events", "wellness tourism Thailand", "health tourism", "Angsana Laguna Phuket"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/global-wellness-summit-2026-phuket-november-hero.webp"
 description: "The 20th Global Wellness Summit takes place in Phuket from 10-13 November 2026. Here is what it means for Thailand's wellness tourism push and how visitors can benefit."
 featured: false
 readingTime: 3

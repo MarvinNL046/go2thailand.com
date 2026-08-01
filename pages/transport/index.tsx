@@ -7,6 +7,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import AffiliateWidget from '../../components/AffiliateWidget';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
+import TransportHubGuide from '../../components/transport/TransportHubGuide';
 
 const TWELVEGO_SEARCH_WIDGET = '<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&from=Bangkok&to=Phuket&from_en=Bangkok&to_en=Phuket&powered_by=true&color=black&border=1&campaign_id=44&promo_id=1506" charset="utf-8"></script>';
 
@@ -29,6 +30,7 @@ interface City {
   slug: string;
   name: {
     en: string;
+    nl?: string;
   };
   region: string;
 }
@@ -42,10 +44,14 @@ interface TransportIndexProps {
 const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoutes, cities }) => {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
-  const lang = isNl ? 'nl' : 'en';
 
   const [fromCity, setFromCity] = useState('');
   const [toCity, setToCity] = useState('');
+  const routeHref = (slug: string) => slug === 'bangkok-to-koh-samui'
+    ? '/blog/bangkok-to-koh-samui-guide/'
+    : `/transport/${slug}/`;
+
+  if (isNl) return <TransportHubGuide allRoutes={allRoutes} cities={cities} />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -57,7 +63,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
       const routeSlug = `${fromCity}-to-${toCity}`;
       const route = allRoutes.find(r => r.slug === routeSlug);
       if (route) {
-        window.location.href = `/transport/${routeSlug}`;
+        window.location.href = routeHref(routeSlug);
       } else {
         alert(isNl ? 'Deze route is nog niet beschikbaar. Probeer een andere route.' : 'This route is not available yet. Please try a different route.');
       }
@@ -67,21 +73,21 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
   const getRouteIcon = (from: string, to: string) => {
     const fromCity = cities.find(c => c.slug === from);
     const toCity = cities.find(c => c.slug === to);
-    
+
     if (!fromCity || !toCity) return '';
-    
+
     // Check if it's an island route
-    if (['phuket', 'koh-samui', 'koh-phangan', 'koh-tao'].includes(from) || 
+    if (['phuket', 'koh-samui', 'koh-phangan', 'koh-tao'].includes(from) ||
         ['phuket', 'koh-samui', 'koh-phangan', 'koh-tao'].includes(to)) {
       return '';
     }
-    
+
     // Check distance for flight icon
     const route = allRoutes.find(r => r.slug === `${from}-to-${to}`);
     if (route && parseInt(route.distance) > 500) {
       return '';
     }
-    
+
     return '';
   };
 
@@ -95,16 +101,51 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
     return acc;
   }, {} as Record<string, Route[]>);
 
+  const collectionJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Thailand Transport Routes',
+    description: 'Compare route options between Thai destinations, including the practical trade-offs between trains, buses, ferries, flights, and transfers.',
+    url: 'https://go2-thailand.com/transport/',
+    inLanguage: 'en',
+    mainEntity: { '@id': 'https://go2-thailand.com/transport/#popular-routes' },
+  };
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((crumb, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: crumb.name,
+      item: `https://go2-thailand.com${crumb.href.endsWith('/') ? crumb.href : `${crumb.href}/`}`,
+    })),
+  };
+  const routeListJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    '@id': 'https://go2-thailand.com/transport/#popular-routes',
+    itemListElement: popularRoutes.map((route, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: `${route.from.replace(/-/g, ' ')} to ${route.to.replace(/-/g, ' ')}`,
+      url: `https://go2-thailand.com${routeHref(route.slug)}`,
+    })),
+  };
+
   return (
     <div className="min-h-screen bg-surface-cream">
       <SEOHead
-        title={`Thailand Transport Routes 2026 | Go2Thailand`}
-        description="Complete guide to traveling between Thai cities. Compare transport options, prices, and duration for flights, buses, trains, and ferries. Plan your Thailand journey with confidence."
+        title="Thailand Transport Routes: Trains, Buses, Ferries & Flights"
+        description="Compare transport routes between Thai destinations, including journey-time context, transfers, luggage trade-offs and live ticket links."
+        ogImage="https://go2-thailand.com/images/redesign/transport-thailand-hero.webp"
       >
-        <meta name="keywords" content="thailand transport, thailand bus routes, thailand flights, thailand trains, bangkok to chiang mai, bangkok to phuket, transport in thailand" />
+        <link rel="canonical" href="https://go2-thailand.com/transport/" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(routeListJsonLd) }} />
       </SEOHead>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Thailand Transportroutes' : 'Thailand Transport Routes'}</h1>
@@ -115,7 +156,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
         {/* 12Go Search Widget */}
         <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
           <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? 'Boek Bussen, Treinen & Veerboten' : 'Book Buses, Trains & Ferries'}</h2>
-          <p className="text-gray-600 mb-4">{isNl ? 'Zoek en boek transport door Thailand met 12Go — vergelijk aanbieders, prijzen en schema\'s.' : 'Search and book transport across Thailand with 12Go — compare operators, prices, and schedules.'}</p>
+          <p className="text-gray-600 mb-4">{isNl ? 'Zoek en boek transport door Thailand met 12Go — vergelijk aanbieders, prijzen en schema\'s.' : 'Use 12Go to compare the currently listed operators, schedules, ticket conditions, and totals for your travel date.'}</p>
           <AffiliateWidget scriptContent={TWELVEGO_SEARCH_WIDGET} minHeight="300px" />
           <p className="text-xs text-gray-500 mt-2 text-center">{isNl ? 'Mogelijk gemaakt door 12Go — we ontvangen een commissie zonder extra kosten voor jou' : 'Powered by 12Go — we earn a commission at no extra cost to you'}</p>
         </section>
@@ -169,7 +210,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
         </section>
 
         {/* Popular Routes */}
-        <section className="mb-12">
+        <section id="popular-routes" className="mb-12">
           <h2 className="text-3xl font-bold font-heading mb-6">{isNl ? 'Populaire Routes' : 'Popular Routes'}</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
             {popularRoutes.map(route => {
@@ -180,7 +221,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               return (
                 <Link
                   key={route.slug}
-                  href={`/transport/${route.slug}`}
+                  href={routeHref(route.slug)}
                   className="bg-white rounded-2xl shadow-sm p-4 hover:shadow-md transition-shadow"
                 >
                   <div className="flex items-center justify-between mb-2">
@@ -191,7 +232,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                     {from.name.en} → {to.name.en}
                   </h3>
                   <div className="flex justify-between text-sm text-gray-600">
-                    <span>{isNl ? 'Vanaf' : 'From'} {route.duration.bus || route.duration.flight || route.duration.train}</span>
+                    <span>{isNl ? 'Indicatie' : 'Journey-time guide'}: {route.duration.bus || route.duration.flight || route.duration.train}</span>
                     <span className="text-thailand-red">{isNl ? 'Bekijk opties' : 'View options'} →</span>
                   </div>
                 </Link>
@@ -219,7 +260,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                     return (
                       <Link
                         key={route.slug}
-                        href={`/transport/${route.slug}`}
+                        href={routeHref(route.slug)}
                         className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-white transition-colors"
                       >
                         <span className="font-medium">
@@ -241,7 +282,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl font-bold font-heading mb-4">{isNl ? 'Boek Thailand Transport Online' : 'Book Thailand Transport Online'}</h2>
               <p className="text-lg mb-6 opacity-90">
-                {isNl ? 'Boek bussen, treinen, veerboten en transfers door Thailand direct met 12Go. Vergelijk prijzen, lees reviews en ontvang e-tickets per e-mail.' : 'Book buses, trains, ferries, and transfers across Thailand instantly with 12Go. Compare prices, read reviews, and get e-tickets delivered to your email.'}
+                {isNl ? 'Boek bussen, treinen, veerboten en transfers door Thailand direct met 12Go. Vergelijk prijzen, lees reviews en ontvang e-tickets per e-mail.' : 'Compare buses, trains, ferries, and transfers on 12Go. Confirm the operator, departure point, luggage rules, connection protection, final total, and ticket delivery before paying.'}
               </p>
               <div className="flex flex-wrap justify-center gap-4 mb-6">
                 <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">
@@ -260,7 +301,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               <a
                 href="https://12go.tpo.lv/tNA80urD?subid=transport"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow sponsored"
                 className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors shadow-md"
               >
                 {isNl ? 'Zoek Routes op 12Go' : 'Search Routes on 12Go'} →
@@ -338,7 +379,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
           </div>
         </section>
 
-      </main>
+      </div>
     </div>
   );
 };

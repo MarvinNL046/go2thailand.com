@@ -37,7 +37,7 @@ While most visitors to **Chiang Mai** flock to the Old City temples and the famo
 
 ## 1. Explore the Artisan Communities of Hang Dong and San Kamphaeng
 
-The neighborhoods south and east of the Old City represent the beating heart of Chiang Mai's craft heritage, yet they remain largely overlooked by tourists focused on temple-hopping. **Hang Dong district** and **San Kamphaeng** are home to generations of silk weavers, wood carvers, and ceramicists who continue traditions that define Northern Thai identity. When we visited these areas during the quieter monsoon season, we found workshops where artisans still use hand looms and traditional techniques, often willing to explain their craft to genuinely interested visitors.
+The neighborhoods south and east of the Old City represent the beating heart of Chiang Mai's craft heritage, yet they remain largely overlooked by tourists focused on temple-hopping. **Hang Dong district** and **San Kamphaeng** are home to generations of silk weavers, wood carvers, and ceramicists who continue traditions that define Northern Thai identity.
 
 ### The Silk Weaving Tradition
 
@@ -53,26 +53,10 @@ Hang Dong has become a hub for contemporary ceramicists and sculptors who blend 
 - **What to bring:** Cash in small denominations; many workshops don't accept cards
 - **Photography:** Always ask permission before photographing artisans at work
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & [Activities](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 2. Discover the Neighborhoods Beyond the Old City: Chang Phuak, Huay Kaew, and Nimmanhaemin
 
-Most tourists never venture beyond the moat that encircles Chiang Mai's Old City, missing entire neighborhoods that offer a more authentic sense of how modern Chiang Mai actually functions. **Chang Phuak**, in the north, **Huay Kaew**, to the west, and **Nimmanhaemin** (Nimman), to the northwest, each have distinct characters and appeal to different travelers. During our time exploring these areas, we noticed how each neighborhood has its own rhythm, favorite restaurants, and gathering spots that locals frequent.
+Most tourists never venture beyond the moat that encircles Chiang Mai's Old City, missing entire neighborhoods that offer a more authentic sense of how modern Chiang Mai actually functions. **Chang Phuak**, in the north, **Huay Kaew**, to the west, and **Nimmanhaemin** (Nimman), to the northwest, each have distinct characters and appeal to different travelers.
 
 ### Chang Phuak: The Quiet Northern Gateway
 
@@ -100,22 +84,6 @@ The key to experiencing Nimman authentically is to ignore the main road and expl
 | **Huay Kaew** | Coffee culture, small galleries, student life | Relaxed, creative, intellectual | Low (5–10%) |
 | **Nimmanhaemin** | Independent restaurants, design shops, nightlife | Young, trendy, cosmopolitan | Medium (30–40%) |
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 3. Eat Like a Local: Street Food and Family Restaurants Off the Beaten Path
 
@@ -131,7 +99,7 @@ The challenge for visitors is navigating without Thai language skills. Our appro
 
 Beyond the famous khao soi (which, while delicious, is served everywhere), Chiang Mai's cuisine includes dishes rarely found outside the region. **Sai oua** (Northern Thai sausage) is available at markets and street stalls, often served with sticky rice and fresh herbs. **Gaeng hang lay** (Burmese-style pork belly curry) appears on menus of family restaurants in neighborhoods like Chang Phuak. **Larb** (spicy minced meat salad) in Chiang Mai is often more herbaceous and less fiery than its Isaan counterpart, reflecting local preferences.
 
-During our visits to neighborhood markets, we discovered **kaeng om** (a mild, herb-forward curry), **nam prik ong** (a tomato-based chili dip), and various preparations of **nam prik** (chili pastes) that we'd never encountered in guidebooks. These dishes exist because locals eat them, not because they're considered tourist-friendly.
+These dishes exist because locals eat them, not because they're considered tourist-friendly.
 
 ### Where to Find Authentic Eating Experiences
 
@@ -162,7 +130,7 @@ Chiang Mai has over 300 temples, yet most visitors see the same five or six: Wat
 
 Several excellent temples exist in quiet neighborhoods where tourists rarely venture. These wats serve as community centers for their surrounding areas, hosting morning alms-giving ceremonies, meditation sessions, and daily worship that continues regardless of visitor presence. The architecture is often as beautiful as the famous temples, but the experience is entirely different—you're observing actual religious practice rather than participating in a tourism performance.
 
-When we visited smaller neighborhood temples during early morning hours, we encountered monks preparing for alms-giving, devotees making merit, and a genuine sense of spiritual purpose that the crowded major temples have lost. Photography is still possible, but the expectation is that you're respectful and unobtrusive.
+Photography is still possible, but the expectation is that you're respectful and unobtrusive.
 
 ### Temple Stays and Meditation Experiences
 
@@ -184,7 +152,7 @@ Chiang Mai's coffee scene has exploded over the past decade, but it's evolved in
 
 Several independent roasters and cafes in neighborhoods like Huay Kaew and deeper Nimman sois focus on single-origin beans, precise brewing methods, and genuine coffee expertise. These aren't pretentious establishments—they're run by Thai coffee enthusiasts who've invested in quality equipment and training because they care about the product. Many roast their own beans, often sourcing from Northern Thai highlands or neighboring regions.
 
-During our visits to these cafes, we found them populated by a mix of local regulars, remote workers, and serious coffee enthusiasts. Conversations happen in Thai and English; the atmosphere is studious but welcoming. Prices are reasonable (60–120 THB for a specialty coffee, or $1.70–$3.40 USD), and the quality is genuinely excellent.
+Conversations happen in Thai and English; the atmosphere is studious but welcoming. Prices are reasonable (60–120 THB for a specialty coffee, or $1.70–$3.40 USD), and the quality is genuinely excellent.
 
 ### Cafe Culture as Social Space
 
@@ -192,22 +160,6 @@ In Thai culture, cafes serve as social anchors—places where people meet, work,
 
 This is where you'll experience the slower, more contemplative side of Chiang Mai that appeals to long-term visitors and digital nomads. Many of these cafes have become de facto community centers, hosting small art exhibitions, live music nights, or language exchange meetups.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 6. Trek Beyond the Tourist Trails: Local Hiking and Nature Experiences
 
@@ -223,7 +175,7 @@ The experience is fundamentally different from standard commercial treks: you're
 
 While Doi Inthanon (Thailand's highest peak) attracts visitors, most stick to the main road and developed viewpoints. The park has numerous hiking trails ranging from easy walks to challenging all-day treks. During the monsoon season (June–October), the park is lush and receives few visitors. Trails are muddy but manageable, and the sense of solitude is remarkable.
 
-Our team found that hiring a local guide (available through park headquarters or guesthouses in nearby towns) transformed the experience. Guides know where to find wildlife, understand the ecology of different forest zones, and can navigate trails that aren't marked on tourist maps. Costs are reasonable (typically 800–1,200 THB per day for a guide, or $22–33 USD).
+Guides know where to find wildlife, understand the ecology of different forest zones, and can navigate trails that aren't marked on tourist maps. Costs are reasonable (typically 800–1,200 THB per day for a guide, or $22–33 USD).
 
 **Hiking tips for Chiang Mai region:**
 - **Best season:** November–February for dry conditions; June–October for solitude and lush scenery
@@ -247,22 +199,6 @@ Throughout Chiang Mai, small shops and artist collectives sell work directly fro
 
 The advantage of shopping in these spaces is direct connection with makers. You can ask about techniques, commission custom work, and understand the story behind what you're buying. Prices are often lower than retail shops because there's no middleman, and quality is higher because makers have direct accountability.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 8. Experience Chiang Mai's Creative and Artistic Communities
 
@@ -298,7 +234,7 @@ About 100 kilometers southeast of Chiang Mai, Lampang is a provincial town that 
 
 ## 10. Practical Tips for Navigating Chiang Mai Like a Local
 
-Successfully exploring Chiang Mai's hidden gems requires different approaches and mindsets than standard tourism. Here are practical strategies our team has developed through extensive time in the city.
+Successfully exploring Chiang Mai's hidden gems requires different approaches and mindsets than standard tourism.
 
 ### Transportation and Navigation
 
@@ -318,22 +254,6 @@ June is the beginning of the monsoon season, with afternoon rain and significant
 
 Chiang Mai's residents are generally welcoming to respectful visitors, but tourism fatigue is real in popular areas. Show respect for temples, dress appropriately, ask before photographing people, and support local businesses rather than international chains. Your presence as a visitor should add value to the community, not extract it.
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 1-Day Itinerary: Hidden Gems Edition
 

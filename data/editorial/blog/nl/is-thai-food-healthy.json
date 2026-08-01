@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "is-thai-food-healthy",
+  "route": "/nl/blog/is-thai-food-healthy/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Is Thais eten gezond? Keuzehulp | Go2Thailand",
+    "description": "Beoordeel Thais eten op groenten, bereidingswijze, saus, portie en je eigen behoefte. Zonder vaste caloriegetallen of gezondheidsbeloftes.",
+    "primaryKeyword": "is Thais eten gezond",
+    "secondaryKeywords": ["gezond eten Thailand", "Thaise voeding", "gezonde keuze Thais restaurant"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/is-thai-food-healthy/"
+  },
+  "hero": {
+    "eyebrow": "Thai food · nuchtere keuzehulp",
+    "title": "Is Thais eten gezond?",
+    "accent": "Beoordeel het gerecht, niet de keuken",
+    "description": "Recept, portie en bereidingswijze zeggen meer dan een algemeen label voor alle Thaise gerechten.",
+    "image": "/images/redesign/editorial/is-thai-food-healthy-hero.webp",
+    "imageAlt": "Thaise tafel met gegrilde vis, heldere soep, rijst, kruiden en groenten",
+    "primaryCta": { "label": "Gebruik de vijf checks", "href": "#checks" },
+    "secondaryCta": { "label": "Bestel praktisch", "href": "#bestellen" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "overview", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Thais eten is niet automatisch gezond of ongezond. Kijk naar de volledige maaltijd: verhouding, bereidingswijze, saus en drank, portie en je persoonlijke voedingsbehoefte.",
+  "blocks": [
+    { "kind": "callout", "id": "kader", "tone": "jade", "title": "Vier uitgangspunten, geen keukenlabel", "description": "De WHO gebruikt voldoende, evenwichtig, met mate en gevarieerd als basis. Dat kader past beter dan één oordeel over een hele nationale keuken." },
+    { "kind": "steps", "id": "checks", "title": "Vijf checks voor één maaltijd", "steps": [
+      { "title": "Bekijk de verhouding", "description": "Zijn groenten of fruit, een eiwitbron en rijst of noedels in een passende verhouding aanwezig?" },
+      { "title": "Vraag naar de bereiding", "description": "Stomen, koken, grillen, roerbakken en frituren gebruiken verschillende hoeveelheden toegevoegd vet." },
+      { "title": "Tel saus en drank mee", "description": "Vissaus, sojasaus en bouillon kunnen zout bijdragen; zoete drank en dessert horen bij het totaal." },
+      { "title": "Schat geen schijnexacte calorieën", "description": "Recepten en porties zijn niet gestandaardiseerd. Dezelfde gerechtnaam kan sterk verschillen." },
+      { "title": "Kijk naar je hele dag", "description": "Eén gerecht bepaalt niet de kwaliteit van je volledige voedingspatroon." }
+    ] },
+    { "kind": "comparison", "id": "bestellen", "title": "Praktische aanpassingen", "options": [
+      { "title": "Meer zichtbare variatie", "description": "Combineer een hoofdgerecht met groenten, een heldere soep of fruit in plaats van alleen noedels of rijst.", "label": "Samenstelling" },
+      { "title": "Onderdelen apart", "description": "Vraag of saus, dressing of chilicondiment apart kan. De keuken hoeft dat niet altijd te kunnen.", "label": "Controle" },
+      { "title": "Andere bereiding", "description": "Vraag naar een gegrilde, gestoomde of gekookte optie wanneer je gefrituurd eten wilt beperken.", "label": "Bereiding" }
+    ] },
+    { "kind": "callout", "id": "medisch", "tone": "warning", "title": "Geen persoonlijk voedingsadvies", "description": "Bij een aandoening, zwangerschap of medisch voorgeschreven dieet hoort advies van een bevoegde zorgverlener leidend te zijn. ‘Gezond’ betekent ook niet allergeenvrij." },
+    { "kind": "related", "id": "verder", "title": "Verder kiezen", "items": [
+      { "title": "Eten in Thailand", "description": "Centrale gids voor gerechten, regionale keukens en bestellen.", "href": "/nl/food/" },
+      { "title": "Is Thais eten glutenvrij?", "description": "Aparte ingrediënt- en kruisbesmettingscheck.", "href": "/nl/blog/is-thai-food-gluten-free/" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Welk Thais gerecht is het gezondst?", "answer": "Er is geen universele winnaar. Vergelijk de werkelijke portie, ingrediënten en bereiding met wat jij die dag nodig hebt." },
+      { "question": "Is kokosmelk ongezond?", "answer": "Kokosmelk bevat verzadigd vet en kan binnen een gevarieerd patroon passen. De hoeveelheid en de rest van de maaltijd zijn relevant." },
+      { "question": "Kan ik uit de gerechtnaam calorieën afleiden?", "answer": "Niet betrouwbaar. Zonder recept, hoeveelheden en portiegrootte is een exact getal schijnprecisie." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen", "items": [
+      { "title": "Healthy diet", "publisher": "World Health Organization", "url": "https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet", "checkedAt": "2026-08-01", "note": "Actueel kader voor balans, variatie, matiging, zout, vrije suikers en vetten." },
+      { "title": "Discover Thai Cuisine through its four regions", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2018/01/discover-thai-cuisine-famous-four-regions/", "checkedAt": "2026-08-01", "note": "Primaire toeristische context voor de variatie tussen regionale keukens." }
+    ] }
+  ]
+}

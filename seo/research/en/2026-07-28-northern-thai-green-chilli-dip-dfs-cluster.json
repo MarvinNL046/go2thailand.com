@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T09:23:37.941Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "northern thai green chilli dip",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "northern thai green chilli dip"
+  ],
+  "keywords": [
+    {
+      "keyword": "northern thai green chilli dip",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

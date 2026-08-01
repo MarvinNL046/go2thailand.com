@@ -24,7 +24,7 @@ Thailand's 2026 general election is shaping up to be a turning point for the cou
 
 ## Safety First
 
-The Tourism Council of Thailand has made it clear that restoring confidence in tourist safety is the top priority. Past security incidents and high-profile scam stories have dented Thailand's reputation in some markets. Industry leaders are calling for the new government to take a stronger stance on **tourist protection and law enforcement** in popular travel areas. For a traveler's perspective, read our guides on [Thailand scams](https://go2-thailand.com/blog/thailand-travel-scams-2026/) and [tourist safety in 2026](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026/).
+The Tourism Council of Thailand has made it clear that restoring confidence in tourist safety is the top priority. Past security incidents and high-profile scam stories have dented Thailand's reputation in some markets. Industry leaders are calling for the new government to take a stronger stance on **tourist protection and law enforcement** in popular travel areas. For a traveler's perspective, read our guides on [Thailand scams](https://go2-thailand.com/practical-info/scams-safety/) and [tourist safety in 2026](https://go2-thailand.com/is-thailand-safe/).
 
 For travelers, this could mean better-funded tourist police units, improved safety standards at popular attractions, and a more coordinated national response to incidents involving foreign visitors.
 

@@ -1,0 +1,38 @@
+{
+  "captured_at": "2026-07-29T17:54:11.096Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "rayong food",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "rayong food"
+  ],
+  "keywords": [
+    {
+      "keyword": "rayong food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai president food rayong",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

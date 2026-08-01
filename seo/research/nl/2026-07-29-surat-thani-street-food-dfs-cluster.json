@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T22:34:45.662Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "surat thani street food",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "surat thani street food"
+  ],
+  "keywords": [
+    {
+      "keyword": "surat thani street food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

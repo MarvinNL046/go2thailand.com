@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "one-bangkok-shopping-mall-tourist-guide-2026",
+  "route": "/nl/blog/one-bangkok-shopping-mall-tourist-guide-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "One Bangkok bezoeken: winkels, eten en kunst | Go2Thailand",
+    "description": "Plan One Bangkok met een heldere keuze tussen Parade, The Storeys, Food Loop en Art Loop en reis rechtstreeks via MRT Lumphini.",
+    "primaryKeyword": "One Bangkok bezoeken",
+    "secondaryKeywords": ["One Bangkok winkels", "One Bangkok MRT", "One Bangkok eten"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/one-bangkok-shopping-mall-tourist-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Bangkok · winkel- en kunstdistrict",
+    "title": "One Bangkok bezoeken",
+    "accent": "Kies je zone vóór je aankomt",
+    "description": "Parade, The Storeys, Food Loop en Art Loop vragen elk een andere route. Deze gids helpt je gericht kiezen.",
+    "image": "/images/redesign/editorial/one-bangkok-shopping-mall-tourist-guide-2026-hero.webp",
+    "imageAlt": "Modern Bangkok-district met glazen torens, tropische tuinen en openbare kunst in de avond",
+    "primaryCta": { "label": "Vergelijk de zones", "href": "#zones" },
+    "secondaryCta": { "label": "Plan de aankomst", "href": "#aankomst" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "One Bangkok past bij een comfortabele halve dag met winkelen, eten, architectuur en kunst. Start via MRT Lumphini en kies vooraf Parade of The Storeys als hoofdzône.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "zones",
+      "title": "Welke zone past bij je bezoek?",
+      "options": [
+        { "title": "Parade", "description": "De breedste mix van retail, eten en entertainment; praktisch voor verschillende interesses.", "label": "Veel keuze" },
+        { "title": "The Storeys", "description": "Compactere focus op mode, lifestyle en conceptstores, goed te combineren met Art Loop.", "label": "Design & lifestyle" },
+        { "title": "Art Loop", "description": "Openbare kunst en buitenruimte als tegenwicht voor de winkels; programma en toegankelijkheid kunnen wisselen.", "label": "Kunstwandeling" }
+      ]
+    },
+    { "kind": "steps", "id": "aankomst", "title": "Zo plan je de stop", "steps": [
+      { "title": "Kies één hoofdzône", "description": "Voorkom doelloos lopen en controleer de actuele directory." },
+      { "title": "Reis naar MRT Lumphini", "description": "De ondergrondse verbinding komt uit bij niveau B1 van Parade en The Storeys." },
+      { "title": "Plan eten op type", "description": "Kies foodhall, Thais, internationaal of een lange maaltijd voordat je door het aanbod bladert." },
+      { "title": "Bouw marge in", "description": "Het district is groot en tijdelijke events kunnen looproutes veranderen." }
+    ] },
+    { "kind": "callout", "id": "geen-markt", "tone": "cream", "title": "Geen vervanging voor een markt", "description": "One Bangkok is modern, comfortabel en gecureerd. Voor kleinschalige buurtwinkels of lage marktprijzen kies je een ander stadsdeel." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Welk MRT-station ligt bij One Bangkok?", "answer": "Lumphini aan de Blue Line. Een ondergrondse verbinding leidt naar Parade en The Storeys." },
+      { "question": "Hoe lang heb je nodig?", "answer": "Een paar uur voor één zone en een maaltijd; een halve dag als je ook kunst en meerdere zones wilt zien." },
+      { "question": "Is alles tegelijk geopend?", "answer": "Niet noodzakelijk. Het district ontwikkelt gefaseerd; controleer de officiële directory en eventinformatie." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële bronnen", "items": [
+      { "title": "Location", "publisher": "One Bangkok", "url": "https://www.onebangkok.com/en/location/", "checkedAt": "2026-08-01", "note": "Bevestigt MRT-verbinding en toegangen." },
+      { "title": "Newest Neighbourhood", "publisher": "One Bangkok", "url": "https://www.onebangkok.com/en/press-media/one-bangkok-newest-neighbourhood/", "checkedAt": "2026-08-01", "note": "Retailzones en gefaseerde ontwikkeling." },
+      { "title": "Transformative Urban District", "publisher": "One Bangkok", "url": "https://www.onebangkok.com/en/press-media/one-bangkok-a-transformative-urban-district/", "checkedAt": "2026-08-01", "note": "Kunst, Food Loop en districtcontext." }
+    ] }
+  ]
+}

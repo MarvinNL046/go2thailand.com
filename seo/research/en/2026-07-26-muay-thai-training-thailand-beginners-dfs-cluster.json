@@ -1,0 +1,38 @@
+{
+  "captured_at": "2026-07-26T14:39:28.331Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "muay thai training thailand beginners",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "muay thai training thailand beginners"
+  ],
+  "keywords": [
+    {
+      "keyword": "muay thai training in thailand for beginners",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "muay thai training thailand beginners",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

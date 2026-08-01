@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-25T18:16:58.921Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "lumpini hawker centre",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "lumpini hawker centre"
+  ],
+  "keywords": [
+    {
+      "keyword": "lumpini hawker centre",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

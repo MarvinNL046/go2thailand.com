@@ -55,11 +55,11 @@ Thailand packages vary dramatically based on your travel style. Here's what to e
 
 ### Budget Packages ($800–$1,200 for 7–10 days)
 
-These typically include flights on budget carriers, 3-star hotel accommodation, airport transfers, and one or two group tours. Meals are usually breakfast only. You'll stay in tourist-friendly areas but don't expect beachfront views or boutique hotels. Good value if you want the logistics handled without a premium price tag. See our [budget vs comfort comparison](/blog/thailand-budget-vs-comfort-travel/) to understand what you're trading off.
+These typically include flights on budget carriers, 3-star hotel accommodation, airport transfers, and one or two group tours. Meals are usually breakfast only. You'll stay in tourist-friendly areas but don't expect beachfront views or boutique hotels. Good value if you want the logistics handled without a premium price tag. See our [budget vs comfort comparison](/thailand-index/budget/) to understand what you're trading off.
 
 ### Mid-Range Packages ($1,500–$2,500 for 7–14 days)
 
-The sweet spot for most travelers. Expect 4-star hotels, scheduled airline flights, private transfers, multiple guided tours, and several included meals. Packages at this level often cover multiple destinations — a common route is [Bangkok](https://go2-thailand.com/city/bangkok/) to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) to a southern island like [Phuket](https://go2-thailand.com/islands/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/). Intrepid Travel and G Adventures operate well-reviewed group tours in this range.
+The sweet spot for most travelers. Expect 4-star hotels, scheduled airline flights, private transfers, multiple guided tours, and several included meals. Packages at this level often cover multiple destinations — a common route is [Bangkok](https://go2-thailand.com/city/bangkok/) to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) to a southern island like [Phuket](https://go2-thailand.com/city/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/). Intrepid Travel and G Adventures operate well-reviewed group tours in this range.
 
 ### Luxury Packages ($3,000+ for 7–14 days)
 
@@ -82,11 +82,11 @@ This is the real question. Here's how the two approaches stack up:
 | **Language barriers** | Guide handles everything | You navigate on your own |
 | **Hidden costs** | Optional excursions, tips, drinks | Fewer surprises if you budget well |
 | **Accommodation quality** | Consistent but generic | You choose exactly what you want |
-| **Food experience** | Hotel restaurants, tourist spots | [Street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/), local markets, your pick |
+| **Food experience** | Hotel restaurants, tourist spots | [Street food](https://go2-thailand.com/thailand-street-food/), local markets, your pick |
 | **Social aspect** | Meet fellow travelers in group | Meet locals and other backpackers |
 | **Safety net** | Tour operator support 24/7 | You handle emergencies yourself |
 
-The cost difference is significant. Thailand is one of the easiest countries in Southeast Asia to travel independently. Transport is cheap, accommodation is abundant, and English is widely spoken in tourist areas. A comfortable independent trip costs roughly [1,500–2,500 THB per day](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) ($42–70 USD) for mid-range travel.
+The cost difference is significant. Thailand is one of the easiest countries in Southeast Asia to travel independently. Transport is cheap, accommodation is abundant, and English is widely spoken in tourist areas. A comfortable independent trip costs roughly [1,500–2,500 THB per day](https://go2-thailand.com/thailand-index/budget/) ($42–70 USD) for mid-range travel.
 
 ## When Thailand Travel Packages Make Sense
 
@@ -112,7 +112,7 @@ Some people genuinely dislike trip planning. If research and booking stress you 
 
 ### Backpackers and Budget Travelers
 
-If you're comfortable in hostels and eating [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/), you can travel Thailand for $25–40 per day. No package comes close to that. Check our [backpacker guide](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/) for details.
+If you're comfortable in hostels and eating [street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/), you can travel Thailand for $25–40 per day. No package comes close to that. Check our [backpacker guide](https://go2-thailand.com/thailand-index/budget/) for details.
 
 ### Long-Term Travelers (2+ Weeks)
 
@@ -133,7 +133,7 @@ Not all packages deliver what they promise. Watch for these issues:
 - **Vague hotel descriptions** — "4-star or similar" means they haven't confirmed the hotel yet. Ask for specific hotel names and check reviews independently.
 - **Rushed schedules** — If a 7-day package covers Bangkok, Chiang Mai, Phuket, AND Krabi, you'll spend half your trip in transit. Three destinations in a week is the maximum for a comfortable pace.
 - **"Optional" excursions** — These are where operators make extra margin. A $50 "optional temple tour" might cost $10 if you book it yourself through [Klook](https://klook.tpo.lv/7Dt6WApj) or [GetYourGuide](https://getyourguide.tpo.lv/GuAFfGGK).
-- **Shopping stops** — Budget packages often include mandatory visits to gem shops, tailor shops, or souvenir stores. The tour company gets a commission. This is a [common scam](https://go2-thailand.com/blog/thailand-travel-scams-2026/) to be aware of.
+- **Shopping stops** — Budget packages often include mandatory visits to gem shops, tailor shops, or souvenir stores. The tour company gets a commission. This is a [common scam](https://go2-thailand.com/practical-info/scams-safety/) to be aware of.
 - **Single supplement fees** — Solo travelers often pay 30–50% more because packages are priced per person for double occupancy.
 - **Seasonal pricing** — The same package costs 20–40% more during peak season (November–February). Consider traveling in the shoulder season (March–May or September–October) for better deals. Our [best time to visit Thailand](/blog/best-time-to-visit-thailand/) guide breaks this down month by month.
 
@@ -154,7 +154,7 @@ Here are the most reliable platforms for Thailand travel packages in 2026:
 
 ### Is it cheaper to book a Thailand package or travel independently?
 
-Independent travel is almost always cheaper — typically 20–40% less than a comparable package. Thailand has affordable accommodation (budget hotels from $15/night), cheap domestic flights ($30–60), and incredible [street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/) for under $3 per meal. Packages add a convenience premium on top of these costs.
+Independent travel is almost always cheaper — typically 20–40% less than a comparable package. Thailand has affordable accommodation (budget hotels from $15/night), cheap domestic flights ($30–60), and incredible [street food](https://go2-thailand.com/thailand-street-food/) for under $3 per meal. Packages add a convenience premium on top of these costs.
 
 ### What's the best time to book Thailand packages?
 
@@ -166,11 +166,11 @@ Many operators offer customizable or private packages where you choose destinati
 
 ### Are Thailand packages safe for solo female travelers?
 
-Yes. Group packages are actually one of the safest ways for [solo female travelers](https://go2-thailand.com/blog/solo-female-travel-thailand-safety-tips/) to visit Thailand. You're with a group, have a guide, and logistics are handled. That said, Thailand is also very safe for independent solo travel. Read our [Thailand solo travel boom guide](/blog/thailand-solo-travel-boom-2026-tips-destinations/) for more on traveling alone.
+A group package can reduce some solo-travel logistics, but a guide or group is not a safety guarantee. Check the operator, meeting point, transport, room arrangement, free-time boundaries and route back just as you would on an independent trip. Our [solo female travel in Thailand guide](/travel-guides/solo-female-travel-thailand/) helps women compare those choices without assuming that either a package or independent travel is universally safer. The [Thailand solo-travel trend article](/blog/thailand-solo-travel-boom-2026-tips-destinations/) covers the separate tourism context.
 
 ### Do packages include visa costs?
 
-Almost never. Most Western nationalities get 30–60 days visa-free entry to Thailand, so it's not a major expense. Check our [Thailand visa guide](https://go2-thailand.com/blog/thailand-visa-guide-2026/) for current requirements and don't forget the [Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/).
+Almost never. Most Western nationalities get 30–60 days visa-free entry to Thailand, so it's not a major expense. Check our [Thailand visa guide](https://go2-thailand.com/visa/) for current requirements and don't forget the [Thailand Digital Arrival Card](https://go2-thailand.com/visa/digital-arrival-card/).
 
 ## The Bottom Line
 

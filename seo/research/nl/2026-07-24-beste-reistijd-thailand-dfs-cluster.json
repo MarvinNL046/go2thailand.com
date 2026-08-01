@@ -1,0 +1,783 @@
+{
+  "captured_at": "2026-07-24T02:39:13.692Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "beste reistijd thailand",
+  "costs": {
+    "suggestions": 0.01572,
+    "related": 0.015,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "beste reistijd thailand",
+    "beste reistijd krabi",
+    "beste reistijd krabi thailand",
+    "regenseizoen thailand krabi",
+    "beste reistijd thailand krabi"
+  ],
+  "keywords": [
+    {
+      "keyword": "beste reistijd naar thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd voor thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand beste reistijd",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beste reistijd zuid thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd zuid-thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "regenseizoen thailand phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "zuid thailand beste reistijd",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "zuid-thailand beste reistijd",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beste reistijd bangkok",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand koh samui",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd krabi",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand''phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "regenseizoen thailand koh samui",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd koh tao",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd noord thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd noord-thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat is de beste reistijd voor thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "regenseizoen koh tao",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd koh phangan",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd krabi thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand eilanden",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "noord thailand beste reistijd",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "noord-thailand beste reistijd",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "regenseizoen thailand bangkok",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "regenseizoen thailand krabi",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand regenseizoen ervaringen",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "welke eilanden thailand november",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd eilanden thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beste reistijd phuket thailand",
+      "volume": 10,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand columbus",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand klimaatinfo",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand noord",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand zuid",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "klimaat thailand beste reistijd",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "regenseizoen thailand september",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "regenseizoen thailand zuid",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand eilanden beste reistijd",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand klimaat beste reistijd",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wanneer beste reistijd thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beste reistijd thailand bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand beste reistijd columbus",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.333travel.nl",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 577.6
+    },
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 307.8
+    },
+    {
+      "domain": "www.anwb.nl",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 184.87
+    },
+    {
+      "domain": "www.columbusmagazine.nl",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 125.21
+    },
+    {
+      "domain": "betterplaces.nl",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 89.11
+    },
+    {
+      "domain": "www.sawadee.nl",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 64.22
+    },
+    {
+      "domain": "www.kilroyworld.nl",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 48.64
+    },
+    {
+      "domain": "www.src-reizen.nl",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 37.43
+    },
+    {
+      "domain": "www.evaneos.nl",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 28.5
+    },
+    {
+      "domain": "www.fox.nl",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 21.47
+    },
+    {
+      "domain": "www.asiadirect.nl",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 17.29
+    },
+    {
+      "domain": "www.vanverre.nl",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 14.25
+    },
+    {
+      "domain": "www.wearetravellers.nl",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 11.209999999999999
+    },
+    {
+      "domain": "www.corendon.nl",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 10.64
+    },
+    {
+      "domain": "www.nrv.nl",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 9.690000000000001
+    },
+    {
+      "domain": "www.prijsvrij.nl",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.17
+    },
+    {
+      "domain": "www.tourcompass.nl",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.17
+    },
+    {
+      "domain": "rondreis.nl",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.27
+    },
+    {
+      "domain": "www.localherotravel.nl",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.13
+    },
+    {
+      "domain": "travellegends.nl",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 4.37
+    },
+    {
+      "domain": "verrassendthailand.nl",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 4.180000000000001
+    },
+    {
+      "domain": "www.reis-expert.nl",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.globehopper.nl",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.riksjatravel.nl",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "reisbrigade.nl",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.weflycheap.nl",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "thousandtravelmiles.nl",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.joker.be",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.pangeatravel.nl",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.greenwoodtravel.nl",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "klimaatinfo.nl",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.reizenisfijn.nl",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.tico.nl",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "esim.holafly.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.bestofasia.nl",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.bmair.nl",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.allovertours.nl",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "thailandtravel.nl",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "plus.kriski.be",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "packlightly.nl",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.wereldgast.nl",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "reismetkinderen.nl",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.kekmama.nl",
+      "avgPosition": 48,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.waar-en-wanneer.nl",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.azie.nl",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "www.clubmed.nl",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "thaitravelexpert.com",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    },
+    {
+      "domain": "backpackerdeals.nl",
+      "avgPosition": 55,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 3.9899999999999998
+    }
+  ]
+}

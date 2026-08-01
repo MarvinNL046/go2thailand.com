@@ -49,7 +49,7 @@ Toen we voor het eerst over deze verandering hoorden tijdens ons leven in [Bangk
 
 Alle niet-Thaise burgers die Thailand binnenkomen per welk vervoermiddel dan ook, moeten de TDAC invullen. Dit omvat:
 
-- **Toeristen** met [visa-vrije binnenkomst](/visa/visa-free-entry/) of toeristenvisa
+- **Toeristen** met [visumvrije binnenkomst](/visa/) of toeristenvisa
 - **Digitale nomaden** en langdurige bezoekers
 - **Zakenreizigers** met zakenvisa
 - **Expats** met werkvergunningen of [pensioenvisa](/visa/retirement-visa/)
@@ -204,7 +204,7 @@ Hoewel de TDAC zelf gratis is, omvatten gerelateerde reiskosten:
 - **[Reisverzekering](/blog/travel-insurance-thailand-guide/)** (optioneel maar aanbevolen voor veiligheid)
 - **Visumkosten** (indien vereist voor je nationaliteit)
 
-De TDAC is geen visum – het is simpelweg een aankondigingssysteem. Afhankelijk van je nationaliteit en verblijfduur heb je mogelijk nog een apart [Thailand-visum](/visa/) nodig of kom je in aanmerking voor [visa-vrije binnenkomst](/visa/visa-free-entry/). Bekijk ook onze volledige [Thailand-visumgids 2026](/blog/thailand-visa-guide-2026/) voor gedetailleerde eisen per nationaliteit.
+De TDAC is geen visum – het is simpelweg een aankondigingssysteem. Afhankelijk van je nationaliteit en verblijfduur heb je mogelijk nog een apart [Thailand-visum](/visa/) nodig of kom je in aanmerking voor [visumvrije binnenkomst](/visa/). Bekijk ook onze volledige [Thailand-visumgids 2026](/blog/thailand-visa-guide-2026/) voor gedetailleerde eisen per nationaliteit.
 
 <div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

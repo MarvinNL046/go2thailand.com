@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T14:16:28.470Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "hat yai hotel recommendations",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "hat yai hotel recommendations"
+  ],
+  "keywords": [
+    {
+      "keyword": "hat yai hotel recommendations",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

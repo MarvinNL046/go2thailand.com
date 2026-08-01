@@ -2,7 +2,9 @@
 title: "Bangkok Airport Transfer 2026: Real Prices + Scam Avoidance"
 slug: "bangkok-airport-transfer-guide-2026"
 excerpt: "Real 2026 Bangkok airport transfer prices - Airport Rail Link 45 THB, Grab 500 THB, taxi scam reality, BKK vs DMK options, and when to pre-book."
+description: "Compare Bangkok airport transfer options, understand common taxi risks and verify current fares and timetables before travelling from BKK or DMK."
 date: "2026-04-18"
+lastUpdated: "2026-08-01"
 author: "Go2Thailand Editorial Team"
 category: "Transport"
 tags: ["bangkok-airport-transfer-2026", "bkk-to-bangkok", "suvarnabhumi", "don-mueang", "bangkok-taxi-scam"]
@@ -179,7 +181,7 @@ Anyone who tells you the Public Taxi Queue is "closed" or "broken" is lying. It 
 | **Gem / Tailor Detour** | "Special one-day sale, I show you" | You lose 2 hours and get pressured to buy fake gems | Firm "no", ask to go directly to your destination. |
 | **Commission Tuk-Tuk** | "Grand Palace closed today, I take you around" | 300 THB tour through kickback stops | Palace is open. Walk away. |
 
-For a wider overview of travel risks in Thailand, see our guide to [whether Thailand is safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/).
+For a wider overview of travel risks in Thailand, see our guide to [whether Thailand is safe for tourists in 2026](/is-thailand-safe/).
 
 ## Between BKK and DMK: Airport-to-Airport Transfers
 
@@ -230,6 +232,6 @@ If you land between 00:00 and 05:30 and want the cheapest option, the metered ta
 5. If taking a taxi: use the Public Taxi Queue, insist on the meter, no detours.
 6. Screenshot your hotel address in Thai to show the driver.
 
-Budgeting the rest of your trip? Our full [Thailand daily cost breakdown for 2026](/blog/thailand-budget-2026-daily-costs/) shows how far your THB actually goes. Once you are settled in town, our [Bangkok public transport BTS and MRT guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) covers the Skytrain, subway and river boats. And before you go anywhere, read our list of the [10 biggest mistakes Thailand first-timers make](/blog/10-biggest-thailand-travel-mistakes/) so you do not repeat them.
+Budgeting the rest of your trip? Our full [Thailand daily cost breakdown for 2026](/thailand-index/budget/) shows how far your THB actually goes. Once you are settled in town, our [Bangkok public transport BTS and MRT guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) covers the Skytrain, subway and river boats. And before you go anywhere, read our list of the [10 biggest mistakes Thailand first-timers make](/blog/10-biggest-thailand-travel-mistakes/) so you do not repeat them.
 
 Safe landing, and welcome to Bangkok.

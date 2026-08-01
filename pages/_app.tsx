@@ -11,6 +11,7 @@ import FeedbackRibbon from '../components/FeedbackRibbon';
 import ExitIntentPopup from '../components/ExitIntentPopup';
 import PushBanner from '../components/PushBanner';
 import Hreflang from '../components/Hreflang';
+import SitewideEditorialBridge from '../components/SitewideEditorialBridge';
 import { ToastProvider } from '../components/Toast';
 import { Analytics } from '@vercel/analytics/react';
 import '../styles/globals.css';
@@ -67,7 +68,7 @@ export default function App({ Component, pageProps }: AppProps) {
               `
             }}
           />
-          
+
           {/* Google Analytics 4 */}
           <Script
             src="https://www.googletagmanager.com/gtag/js?id=G-WVN5SQGHW8"
@@ -92,11 +93,12 @@ export default function App({ Component, pageProps }: AppProps) {
       <Hreflang />
       <GoogleConsent />
       <ToastProvider>
-        <div className="min-h-screen flex flex-col overflow-x-hidden">
+        <div className="min-h-screen flex flex-col overflow-x-hidden pb-[calc(4.25rem+env(safe-area-inset-bottom))] lg:pb-0">
           <PushBanner />
           <Header />
           <main className="flex-grow overflow-x-hidden">
             <Component {...pageProps} />
+            <SitewideEditorialBridge />
           </main>
           <Footer />
           <CookieConsent />

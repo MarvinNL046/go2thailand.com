@@ -75,7 +75,7 @@ export default function WhereToStayPage({ data, affiliates }: Props) {
   const isNl = locale === 'nl';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: isNl ? 'Gidsen' : 'Guides', href: '/guides/' },
+    { name: isNl ? 'Reisgidsen' : 'Travel guides', href: '/travel-guides/' },
     { name: isNl ? `Waar Verblijven in ${data.cityName}` : `Where To Stay in ${data.cityName}`, href: `/guides/where-to-stay/${data.citySlug}/` },
   ];
 
@@ -180,7 +180,7 @@ export default function WhereToStayPage({ data, affiliates }: Props) {
                 <p className="text-sm text-gray-500">{isNl ? 'Bekijk alle 33 Thailand bestemmingen →' : 'Browse all 33 Thailand destinations →'}</p>
               </Link>
               <Link
-                href="/travel-insurance-thailand/"
+                href="/travel-insurance/"
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">

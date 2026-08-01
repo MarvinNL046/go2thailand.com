@@ -1,0 +1,889 @@
+{
+  "captured_at": "2026-07-28T17:56:24.975Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels koh tao",
+  "costs": {
+    "suggestions": 0.01296,
+    "related": 0.01836,
+    "competitors": 0.01752
+  },
+  "competitorKeywords": [
+    "best hotels koh tao",
+    "best hotels in koh tao",
+    "best hotels koh tao thailand",
+    "best hotels on koh tao",
+    "best koh tao hotels",
+    "koh tao best hotels"
+  ],
+  "keywords": [
+    {
+      "keyword": "four seasons koh samui",
+      "volume": 4400,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lamai koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels koh samui",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket hotels on the beach",
+      "volume": 1000,
+      "kd": 17,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sairee beach koh tao",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao hotels",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "haadtien beach resort",
+      "volume": 720,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "savage hostel koh tao",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao beaches",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi hotels on the beach",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "haadtien beach club",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao hostels",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotel in koh tao",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh tao",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels koh tao",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels koh tao thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels on koh tao",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best koh tao hotels",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao best hotels",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui for families",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "airbnb koh tao",
+      "volume": 90,
+      "kd": 19,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao hotels sairee beach",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sairee beach hotels",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sairee beach cottage",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hostel in koh tao",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui chaweng beach",
+      "volume": 50,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "four seasons resort koh samui photos",
+      "volume": 50,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao hotels luxury",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "four seasons koh samui prices",
+      "volume": 40,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao hotels 5-star",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "overthemoon luxury pool villas",
+      "volume": 40,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "haadtien beach resort reviews",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jungle hostel koh tao",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao hotels on the beach",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "summer hostel koh tao",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels koh samui telegraph",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best place to stay in koh samui for first-timers",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "four seasons koh samui reviews",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "four seasons koh samui white lotus",
+      "volume": 20,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in koh tao for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels koh samui reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels koh samui tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "four seasons koh samui all inclusive",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "four seasons koh samui bar",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "four seasons koh samui day pass",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "four seasons koh samui restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "haad tien beach resort koh phangan",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "haad tien koh phangan",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "haadtien beach pattaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "haadtien beach resort prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "haadtien beach resort restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao hostels reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao hotels agoda",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao hotels cheap",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sairee beach koh tao map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sairee beach nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sairee beach resort",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to stay in koh tao with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beach hotels in koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh tao for diving",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "justynjen.com",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 51.68
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 27.54
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 16.541
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 11.203
+    },
+    {
+      "domain": "sandinmysuitcase.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 7.973
+    },
+    {
+      "domain": "www.timetravelturtle.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 5.7459999999999996
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 4.352
+    },
+    {
+      "domain": "www.myboutiquehotel.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 3.3489999999999998
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.55
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.9209999999999998
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.5470000000000002
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.275
+    },
+    {
+      "domain": "theboldpassport.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.003
+    },
+    {
+      "domain": "www.i-escape.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.952
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8670000000000001
+    },
+    {
+      "domain": "nikkionherway.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.731
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.731
+    },
+    {
+      "domain": "www.weseektravel.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.5609999999999999
+    },
+    {
+      "domain": "dorisgonediving.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.374
+    },
+    {
+      "domain": "www.thefunkyturtle.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.kohtaocompleteguide.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "travelsbyizzy.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.tablethotels.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "girlonazebra.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.thaiholidayguide.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.traveltomtom.net",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.kohtao-hotels-information.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "loveandroad.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.cozycozy.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "onaplaneagain.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "imjesstraveling.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "nosincontournables.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.thesaltymary.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "thailandboattickets.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.oyster.com",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "wanderlog.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "wheretogoin.net",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.expedia.com",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "theo-courant.com",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "thailand-goto.com",
+      "avgPosition": 55,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "small-hotels-guide.com",
+      "avgPosition": 56,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "kohtaotravelguide.com",
+      "avgPosition": 59,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    }
+  ]
+}

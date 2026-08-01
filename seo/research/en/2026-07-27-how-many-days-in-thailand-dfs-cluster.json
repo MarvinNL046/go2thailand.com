@@ -1,0 +1,616 @@
+{
+  "captured_at": "2026-07-27T13:57:06.453Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "how many days in thailand",
+  "costs": {
+    "suggestions": 0.01452,
+    "related": 0.01284,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "how many days in thailand",
+    "how many days can you stay in thailand",
+    "how many days do you need in thailand",
+    "how many days in thailand without visa",
+    "how many days can filipino stay in thailand",
+    "how many days can stay in thailand",
+    "how many days in pai thailand",
+    "how many days in phuket thailand",
+    "how many days in thailand is enough",
+    "how many days in thailand reddit",
+    "how many days indian can stay in thailand",
+    "how many days should i spend in thailand",
+    "how many days to spend in thailand",
+    "how many days to stay in thailand",
+    "how many days tourist visa in thailand",
+    "how many days visa free in thailand",
+    "how many days visa-free in thailand for indian",
+    "tourist visa in thailand how many days"
+  ],
+  "keywords": [
+    {
+      "keyword": "how many days in thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "how many days can you stay in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days do you need in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days in thailand without visa",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand itinerary 10 days family",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "1 week in thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4 days in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 days in thailand for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how many days can filipino stay in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days can stay in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days in pai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days in phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days in thailand is enough",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days in thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "how many days indian can stay in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days should i spend in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days to spend in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days to stay in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days tourist visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days visa free in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days visa-free in thailand for indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa in thailand how many days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days can singaporean stay in thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days a week is school in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many days do you need in phuket thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "leaveyourdailyhell.com",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 21.28
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 11.34
+    },
+    {
+      "domain": "www.odynovotours.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 6.811
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 4.613
+    },
+    {
+      "domain": "www.bookmundi.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 3.283
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 2.3659999999999997
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 1.792
+    },
+    {
+      "domain": "travelnation.co.uk",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.379
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.05
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.7909999999999999
+    },
+    {
+      "domain": "www.wanderwithjamie.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.637
+    },
+    {
+      "domain": "www.thailandhighlights.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.413
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.392
+    },
+    {
+      "domain": "www.yourvietnamtravel.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.35700000000000004
+    },
+    {
+      "domain": "www.kimkim.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.301
+    },
+    {
+      "domain": "thisremotecorner.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.301
+    },
+    {
+      "domain": "www.indietraveller.co",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "yonder.co.uk",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.16799999999999998
+    },
+    {
+      "domain": "marleneonthemove.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.161
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.154
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.theblondtravels.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "adventuresbylana.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.asiaodysseytravel.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "wanderon.in",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "apassionandapassport.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "catisoutoftheoffice.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.nomadicmatt.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.erikastravelventures.com",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "poznajtajlandie.pl",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "purewander.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "thelavendertravelers.com",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.travelfika.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "hnvjourneys.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "alike.io",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.thestupidbear.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "under30experiences.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "beautahfulworld.com",
+      "avgPosition": 48,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "thailandwithtereza.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "thelostlander.com",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "sonasia-holiday.com",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.thegirlonthemove.com",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.indochinatour.com",
+      "avgPosition": 56,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "aseannow.com",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.psimonmyway.com",
+      "avgPosition": 58,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.thewanderfulme.com",
+      "avgPosition": 59,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "thepalateport.com",
+      "avgPosition": 60,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    }
+  ]
+}

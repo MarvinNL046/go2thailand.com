@@ -1,0 +1,39 @@
+{
+  "captured_at": "2026-07-24T07:32:51.325Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "waar verblijven koh tao",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "waar verblijven koh tao"
+  ],
+  "keywords": [
+    {
+      "keyword": "waar verblijven koh tao",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "waar verblijven op koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

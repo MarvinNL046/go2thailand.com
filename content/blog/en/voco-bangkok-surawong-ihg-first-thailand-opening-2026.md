@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "hotels"
 tags: ["voco Bangkok", "IHG Thailand", "Bangkok hotels 2026", "Surawong Road", "Silom hotels", "new hotel Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/voco-bangkok-surawong-ihg-first-thailand-opening-2026-hero.webp"
 description: "IHG Hotels & Resorts has opened voco Bangkok Surawong, the first voco-branded property in Thailand. Here is what guests can expect from this heritage-meets-modern hotel on Surawong Road."
 featured: false
 readingTime: 3
@@ -41,7 +41,7 @@ Three restaurants and bars anchor the food and drink offering:
 
 Other amenities include a full lap pool surrounded by landscaped gardens, a 24-hour fitness centre and an onsen-style spa.
 
-A small detail worth mentioning: every guest receives a [mango sticky rice](/blog/mango-sticky-rice-season-thailand/) cookie at check-in. The hotel's pastry chef prepares them daily using fresh local mangoes — a modern nod to one of Thailand's most beloved desserts. If you are exploring the wider Bangkok food scene during your stay, our guide to [Bangkok's top restaurant awards](/blog/bangkok-top-tables-2026-best-restaurants-awards/) covers the city's best tables in 2026.
+A small detail worth mentioning: every guest receives a [mango sticky rice](/food/mango-sticky-rice/) cookie at check-in. The hotel's pastry chef prepares them daily using fresh local mangoes — a modern nod to one of Thailand's most beloved desserts. If you are exploring the wider Bangkok food scene during your stay, our guide to [Bangkok's top restaurant awards](/blog/bangkok-top-tables-2026-best-restaurants-awards/) covers the city's best tables in 2026.
 
 ## Location
 

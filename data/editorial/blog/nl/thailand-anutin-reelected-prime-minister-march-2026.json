@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-anutin-reelected-prime-minister-march-2026",
+  "route": "/nl/blog/thailand-anutin-reelected-prime-minister-march-2026/",
+  "cluster": "policy",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Anutin opnieuw benoemd als premier van Thailand | Go2Thailand",
+    "description": "Anutin werd in maart 2026 opnieuw benoemd als premier. Bekijk de officiële stemming en wat reizigers wel en niet uit beleid mogen afleiden.",
+    "primaryKeyword": "premier Thailand 2026",
+    "secondaryKeywords": ["Anutin Charnvirakul premier", "Thaise regering 2026", "politiek Thailand reizigers"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-anutin-reelected-prime-minister-march-2026/"
+  },
+  "hero": {
+    "eyebrow": "Officiële regeringsstatus",
+    "title": "Anutin opnieuw benoemd als premier",
+    "accent": "Beleid is nog geen reisregel",
+    "description": "De stemming en benoeming zijn bevestigd. Visum-, vervoer- en veiligheidsregels veranderen pas door bevoegde officiële publicaties.",
+    "image": "/images/redesign/editorial/thailand-anutin-reelected-prime-minister-march-2026-hero.webp",
+    "imageAlt": "Thaise parlementszaal tijdens een formele zitting met pers op de publieke tribune",
+    "primaryCta": { "label": "Wat is bevestigd?", "href": "#bevestigd" },
+    "secondaryCta": { "label": "Reizigerscheck", "href": "#reizigerscheck" }
+  },
+  "layout": {
+    "kind": "policy-guide",
+    "policyStatus": "effective",
+    "checkedAt": "2026-08-01",
+    "effectiveFrom": "2026-03-20",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Het Huis steunde Anutin op 19 maart 2026 met 293 stemmen; het koninklijk benoemingsbevel volgde op 20 maart. Dat verandert reisregels niet automatisch.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "bevestigd",
+      "tone": "jade",
+      "title": "Benoemd na een stemming in het Huis",
+      "description": "‘Opnieuw benoemd’ is preciezer dan ‘rechtstreeks herkozen’: kiezers kozen het parlement en het Huis stemde daarna over de premier."
+    },
+    {
+      "kind": "steps",
+      "id": "reizigerscheck",
+      "title": "Wanneer raakt politiek nieuws je reis?",
+      "steps": [
+        { "title": "Zoek het officiële besluit", "description": "Bepaal welke instantie eigenaar is van visum, vervoer, veiligheid of toegang." },
+        { "title": "Controleer de ingangsdatum", "description": "Een voorstel of beleidsrichting is nog geen uitvoerbare regel." },
+        { "title": "Pas alleen relevante onderdelen aan", "description": "Wijzig je route pas wanneer de bevestigde maatregel voor jouw situatie geldt." }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over de benoeming",
+      "items": [
+        { "question": "Werd Anutin rechtstreeks gekozen door de bevolking?", "answer": "Nee. De bevolking koos het Huis; het Huis stemde vervolgens over de premierskandidaat." },
+        { "question": "Wanneer werd hij benoemd?", "answer": "De stemming was op 19 maart en het koninklijk benoemingsbevel werd op 20 maart 2026 gepubliceerd." },
+        { "question": "Veranderden visumregels automatisch?", "answer": "Nee. Daarvoor is afzonderlijke officiële regelgeving met toepassingsgebied en ingangsdatum nodig." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële regeringsbronnen",
+      "items": [
+        { "title": "Royal Command appointing the Prime Minister", "publisher": "Royal Thai Government", "url": "https://www.thaigov.go.th/en/news/162464", "checkedAt": "2026-08-01" },
+        { "title": "Parliamentary vote for Prime Minister", "publisher": "Secretariat of the Prime Minister", "url": "https://spm.thaigov.go.th/index.php/th/2569-government-formation/16675", "checkedAt": "2026-08-01" },
+        { "title": "Government policy statement", "publisher": "Royal Thai Government", "url": "https://www.thaigov.go.th/th/news/162941", "checkedAt": "2026-08-01" },
+        { "title": "Current Prime Minister", "publisher": "Royal Thai Government", "url": "https://www.thaigov.go.th/en/cabinet/prime-minister", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "reisregels",
+      "title": "Controleer de regel die jouw reis raakt",
+      "items": [
+        { "title": "Praktische informatie", "description": "Actuele voorbereiding per reisthema.", "href": "/nl/practical-info/" },
+        { "title": "Veilig reizen", "description": "Een nuchter veiligheidskader.", "href": "/nl/is-thailand-safe/" },
+        { "title": "Drie-luchthavenspoorlijn", "description": "De feitelijke projectstatus zonder politieke voorspelling.", "href": "/nl/blog/thailand-three-airport-high-speed-rail-2026-update/" }
+      ]
+    }
+  ]
+}

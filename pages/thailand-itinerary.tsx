@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
+import { StaticTravelGuideOwnerEn } from '../components/travel/StaticTravelGuideOwnerEn';
 
 interface ItineraryItem {
   slug: string;
@@ -60,6 +61,7 @@ function getFaqJsonLd(locale: string) {
 export default function ThailandItineraryPage({ itineraries }: PageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+  if (!isNl) return <StaticTravelGuideOwnerEn owner="itinerary" />;
 
   const dur = isNl ? durations.nl : durations.en;
   const faq = isNl ? faqItems.nl : faqItems.en;
@@ -202,7 +204,7 @@ export default function ThailandItineraryPage({ itineraries }: PageProps) {
               <ul className="space-y-2">
                 <li><Link href="/thailand-travel-guide/" className="text-thailand-blue hover:underline">{isNl ? 'Complete Thailand Reisgids' : 'Complete Thailand Travel Guide'}</Link></li>
                 <li><Link href="/best-places-to-visit-thailand/" className="text-thailand-blue hover:underline">{isNl ? 'Beste Plekken om te Bezoeken' : 'Best Places to Visit'}</Link></li>
-                <li><Link href="/thailand-index/best-time/" className="text-thailand-blue hover:underline">{isNl ? 'Beste Tijd om te Bezoeken' : 'Best Time to Visit'}</Link></li>
+                <li><Link href={isNl ? '/weather/' : '/thailand-index/best-time/'} className="text-thailand-blue hover:underline">{isNl ? 'Beste Tijd om te Bezoeken' : 'Best Time to Visit'}</Link></li>
                 <li><Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline">{isNl ? 'Budgetgids' : 'Budget Guide'}</Link></li>
               </ul>
             </div>
@@ -217,7 +219,7 @@ export default function ThailandItineraryPage({ itineraries }: PageProps) {
                 <li><Link href="/best-cooking-classes-in-thailand/" className="text-thailand-blue hover:underline">{isNl ? 'Kooklessen' : 'Cooking Classes'}</Link></li>
                 <li><Link href="/transport/" className="text-thailand-blue hover:underline">{isNl ? 'Vervoersroutes' : 'Transport Routes'}</Link></li>
                 <li><Link href="/region/" className="text-thailand-blue hover:underline">{isNl ? 'Ontdek per Regio' : 'Explore by Region'}</Link></li>
-                <li><Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline">{isNl ? 'Reisverzekering' : 'Travel Insurance'}</Link></li>
+                <li><Link href="/travel-insurance/" className="text-thailand-blue hover:underline">{isNl ? 'Reisverzekering' : 'Travel Insurance'}</Link></li>
               </ul>
             </div>
 
@@ -228,7 +230,9 @@ export default function ThailandItineraryPage({ itineraries }: PageProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  if (locale !== 'nl') return { props: { itineraries: [] }, revalidate: 604800 };
+
   let itineraries: ItineraryItem[] = [];
   try {
     // eslint-disable-next-line @typescript-eslint/no-var-requires

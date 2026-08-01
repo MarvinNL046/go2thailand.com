@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Beste streetfood in Bangkok: wijken, plekken en wat je echt moet proeven"
 slug: "beste-streetfood-bangkok-wijken-plekken-proeven"

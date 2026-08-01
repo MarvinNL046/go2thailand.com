@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand tourism", "visitor numbers", "middle east conflict", "travel advisory", "2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-2026-middle-east-impact-visitor-numbers-hero.webp"
 description: "Thailand welcomed over 7 million international tourists by mid-March 2026, but Middle East tensions caused an 18% drop in European arrivals. Here is what travelers need to know."
 featured: false
 readingTime: 3
@@ -39,7 +39,7 @@ For tourists planning a trip to Thailand from Europe, here is what to expect:
 - **Flights may take longer** due to airspace restrictions and rerouting — see the dedicated article on [Middle East conflict and Thailand flights](/blog/middle-east-conflict-thailand-flights-airfare-2026/)
 - **Ticket prices** on some routes have increased due to higher fuel costs
 - **Availability** at popular [Bangkok hotels](/best-hotels/bangkok/) and resorts may actually improve as overall European arrivals dip
-- **Thailand itself remains safe** and unaffected by the conflict — see the [Thailand safety guide for 2026](/blog/is-thailand-safe-tourists-2026/)
+- **Thailand itself remains safe** and unaffected by the conflict — see the [Thailand safety guide for 2026](/is-thailand-safe/)
 
 ## Thailand's Response: Pivot to Regional Markets
 
@@ -55,6 +55,6 @@ Despite the challenges from long-haul markets, the domestic tourism season looks
 
 Absolutely. Thailand remains one of the safest and most welcoming destinations in Southeast Asia. The Middle East situation affects transit routes, not Thailand itself. Travelers from Europe may want to compare flight options and book early to secure the best fares. Those coming from Asia-Pacific countries will find travel largely unaffected.
 
-If you're weighing up when to go, the [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) covers seasonal weather and crowds. Planning your budget? See [how much two weeks in Thailand costs in 2026](/blog/how-much-2-weeks-thailand-cost-2026-budget/). And for the biggest upcoming event in the country, don't miss [Tomorrowland Thailand 2026 in Pattaya](/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/) — 150,000 tickets sold out in under an hour.
+If you're weighing up when to go, the [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) covers seasonal weather and crowds. Planning your budget? See [how much two weeks in Thailand costs in 2026](/thailand-index/budget/). And for the biggest upcoming event in the country, don't miss [Tomorrowland Thailand 2026 in Pattaya](/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/) — 150,000 tickets sold out in under an hour.
 
 For the latest travel advisories, check your government's official travel guidance before booking.

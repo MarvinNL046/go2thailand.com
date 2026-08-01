@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Pattaya", "Walking Street", "nightlife", "tourism 2026", "Pattaya tourism"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/pattaya-walking-street-reinvention-2026-hero.webp"
 description: "Pattaya's iconic Walking Street is struggling with quieter nights and harsh criticism from tourists, prompting city leaders to explore a broader reinvention of the famous nightlife strip."
 featured: false
 readingTime: 3
@@ -32,11 +32,11 @@ The criticism goes beyond atmosphere. Visitors report that fewer bars and restau
 
 The struggles on Walking Street reflect a wider trend across Thailand's tourism industry. Younger, more socially-conscious travelers are increasingly drawn to **cultural experiences, [eco-tourism](/blog/tagthai-app-sustainable-travel-guide-2026/), and [wellness retreats](/blog/best-wellness-retreats-thailand-2026/)** rather than traditional nightlife-heavy destinations. [TAT's own 2026 strategy](/blog/thailand-tourism-next-strategy-value-over-volume-2026/), built around the theme "Healing is the New Luxury," reinforces this shift at the national level. The [healing journey wellness campaign](/blog/healing-journey-thailand-wellness-campaign-2026/) is part of the same push.
 
-In Pattaya itself, interest is growing in alternatives like [**Jomtien Beach**](/city/pattaya/attractions/jomtien-beach/), [**Nong Nooch Tropical Garden**](/city/pattaya/attractions/nong-nooch-garden/), and the surrounding coastline, which offer nature, relaxation, and family-friendly activities. A popular option is a [day trip to Koh Larn island](/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/) just offshore.
+In Pattaya itself, interest is growing in alternatives like [**Jomtien Beach**](/city/pattaya/attractions/), [**Nong Nooch Tropical Garden**](/city/pattaya/attractions/), and the surrounding coastline, which offer nature, relaxation, and family-friendly activities. A popular option is a [day trip to Koh Larn island](/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/) just offshore.
 
 ## Community Response
 
-At a public forum held in February 2026, [Walking Street](/city/pattaya/attractions/walking-street/) business owners and community leaders laid out their concerns to city officials. The discussion covered declining revenues, the need for better infrastructure, and frustration with what many see as a lack of coordinated support from local government.
+At a public forum held in February 2026, [Walking Street](/city/pattaya/attractions/) business owners and community leaders laid out their concerns to city officials. The discussion covered declining revenues, the need for better infrastructure, and frustration with what many see as a lack of coordinated support from local government.
 
 City authorities responded by announcing **an urgent revitalization plan**, though specific details remain limited. The general direction involves diversifying the street's offerings to attract a broader range of visitors, potentially adding cultural events, food festivals, and family-friendly entertainment alongside the existing nightlife scene. Thailand has also been exploring [extending nightlife closing times to 4am](/blog/thailand-4am-closing-time-nightlife-law-2026/) as part of entertainment district reform.
 

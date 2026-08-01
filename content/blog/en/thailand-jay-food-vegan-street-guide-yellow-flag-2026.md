@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Jay food Thailand", "vegan Thailand", "Thai vegan street food", "yellow flag vegan", "plant-based Thailand", "budget vegan food", "Thailand food 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-jay-food-vegan-street-guide-yellow-flag-2026-hero.webp"
 description: "Jay food is Thailand's answer to affordable vegan street food. Look for the yellow flag with red เจ script for plant-based meals from 50 THB. A practical guide for travellers in 2026."
 featured: false
 readingTime: 3
@@ -32,11 +32,11 @@ The tradition has deep roots in Chinese-Thai Buddhist culture, but in practice J
 
 The system is beautifully simple. Look for a bright **yellow flag or sign with red Thai script เจ**. The character can look a bit like the number 17 to Western eyes. When you see this flag hanging outside a stall, cart, or restaurant, it means the food served there is entirely plant-based.
 
-Jay stalls are found in every major city and most smaller towns. They cluster around markets, temple areas, and busy commercial streets. In [Bangkok](https://go2-thailand.com/city/bangkok/), Chinatown (Yaowarat), Silom, and the areas around major temples like [Wat Pho](https://go2-thailand.com/city/bangkok/attractions/wat-pho/) and [Wat Arun](https://go2-thailand.com/city/bangkok/attractions/wat-arun/) all have reliable Jay vendors. The [Bangkok food scene](https://go2-thailand.com/city/bangkok/food/) is generally very accommodating of Jay eaters.
+Jay stalls are found in every major city and most smaller towns. They cluster around markets, temple areas, and busy commercial streets. In [Bangkok](https://go2-thailand.com/city/bangkok/), Chinatown (Yaowarat), Silom, and the areas around major temples like [Wat Pho](https://go2-thailand.com/city/bangkok/attractions/) and [Wat Arun](https://go2-thailand.com/city/bangkok/attractions/) all have reliable Jay vendors. The [Bangkok food scene](https://go2-thailand.com/city/bangkok/food/) is generally very accommodating of Jay eaters.
 
 ## What Does Jay Food Cost?
 
-This is where Jay food really shines for [budget travellers](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/). A plate of Jay rice with two or three toppings at a street stall typically costs **50 to 80 THB** (roughly 1.30 to 2.10 USD). Compare that to trendy vegan cafes in [Bangkok](https://go2-thailand.com/city/bangkok/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) that charge 250 THB and above for a single dish. For a full breakdown of what food costs in Thailand, see our [daily budget guide](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/).
+This is where Jay food really shines for [budget travellers](https://go2-thailand.com/thailand-index/budget/). A plate of Jay rice with two or three toppings at a street stall typically costs **50 to 80 THB** (roughly 1.30 to 2.10 USD). Compare that to trendy vegan cafes in [Bangkok](https://go2-thailand.com/city/bangkok/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) that charge 250 THB and above for a single dish. For a full breakdown of what food costs in Thailand, see our [daily budget guide](https://go2-thailand.com/thailand-index/budget/).
 
 Common Jay dishes include:
 
@@ -47,7 +47,7 @@ Common Jay dishes include:
 
 ## Jay Food vs. Vegetarian: Know the Difference
 
-In Thailand, "vegetarian" (mangsawirat) and "Jay" are not the same thing. Vegetarian dishes may still contain egg, oyster sauce, or fish sauce. Jay food does not. If you want strictly plant-based food, always ask for Jay or look for the yellow flag. Saying **"gin jay"** (I eat Jay) is one of the most useful phrases a vegan traveller can learn. It is also worth understanding [what makes Thai food spicy](https://go2-thailand.com/blog/is-thai-food-spicy-guide/) and [what is in Thai food](https://go2-thailand.com/blog/what-is-thai-food-cuisine-guide/) before you order.
+In Thailand, "vegetarian" (mangsawirat) and "Jay" are not the same thing. Vegetarian dishes may still contain egg, oyster sauce, or fish sauce. Jay food does not. If you want strictly plant-based food, always ask for Jay or look for the yellow flag. Saying **"gin jay"** (I eat Jay) is one of the most useful phrases a vegan traveller can learn. It is also worth understanding [what makes Thai food spicy](https://go2-thailand.com/blog/is-thai-food-spicy-guide/) and [what is in Thai food](https://go2-thailand.com/travel-guides/thai-cuisine-food-guide/) before you order.
 
 ## The Vegetarian Festival: Jay Food at Its Peak
 

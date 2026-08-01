@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "culture"
 tags: ["Bangkok Art Biennale", "BAB 2026", "contemporary art", "Bangkok culture", "Wat Arun", "Wat Pho", "BACC", "Thailand events 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-art-biennale-2026-angels-mara-guide-hero.webp"
 description: "The Bangkok Art Biennale 2026 runs from October 2026 to February 2027 with the theme Angels and Mara. Free art installations across temples, museums and landmarks."
 featured: false
 readingTime: 3
@@ -36,10 +36,10 @@ The curatorial team is led by Prof. Dr. Apinan Poshyananda, the Biennale's chief
 
 Installations will be scattered across some of Bangkok's most iconic landmarks:
 
-- **[Wat Arun](/city/bangkok/attractions/wat-arun/)** and **[Wat Pho](/city/bangkok/attractions/wat-pho/)** — contemporary art set against centuries-old temple architecture
+- **[Wat Arun](/city/bangkok/attractions/)** and **[Wat Pho](/city/bangkok/attractions/)** — contemporary art set against centuries-old temple architecture
 - **Wat Prayoon** — a lesser-known but stunning riverside temple
 - **Bangkok Art and Culture Centre (BACC)** — the city's main contemporary art hub near BTS National Stadium
-- **Museum Siam** and the **[National Museum Bangkok](/city/bangkok/attractions/bangkok-national-museum/)** — heritage buildings near the [Grand Palace](/city/bangkok/attractions/grand-palace/)
+- **Museum Siam** and the **[National Museum Bangkok](/city/bangkok/attractions/)** — heritage buildings near the [Grand Palace](/city/bangkok/attractions/)
 - **National Gallery of Thailand** — right on Chao Phraya Road
 - **[One Bangkok](/blog/one-bangkok-shopping-mall-tourist-guide-2026/)** — the massive new mixed-use development in the CBD
 
@@ -51,7 +51,7 @@ Confirmed artists include Mel Chin, Mandy El-Sayegh, Piero Golia, Sonia Hamza, Y
 
 - **Cost:** Entry to temple and public-space installations is free. Some museum venues may charge a small admission fee. For comparable immersive experiences in the city, also see the [Cave Fantasy at MBK Center](/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/).
 - **Best way to explore:** The venues stretch across Rattanakosin Island, the riverside and the modern CBD, so combine a Chao Phraya Express boat ride with [BTS trips](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/).
-- **When to go:** Weekdays are quieter. The November-to-January window offers [cooler weather](/city/bangkok/best-time-to-visit/) and the full roster of completed installations.
+- **When to go:** Weekdays can be less compressed. Use the [Bangkok weather guide](/city/bangkok/weather/) for seasonal context, then confirm the current exhibition programme and forecast.
 - **Combine with:** A visit to the nearby [Lumpini Hawker Centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) for [street food](/city/bangkok/food/) after gallery-hopping.
 
 The Bangkok Art Biennale is one of Southeast Asia's most ambitious contemporary art events. Whether you are an art lover or simply curious, wandering through centuries-old temples filled with cutting-edge installations is an experience unique to [Bangkok](/city/bangkok/top-10-attractions/). If you are planning your stay, check the [best hotels in Bangkok](/best-hotels/bangkok/) and browse [Bangkok's top restaurants](/city/bangkok/top-10-restaurants/) to complete your visit.

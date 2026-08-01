@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-26T14:25:30.451Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "harbor island bangkok",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "harbor island bangkok"
+  ],
+  "keywords": [
+    {
+      "keyword": "harbor island bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

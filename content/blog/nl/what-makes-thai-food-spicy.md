@@ -1,130 +1,89 @@
 ---
-title: "Waarom is Thais eten zo pittig? Thaise pepers uitgelegd"
+title: "Wat maakt Thais eten pittig? Chili, currypasta en bestellen"
 slug: "what-makes-thai-food-spicy"
 date: "2026-03-21"
 author:
   name: "Go2Thailand Team"
 category: "food"
-tags: ["Thaise keuken", "Thaise peper", "pittig eten", "capsaïcine", "Thais streetfood", "beste pittige gerechten Thailand", "reistips pittig eten"]
-image: "/images/blog/what-makes-thai-food-spicy.webp"
-description: "De Thaise bird's eye chili zit vol hitte met 50.000-100.000 Scoville-eenheden. Ontdek de verschillende Thaise pepers, waarom Thais eten zo pittig smaakt en tips om de pittigheid aan te kunnen tijdens je vakantie in Thailand."
+tags: ["wat maakt Thais eten pittig", "Thaise chili", "minder pittig bestellen Thailand", "capsaïcine"]
+image: "/images/redesign/editorial/what-makes-thai-food-spicy-hero.webp"
+description: "Lees hoe chili, currypasta, gedroogde peper en dips Thaise gerechten pittig maken, waarom hitte varieert en hoe je concreet minder pittig bestelt."
 featured: false
-readingTime: 5
-lastUpdated: "2026-03-29"
+readingTime: 7
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Bird's Eye Chili - Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Bird%27s_eye_chili"
-  - name: "Thai Food Online - Thai Chillies Scoville Scale"
-    url: "https://www.thai-food-online.co.uk/blogs/thai-food-online-blog/thai-chillies-scoville-scale"
-  - name: "Chili Pepper Madness - Thai Pepper Types and Heat Levels"
-    url: "https://www.chilipeppermadness.com/chili-pepper-types/medium-hot-chili-peppers/thai-chili-peppers/"
-  - name: "Southeast Asia Backpacker - Thai Chili Guide"
-    url: "https://southeastasiabackpacker.com/thai-chili/"
+  - name: "TAT Newsroom — Thai cuisine through four regions"
+    url: "https://www.tatnews.org/2018/01/discover-thai-cuisine-famous-four-regions/"
+  - name: "eLife/PMC — TRPV1 activation by capsaicin"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5326624/"
+  - name: "Frontiers in Nutrition — chili preference review"
+    url: "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.1039207/full"
 ---
 
-## Waarom is Thais eten zo pittig?
+Thais eten wordt pittig door **capsaïcinoïden uit chilipepers**, maar de hitte kan ook uit currypasta, chilidip, geroosterde chilivlokken of een saus aan tafel komen. Niet elk Thais gerecht is pittig en hetzelfde gerecht kan per regio, kok en bestelling sterk verschillen.
 
-Het korte antwoord: **capsaïcine**, een chemische stof in pepers. Het langere verhaal draait om een boeiende variëteit aan Thaise pepers, eeuwenoude culinaire tradities en een cultuur waarin pittigheid essentieel is voor een gebalanceerde maaltijd. In Thailand worden minstens **79 verschillende soorten** pepers uit drie families gebruikt, en als je ze kent, bestel je met meer zelfvertrouwen op de Thaise menukaart.
+## Wat voel je bij chili?
 
-Voor een breder overzicht van de Thaise keuken, bekijk onze [essentiële gids voor Thaise gerechten](/blog/what-is-thai-food-cuisine-guide/). En als je een reis plant, dekt onze [gids voor eerste bezoekers aan Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/) alles van voedselveiligheid tot besteltips.
+Capsaïcine activeert de TRPV1-receptor, die betrokken is bij warmte- en pijnwaarneming. Je mond registreert daardoor een brandend gevoel zonder dat het eten letterlijk heter hoeft te zijn. Persoonlijke gewenning, concentratie en verdeling door het gerecht beïnvloeden hoe sterk je dat ervaart.
 
-## Soorten Thaise pepers
+Een exact Scoville-getal voor “Thaise chili” is weinig bruikbaar: Thailand gebruikt verschillende pepers en een gerecht bevat wisselende hoeveelheden. We geven daarom geen universele hittecijfers.
 
-Niet alle Thaise pepers zijn hetzelfde. Dit zijn de soorten die je het vaakst tegenkomt.
+## Waar zit de pittigheid in?
 
-### Prik Kee Noo (Bird's Eye Chili)
+### Verse chili
 
-De **bird's eye chili** is de iconischste Thaise peper en de schuldige aan de vurige reputatie van de Thaise keuken. De naam "prik kee noo" betekent letterlijk "muispoep-peper" – een knipoog naar het piepkleine formaat, meestal maar 2-3 centimeter lang. Laat je niet misleiden door de grootte. Deze peper bevat **50.000-100.000 Scoville Hitte-eenheden (SHU)**, wat hem zo'n 15 keer heter maakt dan een jalapeño. Hij wordt vers gebruikt in salades, soepen, roerbakgerechten en gestampt in currypasta's.
+Fijngehakte verse pepers verdelen capsaïcine direct door salade, roerbakgerecht of soep. Bij som tam kan het aantal geplette pepers een praktische bestelkeuze zijn, maar één peper is niet overal even sterk.
 
-### Prik Jinda
+### Currypasta
 
-Een middelgrote peper die het werkpaard is van de dagelijkse Thaise keuken. **Prik Jinda** is milder dan de bird's eye, met **5.000-30.000 SHU**. Hij gaat vers in roerbakgerechten, in plakjes als bijgerecht en gedroogd in currypasta's. Zowel rode als groene varianten zijn gebruikelijk, waarbij rood iets zoeter is en groen iets bitterder smaakt.
+Rode, groene en Zuid-Thaise currypasta’s kunnen veel chili bevatten. “Groen” betekent niet automatisch milder dan rood; recept en hoeveelheid zijn bepalend. De pasta bevat bovendien vaak andere ingrediënten zoals garnalenpasta, dus pittigheid en allergenen zijn afzonderlijke vragen.
 
-### Prik Chi Fa (Sky-Pointing Chili)
+### Gedroogde of geroosterde chili
 
-Een langere, mildere peper (ongeveer 5-8 cm) met **5.000-30.000 SHU**. Vaak gebruikt in rode currypasta en als decoratieve garnering. De naam betekent "peper die naar de hemel wijst" omdat hij rechtop groeit aan de plant.
+Chilivlokken en geroosterde chilipasta geven hitte en soms een rokerige, zoete of hartige laag. Ze kunnen al in het gerecht zitten of als tafelcondiment worden toegevoegd.
 
-### Prik Haeng (Gedroogde pepers)
+### Dips en tafelcondimenten
 
-Gedroogde versies van diverse Thaise pepers zijn onmisbaar voor currypasta's, chilivlokken en chili-oliën. **Prik haeng** zijn meestal zonnedroogde rode pepers met een diepere, rokerigere smaak dan verse. Ze worden geweekt en gestampt voor pasta's in rode curry, Panang-curry en Massaman-curry.
+Een milde basis kan met *nam phrik*, chili in vissaus of droge vlokken alsnog pittig worden. Proef eerst voordat je condimenten toevoegt.
 
-### Prik Noom (Noordelijke groene peper)
+## Regionale verschillen zonder clichés
 
-Een grote, milde groene peper die populair is in **Noord-Thailand**, vooral in [Chiang Mai](/city/chiang-mai/). Hij heeft een pittigheidsniveau van ongeveer **1.000-2.000 SHU** en wordt geroosterd voor **Nam Prik Noom**, een geliefde noordelijke chilidip.
+TAT beschrijft pittig, zuur, zoet en zout als terugkerende elementen, maar de verhoudingen verschillen per regio. Noordoostelijke salades kunnen direct en chili-intens zijn; Zuid-Thaise curry’s kunnen krachtig zijn; Noord-Thaise en Centraal-Thaise keukens bevatten zowel milde als hete gerechten. Vraag naar het specifieke gerecht in plaats van een hele regio als “altijd pittig” te behandelen.
 
-## Scoville-schaal: Hoe Thaise pepers zich verhouden
+## Minder pittig bestellen
 
-De **Scoville-schaal**, ontwikkeld in 1912 door apotheker Wilbur Scoville, meet de concentratie capsaïcine in pepers aan de hand van **Scoville Hitte-eenheden (SHU)**.
+Alleen “not spicy” zeggen kan onduidelijk zijn wanneer de pittigheid al in een basispasta zit. Gebruik drie concrete stappen:
 
-| Peper | Scoville Hitte-eenheden (SHU) |
-|-------|------------------------------|
-| Paprikapeper | 0 |
-| Prik Noom (Noordelijke groene) | 1.000-2.000 |
-| Jalapeño | 2.500-8.000 |
-| Prik Jinda | 5.000-30.000 |
-| Prik Chi Fa | 5.000-30.000 |
-| Cayennepeper | 30.000-50.000 |
-| **Prik Kee Noo (Bird's eye)** | **50.000-100.000** |
-| Habanero | 100.000-350.000 |
-| Carolina Reaper | 1.400.000-2.200.000 |
+1. Vraag of het gerecht zonder of met minder chili kan worden gemaakt.
+2. Spreek een hoeveelheid af wanneer losse chili wordt toegevoegd.
+3. Vraag condimenten apart en proef eerst.
 
-De bird's eye chili hoort bij de "zeer pittige" categorie – ver boven wat de meeste westerse smaken gewend zijn, maar onder de extreme superhete varianten.
+De Thaise uitdrukking *mai phet* wordt vaak gebruikt voor “niet pittig”, maar uitspraak en interpretatie variëren. Wijs zo nodig het gerecht aan en bevestig met een vertaalapp. Een nul-chili-verzoek is geen allergenen- of kruiscontactgarantie.
 
-## De wetenschap achter capsaïcine
+## Welke gerechten zijn vaak milder?
 
-**Capsaïcine** is een alkaloïde stof die pepers produceren als verdediging tegen zoogdieren. Wanneer capsaïcine de slijmvliezen in je mond raakt, bindt het zich aan **TRPV1-receptoren** – dezelfde zenuwreceptoren die echte hitte en brandwonden detecteren. Je brein interpreteert het signaal als een branderig gevoel, ook al is er geen weefselschade.
+Rijstgerechten, heldere soepen, omelet, gegrilde producten en sommige noedelgerechten kunnen mild worden geserveerd, maar saus en condimenten blijven bepalend. Bestel niet uitsluitend op een lijst: vraag de verkoper wat die keuken op dat moment zonder chili kan maken.
 
-Dit veroorzaakt een kettingreactie: je mond brandt, je neus loopt, je zweet en je lichaam geeft **endorfines** vrij – natuurlijke pijnstillers die een lichte euforie opwekken. Die endorfine-rush is waarom pittig eten verslavend kan werken en waarom vaste chili-eters tolerantie opbouwen en steeds heter eten willen.
+## Wat helpt als het te heet is?
 
-Een vuistregel: **kleinere pepers zijn vaak heter**. De capsaïcine zit geconcentreerd in het witte vruchtvlees en de zaden. Een kleine bird's eye chili heeft een hoge verhouding vruchtvlees-ten-oppervlak, waardoor hij pepers vele malen groter overtreft.
+Stop met extra chili toevoegen en neem rustig een neutraal onderdeel van de maaltijd. Onderzoek naar orale hitte laat zien dat capsaïcine niet simpelweg met water verdwijnt; zuivel kan voor sommige mensen verlichting geven, maar is niet overal beschikbaar en niet geschikt voor iedereen. Forceer jezelf niet om door te eten bij pijn of klachten.
 
-## Waarom eten Thai zo veel pittigs?
+Pittig eten is geen gezondheidswedstrijd. Heb je reflux, prikkelbare darm of een andere aandoening, volg dan je eigen medische advies.
 
-Verschillende factoren verklaren de Thaise liefde voor chili-hitte:
+## Pittigheid is niet hetzelfde als smaak
 
-- **Klimaat** – In hete, vochtige tropische gebieden bevordert pittig eten zweten, wat het lichaam afkoelt. Capsaïcine heeft ook **antimicrobiële eigenschappen** die voedsel helpen bewaren in een klimaat waar koeling historisch schaars was.
-- **Gezondheidsvoordelen** – Capsaïcine stimuleert de stofwisseling, verbetert de bloedsomloop en heeft ontstekingsremmende eigenschappen. De traditionele Thaise geneeskunde erkent al eeuwen de voordelen van pepers.
-- **Smaakbalans** – In de Thaise keuken gaat pittigheid niet om pure hitte. Het is een van de vijf smaken (naast zoet, zuur, zout en bitter) die in evenwicht moeten zijn. De pittigheid versterkt en verlevendigt de andere smaken. Lees onze [volledige gids voor Thaise keuken](/blog/what-is-thai-food-cuisine-guide/) voor een uitleg van de vijf-smakenfilosofie.
-- **Culturele traditie** – Nadat Portugese handelaren pepers in de 16e eeuw introduceerden, vervingen ze snel peperkorrels als primaire hittebron. Binnen een paar generaties was pittig eten diep verweven met de Thaise identiteit. Lees meer in onze [geschiedenis van de Thaise keuken](/blog/history-of-thai-cuisine/).
+Chili staat naast zuur, zout, zoet, aroma, textuur en umami. Minder chili vragen hoeft een gerecht niet respectloos of “onauthentiek” te maken; een goede keuze is er een die je kunt proeven en waarderen. Ontdek de bredere keuken via [eten in Thailand](/nl/food/) en vergelijk [Thaise currysoorten](/nl/blog/thai-curry-guide-green-red-yellow-massaman-panang/).
 
-## De pittigste Thaise gerechten
+## Veelgestelde vragen
 
-Wil je je grenzen testen? Dit zijn de gerechten met de meeste hitte:
+### Is al het Thaise eten pittig?
 
-1. **Gaeng Tai Pla** – Een zuidelijke Thaise curry met gefermenteerde visinnards, gedroogde pepers en een arsenaal aan aromaten. Wordt algemeen gezien als het pittigste gerecht in de Thaise keuken.
-2. **Kua Kling** – Drooggebakken gehakt uit Zuid-Thailand met een intens pittige currypasta. Geen kokosmelk om de hitte te temperen.
-3. **Som Tam Pla Ra** – De Isaan-versie van groene papajasalade met gefermenteerde vissaus en een flinke dosis bird's eye chilies. De pittigheid is vaak extreem.
-4. **Gaeng Som** – Een dunne, bouillon-gebaseerde zure curry uit het zuiden, vol bird's eye chilies en garnalenpasta.
-5. **Pad Prik King** – Roergebakken sperziebonen met rode currypasta. Bedrieglijk pittig onder zijn eenvoudige uiterlijk.
+Nee. Er zijn veel milde gerechten en veel bereidingen kunnen worden aangepast, al lukt dat niet wanneer een pittige pasta de vaste basis vormt.
 
-Voor een volledige gids over de curry's achter veel van deze gerechten, bekijk onze [Thaise currygids](/blog/thai-curry-guide-green-red-yellow-massaman-panang/). Om de pittigste regionale smaken in context te proeven, dekt onze [Bangkok streetfoodgids](/blog/bangkok-street-food-beginners/) waar je Isaan- en zuidelijke verkopers vindt in de hoofdstad.
+### Is groene curry altijd het pittigst?
 
-## Hoe koel je de brandende hitte?
+Nee. Kleur voorspelt de hitte niet betrouwbaar; peper, pasta, recept en portie bepalen het resultaat.
 
-Als de pittigheid te veel wordt, maakt het uit wat je pakt.
+### Helpt water tegen chili?
 
-- **Eet rijst** – Gewone gestoomde rijst is het meest effectieve middel aan elke Thaise tafel. Het zetmeel absorbeert capsaïcine en coat je mond fysiek.
-- **Drink melk of eet yoghurt** – Caseïne, een eiwit in zuivel, bindt zich aan capsaïcine en spoelt het weg. Daarom combineren Indiase keukens pittig eten met lassi en raita.
-- **Eet suiker of zoet fruit** – Een lepel suiker of een stukje rijpe mango kan de brand helpen tegengaan.
-- **Drink geen water** – Water verspreidt capsaïcine in je mond zonder het op te lossen, waardoor de brand erger wordt. Capsaïcine is oplosbaar in olie, niet in water.
-- **Drink geen bier** – Alcohol kan het branderige gevoel versterken. Kies voor een zoete [Thaise ijsthee](https://go2-thailand.com/drinks/thai-iced-tea/) als je iets wilt drinken.
-
-Als je in een restaurant of kraam in Thailand bestelt en de pittigheid wilt beheersen, heeft onze [bestelgids voor Thaise gerechten voor beginners](/blog/what-is-thai-food-cuisine-guide/) praktische zinnen en tips. Voor de beste plekken om pittig eten te proberen in Bangkok, zie onze [Bangkok streetfoodgids voor beginners](/blog/bangkok-street-food-beginners/) en de [beste streetfoodmarkten in Bangkok](/blog/best-street-food-markets-bangkok/).
-
-## FAQ
-
-### Kan ik in Thailand om minder pittig eten vragen?
-
-Ja. Zeg **"mai pet"** (niet pittig) of **"pet nit noi"** (een beetje pittig). De meeste koks en straatverkopers passen de hitte graag aan. Houd er rekening mee dat een Thaise kok zijn idee van "een beetje pittig" nog heter kan zijn dan wat je gewend bent. Voor meer besteltips, lees onze [gids voor eerste bezoekers aan Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/).
-
-### Houden alle Thai van pittig eten?
-
-De meesten wel, maar niet iedereen. Kinderen eten meestal milder en bouwen geleidelijk tolerantie op. Sommige Thaise gerechten – zoals **Khao Man Gai, Pad Thai** en **Tom Kha Gai** – zijn bewust mild. De centrale Thaise keuken is vaak minder pittig dan die uit Isaan en het zuiden. Bekijk onze uitsplitsing van [alle regionale Thaise keukens](/blog/what-is-thai-food-cuisine-guide/#the-four-regional-cuisines-of-thailand).
-
-### Schaadt pittig Thais eten mijn maag?
-
-Voor de meeste mensen niet. Capsaïcine veroorzaakt geen maagzweren of blijvende schade. Het kan tijdelijk ongemak geven, vooral als je niet gewend bent aan pittig eten. Begin met mildere gerechten en bouw de hitte geleidelijk op tijdens je reis. Je tolerantie groeit sneller dan je denkt.
-
-### Welke regio van Thailand heeft het pittigste eten?
-
-**Zuid-Thailand** heeft over het algemeen de pittigste keuken, gevolgd door de **Isaan (noordoostelijke)** regio. Centrale en noordelijke Thaise gerechten zijn moderater in hitte. Voor een volledige uitsplitsing van regionale verschillen, zie onze [gids voor Thaise keuken](/blog/what-is-thai-food-cuisine-guide/). Als je Thailand bezoekt en de voedselscene wilt verkennen, bevat onze [ultieme Thailand-reisroute 2026](/blog/ultimate-thailand-itinerary-2026/) eetrecommendaties per regio.
+Water verwijdert het vetoplosbare capsaïcinegevoel meestal niet goed. Neem een pauze en kies iets neutraals; zuivel helpt sommige mensen.

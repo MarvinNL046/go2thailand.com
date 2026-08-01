@@ -1,0 +1,78 @@
+import type { CityFoodGuideData } from '../types';
+
+export const buengKanCityFoodNl: CityFoodGuideData = {
+  locale: 'nl', city: 'Bueng Kan', slug: 'bueng-kan', pageUrl: 'https://go2-thailand.com/nl/city/bueng-kan/food/', updatedAt: '2026-07-30',
+  seo: { title: 'Eten in Bueng Kan: markt, Mekongvis & Isaan', description: 'Plan eten in Bueng Kan rond de ochtendmarkt, Mekong, Isaan-gerechten en lange routedagen naar Phu Tok, Phu Sing en Bueng Khong Long.' },
+  copy: {
+    formatDescription: 'In Bueng Kan bepaalt niet alleen je trek, maar vooral je route het eetmoment. Gebruik de stad voor ontbijt en avondkeuze, deel een Isaan-tafel en regel eten vóór een afgelegen natuurdag.',
+    formatIntro: 'Deze brede owner behandelt eetritme, lokale gerechten, markt en dieetnavigatie. Actuele zaaknamen, openingstijden, reviews en ranglijsten blijven bij de restaurantowner.',
+    districtEyebrow: 'Kies op tijd en afstand', districtTitle: 'Vier foodsituaties in een uitgestrekte Mekongprovincie', districtDescription: 'De markt en rivierkade van Bueng Kan-stad liggen bij elkaar. Wat Phu Tok, Phu Sing en Bueng Khong Long doen dat niet. Laat je maaltijd de route volgen.',
+    dishEyebrow: 'Wat eten in Bueng Kan', dishTitle: 'Zes richtingen voor een Isaan- en Mekongtafel', dishDescription: 'TAT noemt Thai- en Isaanfood en Mekongvis in verschillende bereidingen. De overige gerechten zijn bruikbare regionale richtingen, geen geclaimde stadsuitvindingen.', dishIntro: 'Pla ra, vissaus, gedroogde garnaal, schaaldier, pinda, soja, tarwe, ei, orgaanvlees en gedeelde vijzels of grills kunnen verborgen blijven. Vraag naar het hele gerecht en kies vlees en vis volledig bereid.',
+    dayImage: '/images/redesign/bueng-kan-route.webp', dayImageAlt: 'Rustige weg door Bueng Kan tussen Mekongstad en afgelegen natuurgebieden', dayEyebrow: 'Eerst markt, daarna de weg', dayTitle: 'Eet waar keuze is. Reis daarna verder.',
+    affiliateEyebrow: 'Ervaring of techniek', affiliateTitle: 'Controleer een Bueng Kan-optie — of oefen Isaan-techniek thuis', affiliateDescription: 'Een actuele activiteit, kookboek en vijzel lossen verschillende taken op. Controleer route, editie, maat, verkoper, actuele prijs, voorraad en levering.',
+    faqTitle: 'Veelgestelde vragen over eten in Bueng Kan',
+  },
+  hero: {
+    image: '/images/redesign/bueng-kan-food-mekong-morning-nl.webp', imageAlt: 'Volledig bereide gegrilde vis, som tam, larb en kleefrijst aan de beboste Mekong in Bueng Kan', eyebrow: 'Mekongtafel, Isaan-ritme, echte afstanden', titleLead: 'Eten in Bueng Kan,', titleAccent: 'vóór de lange weg begint.', subtitle: 'Van vroege markt naar rustige rivieravond.', description: 'Start met een hete kom of rijstbord, deel daarna volledig bereide vis en Isaan-gerechten en leg eten vast voordat Phu Tok, Phu Sing of Bueng Khong Long je ver van de stad brengt.', sideEyebrow: 'De bruikbare volgorde', sideTitle: 'Markt. Tafel. Roadmeal.', sideDescription: 'Drie beslissingen die meer helpen dan een gekopieerde restaurant-top tien.',
+  },
+  formats: [
+    { title: 'Vroeg marktontbijt', label: 'Beste start in de stad', fit: 'Een hete soep, rijstbord, ei of vers bereid wokgerecht geeft je ontbijt terwijl de werkmarkt draait.', tradeoff: 'Stallen en tijden veranderen. Kies zichtbare omloop en behandel geen oude venue of prijs als permanent.', icon: 'sun' },
+    { title: 'Gedeelde Isaan-tafel', label: 'Beste regionale kennismaking', fit: 'Combineer kleefrijst met volledig bereide larb of grill, som tam en groente zodat hitte en porties over tafel verdeeld worden.', tradeoff: 'Som tam kan pla ra, garnaal en pinda bevatten; larb kan rauw zijn of orgaanvlees bevatten. Spreek ingrediënten en garing af.', icon: 'restaurant' },
+    { title: 'Mekongmarkt wanneer bevestigd', label: 'Beste sociale avond', fit: 'Een actuele walking-marketlaag kan spiesen, worst, gebakken eten, fruit en zoet in één avond samenbrengen.', tradeoff: 'Een historisch weekschema is geen live agenda. Verifieer dag, locatie, weer en status voordat dit je enige dinerplan wordt.', icon: 'market' },
+    { title: 'Vooraf geregelde roadmeal', label: 'Beste buiten de hoofdstad', fit: 'Ontbijt, geschikt meeneemeten of een afgesproken lodgemaaltijd beschermt een afgelegen natuurdag tegen een niet-bestaande foodstop.', tradeoff: 'Controleer toegestane voeding, water, afval, opslag, dieetwensen en terugrit. Laat niets achter en voer geen dieren.', icon: 'clock' },
+  ],
+  districts: [
+    { name: 'Ochtendmarkt van Bueng Kan', signal: 'Werkontbijt en ingrediënten', description: 'De stadsmarkt is vroeg het nuttigst voor fruit, bereide gerechten en een hete start vóór vervoer.', timing: 'Vroeg, met actuele activiteitscheck', routeNote: 'Kies een drukke bereid-op-bestellingplek, let op rauw-versus-gaar en vraag vóór fotografie.', image: '/images/redesign/bueng-kan-food.webp', imageAlt: 'Isaan- en Mekonggerechten op een gedeelde Bueng Kan-tafel', href: '/city/bueng-kan/' },
+    { name: 'Mekongkade en actuele avondmarkt', signal: 'Avondkeuze wanneer actief', description: 'De rivierzijde geeft de hoofdstad haar eenvoudigste dinerlogica en soms een grotere streetfoodlaag.', timing: 'Controleer het evenement vandaag', routeNote: 'Bevestig exact deel, eindtijd en weer. Een oud schema bewijst geen actuele markt.', image: '/images/redesign/bueng-kan-mekong-town.webp', imageAlt: 'Mekongkade en laag stadsbeeld van Bueng Kan', href: '/city/bueng-kan/' },
+    { name: 'Centrale straten en buszijde', signal: 'Eenvoudige bereid-op-bestellingfallback', description: 'Rijst, noedels en wokgerechten zijn hier praktischer dan door de provincie rijden voor een beroemde naam.', timing: 'Rond aankomst of vertrek', routeNote: 'Pins, spelling en labels wisselen. Match locatie en actieve keuken, niet een gekopieerde ranking.', image: '/images/redesign/bueng-kan-friendship-bridge.webp', imageAlt: 'Weg- en Mekongcontext bij Bueng Kan-stad', href: '/city/bueng-kan/' },
+    { name: 'Buitendistricten en Bueng Khong Long', signal: 'Eten gekoppeld aan route of verblijf', description: 'Bij afgelegen natuurstops kan een lodgemaaltijd, vroege keuken of eten uit het laatste servicecentrum de helderste keuze zijn.', timing: 'Vóór de lange rit bevestigen', routeNote: 'Ga er niet van uit dat attractie, resort en restaurant samen liggen. Spreek maaltijd, water en retour af.', image: '/images/redesign/bueng-kan-naka-cave.webp', imageAlt: 'Groen binnenland bij Bueng Khong Long in Bueng Kan', href: '/best-hotels/bueng-kan/' },
+  ],
+  dishes: [
+    { title: 'Som tam', thai: 'Groene-papajasalade', description: 'Vers gestampte papaja brengt crunch, zuur en regelbare hitte bij kleefrijst en grill.', orderNote: 'Controleer chili, pla ra, vissaus, garnaal, krab, pinda en gedeelde vijzel.', href: '/food/som-tam/', image: '/images/redesign/som-tam-dish-hero.webp', imageAlt: 'Groene-papajasalade met limoen, chili en apart geserveerde pinda' },
+    { title: 'Volledig bereide larb', thai: 'Kruidensalade met geroosterde rijst', description: 'Gaar varken, kip, eend of vis kan met limoen, kruiden, chili en rijstpoeder een gedeeld Isaan-gerecht vormen.', orderNote: 'Vraag volledig gaar; controleer orgaanvlees, bloed, vissaus, rijstpoeder en rauw-gaarcontact.', href: '/food/larb/', image: '/images/redesign/larb-isaan-table-hero.webp', imageAlt: 'Volledig bereide Isaan-larb met kruiden en groente' },
+    { title: 'Pla pao', thai: 'Vis in zoutkorst van de grill', description: 'Een hele gegrilde vis past bij de Mekongtafel zolang soort, garing en prijsbasis vragen blijven.', orderNote: 'Vraag welke vis, controleer volledige garing en bespreek graten, sauzen, pinda, soja en tarwe.', href: '/food/pla-pao/', image: '/images/redesign/pla-pao-salt-crusted-grilled-fish-hero.webp', imageAlt: 'Volledig gegrilde vis in zoutkorst met kruiden en groente' },
+    { title: 'Pad kra pao', thai: 'Wokgerecht met heilige basilicum', description: 'Een heet bereid rijstbord is handig rond vervoer wanneer een gedeelde tafel niet past.', orderNote: 'Controleer vlees of tofu, vis- en oestersaus, soja, tarwe, ei, chili en gedeelde wok.', href: '/food/pad-krapow/', image: '/images/redesign/pad-kra-pao-bangkok-hero.webp', imageAlt: 'Thais basilicumwokgerecht met rijst en gebakken ei' },
+    { title: 'Khao pad', thai: 'Thaise gebakken rijst', description: 'Vers gebakken rijst werkt als rustige lunch of meeneemrichting vóór een lange provincierit.', orderNote: 'Controleer eiwit, ei, vissaus, soja, tarwe, schaaldier, opslag en hete bereiding.', href: '/food/thai-fried-rice/', image: '/images/redesign/thai-fried-rice-khao-pad-hero.webp', imageAlt: 'Thaise gebakken rijst met ei, groente en limoen' },
+    { title: 'Mango sticky rice', thai: 'Mango, kokos en kleefrijst', description: 'Bij rijpe mango en een vers samengestelde portie kan dit bekende zoet een marktavond afsluiten.', orderNote: 'Controleer kokos, eventuele zuivel, sesam of mungboon, handling en bewaartijd.', href: '/food/mango-sticky-rice/', image: '/images/redesign/mango-sticky-rice-dish-hero.webp', imageAlt: 'Mango sticky rice met kokossaus en krokante topping' },
+  ],
+  dayPlan: [
+    { time: '07:00', title: 'Gebruik de werkmarkt', description: 'Kies een vers bereid ontbijt, koop alleen geschikt afgesloten roadfood en bevestig je vervoer.', icon: 'sun' },
+    { time: '11:30', title: 'Eet vóór het afgelegen deel', description: 'Gebruik voor Phu Sing, Wat Phu Tok of Bueng Khong Long de laatste betrouwbare stad, lodge of afgesproken keuken.', icon: 'clock' },
+    { time: '17:30', title: 'Keer terug naar de juiste basis', description: 'Eindig een noorddag in Bueng Kan-stad of een zuiddag bij Bueng Khong Long zonder vermoeide provinciebrede dinerrit.', icon: 'restaurant' },
+    { time: '18:30', title: 'Loop alleen langs de rivier als het past', description: 'Gebruik rivierkade of bevestigde markt en bewaar een gewone bereid-op-bestellingfallback bij regen of afwezig evenement.', icon: 'moon' },
+  ],
+  practicalChecks: [
+    { title: 'Kies gaar en met omloop', description: 'Let op netheid, rauw-gaar-scheiding, volledige garing, temperatuur, afgedekte ingrediënten en veilig water of ijs.', icon: 'shield' },
+    { title: 'Vertaal de echte beperking', description: 'Noem ieder allergeen of uitgesloten ingrediënt en vraag naar saus, stock, pla ra en kruiscontact.', icon: 'utensils' },
+    { title: 'Verifieer de markt vandaag', description: 'Weekschema, plek, prijs en verkoper veranderen. Controleer lokaal vóór een speciale rit.', icon: 'market' },
+    { title: 'Pak de route, niet het natuurpad', description: 'Neem water en alleen toegestaan afgesloten eten mee, bescherm tegen hitte en dieren en neem elk restje terug.', icon: 'shopping' },
+  ],
+  phrases: [
+    { phrase: 'Ao suk suk', meaning: 'Graag volledig gaar', note: 'Gebruik voor vlees, ei of vis en controleer daarna ook het midden.' },
+    { phrase: 'Mai sai pla ra', meaning: 'Geen gefermenteerde vis', note: 'Vraag ook apart naar vissaus, garnaal, krab, stock en gedeelde vijzel.' },
+    { phrase: 'Mai phet', meaning: 'Niet pittig', note: 'Een voorkeur, geen bewijs dat vooraf gemaakte pasta of dressing chilivrij is.' },
+    { phrase: 'Ao an-nee', meaning: 'Ik wil graag deze', note: 'Wijs het exacte gare item aan en bevestig portie, saus en dieetdetails.' },
+  ],
+  affiliate: { klookSubId: 'nl-bueng-kan-city-food-owner', products: [
+    { title: 'Thais kookboek', description: 'Voor geteste Isaan-salade-, grill- en tafeltechniek. Controleer editie, inhoud, verkoper en actuele prijs.', amazonSlug: 'simple-thai-food-cookbook', icon: 'chef' },
+    { title: 'Granieten vijzel', description: 'Relevant voor som tam, jaew en currypasta. Controleer binnenmaat, gewicht, verkoper, actuele prijs en levering.', amazonSlug: 'thai-granite-mortar-eight-inch', icon: 'bowl' },
+  ] },
+  faqs: [
+    { question: 'Kan je overal eten in Thailand?', answer: 'Niet iedere route heeft dezelfde keuze. Bueng Kan-stad biedt markt en gewone keukens; bij Phu Tok, Phu Sing en Bueng Khong Long moet je eten, water en een terugvaloptie vooraf bevestigen.' },
+    { question: 'Wat zijn de eettijden in Thailand?', answer: 'Er is geen verplicht nationaal ritme. Ochtendmarkt, lunchkeuken, avondrestaurant en walking market hebben eigen tijden. Controleer dezelfde dag en behandel een historisch weekschema niet als garantie.' },
+    { question: 'Hoe kom ik in Bueng Kan?', answer: 'Bueng Kan bereik je over land per bus, auto of vooraf geregeld vervoer vanuit een regionale toegangspoort. Gebruik destination- en transportowners voor de actuele route; eet of verzamel geschikt eten vóór afgelegen ritten.' },
+    { question: 'Hoe duur is het eten in Thailand?', answer: 'Dat wisselt per plaats, portie, ingrediënt en datum. Deze owner bewaart geen vaste prijs. Lees het actuele menu en bevestig totaal en prijsbasis, vooral bij vis per gewicht of gedeelde sets.' },
+  ],
+  sources: [
+    { title: 'Bueng Kan', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Destinations/Provinces/Bueng-Kan/590', note: 'Primaire provinciecontext voor Thai- en Isaanfood, Mekongvis en meerdere visbereidingen; elk marktschema vereist een actuele lokale check.' },
+    { title: 'Five keys to safer food', creator: 'World Health Organization', url: 'https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food', note: 'Primair raamwerk voor schoon, scheiding, garing, temperatuur en veilig water of ingrediënten.' },
+    { title: 'Five keys for safer traditional food markets', creator: 'World Health Organization, Western Pacific', url: 'https://www.who.int/publications/i/item/9789290619956', note: 'Primair marktraamwerk voor netheid, besmetting, producten, diercontact en persoonlijke bescherming.' },
+    { title: 'Naka Cave Green Season 2026', creator: 'Department of National Parks, Wildlife and Plant Conservation', url: 'https://news.dnp.go.th/news/45582', note: 'Primaire aanwijzing dat afgelegen natuurtoegang seizoensgebonden en gereguleerd kan zijn; toekomstige status en voedselregels vragen een nieuwe live check.' },
+  ],
+  related: [
+    { title: 'Bueng Kan-overzicht', description: 'Plaats de Mekongstad, Phu Sing, Wat Phu Tok en Bueng Khong Long in één realistische provincieroute.', href: '/city/bueng-kan/', image: '/images/redesign/bueng-kan-hero.webp', imageAlt: 'Hin Sam Wan boven het beboste landschap van Bueng Kan' },
+    { title: 'Bezienswaardigheden in Bueng Kan', description: 'Scheid noordelijke en zuidelijke natuurstops voordat je maaltijd en vervoer vastlegt.', href: '/city/bueng-kan/attractions/', image: '/images/redesign/bueng-kan-route.webp', imageAlt: 'Route door het groene binnenland van Bueng Kan' },
+    { title: 'Waar verblijven in Bueng Kan?', description: 'Kies de hoofdstad voor eetvrijheid of een zuidelijke basis voor Bueng Khong Long en controleer de actuele prijs.', href: '/best-hotels/bueng-kan/', image: '/images/redesign/bueng-kan-mekong-town.webp', imageAlt: 'Mekongkade als praktische verblijfsbasis in Bueng Kan' },
+  ],
+  researchSummary: 'Gebouwd op creditzuinige hybride research met één Nederlandse DFS-cluster van één keywordrecord zonder competitor-domains, één actuele Nederlandse DFS-SERP met tien organische resultaten maar zonder DFS-PAA, vier echte zichtbare Nederlandse Google-PAA-vragen via Browser, drie exacte rankingchecks en primaire TAT-, WHO- en DNP-herbeoordeling. Alle drie owners hebben nul gevonden rankings. Restaurant-, local-pack-, named-venue- en algemene Thailandruis is uitgesloten. Twee contextuele Amazon OneLink-producten gebruiken actuele-prijstaal; geen vaste venue-ranking, marktplanning, prijs, vissoort, vangst-, versheids-, dieet- of veiligheidsgarantie is toegevoegd.',
+};

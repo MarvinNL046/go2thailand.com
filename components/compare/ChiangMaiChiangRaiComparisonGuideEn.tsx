@@ -1,0 +1,157 @@
+import {
+  BedDouble,
+  BusFront,
+  Camera,
+  Coffee,
+  Compass,
+  Hotel,
+  Map,
+  MoonStar,
+  Palette,
+  Route,
+  Sparkles,
+  Trees,
+  Utensils,
+} from 'lucide-react';
+import { CityComparisonGuideTemplate, type CityComparisonGuideData } from './CityComparisonGuideTemplate';
+import {
+  KLOOK_GENERIC,
+  TRIP_GENERIC,
+  TWELVEGO_GENERIC,
+  cityAffiliates,
+  withPlacementSubId,
+} from '../../lib/affiliates';
+
+const PAGE_URL = 'https://go2-thailand.com/blog/chiang-rai-vs-chiang-mai-for-tourists/';
+const UPDATED_AT = '2026-07-28';
+
+const chiangMai = cityAffiliates['chiang-mai'];
+const chiangRai = cityAffiliates['chiang-rai'];
+
+const data: CityComparisonGuideData = {
+  pageUrl: PAGE_URL,
+  updatedAt: UPDATED_AT,
+  title: 'Chiang Mai or Chiang Rai? An Honest Northern Thailand Comparison',
+  description: 'Choose Chiang Mai or Chiang Rai by trip style, nights and trade-offs. Compare food, art, temples, pace, transport and whether a day trip is worth it.',
+  heroImage: '/images/redesign/chiang-mai-chiang-rai-comparison-hero.webp',
+  heroAlt: 'Split view of Chiang Mai old-city life and Chiang Rai contemporary temple architecture',
+  heroEyebrow: 'One northern trip · two very different jobs',
+  heroTitle: <>Chiang Mai <span className="text-saffron-light">or</span><br />Chiang Rai?</>,
+  heroSubtitle: 'Choose the rhythm before you divide the nights.',
+  heroDescription: 'Chiang Mai is the broader first base; Chiang Rai is the more focused art-and-landscape chapter. This comparison turns that shorthand into a route you can actually use.',
+  cityA: 'Chiang Mai',
+  cityB: 'Chiang Rai',
+  cityAImage: '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp',
+  cityAAlt: 'Old-city temple and everyday street life in Chiang Mai',
+  cityBImage: '/images/redesign/chiang-rai-destination-hero.webp',
+  cityBAlt: 'Contemporary temple architecture and mountain landscape in Chiang Rai',
+  cityAMood: 'A larger, layered city where old-town temples, west-side cafés, markets, craft and mountain days can support a longer first stay.',
+  cityBMood: 'A compact city with a distinct contemporary-art circuit and a much larger province that rewards one deliberately chosen road day.',
+  navItems: [
+    { href: '#verdict', label: 'Verdict', icon: Compass },
+    { href: '#priorities', label: 'Your fit', icon: Sparkles },
+    { href: '#compare', label: 'Compare', icon: Map },
+    { href: '#days', label: 'Night split', icon: BedDouble },
+    { href: '#timing', label: 'Timing', icon: Trees },
+    { href: '#book', label: 'Check options', icon: Route },
+    { href: '#questions', label: 'Questions', icon: Coffee },
+  ],
+  verdictTitle: <>The better city depends on the <span className="text-saffron-dark">job</span>.</>,
+  verdictDescription: 'For a first northern stay, Chiang Mai normally gives more flexibility. Chiang Rai becomes the stronger choice when contemporary art, a quieter pace or one far-northern provincial route is the reason for travelling.',
+  verdictCards: [
+    { label: 'First northern stay', winner: 'Chiang Mai', icon: Compass },
+    { label: 'Contemporary art', winner: 'Chiang Rai', icon: Palette },
+    { label: 'Food & café depth', winner: 'Chiang Mai', icon: Utensils },
+    { label: 'Quieter city rhythm', winner: 'Chiang Rai', icon: Trees },
+  ],
+  editorialRule: 'Choose Chiang Mai when you need one adaptable base with neighbourhood choice, deeper food coverage and several different day-trip shapes. Add or choose Chiang Rai when its contemporary landmarks and one focused provincial route are central—not merely because a highlights tour can reach them.',
+  priorities: [
+    { key: 'first-trip', label: 'Easy first trip', description: 'A forgiving base with broad transport, food and day-plan choice.', cityAScore: 2, cityBScore: 0, icon: Compass },
+    { key: 'modern-art', label: 'Modern art', description: 'Wat Rong Khun, Baan Dam and Chiang Rai’s contemporary creative identity.', cityAScore: 0, cityBScore: 2, icon: Palette },
+    { key: 'food-cafes', label: 'Food & cafés', description: 'More neighbourhoods and more chances to build the day around eating.', cityAScore: 2, cityBScore: 0, icon: Coffee },
+    { key: 'quiet-pace', label: 'Quieter pace', description: 'A compact evening layer and fewer competing city districts.', cityAScore: 0, cityBScore: 2, icon: Trees },
+    { key: 'evenings', label: 'Evening choice', description: 'Markets, dining areas, cafés and bars across several city zones.', cityAScore: 2, cityBScore: 0, icon: MoonStar },
+    { key: 'province', label: 'Far-north route', description: 'One mountain, tea, history or Mekong-border geography beyond the city.', cityAScore: 0, cityBScore: 2, icon: Route },
+  ],
+  comparisonRows: [
+    { factor: 'Trip role', cityA: 'A broad first base and a destination that can absorb extra nights.', cityB: 'A focused second chapter or a deliberate slower standalone stay.', cue: 'Start with route purpose' },
+    { factor: 'Daily scale', cityA: 'Old City, west side, riverside and mountain corridor create several distinct day shapes.', cityB: 'The centre is compact; the main art sites and provincial routes sit beyond it.', cue: 'Cluster each day' },
+    { factor: 'Temples & art', cityA: 'Living Lanna heritage and active monasteries reward a small, respectful walking sequence.', cityB: 'Active temples, contemporary projects and an art estate need their identities kept distinct.', cue: 'Depth vs contrast' },
+    { factor: 'Food & cafés', cityA: 'Greater neighbourhood depth, market choice and Northern food coverage.', cityB: 'A smaller city scene plus tea, coffee and food routes tied to the wider province.', cue: 'Breadth vs calm' },
+    { factor: 'Outer days', cityA: 'Mountain, craft, nature, cooking or welfare-led wildlife experiences compete for time.', cityB: 'Choose one northern geography rather than stacking Doi Tung, Mae Salong and the Golden Triangle.', cue: 'One deep day' },
+    { factor: 'Evenings', cityA: 'More zones and formats, with the exact market depending on the day.', cityB: 'A compact city-centre evening with the night bazaar and a slower rhythm.', cue: 'Energy matters' },
+    { factor: 'Connections', cityA: 'Broader rail, air and road options make it a practical northern gateway.', cityB: 'Road and air links work, but current schedules should shape the onward route.', cue: 'Check live inventory' },
+    { factor: 'Stay style', cityA: 'More meaningful neighbourhood choice and a wider hotel spectrum.', cityB: 'The city centre is the simplest independent base; outer resorts change transfer needs.', cue: 'Choose the address' },
+  ],
+  stayPlans: [
+    { nights: 4, label: '4 nights', cityA: '4 nights', cityB: '0 nights', summary: 'For a short first northern stay, protect one base. Use Chiang Mai’s city layers and one outer day instead of losing energy to another hotel move.' },
+    { nights: 5, label: '5 nights', cityA: '3 nights', cityB: '2 nights', summary: 'This is the lean combined version: Chiang Mai gets an orientation and one deeper day; Chiang Rai gets a city evening and a focused art circuit.' },
+    { nights: 7, label: '7 nights', cityA: '4 nights', cityB: '3 nights', summary: 'The most balanced first combination. Each city keeps a clear role, while Chiang Rai gains space for one provincial route instead of becoming a rushed photo stop.' },
+    { nights: 9, label: '9 nights', cityA: '5 nights', cityB: '4 nights', summary: 'Use the extra nights as weather and energy buffers. Add depth inside each region rather than filling every day with a distant excursion.' },
+  ],
+  dayTripTitle: 'Possible does not mean well balanced.',
+  dayTripDescription: 'A Chiang Rai day trip from Chiang Mai can show selected landmarks, but the road occupies much of the day and the city itself becomes background. An overnight is often the better trade when Chiang Rai matters to you.',
+  dayTripChecks: [
+    'Read the exact stop list: “Chiang Rai” can mean only selected landmarks outside the centre.',
+    'Compare total road time, pickup zone, group size and time at each stop before booking.',
+    'Do not add the Golden Triangle simply because it appears on a long highlights list.',
+    'If art and the city evening matter, protect at least one night rather than compressing both.',
+  ],
+  timingTitle: <>The same season does not create the same <span className="text-saffron-dark">day</span>.</>,
+  timingDescription: 'Both cities share northern weather patterns, but visibility, rain, heat and air quality change the value of mountain and road days. Check live conditions instead of treating a stored month as a guarantee.',
+  timingRows: [
+    { period: 'Nov–Jan', cityA: 'Popular for outdoor city and mountain days; demand can be higher.', cityB: 'Often attractive for art and provincial routes; cool mornings vary by location.', cue: 'Reserve, then recheck', highlight: true },
+    { period: 'Feb–Apr', cityA: 'Heat and regional haze can affect comfort, visibility and outdoor plans.', cityB: 'The same live air-quality check matters before art and mountain road days.', cue: 'Keep a fallback' },
+    { period: 'May–Oct', cityA: 'Greener landscapes and showers make flexible sequencing useful.', cityB: 'Rain can change visibility, road conditions and the best provincial choice.', cue: 'Use the forecast' },
+    { period: 'Any month', cityA: 'Check TMD weather and Air4Thai before a mountain-led day.', cityB: 'Check weather, visibility, access and return conditions before leaving the city.', cue: 'Live data wins' },
+  ],
+  routeTitle: 'Give each stop one clear job',
+  routeDescription: 'The strongest combined route is linear: build depth in Chiang Mai, transfer once, then let Chiang Rai’s city, art and one outer geography form a separate chapter.',
+  routeStops: [
+    { label: 'Base 01', title: 'Chiang Mai layers', text: 'Old City orientation, one west-or-mountain block and one deeper experience.' },
+    { label: 'Move 02', title: 'Intercity transfer', text: 'Compare current departure point, luggage rules, arrival point and cancellation terms.' },
+    { label: 'Base 03', title: 'Chiang Rai art', text: 'Use the city centre as an evening base and build one coherent art circuit.' },
+    { label: 'Branch 04', title: 'One outer story', text: 'Choose mountain culture, landscape or border history from current conditions and interest.' },
+  ],
+  routeHref: withPlacementSubId(chiangMai?.twelveGo || TWELVEGO_GENERIC, 'en-chiang-mai-chiang-rai', 'intercity-transport'),
+  routeCta: 'Check current transport',
+  bookingCards: [
+    { title: 'Stay in Chiang Mai', copy: 'Compare current Trip.com hotel results by exact neighbourhood, dates and cancellation terms.', href: withPlacementSubId(TRIP_GENERIC, 'en-chiang-mai-chiang-rai', 'chiang-mai-hotels'), icon: Hotel },
+    { title: 'Stay in Chiang Rai', copy: 'Check the precise address and transfer needs before choosing a city or outer-province property.', href: withPlacementSubId(TRIP_GENERIC, 'en-chiang-mai-chiang-rai', 'chiang-rai-hotels'), icon: BedDouble },
+    { title: 'Chiang Rai experiences', copy: 'Compare current Klook routes by stops, pickup zone, operator, group size and inclusions.', href: withPlacementSubId(chiangRai?.klook || KLOOK_GENERIC, 'en-chiang-mai-chiang-rai', 'chiang-rai-experiences'), icon: Camera },
+    { title: 'Move between cities', copy: 'Check live 12Go departures, terminals, luggage conditions and the actual arrival point.', href: withPlacementSubId(chiangRai?.twelveGo || TWELVEGO_GENERIC, 'en-chiang-mai-chiang-rai', 'current-transport'), icon: BusFront },
+  ],
+  faqs: [
+    { question: "What's better, Chiang Rai or Chiang Mai?", answer: 'Chiang Mai is normally the stronger first northern base because it offers more neighbourhood, food, transport and day-plan choice. Chiang Rai is the stronger focused choice for contemporary art, a quieter city rhythm and one deliberate far-northern provincial route. Better depends on the job your trip needs the city to do.' },
+    { question: 'Should I stay in Chiang Mai or Chiang Rai?', answer: 'Stay in Chiang Mai if you want one adaptable base or have only a few nights on a first trip. Stay in Chiang Rai if its art circuit and a selected provincial day are priorities. With roughly five or more protected northern nights, combining both becomes more workable.' },
+    { question: 'Is Chiang Rai worth going?', answer: 'Yes when you treat it as more than a White Temple photo stop. A city evening, a coherent contemporary-art circuit and one chosen provincial route give Chiang Rai a distinct role that Chiang Mai does not replace.' },
+    { question: 'What is special about Chiang Rai?', answer: 'Chiang Rai combines a compact city with major contemporary projects such as Wat Rong Khun and Baan Dam, active temples such as Wat Rong Suea Ten, and a province stretching into mountain, tea and Mekong-border landscapes. Those are separate layers, not one quick checklist.' },
+    { question: 'How many days in Chiang Rai is enough?', answer: 'Two nights can cover a city evening and one focused art day. Three nights create room for one deliberately chosen provincial route. Weather, transport and your onward journey matter more than a universal number.' },
+    { question: 'What is the difference between Chiang Mai and Chiang Rai?', answer: 'Chiang Mai is a larger, more layered base with broader food, neighbourhood and transport choice. Chiang Rai feels more compact in the city, while its headline art sites and wider province require planned transport. They share northern context but serve different trip roles.' },
+    { question: 'Should I spend more time in Chiang Mai or Chiang Rai?', answer: 'Most first-time combined routes give Chiang Mai more nights because it has more distinct city layers and day-trip shapes. Give Chiang Rai enough time for at least a city evening and art circuit; add another night if one outer-province route matters.' },
+    { question: 'Can you do Chiang Rai as a day trip?', answer: 'Yes, organised day trips operate from Chiang Mai, but they involve substantial road time and usually prioritise selected landmarks over Chiang Rai city. Compare the exact itinerary; an overnight is often the better choice when Chiang Rai is a real priority.' },
+    { question: 'Are Chiang Mai and Chiang Rai close to each other?', answer: 'They are connected by road, but not close enough to treat as neighbouring city districts. Current traffic, departure point, vehicle and stops affect the journey, so check a live provider before fixing same-day plans.' },
+    { question: "What's the best way to get from Chiang Mai to Chiang Rai?", answer: 'A current intercity bus or minivan is the usual independent comparison; a private transfer may fit groups or door-to-door needs. Compare terminals, luggage, cancellation terms and arrival point rather than relying on a stored duration or fare.' },
+  ],
+  faqDescription: 'These are genuine English People Also Ask questions found in the researched UK travel SERPs. Golden Triangle crime, drugs, India and unrelated generic-Thailand questions were excluded from this city-choice owner.',
+  related: [
+    { title: 'Plan Chiang Mai', description: 'Build an Old City, west-side and mountain route without crossing the city all day.', href: '/city/chiang-mai/', image: '/images/cities/chiang-mai/redesign/chiang-mai-destination-hero.webp', imageAlt: 'Chiang Mai old city and mountain route' },
+    { title: 'Plan Chiang Rai', description: 'Separate the compact city, art circuit and one northern provincial story.', href: '/city/chiang-rai/', image: '/images/redesign/chiang-rai-destination-hero.webp', imageAlt: 'Chiang Rai contemporary temple and mountain landscape' },
+    { title: 'Take the sleeper train north', description: 'Compare the Bangkok–Chiang Mai overnight rail route before adding Chiang Rai.', href: '/blog/bangkok-chiang-mai-sleeper-train-guide-2026/', image: '/images/redesign/bangkok-chiang-mai-sleeper-train-hero-v2.webp', imageAlt: 'Overnight sleeper train between Bangkok and Chiang Mai' },
+  ],
+  sources: [
+    { title: 'Chiang Mai destination overview', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101', note: 'Primary destination context for Chiang Mai places and trip layers.' },
+    { title: 'Chiang Rai destination overview', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Destinations/Provinces/Chiang-Rai/102', note: 'Primary destination context for Chiang Rai places and provincial geography.' },
+    { title: 'Chiang Mai current weather', creator: 'Thai Meteorological Department', url: 'https://www.tmd.go.th/en/weather/province/chiang-mai', note: 'Live official weather and forecast control; no stored month guarantees conditions.' },
+    { title: 'Air4Thai', creator: 'Pollution Control Department', url: 'https://air4thai.pcd.go.th/', note: 'Official live air-quality control used instead of a fixed seasonal AQI claim.' },
+    { title: 'Chiang Mai vs Chiang Rai', creator: 'Temple Seeker', url: 'https://www.templeseeker.com/chiang-mai-vs-chiang-rai/', note: 'Full competitor parse used to map comparison factors and omissions.' },
+    { title: 'Is Chiang Mai or Chiang Rai better for you?', creator: 'Thailand Starts Here', url: 'https://thailandstartshere.com/2025/05/17/chiang-mai-or-chiang-rai/', note: 'Full competitor parse used for intent and route framing.' },
+    { title: 'Northern Thailand guide', creator: 'Kuoni', url: 'https://www.kuoni.co.uk/inspiration/northern-thailand-a-guide-to-chiang-mai-and-chiang-rai/', note: 'Full competitor parse used for UK-market comparison coverage.' },
+    { title: 'Chiang Mai vs Chiang Rai: which city fits your style?', creator: 'Across Every Border', url: 'https://acrosseveryborder.com/chiang-mai-vs-chiang-rai/', note: 'Full competitor parse used for traveller-priority coverage.' },
+  ],
+  methodDescription: 'Updated 28 July 2026 after four DataForSEO clusters with 44 raw and 40 unique relevant records, ten current UK-English SERPs with 76 organic results, 56 People Also Ask records and 35 unique genuine questions, four usable full competitor parses, two primary TAT captures, plus exact owner ranking and backlink checks. Four existing ranking terms are preserved; no reportable backlink summary signal was returned. Golden Triangle drugs, crime and India intent was excluded. Fixed prices, USD conversions, universal travel times, ethnic stereotypes, attraction counts and guaranteed AQI or weather claims from the legacy article were removed.',
+};
+
+export default function ChiangMaiChiangRaiComparisonGuideEn() {
+  return <CityComparisonGuideTemplate data={data} />;
+}

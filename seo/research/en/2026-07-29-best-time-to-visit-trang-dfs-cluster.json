@@ -1,0 +1,88 @@
+{
+  "captured_at": "2026-07-29T01:45:40.852Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best time to visit trang",
+  "costs": {
+    "suggestions": 0.01272,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "best time to visit trang",
+    "best time to visit nha trang",
+    "best time to visit nha trang vietnam",
+    "nha trang best time to visit",
+    "nha trang vietnam best time to visit",
+    "best time to visit trang an"
+  ],
+  "keywords": [
+    {
+      "keyword": "best time to visit nha trang",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit nha trang vietnam",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nha trang best time to visit",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nha trang vietnam best time to visit",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit trang an",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit trang",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

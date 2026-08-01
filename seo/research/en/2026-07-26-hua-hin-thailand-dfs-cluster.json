@@ -1,0 +1,2872 @@
+{
+  "captured_at": "2026-07-26T21:35:18.043Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "hua hin thailand",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.02196,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "hua hin thailand",
+    "hua hin district thailand",
+    "hua hin in thailand",
+    "thailand hua hin",
+    "hua hin beach",
+    "hua hin beach in thailand",
+    "hua hin beach prachuap khiri khan thailand",
+    "hua hin beach thailand",
+    "hua hin beaches thailand",
+    "hua hin thailand beach",
+    "thailand hua hin beach",
+    "hotel hua hin thailand",
+    "hotel thailand hua hin",
+    "hotels hua hin thailand",
+    "hotels in hua hin thailand",
+    "hotels in thailand hua hin",
+    "hua hin district thailand hotels",
+    "hua hin hotels thailand",
+    "hua hin thailand hotels"
+  ],
+  "keywords": [
+    {
+      "keyword": "hua hin district thailand",
+      "volume": 12100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin in thailand",
+      "volume": 12100,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand",
+      "volume": 3600,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin",
+      "volume": 3600,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin beach",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin beach in thailand",
+      "volume": 2400,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin beach prachuap khiri khan thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin beach thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin beaches thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand beach",
+      "volume": 2400,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin beach",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel hua hin thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel thailand hua hin",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels hua hin thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in hua hin thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in thailand hua hin",
+      "volume": 1600,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin district thailand hotels",
+      "volume": 1600,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin hotel thailand",
+      "volume": 1600,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin hotels thailand",
+      "volume": 1600,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand hotel",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand hotels",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand weather",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand hotels hua hin",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin hotels",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin weather",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather hua hin",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather hua hin district prachuap khiri khan thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather hua hin thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in hua hin thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "anantara hotel hua hin thailand",
+      "volume": 1300,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin",
+      "volume": 1300,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin resort thailand",
+      "volume": 1300,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "anantara thailand hua hin",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand anantara",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara grand hua hin thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand from bangkok",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "attractions in hua hin thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiva som resort hua hin thailand",
+      "volume": 720,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiva-som hua hin thailand",
+      "volume": 720,
+      "kd": 4,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin prachuap khiri khan thailand",
+      "volume": 720,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand attractions",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand property for sale",
+      "volume": 720,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand-property for sale",
+      "volume": 720,
+      "kd": 9,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hyatt regency hua hin",
+      "volume": 720,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "properties for sale in hua hin thailand",
+      "volume": 720,
+      "kd": 9,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property for sale in hua hin thailand",
+      "volume": 720,
+      "kd": 8,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property for sale in thailand hua hin",
+      "volume": 720,
+      "kd": 8,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property for sale thailand hua hin",
+      "volume": 720,
+      "kd": 10,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do hua hin thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in hua hin thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "amari hua hin hua hin thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "amari hua hin thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin train",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dusit thani hua hin thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays to hua hin thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin hilton hotel thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin in thailand map",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin location map thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin map thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin night market",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin night market location",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin night market thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin on map of thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand holiday",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand holidays",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand map",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand maps",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of thailand hua hin",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin hilton",
+      "volume": 480,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin holidays",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin map",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin night market",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "g hua hin resort & mall hua hin thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "home for sale in hua hin thailand",
+      "volume": 390,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "homes for sale hua hin thailand",
+      "volume": 390,
+      "kd": 8,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "house for sale hua hin thailand",
+      "volume": 390,
+      "kd": 9,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin airport",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin house for sale in thailand",
+      "volume": 390,
+      "kd": 24,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand homes for sale",
+      "volume": 390,
+      "kd": 10,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand house for sale",
+      "volume": 390,
+      "kd": 9,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand to bangkok",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin to bangkok",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "marriott hotel hua hin thailand",
+      "volume": 390,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin marriott",
+      "volume": 390,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand nightlife",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nightlife hua hin thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in hua hin thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property for rent in hua hin thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "putahracsa hua hin resort thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rental property hua hin thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "car hire hua hin thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "car hire in hua hin thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "car rental hua hin thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand car rental",
+      "volume": 260,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand time",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "market village hua hin thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "time in hua hin thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotel in hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in hua hin",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for rent hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for rent in hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for sale hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo rentals hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condos for sale in hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "homes for rent hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "homes for rent in hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "houses to rent in hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin beach hotel",
+      "volume": 210,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin hotels on the beachfront",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin restaurants thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand best hotels",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand restaurants",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand villas for rent",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hyatt hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin hyatt",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villa rental hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where in thailand is hua hin",
+      "volume": 210,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is hua hin in thailand",
+      "volume": 210,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is hua hin thailand",
+      "volume": 210,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "accommodation hua hin thailand",
+      "volume": 170,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "accommodation in hua hin thailand",
+      "volume": 170,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin bus",
+      "volume": 170,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather forecast 30 days",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants hua hin",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight to hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin massage thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin resort thailand",
+      "volume": 170,
+      "kd": 43,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin resorts thailand",
+      "volume": 170,
+      "kd": 43,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand accommodation",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand flights",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand long term rentals",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand massage",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand resort",
+      "volume": 170,
+      "kd": 47,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand resorts",
+      "volume": 170,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand things to do",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand to phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand water park",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand what to do",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "long term rentals in hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "long-term rentals in hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massage hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massage in hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "places to stay in hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resort in hua hin thailand",
+      "volume": 170,
+      "kd": 43,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resorts hua hin thailand",
+      "volume": 170,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin resort",
+      "volume": 170,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin resorts",
+      "volume": 170,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin things to do",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand property hua hin",
+      "volume": 170,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand resort hotel hua hin",
+      "volume": 170,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand resort hua hin",
+      "volume": 170,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airbnb hua hin thailand",
+      "volume": 140,
+      "kd": 21,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airbnb thailand hua hin",
+      "volume": 140,
+      "kd": 21,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin flight",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "g hotel hua hin thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton hotel hua hin thailand",
+      "volume": 140,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin golf thailand",
+      "volume": 140,
+      "kd": 32,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand airbnb",
+      "volume": 140,
+      "kd": 21,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand hilton",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand hilton hotel",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin train station thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hua hin golf",
+      "volume": 140,
+      "kd": 32,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "veranda lodge hua hin thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "elephant sanctuary hua hin thailand",
+      "volume": 110,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "elephant sanctuary thailand hua hin",
+      "volume": 110,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand villas",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand weather november",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ibis hotel hua hin thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nearest airport to hua hin thailand",
+      "volume": 110,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sheraton hua hin resort thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sofitel hua hin hotel thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "soi 80 hua hin",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 94 hua hin",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 94 hua hin thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villa hua hin thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villas in hua hin thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visa hotel hua hin thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do hua hin thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in hua hin thailand",
+      "volume": 110,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to see in hua hin thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "apartment rental hua hin thailand",
+      "volume": 90,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "apartments for rent in hua hin thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "city beach hotel hua hin thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin news thailand",
+      "volume": 90,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand apartments for rent",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand news",
+      "volume": 90,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand villas for sale",
+      "volume": 90,
+      "kd": 4,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand weather december",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin to bangkok by train",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin weather by month",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin resort thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rent apartment hua hin thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5 star hotels hua hin thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bbc weather hua hin",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bbc weather hua hin thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beaches in hua hin thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit hua hin thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "evason hua hin hotel thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "evason hua hin thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin city thailand",
+      "volume": 70,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin hospital thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin walking street",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "property for sale hua hin thailand",
+      "volume": 70,
+      "kd": 10,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "temperature in hua hin thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "apartments in hua hin thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin distance",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holiday rentals in hua hin thailand",
+      "volume": 50,
+      "kd": 23,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin beach resort",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin beach resort thailand",
+      "volume": 50,
+      "kd": 14,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin beach resorts",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin luxury hotels",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand apartments",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand pictures",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand tripadvisor",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin weather forecast 30 days",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "land for sale in hua hin thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels hua hin thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin to bangkok airport",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi bintabaht hua hin",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin by car",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin beach map",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin map tourist",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 94 hua hin nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in hua hin 10 days",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to hua hin from uk",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin airport flight schedule",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin beach to bangkok",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin restaurants on the beach",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin to bangkok bus",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin to bangkok distance",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin weather forecast 14 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in hua hin for adults",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where is hua hin located in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin flight ticket price",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin flight time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best night market in hua hin",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai restaurants hua hin",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "free things to do in hua hin",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin beach distance from bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin beach photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin beach reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin hotels on the beachfront cheap",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin michelin restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin night market map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin night market opening days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin night market sunday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin night market walking street",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin nightlife reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin restaurants with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand weather by month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin to bangkok flight time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin to bangkok train time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin to bangkok train timetable",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin weather forecast 30 days met office",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin weather radar",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "street map of hua hin thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in hua hin reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in hua hin with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "unique things to do in hua hin",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street hua hin nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in hua hin tomorrow",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in hua hin at night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where does hua hin airport fly to",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand nightlife youtube",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2,
+      "keywordCount": 6,
+      "visibility": 5.4,
+      "estimatedTraffic": 7358.348800000001
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 146.7562
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 90.84550000000002
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 10,
+      "keywordCount": 5,
+      "visibility": 1.05,
+      "estimatedTraffic": 366.8127
+    },
+    {
+      "domain": "manoravillage.com",
+      "avgPosition": 11,
+      "keywordCount": 5,
+      "visibility": 1.1,
+      "estimatedTraffic": 340.86
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 11.8,
+      "keywordCount": 5,
+      "visibility": 1.25,
+      "estimatedTraffic": 684.7222
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 12.4,
+      "keywordCount": 5,
+      "visibility": 2,
+      "estimatedTraffic": 1167.2299999999998
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 14.8,
+      "keywordCount": 5,
+      "visibility": 0.65,
+      "estimatedTraffic": 223.03
+    },
+    {
+      "domain": "all.accor.com",
+      "avgPosition": 20.2,
+      "keywordCount": 5,
+      "visibility": 1.45,
+      "estimatedTraffic": 338.64979999999997
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 22,
+      "keywordCount": 5,
+      "visibility": 0.4,
+      "estimatedTraffic": 108.73619999999998
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 3.25,
+      "keywordCount": 4,
+      "visibility": 3.1,
+      "estimatedTraffic": 3188.0400000000004
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 3.25,
+      "keywordCount": 3,
+      "visibility": 3.1,
+      "estimatedTraffic": 675.228
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 17.5,
+      "keywordCount": 4,
+      "visibility": 1.6,
+      "estimatedTraffic": 482.15999999999997
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 25.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 56.129999999999995
+    },
+    {
+      "domain": "lowseasontraveller.com",
+      "avgPosition": 3.3333333333333335,
+      "keywordCount": 3,
+      "visibility": 2.3,
+      "estimatedTraffic": 1764.85
+    },
+    {
+      "domain": "www.inthailand.travel",
+      "avgPosition": 42.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 50.85
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 7.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.05,
+      "estimatedTraffic": 189.2169
+    },
+    {
+      "domain": "movenpickhuahin.com",
+      "avgPosition": 8,
+      "keywordCount": 3,
+      "visibility": 0.9,
+      "estimatedTraffic": 520.5799999999999
+    },
+    {
+      "domain": "www.chivasom.com",
+      "avgPosition": 8.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.7999999999999999,
+      "estimatedTraffic": 299.81
+    },
+    {
+      "domain": "www.therockhuahin.com",
+      "avgPosition": 38.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 44.306200000000004
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 25.4146
+    },
+    {
+      "domain": "thailand-huahin.com",
+      "avgPosition": 40.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 47.010000000000005
+    },
+    {
+      "domain": "www.cosmicscanner.com",
+      "avgPosition": 21,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 48.510000000000005
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 40.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 43.05
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 77.19000000000001
+    },
+    {
+      "domain": "be-lavie.com",
+      "avgPosition": 23,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 102.32000000000001
+    },
+    {
+      "domain": "www.worldholidayvibes.com",
+      "avgPosition": 43.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 45.57
+    },
+    {
+      "domain": "www.insightguides.com",
+      "avgPosition": 25.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 44.16
+    },
+    {
+      "domain": "amazingthailand.com.au",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 105.87
+    },
+    {
+      "domain": "www.thestupidbear.com",
+      "avgPosition": 30,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 44.85
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 31.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 40.53
+    },
+    {
+      "domain": "www.tripoto.com",
+      "avgPosition": 32.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 35.49
+    },
+    {
+      "domain": "www.huahininthailand.com",
+      "avgPosition": 49.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 45.57
+    },
+    {
+      "domain": "awinterescape.com",
+      "avgPosition": 33.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 40.53
+    },
+    {
+      "domain": "thailandawaits.com",
+      "avgPosition": 50.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 25.68
+    },
+    {
+      "domain": "thailandbeaches.org",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 777.6
+    },
+    {
+      "domain": "www.virginatlantic.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 358.92
+    },
+    {
+      "domain": "twobytheworld.com",
+      "avgPosition": 40.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 17.64
+    },
+    {
+      "domain": "baike.baidu.com",
+      "avgPosition": 41.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 40.53
+    },
+    {
+      "domain": "www.gettyimages.co.uk",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 32.16
+    },
+    {
+      "domain": "www.vivutravel.com",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 28.32
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 56.5662
+    },
+    {
+      "domain": "nashaplaneta.net",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 18.96
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 43.77
+    },
+    {
+      "domain": "beyondbintabaht.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 17.28
+    },
+    {
+      "domain": "www.thethaipass.com",
+      "avgPosition": 48,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 40.53
+    },
+    {
+      "domain": "feastthailand.com",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 47.49
+    },
+    {
+      "domain": "www.aleenta.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 10.32
+    },
+    {
+      "domain": "www.bookaway.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 10.08
+    },
+    {
+      "domain": "www.barrheadtravel.co.uk",
+      "avgPosition": 26.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 15.12
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "captured_at": "2026-07-28T06:47:08.127Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "gai tod hat yai",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01308,
+    "competitors": 0.0162
+  },
+  "competitorKeywords": [
+    "gai tod hat yai"
+  ],
+  "keywords": [
+    {
+      "keyword": "hat yai fried chicken",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "gai tod hat yai",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao man gai tod",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "gai tod fried chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "gai tod hat yai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai fried chicken bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai fried chicken banthat thong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai fried chicken london",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai fried chicken recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 21.28
+    },
+    {
+      "domain": "www.epicurious.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 11.34
+    },
+    {
+      "domain": "www.thefooddictator.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 6.811
+    },
+    {
+      "domain": "www.highheelgourmet.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 4.613
+    },
+    {
+      "domain": "en.ahaan-thai.de",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 3.283
+    },
+    {
+      "domain": "www.thaicookbook.tv",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 2.3659999999999997
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 1.792
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.379
+    },
+    {
+      "domain": "asianinspirations.com.au",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.05
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.7909999999999999
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.637
+    },
+    {
+      "domain": "www.gousto.co.uk",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "www.simplysuwanee.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.392
+    },
+    {
+      "domain": "www.asiancook.eu",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.301
+    },
+    {
+      "domain": "www.delicious.com.au",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.301
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.231
+    },
+    {
+      "domain": "jp.pinterest.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.mintsmeals.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.154
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "importfood.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.tasteatlas.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.punchfork.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.madelikemums.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.dailymotion.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.simplotfood.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "worldfood.guide",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "thaifoodchef.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.taystit.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "foodof.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "thai-awesome.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.eatthis.com",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "cookingrecipekh.blogspot.com",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "siam-post.com",
+      "avgPosition": 67,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "recipeflow.com",
+      "avgPosition": 72,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    }
+  ]
+}

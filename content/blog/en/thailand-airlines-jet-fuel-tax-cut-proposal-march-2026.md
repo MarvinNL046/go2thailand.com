@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand airfare 2026", "jet fuel tax Thailand", "Airlines Association Thailand", "cheap flights Thailand", "Songkran flights 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-airlines-jet-fuel-tax-cut-proposal-march-2026-hero.webp"
 description: "The Airlines Association of Thailand proposes cutting the domestic jet fuel excise tax from 4.73 to 0.20 baht per litre. If approved, ticket prices could drop and millions of extra seats could open up."
 featured: false
 readingTime: 3
@@ -32,7 +32,7 @@ The request targets fuel surcharges that currently add between 8 and 12 percent 
 
 Rising global oil prices, driven partly by the [ongoing Middle East conflict](/blog/middle-east-conflict-thailand-flights-airfare-2026/), have pushed aviation fuel costs to levels that make it increasingly difficult for carriers to hold fares steady. Rerouted flights around conflict zones have added to fuel consumption and operating expenses. The combined pressure has led to a [10 to 15 percent increase in airfares](/blog/thai-airways-fare-hike-10-15-percent-fuel-costs-2026/) to and within Thailand.
 
-For budget-conscious travelers, the impact is real. Domestic routes that once cost under 1,000 baht one-way are now consistently priced higher, eroding one of Thailand's key advantages: affordability. For more on what travel costs look like right now, see our [Thailand budget guide for 2026](/blog/thailand-budget-2026-daily-costs/).
+For budget-conscious travelers, the impact is real. Domestic routes that once cost under 1,000 baht one-way are now consistently priced higher, eroding one of Thailand's key advantages: affordability. For more on what travel costs look like right now, see our [Thailand budget guide for 2026](/thailand-index/budget/).
 
 ## What Approval Would Mean for Travelers
 
@@ -54,4 +54,4 @@ The [Bangkok Songkran 2026](/blog/bangkok-songkran-2026-khaosan-road-safety-plan
 
 If you are planning domestic flights within Thailand for the coming months, booking Songkran routes now while promotional fares are available makes sense. For travel later in 2026, the potential tax cut could bring broader relief — but nothing is guaranteed until the cabinet signs off.
 
-High airfares are part of a wider set of [rising costs facing tourists in Thailand](/blog/thailand-rising-costs-tourists-middle-east-crisis-2026/). If you are budget planning, also check [how much two weeks in Thailand costs in 2026](/blog/how-much-2-weeks-thailand-cost-2026-budget/) and our round-up of [new airline routes to Thailand this year](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/) for alternatives to domestic carriers. The [Thailand oil crisis and its impact on flight prices](/blog/thailand-oil-crisis-flight-prices-energy-march-2026/) is another related development worth reading before you book. For context on the broader aviation situation, the [Aerothai flight cancellations during the Gulf crisis](/blog/thailand-aerothai-1000-flights-cancelled-gulf-crisis-2026/) show how quickly air travel in Thailand can be disrupted.
+High airfares are part of a wider set of [rising costs facing tourists in Thailand](/blog/thailand-rising-costs-tourists-middle-east-crisis-2026/). If you are budget planning, also check [how much two weeks in Thailand costs in 2026](/thailand-index/budget/) and our round-up of [new airline routes to Thailand this year](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/) for alternatives to domestic carriers. The [Thailand oil crisis and its impact on flight prices](/blog/thailand-oil-crisis-flight-prices-energy-march-2026/) is another related development worth reading before you book. For context on the broader aviation situation, the [Aerothai flight cancellations during the Gulf crisis](/blog/thailand-aerothai-1000-flights-cancelled-gulf-crisis-2026/) show how quickly air travel in Thailand can be disrupted.

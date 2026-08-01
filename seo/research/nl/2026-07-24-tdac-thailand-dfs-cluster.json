@@ -1,0 +1,571 @@
+{
+  "captured_at": "2026-07-24T03:22:03.383Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "tdac thailand",
+  "costs": {
+    "suggestions": 0.01464,
+    "related": 0.01392,
+    "competitors": 0.0168
+  },
+  "competitorKeywords": [
+    "tdac thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "tdac thailand",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand invullen",
+      "volume": 390,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac aanvragen",
+      "volume": 320,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac immigration",
+      "volume": 210,
+      "kd": 28,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tdac",
+      "volume": 210,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tdac thailand gratis",
+      "volume": 170,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand kosten",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac immigration go thai",
+      "volume": 110,
+      "kd": 32,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand digital arrival card",
+      "volume": 110,
+      "kd": 20,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tdac thailand wanneer invullen",
+      "volume": 110,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac formulier thailand",
+      "volume": 90,
+      "kd": 14,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac-formulier thailand",
+      "volume": 90,
+      "kd": 12,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac formulier",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac invullen",
+      "volume": 50,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand nederland",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand aanvragen",
+      "volume": 40,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand arrival card",
+      "volume": 40,
+      "kd": 21,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "occupation tdac",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tdac thailand official website",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to fill tdac thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "official tdac thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tdac thailand app",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tdac thailand form",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tdac thailand nodig",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tdac thailand verplicht",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tdac visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visa thailand tdac",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visum thailand tdac",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wanneer tdac aanvragen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "tdac.immigration.go.th",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 881.6
+    },
+    {
+      "domain": "www.sawadee.nl",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 469.8
+    },
+    {
+      "domain": "www.brotherlouis.nl",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 282.17
+    },
+    {
+      "domain": "tdac.in.th",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 191.11
+    },
+    {
+      "domain": "reisprins.nl",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 136.01
+    },
+    {
+      "domain": "travelthailand.nl",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 98.02
+    },
+    {
+      "domain": "buenos-aires.thaiembassy.org",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 74.24000000000001
+    },
+    {
+      "domain": "th.usembassy.gov",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 57.129999999999995
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 32.769999999999996
+    },
+    {
+      "domain": "www.thaiembassy.ch",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 26.39
+    },
+    {
+      "domain": "www.expatden.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 21.75
+    },
+    {
+      "domain": "visum-legalisatie.nl",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 17.11
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 16.24
+    },
+    {
+      "domain": "www.bangkokair.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 14.790000000000001
+    },
+    {
+      "domain": "www.siam-legal.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.47
+    },
+    {
+      "domain": "embassyofindiabangkok.gov.in",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.47
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 9.57
+    },
+    {
+      "domain": "www.placesthailand.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.83
+    },
+    {
+      "domain": "www.thaiairways.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.959999999999999
+    },
+    {
+      "domain": "eta.in.th",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.67
+    },
+    {
+      "domain": "thailandtravel.nl",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "pinweima.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "tdac-thailand.us.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "tdac-immigration.vercel.app",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "unitednations.sharepoint.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "www.tdacimmigration.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "www.thaiembassy.fr",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "th.diplomatie.gouv.fr",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "www.gov.pl",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "thetdac.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "thailandexpatservices.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "tdacthailandget.com",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "digitalarrivalcardthailand.com",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "thailandvisaonarrival2026.com",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "tdac.info",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "tdac.travelimmigration.com",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "mestogo-th.theinfoport.com",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "www.thaiembassy.cz",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    },
+    {
+      "domain": "thailanddigitalarrivalcard.org",
+      "avgPosition": 69,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.09
+    }
+  ]
+}

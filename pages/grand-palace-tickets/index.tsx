@@ -1,31 +1,34 @@
-import Link from 'next/link';
+﻿import Link from 'next/link';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC } from '../../lib/affiliates';
+import { useRouter } from 'next/router';
+import NlTopicalManualGuide from '../../components/editorial/NlTopicalManualGuide';
+import { nlTopicalManualGuides } from '../../data/editorial/nl-topical-manual';
 
 const OFFICIAL_SITE = 'https://www.royalgrandpalace.th/en/home';
-const LAST_VERIFIED = 'April 18, 2026';
+const LAST_VERIFIED = 'August 1, 2026';
 
 const FAQ_ITEMS = [
   {
-    question: 'How much are Grand Palace tickets in 2026?',
+    question: 'How much are Grand Palace tickets?',
     answer:
-      'The official entry fee is 500 THB (about $15) per adult, which includes the Grand Palace grounds plus Wat Phra Kaew (Temple of the Emerald Buddha) and the Queen Sirikit Museum of Textiles on the same ticket. Children under 13 enter free with a guardian. If you book a skip-the-line tour through GetYourGuide, Viator, or Klook, expect $25 to $50 per person for entry plus an English-speaking guide, and $40 to $70 per person for a half-day tour that also covers Wat Pho and Wat Arun.',
+      'The official website currently lists foreign admission at 500 THB, including the Grand Palace, Wat Phra Kaew and the Queen Sirikit Museum of Textiles. Buy at the official ticket office or official website, and check the live inclusions before paying. Guided-tour totals vary by date, operator and inclusions, so compare the current total rather than a cached price.',
   },
   {
     question: 'What time does the Grand Palace open and close?',
     answer:
-      'The Grand Palace is open every day from 8:30am to 3:30pm, with last entry at 2:30pm. It runs 365 days a year and almost never closes, despite what a tuk-tuk driver may tell you. The best time to arrive is right at 8:30am opening, because crowds build fast between 10am and 1pm, especially on Sundays and Thai public holidays. If you arrive after 2:30pm you will not be allowed in, so do not leave it until late afternoon.',
+      'The official site currently lists visiting hours of 8:30am to 4:30pm and ticket sales from 8:30am to 3:30pm. Royal schedules and special arrangements can change access, so check the official schedule on the day rather than relying on a driver or an old blog post.',
   },
   {
     question: 'What is the dress code for the Grand Palace?',
     answer:
-      'The dress code is strict and enforced at the gate. Shoulders and knees must be covered. No sleeveless tops, no tank tops, no see-through fabric, no ripped jeans with skin showing, no short skirts, no short shorts, and no open-heel sandals for the Emerald Buddha temple. If you show up wrong, you can rent a sarong, shirt, or long trousers at the on-site rental booth for a 200 THB refundable deposit. Bring your deposit back with your clothing to get the money back.',
+      'The official dress code excludes sleeveless shirts, vests, short or see-through tops, shorts, torn or tight trousers, bike pants, mini skirts, divided skirts and sleepwear. Dress conservatively before you arrive; do not rely on an old third-party claim that suitable cover-ups will be available.',
   },
   {
     question: 'Is a skip-the-line Grand Palace tour worth it?',
     answer:
-      'For most first-time visitors, yes. The official entry line can stretch 30 to 60 minutes between 10am and noon in high season, and the site is confusing without context. A guided tour at $25 to $50 per person bundles entry, a fast-track entrance, and an English-speaking guide who explains the Ramakien murals, Chakri Maha Prasat Hall, and the Emerald Buddha. If you arrive at 8:30am and you have already done your reading, the self-guided route with a 200 THB audio guide is fine.',
+      'A guide can be worthwhile when historical context matters to you, but “skip the line” is not a universal promise. Compare the named operator, meeting point, whether official admission is included, group size, language and cancellation terms. The palace also sells admission through its official website for travellers who prefer to visit independently.',
   },
   {
     question: 'How long do you need to visit the Grand Palace?',
@@ -35,17 +38,17 @@ const FAQ_ITEMS = [
   {
     question: 'Is the Grand Palace closed today taxi scam real?',
     answer:
-      'Yes, and it is the single most common Bangkok tourist scam. A tuk-tuk or taxi driver at a nearby intersection will tell you the Grand Palace is closed today for a royal ceremony or Buddhist holiday, then offer a cheap 20 THB tour to other temples. Every stop ends at a gem shop, tailor, or suit store where they earn commission. Ignore them completely. The Grand Palace is open every day from 8:30am to 3:30pm, including Sundays and holidays. Walk directly to the official entrance on Na Phra Lan Road.',
+      'It is a well-known diversion scam: someone claims the palace is closed and offers an alternative route that leads to commissioned stops. Do not assume either that the stranger is right or that access can never change. Check the official Royal Grand Palace schedule and use the official entrance on Na Phra Lan Road.',
   },
   {
     question: 'Is the Grand Palace closed on Sundays?',
     answer:
-      'No. The Grand Palace is open every day of the year, including Sundays, Buddhist holidays, and Thai public holidays. The only partial closures happen when a royal ceremony occupies a specific hall, in which case that hall alone is closed but the rest of the complex stays open. Anyone telling you the whole site is closed is either confused or running the classic closed-today scam at the gate.',
+      'Sunday is normally included in the official daily opening schedule. Special royal schedules or access changes can still occur, so use the official schedule for your date instead of treating any third-party page as a live status service.',
   },
   {
     question: 'Should I combine the Grand Palace with Wat Pho?',
     answer:
-      'Yes, if your timing allows. Wat Pho and its 46-meter reclining Buddha are a 10-minute walk south of the Grand Palace, and entry is only 200 THB. Most tourists do Grand Palace first from 8:30am to 11:30am, then walk to Wat Pho for noon, grab lunch nearby, and take the 4 THB cross-river ferry to Wat Arun in the afternoon. A half-day guided tour packaging all three costs $40 to $70 per person and removes the logistics headache.',
+      'Yes, if your pace and the heat allow. Wat Pho is within walking distance and Wat Arun is across the river, making the three sites a logical geographic cluster. Check each official site, current ferry operation, admission and last-entry time before setting the order.',
   },
 ];
 
@@ -53,12 +56,12 @@ const WHY_CARDS = [
   {
     title: 'Crowds peak at 10am',
     body:
-      'By 10am the main line at the Na Phra Lan gate is 30 to 60 minutes. Skip-the-line tours enter via a side gate with the guide, which saves the wait and a lot of sweating in the Bangkok sun. Arrive 8:30am self-guided or book a 9am guide slot to stay ahead of the tour buses.',
+      'Crowds and queue time vary by date. An early start can be more comfortable, but do not assume a third-party “skip the line” label provides a separate entrance; check the exact operator inclusions and meeting process.',
   },
   {
     title: 'Dress code is strict',
     body:
-      'Shoulders and knees must be covered, no exceptions. If you turn up in a tank top or short shorts, you either rent cover-up clothes for a 200 THB deposit or you do not enter. Book a guide-inclusive tour and most operators remind you in the confirmation email, so you arrive dressed right the first time.',
+      'The palace is a place of reverence and its published dress code excludes sleeveless, short, see-through, torn, tight and sports-style clothing. Dress appropriately before arrival and review the official illustrated rules.',
   },
   {
     title: 'Scammers work the gate',
@@ -69,24 +72,23 @@ const WHY_CARDS = [
 
 const PRICE_ROWS = [
   { item: 'Official adult entry (includes Wat Phra Kaew + Textile Museum)', price: '500 THB ($15)' },
-  { item: 'Children under 13', price: 'Free' },
-  { item: 'Audio guide rental (English, Mandarin, French, etc.)', price: '200 THB ($6)' },
-  { item: 'Clothing rental (sarong, shirt, trousers)', price: '200 THB ($6) refundable deposit' },
-  { item: 'Skip-the-line guided tour (2 to 3 hours)', price: '$25 to $50 per person' },
-  { item: 'Half-day combo: Grand Palace + Wat Pho + Wat Arun', price: '$40 to $70 per person' },
-  { item: 'Full-day private guide with driver', price: '$100 to $200 per person' },
+  { item: 'Guided tour', price: 'Check the live total and whether official admission is included' },
+  { item: 'Grand Palace + Wat Pho + Wat Arun tour', price: 'Check current inclusions, transport and cancellation terms' },
+  { item: 'Private guide or driver', price: 'Compare the live total, licence and pickup area' },
 ];
 
 const COMMON_MISTAKES = [
   'Showing up in a tank top or short shorts and losing 30 minutes at the clothing rental booth.',
   'Believing a tuk-tuk driver who says the palace is closed today, then ending up at a gem shop.',
   'Trying to take photos inside the Emerald Buddha temple. It is strictly forbidden and guards will stop you.',
-  'Arriving at 2pm and getting turned away because last entry is 2:30pm and you still need to buy a ticket and cross the courtyard.',
+  'Confusing the published 3:30pm ticket-sales cutoff with the currently published 4:30pm visiting-hours endpoint.',
   'Paying a freelance guide at the gate 500 to 1,500 THB for a rushed 30-minute tour. Book a vetted operator in advance.',
   'Taking an air-con taxi across Bangkok at rush hour when the Chao Phraya express boat to Tha Chang pier costs 9 THB and drops you at the door.',
 ];
 
 export default function GrandPalaceTicketsPage() {
+  const { locale } = useRouter();
+  if (locale === 'nl') return <NlTopicalManualGuide data={nlTopicalManualGuides['grand-palace-tickets']} />;
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
 
   const breadcrumbs = [
@@ -110,11 +112,11 @@ export default function GrandPalaceTicketsPage() {
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: 'Grand Palace Bangkok Tickets 2026: Prices, Dress Code, Where to Book',
+    headline: 'Grand Palace Bangkok Tickets: Official Price, Dress Code and Planning',
     description:
-      'Official 2026 Grand Palace ticket prices (500 THB), dress code rules, the closed today taxi scam, skip-the-line tour math, MRT and river ferry access, and where to book from trusted operators.',
+      'Official Grand Palace ticket price, current published hours, dress code, transport choices and how to compare guided tours without stale prices.',
     datePublished: '2026-04-18',
-    dateModified: '2026-04-18',
+    dateModified: '2026-08-01',
     author: {
       '@type': 'Organization',
       name: 'Go2Thailand',
@@ -138,8 +140,8 @@ export default function GrandPalaceTicketsPage() {
   return (
     <>
       <SEOHead
-        title="Grand Palace Bangkok Tickets 2026: Prices, Dress Code, Where to Book | Go2Thailand"
-        description="Grand Palace Bangkok in 2026: 500 THB official entry, dress code rules, the closed today taxi scam, skip-the-line tours from $25, and where to book. Updated April 2026."
+        title="Grand Palace Bangkok Tickets: Price, Hours & Dress Code"
+        description="Plan a Grand Palace visit with the official 500 THB ticket price, current published hours, dress code, transport choices and live tour checks."
       >
         <link rel="canonical" href="https://go2-thailand.com/grand-palace-tickets/" />
         <meta
@@ -162,10 +164,10 @@ export default function GrandPalaceTicketsPage() {
             <div className="mx-auto max-w-4xl text-center">
               <p className="mb-2 font-script text-thailand-gold">Bangkok&apos;s #1 Sight</p>
               <h1 className="mb-6 text-4xl font-bold font-heading lg:text-6xl">
-                Grand Palace Bangkok Tickets 2026: Prices, Dress Code, Where to Book
+                Grand Palace Bangkok Tickets: Price, Hours and Dress Code
               </h1>
               <p className="mx-auto mb-8 max-w-3xl text-lg opacity-90 lg:text-2xl">
-                Official entry is 500 THB ($15). The real questions are when to arrive, what to wear, how to dodge the closed today taxi scam, and whether a skip-the-line tour is worth the extra $20. Here is the 2026 answer, verified from the ground.
+                Official foreign admission is currently 500 THB. The useful questions are when to arrive, what to wear, how to verify access and whether a guided tour adds enough context for your visit.
               </p>
               <div className="flex flex-wrap justify-center gap-3">
                 <a
@@ -177,7 +179,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={GYG_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                 >
                   Skip-the-Line Tours on GetYourGuide
@@ -185,7 +187,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={VIATOR_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
                 >
                   Compare on Viator
@@ -231,19 +233,19 @@ export default function GrandPalaceTicketsPage() {
         <section id="prices" className="scroll-mt-20 py-12">
           <div className="container-custom">
             <div className="mx-auto max-w-4xl">
-              <p className="section-label text-center">2026 Prices</p>
+              <p className="section-label text-center">Live-price planning</p>
               <h2 className="mb-6 text-center text-3xl font-bold font-heading text-gray-900">
-                Grand Palace Bangkok Prices in 2026
+                Grand Palace Bangkok ticket and tour costs
               </h2>
               <p className="mx-auto mb-6 max-w-3xl text-center text-gray-700">
-                Prices below are the official 2026 rates at the gate plus typical operator prices for skip-the-line tours. USD is approximate at 33 THB per USD and shifts with the exchange rate.
+                The official foreign ticket is sourced from the Royal Grand Palace. Tour prices are deliberately shown as live checks because operators, inclusions and exchange rates change.
               </p>
               <div className="overflow-x-auto rounded-2xl bg-white shadow-md">
                 <table className="min-w-full divide-y divide-gray-200 text-sm">
                   <thead className="bg-slate-50">
                     <tr>
                       <th className="px-4 py-4 text-left font-semibold text-gray-900">Item</th>
-                      <th className="px-4 py-4 text-left font-semibold text-gray-900">2026 Price</th>
+                      <th className="px-4 py-4 text-left font-semibold text-gray-900">What to verify</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-gray-100 bg-white">
@@ -274,12 +276,12 @@ export default function GrandPalaceTicketsPage() {
                 <div className="rounded-2xl bg-surface-cream p-6 shadow-md">
                   <h3 className="mb-3 text-xl font-bold font-heading text-gray-900">1. Official gate ticket</h3>
                   <p className="mb-4 text-sm text-gray-700">
-                    Walk up to the official ticket window on Na Phra Lan Road, pay 500 THB cash or card, and enter. No online booking is offered by the palace itself. Best if you arrive at 8:30am opening, speak enough English to self-guide, and do not mind queueing. Add a 200 THB audio guide at the next window for context.
+                    Buy at the official ticket window on Na Phra Lan Road or through the official Royal Grand Palace website. This suits travellers who prefer to visit independently; check the current payment options and available visitor services before arrival.
                   </p>
                   <a
                     href={OFFICIAL_SITE}
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="noopener noreferrer"
                     className="text-sm font-semibold text-thailand-blue hover:underline"
                   >
                     Official Royal Grand Palace website
@@ -293,7 +295,7 @@ export default function GrandPalaceTicketsPage() {
                   <a
                     href={GYG_GENERIC}
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                   >
                     Check GetYourGuide
@@ -307,7 +309,7 @@ export default function GrandPalaceTicketsPage() {
                   <a
                     href={VIATOR_GENERIC}
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                   >
                     Check Viator
@@ -321,7 +323,7 @@ export default function GrandPalaceTicketsPage() {
                   <a
                     href={KLOOK_GENERIC}
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                   >
                     Check Klook
@@ -440,7 +442,7 @@ export default function GrandPalaceTicketsPage() {
                     Every stop ends at a commission-paying gem store, tailor shop, or suit shop where you are high-pressure sold fake rubies, overpriced suits, or tourist jewelry. The driver pockets 200 to 500 THB per tourist delivered, whether you buy or not.
                   </p>
                   <p>
-                    <strong>What to do:</strong> ignore them completely. Walk straight to the official ticket booth on Na Phra Lan Road. If anyone in uniform tells you the palace is closed, they are fake. The Grand Palace is open every single day from 8:30am to 3:30pm, including Sundays and public holidays.
+                    <strong>What to do:</strong> do not accept an unsolicited detour. Check the official schedule yourself and use the official entrance on Na Phra Lan Road. Normal published visiting hours are 8:30am to 4:30pm, with ticket sales until 3:30pm; special arrangements can change access.
                   </p>
                 </div>
               </div>
@@ -640,7 +642,7 @@ export default function GrandPalaceTicketsPage() {
                   </p>
                 </Link>
                 <Link
-                  href="/blog/is-thailand-safe-tourists-2026/"
+                  href="/is-thailand-safe/"
                   className="rounded-2xl bg-white p-5 shadow-md transition-all hover:-translate-y-1 hover:shadow-lg"
                 >
                   <h3 className="mb-1 font-bold font-heading text-gray-900">Is Thailand Safe for Tourists in 2026?</h3>
@@ -667,7 +669,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={GYG_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-semibold text-thailand-blue transition-colors hover:bg-slate-100"
                 >
                   Book on GetYourGuide
@@ -675,7 +677,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={VIATOR_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
                 >
                   Compare on Viator
@@ -683,7 +685,7 @@ export default function GrandPalaceTicketsPage() {
                 <a
                   href={KLOOK_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
                 >
                   Check Klook

@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-07-28T00:48:32.529Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/food/green-curry/",
+  "cost": 0.01224,
+  "rankings": [
+    {
+      "keyword": "kaeng kiew wan",
+      "position": 75,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/green-curry/"
+    },
+    {
+      "keyword": "gaeng keow wan",
+      "position": 60,
+      "volume": 90,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/food/green-curry/"
+    }
+  ]
+}

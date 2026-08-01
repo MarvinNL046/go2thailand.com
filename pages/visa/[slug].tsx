@@ -21,6 +21,23 @@ import { getAllVisas, getVisaBySlug, generateVisaBreadcrumbs } from '../../lib/v
 import ContentBridge from '../../components/ContentBridge';
 import InsuranceCTA from '../../components/InsuranceCTA';
 import { useSubId } from '../../lib/useSubId';
+import ThailandTdacGuide from '../../components/visa/ThailandTdacGuide';
+import ThailandTdacGuideEn from '../../components/visa/ThailandTdacGuideEn';
+import ThailandDtvGuide from '../../components/visa/ThailandDtvGuide';
+import ThailandDtvGuideEn from '../../components/visa/ThailandDtvGuideEn';
+import ThailandRetirementVisaGuide from '../../components/visa/ThailandRetirementVisaGuide';
+import ThailandRetirementVisaGuideEn from '../../components/visa/ThailandRetirementVisaGuideEn';
+import ThailandTouristVisaGuide from '../../components/visa/ThailandTouristVisaGuide';
+import ThailandTouristVisaGuideEn from '../../components/visa/ThailandTouristVisaGuideEn';
+import ThailandVisaExtensionGuide from '../../components/visa/ThailandVisaExtensionGuide';
+import ThailandVisaExtensionGuideEn from '../../components/visa/ThailandVisaExtensionGuideEn';
+import ThailandEducationVisaGuide from '../../components/visa/ThailandEducationVisaGuide';
+import ThailandEducationVisaGuideEn from '../../components/visa/ThailandEducationVisaGuideEn';
+import ThailandLtrVisaGuide from '../../components/visa/ThailandLtrVisaGuide';
+import ThailandLtrVisaGuideEn from '../../components/visa/ThailandLtrVisaGuideEn';
+import ThailandPrivilegeGuide from '../../components/visa/ThailandPrivilegeGuide';
+import ThailandPrivilegeGuideEn from '../../components/visa/ThailandPrivilegeGuideEn';
+import ThailandVisaExemptionGuideEn from '../../components/visa/ThailandVisaExemptionGuideEn';
 
 interface Requirement {
   item: { en: string; nl: string };
@@ -74,6 +91,23 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
   const { locale } = useRouter();
   const subId = useSubId();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
+  if (locale === 'nl' && visa.slug === 'digital-arrival-card') return <ThailandTdacGuide />;
+  if (locale !== 'nl' && visa.slug === 'digital-arrival-card') return <ThailandTdacGuideEn />;
+  if (locale === 'nl' && visa.slug === 'digital-nomad-visa') return <ThailandDtvGuide />;
+  if (locale !== 'nl' && visa.slug === 'digital-nomad-visa') return <ThailandDtvGuideEn />;
+  if (locale === 'nl' && visa.slug === 'retirement-visa') return <ThailandRetirementVisaGuide />;
+  if (locale !== 'nl' && visa.slug === 'retirement-visa') return <ThailandRetirementVisaGuideEn />;
+  if (locale === 'nl' && visa.slug === 'tourist-visa') return <ThailandTouristVisaGuide />;
+  if (locale !== 'nl' && visa.slug === 'tourist-visa') return <ThailandTouristVisaGuideEn />;
+  if (locale === 'nl' && visa.slug === 'visa-extension') return <ThailandVisaExtensionGuide />;
+  if (locale !== 'nl' && visa.slug === 'visa-extension') return <ThailandVisaExtensionGuideEn />;
+  if (locale === 'nl' && visa.slug === 'education-visa') return <ThailandEducationVisaGuide />;
+  if (locale !== 'nl' && visa.slug === 'education-visa') return <ThailandEducationVisaGuideEn />;
+  if (locale === 'nl' && visa.slug === 'ltr-visa') return <ThailandLtrVisaGuide />;
+  if (locale !== 'nl' && visa.slug === 'ltr-visa') return <ThailandLtrVisaGuideEn />;
+  if (locale === 'nl' && visa.slug === 'thailand-elite-visa') return <ThailandPrivilegeGuide />;
+  if (locale !== 'nl' && visa.slug === 'thailand-elite-visa') return <ThailandPrivilegeGuideEn />;
+  if (locale !== 'nl' && visa.slug === 'visa-free-entry') return <ThailandVisaExemptionGuideEn />;
   const breadcrumbs = generateVisaBreadcrumbs(visa);
   const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
 
@@ -300,7 +334,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                   <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">
                     ← {lang === 'nl' ? 'Alle visum types' : 'All visa types'}
                   </Link>
-                  <Link href="/travel-insurance-thailand/" className="block text-thailand-blue hover:underline text-sm">
+                  <Link href="/travel-insurance/" className="block text-thailand-blue hover:underline text-sm">
                     {lang === 'nl' ? 'Reisverzekering Thailand' : 'Travel Insurance Thailand'}
                   </Link>
                   <Link href="/esim/" className="block text-thailand-blue hover:underline text-sm">
@@ -326,7 +360,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                     : 'Some visas require travel insurance. Compare the best options.'}
                 </p>
                 <Link
-                  href="/travel-insurance-thailand/"
+                  href="/travel-insurance/"
                   className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors"
                 >
                   {lang === 'nl' ? 'Vergelijk Verzekeringen' : 'Compare Insurance'}
@@ -352,7 +386,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 <a
                   href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
                 >
                   Saily eSIM
@@ -381,7 +415,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                   <a
                     href={trackAffiliate(KLOOK_GENERIC, 'sidebar-activities-primary')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm"
                   >
                     Klook Activities
@@ -389,7 +423,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                   <a
                     href={trackAffiliate(GYG_GENERIC, 'sidebar-activities-secondary')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
                   >
                     GetYourGuide Tours
@@ -424,7 +458,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 </div>
               </Link>
               <Link
-                href="/travel-insurance-thailand/"
+                href="/travel-insurance/"
                 className="bg-surface-cream rounded-2xl border border-gray-200 hover:shadow-lg hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
               >
                 <span className="text-3xl"></span>
@@ -491,7 +525,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
           links={[
             { label: 'Booking.com', href: BOOKING_GENERIC },
             { label: 'Trip.com', href: TRIP_GENERIC },
-            { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
+            { label: 'Insurance', href: '/travel-insurance/', internal: true },
             { label: 'eSIM', href: SAILY_GENERIC },
             { label: 'Transport', href: TWELVEGO_GENERIC },
             { label: 'NordVPN', href: NORDVPN_GENERIC },
@@ -515,8 +549,18 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
+
+  if (locale === 'nl' && slug === 'visa-free-entry') {
+    return {
+      redirect: {
+        destination: '/nl/visa/',
+        permanent: true,
+      },
+    };
+  }
+
   const visa = getVisaBySlug(slug);
 
   if (!visa) {

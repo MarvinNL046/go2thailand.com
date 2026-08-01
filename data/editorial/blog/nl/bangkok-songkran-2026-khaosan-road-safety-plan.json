@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-songkran-2026-khaosan-road-safety-plan",
+  "route": "/nl/blog/bangkok-songkran-2026-khaosan-road-safety-plan/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Songkran 2026 Khao San: veiligheidsarchief | Go2Thailand", "description": "Het Khao San-veiligheidsplan voor Songkran 2026 is verlopen. Controleer regels, zones en tijden opnieuw voor een volgende editie.", "primaryKeyword": "Songkran Khao San Road 2026 archief", "searchIntent": "navigational", "canonicalPath": "/nl/blog/bangkok-songkran-2026-khaosan-road-safety-plan/", "noindex": true },
+  "hero": { "eyebrow": "Editie 2026 is voorbij", "title": "Songkran op Khao San Road", "accent": "Veiligheidsarchief", "description": "De algemene lessen blijven nuttig. Tijden, controlepunten, materialen en lokale regels moeten voor iedere editie opnieuw worden bevestigd.", "image": "/images/redesign/editorial/bangkok-songkran-2026-khaosan-road-safety-plan-hero.webp", "imageAlt": "Songkranviering met water, oogbescherming en medewerkers die een veilige looproute vrijhouden", "primaryCta": { "label": "Waarom archief", "href": "#lifecycle" }, "secondaryCta": { "label": "Blijvende veiligheidsbasis", "href": "#veilig" } },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-04-13", "endsOn": "2026-04-15", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Het specifieke plan voor april 2026 is verlopen en staat noindex. Gebruik de algemene veiligheidslessen, maar bevestig voor een volgende editie alle zones, uren en verboden opnieuw bij officiële instanties.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "Geen actuele juridische gids", "description": "Editiegebonden controlepunten, wateruren en verboden zijn niet overdraagbaar naar 2027. Oude boete- of regelclaims zijn verwijderd." },
+    { "kind": "checklist", "id": "veilig", "title": "Wat wél blijvend verstandig is", "items": ["Bescherm telefoon, documenten en medicatie tegen water", "Draag schoeisel met grip", "Gebruik oogbescherming als je gevoelig bent", "Richt nooit op gezicht, verkeer of mensen die niet meedoen", "Houd een ontmoetingspunt buiten de drukste zone", "Plan droog en veilig vervoer terug", "Rijd niet na alcohol"] },
+    { "kind": "comparison", "id": "fit", "title": "Khao San of een rustiger alternatief?", "options": [
+      { "title": "Khao San", "description": "Past bij wie bewust een zeer drukke water- en feestzone kiest en zelfstandig met crowding kan omgaan.", "label": "Intens" },
+      { "title": "Rustiger programma", "description": "Beter bij overprikkeling, beperkte mobiliteit, droge medische hulpmiddelen of behoefte aan culturele context.", "label": "Meer controle" }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Gebruik actuele vertrekpunten", "items": [
+      { "title": "Songkran festivalgids", "description": "Start breed en controleer ieder jaartal opnieuw.", "href": "/nl/blog/songkran-festival-2026-guide/" },
+      { "title": "Thailand reisadvies", "description": "Bekijk actuele veiligheidsinformatie van NederlandWereldwijd.", "href": "https://www.nederlandwereldwijd.nl/reisadvies/thailand" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Overheidsbronnen voor het archief", "items": [
+      { "title": "Road Accident Prevention and Reduction Command Center for Songkran", "publisher": "Royal Thai Government", "url": "https://www.thaigov.go.th/en/news/162986", "checkedAt": "2026-08-01", "note": "Bevestigt de veiligheidsfocus voor de verlopen editie; geen bron voor toekomstige lokale uren." },
+      { "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

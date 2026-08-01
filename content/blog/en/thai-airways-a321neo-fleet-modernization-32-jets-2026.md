@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thai Airways", "A321neo", "Thailand flights 2026", "fleet modernization", "Bangkok aviation", "airline news Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thai-airways-a321neo-fleet-modernization-32-jets-2026-hero.webp"
 description: "Thai Airways is receiving 32 new Airbus A321neo aircraft throughout 2026, bringing flat-bed business class and lower emissions to regional routes across Asia."
 featured: false
 readingTime: 3
@@ -44,4 +44,4 @@ For travellers deciding how to get around once they arrive, our [Bangkok to Koh 
 
 The remaining deliveries are scheduled to continue through 2027. Thai Airways is simultaneously bringing in new wide-body Airbus A350s and Boeing 787 Dreamliners for long-haul expansion, including the much-anticipated daily Bangkok-to-Amsterdam nonstop resuming on July 1, 2026, after a 28-year gap. Full details on these new long-haul routes are covered in our [Thai Airways summer 2026 routes overview](/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/). With [Thailand targeting 7 million visitors in March alone](/blog/thailand-tourism-7-million-visitors-march-2026/), the timing of this fleet upgrade is critical for meeting growing demand.
 
-If you are planning your trip around the expanded schedule, start with our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/) or check [how much two weeks in Thailand costs](/blog/how-much-2-weeks-thailand-cost-2026-budget/) to set a realistic budget.
+If you are planning your trip around the expanded schedule, start with our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/) or check [how much two weeks in Thailand costs](/thailand-index/budget/) to set a realistic budget.

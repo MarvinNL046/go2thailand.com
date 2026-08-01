@@ -1,0 +1,57 @@
+{
+  "captured_at": "2026-07-24T08:11:13.454Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "duikbrevet koh tao",
+  "costs": {
+    "suggestions": 0.01248,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "duikbrevet koh tao"
+  ],
+  "keywords": [
+    {
+      "keyword": "duikbrevet halen koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "duikbrevet koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao duikbrevet",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao duikbrevet halen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

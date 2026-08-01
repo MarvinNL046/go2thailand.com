@@ -1,0 +1,126 @@
+# DFS parsed source — https://thailandstartshere.com/2022/01/25/is-lampang-worth-visiting/
+
+**Captured:** 2026-07-27T03:35:35.214Z
+**Cost:** 0.00015
+**HTTP status:** 200
+
+# From Lampang With Love
+
+January 25, 2022 by [Robert Schrader](https://thailandstartshere.com/author/robert/) [Leave a Comment](https://thailandstartshere.com/2022/01/25/is-lampang-worth-visiting/)
+
+It was hard to get excited about Lampang as the propeller plane made its descent, inbound from Suvarnabhumi. The city—the entire province, and maybe even all of Thailand—was encased in a thick blanket of มลพิษ, the persistent winter smog that’s become an annual event in recent years.
+
+The mood on the ground at the airport was muted as well, in spite of the facility having been carefully crafted to embody ornate local Lanna wood carvings. Mandatory Covid registration (which, as is the case in many regions of Thailand, is simply a short web form whose details no one ever verifies) amplified the buzzkill.
+
+I was surprised, upon stepping out of the arrivals area, to learn that the songthaew driver knew exactly where my guest house was. Riverside, he confirmed, the only word he said in English. Haa-sip baht.
+
+My lodging was charming—I was expecting that. Years (and, in some cases, decades) ago, foreigners and wealthy Thais had purchased up old teak houses along rivers in the city centers of northern Thailand and converted them into some of the most charming, authentic accommodation in the Kingdom and maybe the world. No surprises here.
+
+What did surprise me, particularly at this stage of my life as a traveler, was how immediately—and how unconsciously—the city sucked me into its unique beauty.
+
+I had been bound, at half-past four, for a temple called Wat Pong Sanuk Hua, which was actually a precursor to all the other attractions I’d decided I wanted to visit before arriving. The idea was to have crossed the river and gotten there just past five, leaving me time to tick two or three more items off by the time the sun sunset.
+
+Instead, I wandered into Wat Koh Walukaram, a sprawling and eclectic temple I later learned has no Google reviews. A trio of vocal (but harmless) puppies welcomed me onto the grounds, which were devoid of humans apart from a man reading a book next to the bell tower, from which a laminated sign (in English) hung. “Climb the stairs to take a photo.”
+
+I did, but not until after I walked amid the teak houses toward the western end of the complex, where a loudspeaker played an instrumental Muzak version of Eric Clapton’s “Wonderful Tonight” from a toilet that was clean, but largely because it appeared not to have been used in some time. Orange monk robes were hung up on lines and drying in the setting, scorching sun; I did not see a single monk around to wear them.
+
+Good luck, read the adornment (again, in English) over the gate that led onto the street that became the bridge I should’ve crossed 30 minutes sooner. It seemed I would need some luck to execute any sort of bucket list in Lampang, whose details continued sucking me in for the admittedly brief remainder of Monday.
+
+Indeed, the bridge itself took up a good 15 minutes of my time, to the amusement of the motorbike drivers and passengers (very few fellow pedestrians availed this crossing) who zoomed in front of me as I marveled. Beneath me, along the bougainvillea and Esperanza-lined Wang River, at least three old men were fishing, even if all seemed more intent on smoking their hand-rolled cigarettes than catching anything.
+
+By the time I reached Wat Pong Sanuk Hua, which had apparently won a UNESCO award in 2008, it was practically an afterthought. Which is sad because like my accidental first temple, it was utterly empty. It was also utterly astonishing in its expanse and level of detail, which makes sense given the award. It was more of a citadel than a single temple, centered around an especially dramatic golden stupa, which was elevated on a stone-and-brick platform.
+
+I didn’t learn much about the temple—there were no placards, I guess those weren’t part of UNESCO’s requirements—apart from the fact that it was about 1,300 years old. As had been the case across the river, about a dozen monk robes were hanging up, but apart from the lazy soi dog lounging at the foot of the only outdoor Buddha image, no other signs of animal life were present.
+
+Heading back south, the rest of my bucket list doomed to Tuesday (or a distant future trip), I once again got stuck on the motorcycle bridge. It was a beautiful but treacherous limbo, chasing moonrise on one side and sunset on the other. I eventually decided to prioritize sunset, given how notoriously difficult the moon is to photograph (at least in the context of non-lunar foreground) without oppressive photoshop.
+
+Just as I had set up my tripod to steadily capture the sky glowing magenta over the glassy waters of the Wang, one of Lampang’s famous horse-drawn carriages clacked by. It was an unexpected blur—a flash—like the first (and, to date, only) I saw a Geisha roaming [Kyoto](https://japanstartshere.com/things-to-do-in-kyoto/) ’s Gion district by night.
+
+I hurriedly captured it in a blur; as I write this, I have no idea whether the photo will be usable. Perhaps the pink hue twilight imparts will save what I imagine are many technical flaws.
+
+En route to dinner, I continued getting hung up on details, in this case a large silk shop along Thipchang Road. The painstaking arrangement of their handcrafted garments behind the smudgeless display windows of their teak building; the pride with which they displayed their sewing machines in the studio alongside the boutique; the smell of rose and jasmine essential oils that permeated the air from somewhere, albeit maybe not from the shop itself.
+
+Outside [Aroy One Baht](https://www.google.com/maps/dir//aroy+one+baht+lampang/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x30d96c7e8b4636a7:0x93cb2a4466df07f3?sa=X&ved=2ahUKEwjEh9qUyMv1AhXxjIkEHVPSBfkQ9Rd6BAgOEAM), the extremely local restaurant my guest house’s owner had recommended, a massive queue snaked around the corner. It was nearly 7 by this time—this is what happens when the magic of a city takes you far off schedule.
+
+The good news is that I ended up getting a table with only a minimal wait; they had an English menu, which saved me the long and slow task of reading Thai. The bad news? My server (if you can call the surly young man that) didn’t want to answer any questions I had about was or wasn’t local; I ended up settling on a spicy, fried needle mushroom salad, an herbal fish soup and a shrimp omelette that ended up being fish cakes.
+
+Alcohol service was also forbidden. Koh-vid seep gaaw, the waiter naggingly tapped the spot on the chit where I’d written “Beer Chang.” Blessedly, I’d forgotten there was a pandemic.
+
+I went to bed with a full belly, and with an entire orchestra of insects, frogs and toads humming around me. Some go-getting roosters joined them—they never stopped—about an hour before sunrise; the river was waking up hours before the city would.
+
+Yet my early rise was at least somewhat in vain. “The driver won’t come until 8,” the receptionist explained as she handed me the breakfast menu card just past seven. “Avoid the rush of people. Chill-chill na ka.”
+
+Although I failed to see how chilling now would diminish my stress later, the fact that the guesthouse’s coffee was real—Nescafé is a crime against humanity—pacified me enough not to dwell on it.
+
+As I waited on my khaaw tom omelette—frankly, to see how precisely these two dishes would combine into one—an alert popped up on my phone. Government mulls restarting ‘Test & Go,’ the headline read, referring to Thailand’s short-lived quarantine-free entry scheme (the one I entered the Kingdom. At last, the Thai government had accepted reality—I prayed others would follow in its footsteps.
+
+When my driver arrived just after 8, it was clear from how hurried he looked that his tardiness had not been intentional. His unkempt appearance, a baggy pink color and matted hair, didn’t help his case.
+
+Still, I tried to look on the bright side (even if doing so was hard from a literal perspective—it was a dreary morning, especially when you consider that it was still the dry season). The pastoral scenery we passed through—half-barren farmland, scrubby jungle and misty hills—imparted a calm upon me.
+
+(The bumpy songthaew ride up the mountain where the stupas of [Wat Chalermprakiat](https://thailandstartshere.com/2025/03/14/wat-chalermprakiat/) stand did precisely the opposite.)
+
+Which is fine: You don’t want to be too calm when you arrive at a place you’ve desperately wanted to visit for years. Particularly not when all eight of the other people on the Covid check-in sheet walk down during your walk up.
+
+Welcome to the Sky Pagoda, the sign said, the only sound as I stopped in front of it the jingle-jangle of distant wind chime.
+
+This site, which in spite of seeming ancient was only built in 2004 to commemorate two centuries since the reign of Rama IV, is divided into two main areas. The first is the only stupa accessible by foot, whose platform provides a nice view of about half the others. The other is a small Buddha hall with about two-dozen images of various sizes. The view is somehow less impressive (or at least, less distinctive), although the aforementioned jingling and jangling is more pronounced and haunting.
+
+It was strange, waiting for the cloudy sky to clear amid the Buddhas. I’d occasionally feel the floor shake and thinking someone else had arrived, but it was just me.
+
+I did see others an hour or so later when I finally made my way down; to my delight almost every single one of them was maskless. The famous Thai smile is so much less distinctive—it essentially doesn’t exist—when covered by a piece of cloth.
+
+Masks or not, another thing I love about the north is the genuineness of the “Sawasdee”s people send your way as you pass, and the fact that when people praise your shitty Thai (and you push back, in shitty Thai), they laugh as hysterically as you do.
+
+Arriving at the bottom, the sky fully cleared, I noticed that all the frangipani trees were bald, save for their pods and a few blessed blossoms that had not yet fallen.
+
+Arriving back in town from the Sky Pagoda, it dawned on me that my rapport with my guest house’s Italian owner was somewhat awkward. This struck me as strange, since all our interactions had consisted of me heaping heartfelt praise of [her stunning property](https://www.booking.com/hotel/th/the-riverside-guest-house.en-us.html?aid=1210065;).
+
+On my agenda for the afternoon were a slew of random tourist attractions—a ceramics factory, a historical home and at least one temple—and a slightly (and surprisingly) more difficult task: A proper Lampang meal after my pan-Thai hodgepodge at Aroy One Baht the night before.
+
+At Dhanabadee Ceramics Museum, which tells the story of [the famous “chicken bowl” made by a local Chinese-Thai immigrant](https://www.bangkokpost.com/business/1624878/lampang-crows-over-kitchenware), I distractedly fumbled through my phone in search of a culinary rosetta stone.
+
+Instead, the website informed me of an even sadder truth. Not only had most of the restaurants it recommended closed due to Covid-19; I had apparently missed out on [Lampang’s most famous temple](https://www.tourismthailand.org/Attraction/wat-phrathat-lampang-luang) (located, for no discernible reason, almost half an hour outside the modern city center) on account of my intrepid self-discovery of its city center.
+
+Indeed, by the time I crossed the bridge into Kaelang Old Town, such a destination seemed superfluous. What had I explored almost 24 hours, if not an extremely old town?
+
+Which is not to say I tired of the ornate wooden houses after seeing hundreds of their stilts or stained glass windows in blue, yellow, green and red. Or that major details, such as the legend of the liberator Chao Nan Thip Chang, casually dripped into my consciousness as I wandered amid the stupas and stone columns and traditional northern roadside shelters.
+
+The bad news, not having found any suitable dinner location, was that my backup plan (returning to Aroy One Baht) was apparently off the table. The restaurant was sealed up as if a natural disaster had occurred, with an apologetic note (“temporarily closed on Tuesdays”) pasted to the tarp that passes for a front door around these parts.
+
+The good news? This forced me to return to my hotel, where the owner was surprised upon my decision to order a Campari orange.
+
+“I only learned to love its bitter taste last year,” I explained, and briefly talked through [my latest trip to her native country the previous summer](https://leaveyourdailyhell.com/2021/09/27/pictures-of-italy/). “Before that, I was a sworn Aperol drinker.”
+
+Our belated connection, which was also relatively short-lived, put a profound point on my two days in the city of Lampang, which also passed faster than I had anticipated when I decided against staying three.
+
+Certainly, it balanced out the awkward ambiance at [the dinner restaurant I finally did find](https://www.google.com/search?q=riverside+restaurant+lampang&oq=riverside+restaurant+lampang&aqs=chrome..69i57.3191j0j7&sourceid=chrome&ie=UTF-8), where the doting of the staff came off as almost desperate. Good nampriknum, though.
+
+Given that it’s 2022 and Thailand’s past poor treatment of elephants is well-documented, I didn’t even really consider the possibility that Lampang’s [Elephant Conservation Center](https://www.thailandelephant.org/) might be a zoo.
+
+And yet the pair of pachyderms that greeted me when I arrived were chained. The one on the left, whose right eye had a cataract, was standing in a pile of its own piss. The one on the right appeared younger, in better condition overall and I guess more continent, but a similar sadness emanated from it.
+
+I thought back on my interaction and the eventual rapport I built with my guest house owner, and wondered how someone so seemingly experienced at life could recommend a place like this in good conscience. And then it dawned on me: 30 years in Thailand had made her Thai.
+
+Moral relativism is not among the many complications my eclectic travel tastes and itchy feet have caused me.
+
+As I stood gazing on in quiet horror at the scene before me, a little girl (presumably the daughter of the younger mahout, the one in a jumpsuit the same hue as my short-sleeved button down) was distractedly playing a video game.
+
+Double kill! the computerized voice congratulated her in her obliviousness. Triple kill!
+
+Selfishly, I kept my distance from the animals, even though I desperately wanted to reach out, if only to offer a brief touch of comfort. But not solidarity—I couldn’t claim that in good conscience: I’d decided, in the end, to watch the “show.”
+
+It was a ghastly spectacle ostensibly about bathing and feeding, but that really celebrated bondage at its root, an ugly way to end two otherwise beautiful days.
+
+As I left, I made another stop at the pen holding the pair of elephants who had welcomed me to the center—well, as much as a slave can welcome you to his master’s home. They seemed to be communicating with one another, flapping their trunks and waving their tails as they stood chained.
+
+I wished I could’ve understood.
+### Is Lampang worth a one-day tour?
+
+Lampang is honestly worth at least a couple of nights, if you can fit it into your [Thailand itinerary](https://thailandstartshere.com/thailand-itinerary/). Its charming and tourist-free town center evokes a simple, authentic era that has long since passed in [Chiang Mai](https://thailandstartshere.com/chiang-mai-travel-guide/), and is on its way out in [Chiang Rai](https://thailandstartshere.com/chiang-rai-travel-guide/) as well. Plus, it’s cheap, the scenery is gorgeous and the food is wonderful.
+### How can I reach Lampang from Chiang Mai?
+
+Somewhat regular buses run between Lampang and Chiang Mai’s Arcade bus station; trains between the two cities run at somewhat less regular intervals. Depending on your haggling skills, you may also be able to bargain for a taxi ride (the transit time is less than two hours) for around 1,500 Baht.
+### What is there to do in Lampang?
+
+Like other cities in Northern Thailand, Lampang features a temple-filled old city, a beautiful river and plenty of exciting day trips to take. My favorite part about Lampang? Its town center is fully explorable on foot, which means you can discover all the things to do in Lampang at your own pace.

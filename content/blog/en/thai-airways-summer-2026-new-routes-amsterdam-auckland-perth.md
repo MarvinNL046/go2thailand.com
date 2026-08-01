@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "transport"
 tags: ["Thai Airways 2026", "Bangkok flights", "Amsterdam direct flight Thailand", "Auckland Thailand", "Perth Thailand", "Thailand aviation"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth-hero.webp"
 description: "Thai Airways unveils its Summer 2026 schedule with new nonstop routes from Bangkok to Amsterdam, Auckland and Perth, plus expanded frequencies across Asia."
 featured: false
 readingTime: 3
@@ -42,8 +42,8 @@ The carrier is also introducing [new A321neo jets as part of its 32-aircraft fle
 
 More direct routes generally translate to lower fares and shorter travel times. If you are planning a trip to Thailand from Europe, Australia or New Zealand in the second half of 2026, these new Thai Airways services are worth watching when they go on sale. First-time visitors from these markets can get up to speed with our [essential guide for first-time visitors to Thailand in 2026](/blog/thailand-first-time-visitors-essential-guide-2026/).
 
-Bangkok Suvarnabhumi Airport already ranks among the busiest airports in Asia, and the Civil Aviation Authority of Thailand has designated 2026 as the "peak recovery year" for the Thai aviation industry. With multiple carriers adding capacity, competition is fierce — and that benefits the traveller. Check our [Thailand tourism outlook for 2026](/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/) for context on how this aviation growth fits into the bigger picture. Before you fly, make sure your [Thailand visa arrangements are in order](/blog/thailand-visa-guide-2026/), especially if travelling from a new market like New Zealand or Western Australia.
+Bangkok Suvarnabhumi Airport already ranks among the busiest airports in Asia, and the Civil Aviation Authority of Thailand has designated 2026 as the "peak recovery year" for the Thai aviation industry. With multiple carriers adding capacity, competition is fierce — and that benefits the traveller. Check our [Thailand tourism outlook for 2026](/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/) for context on how this aviation growth fits into the bigger picture. Before you fly, make sure your [Thailand visa arrangements are in order](/visa/), especially if travelling from a new market like New Zealand or Western Australia.
 
 ## Booking Tips
 
-Thai Airways typically opens bookings around three to four months ahead of a new route launch. Check the Thai Airways website or sign up for fare alerts through your preferred booking platform. Prices on newly launched routes are often promotional during the first weeks of sale. If you are travelling around the Songkran period, also look at the [Songkran 2026 airline discount flights](/blog/songkran-2026-airlines-discount-flights/) for additional deals. Once you have your flights booked, use our [Thailand budget guide for 2026](/blog/thailand-budget-2026-daily-costs/) to plan your on-the-ground costs, and make sure you have [travel insurance](/blog/travel-insurance-thailand-guide/) that covers long-haul itinerary changes.
+Thai Airways typically opens bookings around three to four months ahead of a new route launch. Check the Thai Airways website or sign up for fare alerts through your preferred booking platform. Prices on newly launched routes are often promotional during the first weeks of sale. If you are travelling around the Songkran period, also look at the [Songkran 2026 airline discount flights](/blog/songkran-2026-airlines-discount-flights/) for additional deals. Once you have your flights booked, use our [Thailand budget guide for 2026](/thailand-index/budget/) to plan your on-the-ground costs, and make sure you have [travel insurance](/blog/travel-insurance-thailand-guide/) that covers long-haul itinerary changes.

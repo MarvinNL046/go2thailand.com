@@ -1,0 +1,546 @@
+{
+  "captured_at": "2026-07-29T05:16:45.403Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best food in chiang mai",
+  "costs": {
+    "suggestions": 0.01356,
+    "related": 0.01308,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "best food in chiang mai",
+    "best food in chiang mai old town",
+    "best food in chiang mai reddit",
+    "best food markets in chiang mai",
+    "best local food in chiang mai",
+    "best non thai food in chiang mai",
+    "best street food in chiang mai",
+    "best thai food chiang mai old town",
+    "best thai food in chiang mai",
+    "best western food in chiang mai"
+  ],
+  "keywords": [
+    {
+      "keyword": "best food in chiang mai",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "michelin star restaurants chiang mai",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "famous food in chiang mai",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food in chiang mai old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food in chiang mai reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food markets in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best local food in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best non thai food in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food chiang mai old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai food in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best western food in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang mai must-try food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 restaurants in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best food in nimman chiang mai",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best authentic thai food in chiang mai",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best food in chiang mai nimman",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best northern thai food in chiang mai",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 21.28
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 11.34
+    },
+    {
+      "domain": "dishelinguide.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 6.811
+    },
+    {
+      "domain": "www.legalnomads.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 4.613
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 3.283
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 2.3659999999999997
+    },
+    {
+      "domain": "www.wearethemouth.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 1.792
+    },
+    {
+      "domain": "www.emilyluxton.co.uk",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.379
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.05
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.637
+    },
+    {
+      "domain": "www.willflyforfood.net",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "biglittletravels.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.413
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.392
+    },
+    {
+      "domain": "travelinsighter.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.35700000000000004
+    },
+    {
+      "domain": "thebohochica.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.301
+    },
+    {
+      "domain": "www.cookly.me",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.301
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.231
+    },
+    {
+      "domain": "www.wheregoesrose.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.161
+    },
+    {
+      "domain": "eatbook.sg",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.154
+    },
+    {
+      "domain": "www.travelup.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "jetsettimes.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "theordinarykatalog.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "catisoutoftheoffice.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.veryhungrynomads.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "bucketlistbombshells.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.sitfortheroad.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "jamiechancetravels.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "travelguidestip.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.timeout.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.bestpricetravel.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.nomadotravel.app",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.adventureinyou.com",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "tw.hotels.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "idealmagazine.co.uk",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.laughtraveleat.com",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.theblondtravels.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.petitfute.co.uk",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "duffelbagspouse.com",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.ensquaredaired.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "wanderlog.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.kathmanduandbeyond.com",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.foodieflashpacker.com",
+      "avgPosition": 48,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "web.hungryhub.com",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.kkday.com",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.thaiholidayguide.com",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "walkaboutmonkey.com",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.eater.com",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    }
+  ]
+}

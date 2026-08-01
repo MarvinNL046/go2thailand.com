@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-new-house-speaker-sophon-zaram-bhumjaithai-2026",
+  "route": "/nl/blog/thailand-new-house-speaker-sophon-zaram-bhumjaithai-2026/",
+  "cluster": "policy",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Sophon Zaram: bericht gearchiveerd | Go2Thailand",
+    "description": "Dit feitelijke bericht over de Thaise parlementsvoorzitter is gearchiveerd omdat het geen zelfstandige taak voor Thailand-reizigers beantwoordt.",
+    "primaryKeyword": "Sophon Zaram voorzitter",
+    "secondaryKeywords": ["voorzitter Thailand parlement", "House Speaker Thailand 2026", "Thais Huis van Afgevaardigden"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-new-house-speaker-sophon-zaram-bhumjaithai-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gearchiveerd politiek bericht",
+    "title": "Voorzittersbericht gearchiveerd",
+    "accent": "Geen zelfstandige reizigerstaak",
+    "description": "De benoeming blijft feitelijk gedocumenteerd, maar hoort niet als actieve landingspagina binnen een reissite.",
+    "image": "/images/redesign/editorial/thailand-new-house-speaker-sophon-zaram-bhumjaithai-2026-hero.webp",
+    "imageAlt": "Lege parlementaire vergaderzaal met voorzitterspodium en houten details",
+    "primaryCta": { "label": "Lees de archiefstatus", "href": "#lifecycle" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Dit correcte maar niet-reisgerichte benoemingsbericht is gearchiveerd en noindex. Er is geen redirect omdat geen inhoudelijk passende reizigerseigenaar bestaat.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "cream", "title": "Waarom gearchiveerd?", "description": "De benoeming heeft geen zelfstandige planningstaak of blijvende zoekintentie voor Thailand-reizigers. De pagina krijgt daarom noindex zonder redirect." },
+    { "kind": "card-grid", "id": "bevestigd", "title": "Wat is feitelijk bevestigd?", "cards": [
+      { "title": "Datum", "description": "De verkiezing vond plaats op 15 maart 2026.", "label": "15 maart" },
+      { "title": "Functie", "description": "Voorzitter van het Thaise Huis van Afgevaardigden.", "label": "House Speaker" },
+      { "title": "Stemming", "description": "Thai PBS rapporteerde 289 stemmen voor Sophon en 123 voor zijn tegenkandidaat.", "label": "Parlement" }
+    ] },
+    { "kind": "prose", "id": "functie", "title": "De institutionele rol", "markdown": "De voorzitter leidt vergaderingen, bewaakt de parlementaire procedure en vertegenwoordigt het Huis. De voorzitter is niet de premier of een minister en beslist niet zelfstandig over immigratie, toerisme of veiligheidsbeleid." },
+    { "kind": "callout", "id": "geen-reisclaim", "tone": "warning", "title": "Geen reisconclusie uit één benoeming", "description": "De verkiezing bewijst niets over politieke stabiliteit, protesten, visa, wisselkoersen of persoonlijke veiligheid. Gebruik voor reisbesluiten afzonderlijke actuele officiële bronnen." },
+    { "kind": "related", "id": "praktisch", "title": "Praktische informatie", "items": [
+      { "title": "Reisadvies Thailand", "description": "Controleer het actuele Nederlandse reisadvies vlak voor vertrek.", "href": "https://www.nederlandwereldwijd.nl/reisadvies/thailand" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen", "items": [
+      { "title": "House of Representatives Thailand", "publisher": "IPU Parline", "url": "https://data.ipu.org/parliament/TH/TH-LC01/", "checkedAt": "2026-08-01", "note": "Registreert Sophon Zaram als voorzitter, gekozen op 15 maart 2026." },
+      { "title": "Sophon wins House Speaker vote", "publisher": "Thai PBS", "url": "https://www.thaipbs.or.th/news/content/503364", "checkedAt": "2026-08-01", "note": "Verslag van de stemming en stemverhouding." },
+      { "title": "Prime Minister appointed for second term", "publisher": "Royal Thai Government", "url": "https://www.thaigov.go.th/en/news/162464", "checkedAt": "2026-08-01", "note": "Institutionele context rond de latere premiersstemming." }
+    ] }
+  ]
+}

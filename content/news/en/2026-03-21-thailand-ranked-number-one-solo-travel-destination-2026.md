@@ -55,6 +55,6 @@ Based on the ranking data and our own experience:
 | [Pai](https://go2-thailand.com/city/pai/) | Relaxation, yoga, mountain scenery | Excellent | 600–1,000 THB |
 | [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) | Quiet beaches, solo female travelers | Excellent | 800–1,400 THB |
 
-For a detailed guide, see our [Solo Female Travel in Thailand](https://go2-thailand.com/blog/solo-female-travel-thailand-safety-tips/) article.
+For a detailed guide, see our [Solo Female Travel in Thailand](/travel-guides/solo-female-travel-thailand/) article.
 
 *Sources: [Travel And Tour World](https://www.travelandtourworld.com/news/article/thailand-tops-the-global-solo-travel-rankings-in-2026-a-safe-diverse-and-adventurous-destination-for-independent-travelers/), [Travel And Tour World — Thai Airways solo surge](https://www.travelandtourworld.com/news/article/thailands-tourism-soars-in-2026-how-thai-airways-and-local-hotels-are-reaping-the-rewards-of-the-solo-travel-surge/)*

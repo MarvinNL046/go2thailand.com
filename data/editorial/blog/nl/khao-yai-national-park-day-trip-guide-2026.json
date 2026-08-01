@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "khao-yai-national-park-day-trip-guide-2026",
+  "route": "/nl/blog/khao-yai-national-park-day-trip-guide-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Khao Yai National Park vanuit Bangkok | Go2Thailand",
+    "description": "Plan Khao Yai vanuit Bangkok: vervoer, dagtrip of overnachting, wandelroutes, watervallen, wildlife en officiële veiligheidsregels voor bezoekers.",
+    "primaryKeyword": "khao yai national park",
+    "secondaryKeywords": ["khao yai dagtrip bangkok", "khao yai vanuit bangkok", "khao yai bezoeken"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/khao-yai-national-park-day-trip-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Jungle dicht bij Bangkok",
+    "title": "Khao Yai National Park",
+    "accent": "Dagtrip of langer?",
+    "description": "Een groen contrast met Bangkok, maar geen simpele uitstap zonder planning: in het park zelf is eigen vervoer of een georganiseerde tour belangrijk.",
+    "image": "/images/redesign/editorial/khao-yai-national-park-day-trip-guide-2026-hero.webp",
+    "imageAlt": "Dichte groene jungle en waterval in Khao Yai National Park",
+    "primaryCta": { "label": "Plan je bezoek", "href": "#routekeuze" },
+    "secondaryCta": { "label": "Veiligheidsregels", "href": "#veilig-op-pad" }
+  },
+  "layout": {
+    "kind": "destination-guide",
+    "geography": "region",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Een dagtrip kan als je vervoer vooraf geregeld is en je enkele hoogtepunten kiest. Voor wandelen, wildlife en een rustiger tempo geeft één overnachting duidelijk meer ruimte.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "routekeuze",
+      "title": "Kies eerst je manier van reizen",
+      "description": "De officiële parkwebsite meldt dat er geen regulier vervoer tussen de bezienswaardigheden in het park rijdt.",
+      "options": [
+        { "title": "Georganiseerde dagtour", "description": "Logisch als je één dag hebt en vervoer, route en gids in één keer wilt regelen.", "label": "Meeste gemak", "note": "Controleer groepsgrootte en inbegrepen parkentree." },
+        { "title": "Eigen auto", "description": "Geeft de meeste vrijheid voor uitzichtpunten, watervallen en stops tussen de twee ingangen.", "label": "Meeste vrijheid", "note": "Rijd rustig en volg aanwijzingen bij wildlife." },
+        { "title": "Pak Chong + lokale transfer", "description": "Bus of trein brengt je tot Pak Chong; regel daarna vervoer naar én binnen het park.", "label": "Zelf plannen", "note": "Ga niet uit van spontaan parktransport." }
+      ]
+    },
+    {
+      "kind": "card-grid",
+      "id": "hoogtepunten",
+      "eyebrow": "Kies niet te veel",
+      "title": "Drie soorten ervaringen",
+      "cards": [
+        { "title": "Watervallen", "description": "Haew Narok en Haew Suwat zijn bekende stops; omstandigheden en toegankelijkheid verschillen per seizoen.", "label": "Water" },
+        { "title": "Korte natuurroute", "description": "Kies een route die past bij tijd, conditie en actuele parkregels; sommige trails vereisen begeleiding.", "label": "Wandelen" },
+        { "title": "Wildlife observeren", "description": "Houd afstand, voer dieren nooit en laat de route vrij wanneer een olifant op de weg verschijnt.", "label": "Wildlife" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "veilig-op-pad",
+      "title": "Veilig en respectvol het park in",
+      "items": [
+        "Controleer weer, wegcondities en eventuele afsluitingen op de bezoekdag",
+        "Neem water, regenkleding, zonbescherming en stevige schoenen mee",
+        "Blijf minimaal 30 meter van een olifant en gebruik geen claxon of flits",
+        "Voer of raak wilde dieren nooit aan",
+        "Neem afval mee en respecteer rook-, drone- en alcoholregels"
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "tour-vergelijken",
+      "provider": "klook",
+      "title": "Bekijk of er een passende Khao Yai-tour beschikbaar is",
+      "description": "Controleer de actuele route, ophaallocatie, groepsgrootte en inbegrepen entree rechtstreeks bij de aanbieder voordat je boekt.",
+      "cta": { "label": "Controleer actuele tours", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true },
+      "placement": "khao-yai-daytrip",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen wanneer je via deze link boekt, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Khao Yai",
+      "items": [
+        { "question": "Kan Khao Yai als dagtrip vanuit Bangkok?", "answer": "Ja, maar alleen met een compacte route en vooraf geregeld vervoer. Door de reistijd en afstanden in het park past één overnachting beter bij een rustiger bezoek." },
+        { "question": "Hoe laat is Khao Yai National Park open?", "answer": "De officiële bezoekerspagina vermeldt dagelijks 06.00–18.00 uur. Controleer kort voor vertrek ook tijdelijke afsluitingen en lokale mededelingen." },
+        { "question": "Rijdt er openbaar vervoer in Khao Yai National Park?", "answer": "De officiële parkwebsite geeft aan dat er geen vervoersdienst tussen de attracties in het park beschikbaar is. Regel daarom een auto, chauffeur of tour." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire informatie voor je bezoek",
+      "items": [
+        { "title": "Plan Your Visit", "publisher": "Khao Yai National Park", "url": "https://khaoyainationalpark.com/en/plan-your-visit", "checkedAt": "2026-07-31", "note": "Openingstijden, vervoer, veiligheid, toegankelijkheid en parkregels." },
+        { "title": "UNESCO Dong Phayayen-Khao Yai Forest Complex", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/590/", "checkedAt": "2026-07-31", "note": "Context over de werelderfgoedstatus en ecologische waarde." }
+      ]
+    }
+  ]
+}

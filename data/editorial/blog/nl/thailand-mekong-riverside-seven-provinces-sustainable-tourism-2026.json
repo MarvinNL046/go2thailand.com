@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-mekong-riverside-seven-provinces-sustainable-tourism-2026",
+  "route": "/nl/blog/thailand-mekong-riverside-seven-provinces-sustainable-tourism-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Mekongroute Thailand: zeven provincies | Go2Thailand",
+    "description": "Bouw een rustige Mekongroute door zeven Thaise provincies en begrijp wat de officiële studie voor 2026–2027 wel en niet bevestigt.",
+    "primaryKeyword": "Mekong route Thailand",
+    "secondaryKeywords": ["Mekong zeven provincies", "Isaan route", "Mekong slow travel"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-mekong-riverside-seven-provinces-sustainable-tourism-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Noordoost-Thailand · routeplanner",
+    "title": "Langs de Mekong",
+    "accent": "Zeven provincies, plan in modules",
+    "description": "De overheidsstudie loopt in 2026–2027. Gebruik de zeven provincies als routekader, niet als kant-en-klaar reisproduct.",
+    "image": "/images/redesign/editorial/thailand-mekong-riverside-seven-provinces-sustainable-tourism-2026-hero.webp",
+    "imageAlt": "Rustige weg en fietser langs de Mekong in noordoostelijk Thailand",
+    "primaryCta": { "label": "Kies een routeblok", "href": "#modules" },
+    "secondaryCta": { "label": "Lees de status", "href": "#status" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "route", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "De officiële studie omvat Loei, Nong Khai, Bueng Kan, Nakhon Phanom, Mukdahan, Amnat Charoen en Ubon Ratchathani. Plan twee of drie aangrenzende provincies in plaats van alle zeven in één haastige reis.",
+  "blocks": [
+    { "kind": "callout", "id": "status", "tone": "cream", "title": "Studie, geen gelanceerde route", "description": "Het ministerie onderzoekt in 2026–2027 richtlijnen voor jaarrond toerisme. Dat bevestigt nog geen officiële dienstregeling, boekbaar pakket of duurzaam keurmerk." },
+    {
+      "kind": "card-grid",
+      "id": "modules",
+      "title": "Drie werkbare routeblokken",
+      "cards": [
+        { "title": "Noord", "description": "Loei en Nong Khai. Combineer rivierplaatsen alleen na controle van de actuele landverbindingen.", "label": "2 provincies" },
+        { "title": "Midden", "description": "Bueng Kan, Nakhon Phanom en Mukdahan. Reserveer voldoende tijd voor intercityverplaatsingen.", "label": "3 provincies" },
+        { "title": "Zuid", "description": "Amnat Charoen en Ubon Ratchathani. Gebruik Ubon als vervoersanker en controleer lokaal vervoer verder noordwaarts.", "label": "2 provincies" }
+      ]
+    },
+    { "kind": "steps", "id": "bouwen", "title": "Zo bouw je de route", "steps": [
+      { "title": "Kies één module", "description": "Laat beschikbare dagen bepalen hoeveel provincies realistisch zijn." },
+      { "title": "Plan transfers apart", "description": "Niet iedere rivierplaats heeft spoor; controleer bus, auto en lokale overstappen live." },
+      { "title": "Voeg één anker per stop toe", "description": "Kies een markt, museum, landschap of lokaal evenement in plaats van een lange afvinklijst." },
+      { "title": "Controleer vlak voor vertrek", "description": "Weer, vaarprogramma’s, evenementen en grenssituaties kunnen veranderen." }
+    ] },
+    { "kind": "checklist", "id": "verantwoord", "title": "Praktisch verantwoord reizen", "items": [
+      "Blijf langer op minder plaatsen en koop rechtstreeks bij lokale ondernemers.",
+      "Vraag toestemming voor portretten, huizen en religieuze rituelen.",
+      "Gebruik een lokale gids wanneer context of toegang dat rechtvaardigt.",
+      "Laat geen afval achter en verstoor rivieroevers of landbouwgrond niet.",
+      "Behandel ‘duurzaam’ als controleerbare praktijk, niet als automatisch label."
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bronnen", "items": [
+      { "title": "Samenwerkingsstrategie toerisme", "publisher": "Ministry of Tourism and Sports", "url": "https://secretary.mots.go.th/strategy/images/download/article/article_20250828092434.pdf", "checkedAt": "2026-08-01", "note": "Noemt de studieperiode 2026–2027 en de zeven provincies." },
+      { "title": "Regional tourism cooperation and connectivity", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/06/tat-promotes-regional-tourism-cooperation-and-connectivity-through-ttm-2026/", "checkedAt": "2026-08-01", "note": "Actuele context voor Mekong- en GMS-verbindingen." }
+    ] }
+  ]
+}

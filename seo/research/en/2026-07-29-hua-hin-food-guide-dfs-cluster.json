@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-29T08:53:07.831Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "hua hin food guide",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "hua hin food guide"
+  ],
+  "keywords": [
+    {
+      "keyword": "hua hin food guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

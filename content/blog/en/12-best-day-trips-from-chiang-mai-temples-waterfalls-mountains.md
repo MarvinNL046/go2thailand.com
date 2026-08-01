@@ -23,7 +23,7 @@ sources:
   - name: "Chiang Mai Traveller"
     url: "https://www.chiangmaitraveller.com/"
 ---
-Imagine waking up in the misty hills of **Chiang Mai**, grabbing a steaming bowl of [khao soi](https://go2-thailand.com/food/khao-soi/) from a street vendor, and heading out for an adventure just an hour away—where golden temples pierce the clouds and waterfalls roar after the rains. During our three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we escaped the old city's buzz on countless **day trips**, discovering hidden gems that feel worlds apart yet close enough for a full-day loop.
+Imagine waking up in the misty hills of **Chiang Mai**, grabbing a steaming bowl of [khao soi](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/) from a street vendor, and heading out for an adventure just an hour away—where golden temples pierce the clouds and waterfalls roar after the rains.
 
 ## Key Takeaways
 
@@ -39,7 +39,7 @@ Imagine waking up in the misty hills of **Chiang Mai**, grabbing a steaming bowl
 
 ## 1. Doi Suthep: Iconic Temple on the Mountain
 
-Perched 1,060 meters above [Chiang Mai](https://go2-thailand.com/things-to-do/chiang-mai/), **Doi Suthep** is the ultimate first **day trip**, blending spirituality with panoramic views. We hiked the 306-step Naga staircase countless times during our stay, feeling the cool breeze cut through the afternoon heat.
+Perched 1,060 meters above [Chiang Mai](https://go2-thailand.com/city/chiang-mai/attractions/), **Doi Suthep** is the ultimate first **day trip**, blending spirituality with panoramic views.
 
 ### History and Highlights
 Wat Phra That Doi Suthep, founded in 1383, houses a sacred relic drawing pilgrims year-round. The golden chedi gleams against pine forests, offering 360-degree vistas on clear days.
@@ -55,28 +55,12 @@ Just 15km from the old city, hop on a [songthaew](https://12go.tpo.lv/tNA80urD?s
 >
 > *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/Attraction/doi-suthep-pui-national-park)*
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & [Activities](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 Link your **Doi Suthep** visit to our full [Chiang Mai attractions guide](https://go2-thailand.com/city/chiang-mai/attractions/) for more.
 
 ## 2. Doi Inthanon: Thailand's Highest Peak
 
-The crown jewel of **day trips from Chiang Mai**, **Doi Inthanon National Park** soars to 2,565 meters, where clouds hug the treetops. In our experience living nearby, we visited in December fog, watching waterfalls thunder after morning mist lifted—pure magic.
+The crown jewel of **day trips from Chiang Mai**, **Doi Inthanon National Park** soars to 2,565 meters, where clouds hug the treetops.
 
 ### Twin Pagodas and Trails
 The King and Queen Pagodas honor royals, with viewpoints over rice terraces. Hike the Nature Trail for orchids and rare birds.
@@ -94,22 +78,6 @@ Wachirathan and Sirithorn Waterfalls cascade dramatically; spot gibbons if quiet
 
 Read our deep dive in the [Doi Inthanon National Park Thailand Highest Peak](https://go2-thailand.com/blog/doi-inthanon-national-park-thailand-highest-peak/) blog.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">[Book Your Stay](https://booking.tpo.lv/2PT1kR82?subid=blog)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 3. Chiang Rai's White Temple: Surreal Art Meets Sacred
 
@@ -125,7 +93,7 @@ Pair with Wat Rong Seua Ten (Blue Temple) 5km away for color contrast and intric
 - **Photography Hotspot:** Reflections in the moat at golden hour.
 - **Avoid Weekends:** Crowds peak; weekdays serene.
 
-Explore more in our [Chiang Rai destinations guide](https://go2-thailand.com/destinations/chiang-rai/).
+Explore more in our [Chiang Rai destinations guide](https://go2-thailand.com/city/chiang-rai/).
 
 ## 4. Sticky Waterfalls (Bua Tong): Climb the Cascade
 
@@ -143,26 +111,10 @@ Relax in natural pools post-hike, entry 40 THB.
 >
 > *Source: [Lonely Planet Thailand](https://www.lonelyplanet.com/thailand/northern-thailand/chiang-mai-province/attractions/sticky-waterfalls/a/poi-sig/1506699/1323317)*
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 5. Mae Kampong Village: Bamboo Bridges and Tea
 
-Tucked in misty hills 50km east, **Mae Kampong** offers a peaceful **village day trip** with teak houses and forest paths. We spent afternoons here sipping herbal teas, escaping Chiang Mai's April scorch.
+Tucked in misty hills 50km east, **Mae Kampong** offers a peaceful **village day trip** with teak houses and forest paths.
 
 ### Traditional Lanna Culture
 Cross swaying bamboo bridges over streams; visit a tea plantation for processing demos.
@@ -224,7 +176,7 @@ Picnic spots abundant.
 
 ## 9. Mae Sa Valley: Waterfalls and Orchids
 
-Westward 30km, this valley chains five waterfalls and orchid farms. Family favorite during our Chiang Mai years.
+Westward 30km, this valley chains five waterfalls and orchid farms.
 
 ### Sequential Falls
 Hike Mae Sa to Mae Ya—cool swims each.
@@ -246,22 +198,6 @@ Thai BBQ by the water.
 
 **Connectivity Tip:** Grab an [eSIM](https://go2-thailand.com/esim/) for maps.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 11. Royal Project Villages: Hill Tribe Insights
 
@@ -290,26 +226,10 @@ Start 7am songthaew to Doi Suthep (temple, hike). Lunch en route, afternoon Stic
 
 **Day 2:** Samoeng Loop + Mae Sa.
 
-**Day 3:** Chiang Rai temples. Base in Chiang Mai—book via [Chiang Mai hotels guide](https://go2-thailand.com/city/chiang-mai/hotels/).
+**Day 3:** Chiang Rai temples. Base in Chiang Mai—book via [Chiang Mai hotels guide](https://go2-thailand.com/best-hotels/chiang-mai/).
 
 We may earn a small commission from bookings made through our links, at no extra cost to you. This helps us keep creating free travel guides.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## Frequently Asked Questions
 
@@ -334,4 +254,4 @@ Higher mountains like Doi Inthanon for cooler air (15-25°C vs city 35°C+). Hyd
 ### Do I need a guide for Chiang Mai waterfalls?
 Not essential for Sticky Falls, but recommended for safety at multi-level sites like Mae Sa.
 
-From ancient spires to thundering falls, these **12 best day trips from Chiang Mai** showcase northern Thailand's raw beauty—perfect escapes we've cherished over years exploring as locals. Ready to plan? Dive into our [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) or [5 Days Northern itinerary](https://go2-thailand.com/itineraries/5-days-northern/) for seamless adventures. Trust our firsthand insights from three years in the Lanna heartland. Safe travels!
+Ready to plan? Dive into our [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) or [5 Days Northern itinerary](https://go2-thailand.com/itineraries/5-days-northern/) for seamless adventures. Safe travels!

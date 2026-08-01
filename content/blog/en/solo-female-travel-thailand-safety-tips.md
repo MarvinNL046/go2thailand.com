@@ -61,7 +61,7 @@ Before you book your flight, handle the administrative groundwork. This takes 2�
 
 ### Visa Requirements and Entry Documents
 
-Most Western nationalities (US, UK, Canada, Australia, EU) receive a 30-day visa exemption when arriving by air. No advance visa is needed—you simply arrive and get stamped. However, you must complete the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) online at least 3 days before arrival. This takes 10 minutes and is free.
+Visa exemption differs by passport and purpose. At our 27 July 2026 source check, an ordinary British passport can normally use the current exemption for up to 60 days, subject to entry conditions. Complete the separate, free [Thailand Digital Arrival Card](https://tdac.immigration.go.th/) within its official three-day submission window and check the [visa finder](/visa/) for other routes.
 
 If you plan to stay longer than 30 days, apply for a [Tourist Visa](https://go2-thailand.com/visa/tourist-visa/) (60 days, costs approximately 2,000 THB / $55 USD) at a Thai embassy before departure. Check your specific nationality requirements on the [official Thailand visa page](https://go2-thailand.com/visa/).
 
@@ -260,7 +260,7 @@ Thailand is affordable, but you need a solid financial plan to avoid stress and 
 
 **Money belts**: Carry your passport copy, emergency cash (500–1,000 THB), and one credit card in a money belt. Keep your main cash and cards separate.
 
-**Scams to avoid**: Gem scams, currency exchange scams, and "friendly local" scams are common. If an offer seems too good to be true, it is. Avoid changing money on the street. See our full [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) for a complete breakdown.
+**Scams to avoid**: Gem scams, currency exchange scams, and "friendly local" scams are common. If an offer seems too good to be true, it is. Avoid changing money on the street. See our full [Thailand travel scams guide](/practical-info/scams-safety/) for a complete breakdown.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -459,7 +459,7 @@ Use discretion. With other travelers and tourism workers, being solo is normal a
 
 ### What should I pack for solo travel in Thailand?
 
-Pack light. You'll do laundry frequently, and heavy luggage is a burden. Essentials: lightweight clothes, comfortable walking shoes, swimwear, sunscreen, a small first-aid kit, a power bank, and a lightweight daypack. Leave space for souvenirs. See our [packing list guide](https://go2-thailand.com/practical-info/packing-list/) for details.
+Pack light. You'll do laundry frequently, and heavy luggage is a burden. Essentials: lightweight clothes, comfortable walking shoes, swimwear, sunscreen, a small first-aid kit, a power bank, and a lightweight daypack. Leave space for souvenirs. See our [packing list guide](/travel-gear/) for details.
 
 ### Can I extend my stay beyond 30 days?
 
@@ -485,6 +485,6 @@ Stay in social hostels, take group cooking classes, join organized tours, and at
 
 Start in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or [Bangkok](https://go2-thailand.com/city/bangkok/), stay in reputable accommodation, use trusted transport, and trust your instincts. Join the community of solo female travelers—you're far from alone. Most importantly, embrace the adventure. Thailand rewards curiosity, respect, and openness.
 
-Ready to start planning? Check out our [Thailand travel guides](https://go2-thailand.com/travel-guides/) for detailed information on specific regions, our [island guides](https://go2-thailand.com/islands/) for beach destinations, and our [city guides](https://go2-thailand.com/city/) for urban exploration. Also worth reading: [is Thailand safe for tourists in 2026?](/blog/is-thailand-safe-tourists-2026/), our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/), the [Thailand Digital Arrival Card guide](/blog/thailand-digital-arrival-card-tdac-guide/), and the broader [Thailand solo travel boom 2026](/blog/thailand-solo-travel-boom-2026-tips-destinations/) article. You've got this.
+Ready to start planning? Check out our [Thailand travel guides](https://go2-thailand.com/travel-guides/) for detailed information on specific regions, our [island guides](https://go2-thailand.com/islands/) for beach destinations, and our [city guides](https://go2-thailand.com/city/) for urban exploration. Also worth reading: [is Thailand safe for tourists in 2026?](/is-thailand-safe/), our [Thailand budget guide](/thailand-index/budget/), the [Thailand Digital Arrival Card guide](/visa/digital-arrival-card/), and the broader [Thailand solo travel boom 2026](/blog/thailand-solo-travel-boom-2026-tips-destinations/) article. You've got this.
 
 **Safe travels, and we hope to see you in Thailand soon.**

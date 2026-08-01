@@ -1,0 +1,2277 @@
+{
+  "captured_at": "2026-07-27T11:38:30.252Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "phuket old town",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.01488,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "phuket old town",
+    "old phuket town",
+    "old town in phuket",
+    "old town phuket",
+    "old town phuket thailand",
+    "hotel in phuket old town",
+    "hotels in old town phuket",
+    "hotels in phuket old town",
+    "hotels phuket old town",
+    "old phuket town hotels",
+    "old town phuket hotels",
+    "phuket old town hotels",
+    "things to do in old phuket town",
+    "things to do in old town phuket",
+    "things to do in phuket old town",
+    "old town phuket restaurants",
+    "phuket old town restaurants",
+    "best restaurant phuket old town",
+    "best restaurants phuket old town"
+  ],
+  "keywords": [
+    {
+      "keyword": "old phuket town",
+      "volume": 4400,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town in phuket",
+      "volume": 4400,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "old town phuket thailand",
+      "volume": 4400,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town",
+      "volume": 4400,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "old phuket town market",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town markets",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket market",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket old town market",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket old town sunday night market walking street",
+      "volume": 210,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town night market",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town night market",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in phuket old town",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in old town phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in phuket old town",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels phuket old town",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town hotel",
+      "volume": 110,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town hotels",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket hotels",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town hotel",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town hotels",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in old phuket town",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in old town phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in phuket old town",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town restaurants",
+      "volume": 50,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket restaurants",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket old town restaurants",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "ratri hotel phuket old town",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurant phuket old town",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants phuket old town",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town things to do",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket night market",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town things to do",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in old phuket town",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in phuket old town",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in phuket old town",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach to phuket old town",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata beach to phuket old town",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "night market phuket old town",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town market phuket",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong to old phuket town",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to old town",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to phuket old town",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town sunday night market walking street photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurant phuket old town",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants phuket old town",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in old town phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do old town phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to see in phuket old town",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "99 old town boutique phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "99 old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airbnb phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bar in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bars in old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bars in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bars phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beach near old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beaches near phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best bars in old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beach near phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beaches near phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best cafe in old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best cafe in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best cafe phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best cafes in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best coffee in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotel in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best massage old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best street food in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai restaurants in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best things to do in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bike rental phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "blanket hotel phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "blu monkey hub and hotel phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "blu monkey phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "blue elephant phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bus station phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "capybara cafe phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "courtyard marriott phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "day trips from phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "efe old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "free walking tour phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gay massage phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "go go bars phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "history of phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hostel phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hostels in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels near old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how far is old town phuket from patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get to old town phuket from patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ibis phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "indian restaurant in old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "indian restaurant in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "instagrammable cafe in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "is old town phuket safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is phuket old town worth a visit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon to old phuket town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata beach to old phuket town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kim's massage & spa 5 phuket old town photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kim's massage old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "michelin star restaurants phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "money exchange phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "motorbike rental phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "naka market to phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "night club phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "night market old town phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in phuket old town",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town directions",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town market opening times",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town night market time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town sunday market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "old phuket town thalang road",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town things to do nearby",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket town tours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town massage phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town of phuket",
+      "volume": 10,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket bars",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket cafes",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket chinese new year",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket direction",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "old town phuket directions",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "old town phuket market opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket night market sunday",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "old town phuket opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket shops",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "old town phuket things to do",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "old town phuket timings",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket to big buddha",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old town phuket weather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "on on hotel phuket old town",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong to old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket 101 old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket night market old town",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town accommodation",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town attractions",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town boutique hotel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town bus station",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town festival",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town history",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket old town hotels with pool",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town luggage storage",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket old town market opening times",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket old town market saturday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town market sunday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town michelin star restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town museum",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town new years eve",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town night market opening times",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town night market time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town photo spots",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town pictures",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket old town red light district",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town shops",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket old town street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town sunday market opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town sunday night market walking street reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town temple",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket old town things to do nearby",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town to airport distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town to krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town to monkey hill",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town to naka market",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town to phi phi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town what to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town yellow building",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "que ver en phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ratri hotel phuket old town photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "raya old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in old town phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rooftop bar phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "roti phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sansabai massage phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scooter rental phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shopping in old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sports bar phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "starbucks phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "street food phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunday market phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sunset phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taxi phuket airport to old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai cooking class phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in phuket old town at night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do phuket old town",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan food phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian restaurant phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat chalong to phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what time does old town phuket close",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to eat in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to stay in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "yoga phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2.5714285714285716,
+      "keywordCount": 7,
+      "visibility": 5.9,
+      "estimatedTraffic": 2106.9370000000004
+    },
+    {
+      "domain": "www.midnightblueelephant.com",
+      "avgPosition": 9.428571428571429,
+      "keywordCount": 7,
+      "visibility": 4.749999999999999,
+      "estimatedTraffic": 2095.127
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 11.857142857142858,
+      "keywordCount": 7,
+      "visibility": 0.7,
+      "estimatedTraffic": 118.962
+    },
+    {
+      "domain": "girleatworld.net",
+      "avgPosition": 16,
+      "keywordCount": 7,
+      "visibility": 1.2,
+      "estimatedTraffic": 26.557999999999996
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 17.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.75,
+      "estimatedTraffic": 174.93200000000002
+    },
+    {
+      "domain": "www.jamiesphuketblog.com",
+      "avgPosition": 4,
+      "keywordCount": 5,
+      "visibility": 3.5,
+      "estimatedTraffic": 737.838
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 11.2,
+      "keywordCount": 5,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 417.669
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 17.2,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 51.958000000000006
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 18.4,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 19.586
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 24.8,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 25.509
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 25.2,
+      "keywordCount": 5,
+      "visibility": 0.4,
+      "estimatedTraffic": 122.321
+    },
+    {
+      "domain": "northabroad.com",
+      "avgPosition": 9.25,
+      "keywordCount": 4,
+      "visibility": 2.4000000000000004,
+      "estimatedTraffic": 729.7139999999999
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 9.5,
+      "keywordCount": 4,
+      "visibility": 1.05,
+      "estimatedTraffic": 27.235
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 12.75,
+      "keywordCount": 4,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 116.798
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 14.25,
+      "keywordCount": 4,
+      "visibility": 1.25,
+      "estimatedTraffic": 31.525
+    },
+    {
+      "domain": "www.whatsoninphuket.com",
+      "avgPosition": 36.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.921
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 3,
+      "keywordCount": 3,
+      "visibility": 2.4,
+      "estimatedTraffic": 188.64
+    },
+    {
+      "domain": "www.laughtraveleat.com",
+      "avgPosition": 42,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 18.921
+    },
+    {
+      "domain": "idealmagazine.co.uk",
+      "avgPosition": 31.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.841
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 1.6,
+      "estimatedTraffic": 24.472
+    },
+    {
+      "domain": "www.clubmed.co.th",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 30.271
+    },
+    {
+      "domain": "www.thethaipass.com",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 43.917
+    },
+    {
+      "domain": "budgettraveller.org",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.65,
+      "estimatedTraffic": 13.048
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 22,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.andamandaphuket.com",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 18.893
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 24,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.846
+    },
+    {
+      "domain": "www.novotel-phuket-phokeethra.com",
+      "avgPosition": 25,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 18.669
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 32,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.627000000000002
+    },
+    {
+      "domain": "phuket-cheap-tour.com",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.627000000000002
+    },
+    {
+      "domain": "www.myphuketpass.com",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 18.872
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 42.56
+    },
+    {
+      "domain": "www.yourtourdesk.com",
+      "avgPosition": 35.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.627000000000002
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 13.622
+    },
+    {
+      "domain": "whileyoustayhome.com",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 297.44
+    },
+    {
+      "domain": "www.rjdexplorer.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 4.662
+    },
+    {
+      "domain": "www.willflyforfood.net",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 3.584
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 6.898999999999999
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 6.4
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 6.475999999999999
+    },
+    {
+      "domain": "www.google.co.in",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.30000000000000004,
+      "estimatedTraffic": 3.343
+    },
+    {
+      "domain": "avianexperiences.com",
+      "avgPosition": 40,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.627000000000002
+    },
+    {
+      "domain": "tapasphuket.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.5819999999999999
+    },
+    {
+      "domain": "trulyexpattravel.com",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.407
+    },
+    {
+      "domain": "www.hopinnhotel.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 2.364
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.45,
+      "estimatedTraffic": 13.672
+    },
+    {
+      "domain": "mindtrip.ai",
+      "avgPosition": 42.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.627000000000002
+    },
+    {
+      "domain": "www.pullmanphuketpanwa.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 51.92
+    },
+    {
+      "domain": "arosieworld.com",
+      "avgPosition": 43,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 18.627000000000002
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 54.56
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.147
+    }
+  ]
+}

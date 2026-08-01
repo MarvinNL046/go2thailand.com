@@ -20,7 +20,7 @@ sources:
     url: "https://thethaiger.com/"
 ---
 
-Walk into any Thai market from [Bangkok](https://go2-thailand.com/city/bangkok/) to the remote villages of [Isaan](https://go2-thailand.com/region/isaan/), and you'll hear the distinctive *thump-thump-thump* of wooden mortars pounding fresh papaya. That sound is **som tam** (green papaya salad) being born—and depending on where you are, it tastes completely different. This beloved dish is Thailand's greatest culinary chameleon, shifting flavors, heat levels, and ingredients as dramatically as the landscape changes from the central plains to the northern mountains. If you're wondering just how hot things can get, our [guide to Thai food spice levels](/blog/is-thai-food-spicy-guide/) will help you prepare. Som tam appears on the [Thai street food guide](/blog/thai-street-food-guide-2026/) as one of the 15 essential dishes—read it alongside this guide for full context.
+Walk into any Thai market from [Bangkok](https://go2-thailand.com/city/bangkok/) to the remote villages of [Isaan](https://go2-thailand.com/region/isaan/), and you'll hear the distinctive *thump-thump-thump* of wooden mortars pounding fresh papaya. That sound is **som tam** (green papaya salad) being born—and depending on where you are, it tastes completely different. This beloved dish is Thailand's greatest culinary chameleon, shifting flavors, heat levels, and ingredients as dramatically as the landscape changes from the central plains to the northern mountains. If you're wondering just how hot things can get, our [guide to Thai food spice levels](/blog/is-thai-food-spicy-guide/) will help you prepare. Som tam appears on the [Thai street food guide](/thailand-street-food/) as one of the 15 essential dishes—read it alongside this guide for full context.
 
 ## Key Takeaways
 
@@ -148,7 +148,7 @@ During our three years living in [Chiang Mai](https://go2-thailand.com/city/chia
 
 ## 5. Southern Thai Som Tam: The Coconut-Influenced Coastal Version
 
-Travel south to [Phuket](https://go2-thailand.com/islands/phuket/) and the coastal regions, and som tam reflects the sea's influence. **Southern som tam** incorporates **seafood more prominently** and sometimes includes coconut, creating a richer, more indulgent version that reflects the region's abundance of fresh fish and shellfish. If you are visiting Phuket, the [Phuket travel guide 2026](/blog/phuket-travel-guide-2026/) covers where to eat and what to see.
+Travel south to [Phuket](https://go2-thailand.com/city/phuket/) and the coastal regions, and som tam reflects the sea's influence. **Southern som tam** incorporates **seafood more prominently** and sometimes includes coconut, creating a richer, more indulgent version that reflects the region's abundance of fresh fish and shellfish. If you are visiting Phuket, the [Phuket travel guide 2026](/blog/phuket-travel-guide-2026/) covers where to eat and what to see.
 
 ### The Southern Seafood Twist
 
@@ -356,11 +356,11 @@ In [Bangkok](https://go2-thailand.com/city/bangkok/), som tam is everywhere—fr
 
 ### Isaan Region Authenticity
 
-For the most authentic Isaan som tam, visit markets in the northeast region itself—cities like [Udon Thani](/city/udon-thani/) or [Khon Kaen](/city/khon-kaen/). Here, som tam is served the way locals have eaten it for generations: spicy, funky, and unapologetic. Prices are even lower than Bangkok (25–40 THB / $0.70–$1.15 USD), and the quality is exceptional. Budget travellers can find these prices across the country—see our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) for real food cost breakdowns.
+For the most authentic Isaan som tam, visit markets in the northeast region itself—cities like [Udon Thani](/city/udon-thani/) or [Khon Kaen](/city/khon-kaen/). Here, som tam is served the way locals have eaten it for generations: spicy, funky, and unapologetic. Prices are even lower than Bangkok (25–40 THB / $0.70–$1.15 USD), and the quality is exceptional. Budget travellers can find these prices across the country—see our [Thailand budget backpacker guide](/thailand-index/budget/) for real food cost breakdowns.
 
 ### Southern Coastal Som Tam
 
-In [Phuket](https://go2-thailand.com/islands/phuket/) and other southern islands, seek out som tam at **seafood markets** where fresh crab and shrimp are abundant. Vendors here incorporate fresh seafood into their som tam, creating versions you won't find elsewhere. The best time to visit is early morning when the seafood catch is freshest.
+In [Phuket](https://go2-thailand.com/city/phuket/) and other southern islands, seek out som tam at **seafood markets** where fresh crab and shrimp are abundant. Vendors here incorporate fresh seafood into their som tam, creating versions you won't find elsewhere. The best time to visit is early morning when the seafood catch is freshest.
 
 <div data-widget="[12go](https://12go.tpo.lv/tNA80urD)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -429,6 +429,6 @@ Whether you're exploring [Bangkok's food scene](https://go2-thailand.com/city/ba
 
 For more insights into Thai cuisine and regional food traditions, explore our [comprehensive Thai food guide](https://go2-thailand.com/food/). And if you're planning a culinary-focused trip, consider taking a [Thai cooking class in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) to learn how to make som tam and other dishes yourself.
 
-Also worth reading: the [complete guide to Thai curries](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) for the main course to pair with your som tam, the [Pad Thai street food vs restaurant guide](/blog/pad-thai-street-food-vs-restaurant-homemade/) to round out your noodle knowledge, and the [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) if you are planning a food-focused trip. For budget-conscious travellers, the [Thailand backpacker guide](/blog/thailand-budget-backpacker-guide/) includes real street food prices.
+Also worth reading: the [complete guide to Thai curries](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) for the main course to pair with your som tam, the [Pad Thai street food vs restaurant guide](/food/pad-thai/) to round out your noodle knowledge, and the [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) if you are planning a food-focused trip. For budget-conscious travellers, the [Thailand backpacker guide](/thailand-index/budget/) includes real street food prices.
 
 **Ready to taste som tam across Thailand?** Start with your local market, ask the vendor about their regional style, and don't be afraid to request adjustments. The best som tam is the one made exactly how you like it.

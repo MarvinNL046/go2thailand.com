@@ -1,0 +1,1512 @@
+{
+  "captured_at": "2026-07-26T00:23:23.965Z",
+  "locale": "nl",
+  "url": "https://www.foodallergy.org/resources/food-allergy-chef-cards",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Food Allergy Essentials",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Join over 14,000 individuals and families managing food allergies who are sharing their food allergy stories and making a critical difference, helping to speed the search for new treatments and informing life-changing improvements in patient care.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "You can help improve the lives of 33 million in the U.S. impacted by food allergy by supporting FARE (Food Allergy Research & Education) with your tax-deductible gift today.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Food Allergy Essentials",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Food Allergy Chef Cards",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Living With Food Allergy",
+          "url": "https://www.foodallergy.org/living-food-allergy",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy",
+              "anchor_text": "Living With Food Allergy"
+            }
+          ]
+        },
+        {
+          "text": "Research & Innovation",
+          "url": "https://www.foodallergy.org/research-and-innovation",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-and-innovation",
+              "anchor_text": "Research & Innovation"
+            }
+          ]
+        },
+        {
+          "text": "Our Initiatives",
+          "url": "https://www.foodallergy.org/our-initiatives",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives",
+              "anchor_text": "Our Initiatives"
+            }
+          ]
+        },
+        {
+          "text": "Common Allergens",
+          "url": "https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/common-allergens",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/common-allergens",
+              "anchor_text": "Common Allergens"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy 101",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/food-allergy-101",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/food-allergy-101",
+              "anchor_text": "Food Allergy 101"
+            }
+          ]
+        },
+        {
+          "text": "Allergy Alerts & Ingredient Notices",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/allergy-alerts",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/allergy-alerts",
+              "anchor_text": "Allergy Alerts & Ingredient Notices"
+            }
+          ]
+        },
+        {
+          "text": "Back to School Resource Hub",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/back-school-resource-hub",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/back-school-resource-hub",
+              "anchor_text": "Back to School Resource Hub"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy & Anaphylaxis Emergency Care Plan",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/food-allergy-anaphylaxis-emergency-care-plan",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/food-allergy-anaphylaxis-emergency-care-plan",
+              "anchor_text": "Food Allergy & Anaphylaxis Emergency Care Plan"
+            }
+          ]
+        },
+        {
+          "text": "Free Downloadable Resources",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/free-downloadable-resources",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/free-downloadable-resources",
+              "anchor_text": "Free Downloadable Resources"
+            }
+          ]
+        },
+        {
+          "text": "Information for you",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Newly Diagnosed",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/newly-diagnosed",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/newly-diagnosed",
+              "anchor_text": "Newly Diagnosed"
+            }
+          ]
+        },
+        {
+          "text": "Children with Food Allergies",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/children-food-allergies",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/children-food-allergies",
+              "anchor_text": "Children with Food Allergies"
+            }
+          ]
+        },
+        {
+          "text": "Adolescents and Teens",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/teens-food-allergies",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/teens-food-allergies",
+              "anchor_text": "Adolescents and Teens"
+            }
+          ]
+        },
+        {
+          "text": "Adults with Allergies",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/adults-food-allergies",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/adults-food-allergies",
+              "anchor_text": "Adults with Allergies"
+            }
+          ]
+        },
+        {
+          "text": "Healthcare Providers",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/healthcare-providers",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/healthcare-providers",
+              "anchor_text": "Healthcare Providers"
+            }
+          ]
+        },
+        {
+          "text": "College Staff",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/college-staff",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/college-staff",
+              "anchor_text": "College Staff"
+            }
+          ]
+        },
+        {
+          "text": "Other Professionals",
+          "url": "https://www.foodallergy.org/living-food-allergies/information-you/other-professionals",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergies/information-you/other-professionals",
+              "anchor_text": "Other Professionals"
+            }
+          ]
+        },
+        {
+          "text": "Join the Community",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Join the FARE Community",
+          "url": "https://www.foodallergy.org/living-food-allergy/join-community/sign-updates",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/join-community/sign-updates",
+              "anchor_text": "Join the FARE Community"
+            }
+          ]
+        },
+        {
+          "text": "Find a Support Group",
+          "url": "https://www.foodallergy.org/living-food-allergies/join-community/find-support-group",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergies/join-community/find-support-group",
+              "anchor_text": "Find a Support Group"
+            }
+          ]
+        },
+        {
+          "text": "Accelerating Innovation",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Elevating Care",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/elevating-care",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/elevating-care",
+              "anchor_text": "Elevating Care"
+            }
+          ]
+        },
+        {
+          "text": "Pioneering Advances in Diagnosis",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/food-allergy-diagnosis-and-testing",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/food-allergy-diagnosis-and-testing",
+              "anchor_text": "Pioneering Advances in Diagnosis"
+            }
+          ]
+        },
+        {
+          "text": "Early Introduction and Food Allergy Prevention",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/early-introduction-and-food-allergy-prevention",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/early-introduction-and-food-allergy-prevention",
+              "anchor_text": "Early Introduction and Food Allergy Prevention"
+            }
+          ]
+        },
+        {
+          "text": "Developing Effective Treatments",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/food-allergy-treatments",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/food-allergy-treatments",
+              "anchor_text": "Developing Effective Treatments"
+            }
+          ]
+        },
+        {
+          "text": "Mind Meld Innovation Summit",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/mind-meld-innovation-summit",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/mind-meld-innovation-summit",
+              "anchor_text": "Mind Meld Innovation Summit"
+            }
+          ]
+        },
+        {
+          "text": "National Strategy for Alpha-gal Syndrome",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/convening-national-strategy-alpha-gal-syndrome",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/convening-national-strategy-alpha-gal-syndrome",
+              "anchor_text": "National Strategy for Alpha-gal Syndrome"
+            }
+          ]
+        },
+        {
+          "text": "Elevating Research",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "FARE Patient Registry",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+              "anchor_text": "FARE Patient Registry"
+            }
+          ]
+        },
+        {
+          "text": "FARE Clinical Network",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-clinical-network",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-clinical-network",
+              "anchor_text": "FARE Clinical Network"
+            }
+          ]
+        },
+        {
+          "text": "FARE Data Coordinating Center",
+          "url": "https://research.foodallergy.org/",
+          "urls": [
+            {
+              "url": "https://research.foodallergy.org/",
+              "anchor_text": "FARE Data Coordinating Center"
+            }
+          ]
+        },
+        {
+          "text": "FARE Biobank",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-biobank",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-biobank",
+              "anchor_text": "FARE Biobank"
+            }
+          ]
+        },
+        {
+          "text": "Clinical Trials",
+          "url": "https://www.foodallergy.org/resources/clinical-trials",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/resources/clinical-trials",
+              "anchor_text": "Clinical Trials"
+            }
+          ]
+        },
+        {
+          "text": "Recently Funded Research",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/recently-funded-research",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/recently-funded-research",
+              "anchor_text": "Recently Funded Research"
+            }
+          ]
+        },
+        {
+          "text": "Research Funding Opportunities",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/funding-opportunities",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/funding-opportunities",
+              "anchor_text": "Research Funding Opportunities"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy Issues",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues",
+              "anchor_text": "Food Allergy Issues"
+            }
+          ]
+        },
+        {
+          "text": "Congressional Food Allergy Research Caucus",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/congressional-food-allergy-research-caucus",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/congressional-food-allergy-research-caucus",
+              "anchor_text": "Congressional Food Allergy Research Caucus"
+            }
+          ]
+        },
+        {
+          "text": "How to Advocate",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/how-advocate",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/how-advocate",
+              "anchor_text": "How to Advocate"
+            }
+          ]
+        },
+        {
+          "text": "Know Your Rights",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/know-your-rights",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/know-your-rights",
+              "anchor_text": "Know Your Rights"
+            }
+          ]
+        },
+        {
+          "text": "Courage at Congress",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues/courage-congress",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues/courage-congress",
+              "anchor_text": "Courage at Congress"
+            }
+          ]
+        },
+        {
+          "text": "Ready to Care",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/ready-care",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/ready-care",
+              "anchor_text": "Ready to Care"
+            }
+          ]
+        },
+        {
+          "text": "Education Programs & Training",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "FARE Training - Food Allergy Academy",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-training",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-training",
+              "anchor_text": "FARE Training - Food Allergy Academy"
+            }
+          ]
+        },
+        {
+          "text": "FARE Food Allergy College Search",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-food-allergy-college-program",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-food-allergy-college-program",
+              "anchor_text": "FARE Food Allergy College Search"
+            }
+          ]
+        },
+        {
+          "text": "FARE Webinars",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-webinars",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-webinars",
+              "anchor_text": "FARE Webinars"
+            }
+          ]
+        },
+        {
+          "text": "Attend an Event",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/special-events",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/special-events",
+              "anchor_text": "Attend an Event"
+            }
+          ]
+        },
+        {
+          "text": "Eat Early Eat Often",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/eat-early-eat-often",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/eat-early-eat-often",
+              "anchor_text": "Eat Early Eat Often"
+            }
+          ]
+        },
+        {
+          "text": "FARE Neighborhoods Initiative",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-neighborhoods-initiative",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-neighborhoods-initiative",
+              "anchor_text": "FARE Neighborhoods Initiative"
+            }
+          ]
+        },
+        {
+          "text": "Awareness Campaigns",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Food Allergy Collaborative",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-collaborative",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-collaborative",
+              "anchor_text": "Food Allergy Collaborative"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy: the Invisible Disease",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-invisible-disease",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-invisible-disease",
+              "anchor_text": "Food Allergy: the Invisible Disease"
+            }
+          ]
+        },
+        {
+          "text": "Ready to Act",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/ready-act",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/ready-act",
+              "anchor_text": "Ready to Act"
+            }
+          ]
+        },
+        {
+          "text": "A World Unaware",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/world-unaware",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/world-unaware",
+              "anchor_text": "A World Unaware"
+            }
+          ]
+        },
+        {
+          "text": "Back-to-School Resource Hub",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/back-school-resource-hub",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/back-school-resource-hub",
+              "anchor_text": "Back-to-School Resource Hub"
+            }
+          ]
+        },
+        {
+          "text": "FARE 33",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-33",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-33",
+              "anchor_text": "FARE 33"
+            }
+          ]
+        },
+        {
+          "text": "Living Teal",
+          "url": "https://www.foodallergy.org/take-action/living-teal",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/take-action/living-teal",
+              "anchor_text": "Living Teal"
+            }
+          ]
+        },
+        {
+          "text": "Teal Pumpkin Project",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/teal-pumpkin-project",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/teal-pumpkin-project",
+              "anchor_text": "Teal Pumpkin Project"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy Awareness Week",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-awareness-week",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-awareness-week",
+              "anchor_text": "Food Allergy Awareness Week"
+            }
+          ]
+        },
+        {
+          "text": "Youth Programs",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/youth-programs",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/youth-programs",
+              "anchor_text": "Youth Programs"
+            }
+          ]
+        },
+        {
+          "text": "Join Patient Registry",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+              "anchor_text": "Join Patient Registry"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://www.foodallergy.org/about-us",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/about-us",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Corporate Partners",
+          "url": "https://www.foodallergy.org/corporate-partners",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/corporate-partners",
+              "anchor_text": "Corporate Partners"
+            }
+          ]
+        },
+        {
+          "text": "Media Room",
+          "url": "https://www.foodallergy.org/media-room",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/media-room",
+              "anchor_text": "Media Room"
+            }
+          ]
+        },
+        {
+          "text": "Join Patient Registry",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+              "anchor_text": "Join Patient Registry"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://www.foodallergy.org/about-us",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/about-us",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Corporate Partners",
+          "url": "https://www.foodallergy.org/corporate-partners",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/corporate-partners",
+              "anchor_text": "Corporate Partners"
+            }
+          ]
+        },
+        {
+          "text": "Media Room",
+          "url": "https://www.foodallergy.org/media-room",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/media-room",
+              "anchor_text": "Media Room"
+            }
+          ]
+        },
+        {
+          "text": "Sign Up! Become a Member of the FARE Family",
+          "url": "https://www.foodallergy.org/living-food-allergy/join-community/sign-updates",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/join-community/sign-updates",
+              "anchor_text": "Sign Up! Become a Member of the FARE Family"
+            }
+          ]
+        },
+        {
+          "text": "Attend an Event",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/special-events",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/special-events",
+              "anchor_text": "Attend an Event"
+            }
+          ]
+        },
+        {
+          "text": "Join Patient Registry",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+              "anchor_text": "Join Patient Registry"
+            }
+          ]
+        },
+        {
+          "text": "How to Advocate",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/how-advocate",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/how-advocate",
+              "anchor_text": "How to Advocate"
+            }
+          ]
+        },
+        {
+          "text": "FARE Food Allergy Summit",
+          "url": "https://www.foodallergy.org/take-action/food-allergy-summit",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/take-action/food-allergy-summit",
+              "anchor_text": "FARE Food Allergy Summit"
+            }
+          ]
+        },
+        {
+          "text": "Fundraise for FARE",
+          "url": "https://fundraise.foodallergy.org/campaign/may-2026-community-challenge/c784482",
+          "urls": [
+            {
+              "url": "https://fundraise.foodallergy.org/campaign/may-2026-community-challenge/c784482",
+              "anchor_text": "Fundraise for FARE"
+            }
+          ]
+        },
+        {
+          "text": "Volunteer with FARE",
+          "url": "https://www.foodallergy.org/take-action/volunteer-fare",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/take-action/volunteer-fare",
+              "anchor_text": "Volunteer with FARE"
+            }
+          ]
+        },
+        {
+          "text": "Teal Pumpkin Project",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/teal-pumpkin-project",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/teal-pumpkin-project",
+              "anchor_text": "Teal Pumpkin Project"
+            }
+          ]
+        },
+        {
+          "text": "Make a Gift",
+          "url": "https://www.foodallergy.org/donate",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/donate",
+              "anchor_text": "Make a Gift"
+            }
+          ]
+        },
+        {
+          "text": "Fundraise or Host a Walk for FARE",
+          "url": "https://fundraise.foodallergy.org/campaign/may-2026-community-challenge/c784482",
+          "urls": [
+            {
+              "url": "https://fundraise.foodallergy.org/campaign/may-2026-community-challenge/c784482",
+              "anchor_text": "Fundraise or Host a Walk for FARE"
+            }
+          ]
+        },
+        {
+          "text": "More Ways to Give",
+          "url": "https://www.foodallergy.org/take-action/ways-give",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/take-action/ways-give",
+              "anchor_text": "More Ways to Give"
+            }
+          ]
+        },
+        {
+          "text": "Special Events",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/special-events",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/special-events",
+              "anchor_text": "Special Events"
+            }
+          ]
+        },
+        {
+          "text": "Donate Monthly",
+          "url": "https://www.foodallergy.org/take-action/donate-monthly",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/take-action/donate-monthly",
+              "anchor_text": "Donate Monthly"
+            }
+          ]
+        },
+        {
+          "text": "Planned Giving",
+          "url": "https://farelegacy.org/",
+          "urls": [
+            {
+              "url": "https://farelegacy.org/",
+              "anchor_text": "Planned Giving"
+            }
+          ]
+        },
+        {
+          "text": "Common Allergens",
+          "url": "https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/common-allergens",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/common-allergens",
+              "anchor_text": "Common Allergens"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy 101",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/food-allergy-101",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/food-allergy-101",
+              "anchor_text": "Food Allergy 101"
+            }
+          ]
+        },
+        {
+          "text": "Allergy Alerts & Ingredient Notices",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/allergy-alerts",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/allergy-alerts",
+              "anchor_text": "Allergy Alerts & Ingredient Notices"
+            }
+          ]
+        },
+        {
+          "text": "Back to School Resource Hub",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/back-school-resource-hub",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/back-school-resource-hub",
+              "anchor_text": "Back to School Resource Hub"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy & Anaphylaxis Emergency Care Plan",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/food-allergy-anaphylaxis-emergency-care-plan",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/food-allergy-anaphylaxis-emergency-care-plan",
+              "anchor_text": "Food Allergy & Anaphylaxis Emergency Care Plan"
+            }
+          ]
+        },
+        {
+          "text": "Free Downloadable Resources",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/free-downloadable-resources",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/free-downloadable-resources",
+              "anchor_text": "Free Downloadable Resources"
+            }
+          ]
+        },
+        {
+          "text": "Information for you",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Newly Diagnosed",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/newly-diagnosed",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/newly-diagnosed",
+              "anchor_text": "Newly Diagnosed"
+            }
+          ]
+        },
+        {
+          "text": "Children with Food Allergies",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/children-food-allergies",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/children-food-allergies",
+              "anchor_text": "Children with Food Allergies"
+            }
+          ]
+        },
+        {
+          "text": "Adolescents and Teens",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/teens-food-allergies",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/teens-food-allergies",
+              "anchor_text": "Adolescents and Teens"
+            }
+          ]
+        },
+        {
+          "text": "Adults with Allergies",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/adults-food-allergies",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/adults-food-allergies",
+              "anchor_text": "Adults with Allergies"
+            }
+          ]
+        },
+        {
+          "text": "Healthcare Providers",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/healthcare-providers",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/healthcare-providers",
+              "anchor_text": "Healthcare Providers"
+            }
+          ]
+        },
+        {
+          "text": "College Staff",
+          "url": "https://www.foodallergy.org/living-food-allergy/information-you/college-staff",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/information-you/college-staff",
+              "anchor_text": "College Staff"
+            }
+          ]
+        },
+        {
+          "text": "Other Professionals",
+          "url": "https://www.foodallergy.org/living-food-allergies/information-you/other-professionals",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergies/information-you/other-professionals",
+              "anchor_text": "Other Professionals"
+            }
+          ]
+        },
+        {
+          "text": "Join the Community",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Join the FARE Community",
+          "url": "https://www.foodallergy.org/living-food-allergy/join-community/sign-updates",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/join-community/sign-updates",
+              "anchor_text": "Join the FARE Community"
+            }
+          ]
+        },
+        {
+          "text": "Find a Support Group",
+          "url": "https://www.foodallergy.org/living-food-allergies/join-community/find-support-group",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergies/join-community/find-support-group",
+              "anchor_text": "Find a Support Group"
+            }
+          ]
+        },
+        {
+          "text": "Accelerating Innovation",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Elevating Care",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/elevating-care",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/elevating-care",
+              "anchor_text": "Elevating Care"
+            }
+          ]
+        },
+        {
+          "text": "Pioneering Advances in Diagnosis",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/food-allergy-diagnosis-and-testing",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/food-allergy-diagnosis-and-testing",
+              "anchor_text": "Pioneering Advances in Diagnosis"
+            }
+          ]
+        },
+        {
+          "text": "Early Introduction and Food Allergy Prevention",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/early-introduction-and-food-allergy-prevention",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/early-introduction-and-food-allergy-prevention",
+              "anchor_text": "Early Introduction and Food Allergy Prevention"
+            }
+          ]
+        },
+        {
+          "text": "Developing Effective Treatments",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/food-allergy-treatments",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/food-allergy-treatments",
+              "anchor_text": "Developing Effective Treatments"
+            }
+          ]
+        },
+        {
+          "text": "Mind Meld Innovation Summit",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/mind-meld-innovation-summit",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/mind-meld-innovation-summit",
+              "anchor_text": "Mind Meld Innovation Summit"
+            }
+          ]
+        },
+        {
+          "text": "National Strategy for Alpha-gal Syndrome",
+          "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/convening-national-strategy-alpha-gal-syndrome",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/accelerating-innovation/convening-national-strategy-alpha-gal-syndrome",
+              "anchor_text": "National Strategy for Alpha-gal Syndrome"
+            }
+          ]
+        },
+        {
+          "text": "Elevating Research",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "FARE Patient Registry",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry",
+              "anchor_text": "FARE Patient Registry"
+            }
+          ]
+        },
+        {
+          "text": "FARE Clinical Network",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-clinical-network",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-clinical-network",
+              "anchor_text": "FARE Clinical Network"
+            }
+          ]
+        },
+        {
+          "text": "FARE Data Coordinating Center",
+          "url": "https://research.foodallergy.org/",
+          "urls": [
+            {
+              "url": "https://research.foodallergy.org/",
+              "anchor_text": "FARE Data Coordinating Center"
+            }
+          ]
+        },
+        {
+          "text": "FARE Biobank",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-biobank",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/fare-biobank",
+              "anchor_text": "FARE Biobank"
+            }
+          ]
+        },
+        {
+          "text": "Clinical Trials",
+          "url": "https://www.foodallergy.org/resources/clinical-trials",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/resources/clinical-trials",
+              "anchor_text": "Clinical Trials"
+            }
+          ]
+        },
+        {
+          "text": "Recently Funded Research",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/recently-funded-research",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/recently-funded-research",
+              "anchor_text": "Recently Funded Research"
+            }
+          ]
+        },
+        {
+          "text": "Research Funding Opportunities",
+          "url": "https://www.foodallergy.org/research-innovation/elevating-research/funding-opportunities",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/research-innovation/elevating-research/funding-opportunities",
+              "anchor_text": "Research Funding Opportunities"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy Issues",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues",
+              "anchor_text": "Food Allergy Issues"
+            }
+          ]
+        },
+        {
+          "text": "Congressional Food Allergy Research Caucus",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/congressional-food-allergy-research-caucus",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/congressional-food-allergy-research-caucus",
+              "anchor_text": "Congressional Food Allergy Research Caucus"
+            }
+          ]
+        },
+        {
+          "text": "How to Advocate",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/how-advocate",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/how-advocate",
+              "anchor_text": "How to Advocate"
+            }
+          ]
+        },
+        {
+          "text": "Know Your Rights",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/know-your-rights",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/know-your-rights",
+              "anchor_text": "Know Your Rights"
+            }
+          ]
+        },
+        {
+          "text": "Courage at Congress",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues/courage-congress",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/food-allergy-issues/courage-congress",
+              "anchor_text": "Courage at Congress"
+            }
+          ]
+        },
+        {
+          "text": "Ready to Care",
+          "url": "https://www.foodallergy.org/our-initiatives/advocacy/ready-care",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/advocacy/ready-care",
+              "anchor_text": "Ready to Care"
+            }
+          ]
+        },
+        {
+          "text": "Education Programs & Training",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "FARE Training - Food Allergy Academy",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-training",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-training",
+              "anchor_text": "FARE Training - Food Allergy Academy"
+            }
+          ]
+        },
+        {
+          "text": "FARE Food Allergy College Search",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-food-allergy-college-program",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-food-allergy-college-program",
+              "anchor_text": "FARE Food Allergy College Search"
+            }
+          ]
+        },
+        {
+          "text": "FARE Webinars",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-webinars",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/fare-webinars",
+              "anchor_text": "FARE Webinars"
+            }
+          ]
+        },
+        {
+          "text": "Attend an Event",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/special-events",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/special-events",
+              "anchor_text": "Attend an Event"
+            }
+          ]
+        },
+        {
+          "text": "Eat Early Eat Often",
+          "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/eat-early-eat-often",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/education-programs-training/eat-early-eat-often",
+              "anchor_text": "Eat Early Eat Often"
+            }
+          ]
+        },
+        {
+          "text": "FARE Neighborhoods Initiative",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-neighborhoods-initiative",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-neighborhoods-initiative",
+              "anchor_text": "FARE Neighborhoods Initiative"
+            }
+          ]
+        },
+        {
+          "text": "Awareness Campaigns",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Food Allergy Collaborative",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-collaborative",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-collaborative",
+              "anchor_text": "Food Allergy Collaborative"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy: the Invisible Disease",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-invisible-disease",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-invisible-disease",
+              "anchor_text": "Food Allergy: the Invisible Disease"
+            }
+          ]
+        },
+        {
+          "text": "Ready to Act",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/ready-act",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/ready-act",
+              "anchor_text": "Ready to Act"
+            }
+          ]
+        },
+        {
+          "text": "A World Unaware",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/world-unaware",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/world-unaware",
+              "anchor_text": "A World Unaware"
+            }
+          ]
+        },
+        {
+          "text": "Back-to-School Resource Hub",
+          "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/back-school-resource-hub",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/living-food-allergy/food-allergy-essentials/back-school-resource-hub",
+              "anchor_text": "Back-to-School Resource Hub"
+            }
+          ]
+        },
+        {
+          "text": "FARE 33",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-33",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-33",
+              "anchor_text": "FARE 33"
+            }
+          ]
+        },
+        {
+          "text": "Living Teal",
+          "url": "https://www.foodallergy.org/take-action/living-teal",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/take-action/living-teal",
+              "anchor_text": "Living Teal"
+            }
+          ]
+        },
+        {
+          "text": "Teal Pumpkin Project",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/teal-pumpkin-project",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/teal-pumpkin-project",
+              "anchor_text": "Teal Pumpkin Project"
+            }
+          ]
+        },
+        {
+          "text": "Food Allergy Awareness Week",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-awareness-week",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-awareness-week",
+              "anchor_text": "Food Allergy Awareness Week"
+            }
+          ]
+        },
+        {
+          "text": "Youth Programs",
+          "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/youth-programs",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/our-initiatives/awareness-campaigns/youth-programs",
+              "anchor_text": "Youth Programs"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "FARE (Food Allergy Research & Education) is a 501(c)(3) charitable organization with the mission to improve the quality of life and health of those with food allergy through transformative research, education, and advocacy.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "© 2026 FARE (Tax ID: 13-3905508) is a charitable organization as described in section 501(c)(3) of the Internal Revenue Code.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy. By continuing to use this site, or closing this box, you consent to our use of cookies.",
+          "url": "https://www.foodallergy.org/privacy-policy",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/privacy-policy",
+              "anchor_text": "Privacy Policy"
+            }
+          ]
+        },
+        {
+          "text": "Please complete the following form to download the resource. You will be opted into FARE communications and can manage your preferences in the footer of any FARE email.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Download these tasty allergy friendly Thanksgiving recipes for you and your family to make and enjoy! You will be opted into FARE communications and can manage your preferences in the footer of any FARE email.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Please complete the following form to download the poster. You will be opted into FARE communications and can manage your preferences in the footer of any FARE email.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Please complete the following form to download the FARE Food Allergy Patient Toolkit. You will be opted into FARE communications and can manage your preferences in the footer of any FARE email.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Complete this form to view the recordings from the workshop. You will be opted into FARE communications and can manage your preferences in the footer of any FARE email.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Download these tasty holiday recipes for you and your family to make and enjoy! You will be opted into FARE communications and can manage your preferences in the footer of any FARE email.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "About FARE",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Read More",
+          "url": "https://www.foodallergy.org/about-us",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/about-us",
+              "anchor_text": "Read More"
+            }
+          ]
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.foodallergy.org/contact-us",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/contact-us",
+              "anchor_text": "Contact Us"
+            }
+          ]
+        },
+        {
+          "text": "Terms of Use",
+          "url": "https://www.foodallergy.org/terms-use",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/terms-use",
+              "anchor_text": "Terms of Use"
+            }
+          ]
+        },
+        {
+          "text": "Digital Policy",
+          "url": "https://www.foodallergy.org/privacy-policy",
+          "urls": [
+            {
+              "url": "https://www.foodallergy.org/privacy-policy",
+              "anchor_text": "Digital Policy"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Food Allergy Chef Cards",
+        "main_title": "Food Allergy Chef Cards",
+        "author": null,
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Carrying a \"chef card\" that outlines the foods you must avoid is a great way to communicate your food allergies to a chef or manager at restaurants.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Carrying a \"chef card\" that outlines the foods you must avoid is a great way to communicate your food allergies to a chef or manager at restaurants. FARE provides an interactive PDF of chef card templates in English and a number of foreign languages to use while traveling or at ethnic food restaurants.",
+            "url": "https://www.foodallergy.org/resources/chef-card-english-pdf",
+            "urls": [
+              {
+                "url": "https://www.foodallergy.org/resources/chef-card-english-pdf",
+                "anchor_text": "English"
+              }
+            ]
+          },
+          {
+            "text": "*We have attempted to provide an accurate translation of the original material in English, but due to the nuances in translating to a foreign language and distinct regional dialects, slight differences may exist.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Chinese (Simplified)",
+            "url": "https://www.foodallergy.org/resources/chef-card-chinese-simplified-pdf",
+            "urls": [
+              {
+                "url": "https://www.foodallergy.org/resources/chef-card-chinese-simplified-pdf",
+                "anchor_text": "Chinese (Simplified)"
+              }
+            ]
+          },
+          {
+            "text": "Chinese (Traditional)",
+            "url": "https://www.foodallergy.org/resources/chef-card-chinese-traditional-pdf",
+            "urls": [
+              {
+                "url": "https://www.foodallergy.org/resources/chef-card-chinese-traditional-pdf",
+                "anchor_text": "Chinese (Traditional)"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": null,
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

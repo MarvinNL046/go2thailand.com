@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-chiang-mai-sleeper-train-guide-2026",
+  "route": "/nl/blog/bangkok-chiang-mai-sleeper-train-guide-2026/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Nachttrein Bangkok–Chiang Mai: slaapplaatsen kiezen",
+    "description": "Kies en boek de nachttrein van Bangkok naar Chiang Mai met heldere uitleg over stations, slaapplaatsen, bagage en aankomst.",
+    "primaryKeyword": "nachttrein Bangkok Chiang Mai",
+    "secondaryKeywords": ["slaaptrein Bangkok Chiang Mai", "trein 9 Chiang Mai", "Bangkok Chiang Mai trein boeken"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/bangkok-chiang-mai-sleeper-train-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Slapen terwijl je noordwaarts reist",
+    "title": "Nachttrein naar Chiang Mai",
+    "accent": "Kies je bed, niet alleen je trein.",
+    "description": "De nachttrein is een reiservaring en hotelnacht in één, maar alleen wanneer station, rijtuigtype, slaapplaats en aankomstuur bij jouw ritme passen.",
+    "image": "/images/redesign/editorial/bangkok-chiang-mai-sleeper-train-guide-2026-hero.webp",
+    "imageAlt": "Nachttrein met warme ramen tussen mistige bergen in Noord-Thailand",
+    "primaryCta": { "label": "Vergelijk slaapplaatsen", "href": "#slaapplaats" },
+    "secondaryCta": { "label": "Bekijk tickets", "href": "#tickets" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "route", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kies tweede klas airco voor de beste balans tussen comfort en prijs, een onderste slaapplaats voor meer ruimte of eerste klas voor een afsluitbare coupé. Boek vanaf Krung Thep Aphiwat en controleer de live dienstregeling.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "slaapplaats",
+      "title": "Welke slaapplaats past bij jou?",
+      "options": [
+        { "title": "Tweede klas onder", "description": "Doorgaans breder, makkelijker instappen en meer uitzicht; wel onderdeel van een open rijtuig.", "label": "Beste balans" },
+        { "title": "Tweede klas boven", "description": "Compacter en vaak voordeliger, maar minder geschikt als je lang bent of vaak uit bed wilt.", "label": "Budget" },
+        { "title": "Eerste klas coupé", "description": "Meer privacy met twee slaapplaatsen achter een deur; beschikbaarheid is beperkt en voorwaarden verschillen.", "label": "Privacy" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "boeken",
+      "title": "Boek zonder stationsfout",
+      "steps": [
+        { "title": "Zoek Krung Thep Aphiwat", "description": "De meeste langeafstandstreinen naar het noorden vertrekken niet vanaf het oude Hua Lamphong." },
+        { "title": "Open het rijtuigdetail", "description": "Controleer airco, boven- of onderbed, coupé-indeling en of reizigers samen kunnen liggen." },
+        { "title": "Plan beide aankomsten", "description": "Regel vervoer naar het station in Bangkok en vanaf Chiang Mai station naar je accommodatie." }
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "tickets",
+      "provider": "12go",
+      "title": "Vergelijk actuele treinen en slaapplaatsen",
+      "description": "Bekijk live beschikbaarheid en voorwaarden. Vergelijk daarna trein- en bednummer met de officiële SRT-informatie.",
+      "cta": { "label": "Controleer actuele tickets bij 12Go", "href": "https://12go.tpo.lv/tNA80urD", "external": true },
+      "placement": "nl-bangkok-chiang-mai-sleeper",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "checklist",
+      "id": "meenemen",
+      "title": "Leg dit binnen handbereik",
+      "items": ["Paspoort en ticketgegevens", "Warme laag voor de airconditioning", "Oordoppen en slaapmasker", "Water en een lichte snack", "Powerbank met voldoende lading", "Kleine tas die bij je slaapplaats past"]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Vertrekt de nachttrein vanaf Hua Lamphong?", "answer": "De bekende noordelijke langeafstandsdiensten vertrekken vanaf Krung Thep Aphiwat. Controleer altijd de stationsnaam op jouw ticket." },
+        { "question": "Is de nachttrein sneller dan vliegen?", "answer": "Niet in zuivere reistijd. Hij kan wel een hotelnacht en een deel van de wakkere reistijd vervangen." },
+        { "question": "Kun je samen in één coupé?", "answer": "Alleen wanneer de gekozen klasse en beschikbaarheid dat toelaten. Controleer bed- en coupénummers vóór betaling." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Dienstregeling en praktische bron",
+      "items": [
+        { "title": "D-Ticket", "publisher": "State Railway of Thailand", "url": "https://www.dticket.railway.co.th/DTicketPublicWeb/home/Home", "checkedAt": "2026-08-01", "note": "Officiële live ticket- en dienstcontrole." },
+        { "title": "Train travel in Thailand", "publisher": "The Man in Seat 61", "url": "https://www.seat61.com/Thailand.htm", "checkedAt": "2026-08-01", "note": "Onafhankelijke uitleg van rijtuigen en reispraktijk; live tijden blijven bij SRT." },
+        { "title": "Guide to CNR sleepers", "publisher": "Thai Train Guide", "url": "https://www.thaitrainguide.com/trains/cnr-sleeper/", "checkedAt": "2026-08-01", "note": "Visuele uitleg van moderne slaaprijtuigen." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan de volledige verbinding",
+      "items": [
+        { "title": "Bangkok naar Chiang Mai", "description": "Vergelijk trein, vlucht en bus voor de hele corridor.", "href": "/nl/transport/bangkok-to-chiang-mai/" },
+        { "title": "Chiang Mai overzicht", "description": "Kies wijk en invulling na aankomst.", "href": "/nl/city/chiang-mai/" },
+        { "title": "Openbaar vervoer Bangkok", "description": "Plan de rit naar Krung Thep Aphiwat.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" }
+      ]
+    }
+  ]
+}

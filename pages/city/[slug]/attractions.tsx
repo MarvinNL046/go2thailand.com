@@ -2,10 +2,16 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity, toAbsoluteImageUrl } from '../../../lib/cities';
+import { getCityBySlug, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity, getAttractionBySlug, toAbsoluteImageUrl } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CitySupportSources from '../../../components/CitySupportSources';
+import type { ContentSource } from '../../../components/CitySupportSources';
+import { KrabiAttractionsGuide } from '../../../components/city/KrabiAttractionsGuide';
+import { AttractionsGuideTemplate } from '../../../components/city/AttractionsGuideTemplate';
+import { getNlAttractionsGuide } from '../../../data/attractions/nl';
+import { getNlAttractionDetailGuide } from '../../../data/attraction-details/nl';
+import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
 
 interface Attraction {
   id: number;
@@ -22,6 +28,20 @@ interface Attraction {
   highlights: string[];
   image: string;
   visitAccess?: 'Free' | 'Ticketed' | null;
+  enhanced_description?: string;
+  googleMapsUrl?: string;
+  hasDetailOwner?: boolean;
+}
+
+interface AttractionRecord {
+  id?: number;
+  slug: string;
+  name?: Attraction['name'];
+  type?: string;
+  description?: Attraction['description'];
+  highlights?: string[];
+  image: string;
+  entrance_fee?: { thb?: number };
   enhanced_description?: string;
   googleMapsUrl?: string;
 }
@@ -63,7 +83,7 @@ interface City {
     };
   };
   enhanced_description?: string;
-  contentSources?: any[];
+  contentSources?: ContentSource[];
   reviewed_by?: string;
   reviewed_at?: string;
   enhanced_at?: string;
@@ -85,19 +105,70 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
     return <div>{isNl ? 'Stad niet gevonden' : 'City not found'}</div>;
   }
 
+  if (isNl && city.slug === 'krabi') {
+    return <KrabiAttractionsGuide ogImage={toAbsoluteImageUrl('/images/redesign/krabi-destination-hero.webp')} />;
+  }
+
+  const nlAttractionsGuide = isNl ? getNlAttractionsGuide(city.slug) : undefined;
+  if (nlAttractionsGuide) {
+    return <AttractionsGuideTemplate data={nlAttractionsGuide} />;
+  }
+
   const cityName = city.name[lang] || city.name.en;
   const breadcrumbs = generateBreadcrumbs(city, 'attractions');
-  const baseMetadata = generateCityMetadata(city, 'attractions');
+  const baseMetadata = generateCityMetadata(city, 'attractions', locale);
 
   // SEO-optimized title & description for attractions pages
   const metadata = {
     ...baseMetadata,
     title: isNl
       ? `Top Bezienswaardigheden in ${cityName} 2026 — Must-See Plekken`
-      : `Top Attractions in ${city.name.en} 2026 — Must-See Places`,
+      : `Top Attractions in ${city.name.en} | Route-Smart Guide`,
     description: isNl
       ? `Ontdek de beste bezienswaardigheden in ${cityName} met praktische routelogica, lokale context en de stops die je tijd echt waard zijn.`
       : `Explore the strongest attractions in ${city.name.en} with practical route logic, local context, and the stops that actually justify your time.`,
+  };
+  const canonicalUrl = `https://go2-thailand.com/city/${city.slug}/attractions/`;
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((crumb, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: crumb.name,
+      item: `https://go2-thailand.com${crumb.href.endsWith('/') ? crumb.href : `${crumb.href}/`}`,
+    })),
+  };
+  const collectionPageJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${canonicalUrl}#webpage`,
+    url: canonicalUrl,
+    name: metadata.title,
+    description: metadata.description,
+    inLanguage: 'en-GB',
+    about: {
+      '@type': 'City',
+      name: city.name.en,
+      containedInPlace: { '@type': 'Country', name: 'Thailand' },
+    },
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: attractions.length,
+      itemListElement: attractions.map((attraction, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        url: attraction.hasDetailOwner
+          ? `${canonicalUrl}${attraction.slug}/`
+          : `${canonicalUrl}#${attraction.slug}`,
+        item: {
+          '@type': 'TouristAttraction',
+          name: attraction.name.en,
+          description: attraction.enhanced_description || attraction.description.en,
+          image: toAbsoluteImageUrl(attraction.image),
+        },
+      })),
+    },
   };
 
   return (
@@ -108,11 +179,17 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
         ogImage={metadata.openGraph?.images?.[0]?.url || toAbsoluteImageUrl(getCityImageForSection(city, 'attractions'))}
       >
         <meta name="keywords" content={metadata.keywords} />
+        {!isNl && (
+          <>
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageJsonLd) }} />
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+          </>
+        )}
       </SEOHead>
 
-      <div className="bg-surface-cream min-h-screen">
+      <div data-premium-template="destination-attractions" className="min-h-screen bg-canvas text-charcoal">
         {/* Hero Section */}
-        <section className="relative h-80 lg:h-96 overflow-hidden">
+        <section className="section-divider-bottom relative h-[28rem] overflow-hidden lg:h-[34rem]">
           <div className="absolute inset-0">
             <Image
               src={getCityImageForSection(city, 'attractions')}
@@ -121,7 +198,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
               className="object-cover"
               priority
             />
-            <div className="absolute inset-0 bg-surface-dark/70"></div>
+            <div className="absolute inset-0 bg-gradient-to-r from-jade/90 via-jade/62 to-jade/20"></div>
           </div>
 
           <div className="relative z-10 h-full flex items-center">
@@ -136,7 +213,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                   </span>
                 </div>
                 <p className="font-script text-thailand-gold text-sm mb-2">{isNl ? 'Ontdek' : 'Discover'}</p>
-                <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">
+                <h1 className="font-display text-5xl font-semibold leading-[0.92] tracking-[-0.04em] lg:text-7xl mb-4">
                   {isNl ? `Bezienswaardigheden in ${cityName}` : `Attractions in ${city.name.en}`}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
@@ -144,12 +221,6 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 </p>
               </div>
             </div>
-          </div>
-        </section>
-
-        {/* Header Banner Ad */}
-        <section className="bg-white py-4">
-          <div className="container-custom">
           </div>
         </section>
 
@@ -177,7 +248,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
         )}
 
         {/* Main Content */}
-        <section className="section-padding">
+        <section className="section-divider-bottom section-padding">
           <div className="container-custom">
             <div className="grid grid-cols-1 lg:grid-cols-4 gap-12">
               {/* Main Content */}
@@ -204,12 +275,27 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                   {/* Attractions Grid */}
                   {attractions.length > 0 ? (
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                      {attractions.map((attraction, index) => (
-                        <Link 
-                          key={attraction.id} 
-                          href={`/city/${city.slug}/attractions/${attraction.slug}/`}
-                          className="group bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border-0"
+                      {attractions.map((attraction, index) => {
+                        const hasDetailOwner = isNl
+                          ? Boolean(getNlAttractionDetailGuide(city.slug, attraction.slug))
+                          : attraction.hasDetailOwner === true;
+                        return (
+                        <article
+                          key={attraction.slug}
+                          id={attraction.slug}
+                          className="group relative overflow-hidden rounded-2xl border-0 bg-white shadow-md transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
                         >
+                          <Link
+                            href={hasDetailOwner ? `/city/${city.slug}/attractions/${attraction.slug}/` : `/city/${city.slug}/attractions/#${attraction.slug}`}
+                            aria-label={isNl
+                              ? `Lees meer over ${attraction.name[lang] || attraction.name.en}`
+                              : hasDetailOwner
+                                ? `Learn more about ${attraction.name.en}`
+                                : `Jump to ${attraction.name.en} in this guide`}
+                            className="absolute inset-0 z-10 rounded-2xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-thailand-gold"
+                          >
+                            <span className="sr-only">{isNl ? 'Lees meer' : 'Learn more'}</span>
+                          </Link>
                           {/* Attraction Image */}
                           <div className="relative h-48 overflow-hidden">
                             <Image
@@ -219,7 +305,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                               className="object-cover group-hover:scale-110 transition-transform duration-300"
                             />
                             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                            
+
                             {/* Ranking Badge */}
                             <div className="absolute top-4 left-4">
                               <div className="w-8 h-8 bg-white/95 backdrop-blur-sm rounded-full flex items-center justify-center">
@@ -243,7 +329,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                               </div>
                             )}
                           </div>
-                          
+
                           {/* Content */}
                           <div className="p-6">
                             <h3 className="text-xl font-bold font-heading text-thailand-blue-900 mb-3 group-hover:text-thailand-red transition-colors">
@@ -253,12 +339,12 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                               {attraction.enhanced_description?.substring(0, 150) || (attraction.description[lang] || attraction.description.en)}
                               {(attraction.enhanced_description?.length > 150 || (attraction.description[lang] || attraction.description.en).length > 150) && '...'}
                             </p>
-                            
+
                             {/* Highlights */}
                             {attraction.highlights.length > 0 && (
                               <div className="flex flex-wrap gap-1 mb-4">
                                 {attraction.highlights.slice(0, 3).map((highlight, idx) => (
-                                  <span 
+                                  <span
                                     key={idx}
                                     className="bg-thailand-blue-50 text-thailand-blue-700 px-2 py-1 rounded text-xs"
                                   >
@@ -267,7 +353,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                                 ))}
                               </div>
                             )}
-                            
+
                             {/* Action Bar */}
                             <div className="flex items-center justify-between pt-4 border-t border-gray-100">
                               <div className="flex items-center gap-3">
@@ -283,8 +369,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                                     href={attraction.googleMapsUrl}
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="flex items-center text-xs text-gray-500 hover:text-thailand-blue transition-colors"
-                                    onClick={(e) => e.stopPropagation()}
+                                    className="relative z-20 flex min-h-11 items-center text-xs text-gray-500 transition-colors hover:text-thailand-blue"
                                   >
                                     <svg className="w-3.5 h-3.5 mr-0.5" viewBox="0 0 24 24" fill="currentColor">
                                       <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
@@ -294,15 +379,16 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                                 )}
                               </div>
                               <div className="text-thailand-blue hover:text-thailand-red font-medium text-sm flex items-center transition-colors group">
-                                <span>{isNl ? 'Lees Meer' : 'Learn More'}</span>
+                                <span>{isNl ? (hasDetailOwner ? 'Lees meer' : 'In deze gids') : (hasDetailOwner ? 'Learn More' : 'In This Guide')}</span>
                                 <svg className="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                                 </svg>
                               </div>
                             </div>
                           </div>
-                        </Link>
-                      ))}
+                        </article>
+                        );
+                      })}
                     </div>
                   ) : (
                     <div className="text-center py-16">
@@ -432,7 +518,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                           ? 'Kies een uitvalsbasis die het reizen door de stad beperkt.'
                           : 'Choose a base that cuts down cross-city transfers.'}
                       </p>
-                      <Link href={`/city/${city.slug}/hotels/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
+                      <Link href={isNl ? `/best-hotels/${city.slug}/` : normalizeEnInternalHref(`/best-hotels/${city.slug}/`)} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
                         {isNl ? 'Bekijk Hotelgids' : 'See Hotel Guide'}
                       </Link>
                     </div>
@@ -461,7 +547,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     </Link>
 
                     <Link
-                      href={`/city/${city.slug}/hotels/`}
+                      href={isNl ? `/best-hotels/${city.slug}/` : normalizeEnInternalHref(`/best-hotels/${city.slug}/`)}
                       className="group flex items-center p-6 border-0 bg-surface-cream rounded-2xl hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
                     >
                       <div className="w-16 h-16 bg-thailand-red rounded-xl flex items-center justify-center mr-4 group-hover:scale-110 transition-transform">
@@ -532,6 +618,16 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
           </div>
         </section>
 
+        {!isNl && (
+          <section className="section-divider-top bg-tonal py-10">
+            <div className="container-custom max-w-4xl text-sm font-medium leading-6 text-charcoal/65">
+              <h2 className="font-display text-2xl font-semibold text-jade">Plan with current local information</h2>
+              <p className="mt-3">Opening hours, admission, access rules and weather disruptions can change. The cards are an editorial route-planning overview; verify the attraction's official channel or local tourism authority before a time-critical visit. Links to bookable activities are optional affiliate links and never determine the order of this guide.</p>
+              <p className="mt-3"><a href="https://www.tourismthailand.org/Destinations" target="_blank" rel="noopener noreferrer" className="font-extrabold text-jade underline decoration-saffron/50 underline-offset-4">Tourism Authority of Thailand destination information</a></p>
+            </div>
+          </section>
+        )}
+
         {/* Mobile Sticky Ad */}
       </div>
     </>
@@ -545,14 +641,14 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug, locale);
-  
+
   if (!city) {
     return {
       notFound: true,
     };
   }
 
-  const rawCity = city as any;
+  const rawCity = city as City & { content_sources?: ContentSource[] };
   const sanitizedCity = {
     id: city.id,
     slug: city.slug,
@@ -572,19 +668,49 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     editorialPositioning: rawCity.editorialPositioning ?? null,
     sourceSummary: rawCity.sourceSummary ?? null,
   };
-  const attractions = getEnhancedAttractionsByCity(slug).map((attraction) => ({
-    id: attraction.id,
+  const indexedAttractions = getEnhancedAttractionsByCity(slug) as AttractionRecord[];
+  const attractionRecords = new Map<string, AttractionRecord>(
+    indexedAttractions.map((attraction) => [attraction.slug, attraction]),
+  );
+  const enDetailOwners = new Set<string>();
+
+  // English detail owners can exist as individual JSON files without being present in
+  // either city index. Merge those files into the owner page so every published detail
+  // remains discoverable through a contextual, crawlable card.
+  if (locale !== 'nl') {
+    try {
+      const [{ readdir }, pathModule] = await Promise.all([import('fs/promises'), import('path')]);
+      const attractionDirectory = pathModule.join(process.cwd(), 'data', 'attractions', slug);
+      const filenames = await readdir(attractionDirectory);
+
+      for (const filename of filenames) {
+        if (filename === 'index.json' || !filename.endsWith('.json')) continue;
+        const attractionSlug = filename.slice(0, -'.json'.length);
+        const detail = getAttractionBySlug(slug, attractionSlug, 'en') as AttractionRecord | undefined;
+        if (detail?.slug) {
+          attractionRecords.set(detail.slug, detail);
+          enDetailOwners.add(detail.slug);
+        }
+      }
+    } catch {
+      // Some city owners intentionally have no attraction-detail directory.
+    }
+  }
+
+  const attractions = locale === 'nl' && slug === 'krabi' ? [] : Array.from(attractionRecords.values()).map((attraction, index) => ({
+    id: attraction.id ?? index + 1,
     slug: attraction.slug,
-    name: attraction.name,
-    type: attraction.type,
-    description: attraction.description,
-    highlights: attraction.highlights,
+    name: attraction.name || { en: attraction.slug, nl: attraction.slug },
+    type: attraction.type || 'attraction',
+    description: attraction.description || { en: attraction.enhanced_description || '', nl: '' },
+    highlights: Array.isArray(attraction.highlights) ? attraction.highlights : [],
     image: attraction.image,
     visitAccess: typeof attraction.entrance_fee?.thb === 'number'
       ? (attraction.entrance_fee.thb > 0 ? 'Ticketed' : 'Free')
       : null,
     enhanced_description: attraction.enhanced_description || null,
     googleMapsUrl: attraction.googleMapsUrl || null,
+    hasDetailOwner: locale !== 'nl' ? enDetailOwners.has(attraction.slug) : null,
   }));
 
   return {

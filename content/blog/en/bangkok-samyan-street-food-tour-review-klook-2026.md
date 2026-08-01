@@ -54,14 +54,6 @@ So we booked the **[Bangkok Samyan 4-Hour Small Group Street Food Tour](https://
 
 ![Bangkok Samyan Street Food Tour on Klook — 4.8 rating, 6000+ booked, Klook's Choice badge](/images/blog/bangkok-samyan-street-food-tour-klook-hero.png)
 
-<div data-widget="klook" style="margin: 1.5rem 0; text-align: center;">
-<div data-widget-fallback>
-<a href="https://klook.tpo.lv/rvdOEmkN" target="_blank" rel="noopener noreferrer nofollow sponsored" style="display: inline-block; background: #FF5722; color: white; padding: 14px 36px; border-radius: 50px; font-weight: 700; font-size: 16px; text-decoration: none; letter-spacing: 0.5px;">Book Now on Klook →</a>
-<p style="font-size: 12px; color: #999; margin-top: 8px;">Free cancellation up to 24 hours before · Instant confirmation</p>
-</div>
-</div>
-
-## How We Found This Tour
 
 When searching Klook for Bangkok street food tours, this one stood out immediately:
 
@@ -146,7 +138,7 @@ Our guide (Sydney) scored a **perfect 5.0/5** across all reviews — and we unde
 
 ### Not Tourist Food
 
-This was the biggest surprise. We expected the safe stuff — Pad Thai, green curry, mango sticky rice. Instead, we ate:
+This was the biggest surprise. We expected the safe stuff — Pad Thai, green curry, mango sticky rice.
 
 - Isan duck and som tam
 - Pomelo salad with giant prawns
@@ -220,12 +212,6 @@ If you're visiting Bangkok and want one food experience that covers Isan cuisine
 
 **Rating: 4.8/5** — matching the 483 reviewers before us.
 
-<div data-widget="klook" style="margin: 2rem 0; text-align: center;">
-<div data-widget-fallback>
-<a href="https://klook.tpo.lv/rvdOEmkN" target="_blank" rel="noopener noreferrer nofollow sponsored" style="display: inline-block; background: #FF5722; color: white; padding: 14px 36px; border-radius: 50px; font-weight: 700; font-size: 16px; text-decoration: none; letter-spacing: 0.5px;">Book This Tour on Klook →</a>
-<p style="font-size: 12px; color: #999; margin-top: 8px;">4.8/5 · 6,000+ bookings · Free cancellation</p>
-</div>
-</div>
 
 ## Travel Essentials for Bangkok
 
@@ -246,4 +232,4 @@ You'll be connecting to public WiFi at restaurants, rooftop bars, and markets th
 
 ---
 
-*This article contains affiliate links. If you book through our links, we may earn a small commission at no extra cost to you. All opinions are our own based on firsthand experience.*
+*This article contains affiliate links. If you book through our links, we may earn a small commission at no extra cost to you. Editorial conclusions are based on the cited sources and are independent of commission.*

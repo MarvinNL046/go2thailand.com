@@ -1,0 +1,200 @@
+# DFS parsed source — https://www.thailandblog.nl/reizen/ubon-ratchathani-waarom-ik-verliefd-werd-op-de-stad-die-niemand-kent-lezersinzending/
+
+**Captured:** 2026-07-24T20:51:51.140Z
+**Cost:** 0.00015
+**HTTP status:** 200
+
+# Ubon Ratchathani: waarom ik verliefd werd op de stad die niemand kent (lezersinzending)
+
+[Ubon Ratchathani: waarom ik verliefd werd op de stad die niemand kent (lezersinzending)](https://www.thailandblog.nl/reizen/ubon-ratchathani-waarom-ik-verliefd-werd-op-de-stad-die-niemand-kent-lezersinzending/)
+
+2 maart 2026
+
+Thailand heeft zijn klassiekers: het levendige Bangkok, de stranden van Krabi, de tempels van Chiang Mai. Maar daar, verscholen in het verre oosten, ligt Ubon Ratchathani. Een stad die je bijna van de kaart zou vegen als je niet beter wist. Tot ik er zelf kwam en er langer bleef dan gepland.
+### De eerste indruk: een stad met de charme van eenvoud
+
+Mijn aankomst in Ubon was eenvoudig. Geen massa’s backpackers, geen glimmende shoppingmalls. In plaats daarvan rolde ik uit de nachttrein in een stad waar het leven nog zijn eigen ritme lijkt te hebben. De lucht rook er naar rijstvelden en wierook, de ochtendzon scheen op de kades van de Mun-rivier, en overal zag ik vriendelijke gezichten.
+
+Ik wist meteen: hier gebeurt iets anders dan op de gebaande paden van Thailand.
+## Tempels zonder toeristen
+
+Wat me het meeste opviel? De rust in de tempels. Waar ik elders in Thailand soms langs drommen toeristen moest laveren om een boeddhabeeld te zien, zat ik hier bijna alleen tussen monniken en gelovigen. In Wat Thung Si Muang zag ik oude houten bibliotheken balanceren op palen boven een vijver, terwijl de tempelwachters (stenen leeuwen) me met verweerde gezichten aankeken.
+
+En in Wat Nong Bua was het alsof ik even in India stond. De stoepa daar is een bijna exacte kopie van de Mahabodhi-tempel in Bodhgaya. Alsof de geschiedenis van het boeddhisme via Laos en India zijn weg naar deze plek heeft gevonden.
+## Pha Taem: Thailand voor dag en dauw
+
+Een lokale gids tipte me om vroeg op pad te gaan naar Pha Taem Nationaal Park. “Hier zie je de eerste zonsopgang van Thailand,” zei hij, terwijl hij me een kaart tekende met alleen kruispunten en bochten, Google Maps zou hier maar half werken.
+
+Nog voor het ochtendgloren zat ik op de rand van een klif, met uitzicht over de Mekong-rivier. Toen de zon opkwam en de oude rotstekeningen zichtbaar werden in het zachte licht, voelde ik hoe oud deze plek werkelijk is. Vissersboten kabbelden ver beneden mij over de rivier, terwijl de stilte me omarmde. Hier, ver van de drukte, zag ik Thailand ontwaken.
+## Lokale smaken en het Candle Festival
+
+Ubon laat me ook op andere manieren proeven van zijn cultuur. Letterlijk, op de avondmarkt waar ik ‘larb moo’ at (een pittige salade van gemarineerd gehakt) en me tegoed deed aan gegrilde kip van een plastic stoeltje langs de weg.
+
+Maar het hoogtepunt? Het Candle Festival. Terwijl ik door de straten liep, zag ik hoe ambachtslieden gigantische kaarsenwagens van bijenwas hadden omgetoverd tot rijdende kunstwerken. Monniken zegenden de wagens in, kinderen renden in traditionele kleding achter de processies aan, en overal klonk muziek. Hier zag ik het geloof, de kunst en de gemeenschap samenkomen.
+## Geen haast, geen haast
+
+Wat me het meest bijbleef, is het trage ritme. Ubon vraagt je om te vertragen. Om de tijd te nemen voor een praatje met een marktvrouw, om uren door rijstvelden te fietsen zonder plan, om je te laten verrassen door de eenvoud van het alledaagse leven. Dit is slow travel in zijn puurste vorm.
+## Waarom Ubon je verrast
+
+Ubon Ratchathani is geen stad die zichzelf opdringt. Het fluistert eerder dan dat het schreeuwt. Maar wie luistert, ontdekt een plek waar oude culturen samensmelten, waar je even uit de tijd stapt en waar je als reiziger geen passant bent, maar deelgenoot van het dagelijks leven.
+
+Dus mocht je ooit denken dat je Thailand al kent, zet koers naar Ubon. Je zult zien: de mooiste verhalen beginnen vaak waar de kaart ophoudt.
+## Wat Ubon me leerde
+
+Wat ik vooral meenam uit mijn tijd in Ubon Ratchathani is hoe waardevol het is om te reizen zonder haast. In een wereld waar we gewend zijn om alles snel te willen zien, deed Ubon beseffen dat echte verbinding en beleving juist ontstaan als je vertraagt. Door simpelweg een ochtend op een houten stoepje te zitten en met locals te praten. Of door een middag lang niets anders te doen dan naar de rijstvelden te kijken en het geluid van de wind te horen.
+
+Ubon heeft me geleerd dat het niet altijd de grote trekpleisters zijn die je bijblijven, maar juist de kleine momenten: een glimlach op de markt, een onverwachte ontmoeting met een monnik, of een maaltijd die je deelt met mensen die je pas hebt leren kennen.
+
+Dit is Thailand op zijn eerlijkst. En misschien is dat wel het mooiste aan Ubon Ratchathani: dat het je uitnodigt om gewoon te zijn, en alles wat daaruit voortkomt.
+## Praktische tips & persoonlijke favorieten voor Ubon Ratchathani
+
+Mijn favoriete verblijf:
+
+Rustige kamers aan de Mun-rivier, gerund door een familie die je met open armen ontvangt. Perfect om je eerste dagen in Ubon te landen en de stad langzaam te verkennen.
+
+Rim Than Guesthouse
+
+Beste eettip:
+
+Hier at ik de lekkerste ‘som tam’ (papajasalade) van de regio, rechtstreeks bereid door een oudere vrouw die elke avond dezelfde kraam runt. Vraag haar om ‘pet nit noi’ als je het wat minder pittig wil.
+
+Night Market Ubon
+
+Niet missen:
+
+Pha Taem Nationaal Park bij zonsopgang
+
+Sta vroeg op en neem snacks en water mee, want je zult lang willen blijven zitten op de klif. Huur ter plekke een lokale gids; die weet vaak precies waar je de mooiste muurschilderingen vindt, zelfs buiten de bekende paden.
+
+De ultieme vrijheid om de rijstvelden en dorpjes buiten Ubon te ontdekken. Let op: buiten de stad zijn tankstations schaars. Ik nam altijd een extra fles benzine mee achterop.
+
+Scooter huren
+
+Culturele tip:
+
+Bezoek een tempel in de ochtend
+
+Voor acht uur zie je de monniken hun aalmoezenronde doen door de stad. Het is een intiem moment van het lokale leven. Wil je meedoen? Een mandje met fruit of rijst wordt altijd gewaardeerd.
+### Dag 1 – Aankomst en kennismaken met de stad
+
+Aankomst per vlucht of nachttrein. Check in bij je guesthouse aan de Mun-rivier. Neem rustig de tijd om te acclimatiseren en loop daarna naar het centrum.
+
+Bezoek Wat Thung Si Muang, de tempel met de karakteristieke houten bibliotheek op palen. Verken daarna de stad verder te voet en slenter langs kleine winkeltjes en koffietentjes. Probeer bijvoorbeeld een traditionele Thaise ijskoffie (‘oliang’) bij een lokale straatverkoper.
+
+Dineer op de Night Market van Ubon. Proef gegrilde kip, sticky rice en ‘larb moo’. Ga daarna vroeg naar bed, want de volgende dag begint vroeg.
+### Dag 2 – Pha Taem Nationaal Park en de Mekong
+
+Vertrek nog voor zonsopgang naar Pha Taem Nationaal Park. Dit is het oostelijkste punt van Thailand waar je de zon als eerste ziet opkomen. Wandel na de zonsopgang langs de prehistorische rotstekeningen en geniet van de rust.
+
+Vroege ochtend
+
+Lunch in een lokaal restaurantje in Khong Chiam, het stadje aan de Mekong vlak bij het park. Probeer een visgerecht zoals ‘pla pao’ (gegrilde vis met kruiden). Daarna kun je een boottocht maken over de Mekong, langs de grens met Laos.
+
+Terug naar Ubon voor een ontspannen avond. Sluit de dag af met een diner aan de rivier bij Ruen Sook Somboon, een sfeervol restaurant waar je dineert met uitzicht op het water.
+### Dag 3 – Lokale cultuur en ambachten
+
+Bezoek Wat Nong Bua en bewonder de unieke stupa. Ga daarna naar een lokale markt, zoals Talad Yai, waar je verse producten en handwerk uit de regio vindt.
+
+Breng de middag door in een nabijgelegen dorp waar traditionele weefkunst nog in leven is. Er zijn workshops mogelijk waarbij je zelf kunt leren hoe men zijde of katoen weeft op traditionele weefgetouwen. Een bijzondere inkijk in het dagelijks leven van Isaan.
+
+Eet bij een klein lokaal restaurantje buiten het centrum en geniet van een traditionele Isaanse maaltijd. De sfeer is hier informeel en het eten eerlijk en huisgemaakt.
+### Dag 4 – Slow morning en afscheid
+
+Begin de dag met een wandeling langs de oevers van de Mun-rivier of huur een fiets om het landelijke gebied net buiten Ubon te verkennen. Stop bij een tempeltje onderweg of koop fruit bij een van de vele stalletjes langs de weg.
+
+Afhankelijk van je vertrek, geniet je nog van een ontspannen lunch in de stad. Een aanrader is het gezellige Indochine Ubon, waar je de Isaanse keuken in een modern jasje kunt proeven.
+
+In de namiddag neem je de trein, bus of vlucht terug naar Bangkok of je volgende bestemming.
+### Optionele extra dag: Candle Festival
+
+Ben je rond juli in Ubon? Voeg dan zeker een extra dag toe om het beroemde Candle Festival mee te maken. Plan je reis zo dat je de voorbereidingen al een dag eerder kunt zien: de kunstenaars werken dan nog aan de enorme bijenwaskaarsen, en je kunt de praalwagens van dichtbij bewonderen.
+## Ubon Ratchathani en omgeving – Slow travel 7-daagse route
+
+Voor wie meer tijd heeft en het noordoosten van Thailand echt wil ervaren, is hier een uitgebreider reisplan met uitstapjes naar landelijke dorpen en zelfs een grensoversteek naar Laos.
+### Dag 1 – Aankomst in Ubon Ratchathani
+
+Aankomst per trein of vlucht. Neem de ochtend om te landen, je guesthouse te verkennen en op adem te komen aan de Mun-rivier. Wandel daarna door het oude stadscentrum en bezoek Wat Thung Si Muang. Sluit af met streetfood op de avondmarkt.
+### Dag 2 – De tempels en markten van Ubon
+
+Ontdek Wat Nong Bua in de ochtend en ga daarna naar de levendige Talad Yai-markt. Hier proef je de smaken van Isaan en kun je lokale ambachten inslaan, zoals handgeweven doeken. Bezoek in de middag het Ubon Ratchathani National Museum voor achtergrond over de regio.
+### Dag 3 – Pha Taem Nationaal Park en Khong Chiam
+
+Vroege rit naar Pha Taem Nationaal Park voor de zonsopgang boven de Mekong. Maak daarna een boottocht over de rivier en verken Khong Chiam, een slaperig grensstadje waar de Mun-rivier samenvloeit met de Mekong. Overnacht eventueel in een guesthouse aan de rivier.
+### Dag 4 – Lokale dorpen en ambachten
+
+Ga verder het platteland in en bezoek dorpen rond Khong Chiam of Warin Chamrap. Leer hoe zijde wordt geweven of hoe bamboemanden worden gevlochten. Hier krijg je het Isaanse dorpsleven écht te zien. Overnacht op het platteland of terug in Ubon.
+### Dag 5 – Grensoversteek naar Laos (optioneel)
+
+Heb je zin in een extra avontuur? Vanuit Khong Chiam kun je via de Mekong de grens oversteken naar Laos (bijvoorbeeld naar Pakse). Hier ontdek je het Bolaven Plateau met koffieplantages en watervallen, of de tempels van Wat Phou. Let op: dit vereist een visum voor Laos. Anders kun je een extra dag besteden in de natuur rond Khong Chiam.
+### Dag 6 – Terug naar Ubon: Candle Festival of natuurdag
+
+Als je in juli reist, plan deze dag om het Candle Festival te beleven. Buiten die periode kun je een rustige dag doorbrengen in de natuur bij bijvoorbeeld het Kaeng Tana National Park met watervallen, stroomversnellingen en picknickplekken.
+### Dag 7 – Slow morning en vertrek
+
+Begin de dag met een laatste wandeling of fietstocht langs de Mun-rivier. Drink een koffie op een terras met uitzicht over het water en reflecteer op de reis. In de middag vertrek je richting Bangkok of je volgende bestemming.
+### Extra tip: combineer Ubon met Zuid-Laos
+
+Voor wie langer dan een week de tijd heeft: na Ubon is een doorsteek naar Zuid-Laos (4000 Islands of Pakse) perfect te combineren. Vanuit Ubon ben je met een paar uur reizen bij de grensovergang Chong Mek – Vang Tao.
+
+Ingezonden door Tim
+### 12 reacties op “Ubon Ratchathani: waarom ik verliefd werd op de stad die niemand kent (lezersinzending)”
+
+Tip. Blijf a.u.b. weg van Ubon Ratchantani, nu is het nog rustig maar als iedereen op verzoek van Tim hier naar toe komt is het gedaan met de rust en lopen hier de toeriste, backpackers je voor de voeten. Ik woon hier al 17 jaar en geniet van het rustige leven.
+
+Groeten Hans
+
+Dit is een vaak terugkerende reactie waar gelukkig geen kat naar luistert.
+
+Iemand die plannen heeft om JOUW stad te bezoeken kan ik geen ongelijk geven. Mijn aandacht heeft het zeker en vast, met dank aan de topicstarter.
+
+Waarom zouden anderen niet van Ubon R mogen genieten.
+
+Bovendien is het de 6e stad van Thailand, dus het zal zeker niet overvol zijn al komen er duizend backpackers/vakantiegangers bij.
+
+Je kunt toch niet iedereen naar Phuket, Pattaya of Chiangmai sturen?
+
+Egoïst, Tim toch
+
+Is de omgeving ‘befietsbaar’?
+
+Leuk inderdaad om te fietsen.
+
+Vooral langs de rivier. En ga dan via een brug naar de andere kant en is andere brug weer terug . Dan kom je langs een mooie sfeervolle villa om koffie te drinken.
+
+Tegen de avond is het leuk om aan de rivier wat te drinken. Daarvoor worden terrasjes neergezet.
+
+Het is fanástisch om hier fietstourtjes te maken. Zelf heb ik door heel Thailand gefietst maar Isan heeft op fietsgebied m’n hart gestolen. Geen steile beklimmingen maar heerlijk glooiend landschap.
+
+Tip: van Ubon R via binnenweggetjes (zet GoogleMaps op “wandelen”) naar Trakan Phuetpon. 70 km. Daar overnachten, er zijn volop resortjes. Volgende dag naar Khemmarat aan de Mekong, 70 km.
+
+Op zaterdagavond is daar ‘n avondmaaltijd met Isaanse dansoptredens.
+
+Weer naar Trakan voor de laatste overnachting, en je kunt natuurlijk ‘n andere terugweg nemen. Maar mijn advies is; vermijdt de snelweg en geniet van de rust.
+
+Dat avondmaal moet avondmarkt zijn.
+
+Behalve de mooie bezienswaardigheden van de stad, is de beschreven sfeer zowat overal in het N.O. (Isaan) zo. Dat geldt voor de gehele regio.
+
+En om Tim bij te staan..
+
+Marc Dalle heeft gelijk vele andere plaatsen in de Isaan met de zelfde sfeer.
+
+E’n zijn veel makkelijker te bereizen zoals die op de route naar Laos Ventiane en vandaar naar Luang Prabang, ook handiger voor de backpackers om te weten 😉
+
+Zijn er ook betaalbare golfbanen in de buurt ?
+
+3 golfbanen, en als je om de dag speelt, ben je ‘n week “onder de pannen”
+
+Jazeker Paul,
+
+Net onder de Mun rivier op de kazerne is ‘n 9 hls baan: ddw 270 bth 9 hls (caddytip 200 bth)
+
+Bij het vliegveld 18 hls ddw 350 bth 18 hls (caddytip 350 bth)
+
+Sirindhorn golfbaan, bij het stuwmeer, 18 hls 1200 bth incl buggy/caddy (caddytip 400 bth)
+
+Hier in Ubon geven we de caddies 500 Thb tip voor 18 holes. 350/400 is een beetje cheap charlie.
+
+Sirindhorn 18 holes/caddy/buggy 1000 Thb
+
+\n

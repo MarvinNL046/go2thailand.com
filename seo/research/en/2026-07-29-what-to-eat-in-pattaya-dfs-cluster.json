@@ -1,0 +1,39 @@
+{
+  "captured_at": "2026-07-29T05:59:13.875Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "what to eat in pattaya",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "what to eat in pattaya"
+  ],
+  "keywords": [
+    {
+      "keyword": "what to eat in pattaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to eat in walking street pattaya",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

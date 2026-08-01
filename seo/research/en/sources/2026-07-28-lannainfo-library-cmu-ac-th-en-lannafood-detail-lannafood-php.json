@@ -1,0 +1,82 @@
+{
+  "captured_at": "2026-07-28T07:55:47.836Z",
+  "locale": "en",
+  "url": "https://lannainfo.library.cmu.ac.th/en_lannafood/detail_lannafood.php?id_food=178",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": null,
+      "table_content": [
+        {
+          "header": null,
+          "body": [
+            {
+              "row_cells": [
+                {
+                  "text": "Header\nsearch\nFood name",
+                  "urls": null,
+                  "is_header": false
+                },
+                {
+                  "text": "Ingredient",
+                  "urls": null,
+                  "is_header": false
+                },
+                {
+                  "text": "Local Vegetable",
+                  "urls": null,
+                  "is_header": false
+                }
+              ]
+            }
+          ],
+          "footer": null
+        },
+        {
+          "header": null,
+          "body": [
+            {
+              "row_cells": [
+                {
+                  "text": "",
+                  "urls": null,
+                  "is_header": false
+                },
+                {
+                  "text": "",
+                  "urls": null,
+                  "is_header": false
+                },
+                {
+                  "text": "search\nFood name",
+                  "urls": null,
+                  "is_header": false
+                },
+                {
+                  "text": "Ingredient",
+                  "urls": null,
+                  "is_header": false
+                },
+                {
+                  "text": "Local Vegetable",
+                  "urls": null,
+                  "is_header": false
+                }
+              ]
+            }
+          ],
+          "footer": null
+        }
+      ]
+    },
+    "footer": null,
+    "main_topic": null,
+    "secondary_topic": null,
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

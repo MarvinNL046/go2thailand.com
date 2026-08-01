@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026",
+  "route": "/nl/blog/red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Red Lotus Sea Udon Thani: seizoen en bootplanning",
+    "description": "Plan de Red Lotus Sea bij Udon Thani op bloeiseizoen, vroeg tijdstip, pierkeuze en lokale boot. De bezoekerscijfers van 2026 krijgen context.",
+    "primaryKeyword": "Red Lotus Sea Udon Thani",
+    "secondaryKeywords": ["Rode Lotuszee Thailand", "Talay Bua Daeng", "Nong Han Kumphawapi"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026/"
+  },
+  "hero": {
+    "eyebrow": "Seizoensnatuur · vroeg op het water",
+    "title": "Red Lotus Sea bij Udon Thani",
+    "accent": "Plan op bloei, niet op hype",
+    "description": "De campagne rond Lisa zorgde in 2026 voor extra aandacht, maar het natuurmoment blijft leidend: ga in het bloeiseizoen vroeg en controleer lokaal welke pier actief is.",
+    "image": "/images/redesign/editorial/red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026-hero.webp",
+    "imageAlt": "Lokale boot tussen roze waterlelies op Nong Han bij zonsopkomst",
+    "primaryCta": { "label": "Kies je moment", "href": "#moment" },
+    "secondaryCta": { "label": "Plan de boot", "href": "#bootcheck" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "region", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "De Red Lotus Sea ligt bij Nong Han in het district Kumphawapi, circa 45 kilometer van Udon Thani. De sterkste bloei valt doorgaans in de koele maanden en is 's ochtends het mooist; natuur en lokale bootinformatie blijven veranderlijk.",
+  "blocks": [
+    { "kind": "callout", "id": "cijfers", "tone": "cream", "title": "Verwachting is geen bezoekersrecord", "description": "Een Thaise overheidsbron meldde 50.306 bezoekers tussen 1 december 2025 en 25 januari 2026 en een seizoensverwachting boven 120.000. Zonder definitieve eindtelling noemen we dat geen gebroken record." },
+    { "kind": "steps", "id": "moment", "title": "Zo plan je het natuurmoment", "steps": [
+      { "title": "Kies het seizoen", "description": "Richt je op de koele maanden en controleer vlak voor vertrek lokale bloeiberichten.", "label": "Bloei eerst" },
+      { "title": "Vertrek vroeg", "description": "Waterlelies staan in de ochtend opener; wind en hitte zijn dan vaak milder.", "label": "Ochtend" },
+      { "title": "Kies een lokale pier", "description": "Vraag je accommodatie of TAT Udon Thani welke pier en bootdienst voor jouw dag praktisch is.", "label": "Lokale check" }
+    ]},
+    { "kind": "checklist", "id": "bootcheck", "title": "Neem mee en controleer", "items": ["Actuele bloeistatus en zicht", "Vertrektijd en afgesproken duur", "Reddingsvest voor iedere passagier", "Zonbescherming en water", "Contant betaalmiddel als back-up", "Rustige fotografie zonder bloemen aan te raken"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Wanneer bezoek je de Red Lotus Sea?", "answer": "De officiële toeristische informatie noemt de koele maanden en vooral de ochtend. Exacte bloei verschilt per jaar en weersomstandigheid." },
+      { "question": "Heeft Lisa echt meer bezoekers gebracht?", "answer": "Thaise overheidscommunicatie koppelde een duidelijke bezoekersstijging aan de Amazing Thailand x LISA-campagne. De genoemde 120.000 was een verwachting, geen definitief record." },
+      { "question": "Kun je dit als dagtrip vanuit Udon Thani doen?", "answer": "Ja. Reken wel op vroeg vervoer naar Kumphawapi en spreek pier, wachttijd en terugrit vooraf af." }
+    ]},
+    { "kind": "related", "id": "verder", "title": "Ontdek de regio", "items": [
+      { "title": "Udon Thani", "description": "Plan stad, vervoer en overnachting rond de vroege boot.", "href": "/nl/city/udon-thani/" },
+      { "title": "Red Lotus Sea attractie", "description": "Bekijk de praktische attractie-owner.", "href": "/nl/city/udon-thani/attractions/" },
+      { "title": "Nong Khai", "description": "Combineer Noordoost-Thailand zonder gehaast dagprogramma.", "href": "/nl/city/nong-khai/" }
+    ]},
+    { "kind": "sources", "id": "bronnen", "title": "Overheids- en bestemmingsbronnen", "items": [
+      { "title": "Tourists surge to Udon Thani's Red Lotus Sea", "publisher": "Thailand PRD", "url": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/471823", "checkedAt": "2026-08-01", "note": "Tussentijdse telling, seizoensverwachting en aanbevolen bezoekuren." },
+      { "title": "Red Lotus Sea", "publisher": "Tourism Authority of Thailand Japan", "url": "https://www.thailandtravel.or.jp/red-lotus-sea/", "checkedAt": "2026-08-01", "note": "Ligging, seizoenscontext en vroege bezoekaanbeveling; lokale details opnieuw controleren." }
+    ]}
+  ]
+}

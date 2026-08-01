@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "festivals"
 tags: ["Songkran 2026", "Songkran rules", "water gun ban Thailand", "Songkran safety", "Thailand festivals 2026", "Songkran fines", "Thai New Year 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/songkran-2026-water-gun-rules-fines-safety-guide-hero.webp"
 description: "Thailand is enforcing strict Songkran 2026 rules including bans on high-pressure water guns and throwing water from vehicles. Fines can reach 70,000 baht."
 featured: false
 readingTime: 3

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-three-airport-high-speed-rail-2026-update",
+  "route": "/nl/blog/thailand-three-airport-high-speed-rail-2026-update/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Drie-luchthavenspoorlijn Thailand: status 2026 | Go2Thailand",
+    "description": "De trein tussen Don Mueang, Suvarnabhumi en U-Tapao rijdt nog niet. Bekijk officiële voortgang, planning en huidige alternatieven.",
+    "primaryKeyword": "drie luchthavens hogesnelheidslijn Thailand",
+    "secondaryKeywords": ["Don Mueang Suvarnabhumi trein", "U-Tapao hogesnelheidstrein", "EEC spoor 2026"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-three-airport-high-speed-rail-2026-update/"
+  },
+  "hero": {
+    "eyebrow": "Projectupdate augustus 2026",
+    "title": "De drie-luchthaventrein rijdt nog niet",
+    "accent": "Plan met bestaand vervoer",
+    "description": "De officiële planning noemt 2031 voor volledige opening. Bouwstart en uitvoering blijven afhankelijk van bevestigde besluiten.",
+    "image": "/images/redesign/editorial/thailand-three-airport-high-speed-rail-2026-update-hero.webp",
+    "imageAlt": "Moderne verhoogde trein en stedelijke infrastructuur in Bangkok bij avondlicht",
+    "primaryCta": { "label": "Bekijk de status", "href": "#status" },
+    "secondaryCta": { "label": "Reis nu", "href": "#alternatieven" }
+  },
+  "layout": {
+    "kind": "news-update",
+    "newsStatus": "confirmed",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "De 220 kilometer lange lijn is niet operationeel. EECO plant notice to proceed in 2026 en volledige opening in 2031; een rapport noemt bouwstart uiterlijk november alleen als verwachting.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "status",
+      "title": "Officiële status in drie feiten",
+      "cards": [
+        { "title": "Nog niet operationeel", "description": "Er is geen reguliere reizigersdienst of ticketverkoop tussen de drie luchthavens.", "label": "Nu" },
+        { "title": "Bouwstart verwacht", "description": "Het rapport noemt uiterlijk november 2026, maar dit is geen bevestigde gerealiseerde start.", "label": "Planning" },
+        { "title": "Opening gepland", "description": "De live EECO-projectpagina noemt 2031 voor volledige ingebruikname.", "label": "Onder voorbehoud" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "alternatieven",
+      "title": "Plan vandaag zonder toekomstige trein",
+      "items": [
+        "Controleer bestaande luchthavenrail, bus, trein of taxi bij de actuele exploitant",
+        "Behandel Don Mueang, Suvarnabhumi en U-Tapao als drie verschillende locaties",
+        "Neem extra marge bij losse vluchtboekingen",
+        "Controleer vertrekpunt, bagageregels en eindadres",
+        "Gebruik geen geplande opening als basis voor een huidige overstap"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over de spoorlijn",
+      "items": [
+        { "question": "Rijdt de drie-luchthaventrein al?", "answer": "Nee, op 1 augustus 2026 is er geen operationele hogesnelheidsdienst." },
+        { "question": "Wanneer start de bouw?", "answer": "Een officieel rapport verwacht uiterlijk november 2026; wacht op een bevestiging van daadwerkelijke start." },
+        { "question": "Wanneer opent de lijn?", "answer": "De actuele officiële planning noemt 2031, onder voorbehoud van projectvoortgang." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële EECO-bronnen",
+      "items": [
+        { "title": "High-Speed Rail Linking Three Airports", "publisher": "Eastern Economic Corridor Office", "url": "https://www.eeco.or.th/high-speed-rail-linking-three-airports-th/", "checkedAt": "2026-08-01", "note": "Live projectomvang, planning en investeringsstructuur." },
+        { "title": "2026 project progress report", "publisher": "Eastern Economic Corridor Office", "url": "https://www.eeco.or.th/?jet_download=6313963cae31e8cc597fb0320de4fc94945060e2", "checkedAt": "2026-08-01", "note": "Voortgang en verwachte bouwstart; verwachtingen zijn geen bevestigde mijlpalen." },
+        { "title": "U-Tapao development agreement update", "publisher": "Eastern Economic Corridor Office", "url": "https://www.eeco.or.th/press_release/%E0%B8%AA%E0%B8%81%E0%B8%9E%E0%B8%AD-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-uta-%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B8%81%E0%B8%A5/", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "vervoer-nu",
+      "title": "Plan met actuele verbindingen",
+      "items": [
+        { "title": "Vervoer in Thailand", "description": "Kies bestaand spoor, bus, boot of vlucht.", "href": "/nl/transport/" },
+        { "title": "Openbaar vervoer Bangkok", "description": "BTS, MRT en Airport Rail Link uitgelegd.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" },
+        { "title": "Pattaya", "description": "Plan je verblijf en huidige aanreis.", "href": "/nl/city/pattaya/" }
+      ]
+    }
+  ]
+}

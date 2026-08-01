@@ -1,0 +1,49 @@
+{
+  "captured_at": "2026-07-27T15:05:55.912Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "muay thai education visa thailand",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "muay thai education visa thailand",
+    "education visa thailand muay thai",
+    "thailand education visa muay thai"
+  ],
+  "keywords": [
+    {
+      "keyword": "education visa thailand muay thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand education visa muay thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "muay thai education visa thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

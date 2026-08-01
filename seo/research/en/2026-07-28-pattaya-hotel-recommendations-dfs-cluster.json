@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-28T12:48:18.680Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "pattaya hotel recommendations",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "pattaya hotel recommendations"
+  ],
+  "keywords": [
+    {
+      "keyword": "pattaya hotel recommendations",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

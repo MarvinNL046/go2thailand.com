@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-floating-markets-guide-damnoen-amphawa-2026",
+  "route": "/nl/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Drijvende markt Bangkok: Damnoen of Amphawa? | Go2Thailand", "description": "Vergelijk Damnoen Saduak, Amphawa, Taling Chan en Khlong Lat Mayom op sfeer, timing en reisafstand.", "primaryKeyword": "drijvende markt Bangkok", "secondaryKeywords": ["Damnoen Saduak of Amphawa", "floating market Bangkok", "Amphawa drijvende markt"], "searchIntent": "commercial-investigation", "canonicalPath": "/nl/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/" },
+  "hero": { "eyebrow": "Ochtend, avond of dichtbij", "title": "Drijvende markten bij Bangkok", "accent": "Kies op ritme, niet op clichés", "description": "Damnoen Saduak is een vroege bezoekersklassieker; Amphawa draait later. Kleinere markten besparen reistijd, maar vragen een live marktdagcheck.", "image": "/images/redesign/editorial/bangkok-floating-markets-guide-damnoen-amphawa-2026-hero.webp", "imageAlt": "Houten verkoopboten met fruit en warm eten op een kanaal bij ochtendlicht", "primaryCta": { "label": "Vergelijk de markten", "href": "#vergelijken" }, "secondaryCta": { "label": "Plan zonder prijsval", "href": "#plannen" } },
+  "layout": { "kind": "destination-guide", "geography": "route", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Damnoen Saduak past bij wie vroeg wil vertrekken voor het klassieke botenbeeld. Amphawa past bij een latere food- en oevermarkt. Taling Chan of Khlong Lat Mayom is logischer als je minder transfertijd wilt.",
+  "blocks": [
+    { "kind": "comparison", "id": "vergelijken", "title": "Welke drijvende markt past bij jouw dag?", "options": [
+      { "title": "Damnoen Saduak", "description": "Vroege markt in Ratchaburi, sterk op bezoekers ingericht en geschikt voor het klassieke kanaalbeeld.", "label": "Vroeg vertrekken", "note": "Spreek bootroute en voorwaarden vooraf af." },
+      { "title": "Amphawa", "description": "Latere markt langs houten huizen in Samut Songkhram, met eten en avondritme aan het water.", "label": "Namiddag en avond", "note": "Marktdagen en vervoer terug live controleren." },
+      { "title": "Taling Chan", "description": "Kleiner en dichter bij het centrum; vooral logisch als reistijd zwaarder weegt dan spektakel.", "label": "Dichtbij", "note": "Actuele marktdag controleren." },
+      { "title": "Khlong Lat Mayom", "description": "Foodgerichte weekendkeuze in westelijk Bangkok met meer oevermarkt dan aaneengesloten botenparade.", "label": "Eten", "note": "Aanbod en opening zijn veranderlijk." }
+    ] },
+    { "kind": "steps", "id": "plannen", "title": "Plan zonder verrassingen", "steps": [
+      { "title": "Kies één hoofddoel", "description": "Maak niet automatisch een lange combinatiedag van meerdere provincies." },
+      { "title": "Controleer marktdag", "description": "Vooral kleinere markten en Amphawa vragen een actuele check." },
+      { "title": "Leg bootvoorwaarden vast", "description": "Vraag route, duur, gedeeld of privé en inbegrepen onderdelen vóór instappen." },
+      { "title": "Bescherm de terugrit", "description": "Plan vervoer terug met marge; beschikbaarheid kan later op de avond anders zijn." }
+    ] },
+    { "kind": "callout", "id": "wildlife", "tone": "jade", "title": "Vuurvliegjes zijn geen garantie", "description": "Weer, seizoen, licht en verstoring beïnvloeden waarnemingen. Kies een rustige operator en beperk fel licht en geluid." },
+    { "kind": "related", "id": "verder", "title": "Bouw een realistische dagtrip", "items": [
+      { "title": "Beste dagtrips vanuit Bangkok", "description": "Vergelijk markten met Ayutthaya, Maeklong en andere routes.", "href": "/nl/blog/best-day-trips-from-bangkok/" },
+      { "title": "Tha Kha floating market", "description": "Bekijk een afzonderlijk, kleinschaliger alternatief.", "href": "/nl/blog/tha-kha-floating-market-samut-songkhram-hidden-gem-2026/" },
+      { "title": "Bangkok streetfood voor beginners", "description": "Plan eten zonder een lange buitendag.", "href": "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Damnoen Saduak een tourist trap?", "answer": "Het is sterk op bezoekers ingericht. Ga voor het vroege kanaalbeeld en spreek bootvoorwaarden vooraf af; kies elders als je vooral dagelijks marktleven zoekt." },
+      { "question": "Kun je Damnoen Saduak en Amphawa combineren?", "answer": "Ja, maar het wordt een lange dag met meerdere transfers. Doe het alleen als beide marktritmes belangrijk voor je zijn." },
+      { "question": "Welke markt ligt in Bangkok zelf?", "answer": "Taling Chan en Khlong Lat Mayom liggen in Bangkok; controleer hun actuele marktdagen." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bestemmingsbronnen", "items": [
+      { "title": "From Morning Light to Moonlight: Damnoen Saduak and Amphawa", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/floating-market-en", "checkedAt": "2026-08-01" },
+      { "title": "Samut Songkhram recommended route", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/2-days-1-night-recommended-route-in-samut-songkhram", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

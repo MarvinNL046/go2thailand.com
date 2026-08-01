@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-ttm-plus-2026-pattaya-business-tourism",
+  "route": "/nl/blog/thailand-ttm-plus-2026-pattaya-business-tourism/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "TTM+ 2026 Pattaya is afgerond: dit kwam eruit",
+    "description": "TTM+ 2026 in Pattaya is afgerond. Lees wat dit zakelijke TAT-evenement presenteerde en welke reissignalen wel en niet relevant zijn voor vakantiegangers.",
+    "primaryKeyword": "TTM+ 2026 Pattaya",
+    "secondaryKeywords": ["Thailand Travel Mart 2026", "Pattaya business tourism", "TAT travel trade"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-ttm-plus-2026-pattaya-business-tourism/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Afgeronde B2B-editie",
+    "title": "TTM+ 2026 is voorbij.",
+    "accent": "De thema's blijven het controleren waard.",
+    "description": "De Pattaya-editie was een zakelijke reisbeurs. Lees wat TAT presenteerde zonder beursdeelname als reizigerskeurmerk te behandelen.",
+    "image": "/images/redesign/editorial/thailand-ttm-plus-2026-pattaya-business-tourism-hero.webp",
+    "imageAlt": "Zakelijke toerismebijeenkomst in een modern congrescentrum in Pattaya",
+    "primaryCta": { "label": "Bekijk de uitkomsten", "href": "#ttm-signals" },
+    "secondaryCta": { "label": "Ontdek Pattaya", "href": "/nl/city/pattaya/" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "elapsed",
+    "startsOn": "2026-06-10",
+    "endsOn": "2026-06-12",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "TTM+ 2026 vond van 10–12 juni plaats bij NICE Pattaya en is afgerond. Het was een travel-trade-evenement, geen actuele consumentenbeurs.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "ttm-status",
+      "tone": "warning",
+      "title": "Geen openstaande bezoekersagenda",
+      "description": "De editie is voorbij en was primair B2B. Deze route bewaart alleen de gecontroleerde uitkomsten en productvragen."
+    },
+    {
+      "kind": "card-grid",
+      "id": "ttm-signals",
+      "eyebrow": "Van beursclaim naar reisvraag",
+      "title": "Drie signalen om concreet te toetsen",
+      "cards": [
+        { "title": "Wellness", "description": "Vraag naar programma, begeleiding, inclusies en grenzen van gezondheidsclaims.", "label": "Productinhoud" },
+        { "title": "Duurzaamheid", "description": "Zoek criteria, uitvoering, geldigheidsduur en meetbare rapportage achter een label.", "label": "Bewijs" },
+        { "title": "Regionale route", "description": "Controleer reistijd, uitvoerder, gegarandeerde onderdelen en wijzigingsvoorwaarden.", "label": "Logistiek" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "ttm-product-check",
+      "title": "Een beursproduct beoordelen",
+      "items": ["Identificeer de concrete uitvoerder", "Controleer actuele route en inclusies", "Lees betaling en annulering", "Toets keurmerk en controlewijze", "Vergelijk live op dezelfde datum"]
+    },
+    {
+      "kind": "faq",
+      "id": "ttm-faq",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is TTM+ 2026 nog bezig?", "answer": "Nee. De Pattaya-editie vond plaats van 10–12 juni 2026." },
+        { "question": "Was het een toeristenfestival?", "answer": "Nee. TTM+ was primair een zakelijk platform voor reisaanbieders, inkopers, media en partners." },
+        { "question": "Bewijst beursdeelname kwaliteit?", "answer": "Nee. Controleer product, uitvoerder, voorwaarden en bewijs afzonderlijk." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "ttm-sources",
+      "title": "Officiële TAT-bronnen",
+      "items": [
+        { "title": "TTM+ 2026 opens in Pattaya", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/06/ttm-2026-opens-in-pattaya-advancing-sustainable-and-wellness-led-tourism/", "checkedAt": "2026-08-01" },
+        { "title": "Regional cooperation through TTM+ 2026", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/06/tat-promotes-regional-tourism-cooperation-and-connectivity-through-ttm-2026/", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "ttm-related",
+      "title": "Controleer de echte reisbeslissing",
+      "items": [
+        { "title": "Pattaya overzicht", "description": "Kies wijk en reisritme los van het congres.", "href": "/nl/city/pattaya/" },
+        { "title": "Hotels in Pattaya", "description": "Vergelijk actuele kamers en voorwaarden.", "href": "/nl/best-hotels/pattaya/" },
+        { "title": "Wellness retreats", "description": "Scheid hotelspa en gestructureerd programma.", "href": "/nl/blog/best-wellness-retreats-thailand-2026/" }
+      ]
+    }
+  ]
+}

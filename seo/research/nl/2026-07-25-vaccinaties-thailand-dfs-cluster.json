@@ -1,0 +1,1212 @@
+{
+  "captured_at": "2026-07-25T23:12:58.196Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "vaccinaties thailand",
+  "costs": {
+    "suggestions": 0.01728,
+    "related": 0.01908,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "vaccinaties thailand",
+    "ggd vaccinaties",
+    "thailand vaccinaties",
+    "vaccinaties voor thailand",
+    "welke vaccinaties thailand",
+    "welke vaccinaties voor thailand",
+    "ggd vaccinaties amsterdam",
+    "ggd vaccinaties kosten",
+    "kosten vaccinaties ggd",
+    "ggd vaccinaties inzien",
+    "thailand vaccinaties verplicht",
+    "verplichte vaccinaties thailand",
+    "ggd vaccinaties thailand",
+    "kosten vaccinaties huisarts",
+    "thailand vaccinaties ggd",
+    "thailand vaccinaties nodig",
+    "vaccinaties thailand ggd",
+    "vaccinaties thailand nodig",
+    "vaccinaties thailand verplicht"
+  ],
+  "keywords": [
+    {
+      "keyword": "ggd vaccinaties",
+      "volume": 8100,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd reisvaccinaties",
+      "volume": 6600,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand",
+      "volume": 3600,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand vaccinaties",
+      "volume": 1300,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties voor thailand",
+      "volume": 1300,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "welke vaccinaties thailand",
+      "volume": 1000,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "welke vaccinaties voor thailand",
+      "volume": 1000,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinatie afspraak",
+      "volume": 880,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "malaria thailand",
+      "volume": 720,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten dtp vaccinatie",
+      "volume": 590,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten vaccinatie dtp",
+      "volume": 590,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten rabies vaccinatie",
+      "volume": 480,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "gele koorts vaccinatie kosten",
+      "volume": 390,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinatie kosten",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinaties amsterdam",
+      "volume": 390,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinaties kosten",
+      "volume": 390,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten gele koorts vaccinatie",
+      "volume": 390,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten vaccinaties ggd",
+      "volume": 390,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd reisvaccinaties amsterdam",
+      "volume": 320,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinaties inzien",
+      "volume": 320,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten hepatitis b vaccinatie",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand vaccinaties verplicht",
+      "volume": 260,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "verplichte vaccinaties thailand",
+      "volume": 260,
+      "kd": 33,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinaties thailand",
+      "volume": 170,
+      "kd": 35,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten hepatitis a vaccinatie ggd",
+      "volume": 170,
+      "kd": 27,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten vaccinaties huisarts",
+      "volume": 170,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand vaccinaties ggd",
+      "volume": 170,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vaccinaties nodig",
+      "volume": 170,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinatie thailand ggd",
+      "volume": 170,
+      "kd": 37,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vaccinaties nodig voor thailand",
+      "volume": 170,
+      "kd": 25,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand ggd",
+      "volume": 170,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand nodig",
+      "volume": 170,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand verplicht",
+      "volume": 170,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "buiktyfus vaccinatie kosten",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd reisvaccinaties kosten",
+      "volume": 140,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "inentingen thailand hoe lang van tevoren",
+      "volume": 140,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten reisvaccinaties ggd",
+      "volume": 140,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd reisvaccinaties afspraak",
+      "volume": 110,
+      "kd": 10,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinaties utrecht",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten vaccinaties thailand",
+      "volume": 110,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "moet je vaccinaties voor thailand",
+      "volume": 110,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand kosten",
+      "volume": 110,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten rabiës vaccinatie hond",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten vaccinatie hepatitis a",
+      "volume": 90,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd reisvaccinaties contact",
+      "volume": 70,
+      "kd": 13,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd reisvaccinaties utrecht",
+      "volume": 70,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd thailand",
+      "volume": 70,
+      "kd": 38,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten dtp vaccinatie ggd",
+      "volume": 70,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "reisprik kosten",
+      "volume": 70,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd reisvaccinaties breda",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinatie afspraak verzetten",
+      "volume": 50,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinaties contact",
+      "volume": 50,
+      "kd": 71,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hoe lang van te voren vaccinatie hepatitis a",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aanbevolen vaccinaties thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ggd reisvaccinaties rotterdam",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinaties kinderen",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand hoe lang van tevoren",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "welke vaccinaties heb ik nodig voor thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ggd reisvaccinaties eindhoven",
+      "volume": 30,
+      "kd": 24,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten hepatitis b vaccinatie ggd",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten rabiës vaccinatie",
+      "volume": 30,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "malaria thailand ggd",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "advies vaccinaties thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "malaria thailand kaart",
+      "volume": 20,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "reizen naar thailand vaccinaties",
+      "volume": 20,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "reizen thailand vaccinaties",
+      "volume": 20,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand welke vaccinaties",
+      "volume": 20,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vakantie thailand vaccinaties",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat voor vaccinaties heb je nodig voor thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinatie afspraak corona",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ggd vaccinatie afspraak hpv",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kosten gele koorts vaccinatie ggd",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "reis vaccinaties thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand reisadvies vaccinaties",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand reizen vaccinaties",
+      "volume": 10,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties ggd thailand",
+      "volume": 10,
+      "kd": 35,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand belgie",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand belgië",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand rijksoverheid",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand tropisch instituut",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "welke vaccinaties thailand verplicht",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand vaccinaties corona",
+      "volume": 0,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vaccinaties covid",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vaccinaties verplicht corona",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "corona vaccinaties thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ggz vaccinaties thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vaccinaties kind",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties baby thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vaccinaties thailand kind",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.ggdreisvaccinaties.nl",
+      "avgPosition": 1.3333333333333333,
+      "keywordCount": 17,
+      "visibility": 17.4,
+      "estimatedTraffic": 5750.075000000001
+    },
+    {
+      "domain": "vaccinatiepunt.nl",
+      "avgPosition": 9.133333333333333,
+      "keywordCount": 15,
+      "visibility": 6.25,
+      "estimatedTraffic": 608.442
+    },
+    {
+      "domain": "www.reisprik.nl",
+      "avgPosition": 7.214285714285714,
+      "keywordCount": 14,
+      "visibility": 8.15,
+      "estimatedTraffic": 1080.8809999999999
+    },
+    {
+      "domain": "www.thuisvaccinatie.nl",
+      "avgPosition": 9.285714285714286,
+      "keywordCount": 14,
+      "visibility": 4.85,
+      "estimatedTraffic": 340.93699999999995
+    },
+    {
+      "domain": "www.vaccinatiesopreis.nl",
+      "avgPosition": 13.214285714285714,
+      "keywordCount": 14,
+      "visibility": 3.1499999999999995,
+      "estimatedTraffic": 178.684
+    },
+    {
+      "domain": "www.traveldoctor.nl",
+      "avgPosition": 10.538461538461538,
+      "keywordCount": 13,
+      "visibility": 4.699999999999998,
+      "estimatedTraffic": 386.341
+    },
+    {
+      "domain": "www.vaccinatiepolilumc.nl",
+      "avgPosition": 5.583333333333333,
+      "keywordCount": 12,
+      "visibility": 7,
+      "estimatedTraffic": 811.2589999999999
+    },
+    {
+      "domain": "www.nederlandwereldwijd.nl",
+      "avgPosition": 5.75,
+      "keywordCount": 12,
+      "visibility": 6.3500000000000005,
+      "estimatedTraffic": 515.535
+    },
+    {
+      "domain": "www.wanda.be",
+      "avgPosition": 11,
+      "keywordCount": 12,
+      "visibility": 3.9499999999999993,
+      "estimatedTraffic": 468.00399999999996
+    },
+    {
+      "domain": "stadskliniek-vaccinaties.nl",
+      "avgPosition": 14.583333333333334,
+      "keywordCount": 12,
+      "visibility": 2.2500000000000004,
+      "estimatedTraffic": 186.259
+    },
+    {
+      "domain": "www.vaccinatiecentrum.nl",
+      "avgPosition": 21.583333333333332,
+      "keywordCount": 12,
+      "visibility": 1.15,
+      "estimatedTraffic": 122.67
+    },
+    {
+      "domain": "lcr.nl",
+      "avgPosition": 17.454545454545453,
+      "keywordCount": 11,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 52.510000000000005
+    },
+    {
+      "domain": "thci.nl",
+      "avgPosition": 20.181818181818183,
+      "keywordCount": 11,
+      "visibility": 0.35,
+      "estimatedTraffic": 45.956999999999994
+    },
+    {
+      "domain": "www.ggd.amsterdam.nl",
+      "avgPosition": 2.888888888888889,
+      "keywordCount": 8,
+      "visibility": 7.3,
+      "estimatedTraffic": 1646.103
+    },
+    {
+      "domain": "www.travelclinicerasmusmc.nl",
+      "avgPosition": 22.181818181818183,
+      "keywordCount": 11,
+      "visibility": 0.35,
+      "estimatedTraffic": 41.601
+    },
+    {
+      "domain": "diplomatie.belgium.be",
+      "avgPosition": 21.8,
+      "keywordCount": 10,
+      "visibility": 0.45,
+      "estimatedTraffic": 30.47
+    },
+    {
+      "domain": "travellegends.nl",
+      "avgPosition": 22,
+      "keywordCount": 10,
+      "visibility": 0.35,
+      "estimatedTraffic": 24.467000000000002
+    },
+    {
+      "domain": "www.azie.nl",
+      "avgPosition": 22.4,
+      "keywordCount": 10,
+      "visibility": 0.2,
+      "estimatedTraffic": 20.246999999999996
+    },
+    {
+      "domain": "www.vaccinatieboekje.com",
+      "avgPosition": 24.4,
+      "keywordCount": 10,
+      "visibility": 0.3,
+      "estimatedTraffic": 25.084999999999997
+    },
+    {
+      "domain": "www.vaccinatiewijzer.nl",
+      "avgPosition": 43.15384615384615,
+      "keywordCount": 13,
+      "visibility": 0.1,
+      "estimatedTraffic": 22.797
+    },
+    {
+      "domain": "thousandtravelmiles.nl",
+      "avgPosition": 37.27272727272727,
+      "keywordCount": 11,
+      "visibility": 0.05,
+      "estimatedTraffic": 21.961
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 23.555555555555557,
+      "keywordCount": 9,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 22.296999999999997
+    },
+    {
+      "domain": "www.klmhealthservices.com",
+      "avgPosition": 15.625,
+      "keywordCount": 8,
+      "visibility": 0.35,
+      "estimatedTraffic": 35.576
+    },
+    {
+      "domain": "www.ggdhaaglanden.nl",
+      "avgPosition": 9,
+      "keywordCount": 7,
+      "visibility": 1.9000000000000004,
+      "estimatedTraffic": 202.16600000000003
+    },
+    {
+      "domain": "www.anwb.nl",
+      "avgPosition": 31.88888888888889,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 17.304
+    },
+    {
+      "domain": "www.ggdgroningen.nl",
+      "avgPosition": 17.428571428571427,
+      "keywordCount": 7,
+      "visibility": 1.9,
+      "estimatedTraffic": 125.394
+    },
+    {
+      "domain": "www.brotherlouis.nl",
+      "avgPosition": 38.22222222222222,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 17.304
+    },
+    {
+      "domain": "travelclinicoost.nl",
+      "avgPosition": 30.5,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 17.63
+    },
+    {
+      "domain": "koningaap.nl",
+      "avgPosition": 32.625,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 16.863
+    },
+    {
+      "domain": "www.meerbode.nl",
+      "avgPosition": 33.375,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 16.863
+    },
+    {
+      "domain": "www.ggd.nl",
+      "avgPosition": 24,
+      "keywordCount": 7,
+      "visibility": 0.35,
+      "estimatedTraffic": 29.595999999999997
+    },
+    {
+      "domain": "www.reisvormen.nl",
+      "avgPosition": 42.55555555555556,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 17.337999999999997
+    },
+    {
+      "domain": "www.thailand-reis.nl",
+      "avgPosition": 48.6,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 17.660999999999998
+    },
+    {
+      "domain": "internshipabroad.nl",
+      "avgPosition": 37.75,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 17.364
+    },
+    {
+      "domain": "blog.europ-assistance.be",
+      "avgPosition": 29.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 16.506
+    },
+    {
+      "domain": "www.vakantiediscounter.nl",
+      "avgPosition": 30.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 16.506
+    },
+    {
+      "domain": "www.bestofasia.nl",
+      "avgPosition": 30.857142857142858,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 12.473999999999998
+    },
+    {
+      "domain": "www.riksjatravel.nl",
+      "avgPosition": 41.875,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 16.863
+    },
+    {
+      "domain": "www.333travel.nl",
+      "avgPosition": 48.44444444444444,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 17.304
+    },
+    {
+      "domain": "www.ggdrotterdamrijnmond.nl",
+      "avgPosition": 12.2,
+      "keywordCount": 5,
+      "visibility": 0.7,
+      "estimatedTraffic": 44.36699999999999
+    },
+    {
+      "domain": "www.pangeatravel.nl",
+      "avgPosition": 41.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 16.506
+    },
+    {
+      "domain": "toerisme-thailand.nl",
+      "avgPosition": 43.42857142857143,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 16.506
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 44.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 16.506
+    },
+    {
+      "domain": "www.goedkoperondreis.com",
+      "avgPosition": 35.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 16.149
+    },
+    {
+      "domain": "ggdgelderlandzuid.nl",
+      "avgPosition": 24.4,
+      "keywordCount": 5,
+      "visibility": 0.8,
+      "estimatedTraffic": 536.409
+    },
+    {
+      "domain": "packlightly.nl",
+      "avgPosition": 53,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 12.830999999999998
+    },
+    {
+      "domain": "community.24baby.nl",
+      "avgPosition": 48.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 16.275
+    },
+    {
+      "domain": "ggdru.nl",
+      "avgPosition": 10.75,
+      "keywordCount": 4,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 213.181
+    },
+    {
+      "domain": "www.asiadirect.nl",
+      "avgPosition": 49.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 16.506
+    },
+    {
+      "domain": "www.zuidoostazie.nl",
+      "avgPosition": 50.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 14.133
+    }
+  ]
+}

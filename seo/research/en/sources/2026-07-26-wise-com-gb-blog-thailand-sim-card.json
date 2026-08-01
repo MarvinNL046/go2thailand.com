@@ -1,0 +1,2109 @@
+{
+  "captured_at": "2026-07-26T17:50:06.577Z",
+  "locale": "en",
+  "url": "https://wise.com/gb/blog/thailand-sim-card",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Sign up",
+          "url": "https://wise.com/register/",
+          "urls": [
+            {
+              "url": "https://wise.com/register/",
+              "anchor_text": "Sign up"
+            }
+          ]
+        },
+        {
+          "text": "Policy Insights",
+          "url": "https://wise.com/gb/blog/category/policy-insights/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/policy-insights/",
+              "anchor_text": "Policy Insights"
+            }
+          ]
+        },
+        {
+          "text": "Product Update",
+          "url": "https://wise.com/gb/blog/category/transferwise-news-product-update/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/transferwise-news-product-update/",
+              "anchor_text": "Product Update"
+            }
+          ]
+        },
+        {
+          "text": "Team Update",
+          "url": "https://wise.com/gb/blog/category/transferwise-news-team-update/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/transferwise-news-team-update/",
+              "anchor_text": "Team Update"
+            }
+          ]
+        },
+        {
+          "text": "Wise Words",
+          "url": "https://wise.com/gb/blog/category/transferwise-news-wise-words/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/transferwise-news-wise-words/",
+              "anchor_text": "Wise Words"
+            }
+          ]
+        },
+        {
+          "text": "Bank accounts",
+          "url": "https://wise.com/gb/blog/category/personal-finance-bank-accounts/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/personal-finance-bank-accounts/",
+              "anchor_text": "Bank accounts"
+            }
+          ]
+        },
+        {
+          "text": "Bank codes",
+          "url": "https://wise.com/gb/blog/category/personal-finance-bank-codes/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/personal-finance-bank-codes/",
+              "anchor_text": "Bank codes"
+            }
+          ]
+        },
+        {
+          "text": "Finance FAQs",
+          "url": "https://wise.com/gb/blog/category/finance-faqs/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/finance-faqs/",
+              "anchor_text": "Finance FAQs"
+            }
+          ]
+        },
+        {
+          "text": "Money transfer",
+          "url": "https://wise.com/gb/blog/category/personal-finance-money-transfer/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/personal-finance-money-transfer/",
+              "anchor_text": "Money transfer"
+            }
+          ]
+        },
+        {
+          "text": "Life in Australia Austria Belgium Brazil Brussels Canada China Croatia Cyprus Czech Republic Denmark Finland France Germany Greece Hong Kong India Indonesia Ireland Israel Italy Japan Luxembourg Malaysia Malta Mexico Netherlands New Zealand Nigeria Norway Pakistan Philippines Poland Portugal Russia Singapore South Africa South Korea Spain Sweden Switzerland Thailand Vietnam The UAE The UK The US",
+          "url": "https://wise.com/gb/blog/category/living-abroad-life-in-australia/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-australia/",
+              "anchor_text": "Australia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-austria/",
+              "anchor_text": "Austria"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-belgium/",
+              "anchor_text": "Belgium"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-brazil/",
+              "anchor_text": "Brazil"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-brussels/",
+              "anchor_text": "Brussels"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-canada/",
+              "anchor_text": "Canada"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-china/",
+              "anchor_text": "China"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-croatia/",
+              "anchor_text": "Croatia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-cyprus/",
+              "anchor_text": "Cyprus"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-czech-republic/",
+              "anchor_text": "Czech Republic"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-denmark/",
+              "anchor_text": "Denmark"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-finland/",
+              "anchor_text": "Finland"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-france/",
+              "anchor_text": "France"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-germany/",
+              "anchor_text": "Germany"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-greece/",
+              "anchor_text": "Greece"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-hong-kong/",
+              "anchor_text": "Hong Kong"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-india/",
+              "anchor_text": "India"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-indonesia/",
+              "anchor_text": "Indonesia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-ireland/",
+              "anchor_text": "Ireland"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-israel/",
+              "anchor_text": "Israel"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-italy/",
+              "anchor_text": "Italy"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-japan/",
+              "anchor_text": "Japan"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-luxembourg/",
+              "anchor_text": "Luxembourg"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-malaysia/",
+              "anchor_text": "Malaysia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-malta/",
+              "anchor_text": "Malta"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-mexico/",
+              "anchor_text": "Mexico"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-netherlands/",
+              "anchor_text": "Netherlands"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-new-zealand/",
+              "anchor_text": "New Zealand"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-nigeria/",
+              "anchor_text": "Nigeria"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-norway/",
+              "anchor_text": "Norway"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-pakistan/",
+              "anchor_text": "Pakistan"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-philippines/",
+              "anchor_text": "Philippines"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-poland/",
+              "anchor_text": "Poland"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-portugal/",
+              "anchor_text": "Portugal"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-russia/",
+              "anchor_text": "Russia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-singapore/",
+              "anchor_text": "Singapore"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-south-africa/",
+              "anchor_text": "South Africa"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-south-korea/",
+              "anchor_text": "South Korea"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-spain/",
+              "anchor_text": "Spain"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-sweden/",
+              "anchor_text": "Sweden"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-switzerland/",
+              "anchor_text": "Switzerland"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-thailand/",
+              "anchor_text": "Thailand"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-vietnam/",
+              "anchor_text": "Vietnam"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-the-uae/",
+              "anchor_text": "The UAE"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-the-uk/",
+              "anchor_text": "The UK"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-life-in-the-us/",
+              "anchor_text": "The US"
+            }
+          ]
+        },
+        {
+          "text": "Overseas property",
+          "url": "https://wise.com/gb/blog/category/living-abroad-overseas-property/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-overseas-property/",
+              "anchor_text": "Overseas property"
+            }
+          ]
+        },
+        {
+          "text": "Studying abroad",
+          "url": "https://wise.com/gb/blog/category/living-abroad-studying-abroad/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/living-abroad-studying-abroad/",
+              "anchor_text": "Studying abroad"
+            }
+          ]
+        },
+        {
+          "text": "Holiday money",
+          "url": "https://wise.com/gb/blog/category/travel-tips-holiday-money/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-holiday-money/",
+              "anchor_text": "Holiday money"
+            }
+          ]
+        },
+        {
+          "text": "Trip planning",
+          "url": "https://wise.com/gb/blog/category/travel-tips-trip-planning/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-trip-planning/",
+              "anchor_text": "Trip planning"
+            }
+          ]
+        },
+        {
+          "text": "Travelling to Australia Austria Bangladesh Belgium Brazil Bulgaria Canada Chile China Colombia Croatia Cyprus Czech Republic Denmark Egypt Estonia Finland France Georgia Germany Greece Hong Kong Hungary India Indonesia Ireland Israel Italy Japan Kenya Latvia Liechtenstein Lithuania Luxembourg Malaysia Malta Mexico Monaco Morocco Nepal Netherlands New Zealand Nigeria Norway Pakistan Peru Philippines Poland Portugal Romania Russia Singapore Slovakia Slovenia South Africa South Korea Spain Sri Lanka Sweden Switzerland Thailand Turkey Ukraine Vietnam The UAE The UK The US",
+          "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-australia/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-australia/",
+              "anchor_text": "Australia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-austria/",
+              "anchor_text": "Austria"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-bangladesh/",
+              "anchor_text": "Bangladesh"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-belgium/",
+              "anchor_text": "Belgium"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-brazil/",
+              "anchor_text": "Brazil"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-bulgaria/",
+              "anchor_text": "Bulgaria"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-canada/",
+              "anchor_text": "Canada"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-chile/",
+              "anchor_text": "Chile"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-china/",
+              "anchor_text": "China"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-colombia/",
+              "anchor_text": "Colombia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-croatia/",
+              "anchor_text": "Croatia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-cyprus/",
+              "anchor_text": "Cyprus"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-czech-republic/",
+              "anchor_text": "Czech Republic"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-denmark/",
+              "anchor_text": "Denmark"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-egypt/",
+              "anchor_text": "Egypt"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-estonia/",
+              "anchor_text": "Estonia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-finland/",
+              "anchor_text": "Finland"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-france/",
+              "anchor_text": "France"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-georgia/",
+              "anchor_text": "Georgia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-germany/",
+              "anchor_text": "Germany"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-greece/",
+              "anchor_text": "Greece"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-hong-kong/",
+              "anchor_text": "Hong Kong"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-hungary/",
+              "anchor_text": "Hungary"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-india/",
+              "anchor_text": "India"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-indonesia/",
+              "anchor_text": "Indonesia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-ireland/",
+              "anchor_text": "Ireland"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-israel/",
+              "anchor_text": "Israel"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-italy/",
+              "anchor_text": "Italy"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-japan/",
+              "anchor_text": "Japan"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-kenya/",
+              "anchor_text": "Kenya"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-latvia/",
+              "anchor_text": "Latvia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-liechtenstein/",
+              "anchor_text": "Liechtenstein"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-lithuania/",
+              "anchor_text": "Lithuania"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-luxembourg/",
+              "anchor_text": "Luxembourg"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-malaysia/",
+              "anchor_text": "Malaysia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-malta/",
+              "anchor_text": "Malta"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-mexico/",
+              "anchor_text": "Mexico"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-monaco/",
+              "anchor_text": "Monaco"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-morocco/",
+              "anchor_text": "Morocco"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-nepal/",
+              "anchor_text": "Nepal"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-netherlands/",
+              "anchor_text": "Netherlands"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-new-zealand/",
+              "anchor_text": "New Zealand"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-nigeria/",
+              "anchor_text": "Nigeria"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-norway/",
+              "anchor_text": "Norway"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-pakistan/",
+              "anchor_text": "Pakistan"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-peru/",
+              "anchor_text": "Peru"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-philippines/",
+              "anchor_text": "Philippines"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-poland/",
+              "anchor_text": "Poland"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-portugal/",
+              "anchor_text": "Portugal"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-romania/",
+              "anchor_text": "Romania"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-russia/",
+              "anchor_text": "Russia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-singapore/",
+              "anchor_text": "Singapore"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-slovakia/",
+              "anchor_text": "Slovakia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-slovenia/",
+              "anchor_text": "Slovenia"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-south-africa/",
+              "anchor_text": "South Africa"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-south-korea/",
+              "anchor_text": "South Korea"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-spain/",
+              "anchor_text": "Spain"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-sri-lanka/",
+              "anchor_text": "Sri Lanka"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-sweden/",
+              "anchor_text": "Sweden"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-switzerland/",
+              "anchor_text": "Switzerland"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-thailand/",
+              "anchor_text": "Thailand"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-turkey/",
+              "anchor_text": "Turkey"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-ukraine/",
+              "anchor_text": "Ukraine"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-vietnam/",
+              "anchor_text": "Vietnam"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-the-uae/",
+              "anchor_text": "The UAE"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-the-uk/",
+              "anchor_text": "The UK"
+            },
+            {
+              "url": "https://wise.com/gb/blog/category/travel-tips-travelling-to-the-us/",
+              "anchor_text": "The US"
+            }
+          ]
+        },
+        {
+          "text": "Bank accounts",
+          "url": "https://wise.com/gb/blog/category/business-bank-accounts/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/business-bank-accounts/",
+              "anchor_text": "Bank accounts"
+            }
+          ]
+        },
+        {
+          "text": "Case studies",
+          "url": "https://wise.com/gb/blog/category/business-case-studies/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/business-case-studies/",
+              "anchor_text": "Case studies"
+            }
+          ]
+        },
+        {
+          "text": "Getting paid",
+          "url": "https://wise.com/gb/blog/category/business-getting-paid/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/business-getting-paid/",
+              "anchor_text": "Getting paid"
+            }
+          ]
+        },
+        {
+          "text": "International business",
+          "url": "https://wise.com/gb/blog/category/business-international-business/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/business-international-business/",
+              "anchor_text": "International business"
+            }
+          ]
+        },
+        {
+          "text": "Making Payments",
+          "url": "https://wise.com/gb/blog/category/business-making-payments/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/business-making-payments/",
+              "anchor_text": "Making Payments"
+            }
+          ]
+        },
+        {
+          "text": "Managing money",
+          "url": "https://wise.com/gb/blog/category/business-managing-money/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/business-managing-money/",
+              "anchor_text": "Managing money"
+            }
+          ]
+        },
+        {
+          "text": "Product news",
+          "url": "https://wise.com/gb/blog/category/business-product-news/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/business-product-news/",
+              "anchor_text": "Product news"
+            }
+          ]
+        },
+        {
+          "text": "Wise Platform",
+          "url": "https://wise.com/gb/blog/category/business-wise-platform/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/business-wise-platform/",
+              "anchor_text": "Wise Platform"
+            }
+          ]
+        },
+        {
+          "text": "Lives Without Borders",
+          "url": "https://wise.com/gb/blog/category/lives-without-borders/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/category/lives-without-borders/",
+              "anchor_text": "Lives Without Borders"
+            }
+          ]
+        },
+        {
+          "text": "Get a multi-currency account",
+          "url": "https://wise.com/gb/account/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/account/",
+              "anchor_text": "Get a multi-currency account"
+            }
+          ]
+        },
+        {
+          "text": "Send money",
+          "url": "https://wise.com/gb/send-money/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/send-money/",
+              "anchor_text": "Send money"
+            }
+          ]
+        },
+        {
+          "text": "Receive money",
+          "url": "https://wise.com/gb/receive-money/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/receive-money/",
+              "anchor_text": "Receive money"
+            }
+          ]
+        },
+        {
+          "text": "Get a Wise debit card",
+          "url": "https://wise.com/gb/card/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/card/",
+              "anchor_text": "Get a Wise debit card"
+            }
+          ]
+        },
+        {
+          "text": "Log in",
+          "url": "https://wise.com/login/",
+          "urls": [
+            {
+              "url": "https://wise.com/login/",
+              "anchor_text": "Log in"
+            }
+          ]
+        },
+        {
+          "text": "Sign up",
+          "url": "https://wise.com/register/",
+          "urls": [
+            {
+              "url": "https://wise.com/register/",
+              "anchor_text": "Sign up"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Company and team",
+          "url": "https://wise.com/gb/about/our-story",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/about/our-story",
+              "anchor_text": "Company and team"
+            }
+          ]
+        },
+        {
+          "text": "News and blog",
+          "url": "https://wise.com/gb/blog/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/blog/",
+              "anchor_text": "News and blog"
+            }
+          ]
+        },
+        {
+          "text": "Affiliates and partnerships",
+          "url": "https://wise.com/gb/partnerwise",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/partnerwise",
+              "anchor_text": "Affiliates and partnerships"
+            }
+          ]
+        },
+        {
+          "text": "Help centre",
+          "url": "https://wise.com/help/",
+          "urls": [
+            {
+              "url": "https://wise.com/help/",
+              "anchor_text": "Help centre"
+            }
+          ]
+        },
+        {
+          "text": "Mid-market rate",
+          "url": "https://wise.com/gb/mid-market-rate",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/mid-market-rate",
+              "anchor_text": "Mid-market rate"
+            }
+          ]
+        },
+        {
+          "text": "Send money abroad",
+          "url": "https://wise.com/gb/send-money/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/send-money/",
+              "anchor_text": "Send money abroad"
+            }
+          ]
+        },
+        {
+          "text": "Swift/BIC codes",
+          "url": "https://wise.com/gb/swift-codes/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/swift-codes/",
+              "anchor_text": "Swift/BIC codes"
+            }
+          ]
+        },
+        {
+          "text": "Currency converter",
+          "url": "https://wise.com/gb/currency-converter/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/currency-converter/",
+              "anchor_text": "Currency converter"
+            }
+          ]
+        },
+        {
+          "text": "IBAN codes",
+          "url": "https://wise.com/gb/iban/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/iban/",
+              "anchor_text": "IBAN codes"
+            }
+          ]
+        },
+        {
+          "text": "Rate alerts",
+          "url": "https://wise.com/tools/exchange-rate-alerts/",
+          "urls": [
+            {
+              "url": "https://wise.com/tools/exchange-rate-alerts/",
+              "anchor_text": "Rate alerts"
+            }
+          ]
+        },
+        {
+          "text": "Compare exchange rates",
+          "url": "https://wise.com/gb/compare/",
+          "urls": [
+            {
+              "url": "https://wise.com/gb/compare/",
+              "anchor_text": "Compare exchange rates"
+            }
+          ]
+        },
+        {
+          "text": "Business templates",
+          "url": "https://wise.com/us/business-templates/",
+          "urls": [
+            {
+              "url": "https://wise.com/us/business-templates/",
+              "anchor_text": "Business templates"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "How to buy a prepaid SIM card for Thailand?",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Planning a Thailand getaway from the UK? No wonder, since this stunning country is consistently one of the top tourist destinations. Besides taking care of accommodation and your itinerary, it's also important to consider how you’ll be communicating and getting around during your stay.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "To make sure you make the most out of your vacation, consider getting a Thai SIM card while you’re there. This could not only help you avoid unnecessary expenses, but also let you use translation apps and maps without needing Wi-Fi.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Also, if you need a cost-effective way to handle your finances across borders, check out the Wise card from the money services provider Wise. It can help you get ready for your stay in Thailand and save money while travelling abroad. You can pay and withdraw cash like a local in 40+ currencies including THB for low fees and great mid-market exchange rates.",
+            "url": "https://wise.com/gb/card/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/card/",
+                "anchor_text": "Wise card"
+              },
+              {
+                "url": "https://wise.com/gb/mid-market-rate",
+                "anchor_text": "mid-market exchange rates"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Why should you buy a prepaid SIM card when travelling to Thailand from the UK?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "How much does a SIM card cost in Thailand?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "How to buy a prepaid Thai SIM card?¹",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Where can you buy a Thai SIM card in the UK?",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Can you buy a Thai SIM card at the airport?²",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Best prepaid SIM cards for Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "TrueMove H⁴",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Best e-SIM cards for Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "eSIM Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Spend like a local in Thailand with Wise",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Table of contents",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Why should you buy a prepaid SIM card when travelling to Thailand from the UK?\nHow much does a SIM card cost in Thailand?\nHow to buy a prepaid Thai SIM card?¹\nWhere can you buy a Thai SIM card in the UK?\nCan you buy a Thai SIM card at the airport?²\nBest prepaid SIM cards for Thailand\nDTAC²\nAIS³\nTrueMove H⁴\nBest e-SIM cards for Thailand\neSIM Thailand\nHolafly⁹\nAiralo\nDTAC¹²\nSpend like a local in Thailand with Wise",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Why should you buy a prepaid SIM card when travelling to Thailand from the UK?",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Buying a Thai SIM card will actually help you budget and avoid extra expenses. International calls and data usage most likely aren’t included in your UK plan. So, your provider will charge you for using your phone abroad. With a Thailand SIM, you’ll be connected to one of the local networks, so this won’t be a problem.",
+            "url": "https://wise.com/gb/blog/can-you-use-your-phone-abroad",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/can-you-use-your-phone-abroad",
+                "anchor_text": "using your phone abroad"
+              }
+            ]
+          },
+          {
+            "text": "Having a local SIM card will allow you not only to stay in touch with your friends, but to make new ones in Thailand. Also, translation apps and maps can help you communicate without having to rely on Wi-Fi.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you still don’t want to buy a Thailand SIM card, you can rely on international roaming. Many networks, such as VOXI or Sky Mobile, offer global roaming packages that include Thailand. Check with your provider what your options are, but this can be a more expensive route.",
+            "url": "https://wise.com/gb/blog/voxi-data-roaming",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/voxi-data-roaming",
+                "anchor_text": "VOXI"
+              },
+              {
+                "url": "https://wise.com/gb/blog/sky-mobile-data-roaming",
+                "anchor_text": "Sky Mobile"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Looking for a Phuket travel guide? Click here to learn more about when the best time to visit Phuket is and find out how you can get the most out of THB conversions with Wise",
+                    "urls": [
+                      {
+                        "url": "https://wise.com/au/blog/best-time-to-visit-phuket",
+                        "anchor_text": "when the best time to visit Phuket is"
+                      },
+                      {
+                        "url": "https://wise.com/",
+                        "anchor_text": "Wise"
+                      }
+                    ],
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": null,
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "How much does a SIM card cost in Thailand?",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "You can get a daily Thailand SIM card for as little as £1. On the other hand, plans that can last you a week cost a couple of pounds more. 15-day SIM cards start at £7 and go up to £15 for deals with unlimited data and calls.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "eSIMs are slightly more expensive in Thailand, but their advantage is that they can be valid for up to a year. A monthly eSIM you can use in Thailand ranges from £13 to £59. However, some of them allow hotspots, so you could split the price with your friends and use it together.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "How to buy a prepaid Thai SIM card?¹",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Getting a Thailand SIM card is rather easy, since they can be bought at numerous selling points. Not only can you get them at official outlets, but also in convenience stores and online. Thailand’s three main mobile operators are AIS, DTAC, and TrueMove H.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Foreigners can buy Thai SIM cards with no restrictions, as long as they don’t own more than five per operator. When getting a SIM card, don’t forget to bring your passport. You’ll need to show it in order to register.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "When it comes to payment methods, you could use your credit card, debit card or even a prepaid travel card. If you like to use cash, check if there’s an ATM near the store.",
+            "url": "https://wise.com/gb/blog/best-credit-cards-for-travel-uk",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/best-credit-cards-for-travel-uk",
+                "anchor_text": "credit card"
+              },
+              {
+                "url": "https://wise.com/gb/blog/best-debit-cards-to-use-abroad",
+                "anchor_text": "debit card"
+              },
+              {
+                "url": "https://wise.com/gb/blog/best-prepaid-travel-cards-for-turkey",
+                "anchor_text": "prepaid travel card"
+              },
+              {
+                "url": "https://wise.com/gb/blog/atms-in-thailand",
+                "anchor_text": "ATM"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Where can you buy a Thai SIM card in the UK?",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "You could get a Thai SIM card while still in the UK, but you won’t get to be picky, since there aren’t too many options. To get an idea of what’s on the market, check out SimCorner’s and TravSim’s Thai SIM. If you decide to buy one, make sure you also consider the time it takes for the package to get delivered to your address.",
+            "url": "https://uk.simcorner.com/collections/thailand-sim-card/products/thailand-sim-card-30gb-ais",
+            "urls": [
+              {
+                "url": "https://uk.simcorner.com/collections/thailand-sim-card/products/thailand-sim-card-30gb-ais",
+                "anchor_text": "SimCorner’s"
+              },
+              {
+                "url": "https://travsim.co.uk/products/thailand-prepaid-travel-sim-card",
+                "anchor_text": "TravSim’s"
+              }
+            ]
+          },
+          {
+            "text": "In case you need more variety, getting an eSIM while still in the UK is a good idea – if your phone supports eSIMs. Some providers sell country-specific e-SIM cards, while others have regional or global deals. Either way, you’ll probably be able to find something that suits you, all from the comfort of your home.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "📚 Read more: How to buy a SIM card in the UK?",
+                    "urls": [
+                      {
+                        "url": "https://wise.com/gb/blog/how-to-buy-sim-card-in-uk",
+                        "anchor_text": "How to buy a SIM card in the UK?"
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "text": "",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": null,
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Can you buy a Thai SIM card at the airport?²",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Yes, you can get a Thai SIM as soon as you land. Some airports, such as the Suvarnabhumi International Airport, have multiple selling points, so you won’t have to waste time looking. There are stores and stands in the arrival halls, at baggage claim and close to the exits.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Best prepaid SIM cards for Thailand",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Here are some of the best SIM cards for a short stay or holiday in Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "DTAC²",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "DTAC has multiple options tailored to the needs of tourists. Their Happy Tourists SIMs have three validity periods, made for 8, 10 and 15 day stays. Whichever you end up choosing, you’ll get unlimited minutes in their network and additional credit for other networks.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The 8-day DTAC SIM costs roughly £6.5 and has 15 GB of max speed data. If you plan on staying longer, the next package has 50 GB for around £7.7. The biggest one costs around £13 for 30 GB of high speed data over the course of 30 days.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "These SIMs are focused on data, but DTAC also has Happy Infinite SIMs with unlimited calls included. With this card, you can call all Thailand networks. The prices are approximately £10 for 8 days, £15 for 15 days and around £26 for a 30-day stay.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Their SIMs also have equal eSIM versions, which we’ll mention later.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "AIS³",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "AIS has prepaid tourist SIMs with 8, 15 and 30 validity periods. The price of the 8-day plan is around £6.5 and you get 15 GB with that deal. If you’re staying up to 15 days, their package offers 30 GB of fast internet for £13. The most expensive plan can last you through the month, with 50 GB of high speed internet for around £20.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "They also have a Pay as you go deal. You can get their daily card with 1 GB of internet for only £1 and get more as needed.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "TrueMove H⁴",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "If you want to get a card and not think about how much data you have left, TrueMove H’s Infinite tourist SIMs have just that. For £10, £15 or £26, you can get unlimited data and calls to all networks in Thailand. The price depends on the length of your stay and TrueMove H’s deals are made for 8, 15 or 30 days. You even get some credit for international calls.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Best e-SIM cards for Thailand",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "If your phone supports eSIMs, they’re the quickest and most convenient option. You can get them with only a few clicks and they’re often cheaper than regular physical SIMs. Here are some of the best ones for trips to Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "eSIM Thailand",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "eSIM Thailand’s offer includes three different nationwide plans - Unlimited Data & Calls, Fixed Data & Calls and Daily Data. All packages have free mobile hotspots included, so you can share the data with your friends and split the costs.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The Unlimited Data & Calls plan includes 15 days of unlimited fast data and local calls with a Thai number. The discounted price at the time of writing is $19.99.⁵",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Lastly, the Daily Data plan is customisable, so you can get 0.5 GB, 1 GB or 2 GB of data per day. Depending on how long you’re staying, plan options range from 1-day to 30-day deals. Your data resets every 24 hours and the packages cost from $1.29 to $31.99.⁷",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "eSIM Thailand also offers city-specific plans. For example, their Phuket plan can be used in the entire country, but it guarantees best network connections in the Phuket area.⁸",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Holafly⁹",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Holafly offers unlimited data plans only, but you can’t share them with others through a hotspot. Their prices start at £19 for 5 days, but the more days you buy, the better the deal.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For example, the Holafly Thailand eSIM with 10 days of unlimited data costs £29, while 20 days is £49. If you plan on using your eSIM for a whole month, that will set you back £59. If you decide to extend your stay even more, the biggest package can last you up to 90 days at a £87 rate.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Airalo",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "If you’ve ever looked into eSIM options, it’s likely you’ve heard of Airalo, a popular provider with global coverage. Airalo has six different data plans for Thailand that cost up to $22 for a 30 day validity period. The most affordable plan costs $4.5 at the moment and it allows 1 GB of data usage in a week. From time to time, they have Thailand eSIMs that include calls and texts as well.¹⁰",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "They also offer regional and global eSIMs, which can be a great option if you’ll be travelling somewhere else as well. Global eSIMs can be used in 126 countries, Thailand included. The prices range from $9 for 7 days to $89 for year-long validity, calls included.¹¹",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "DTAC¹²",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "One of Thailand’s biggest providers has eSIM options along with regular SIMs. Their Happy Tourist eSIMs are good for short trips, with deals made for 8, 10 and 15 day stays. All three have unlimited minutes within the network and additional credit for outside calls.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The 8-day DTAC eSIM costs just over £6.5 and includes 15 GB of max speed data. The middle package has 50 GB for around £7.7, while the 30-day one costs roughly £13 for 30 GB of high speed data.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If being able to make calls freely is important to you, DTAC also has their Happy Infinite eSIMs. Along with unlimited max speed data, they also include unlimited calls to all Thailand networks. The prices are approximately £10 for 8 days, £15 for 15 days and just over £26 for a whole month.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Spend like a local in Thailand with Wise",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "After looking through the Thai SIM card options ahead of your trip, you might also want to consider how you'll manage your money while on vacation.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The Wise card from the money services provider Wise is a convenient choice. For a one-time cost of just £7, you can spend like a local in Thailand and 150+ more countries. The Wise card has no foreign transaction fees for spending abroad, no hidden fees or margins, and only a small currency conversion fee.",
+            "url": "https://wise.com/gb/card/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/card/",
+                "anchor_text": "Wise card"
+              }
+            ]
+          },
+          {
+            "text": "You can get the Wise card by opening a Wise multi-currency account. It’s not a bank account but offers many similar features.",
+            "url": "https://wise.com/gb/account/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/account/",
+                "anchor_text": "Wise multi-currency account"
+              }
+            ]
+          },
+          {
+            "text": "What’s more, you can also make international payments for low fees and mid-market exchange rates. The account supports 40+ currencies, including THB. You can send money to pay for a rental car, accommodation, or the like while still in the UK.",
+            "url": "https://wise.com/gb/send-money/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/send-money/",
+                "anchor_text": "make international payments"
+              },
+              {
+                "url": "https://wise.com/gb/mid-market-rate",
+                "anchor_text": "mid-market exchange rates"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Sign up with Wise today 💰",
+            "url": "https://wise.com/register",
+            "urls": [
+              {
+                "url": "https://wise.com/register",
+                "anchor_text": "Sign up with Wise today 💰"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "How to buy a prepaid SIM card for Thailand?",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Sources used for this article:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "AIS - SIM & Plans for Tourists",
+            "url": "https://www.ais.th/en/consumers/package/international/tourist-plan",
+            "urls": [
+              {
+                "url": "https://www.ais.th/en/consumers/package/international/tourist-plan",
+                "anchor_text": "AIS"
+              }
+            ]
+          },
+          {
+            "text": "TrueMove H - Thailand Tourist SIM",
+            "url": "https://www.truemoveh-thailandsim.com/",
+            "urls": [
+              {
+                "url": "https://www.truemoveh-thailandsim.com/",
+                "anchor_text": "TrueMove H"
+              }
+            ]
+          },
+          {
+            "text": "Holafly - Thailand eSIM",
+            "url": "https://esim.holafly.com/esim-thailand/",
+            "urls": [
+              {
+                "url": "https://esim.holafly.com/esim-thailand/",
+                "anchor_text": "Holafly"
+              }
+            ]
+          },
+          {
+            "text": "Airalo - Thailand eSIM",
+            "url": "https://www.airalo.com/thailand-esim",
+            "urls": [
+              {
+                "url": "https://www.airalo.com/thailand-esim",
+                "anchor_text": "Airalo"
+              }
+            ]
+          },
+          {
+            "text": "Sources last checked on date: 16-Feb-2024",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Phone Travel Wiz - SIM cards in Thailand",
+            "url": "https://www.phonetravelwiz.com/buying-a-sim-card-in-thailand-guide/",
+            "urls": [
+              {
+                "url": "https://www.phonetravelwiz.com/buying-a-sim-card-in-thailand-guide/",
+                "anchor_text": "Phone Travel Wiz"
+              }
+            ]
+          },
+          {
+            "text": "DTAC - Tourist SIM",
+            "url": "https://www.dtac.co.th/en/prepaid/products/tourist-sim.html",
+            "urls": [
+              {
+                "url": "https://www.dtac.co.th/en/prepaid/products/tourist-sim.html",
+                "anchor_text": "DTAC"
+              }
+            ]
+          },
+          {
+            "text": "eSIM Thailand - Unlimited Data & Calls",
+            "url": "https://esimthailand.com/product/esim-thailand-unlimited-data-calls-plan/",
+            "urls": [
+              {
+                "url": "https://esimthailand.com/product/esim-thailand-unlimited-data-calls-plan/",
+                "anchor_text": "eSIM Thailand"
+              }
+            ]
+          },
+          {
+            "text": "eSIM Thailand - Fixed Data & Calls",
+            "url": "https://esimthailand.com/product/esim-thailand-fixed-plans/",
+            "urls": [
+              {
+                "url": "https://esimthailand.com/product/esim-thailand-fixed-plans/",
+                "anchor_text": "eSIM Thailand"
+              }
+            ]
+          },
+          {
+            "text": "eSIM Thailand - Daily Data",
+            "url": "https://esimthailand.com/product/esim-thailand-daily-data-plans/",
+            "urls": [
+              {
+                "url": "https://esimthailand.com/product/esim-thailand-daily-data-plans/",
+                "anchor_text": "eSIM Thailand"
+              }
+            ]
+          },
+          {
+            "text": "eSIM Thailand - eSIM Phuket",
+            "url": "https://esimthailand.com/product/esim-phuket/",
+            "urls": [
+              {
+                "url": "https://esimthailand.com/product/esim-phuket/",
+                "anchor_text": "eSIM Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Airalo - Global eSIM",
+            "url": "https://www.airalo.com/global-esim",
+            "urls": [
+              {
+                "url": "https://www.airalo.com/global-esim",
+                "anchor_text": "Airalo"
+              }
+            ]
+          },
+          {
+            "text": "DTAC - Tourist eSIM",
+            "url": "https://www.dtac.co.th/en/new-number/esim",
+            "urls": [
+              {
+                "url": "https://www.dtac.co.th/en/new-number/esim",
+                "anchor_text": "DTAC"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "How to buy a prepaid SIM card for Thailand?",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "This publication is provided for general information purposes and does not constitute legal, tax or other professional advice from Wise Payments Limited or its subsidiaries and its affiliates, and it is not intended as a substitute for obtaining advice from a financial advisor or any other professional.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "We make no representations, warranties or guarantees, whether expressed or implied, that the content in the publication is accurate, complete or up to date.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "*Please see terms of use and product availability for your region or visit Wise fees and pricing for the most up to date pricing and fee information.",
+            "url": "https://wise.com/terms-and-conditions",
+            "urls": [
+              {
+                "url": "https://wise.com/terms-and-conditions",
+                "anchor_text": "terms of use"
+              },
+              {
+                "url": "https://wise.com/help/articles/2978049/which-countries-can-i-use-wise-in",
+                "anchor_text": "product availability"
+              },
+              {
+                "url": "https://wise.com/pricing/",
+                "anchor_text": "Wise fees and pricing"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Best time to visit Thailand from the UK",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Wondering when the best time to visit Thailand from the UK is? Learn about the weather, planning your trip and things to do in Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Best time to visit Thailand from the UK",
+            "url": "https://wise.com/gb/blog/best-time-to-visit-thailand-from-uk",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/best-time-to-visit-thailand-from-uk",
+                "anchor_text": "Best time to visit Thailand from the UK"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Money in Thailand: Banks, ATMs, cards & currency exchange",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Read our helpful guide to money, banks and currency in Thailand, plus info on cards, ATMs and currency exchange.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Money in Thailand: Banks, ATMs, cards & currency exchange",
+            "url": "https://wise.com/gb/blog/money-and-banks-in-thailand",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/money-and-banks-in-thailand",
+                "anchor_text": "Money in Thailand: Banks, ATMs, cards & currency exchange"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "ATMs in Thailand: locations, fees, and tips",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Travelling to Thailand and need to take out cash? Learn about where to find ATMs, how much are the withdrawal charges, and some tips on how to save on ATM fees.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "ATMs in Thailand: locations, fees, and tips",
+            "url": "https://wise.com/gb/blog/atms-in-thailand",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/atms-in-thailand",
+                "anchor_text": "ATMs in Thailand: locations, fees, and tips"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "What is the best eSIM for Thailand? Comparing the top 5 options",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Want to stay connected while travelling in Thailand? We’ll help you find the best eSIM for your trip, including what to consider, how to activate and top tips.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "What is the best eSIM for Thailand? Comparing the top 5 options",
+            "url": "https://wise.com/gb/blog/best-esim-for-thailand",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/best-esim-for-thailand",
+                "anchor_text": "What is the best eSIM for Thailand? Comparing the top 5 options"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Travel to Thailand from the UK: Must-know travel advice",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Read our essential guide on travel to Thailand from the UK, featuring must-know travel advice on money, safety, visas, transport and more.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Travel to Thailand from the UK: Must-know travel advice",
+            "url": "https://wise.com/gb/blog/travel-to-thailand-from-the-uk",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/travel-to-thailand-from-the-uk",
+                "anchor_text": "Travel to Thailand from the UK: Must-know travel advice"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Can I use my Barclaycard in Thailand?",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Can I use my Barclaycard in Thailand? Find out here in this handy guide, including fees for using your credit card in Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Can I use my Barclaycard in Thailand?",
+            "url": "https://wise.com/gb/blog/can-i-use-barclaycard-in-thailand",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/can-i-use-barclaycard-in-thailand",
+                "anchor_text": "Can I use my Barclaycard in Thailand?"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Gert Svaiko",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 5,
+        "primary_content": [
+          {
+            "text": "05.03.24 (updated more than 1 year ago)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Read time 7 minutes",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Gert Svaiko",
+            "url": "https://wise.com/gb/blog/author/gert-svaiko/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/author/gert-svaiko/",
+                "anchor_text": "Gert Svaiko"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Money without borders",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Alex Beaney",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 5,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Alex Beaney",
+            "url": "https://wise.com/gb/blog/author/alex-beaney/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/author/alex-beaney/",
+                "anchor_text": "Alex Beaney"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Emma-Jane Stogdon",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 5,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Emma-Jane Stogdon",
+            "url": "https://wise.com/gb/blog/author/emma-jane-stogdon/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/author/emma-jane-stogdon/",
+                "anchor_text": "Emma-Jane Stogdon"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Emma-Jane Stogdon",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 5,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Emma-Jane Stogdon",
+            "url": "https://wise.com/gb/blog/author/emma-jane-stogdon/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/author/emma-jane-stogdon/",
+                "anchor_text": "Emma-Jane Stogdon"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Alex Beaney",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 5,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Alex Beaney",
+            "url": "https://wise.com/gb/blog/author/alex-beaney/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/author/alex-beaney/",
+                "anchor_text": "Alex Beaney"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Gert Svaiko",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 5,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Gert Svaiko",
+            "url": "https://wise.com/gb/blog/author/gert-svaiko/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/author/gert-svaiko/",
+                "anchor_text": "Gert Svaiko"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Gert Svaiko",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 5,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Gert Svaiko",
+            "url": "https://wise.com/gb/blog/author/gert-svaiko/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/author/gert-svaiko/",
+                "anchor_text": "Gert Svaiko"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Tips, news and updates for your location",
+        "main_title": "How to buy a prepaid SIM card for Thailand?",
+        "author": "Gert Svaiko",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Brasil (ES)",
+            "url": "https://wise.com/es-br/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/es-br/blog/",
+                "anchor_text": "Brasil (ES)"
+              }
+            ]
+          },
+          {
+            "text": "Canada (FR)",
+            "url": "https://wise.com/fr-ca/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/fr-ca/blog/",
+                "anchor_text": "Canada (FR)"
+              }
+            ]
+          },
+          {
+            "text": "Costa Rica",
+            "url": "https://wise.com/cr/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/cr/blog/",
+                "anchor_text": "Costa Rica"
+              }
+            ]
+          },
+          {
+            "text": "United Kingdom",
+            "url": "https://wise.com/gb/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/gb/blog/",
+                "anchor_text": "United Kingdom"
+              }
+            ]
+          },
+          {
+            "text": "Hong Kong",
+            "url": "https://wise.com/hk/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/hk/blog/",
+                "anchor_text": "Hong Kong"
+              }
+            ]
+          },
+          {
+            "text": "Malaysia (MS)",
+            "url": "https://wise.com/ms-my/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/ms-my/blog/",
+                "anchor_text": "Malaysia (MS)"
+              }
+            ]
+          },
+          {
+            "text": "New Zealand",
+            "url": "https://wise.com/nz/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/nz/blog/",
+                "anchor_text": "New Zealand"
+              }
+            ]
+          },
+          {
+            "text": "На русском",
+            "url": "https://wise.com/ru/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/ru/blog/",
+                "anchor_text": "На русском"
+              }
+            ]
+          },
+          {
+            "text": "United States",
+            "url": "https://wise.com/us/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/us/blog/",
+                "anchor_text": "United States"
+              }
+            ]
+          },
+          {
+            "text": "Estados Unidos",
+            "url": "https://wise.com/es-us/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/es-us/blog/",
+                "anchor_text": "Estados Unidos"
+              }
+            ]
+          },
+          {
+            "text": "Việt Nam",
+            "url": "https://wise.com/vn/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/vn/blog/",
+                "anchor_text": "Việt Nam"
+              }
+            ]
+          },
+          {
+            "text": "South Africa",
+            "url": "https://wise.com/za/blog/",
+            "urls": [
+              {
+                "url": "https://wise.com/za/blog/",
+                "anchor_text": "South Africa"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

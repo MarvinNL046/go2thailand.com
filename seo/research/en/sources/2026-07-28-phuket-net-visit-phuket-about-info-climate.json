@@ -1,0 +1,1099 @@
+{
+  "captured_at": "2026-07-28T21:26:49.503Z",
+  "locale": "en",
+  "url": "https://www.phuket.net/visit-phuket/about/info/climate/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "This Week",
+          "url": "https://www.phuket.net/events/week",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/week",
+              "anchor_text": "This Week"
+            }
+          ]
+        },
+        {
+          "text": "This Weekend",
+          "url": "https://www.phuket.net/events/list",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/list",
+              "anchor_text": "This Weekend"
+            }
+          ]
+        },
+        {
+          "text": "This Month",
+          "url": "https://www.phuket.net/events/month",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/month",
+              "anchor_text": "This Month"
+            }
+          ]
+        },
+        {
+          "text": "View Calendar",
+          "url": "https://www.phuket.net/events-calendar",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events-calendar",
+              "anchor_text": "View Calendar"
+            }
+          ]
+        },
+        {
+          "text": "Art & Performances",
+          "url": "https://www.phuket.net/events/category/art-performances/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/category/art-performances/",
+              "anchor_text": "Art & Performances"
+            }
+          ]
+        },
+        {
+          "text": "Community & Meetings",
+          "url": "https://www.phuket.net/events/category/community-meetings/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/category/community-meetings/",
+              "anchor_text": "Community & Meetings"
+            }
+          ]
+        },
+        {
+          "text": "Music & Nightlife",
+          "url": "https://www.phuket.net/events/category/music-nightlife/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/category/music-nightlife/",
+              "anchor_text": "Music & Nightlife"
+            }
+          ]
+        },
+        {
+          "text": "Shopping & Markets",
+          "url": "https://www.phuket.net/events/category/shopping-markets/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/events/category/shopping-markets/",
+              "anchor_text": "Shopping & Markets"
+            }
+          ]
+        },
+        {
+          "text": "Things To Do",
+          "url": "https://www.phuket.net/activities/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/activities/",
+              "anchor_text": "Things To Do"
+            }
+          ]
+        },
+        {
+          "text": "What’s On",
+          "url": "https://www.phuket.net/whats-on/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/whats-on/",
+              "anchor_text": "What’s On"
+            }
+          ]
+        },
+        {
+          "text": "Real Estate",
+          "url": "https://www.phuket.net/property/blog/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/property/blog/",
+              "anchor_text": "Real Estate"
+            }
+          ]
+        },
+        {
+          "text": "New Listings",
+          "url": "https://www.phuket.net/directory/search/?sort_by=latest",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/directory/search/?sort_by=latest",
+              "anchor_text": "New Listings"
+            }
+          ]
+        },
+        {
+          "text": "Get Listed",
+          "url": "https://www.phuket.net/directory/add/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/directory/add/",
+              "anchor_text": "Get Listed"
+            }
+          ]
+        },
+        {
+          "text": "Tours & Activities",
+          "url": "https://www.phuket.net/tours/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/tours/",
+              "anchor_text": "Tours & Activities"
+            }
+          ]
+        },
+        {
+          "text": "Things to do",
+          "url": "https://www.phuket.net/things-to-do/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/things-to-do/",
+              "anchor_text": "Things to do"
+            }
+          ]
+        },
+        {
+          "text": "Yacht Charters",
+          "url": "https://www.phuket.net/yachtcharters/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/yachtcharters/",
+              "anchor_text": "Yacht Charters"
+            }
+          ]
+        },
+        {
+          "text": "Beaches & Places",
+          "url": "https://www.phuket.net/visit-phuket/about/destinations/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/visit-phuket/about/destinations/",
+              "anchor_text": "Beaches & Places"
+            }
+          ]
+        },
+        {
+          "text": "About Phuket",
+          "url": "https://www.phuket.net/visit-phuket/about/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/visit-phuket/about/",
+              "anchor_text": "About Phuket"
+            }
+          ]
+        },
+        {
+          "text": "Living Guide",
+          "url": "https://www.phuket.net/phuket-living/guide/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/phuket-living/guide/",
+              "anchor_text": "Living Guide"
+            }
+          ]
+        },
+        {
+          "text": "Going Out",
+          "url": "https://www.phuket.net/going-out/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/",
+              "anchor_text": "Going Out"
+            }
+          ]
+        },
+        {
+          "text": "Restaurants by Area",
+          "url": "https://www.phuket.net/going-out/restaurants/dining-by-area/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/restaurants/dining-by-area/",
+              "anchor_text": "Restaurants by Area"
+            }
+          ]
+        },
+        {
+          "text": "Restaurants by Cuisine",
+          "url": "https://www.phuket.net/going-out/restaurants/dining-by-cuisine/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/restaurants/dining-by-cuisine/",
+              "anchor_text": "Restaurants by Cuisine"
+            }
+          ]
+        },
+        {
+          "text": "Nightlife by Area",
+          "url": "https://www.phuket.net/going-out/nightlife/nightlife-by-area/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/nightlife/nightlife-by-area/",
+              "anchor_text": "Nightlife by Area"
+            }
+          ]
+        },
+        {
+          "text": "Nightlife by Venue",
+          "url": "https://www.phuket.net/going-out/nightlife/nightlife-by-venue/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/nightlife/nightlife-by-venue/",
+              "anchor_text": "Nightlife by Venue"
+            }
+          ]
+        },
+        {
+          "text": "SFX Central Festival Showtimes",
+          "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-central-festival/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-central-festival/",
+              "anchor_text": "SFX Central Festival Showtimes"
+            }
+          ]
+        },
+        {
+          "text": "SF Robinson Thalang Showtimes",
+          "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-sf-robinson-thalang/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-sf-robinson-thalang/",
+              "anchor_text": "SF Robinson Thalang Showtimes"
+            }
+          ]
+        },
+        {
+          "text": "SF Jungceylon Showtimes",
+          "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-jungceylon/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/going-out/cinema/movie-schedules/showtimes-jungceylon/",
+              "anchor_text": "SF Jungceylon Showtimes"
+            }
+          ]
+        },
+        {
+          "text": "Health & Fitness",
+          "url": "https://www.phuket.net/phuket-living/health-fitness/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/phuket-living/health-fitness/",
+              "anchor_text": "Health & Fitness"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "About Phuket",
+          "url": "https://www.phuket.net/visit-phuket/about/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/visit-phuket/about/",
+              "anchor_text": "About Phuket"
+            }
+          ]
+        },
+        {
+          "text": "Beaches & Places",
+          "url": "https://www.phuket.net/visit-phuket/about/destinations/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/visit-phuket/about/destinations/",
+              "anchor_text": "Beaches & Places"
+            }
+          ]
+        },
+        {
+          "text": "Things to Do",
+          "url": "https://www.phuket.net/things-to-do/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/things-to-do/",
+              "anchor_text": "Things to Do"
+            }
+          ]
+        },
+        {
+          "text": "Business Directory",
+          "url": "https://www.phuket.net/directory/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/directory/",
+              "anchor_text": "Business Directory"
+            }
+          ]
+        },
+        {
+          "text": "Expat Guide",
+          "url": "https://www.phuket.net/phuket-living/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/phuket-living/",
+              "anchor_text": "Expat Guide"
+            }
+          ]
+        },
+        {
+          "text": "Work Permits & Visas",
+          "url": "https://www.phuket.net/phuket-living/employment/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/phuket-living/employment/",
+              "anchor_text": "Work Permits & Visas"
+            }
+          ]
+        },
+        {
+          "text": "Property for Sale",
+          "url": "https://www.phuket.net/property/property-for-sale/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/property/property-for-sale/",
+              "anchor_text": "Property for Sale"
+            }
+          ]
+        },
+        {
+          "text": "Property for Rent",
+          "url": "https://www.phuket.net/rentals/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/rentals/",
+              "anchor_text": "Property for Rent"
+            }
+          ]
+        },
+        {
+          "text": "Недвижимость на Пхукете",
+          "url": "https://www.phuket.net/property/ru/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/property/ru/",
+              "anchor_text": "Недвижимость на Пхукете"
+            }
+          ]
+        },
+        {
+          "text": "Phuket immobilier",
+          "url": "https://www.phuket.net/property/fr/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/property/fr/",
+              "anchor_text": "Phuket immobilier"
+            }
+          ]
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.phuket.net/contact-us/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/contact-us/",
+              "anchor_text": "Contact Us"
+            }
+          ]
+        },
+        {
+          "text": "About US",
+          "url": "https://www.phuket.net/about-us/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/about-us/",
+              "anchor_text": "About US"
+            }
+          ]
+        },
+        {
+          "text": "Join Our Team",
+          "url": "https://www.phuket.net/join-our-team/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/join-our-team/",
+              "anchor_text": "Join Our Team"
+            }
+          ]
+        },
+        {
+          "text": "Site Map",
+          "url": "https://www.phuket.net/site-maps/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/site-maps/",
+              "anchor_text": "Site Map"
+            }
+          ]
+        },
+        {
+          "text": "© Phuket.Net. All rights reserved",
+          "url": "https://www.phuket.net/",
+          "urls": [
+            {
+              "url": "https://www.phuket.net/",
+              "anchor_text": "Phuket.Net"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Climate",
+        "main_title": "Climate",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "It is warm in Phuket all year round with temperatures ranging between 25 – 34°C (77 – 93°F). Phuket’s weather is typically divided into two distinct seasons, dry and rainy, with transitional periods in between. The seasons are dictated by the tropical monsoon, which is characterised by prevailing winds that blow from the northeast for half the year, then reverse and blow from the southwest, producing a dry season and a wet season.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dry Season",
+        "main_title": "Climate",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The dry season begins in December and usually lasts until March. The northeast monsoon draws cool, dry air from the Asian continent resulting in a slight drop in temperature. This is the high season for tourism in Phuket, when the climate is at its best, characterized by gentle breezes, calm seas and clear blue skies. It is also the coolest time of year.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Transitional Periods",
+        "main_title": "Climate",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The transitional periods last a month or so. During these periods the weather is often hard to predict. The period before the rainy season, around April – May, is the hottest time of year. There may be a lot of rain or none at all. The October – November transition is cooler and usually quite wet.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Rainy Season",
+        "main_title": "Climate",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The rainy season begins in June and lasts until October. When people talk about the monsoon season, they are referring to the southwest monsoon period, which is the rainy season. The strong winds bring warm moist air from the Indian Ocean and plenty of rain. This is Phuket’s low season. The average rainfall in Phuket is about 2500mm or about 100 inches, with the vast majority of it falling within this period. Its hot, humid and wet!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Another aspect of the southwest monsoon is that the seas around the island can be quite rough. Two-metre seas are typical, with many rain squalls. This affects boat tours and ferries, often prohibiting boat trips to other islands. Stirred silt reduces visibility for divers, and although visibility can sometimes be good, stormy seas often prevent diving at exposed sites. For liveaboards, there are dive companies that operate excursions during the rainy season, however, these are not very regular and dependent on the weather.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "On the plus side, the lower volume of tourists during this period means that prices plummet, and there are many bargains to be had. Hotel rates are often half that of the high season.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "As the weather during the rainy season is by no means unpleasant, this can be ideal for the traveller on a budget or who simply wishes to avoid the crowds during the high season. There can be periods of several days that are dry, and when it does rain it is very unusual for it to rain all day.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Extra care should be taken when swimming in the sea from May – October due to strong currents and rough surf. (See sea safety ).",
+            "url": "https://www.phuket.net/visit-phuket/about/tips/safety/sea-safety/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/visit-phuket/about/tips/safety/sea-safety/",
+                "anchor_text": "sea safety"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Average Rainfall in Phuket:",
+        "main_title": "Climate",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Jan",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Feb",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Mar",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Apr",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "May",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Jun",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Jul",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Aug",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Sep",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Oct",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Nov",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Dec",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "mm",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "38",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "24",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "55",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "133",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "324",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "289",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "295",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "272",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "379",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "340",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "181",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "59",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "199",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "inches",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "1.5",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "1.0",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "2.2",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "5.3",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "12.8",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "11.4",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "11.6",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "10.7",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "15.0",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "13.4",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "7.1",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "2.3",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "7.9",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Average Temperatures in Phuket:",
+        "main_title": "Climate",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Upcoming International Schools in Phuket (2026–2028)",
+            "url": "https://www.phuket.net/articles/2026/07/upcoming-international-schools-phuket/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2026/07/upcoming-international-schools-phuket/",
+                "anchor_text": "Upcoming International Schools in Phuket (2026–2028)"
+              }
+            ]
+          },
+          {
+            "text": "Best Rainy Day Cafés in Cherngtalay",
+            "url": "https://www.phuket.net/articles/2026/07/best-rainy-day-cafes-cherngtalay/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2026/07/best-rainy-day-cafes-cherngtalay/",
+                "anchor_text": "Best Rainy Day Cafés in Cherngtalay"
+              }
+            ]
+          },
+          {
+            "text": "Local Southern Thai Morning Food Culture in Phuket",
+            "url": "https://www.phuket.net/articles/2026/06/local-southern-thai-morning-food-culture-phuket/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2026/06/local-southern-thai-morning-food-culture-phuket/",
+                "anchor_text": "Local Southern Thai Morning Food Culture in Phuket"
+              }
+            ]
+          },
+          {
+            "text": "Surfing in Phuket: Kata & Kalim Guide",
+            "url": "https://www.phuket.net/articles/2026/06/surfing-phuket/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2026/06/surfing-phuket/",
+                "anchor_text": "Surfing in Phuket: Kata & Kalim Guide"
+              }
+            ]
+          },
+          {
+            "text": "Professional Cleaning Services in Phuket",
+            "url": "https://www.phuket.net/articles/2026/05/phuket-cleaning-services/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2026/05/phuket-cleaning-services/",
+                "anchor_text": "Professional Cleaning Services in Phuket"
+              }
+            ]
+          },
+          {
+            "text": "Hidden Cafés in Phuket with Stunning Views",
+            "url": "https://www.phuket.net/articles/2026/05/hidden-cafes-phuket-stunning-views/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/articles/2026/05/hidden-cafes-phuket-stunning-views/",
+                "anchor_text": "Hidden Cafés in Phuket with Stunning Views"
+              }
+            ]
+          },
+          {
+            "text": "View More…",
+            "url": "https://www.phuket.net/events/",
+            "urls": [
+              {
+                "url": "https://www.phuket.net/events/",
+                "anchor_text": "View More…"
+              }
+            ]
+          }
+        ],
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Jan",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Feb",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Mar",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Apr",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "May",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Jun",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Jul",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Aug",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Sep",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Oct",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Nov",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Dec",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Year",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "°C",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "26.9",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "27.6",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "28.3",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "28.5",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "28.1",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "28.3",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "27.8",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "28.0",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "27.2",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "27.1",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "27.0",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "26.7",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "27.6",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "°F",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "80.4",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "81.7",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "82.9",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "83.3",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "82.6",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "82.9",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "82.0",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "82.4",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "81.0",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "80.8",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "80.6",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "80.1",
+                    "urls": null,
+                    "is_header": false
+                  },
+                  {
+                    "text": "81.7",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

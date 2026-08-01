@@ -1,62 +1,88 @@
 ---
-title: "Thailandse hogesnelheidsspoor drie luchthavens: Contract in juli 2026, dienst vanaf 2032"
+title: "Drie-luchthavenspoorlijn Thailand: status augustus 2026"
+slug: "thailand-three-airport-high-speed-rail-2026-update"
 date: "2026-03-22"
-description: "Ontdek de vooruitgang van Thailand's vertraagde hogesnelheidsspoorlijn tussen Don Mueang, Suvarnabhumi en U-Tapao luchthavens. Contract in juli 2026, start dienst in 2032 – ideaal voor snelle transfers tijdens je Thailand vakantie."
-category: "news"
 author:
   name: "Go2Thailand Team"
-tags: ["thailand hogesnelheidsspoor", "bangkok luchthaven trein", "thailand infrastructuur 2026", "suvarnabhumi luchthaven", "thailand transport", "reis thailand 2026", "tips pattaya vervoer", "thailand reisgids"]
-image: "/images/blog/thailand-news-default.webp"
-draft: false
-lastUpdated: "2026-03-29"
+category: "news"
+tags: ["hogesnelheidslijn Thailand", "drie luchthavens spoor", "Don Mueang Suvarnabhumi U-Tapao", "EEC trein", "Thailand spoor 2026"]
+image: "/images/redesign/editorial/thailand-three-airport-high-speed-rail-2026-update-hero.webp"
+description: "De trein tussen Don Mueang, Suvarnabhumi en U-Tapao rijdt nog niet. Bekijk officiële planning, voortgang en huidige alternatieven per augustus 2026."
+featured: false
+readingTime: 7
+lastUpdated: "2026-08-01"
+sources:
+  - name: "EECO — High-Speed Rail Linking Three Airports"
+    url: "https://www.eeco.or.th/high-speed-rail-linking-three-airports-th/"
+  - name: "EECO — official 2026 progress report"
+    url: "https://www.eeco.or.th/?jet_download=6313963cae31e8cc597fb0320de4fc94945060e2"
+  - name: "EECO — U-Tapao development agreement update"
+    url: "https://www.eeco.or.th/press_release/%E0%B8%AA%E0%B8%81%E0%B8%9E%E0%B8%AD-%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD-uta-%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B8%81%E0%B8%A5/"
 ---
 
-## Een 220 Kilometer Lange Spoorverbinding Tussen Drie Luchthavens
+**De hogesnelheidslijn tussen Don Mueang, Suvarnabhumi en U-Tapao is op 1 augustus 2026 nog niet operationeel.** De officiële EECO-projectpagina noemt een traject van 220 kilometer en een volledige opening in 2031. Een voortgangsrapport vermeldt 0,20 procent voortgang tegenover 9,10 procent gepland en beschrijft bouwstart uiterlijk november 2026 als verwachting, niet als voldongen feit.
 
-Thailand's meest ambitieuze verkeersproject krijgt eindelijk vaart. De hogesnelheidsspoorlijn die Don Mueang, Suvarnabhumi en U-Tapao luchthavens verbindt, zat jaren vast in onderhandelingen, maar de Staatspoorwegen van Thailand (SRT) kondigden in februari 2026 aan dat een herziene contract met het consortium onder leiding van CP in juli 2026 getekend wordt.
+Plan een luchthavenoverstap of reis naar Pattaya dus met vervoer dat vandaag werkelijk rijdt. Een projectplanning is geen boekbare treinverbinding.
 
-Als die planning klopt, start de bouw in augustus 2026, met een verwachte dienststart in 2032 na vijf jaar constructie en zes maanden testen. Dit maakt deel uit van een bredere golf aan [Thailand's investeringen in transportinfrastructuur in 2026](/blog/thailand-double-track-railway-2026-progress-travel-impact/) die de manier waarop bezoekers door het land reizen ingrijpend zal veranderen.
+## Officiële projectomvang
 
-## Wat Dit Betekent voor Reizigers
+De Eastern Economic Corridor Office beschrijft negen hogesnelheidsstations en een verbinding tussen de bestaande Airport Rail Link en de oostelijke corridor. De maximale ontwerpsnelheid is 250 kilometer per uur. De Staatsspoorwegen van Thailand zijn projecteigenaar binnen een publiek-private samenwerking van vijftig jaar.
 
-Zodra de lijn operationeel is, beslaat hij 220 kilometer en verandert hij fundamenteel hoe bezoekers tussen Bangkok's twee hoofd-luchthavens en de oostkust pendelen. Momenteel vereist een transfer tussen Don Mueang en Suvarnabhumi een taxirit of bus door het Bangkokse verkeer, wat makkelijk een uur of meer kan duren. De hogesnelheidsspoorlijn zou die reis terugbrengen tot ongeveer 20 minuten.
+De officiële investeringsuitsplitsing bedraagt 159,38 miljard baht voor het publieke deel en 111,994 miljard baht voor het private deel. Dat totaal van 271,374 miljard baht is projectfinanciering, geen reizigerstarief en geen bewijs dat alle werkzaamheden al zijn uitgevoerd.
 
-U-Tapao luchthaven, gelegen nabij [Pattaya](/city/pattaya/) en de Eastern Economic Corridor, wordt veel toegankelijker. Reizigers op weg naar [Pattaya](/destinations/pattaya/), Rayong of de oostelijke stranden kunnen op een van de drie luchthavens vliegen en snel met de trein doorgaan. U-Tapao groeit al sterk – lees over [de nieuwe vluchten en uitbreidingsplannen van U-Tapao](/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/) voor de laatste details, ideaal voor Nederlanders met een directe KLM-vlucht vanaf Schiphol.
+## Waar staat het project nu?
 
-Als je een reis naar Pattaya plant, biedt de [gids voor transport van Bangkok naar Pattaya](/transport/bangkok-to-pattaya/) alle huidige opties per bus, minivan en taxi.
+Het voortgangsrapport noemt werkzaamheden rond grond, obstakelverwijdering en aangepaste projectprincipes die nog bestuurlijke goedkeuring nodig hadden. De verwachting was dat de bouw uiterlijk in november 2026 zou starten. Omdat zulke stappen afhankelijk zijn van besluiten en contractuele uitvoering, formuleren we ze niet als bevestigde startdatum.
 
-## Waarom Het Zo Lang Heeft Geduurd
+De live projectpagina toont een notice to proceed in 2026 en volledige ingebruikname in 2031 volgens de Thaise jaartelling 2574. Eerdere mediaberichten die juli als definitieve contractdatum, augustus als zekere bouwstart of 2032 als vaste opening noemden, zijn daarom niet leidend.
 
-Het project werd oorspronkelijk in 2018 aangekondigd en gegund aan een consortium onder leiding van de Charoen Pokphand Group (CP), een van Thailand's grootste conglomeraten. Maar meningsverschillen over financiële voorwaarden, grondoverdrachten en de impact van de pandemie leidden tot jarenlange vertragingen.
+## Wat verbindt de lijn later?
 
-Het herziene akkoord introduceert een 'betaal-naarmate-je-bouwt'-model, waarbij de overheid betaalt op basis van bouwvoortgang in plaats van een lumpsum. De totale staatsbijdrage is beperkt tot 120 miljard baht (ruim 3 miljard euro). Het CP-consortium betaalt ook 10,67 miljard baht in termijnen voor het recht om de bestaande Airport Rail Link te exploiteren tijdens de bouwperiode.
+Het plan koppelt Don Mueang, Suvarnabhumi en U-Tapao aan Bangkok en de Eastern Economic Corridor. Voor reizigers kan dat later één spoorroute opleveren tussen de twee Bangkokse luchthavens en de oostkust.
 
-## Bangkok's Bestaande Airport Rail Link
+Daaruit volgt nog geen bruikbare reistijd voor vandaag. We noemen ook geen twintig minuten tussen de Bangkokse luchthavens zonder een definitieve operationele dienstregeling. Stations, frequenties, tarieven, bagageregels en aansluitingen moeten vóór opening door de bevoegde exploitant worden bevestigd.
 
-De huidige Airport Rail Link verbindt Suvarnabhumi luchthaven met het centrum van Bangkok (Phaya Thai station) en blijft operationeel. Maar wie hem tijdens het spitsuur heeft gebruikt, weet dat het extreem druk wordt. De nieuwe hogesnelheidslijn zal wat druk verlichten en de dekking uitbreiden naar Don Mueang en verder.
+## Zo reis je nu
 
-Voorlopig blijft de Airport Rail Link de snelste manier om van Suvarnabhumi naar het centrum van Bangkok te gaan, met ritten om de 10 tot 15 minuten, een reistijd van circa 30 minuten en tarieven van 15 tot 45 baht afhankelijk van het station. Voor een volledig overzicht van hoe je door de hoofdstad reist, zie de [gids voor openbaar vervoer in Bangkok (BTS, MRT, bussen)](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/).
+### Suvarnabhumi naar Bangkok
 
-De nieuwe [Bangkok Yellow en Pink Line monorailroutes](/blog/bangkok-yellow-pink-line-monorail-tourist-guide-2026/) zijn inmiddels operationeel en voegen connectiviteit toe aan voorsteden die eerder alleen met een taxi bereikbaar waren.
+De bestaande Airport Rail Link blijft een van de opties naar de stad. Controleer de actuele dienst bij de exploitant en kies je hotel op de werkelijke aansluiting. De [Bangkok-gids voor openbaar vervoer](/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) helpt BTS, MRT en Airport Rail Link uit elkaar te houden.
 
-## Deel van een Groter Beeld
+### Don Mueang naar Bangkok
 
-De drie-luchthaven-spoorlijn is slechts een stukje van Thailand's transportoverhaul. Het Ministerie van Transport heeft 11 megaprojecten voor 2026 in de steigers gezet, ter waarde van meer dan 359,8 miljard baht, inclusief uitbreidingen bij Suvarnabhumi, Don Mueang en [Chiang Mai](/city/chiang-mai/) luchthavens, nieuwe snelwegen en dubbelsporig spoor door het land.
+Don Mueang heeft eigen spoor-, bus- en taxiopties. De beste keuze hangt af van aankomsttijd, bagage en eindadres. Neem bij een aparte internationale aansluiting ruime marge; losse tickets beschermen je niet automatisch bij vertraging.
 
-De [voortgang van het dubbelsporig spoor in 2026](/blog/thailand-double-track-railway-2026-progress-travel-impact/) maakt intercity-treinreizen al sneller en betrouwbaarder. Ondertussen [moderniseert Thai Airways zijn vloot met 32 nieuwe A321neo-vliegtuigen](/blog/thai-airways-a321neo-fleet-modernization-32-jets-2026/) parallel aan deze verbeteringen op de grond, perfect voor vakantiegangers vanuit Nederland.
+### Bangkok naar Pattaya of U-Tapao
 
-Voor wie over land tussen grote steden reist, blijft de [slaaptrein van Bangkok naar Chiang Mai](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) een comfortabele en mooie optie in de jaren voor de komst van hogesnelheidsspoor. De [Blue Jasmine luxury train](/blog/blue-jasmine-luxury-train-bangkok-chiang-mai-2026/) is een premium alternatief op dezelfde route.
+Gebruik bestaande weg-, bus- en spooropties en controleer je exacte vertrekpunt. U-Tapao en Pattaya zijn niet hetzelfde adres. Begin bij het [Thailand-vervoersoverzicht](/nl/transport/) en combineer dat met de [Pattaya-bestemmingsgids](/nl/city/pattaya/).
 
-## Nu Reizen Door Thailand
+## Vier fouten om te vermijden
 
-Terwijl je wacht tot 2032, hier de belangrijkste transportgidsen voor Thailand vandaag:
+- Een aangekondigde bouwstart als gerealiseerd beschrijven.
+- Een geplande opening als dienstregeling gebruiken.
+- U-Tapao behandelen alsof het in centraal Pattaya ligt.
+- Een toekomstige trein meenemen in een huidige overstapboeking.
 
-- [Gids voor openbaar vervoer in Bangkok](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) — BTS, MRT, boten en bussen uitgelegd
-- [Van Bangkok naar Chiang Mai per trein](/transport/bangkok-to-chiang-mai/) — dienstregeling en boekingtips
-- [Transportopties van Bangkok naar Phuket](/transport/bangkok-to-phuket/) — vluchten, treinen en bussen
-- [Gids van Bangkok naar Koh Samui](/blog/bangkok-to-koh-samui-guide/) — veerboten, vluchten en de hele reis
-- [Koh Samui Airport nieuws 2026](/blog/koh-samui-airport-international-hub-bangkok-airways-2026/) — Samui's streven naar regionaal knooppunt
+EECO meldde bovendien dat de ontwikkeling van U-Tapao niet langer volledig afhankelijk is gemaakt van dezelfde spoorvoorwaarde. Dat betekent niet dat spoor- en luchthavenproject geen verband meer hebben; wel dat ieder project een eigen voortgang en besluitvorming heeft.
 
-Voor reizigers is de boodschap eenvoudig: Thailand investeert fors in infrastructuur die reizen door het land sneller en goedkoper maakt. De drie-luchthaven-spoorlijn beïnvloedt je reis in 2026 niet, maar als je vooruit plant voor 2032 en later, is Bangkok naar [Pattaya](/city/pattaya/) in minder dan een uur per trein iets om naar uit te kijken – veilig en efficiënt, zonder zorgen over het regenseizoen.
+## Veelgestelde vragen
 
-**Sources:** [Nation Thailand](https://www.nationthailand.com/blogs/news/general/40062691) | [Railway News](https://railwaynews.net/thailands-high-speed-rail-3-airport-project-bangkok-eec.html) | [Bangkok Post](https://www.bangkokpost.com/thailand/general/3201960/threeairport-rail-project-lurching-forward)
+### Rijdt de drie-luchthaventrein al?
+
+Nee. Op 1 augustus 2026 is er geen operationele hogesnelheidsdienst tussen de drie luchthavens.
+
+### Wanneer begint de bouw?
+
+Een officieel voortgangsrapport verwachtte uiterlijk november 2026. Dat blijft een verwachting totdat de bevoegde partijen de start bevestigen.
+
+### Wanneer opent de lijn?
+
+De actuele EECO-projectplanning noemt 2031 voor volledige opening. Grote infrastructuurplanning kan wijzigen.
+
+### Kan ik er nu een ticket voor kopen?
+
+Nee. Er is nog geen operationele dienstregeling of reguliere reizigersverkoop.
+
+## Freshnessbeleid
+
+Deze route moet iedere dertig tot zestig dagen worden gecontroleerd zolang contract, bouwstart en uitvoering bewegen. Alleen EECO, SRT en de uiteindelijke exploitant mogen operationele data, stationsgebruik en ticketvoorwaarden definitief maken.

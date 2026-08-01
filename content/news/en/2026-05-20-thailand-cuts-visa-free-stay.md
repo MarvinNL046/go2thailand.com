@@ -1,5 +1,5 @@
 ---
-title: "Thailand Cuts Visa-Free Stay to 30 Days for UK and 92 Other Nations"
+title: "Thailand 30-Day Visa-Free Plan Report: Current UK Status"
 slug: "2026-05-20-thailand-cuts-visa-free-stay"
 date: "2026-05-20"
 category: "tourism"
@@ -8,12 +8,15 @@ source:
   url: "https://www.bbc.com/news/articles/c78q3qjqnn5o"
   originalTitle: "Thailand cuts visa-free stay period for more than 90 countries including UK"
 tags: ["thailand", "visa", "tourism", "travel-news"]
-description: "Thailand has approved plans to cut visa-free stays from 60 to 30 days for citizens of 93 countries, including the UK, citing security concerns and visa confusion."
+description: "Historical report on a proposed Thailand visa-free cut, corrected with the current official UK status checked on 27 July 2026."
+lastUpdated: "2026-07-27"
 ---
 
-# Thailand Cuts Visa-Free Stay to 30 Days for UK and 92 Other Nations
+> **Current-status correction — 27 July 2026:** The implementation described in this report is not reflected in the current GOV.UK or Royal Thai Embassy London entry pages. Both still state up to 60 days for an ordinary British passport. Do not plan from the 30-day scenario below; use the dated [visa-exemption owner](https://go2-thailand.com/visa/visa-free-entry/).
 
-Citizens of the **United Kingdom** and nationals from **92 other countries** will soon need to apply for a visa if they wish to stay in Thailand for longer than 30 days, according to [BBC](https://www.bbc.com/news/articles/c78q3qjqnn5o). The Thai government approved the change on Tuesday, ending a 60-day visa exemption that has been in place since July 2024.
+# Thailand 30-Day Visa-Free Plan Report: Current UK Status
+
+The cited BBC report said citizens of the **United Kingdom** and nationals from **92 other countries** would need to apply for a visa for stays longer than 30 days. Subsequent official UK-facing entry pages checked on 27 July 2026 still state up to 60 days for an ordinary British passport, so this article is retained as a record of that report rather than current travel instruction.
 
 The policy shift marks a significant reversal of Thailand's post-pandemic tourism strategy. Prime Minister **Anutin Charnvirakul** said the government found the existing policy needed revising "to be more suitable for the current situation, both in terms of the economy and national security."
 

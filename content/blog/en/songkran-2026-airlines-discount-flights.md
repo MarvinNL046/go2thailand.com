@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["songkran 2026", "flight deals", "domestic flights", "thai airways", "budget airlines"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/songkran-2026-airlines-discount-flights-hero.webp"
 description: "Thai airlines offer up to 30% off domestic flights for Songkran 2026 (April 11-17), with 25,000 extra seats and 124 additional flights on popular routes."
 featured: false
 readingTime: 3
@@ -64,6 +64,6 @@ Airlines have responded positively, though some have proposed that the governmen
 
 Songkran 2026 runs **April 13-15** officially, with extended festivities from **April 11-17** in most cities. The most popular destinations include [Chiang Mai](/best-hotels/chiang-mai/) (famous for its massive water battles), Bangkok's Khao San Road, [Phuket](/best-hotels/phuket/), and the Isan region where many Thai families return to their hometowns. This year, [celebrations are happening in all 76 provinces](/blog/songkran-2026-76-provinces-nationwide-celebrations-guide/) — so consider flying somewhere off the usual tourist trail.
 
-Not flying? The [Bangkok–Chiang Mai sleeper train](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) is a popular alternative, but book well in advance. For a full breakdown of costs for the trip, see our [Thailand 2-week budget guide](/blog/how-much-2-weeks-thailand-cost-2026-budget/). And check the [Songkran water gun rules and fines](/blog/songkran-2026-water-gun-rules-fines-safety-guide/) before you arrive — authorities are enforcing restrictions in 2026.
+Not flying? The [Bangkok–Chiang Mai sleeper train](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) is a popular alternative, but book well in advance. For a full breakdown of costs for the trip, see our [Thailand 2-week budget guide](/thailand-index/budget/). And check the [Songkran water gun rules and fines](/blog/songkran-2026-water-gun-rules-fines-safety-guide/) before you arrive — authorities are enforcing restrictions in 2026.
 
 With 30 percent off flights and extra capacity on major routes, this is one of the best years to fly domestic for Songkran rather than endure the notoriously long holiday road trips.

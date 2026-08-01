@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-casino-legalization-shelved-anutin-2026",
+  "route": "/nl/blog/thailand-casino-legalization-shelved-anutin-2026/",
+  "cluster": "policy",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Casino-wet Thailand ingetrokken: geen legalisatie | Go2Thailand",
+    "description": "Thailand legaliseerde geen casino’s via het entertainment-complexvoorstel. Het kabinet trok het ontwerp in juli 2025 formeel in.",
+    "primaryKeyword": "casino wet Thailand",
+    "secondaryKeywords": ["casino legalisatie Thailand", "entertainment complex Thailand", "gokken Thailand wet"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-casino-legalization-shelved-anutin-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gecorrigeerde wetsstatus",
+    "title": "Het casinowetsvoorstel werd ingetrokken",
+    "accent": "Geen legalisatie via deze route",
+    "description": "De formele intrekking vond in juli 2025 plaats. Politieke ontwikkelingen in 2026 zijn context, niet de datum van dat besluit.",
+    "image": "/images/redesign/editorial/thailand-casino-legalization-shelved-anutin-2026-hero.webp",
+    "imageAlt": "Gesloten beleidsmap en pauzesymbool op een tafel in een Thaise vergaderzaal",
+    "primaryCta": { "label": "Bekijk de status", "href": "#status" },
+    "secondaryCta": { "label": "Controleer nieuw beleid", "href": "#controle" }
+  },
+  "layout": {
+    "kind": "policy-guide",
+    "policyStatus": "superseded",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "Het Thaise kabinet trok het entertainment-complexwetsvoorstel in juli 2025 in. Het werd geen wet en leverde geen legale casinoresorts of boekbare openingen op.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "status",
+      "tone": "warning",
+      "title": "Ingetrokken is niet alleen uitgesteld",
+      "description": "Het eerdere ontwerp leidde niet tot een geldende wet. Een nieuw voorstel zou opnieuw officieel moeten worden behandeld en gepubliceerd."
+    },
+    {
+      "kind": "steps",
+      "id": "controle",
+      "title": "Controleer een nieuwe legalisatieclaim",
+      "steps": [
+        { "title": "Bepaal de formele fase", "description": "Is het een idee, ontwerp, kabinetsbesluit, aangenomen wet of uitvoeringsregel?" },
+        { "title": "Zoek de officiële status", "description": "Controleer of het document is gewijzigd, ingetrokken of in werking getreden." },
+        { "title": "Wacht op uitvoerbare details", "description": "Locaties, vergunningen en openingen bestaan pas na verifieerbare publicatie." }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over casino’s in Thailand",
+      "items": [
+        { "question": "Legaliseerde Thailand casino’s in 2026?", "answer": "Nee. Het beschreven ontwerp werd ingetrokken en leidde niet tot legalisatie." },
+        { "question": "Trok Anutin het voorstel in maart 2026 in?", "answer": "Nee. De formele kabinetsintrekking vond in juli 2025 plaats." },
+        { "question": "Kan er later een nieuw voorstel komen?", "answer": "Ja, maar dat is pas praktisch relevant wanneer officiële bronnen de nieuwe wetgevingsstatus bevestigen." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële wets- en regeringsbronnen",
+      "items": [
+        { "title": "Cabinet withdrawal of the Entertainment Complex Bill", "publisher": "Thailand Public Relations Department", "url": "https://www.prd.go.th/th/content/category/detail/id/33/iid/404508", "checkedAt": "2026-08-01" },
+        { "title": "Earlier cabinet approval of the draft", "publisher": "Thailand Public Relations Department", "url": "https://www.prd.go.th/th/content/category/detail/id/39/iid/376629", "checkedAt": "2026-08-01", "note": "Historische ontwerpstatus, later ingetrokken." },
+        { "title": "Current Prime Minister", "publisher": "Royal Thai Government", "url": "https://www.thaigov.go.th/en/cabinet/prime-minister", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "actuele-context",
+      "title": "Plan met actuele, legale opties",
+      "items": [
+        { "title": "Anutin benoemd", "description": "De officiële regeringsstatus zonder onjuiste causaliteit.", "href": "/nl/blog/thailand-anutin-reelected-prime-minister-march-2026/" },
+        { "title": "Bangkok", "description": "Bestaande cultuur, eten en avondactiviteiten.", "href": "/nl/city/bangkok/" },
+        { "title": "Pattaya", "description": "Plan de bestemming zonder speculatieve resorts.", "href": "/nl/city/pattaya/" }
+      ]
+    }
+  ]
+}

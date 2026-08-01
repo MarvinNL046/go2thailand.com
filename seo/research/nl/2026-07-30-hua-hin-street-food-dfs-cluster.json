@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-30T15:35:57.624Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "hua hin street food",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "hua hin street food"
+  ],
+  "keywords": [
+    {
+      "keyword": "hua hin street food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

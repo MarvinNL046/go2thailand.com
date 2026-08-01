@@ -28,7 +28,7 @@ Het goede nieuws? Met kennis kun je bijna alle valkuilen omzeilen, vooral als je
 |-------|----------|
 | **Wat zijn de meest voorkomende Thailand-bedrogen?** | Edelsteenfraude, te dure taxi's, gesloten tempel-bedrog en juwelenwinkels zijn de topvier. |
 | **Hoeveel geld kan ik verliezen?** | Edelsteenbedrogen variëren van THB 5.000–50.000+ (€130–1.300+); taxioplichterij meestal THB 100–500 (€2,70–13). |
-| **Welke steden hebben de meeste bedrogen?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en toeristenhotspots zoals [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/islands/koh-samui/). |
+| **Welke steden hebben de meeste bedrogen?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en toeristenhotspots zoals [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/city/koh-samui/). |
 | **Hoe meld ik een bedrog?** | Bel de Tourist Police op 1155 (gratis) of ga naar het dichtstbijzijnde kantoor van de Tourist Police. |
 | **Wat is de beste preventie?** | Gebruik officiële taxi's (Grab-app), boek tours via betrouwbare aanbieders en vertrouw op je intuïtie. |
 | **Moet ik contant geld dragen?** | Ja, maar in kleine bedragen. Gebruik geldautomaten bij banken of malls, niet bij straatmachines. |
@@ -225,7 +225,7 @@ ATM-skimming is zeldzamer maar serieuzer. Bedriegers installeren kaartlezers op 
 
 ### Veilige Valuta-Praktijken
 
-**Haal geld op uit geldautomaten binnen banken of shopping malls**, niet bij straatmachines. Grote banken (Bangkok Bank, Kasikornbank, Krungsri) hebben veilige automaten. Vermijd geldwisselaars; gebruik je eigen bank's ATM of officiële wisselbalies op luchthavens en grote malls. Check je banksaldo regelmatig en meld onbevoegde transacties meteen. Overweeg een reisvriendelijke kaart (Wise, Revolut) met eerlijke wisselkoersen zonder ATM-kosten. Zie onze volledige [Thailand budget en dagelijkse kosten gids](/blog/thailand-budget-2026-daily-costs/) voor geld beheren onderweg – inclusief tips voor NL-bankkaarten.
+**Haal geld op uit geldautomaten binnen banken of shopping malls**, niet bij straatmachines. Grote banken (Bangkok Bank, Kasikornbank, Krungsri) hebben veilige automaten. Vermijd geldwisselaars; gebruik je eigen bank's ATM of officiële wisselbalies op luchthavens en grote malls. Check je banksaldo regelmatig en meld onbevoegde transacties meteen. Overweeg een reisvriendelijke kaart (Wise, Revolut) met eerlijke wisselkoersen zonder ATM-kosten. Zie onze volledige [Thailand budget en dagelijkse kosten gids](/nl/thailand-index/budget/) voor geld beheren onderweg – inclusief tips voor NL-bankkaarten.
 
 ---
 
@@ -332,7 +332,7 @@ Ja, Booking.com, Agoda, Klook, GetYourGuide en Viator zijn legitieme, gereguleer
 
 ### Wat is de beste manier om [verbonden te blijven](https://saily.tpo.lv/rf9lidnE) en veilig online in Thailand?
 
-Gebruik een betrouwbare [Thailand eSIM](https://go2-thailand.com/esim/) of lokale SIM-kaart van grote providers (AIS, Dtac, True Move). Onze [beste SIM-kaart en eSIM gids voor Thailand](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) vergelijkt de topopties voor 2026. Vermijd openbare WiFi voor gevoelige transacties; gebruik een [VPN zoals NordVPN](https://nordvpn.tpo.lv/ekHF1i55) als je bankieren of persoonlijke accounts op openbare netwerken moet doen. Hou je telefoon en laptop up-to-date met de laatste beveiligingspatches.
+Gebruik een betrouwbare [Thailand eSIM](https://go2-thailand.com/esim/) of lokale SIM-kaart van grote providers (AIS, Dtac, True Move). Onze [beste SIM-kaart en eSIM gids voor Thailand](/nl/travel-guides/sim-card-thailand/) vergelijkt de topopties voor 2026. Vermijd openbare WiFi voor gevoelige transacties; gebruik een [VPN zoals NordVPN](https://nordvpn.tpo.lv/ekHF1i55) als je bankieren of persoonlijke accounts op openbare netwerken moet doen. Hou je telefoon en laptop up-to-date met de laatste beveiligingspatches.
 
 ---
 

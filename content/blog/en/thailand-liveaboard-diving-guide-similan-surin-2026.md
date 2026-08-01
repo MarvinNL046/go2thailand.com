@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "activities"
 tags: ["Thailand liveaboard diving 2026", "Similan Islands diving", "Richelieu Rock", "Surin Islands", "whale shark Thailand", "scuba diving Thailand", "DiveRACE Class X", "Manta Queen"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-liveaboard-diving-guide-similan-surin-2026-hero.webp"
 description: "Everything you need to know about liveaboard diving in Thailand for the 2025-2026 season, from the Similan Islands and Richelieu Rock to brand-new boats like the DiveRACE Class X."
 featured: false
 readingTime: 4
@@ -53,7 +53,7 @@ The headline launch this season is the **MV DiveRACE Class X**, a 35-metre steel
 
 ## Budget
 
-Thailand liveaboards are among the most affordable in the world. A four-night trip on a mid-range boat starts at roughly 20,000-25,000 THB (around 550-700 USD), excluding equipment rental and national park fees. Premium boats like the DiveRACE Class X sit at the higher end, but even these remain competitive compared to liveaboard destinations like the Maldives or Raja Ampat. For a full picture of what Thailand travel costs in 2026, check our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) and [two-week cost breakdown](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+Thailand liveaboards are among the most affordable in the world. A four-night trip on a mid-range boat starts at roughly 20,000-25,000 THB (around 550-700 USD), excluding equipment rental and national park fees. Premium boats like the DiveRACE Class X sit at the higher end, but even these remain competitive compared to liveaboard destinations like the Maldives or Raja Ampat. For a full picture of what Thailand travel costs in 2026, check our [Thailand budget guide](/thailand-index/budget/) and [two-week cost breakdown](/thailand-index/budget/).
 
 ## Tips for First-Timers
 
@@ -61,7 +61,7 @@ Thailand liveaboards are among the most affordable in the world. A four-night tr
 2. **Bring reef-safe sunscreen** — Chemical sunscreens damage the corals you came to see.
 3. **Pack motion-sickness remedies** — Crossings can be choppy, particularly early and late in the season.
 4. **Check certification requirements** — Most itineraries are suitable for Open Water divers, but some sites with strong currents recommend Advanced Open Water.
-5. **Sort your visa in advance** — Most nationalities get a 30-day visa exemption; see our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for the latest rules.
+5. **Check your entry route** — Visa exemption depends on passport and purpose. Use the [Thailand visa finder](/visa/) and verify the temporary rule shortly before departure.
 6. **Get travel insurance** — Dive accidents can be expensive. Our [travel insurance guide for Thailand](/blog/travel-insurance-thailand-guide/) covers what to look for.
 
 Whether you are chasing whale sharks at Richelieu Rock or drifting past manta rays at Koh Bon, a Thailand liveaboard trip remains one of the best-value diving adventures on the planet. If you want to explore more of the country after your trip, [Phuket](/city/phuket/) makes an excellent base — or combine your liveaboard with an [island-hopping itinerary](/blog/thailand-island-hopping-guide/). Koh Tao is another popular choice for shore-based diving; read about [Koh Tao's coral restoration efforts and eco-diving rules for 2026](/blog/koh-tao-coral-restoration-eco-diving-rules-2026/). Adventurous travellers looking to recover between dives might also be interested in [Thailand's growing wellness retreat scene](/blog/thailand-longevity-anti-aging-retreats-2026/), which pairs well with an Andaman Sea itinerary.

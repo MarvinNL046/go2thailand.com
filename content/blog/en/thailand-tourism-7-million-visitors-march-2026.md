@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand tourism", "visitor statistics", "tourism 2026", "travel data", "TAT"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-7-million-visitors-march-2026-hero.webp"
 description: "Thailand welcomed 7.49 million international tourists between January and mid-March 2026, generating 368 billion baht in revenue despite Middle East disruptions."
 featured: false
 readingTime: 3
@@ -48,6 +48,6 @@ To hit these targets, the government is focusing on diversifying source markets 
 
 ## What This Means for Travelers
 
-For visitors planning a trip to Thailand in 2026, the numbers tell a reassuring story. Despite geopolitical turbulence, Thailand remains one of the most visited destinations in Southeast Asia. Tourism infrastructure continues to operate at high capacity, and the government's active promotional efforts mean there are deals and incentives available for international travelers. Before you go, check our [essential guide for first-time visitors to Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/) and make sure you understand the [latest visa rules for 2026](/blog/thailand-visa-guide-2026/).
+For visitors planning a trip to Thailand in 2026, the numbers tell a reassuring story. Despite geopolitical turbulence, Thailand remains one of the most visited destinations in Southeast Asia. Tourism infrastructure continues to operate at high capacity, and the government's active promotional efforts mean there are deals and incentives available for international travelers. Before you go, check our [essential guide for first-time visitors to Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/) and make sure you understand the [latest visa rules for 2026](/visa/).
 
-The slight dip in visitor numbers also has a practical upside: popular destinations may be marginally less crowded compared to 2025, particularly at attractions that traditionally draw European visitors. If you want to avoid the crowds entirely, our [Thailand quietcation trend guide](/blog/thailand-quietcation-trend-tranquil-travel-2026/) highlights the best low-key alternatives. Planning costs? Our breakdown of [how much two weeks in Thailand costs in 2026](/blog/how-much-2-weeks-thailand-cost-2026-budget/) covers everything from budget to comfort travel. And if regional competition for your holiday money interests you, read our deeper look at [Thailand's tourism competition with Vietnam and regional rivals](/blog/thailand-tourism-competition-vietnam-regional-rivals-2026/).
+The slight dip in visitor numbers also has a practical upside: popular destinations may be marginally less crowded compared to 2025, particularly at attractions that traditionally draw European visitors. If you want to avoid the crowds entirely, our [Thailand quietcation trend guide](/blog/thailand-quietcation-trend-tranquil-travel-2026/) highlights the best low-key alternatives. Planning costs? Our breakdown of [how much two weeks in Thailand costs in 2026](/thailand-index/budget/) covers everything from budget to comfort travel. And if regional competition for your holiday money interests you, read our deeper look at [Thailand's tourism competition with Vietnam and regional rivals](/blog/thailand-tourism-competition-vietnam-regional-rivals-2026/).

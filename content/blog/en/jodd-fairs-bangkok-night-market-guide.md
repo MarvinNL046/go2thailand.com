@@ -86,22 +86,6 @@ If you're staying in the Silom or Sukhumvit areas (the most common tourist zones
 
 Taxis and Grab (Thailand's Uber equivalent) are viable if you're traveling in a group—expect to pay 80–150 THB from central Bangkok. However, the MRT is cheaper, faster during rush hour, and avoids the stress of Bangkok traffic. During peak evening hours (6–8 PM), the MRT is crowded but still more efficient than road transport.
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Parking & Accessibility
 
@@ -159,7 +143,7 @@ Bangkok's weather doesn't significantly impact Jodd Fairs since much of it is co
 
 ## 4. Food at Jodd Fairs: A Street Food Masterclass
 
-This is where **Jodd Fairs** truly shines. With over 700 stalls, the food vendors here represent the best of Bangkok's [street food culture](/blog/thai-street-food-guide-2026/)—and prices are genuinely local, not inflated for tourists. You'll find everything from classic [pad thai](https://go2-thailand.com/food/pad-thai/) to Jodd Fairs' famous signature dishes, regional specialties, fresh fruit juices, and desserts that would make you weep.
+This is where **Jodd Fairs** truly shines. With over 700 stalls, the food vendors here represent the best of Bangkok's [street food culture](/thailand-street-food/)—and prices are genuinely local, not inflated for tourists. You'll find everything from classic [pad thai](https://go2-thailand.com/food/pad-thai/) to Jodd Fairs' famous signature dishes, regional specialties, fresh fruit juices, and desserts that would make you weep.
 
 ### Signature Dishes You Can't Miss
 
@@ -206,24 +190,8 @@ This is where **Jodd Fairs** truly shines. With over 700 stalls, the food vendor
 
 Thai vendors at Jodd Fairs expect you to point, gesture, and use basic Thai numbers. Most don't speak English, but they're patient. Here's the essential phrase: **"Nit noi pet" (a little spicy)** or **"Mai pet" (not spicy)**. If you want to try something without committing, ask **"Chop chop?" (just a taste?)**—vendors are usually happy to oblige.
 
-**Cash is king at Jodd Fairs — roughly 70% of stalls are cash-only.** If you're curious about overall [budget costs in Thailand](/blog/thailand-budget-2026-daily-costs/), plan around 500–1,000 THB per person for a full Jodd Fairs evening. A few vendors accept PromptPay (Thailand's mobile payment system), but don't count on it. Bring plenty of small notes (20, 50, 100 THB); vendors frequently struggle with change for 500 or 1,000 THB notes. Hit an ATM or exchange before you arrive — there's a Big C supermarket right next door if you need a last-minute cash withdrawal.
+**Cash is king at Jodd Fairs — roughly 70% of stalls are cash-only.** If you're curious about overall [budget costs in Thailand](/thailand-index/budget/), plan around 500–1,000 THB per person for a full Jodd Fairs evening. A few vendors accept PromptPay (Thailand's mobile payment system), but don't count on it. Bring plenty of small notes (20, 50, 100 THB); vendors frequently struggle with change for 500 or 1,000 THB notes. Hit an ATM or exchange before you arrive — there's a Big C supermarket right next door if you need a last-minute cash withdrawal.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -294,7 +262,7 @@ Afternoon downpours are common, but Jodd Fairs' covered areas mean you can still
 
 ## 7. Safety, Etiquette & Practical Tips
 
-**Jodd Fairs is very safe.** We've visited multiple times without incident, and it's frequented by families, students, and professionals. Standard Bangkok precautions apply: watch your belongings, avoid displaying large amounts of cash, and be aware of your surroundings in crowded areas. For a full safety overview, read our [Thailand safety guide for tourists 2026](/blog/is-thailand-safe-tourists-2026/).
+**Jodd Fairs is very safe.** We've visited multiple times without incident, and it's frequented by families, students, and professionals. Standard Bangkok precautions apply: watch your belongings, avoid displaying large amounts of cash, and be aware of your surroundings in crowded areas. For a full safety overview, read our [Thailand safety guide for tourists 2026](/is-thailand-safe/).
 
 ### Respecting Thai Culture
 
@@ -406,22 +374,6 @@ After multiple visits to **Jodd Fairs**, we've learned what separates a good vis
 
 **Return Visits:** If you're in Bangkok for more than 3 days, Jodd Fairs is worth revisiting. Different vendors appear on different days, and you'll discover new food stalls and shops on repeat visits.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">[Book Your Stay](https://booking.tpo.lv/2PT1kR82)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -453,7 +405,7 @@ From Silom: Take BTS to Sala Daeng, transfer to MRT Blue Line at Si Lom Station,
 
 From Sukhumvit: Take BTS to Asok, transfer to MRT Blue Line at Sukhumvit Station, exit at Thailand Cultural Centre, Exit 4 (12 minutes, 42 THB).
 
-From [Khao San Road](/city/bangkok/attractions/khao-san-road/): Take a taxi or Grab (80–120 THB) or use BTS/MRT (requires multiple transfers, 30+ minutes).
+From [Khao San Road](/city/bangkok/attractions/): Take a taxi or Grab (80–120 THB) or use BTS/MRT (requires multiple transfers, 30+ minutes).
 
 From Suvarnabhumi Airport: Airport Rail Link to Makkasan, walk to Phetchaburi MRT, one stop to Thailand Cultural Centre (45 minutes, ~60 THB).
 

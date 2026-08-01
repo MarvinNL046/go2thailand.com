@@ -40,11 +40,11 @@ Zittend in een lokaal noedelsrestaurantje in [Bangkok](https://go2-thailand.com/
 
 De economie van Thailand is sinds het herstel na de pandemie duidelijk veranderd. De baht is sterker geworden ten opzichte van grote valuta's, en de vraag naar toerisme is hard teruggekomen – vooral in strandbestemmingen en [Bangkok](https://go2-thailand.com/city/bangkok/). Tijdens onze drie jaar in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) zagen we een simpele pad thai stijgen van 30 baht naar 45-50 baht in toeristenvriendelijke spots. Maar de realiteit: **Thailand is nog steeds veel goedkoper dan Europa, Noord-Amerika of Australië** – je betaalt gewoon meer dan backpackers in 2015.
 
-De prijsstijgingen zijn niet gelijk verdeeld. Accommodatie in populaire toeristenzones is het hardst gestegen. Lokaal vervoer, straatre food en diensten blijven oprecht betaalbaar als je weet waar je moet zijn. De sleutel is begrijpen welke kosten vast zijn (vluchten, visa) en welke flexibel (waar je slaapt, wat je eet, welke activiteiten je kiest). Voor een snel overzicht van de huidige dagelijkse uitgaven per categorie, bekijk onze [Thailand budget 2026 dagelijkse kosten](/blog/thailand-budget-2026-daily-costs/) gids.
+De prijsstijgingen zijn niet gelijk verdeeld. Accommodatie in populaire toeristenzones is het hardst gestegen. Lokaal vervoer, straatre food en diensten blijven oprecht betaalbaar als je weet waar je moet zijn. De sleutel is begrijpen welke kosten vast zijn (vluchten, visa) en welke flexibel (waar je slaapt, wat je eet, welke activiteiten je kiest). Voor een snel overzicht van de huidige dagelijkse uitgaven per categorie, bekijk onze [Thailand budget 2026 dagelijkse kosten](/nl/thailand-index/budget/) gids.
 
 ### Waar de prijzen het meest zijn gestegen
 
-Accommodatie is de grootste schok voor terugkerende reizigers. Een basisgastenverblijf dat in 2020 300-400 baht kostte, kost nu 500-700 baht in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en 800-1.200 baht in [Bangkok](https://go2-thailand.com/city/bangkok/). Mid-range hotels zijn merkbaar duurder geworden. Strandlocaties in [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) doen nu denken aan andere Zuidoost-Aziatische resorts, niet meer aan budgetparadijzen.
+Accommodatie is de grootste schok voor terugkerende reizigers. Een basisgastenverblijf dat in 2020 300-400 baht kostte, kost nu 500-700 baht in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) en 800-1.200 baht in [Bangkok](https://go2-thailand.com/city/bangkok/). Mid-range hotels zijn merkbaar duurder geworden. Strandlocaties in [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Phuket](https://go2-thailand.com/islands/phuket/) doen nu denken aan andere Zuidoost-Aziatische resorts, niet meer aan budgetparadijzen.
 
 Internationale vluchten naar Thailand zijn sinds 2023 gestegen, al blijven de prijzen redelijk vergeleken met andere langeafstandsroutes – denk aan directe vluchten vanaf Schiphol met KLM. Binnenlandse vluchten zijn ook iets duurder geworden, waardoor bussen en treinen concurrerender zijn voor budgetreizigers.
 
@@ -107,7 +107,7 @@ Privékamer, mix van straatre food en casual restaurants, af en toe betaalde act
 
 **Maandelijks: 34.500-64.500 THB (€888-€1.659)**
 
-Dit is het zoete punt voor de meeste reizigers. Je slaapt goed, eet in fatsoenlijke restaurants, doet de activiteiten die je wilt en stress niet over elke baht. Dit budget is haalbaar in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) en kleinere eilanden. In [Bangkok](https://go2-thailand.com/city/bangkok/) of [Phuket](https://go2-thailand.com/islands/phuket/), reken op 300-500 baht extra per dag. Voor twee weken planning, check onze [2 weken Thailand kosten 2026 budget breakdown](/blog/how-much-2-weeks-thailand-cost-2026-budget/) voor een gedetailleerde trip-schatting.
+Dit is het zoete punt voor de meeste reizigers. Je slaapt goed, eet in fatsoenlijke restaurants, doet de activiteiten die je wilt en stress niet over elke baht. Dit budget is haalbaar in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) en kleinere eilanden. In [Bangkok](https://go2-thailand.com/city/bangkok/) of [Phuket](https://go2-thailand.com/islands/phuket/), reken op 300-500 baht extra per dag. Voor twee weken planning, check onze [2 weken Thailand kosten 2026 budget breakdown](/nl/thailand-index/budget/) voor een gedetailleerde trip-schatting.
 
 ### Comfort reiziger
 
@@ -192,7 +192,7 @@ Het noorden trekt budgetreizigers om goede redenen. Accommodatie is écht goedko
 
 ### Zuid-Thailand & eilanden (duurste)
 
-[Phuket](https://go2-thailand.com/islands/phuket/), [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) zijn de duurste bestemmingen van Thailand. Prijzen wedijveren met middelklasse westerse strandsteden.
+[Phuket](https://go2-thailand.com/islands/phuket/), [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) zijn de duurste bestemmingen van Thailand. Prijzen wedijveren met middelklasse westerse strandsteden.
 
 **Voorbeeldkosten:**
 - Gastenverblijfkamer: 800-1.500 THB
@@ -201,7 +201,7 @@ Het noorden trekt budgetreizigers om goede redenen. Accommodatie is écht goedko
 - Snorkeltour: 1.500-2.500 THB
 - Strandmassage: 400-600 THB
 
-Budgetalternatieven bestaan: [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Chang](https://go2-thailand.com/islands/koh-chang/) bieden vergelijkbare ervaringen voor veel lagere prijzen. Het verschil tussen [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is enorm – zelfde land, totaal andere budgetten.
+Budgetalternatieven bestaan: [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Chang](https://go2-thailand.com/islands/koh-chang/) bieden vergelijkbare ervaringen voor veel lagere prijzen. Het verschil tussen [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is enorm – zelfde land, totaal andere budgetten.
 
 ### Isaan (Noordoosten) - Verborgen budgetparadijs
 
@@ -501,7 +501,7 @@ Na jaren leven en reizen in Thailand hebben we specifieke strategieën geleerd d
 
 ### Vervoer hacks
 
-- **Koop een [Thailand eSIM](https://go2-thailand.com/esim/):** Grab Maps werkt offline; je hebt geen data nodig voor navigatie. Een lokale SIM kost 50-100 baht voor 8GB data. Onze [beste SIM-kaart en eSIM gids voor Thailand 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) vergelijkt alle opties.
+- **Koop een [Thailand eSIM](https://go2-thailand.com/esim/):** Grab Maps werkt offline; je hebt geen data nodig voor navigatie. Een lokale SIM kost 50-100 baht voor 8GB data. Onze [beste SIM-kaart en eSIM gids voor Thailand 2026](/nl/travel-guides/sim-card-thailand/) vergelijkt alle opties.
 - **Gebruik BTS/MRT in Bangkok:** Taxi’s zijn goedkoop maar BTS is sneller en goedkoper voor langere afstanden. Zie de volledige [Bangkok openbaar vervoer gids 2026](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) voor routes en tarieven.
 - **Nachtbussen besparen accommodatie:** Reis 's nachts, slaap in de bus, arriveer uitgerust. Bespaart een hotelnacht.
 - **Boek bussen op het station:** Agentschappen voegen 100-200 baht commissie toe.
@@ -535,7 +535,7 @@ Dit is écht haalbaar. Wij deden dit maandenlang. De sleutel is verblijven in [C
 - Activiteiten (snorkelen, kookcursus, massage): 8.000 THB
 - **Maandelijks totaal: 50.500 THB (€1.299)**
 
-Dit is het meest voorkomende reizigersprofiel. Je slaapt goed, eet lekker, doet gewenste activiteiten en stress niet over geld. Dit budget werkt in de meeste van Thailand behalve [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/islands/koh-samui/).
+Dit is het meest voorkomende reizigersprofiel. Je slaapt goed, eet lekker, doet gewenste activiteiten en stress niet over geld. Dit budget werkt in de meeste van Thailand behalve [Phuket](https://go2-thailand.com/islands/phuket/) en [Koh Samui](https://go2-thailand.com/city/koh-samui/).
 
 ### Scenario 3: Comfort reiziger, Bangkok + strand (november)
 

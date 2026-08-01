@@ -7,6 +7,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import PhuketYachtGuideNl, { YachtOwner } from '../../components/yacht/PhuketYachtGuideNl';
 
 interface Partners {
   klook_yacht: { partnerUrl: string };
@@ -48,6 +49,10 @@ export default function YachtCharterPhuketSpokePage({ spoke, primaryUrl, seconda
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (isNl) {
+    return <PhuketYachtGuideNl owner={spoke as YachtOwner} primaryUrl={primaryUrl} secondaryUrl={secondaryUrl} />;
+  }
   const placementSubId = (placement: string) => `${subId}-pseo-yacht-charter-phuket-${spoke}-${placement}`;
 
   const breadcrumbs = [
@@ -383,7 +388,7 @@ export default function YachtCharterPhuketSpokePage({ spoke, primaryUrl, seconda
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
@@ -563,7 +568,7 @@ export default function YachtCharterPhuketSpokePage({ spoke, primaryUrl, seconda
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Tarieven en boot-specs geverifieerd in mei 2026 op Klook, Viator en operator-websites (Asia Marine, Lee Marine, Yacht Charter Andamans). Marine park-fees gevalideerd via DNP-portal. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke operators we noemen.' : "Rates and boat specs verified May 2026 on Klook, Viator and operator websites (Asia Marine, Lee Marine, Yacht Charter Andamans). Marine park fees validated via DNP portal. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which operators we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -572,7 +577,9 @@ export default function YachtCharterPhuketSpokePage({ spoke, primaryUrl, seconda
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'yacht-charter', 'phuket-spokes.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = (data.spokes as SpokeMeta[]).map(s => ({ params: { spoke: s.slug } }));
+  const paths = (data.spokes as SpokeMeta[]).flatMap(s =>
+    ['en', 'nl'].map(locale => ({ params: { spoke: s.slug }, locale })),
+  );
   return { paths, fallback: false };
 };
 

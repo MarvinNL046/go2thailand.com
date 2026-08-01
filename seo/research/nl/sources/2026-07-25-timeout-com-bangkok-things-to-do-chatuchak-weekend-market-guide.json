@@ -1,0 +1,752 @@
+{
+  "captured_at": "2026-07-25T17:02:14.304Z",
+  "locale": "nl",
+  "url": "https://www.timeout.com/bangkok/things-to-do/chatuchak-weekend-market-guide",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Thanks for subscribing! Look out for your first newsletter in your inbox soon!",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "The best of Bangkok straight to your inbox",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We help you navigate a myriad of possibilities. Sign up for our newsletter for the best of the city.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Déjà vu! We already have this email. Try another?",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "By entering your email address you agree to our Terms of Use and Privacy Policy and consent to receive emails from Time Out about news, events, offers and partner promotions.",
+          "url": "https://www.timeout.com/terms-of-use",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/terms-of-use",
+              "anchor_text": "Terms of Use"
+            },
+            {
+              "url": "https://www.timeout.com/privacy-notice",
+              "anchor_text": "Privacy Policy"
+            }
+          ]
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Awesome, you're subscribed!",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Explore Cities",
+          "url": "https://www.timeout.com/",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/",
+              "anchor_text": "Explore Cities"
+            }
+          ]
+        },
+        {
+          "text": "Time Out Markets",
+          "url": "https://www.timeout.com/time-out-market",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market",
+              "anchor_text": "Time Out Markets"
+            }
+          ]
+        },
+        {
+          "text": "Things to Do",
+          "url": "https://www.timeout.com/bangkok/things-to-do",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/things-to-do",
+              "anchor_text": "Things to Do"
+            }
+          ]
+        },
+        {
+          "text": "Food & Drink",
+          "url": "https://www.timeout.com/bangkok/food-drink",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/food-drink",
+              "anchor_text": "Food & Drink"
+            }
+          ]
+        },
+        {
+          "text": "Music & Nightlife",
+          "url": "https://www.timeout.com/bangkok/music-nightlife",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/music-nightlife",
+              "anchor_text": "Music & Nightlife"
+            }
+          ]
+        },
+        {
+          "text": "Sports & Fitness",
+          "url": "https://www.timeout.com/bangkok/sports-fitness",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/sports-fitness",
+              "anchor_text": "Sports & Fitness"
+            }
+          ]
+        },
+        {
+          "text": "City Guide",
+          "url": "https://www.timeout.com/bangkok/city-guide",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/city-guide",
+              "anchor_text": "City Guide"
+            }
+          ]
+        },
+        {
+          "text": "New York",
+          "url": "https://www.timeout.com/newyork",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/newyork",
+              "anchor_text": "New York"
+            }
+          ]
+        },
+        {
+          "text": "Los Angeles",
+          "url": "https://www.timeout.com/los-angeles",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/los-angeles",
+              "anchor_text": "Los Angeles"
+            }
+          ]
+        },
+        {
+          "text": "Hong Kong",
+          "url": "https://www.timeout.com/hong-kong",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/hong-kong",
+              "anchor_text": "Hong Kong"
+            }
+          ]
+        },
+        {
+          "text": "See all destinations",
+          "url": "https://www.timeout.com/about/time-out-destinations",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/about/time-out-destinations",
+              "anchor_text": "See all destinations"
+            }
+          ]
+        },
+        {
+          "text": "New York Brooklyn",
+          "url": "https://www.timeout.com/time-out-market-new-york",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market-new-york",
+              "anchor_text": "New York Brooklyn"
+            }
+          ]
+        },
+        {
+          "text": "Cape Town",
+          "url": "https://www.timeout.com/time-out-market-cape-town",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market-cape-town",
+              "anchor_text": "Cape Town"
+            }
+          ]
+        },
+        {
+          "text": "New York Union Square",
+          "url": "https://www.timeout.com/time-out-market-union-square",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market-union-square",
+              "anchor_text": "New York Union Square"
+            }
+          ]
+        },
+        {
+          "text": "All Markets",
+          "url": "https://www.timeout.com/time-out-market",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market",
+              "anchor_text": "All Markets"
+            }
+          ]
+        },
+        {
+          "text": "Explore Cities",
+          "url": "https://www.timeout.com/",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/",
+              "anchor_text": "Explore Cities"
+            }
+          ]
+        },
+        {
+          "text": "Time Out Markets",
+          "url": "https://www.timeout.com/time-out-market",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market",
+              "anchor_text": "Time Out Markets"
+            }
+          ]
+        },
+        {
+          "text": "Explore Cities",
+          "url": "https://www.timeout.com/",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/",
+              "anchor_text": "Explore Cities"
+            }
+          ]
+        },
+        {
+          "text": "Time Out Markets",
+          "url": "https://www.timeout.com/time-out-market",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/time-out-market",
+              "anchor_text": "Time Out Markets"
+            }
+          ]
+        },
+        {
+          "text": "Things to Do",
+          "url": "https://www.timeout.com/bangkok/things-to-do",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/things-to-do",
+              "anchor_text": "Things to Do"
+            }
+          ]
+        },
+        {
+          "text": "Food & Drink",
+          "url": "https://www.timeout.com/bangkok/food-drink",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/food-drink",
+              "anchor_text": "Food & Drink"
+            }
+          ]
+        },
+        {
+          "text": "Music & Nightlife",
+          "url": "https://www.timeout.com/bangkok/music-nightlife",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/music-nightlife",
+              "anchor_text": "Music & Nightlife"
+            }
+          ]
+        },
+        {
+          "text": "Sports & Fitness",
+          "url": "https://www.timeout.com/bangkok/sports-fitness",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/sports-fitness",
+              "anchor_text": "Sports & Fitness"
+            }
+          ]
+        },
+        {
+          "text": "City Guide",
+          "url": "https://www.timeout.com/bangkok/city-guide",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/city-guide",
+              "anchor_text": "City Guide"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Déjà vu! We already have this email. Try another?",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "By entering your email address you agree to our Terms of Use and Privacy Policy and consent to receive emails from Time Out about news, events, offers and partner promotions.",
+          "url": "https://www.timeout.com/terms-of-use",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/terms-of-use",
+              "anchor_text": "Terms of Use"
+            },
+            {
+              "url": "https://www.timeout.com/privacy-notice",
+              "anchor_text": "Privacy Policy"
+            }
+          ]
+        },
+        {
+          "text": "Thanks for subscribing! Look out for your first newsletter in your inbox soon!",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "🙌 Awesome, you're subscribed!",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "About us",
+          "url": "https://www.timeout.com/about",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/about",
+              "anchor_text": "About us"
+            }
+          ]
+        },
+        {
+          "text": "Work for Time Out",
+          "url": "https://www.timeout.com/bangkok/time-out-bangkok-careers",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/time-out-bangkok-careers",
+              "anchor_text": "Work for Time Out"
+            }
+          ]
+        },
+        {
+          "text": "Privacy policy",
+          "url": "https://www.timeout.com/bangkok/privacy-policy",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/privacy-policy",
+              "anchor_text": "Privacy policy"
+            }
+          ]
+        },
+        {
+          "text": "Website terms of use",
+          "url": "https://www.timeout.com/bangkok/terms-conditions",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/terms-conditions",
+              "anchor_text": "Website terms of use"
+            }
+          ]
+        },
+        {
+          "text": "Modern slavery statement",
+          "url": "https://assets.timeout.com/application/pdf/1d50b1f88ff2e3350a3204f2321d9671/modern_slavery_statement.pdf",
+          "urls": [
+            {
+              "url": "https://assets.timeout.com/application/pdf/1d50b1f88ff2e3350a3204f2321d9671/modern_slavery_statement.pdf",
+              "anchor_text": "Modern slavery statement"
+            }
+          ]
+        },
+        {
+          "text": "Manage cookies",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Contact us",
+          "url": "https://www.timeout.com/bangkok/contact-us",
+          "urls": [
+            {
+              "url": "https://www.timeout.com/bangkok/contact-us",
+              "anchor_text": "Contact us"
+            }
+          ]
+        },
+        {
+          "text": "Time Out products",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Time Out global",
+          "url": "http://www.timeout.com/",
+          "urls": [
+            {
+              "url": "http://www.timeout.com/",
+              "anchor_text": "Time Out global"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Chatuchak weekend market guide",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Where to eat and drink at Bangkok’s biggest outdoor bazaar.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Senior writer, Time Out Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Chatuchak Weekend Market is the largest of its kind in Thailand and a must-see for any first-time visitor to Bangkok. There is something for everyone in its vastness, including a multitude of affordable fashion booths, arts and craft stalls, furniture retailers and a huge garden supplies section (although we highly recommend skipping the exotic pet zone, which many would like to see closed on ethical grounds). Locals are also attracted to the market for its mouthwatering street food stalls and handful of laid-back bars, which make it the perfect spot to shop ‘til you need to drop in for a reviving drink. Whether you're exploring solo or recommending the market to visiting friends, Chatuchak is a true Thai experience.",
+            "url": "https://www.getyourguide.co.uk/chatuchak-weekend-market-l92294/?partner_id=M7Z0W0W&cmp=Thailand_Franchise",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.co.uk/chatuchak-weekend-market-l92294/?partner_id=M7Z0W0W&cmp=Thailand_Franchise",
+                "anchor_text": "Chatuchak Weekend Market"
+              }
+            ]
+          },
+          {
+            "text": "Operating from 6pm - midnight on Fri and 10am - 6pm on Sat-Sun, treasures here await. MRT Chatuchak underground and BTS Mo Chit Skytrain stops are the nearest stations to this gem, and you can cut through neighbouring Chatuchak Park for a shorter walk once you get off the train.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ready to dive in and taste the many flavours of Chatuchak Weekend Market? It can get hot and crowded in its bustling lanes, so check out our 10 recommendations for some retail relief, re-fuelling and relaxation.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dig into perfect paella at Viva 8",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? Viva 8 is Chatuchak’s take on a daytime bar, and it continues to thrive after many years of operation. Find it in section 8 on the market’s main drag.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? For the food. Their famed paella (B160) is huge and a must-try. Pair your meal with chilled sangria or one of the many beers on the drink list. Also check out their signature cocktails.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: The resident DJ, who spins tunes from morning to night to maintain the fiesta vibe.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Munch on khao gaeng at Muslim Food",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? A delicious and economical halal khao gaeng eatery, (‘rice and curry’ in Thai) tucked away in section 12, lane 2.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? Similar to its Indonesian and Malaysian counterparts, the generously portioned nasi pedang is great (starting at B50). This is definitely a bang for your baht and satisfying on the tummy.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: The delicious biryani (B50). And the friendly staff who can converse in Bahasa Melayu, adding a warm, personal touch to your experience if you speak the language.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Grab a cup of premium coffee at A Pink Rabbit and Bob Cafe",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? A whimsically designed café in section 3, lane 45/1 that boasts an array of cakes and drinks.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? We gave the rabbit dirty coffee (B125) a spin and it's a gem - the mix of coffee and rich drinking chocolate creates a smooth, comforting beverage. It’s a great pick-me-up but you can opt for the decaf version if you prefer.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: You’ll be drawn in by its unique charm, and once you spot the confectionery display, you won’t be able to resist taking a closer look. Trust us, you’ll know right away that you have to indulge. And if you’re lucky enough to sit upstairs with a view, the experience gets even better.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Sip refreshing Thai tea at Sicha",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? Found in section 4, this hidden gem isn’t immediately visible from the market’s main drag. The café boasts stunning aesthetics that create an inviting ambiance and old-timey charm.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? You're in for a treat if you love Thai tea. Their bestseller, the original Thai tea (B90), lives up to the hype.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: A wander through the lanes for the best Thai tea ever.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Slurp icy milkshakes from Miruku Pure Milk Chatuchak",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? This petite milkshake stall in section 8 reminds us of those TikTok and Instagram reel snippets of Japan. The shop is adorned with dark wood and coloured flags with imprinted Japanese characters. It's almost straight out of Akakusa in Tokyo.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? A cool milkshake is just the thing to combat a warm day at Chatuchak.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: We tried their signature original pure milk milkshake (B65). As you’d hope for in a milkshake, it is rich, creamy and refreshingly icy.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Chow down on your favourite dishes at 168 Thai Restaurant",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? This 168 Thai Restaurant outpos t in section 3, lane 46/1 serves up classic Thai offerings such as pineapple fried rice (B336), pad thai (B168), green curry (B168) and tom yum soup (B168).",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? This venue will definitely make your tummy happy, because their portions are huge. The exquisite prawns topping the pineapple fried rice are a highlight.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: Savouring the true taste of Thailand served in a pineapple ‘steam boat’.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Grab some classic coconut ice cream at Coco JJ",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? Coco JJ is a renowned stall in section 1, lane 36 of the market. It has been pampering the sweet tooth of tourists and locals alike since its establishment in 2008.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? For icy sugared treats that are perfect for cooling off in Bangkok's scorching weather.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: The ice cream (starting at B60). It is luxuriously creamy and served in a coconut shell with tender pieces of coconut flesh. You can also customise your treat with a variety of toppings from a wide selection.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Float your boat on oodles of noodles at Rattanakosin Boat Noodles",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? A humble eatery located in zone A 48. You simply must try their legendary Thai boat noodles, or kway toey ruea, because they are rated by many an aficionado as being up there with the best in town.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? You'll drool once you see their semi-jacuzzi sized broth tubs. The aromas of bubbling meat stew and aromatic soup pervade the air and all you can think is, “let’s eat!”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: Their sen lek moo (B60). It’s a dish of contrasts with juicy pork meatballs and crispy pork rinds.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Have a sip-worthy evening at Brio Bistro and Bar",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? It's a cafe during the day serving great coffee (starting at B80) but it transforms into a bar in the evening. Located in section 2, lane 40/3, it only opens on Sat-Sun.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? Even though it resonates more with local millennials, it still boasts a fun vibe with live band performances and Western pop music hits. Here you get a whiff of the thriving local energy and spirit.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: Their signature sweet and sour Bangkok glory cocktail (B280). You can choose gin or vodka as the base. Either way, it packs a tropical punch.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Munch on a legendary Thai dessert at Celin Mango Sticky Rice Ice Cream",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "What is it? Tucked away in section 5 of Chatuchak’s sprawl, this stall serves up a great iteration of Thailand’s most iconic dessert, mango and sticky rice.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Why go? With its colourful presentation, their take on mango and sticky rice is not only a treat for the palate but also a feast for the eyes. The sweet delight (B90) comes in a waffle bowl with the sticky rice topped with ice cream and mango slices. Think Cold Stone, only better.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Don't miss: A great version of the Thai dessert that is loved the world over.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Chatuchak weekend market guide",
+        "main_title": "Chatuchak weekend market guide",
+        "author": "Prowd Issarasena Na Ayuddhaya",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Discover Time Out original video",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Popular on Time Out",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Latest news",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "?subject=Chatuchak%20weekend%20market%20guide&amp;body=Chatuchak%20weekend%20market%20guide https://www.timeout.com/bangkok/things-to-do/chatuchak-weekend-market-guide."
+      ]
+    }
+  }
+}

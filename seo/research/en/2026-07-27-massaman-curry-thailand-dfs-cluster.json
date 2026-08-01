@@ -1,0 +1,1218 @@
+{
+  "captured_at": "2026-07-27T23:19:27.573Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "massaman curry thailand",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.02292,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "massaman curry thailand",
+    "massaman curry recipe",
+    "massaman curry thailand recipe",
+    "massaman beef curry recipe",
+    "massaman curry recipe beef",
+    "massaman chicken curry recipe",
+    "massaman curry paste recipe",
+    "massaman curry recipe chicken",
+    "beef massaman curry slow cooker",
+    "massaman curry vegetarian",
+    "massaman curry ingredients",
+    "massaman curry recipe vegetarian",
+    "massaman curry vegetarian recipe",
+    "vegetarian massaman curry recipe",
+    "mae ploy massaman curry paste",
+    "easy massaman curry recipe",
+    "lamb massaman curry recipe",
+    "maesri massaman curry paste",
+    "massaman curry recipe lamb"
+  ],
+  "keywords": [
+    {
+      "keyword": "massaman curry thailand",
+      "volume": 27100,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "panang curry",
+      "volume": 27100,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recipe",
+      "volume": 9900,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry thailand recipe",
+      "volume": 9900,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "panang curry recipe",
+      "volume": 2900,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman beef curry recipe",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recipe beef",
+      "volume": 1900,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman chicken curry recipe",
+      "volume": 1300,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste recipe",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recipe chicken",
+      "volume": 1300,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef massaman curry slow cooker",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry vegetarian",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry ingredients",
+      "volume": 590,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste tesco",
+      "volume": 480,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "panang curry sauce",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recipe vegetarian",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry vegetarian recipe",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian massaman curry recipe",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae ploy massaman curry paste",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "panang curry vs red curry",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy massaman curry recipe",
+      "volume": 260,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lamb massaman curry recipe",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "maesri massaman curry paste",
+      "volume": 260,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recipe lamb",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "panang curry ingredients",
+      "volume": 210,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "panang curry vegetarian",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken massaman curry recipe jamie oliver",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "panang curry vs massaman curry",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massaman curry paste",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy chicken massaman curry recipe",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy massaman curry recipe chicken",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman chicken curry recipe easy",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry kit",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste asda",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recipe uk",
+      "volume": 140,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massaman curry recipe",
+      "volume": 110,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste ingredients",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste morrisons",
+      "volume": 110,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver massaman curry",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste m&s",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste substitute",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry spices",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy massaman curry",
+      "volume": 70,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef massaman curry recipe uk",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste lidl",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste recipe uk",
+      "volume": 50,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian massaman curry recipe jamie oliver",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massaman beef curry recipe",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massaman curry paste uk",
+      "volume": 40,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste recipe chicken",
+      "volume": 40,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to buy massaman curry paste",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic massaman beef curry recipe",
+      "volume": 30,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best chicken massaman curry recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massaman chicken curry recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy massaman curry paste recipe",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver turkey massaman curry",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae ploy massaman curry paste recipe",
+      "volume": 30,
+      "kd": 43,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste how to use",
+      "volume": 30,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste recipe easy",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry powder",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "panang curry is it spicy",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy massaman beef curry recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver 5 ingredients aubergine curry",
+      "volume": 20,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lamb massaman curry recipe uk",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman chicken curry recipe uk",
+      "volume": 20,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste near me",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "quick beef massaman curry",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic massaman curry paste recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef short rib massaman curry recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massaman curry paste recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massaman curry recipe slow cooker",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy chicken massaman curry recipe using paste",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy massaman curry slow cooker",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver massaman curry recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lamb massaman curry recipe jamie oliver",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae ploy massaman curry paste ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae ploy massaman curry paste review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae ploy massaman curry paste tesco",
+      "volume": 10,
+      "kd": 44,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "maesri masaman curry paste uk",
+      "volume": 10,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman beef curry recipe slow cooker",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste recipe vegetarian",
+      "volume": 10,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste where to buy",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry powder recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recipe chicken uk",
+      "volume": 10,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry vegetarian bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "panang curry restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian massaman curry recipe uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic massaman chicken curry recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae ploy massaman curry paste sainsbury's",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "maesri masaman curry paste 400g",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "maesri masaman curry paste tesco",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 5.416666666666667,
+      "keywordCount": 12,
+      "visibility": 7.35,
+      "estimatedTraffic": 1185.8859999999997
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 10.2,
+      "keywordCount": 10,
+      "visibility": 3.1999999999999997,
+      "estimatedTraffic": 274.962
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 20.636363636363637,
+      "keywordCount": 11,
+      "visibility": 0.35,
+      "estimatedTraffic": 56.086999999999996
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 15.444444444444445,
+      "keywordCount": 9,
+      "visibility": 3.5999999999999996,
+      "estimatedTraffic": 1866.772
+    },
+    {
+      "domain": "www.kitchensanctuary.com",
+      "avgPosition": 11.5,
+      "keywordCount": 8,
+      "visibility": 3.45,
+      "estimatedTraffic": 358.547
+    },
+    {
+      "domain": "www.waitrose.com",
+      "avgPosition": 12.875,
+      "keywordCount": 8,
+      "visibility": 2.6999999999999997,
+      "estimatedTraffic": 184.099
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 5.285714285714286,
+      "keywordCount": 7,
+      "visibility": 5.1000000000000005,
+      "estimatedTraffic": 1406.5649999999998
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 9,
+      "visibility": 0.35,
+      "estimatedTraffic": 38.665
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 7.571428571428571,
+      "keywordCount": 7,
+      "visibility": 4.9,
+      "estimatedTraffic": 4025.5559999999996
+    },
+    {
+      "domain": "minimalistbaker.com",
+      "avgPosition": 12.833333333333334,
+      "keywordCount": 6,
+      "visibility": 1.95,
+      "estimatedTraffic": 87.59500000000001
+    },
+    {
+      "domain": "tastesbetterfromscratch.com",
+      "avgPosition": 16.166666666666668,
+      "keywordCount": 6,
+      "visibility": 1.8,
+      "estimatedTraffic": 196.40099999999998
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 19.5,
+      "keywordCount": 6,
+      "visibility": 0.45,
+      "estimatedTraffic": 211.44899999999998
+    },
+    {
+      "domain": "www.taste.com.au",
+      "avgPosition": 46.666666666666664,
+      "keywordCount": 9,
+      "visibility": 0.05,
+      "estimatedTraffic": 34.382999999999996
+    },
+    {
+      "domain": "www.theguardian.com",
+      "avgPosition": 7.4,
+      "keywordCount": 5,
+      "visibility": 1.8,
+      "estimatedTraffic": 359.24100000000004
+    },
+    {
+      "domain": "ministryofcurry.com",
+      "avgPosition": 9.2,
+      "keywordCount": 5,
+      "visibility": 1.5500000000000003,
+      "estimatedTraffic": 61.152
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 35.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0.3,
+      "estimatedTraffic": 34.190999999999995
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 24.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 51.581
+    },
+    {
+      "domain": "www.favfamilyrecipes.com",
+      "avgPosition": 27.166666666666668,
+      "keywordCount": 6,
+      "visibility": 1.4,
+      "estimatedTraffic": 127.20100000000001
+    },
+    {
+      "domain": "realfood.tesco.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.7,
+      "estimatedTraffic": 51.437
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 30,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 30.261
+    },
+    {
+      "domain": "alwaysusebutter.com",
+      "avgPosition": 34,
+      "keywordCount": 6,
+      "visibility": 0.55,
+      "estimatedTraffic": 74.961
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 6,
+      "keywordCount": 4,
+      "visibility": 2,
+      "estimatedTraffic": 795.323
+    },
+    {
+      "domain": "eatlittlebird.com",
+      "avgPosition": 12,
+      "keywordCount": 4,
+      "visibility": 0.4,
+      "estimatedTraffic": 160.51999999999998
+    },
+    {
+      "domain": "ayam.com",
+      "avgPosition": 56.875,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 32.844
+    },
+    {
+      "domain": "www.thehomecookskitchen.com",
+      "avgPosition": 14.5,
+      "keywordCount": 4,
+      "visibility": 1.55,
+      "estimatedTraffic": 255.969
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 15.75,
+      "keywordCount": 4,
+      "visibility": 0.30000000000000004,
+      "estimatedTraffic": 19.402
+    },
+    {
+      "domain": "simplehomeedit.com",
+      "avgPosition": 33.4,
+      "keywordCount": 5,
+      "visibility": 1,
+      "estimatedTraffic": 328.111
+    },
+    {
+      "domain": "www.mob.co.uk",
+      "avgPosition": 34.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.224
+    },
+    {
+      "domain": "spicecravings.com",
+      "avgPosition": 36,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 28.544999999999998
+    },
+    {
+      "domain": "www.jamieoliver.com",
+      "avgPosition": 21.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 27.054000000000002
+    },
+    {
+      "domain": "greatcurryrecipes.net",
+      "avgPosition": 37,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 34.76899999999999
+    },
+    {
+      "domain": "www.thaikhun.co.uk",
+      "avgPosition": 21.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 73.449
+    },
+    {
+      "domain": "southsidekitchen.com",
+      "avgPosition": 38.8,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 39.491
+    },
+    {
+      "domain": "www.simplycook.com",
+      "avgPosition": 25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 25.682
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 25.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 36.97899999999999
+    },
+    {
+      "domain": "www.pipercooks.com",
+      "avgPosition": 1,
+      "keywordCount": 3,
+      "visibility": 3,
+      "estimatedTraffic": 355.68
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 26.75,
+      "keywordCount": 4,
+      "visibility": 0.4,
+      "estimatedTraffic": 25.392
+    },
+    {
+      "domain": "www.quorn.co.uk",
+      "avgPosition": 3,
+      "keywordCount": 3,
+      "visibility": 2.4000000000000004,
+      "estimatedTraffic": 113.84099999999998
+    },
+    {
+      "domain": "lovingitvegan.com",
+      "avgPosition": 4.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.9999999999999998,
+      "estimatedTraffic": 69.69300000000001
+    },
+    {
+      "domain": "sixhungryfeet.com",
+      "avgPosition": 6,
+      "keywordCount": 3,
+      "visibility": 1.5,
+      "estimatedTraffic": 39.54599999999999
+    },
+    {
+      "domain": "www.archanaskitchen.com",
+      "avgPosition": 8,
+      "keywordCount": 3,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 23.049
+    },
+    {
+      "domain": "cookeatlivelove.com",
+      "avgPosition": 9,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 17.549999999999997
+    },
+    {
+      "domain": "www.riverford.co.uk",
+      "avgPosition": 9.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.85,
+      "estimatedTraffic": 89.934
+    },
+    {
+      "domain": "www.veganricha.com",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.25,
+      "estimatedTraffic": 12.363
+    },
+    {
+      "domain": "vegsoc.org",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 11.505
+    },
+    {
+      "domain": "www.kannammacooks.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 8.774999999999999
+    },
+    {
+      "domain": "www.wellplated.com",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 99.632
+    },
+    {
+      "domain": "thenewbaguette.com",
+      "avgPosition": 13.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.591
+    },
+    {
+      "domain": "www.connoisseurusveg.com",
+      "avgPosition": 13.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.6690000000000005
+    },
+    {
+      "domain": "veganwithgusto.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.343
+    }
+  ]
+}

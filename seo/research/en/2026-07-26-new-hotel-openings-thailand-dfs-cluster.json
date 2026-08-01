@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-26T14:09:53.206Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "new hotel openings thailand",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "new hotel openings thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "new hotel openings thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

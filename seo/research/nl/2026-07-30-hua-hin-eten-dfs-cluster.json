@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-07-30T15:35:56.498Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "hua hin eten",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "hua hin eten"
+  ],
+  "keywords": [
+    {
+      "keyword": "eten in hua hin",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin eten",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "prijzen eten hua hin",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

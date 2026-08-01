@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "mahanakhon-skywalk-i-tilt-bangkok-worlds-highest-tilt-2026",
+  "route": "/nl/blog/mahanakhon-skywalk-i-tilt-bangkok-worlds-highest-tilt-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Mahanakhon I-Tilt Bangkok: tickets en bezoekcheck | Go2Thailand",
+    "description": "Plan Mahanakhon I-Tilt in Bangkok: verschil met SkyWalk, hoogte- en toegangscheck, beste tijdstip en live ticketcontrole zonder losse superlatieven.",
+    "primaryKeyword": "Mahanakhon I-Tilt Bangkok",
+    "secondaryKeywords": ["Mahanakhon SkyWalk tickets", "I-Tilt Bangkok hoogte", "King Power Mahanakhon bezoeken"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/mahanakhon-skywalk-i-tilt-bangkok-worlds-highest-tilt-2026/"
+  },
+  "hero": {
+    "eyebrow": "Uitzicht met een extra randje",
+    "title": "Mahanakhon I-Tilt in Bangkok",
+    "accent": "Eerst weten wat je boekt",
+    "description": "De I-Tilt is een losse ervaring naast de SkyWalk. Vergelijk toegang, tijdslot, weer en voorwaarden vóór je naar de 75e verdieping gaat.",
+    "image": "/images/redesign/editorial/mahanakhon-skywalk-i-tilt-bangkok-worlds-highest-tilt-2026-hero.webp",
+    "imageAlt": "Bangkokse skyline bij zonsondergang met King Power Mahanakhon rechts in beeld",
+    "primaryCta": { "label": "Bekijk de bezoekcheck", "href": "#bezoekcheck" },
+    "secondaryCta": { "label": "Vergelijk de ervaringen", "href": "#verschil" }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "compare",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Mahanakhon I-Tilt is volgens de officiële aanbieder een buitensensatie op de 75e verdieping, 296 meter boven Bangkok, waarbij je gezekerd tot 65 graden naar buiten kantelt. Een geldig SkyWalk-ticket is daarnaast nodig; controleer prijs, tijdslot, leeftijds- en veiligheidsvoorwaarden live.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "verschil",
+      "title": "I-Tilt is niet hetzelfde als de SkyWalk",
+      "description": "De namen worden in ticketshops soms naast elkaar getoond, maar ze dekken verschillende onderdelen.",
+      "options": [
+        {
+          "title": "Mahanakhon SkyWalk",
+          "description": "Het reguliere observatiedek met binnen- en buitenuitzicht. Dit is de basisentree voor een bezoek aan de toren.",
+          "note": "Controleer het gekozen toegangsmoment en of het buitendek door het weer open is."
+        },
+        {
+          "title": "Mahanakhon I-Tilt",
+          "description": "Een aparte gezekerde kantelervaring op verdieping 75. De officiële site vermeldt dat toegang tot de SkyWalk niet in het losse I-Tilt-bedrag zit.",
+          "note": "Boek alleen als je ook aan de actuele deelnamevoorwaarden voldoet."
+        }
+      ]
+    },
+    {
+      "kind": "card-grid",
+      "id": "feiten",
+      "eyebrow": "Officieel gecontroleerd",
+      "title": "Wat we wél hard kunnen maken",
+      "cards": [
+        {
+          "title": "296 meter",
+          "description": "De aanbieder plaatst de ervaring op de 75e verdieping, 296 meter boven Bangkok."
+        },
+        {
+          "title": "Tot 65 graden",
+          "description": "De beschreven beweging kantelt deelnemers gezekerd naar buiten tot een hoek van 65 graden."
+        },
+        {
+          "title": "Eerste van dit type",
+          "description": "King Power noemt dit de eerste outdoor tilting thrill experience. We herhalen geen bredere wereldrecords die niet afzonderlijk zijn gecertificeerd."
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "bezoekcheck",
+      "title": "Plan je bezoek in vier checks",
+      "steps": [
+        {
+          "title": "1. Kies de ervaring",
+          "description": "Bepaal of je alleen het uitzicht wilt of ook de I-Tilt. Lees exact welke toegang in je ticket is inbegrepen."
+        },
+        {
+          "title": "2. Controleer voorwaarden",
+          "description": "Bekijk op de officiële boekingspagina de actuele eisen rond leeftijd, lengte, gezondheid, kleding en losse voorwerpen."
+        },
+        {
+          "title": "3. Plan op zicht, niet alleen zonsondergang",
+          "description": "Regen, onweer en heiigheid kunnen buitendelen en uitzicht beïnvloeden. Houd ruimte om je tijdstip te wijzigen."
+        },
+        {
+          "title": "4. Check de totaalprijs",
+          "description": "Vergelijk het eindbedrag inclusief SkyWalk-toegang, I-Tilt, tijdslot en boekingskosten vlak vóór betalen."
+        }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "veiligheid",
+      "tone": "warning",
+      "title": "Een harnas neemt je eigen afweging niet over",
+      "description": "Sla de ervaring over bij twijfel over hoogtevrees, mobiliteit of een medische beperking en volg altijd de briefing ter plaatse. De officiële voorwaarden gaan vóór een samenvatting in een reisgids."
+    },
+    {
+      "kind": "affiliate",
+      "id": "tickets",
+      "provider": "klook",
+      "title": "Controleer een actueel Mahanakhon-ticket",
+      "description": "Open het aanbod pas nadat je SkyWalk en I-Tilt uit elkaar kunt houden. Controleer productnaam, inbegrepen onderdelen, tijdslot, annuleringsvoorwaarden en eindprijs op de aanbiederspagina.",
+      "cta": {
+        "label": "Bekijk actuele opties bij Klook",
+        "href": "https://www.klook.com/en-US/activity/16870-king-power-mahanakhon-skywalk-ticket-bangkok/",
+        "external": true
+      },
+      "placement": "nl-editorial-mahanakhon-itilt-live-ticket",
+      "disclosure": "Affiliate-link: Go2Thailand kan commissie ontvangen zonder meerprijs voor jou. Prijs, beschikbaarheid en inhoud worden door Klook bepaald; controleer alles opnieuw vóór betaling."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Mahanakhon I-Tilt",
+      "items": [
+        {
+          "question": "Hoe hoog is Mahanakhon I-Tilt?",
+          "answer": "De officiële aanbieder noemt 296 meter boven Bangkok en de 75e verdieping."
+        },
+        {
+          "question": "Zit I-Tilt bij een gewoon SkyWalk-ticket?",
+          "answer": "Niet automatisch. De officiële I-Tilt-pagina beschrijft het als een losse ervaring waarvoor ook geldige SkyWalk-toegang nodig is. Lees de actuele ticketinhoud."
+        },
+        {
+          "question": "Wat is het beste tijdstip?",
+          "answer": "Laat in de middag kan daglicht, zonsondergang en stadslicht combineren, maar is vaak populair. Zicht en buitenopenstelling hangen van het weer af."
+        },
+        {
+          "question": "Kan ik ter plaatse boeken?",
+          "answer": "De officiële site noemt verkoop aan de balie, maar capaciteit en tijdsloten kunnen veranderen. Controleer dezelfde dag de officiële informatie."
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Maak er een logische Bangkok-dag van",
+      "items": [
+        {
+          "title": "Bangkok bezienswaardigheden",
+          "description": "Combineer de toren met een route die niet de hele dag door de stad zigzagt.",
+          "href": "/nl/city/bangkok/attractions/"
+        },
+        {
+          "title": "Waar verblijven in Bangkok",
+          "description": "Kies een wijk op basis van je avondroute en vervoer, niet op één attractie.",
+          "href": "/nl/best-hotels/bangkok/"
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire bezoekbronnen",
+      "items": [
+        {
+          "title": "Mahanakhon Bangkok I-Tilt",
+          "publisher": "King Power Mahanakhon",
+          "url": "https://kingpowermahanakhon.co.th/th/experience/mahanakhon-bangkok-i-tilt",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële hoogte, kantelhoek, verdieping, losse toegang en gepubliceerde uren."
+        },
+        {
+          "title": "King Power Mahanakhon experiences",
+          "publisher": "King Power Mahanakhon",
+          "url": "https://kingpowermahanakhon.co.th/experience",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële scheiding tussen SkyWalk en I-Tilt; actuele tijden kunnen wijzigen."
+        }
+      ]
+    }
+  ]
+}

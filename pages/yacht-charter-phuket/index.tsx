@@ -7,6 +7,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import PhuketYachtGuideNl from '../../components/yacht/PhuketYachtGuideNl';
 
 interface Partners {
   klook_yacht: { partnerUrl: string };
@@ -27,6 +28,10 @@ export default function YachtCharterPhuketPage({ partners, lastUpdated }: Props)
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (isNl) {
+    return <PhuketYachtGuideNl owner="charter" primaryUrl={partners.klook_yacht.partnerUrl} secondaryUrl={partners.gyg_phuket_yacht.partnerUrl} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -134,7 +139,7 @@ export default function YachtCharterPhuketPage({ partners, lastUpdated }: Props)
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table — 6 yacht charter tiers */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? 'Snelle vergelijking: 6 charter-tiers' : 'Quick comparison: 6 charter tiers'}</h2>
@@ -297,7 +302,7 @@ export default function YachtCharterPhuketPage({ partners, lastUpdated }: Props)
               <Link href="/best-hotels/phuket/" className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">{isNl ? '🏨 Beste hotels in Phuket' : '🏨 Best hotels in Phuket'}</Link>
               <Link href="/flights-to-phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '✈️ Vluchten naar Phuket' : '✈️ Flights to Phuket'}</Link>
               <Link href="/car-rental-phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '🚗 Auto huren naar de marina' : '🚗 Car rental to the marina'}</Link>
-              <Link href="/where-to-stay/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '🗺️ Waar overnachten' : '🗺️ Where to stay'}</Link>
+              <Link href="/best-hotels/phuket/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? '🗺️ Waar overnachten' : '🗺️ Where to stay'}</Link>
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
               <a href={withSubId(KLOOK_GENERIC, subId)} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-5 py-2 text-sm font-semibold hover:bg-red-700">{isNl ? '🎟️ Andere Phuket activiteiten' : '🎟️ Other Phuket activities'}</a>
             </div>
@@ -308,7 +313,7 @@ export default function YachtCharterPhuketPage({ partners, lastUpdated }: Props)
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Tarieven geverifieerd in mei 2026 op Klook, GetYourGuide, Viator en Trip.com voor early-juni 2026 boekingen vanuit Phuket. Marina-info gevalideerd via website van elke marina + recente Tripadvisor reviews. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke operators we noemen.' : "Rates verified May 2026 on Klook, GetYourGuide, Viator, and Trip.com for early-June 2026 bookings from Phuket. Marina info validated via each marina's website + recent Tripadvisor reviews. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which operators we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

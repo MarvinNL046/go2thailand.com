@@ -1,0 +1,772 @@
+{
+  "captured_at": "2026-07-26T17:14:50.127Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "walking street pattaya nightlife",
+  "costs": {
+    "suggestions": 0.01392,
+    "related": 0.0156,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "walking street pattaya nightlife",
+    "nightlife in pattaya walking street",
+    "nightlife of pattaya walking street",
+    "nightlife pattaya walking street",
+    "pattaya nightlife walking street",
+    "pattaya thailand nightlife walking street",
+    "pattaya walking street nightlife",
+    "thailand pattaya nightlife walking street",
+    "walking street nightlife pattaya",
+    "bangkok pattaya nightlife walking street",
+    "live pattaya nightlife walking street",
+    "nightlife walking street pattaya city"
+  ],
+  "keywords": [
+    {
+      "keyword": "pattaya walking street",
+      "volume": 1900,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya live camera",
+      "volume": 720,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nightlife in pattaya for singles",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nightlife in pattaya walking street",
+      "volume": 70,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife of pattaya walking street",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife pattaya walking street",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife walking street",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife walking street",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street nightlife",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya nightlife walking street",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walking street nightlife pattaya",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya nightlife",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street hotels",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street map",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street video",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand walking street video",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya videos",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife for couples",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife video",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4-star hotels in pattaya near walking street",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in pattaya near walking street",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok pattaya nightlife walking street",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "free nightlife in pattaya for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is walking street pattaya safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "live pattaya nightlife walking street",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife walking street pattaya city",
+      "volume": 10,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya hotels near walking street guest friendly",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street direction",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street live",
+      "volume": 10,
+      "kd": 53,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street name",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street night club",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street nightlife for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya nightlife video",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya directions",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya videos youtube",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife walking street 2018",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife walking street 2021",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street nightlife freelancer",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best girl friendly hotels in pattaya near walking street",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 1.8888888888888888,
+      "keywordCount": 9,
+      "visibility": 8.2,
+      "estimatedTraffic": 152.15200000000002
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2.6666666666666665,
+      "keywordCount": 9,
+      "visibility": 7.500000000000001,
+      "estimatedTraffic": 77.217
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 3,
+      "keywordCount": 9,
+      "visibility": 7.2,
+      "estimatedTraffic": 73.703
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 4,
+      "keywordCount": 9,
+      "visibility": 6.3,
+      "estimatedTraffic": 72.52000000000001
+    },
+    {
+      "domain": "toasttothailand.com",
+      "avgPosition": 4.222222222222222,
+      "keywordCount": 9,
+      "visibility": 6.1000000000000005,
+      "estimatedTraffic": 44.617999999999995
+    },
+    {
+      "domain": "yourthaiguide.com",
+      "avgPosition": 10.777777777777779,
+      "keywordCount": 9,
+      "visibility": 1.95,
+      "estimatedTraffic": 9.877
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 11.222222222222221,
+      "keywordCount": 9,
+      "visibility": 2.05,
+      "estimatedTraffic": 11.109
+    },
+    {
+      "domain": "pattayacitytourcoltd.com",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 9,
+      "visibility": 0.7000000000000002,
+      "estimatedTraffic": 5.257
+    },
+    {
+      "domain": "www.tripoto.com",
+      "avgPosition": 16,
+      "keywordCount": 9,
+      "visibility": 0.44999999999999996,
+      "estimatedTraffic": 3.3459999999999996
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 20.666666666666668,
+      "keywordCount": 9,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.8129999999999997
+    },
+    {
+      "domain": "thailand-vloggers.com",
+      "avgPosition": 21.22222222222222,
+      "keywordCount": 9,
+      "visibility": 0.3,
+      "estimatedTraffic": 2.198
+    },
+    {
+      "domain": "foreverbreak.com",
+      "avgPosition": 10.571428571428571,
+      "keywordCount": 7,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 6.782999999999999
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 13.571428571428571,
+      "keywordCount": 7,
+      "visibility": 0.35,
+      "estimatedTraffic": 3.227
+    },
+    {
+      "domain": "www.pattayaunlimited.com",
+      "avgPosition": 18.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.3,
+      "estimatedTraffic": 2.156
+    },
+    {
+      "domain": "www.thethaipass.com",
+      "avgPosition": 9.833333333333334,
+      "keywordCount": 6,
+      "visibility": 1.1,
+      "estimatedTraffic": 6.194999999999999
+    },
+    {
+      "domain": "wanderon.in",
+      "avgPosition": 24.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.2879999999999998
+    },
+    {
+      "domain": "www.dailymotion.com",
+      "avgPosition": 28.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.085
+    },
+    {
+      "domain": "walking-street.net",
+      "avgPosition": 39.5,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 1.176
+    },
+    {
+      "domain": "govntravel.com",
+      "avgPosition": 41,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 1.176
+    },
+    {
+      "domain": "www.centrepoint.com",
+      "avgPosition": 7.2,
+      "keywordCount": 5,
+      "visibility": 1.9,
+      "estimatedTraffic": 9.296
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 9.8,
+      "keywordCount": 5,
+      "visibility": 0.65,
+      "estimatedTraffic": 4.388999999999999
+    },
+    {
+      "domain": "letsgopattaya.com",
+      "avgPosition": 38.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 0.882
+    },
+    {
+      "domain": "www.walkingstreetpattaya.com",
+      "avgPosition": 15.25,
+      "keywordCount": 4,
+      "visibility": 0.35,
+      "estimatedTraffic": 1.8270000000000002
+    },
+    {
+      "domain": "saritachaletandspa.com",
+      "avgPosition": 16.25,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.652
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 21,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.847
+    },
+    {
+      "domain": "barspattaya.com",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.6930000000000001
+    },
+    {
+      "domain": "capymapa.com",
+      "avgPosition": 24,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44799999999999995
+    },
+    {
+      "domain": "thethaitourism.com",
+      "avgPosition": 24.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.45499999999999996
+    },
+    {
+      "domain": "mikepattayataxi.com",
+      "avgPosition": 25.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 27,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.595
+    },
+    {
+      "domain": "bangkokheaven.com",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "ultimatepattaya.com",
+      "avgPosition": 32.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.483
+    },
+    {
+      "domain": "thailandknowledge.com",
+      "avgPosition": 34.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "trekgo.in",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.54
+    },
+    {
+      "domain": "thailand-nightlife.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.32199999999999995
+    },
+    {
+      "domain": "www.allworld.com",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.siam2nite.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.379
+    },
+    {
+      "domain": "www.shutterstock.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.05
+    },
+    {
+      "domain": "www.istockphoto.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.637
+    },
+    {
+      "domain": "www.wavepattaya.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.392
+    },
+    {
+      "domain": "www.bestpricetravel.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.35700000000000004
+    },
+    {
+      "domain": "ae.trip.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "all.accor.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "walkingstreetpattayathailand.wordpress.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.holidaydeals.my",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "millennialduo.com",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.pattaya.love",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.sayhithailand.com",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "guide2thailand.com",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "walkingstreetpattaya.asia",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T21:29:50.865Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "eten in chiang rai",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "eten in chiang rai"
+  ],
+  "keywords": [
+    {
+      "keyword": "eten in chiang rai",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

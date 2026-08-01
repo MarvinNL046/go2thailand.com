@@ -1,0 +1,129 @@
+{
+  "captured_at": "2026-07-27T20:13:25.351Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "cost of 2 weeks in thailand",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01344,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "cost of 2 weeks in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "cost of 2 weeks in thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand trip cost for 7 days",
+      "volume": 50,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is 1000 enough for 2 weeks in thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much money to take to thailand for 10 days",
+      "volume": 20,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4 days thailand tour package price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 days thailand tour package price from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheapest thailand tour package",
+      "volume": 10,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tour package 3 days 2 nights",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tour package 4 days 3 nights price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand trip cost for 3 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand trip cost for 7 days from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand trip cost for 7 days with flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

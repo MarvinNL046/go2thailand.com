@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "wat-arun-bangkok-temple-of-dawn-guide",
+  "route": "/nl/blog/wat-arun-bangkok-temple-of-dawn-guide/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Wat Arun bezoeken | Go2Thailand",
+    "description": "Plan de oversteek, respectvolle kleding en veilige trappen zonder een vaste zonsondergangbelofte.",
+    "primaryKeyword": "wat arun bangkok",
+    "secondaryKeywords": [
+      "wat arun bangkok bezoeken",
+      "wat arun bangkok tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/wat-arun-bangkok-temple-of-dawn-guide/"
+  },
+  "hero": {
+    "eyebrow": "Bangkok met context",
+    "title": "Wat Arun bezoeken",
+    "accent": "Tempel aan de rivier",
+    "description": "Plan de oversteek, respectvolle kleding en veilige trappen zonder een vaste zonsondergangbelofte.",
+    "image": "/images/redesign/editorial/wat-arun-bangkok-temple-of-dawn-guide-hero.webp",
+    "imageAlt": "Porseleinen centrale prang van Wat Arun aan de Chao Phraya in Bangkok",
+    "primaryCta": {
+      "label": "Plan je bezoek",
+      "href": "#keuzes"
+    },
+    "secondaryCta": {
+      "label": "Actuele checks",
+      "href": "#actueel"
+    }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "learn",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Wat Arun combineert logisch met de rivier en Wat Pho. Controleer toegang en ferry actueel, draag bedekkende kleding en neem steile treden serieus.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "keuzes",
+      "eyebrow": "Routekeuze",
+      "title": "Drie ankers voor je bezoek",
+      "cards": [
+        {
+          "title": "Steek de rivier over",
+          "description": "Maak vooraf één duidelijke keuze en laat actuele informatie leidend zijn.",
+          "label": "Stap 1"
+        },
+        {
+          "title": "Bekijk de prang",
+          "description": "Bouw rust en respect in; een volle checklist maakt de ervaring niet beter.",
+          "label": "Stap 2"
+        },
+        {
+          "title": "Respecteer de tempel",
+          "description": "Koppel alleen een logisch vervolg en vermijd onnodig heen-en-weer reizen.",
+          "label": "Stap 3"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "actueel",
+      "title": "Controleer vlak voor vertrek",
+      "items": [
+        "Officiële opening of locatie op de bezoekdag",
+        "Kleding, toegang en lokale gedragsregels",
+        "Heen- en terugroute met voldoende marge",
+        "Weer, hitte en persoonlijke belastbaarheid"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Wat Arun bezoeken",
+      "items": [
+        {
+          "question": "Hoe plan je Wat Arun bezoeken het best?",
+          "answer": "Kies één hoofddoel, controleer officiële bezoekersinformatie en combineer alleen locaties die geografisch logisch bij elkaar liggen."
+        },
+        {
+          "question": "Welke informatie moet je opnieuw controleren?",
+          "answer": "Opening, toegang, vervoer en tijdelijke maatregelen kunnen wijzigen. De gelinkte primaire bron blijft leidend."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire bron voor actuele details",
+      "items": [
+        {
+          "title": "Wat Arun",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Promotions/65/wat-arun-or-temple-of-dawn-is-located-along-with-chao-phraya-river",
+          "checkedAt": "2026-08-01",
+          "note": "Owner- en actualiteitscontrole voor deze route."
+        }
+      ]
+    }
+  ]
+}

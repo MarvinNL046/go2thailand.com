@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand hotel investment", "foreign investment Thailand", "hotel deals 2026", "Bangkok hotels", "Phuket hotels", "Thailand tourism economy"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/foreign-investors-buying-thai-hotels-12-billion-baht-2026-hero.webp"
 description: "Foreign hotel investment in Thailand is on track to exceed 12 billion baht in 2026, with buyers targeting Bangkok, Phuket and Koh Samui properties."
 featured: false
 readingTime: 3
@@ -46,4 +46,4 @@ Three factors are converging to make Thai hotels attractive to foreign capital r
 
 More investment generally translates to better facilities. As older hotels get upgraded and rebranded under international flags, visitors to Thailand's busiest destinations can expect **higher service standards and more accommodation choices** across all price segments in the coming years. Competition among operators is also likely to keep room rates in check, even as the overall quality of the hotel stock improves. Travelers can already see this trend in action at recently renovated properties like the [Anantara Siam Bangkok after its 50-million-baht renovation](/blog/anantara-siam-bangkok-50-million-renovation-garden-suites-2026/).
 
-On the demand side, [FETTA's proposed 14-billion-baht tourism relief package](/blog/fetta-14-billion-baht-relief-package-thailand-tourism-2026/) aims to keep traveler numbers high — which in turn underpins the investor confidence driving these hotel deals. For anyone planning a visit, our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [best places to visit in Thailand](/best-places-to-visit-thailand/) are good places to start. Budget-conscious travelers can also check [how much two weeks in Thailand costs in 2026](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+On the demand side, [FETTA's proposed 14-billion-baht tourism relief package](/blog/fetta-14-billion-baht-relief-package-thailand-tourism-2026/) aims to keep traveler numbers high — which in turn underpins the investor confidence driving these hotel deals. For anyone planning a visit, our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [best places to visit in Thailand](/best-places-to-visit-thailand/) are good places to start. Budget-conscious travelers can also check [how much two weeks in Thailand costs in 2026](/thailand-index/budget/).

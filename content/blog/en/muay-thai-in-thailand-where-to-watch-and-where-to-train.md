@@ -29,7 +29,7 @@ Imagine the thunderous roar of a packed stadium as two fighters clash in a ritua
 |----------|--------|
 | **What is the best time to visit?** | November to February for **Muay Thai** fights, when cooler weather (20-30°C) makes outdoor stadiums comfortable; avoid peak rainy season (May-October) for training camps due to slippery rings. |
 | **How much does it cost?** | Watching fights: 1,000-3,000 THB ($30-90 USD) for ringside seats; training: 500-2,000 THB ($15-60 USD) per session, with camps starting at 10,000 THB ($300 USD) weekly. Prices vary by location. |
-| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/destinations/bangkok/) for central stadiums via [Flights To Bangkok](https://go2-thailand.com/flights-to-bangkok/); use [Transport](https://go2-thailand.com/transport/) options like buses or trains to Chiang Mai or Phuket. |
+| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) for central stadiums via [Flights To Bangkok](https://go2-thailand.com/flights-to-bangkok/); use [Transport](https://go2-thailand.com/transport/) options like buses or trains to Chiang Mai or Phuket. |
 | **Is it safe?** | Generally safe for spectators and trainees, but fights can be intense—stick to reputable venues; training risks minor injuries, so choose certified camps with medical support. Thailand's overall safety is high for tourists. |
 | **What should I book in advance?** | Prime fight tickets at Rajadamnern or Lumpinee Stadiums, especially weekends; training sessions at popular camps like those in Phuket during high season. |
 | **Best for beginners?** | Chiang Mai camps offer gentle intros with English instructors; start with 1-2 hour sessions to build fitness without overwhelm. |
@@ -37,15 +37,15 @@ Imagine the thunderous roar of a packed stadium as two fighters clash in a ritua
 
 ## 1. Understanding Muay Thai: Thailand's Art of Eight Limbs
 
-**Muay Thai** stands as more than a combat sport—it's a revered tradition woven into Thailand's cultural fabric, often called the "art of eight limbs" for its use of fists, elbows, knees, and shins. Originating from ancient Siamese warriors, it embodies discipline, respect, and raw power, drawing crowds to stadiums across the country. Our team has spent countless hours ringside, witnessing how this martial art bridges history and modern entertainment.
+**Muay Thai** stands as more than a combat sport—it's a revered tradition woven into Thailand's cultural fabric, often called the "art of eight limbs" for its use of fists, elbows, knees, and shins. Originating from ancient Siamese warriors, it embodies discipline, respect, and raw power, drawing crowds to stadiums across the country.
 
-During our research trips, we've seen **Muay Thai** evolve from battlefield technique to global phenomenon, yet it remains deeply Thai at its core. Whether you're a spectator or aspiring fighter, understanding its rituals—like the pre-fight Wai Kru dance—enhances every [experience](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog).
+Whether you're a spectator or aspiring fighter, understanding its rituals—like the pre-fight Wai Kru dance—enhances every [experience](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog).
 
 ### The Rituals and Rules of Muay Thai
 
 The Wai Kru ceremony, a rhythmic dance honoring teachers and spirits, sets the tone before each bout, lasting 5-10 minutes and showcasing the fighter's grace. Matches follow strict rules under the World Muay Thai Council, with rounds typically three minutes each for professionals, emphasizing technique over brute force.
 
-In our experience exploring venues in [Bangkok travel guide](https://go2-thailand.com/city/bangkok/), we've noted how referees enforce safety, pausing for low blows or clinches. This blend of tradition and regulation makes **Muay Thai** accessible yet intense.
+This blend of tradition and regulation makes **Muay Thai** accessible yet intense.
 
 ### Why Muay Thai Captivates Travelers
 
@@ -55,28 +55,12 @@ Travelers flock to **Muay Thai** for its adrenaline rush and cultural immersion,
 >
 > *Source: [Tourism Authority of Thailand](https://www.tatnews.org/2023/04/muay-thai-the-art-of-eight-limbs/)*
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 2. Iconic Stadiums in Bangkok: Premier Spots to Watch Fights
 
 Bangkok pulses with **Muay Thai** energy, home to legendary stadiums where the sport's elite clash under bright lights. As Thailand's capital, it hosts nightly bouts that blend spectacle with authenticity, perfect for first-timers. Our team recommends starting here for the electric atmosphere.
 
-When we visited during a crisp November evening, the city's stadiums felt like living history books, with crowds chanting in unison. These venues offer everything from budget seats to VIP experiences, ensuring an unforgettable night.
+These venues offer everything from budget seats to VIP experiences, ensuring an unforgettable night.
 
 ### Rajadamnern Stadium: The Historic Heart
 
@@ -92,7 +76,6 @@ Now in a sleek new location since 2020, Lumpinee runs Tuesday, Friday, and Satur
 - **Atmosphere Boost:** Arrive early for warm-up sessions and street food nearby.
 - **Accessibility:** Just 10 minutes from [Siam](https://go2-thailand.com/areas/bangkok/siam/) BTS station.
 
-Our team found Lumpinee's modern setup ideal for photos, though it lacks Rajadamnern's vintage charm.
 
 | Option | Best For | Cost | Rating |
 |--------|----------|------|--------|
@@ -102,7 +85,7 @@ Our team found Lumpinee's modern setup ideal for photos, though it lacks Rajadam
 
 ## 3. Muay Thai Beyond Bangkok: Regional Hotspots
 
-While Bangkok dominates, **Muay Thai** thrives nationwide, from northern hills to southern beaches, offering diverse vibes. Regional stadiums provide intimate settings away from capital crowds. Based on our multi-city research, these spots reveal the sport's grassroots appeal.
+While Bangkok dominates, **Muay Thai** thrives nationwide, from northern hills to southern beaches, offering diverse vibes. Regional stadiums provide intimate settings away from capital crowds.
 
 In Chiang Mai's cooler climate, we observed how local fights foster community spirit, contrasting Bangkok's commercial edge.
 
@@ -110,7 +93,7 @@ In Chiang Mai's cooler climate, we observed how local fights foster community sp
 
 [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) features venues like Thapae Boxing Stadium, with weekly bouts starting at 800 THB entry. It's less touristy, emphasizing local talent.
 
-Pros: Affordable and relaxed; cons: Fewer English announcements. During our time in the north, the mountain backdrop added magic to evening events.
+Pros: Affordable and relaxed; cons: Fewer English announcements.
 
 ### Phuket's Beachside Battles
 
@@ -126,22 +109,6 @@ Our Phuket visits highlighted the island's fusion of sport and leisure.
 >
 > *Source: [Lonely Planet Thailand](https://www.lonelyplanet.com/thailand/phuket/sports-activities/muay-thai)*
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 4. Choosing a Training Camp: From Beginner to Pro
 
@@ -153,7 +120,7 @@ When we trained in Phuket's humid mornings, the endorphin rush rivaled any templ
 
 Chiang Mai's camps, like those near [Huay Kaew](https://go2-thailand.com/areas/chiang-mai/huay-kaew/), offer intro classes for 500 THB per hour, including basics like stance and light sparring. Sessions run 1-2 hours daily.
 
-Pros: Scenic settings and English support; cons: Hilly terrain may challenge fitness newbies. In our experience, the northern air made recovery easier post-session.
+Pros: Scenic settings and English support; cons: Hilly terrain may challenge fitness newbies.
 
 ### Intensive Programs in Phuket and Beyond
 
@@ -163,24 +130,6 @@ Phuket camps provide week-long packages from 10,000 THB, with twice-daily traini
 - **Injury Prevention:** All include physio access.
 - **Group Sizes:** Small classes (5-10 people) for personalized coaching.
 
-Phuket's southern heat tests endurance, as we discovered during a grueling camp stay.
-
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 5. What to Expect During a Muay Thai Training Session
 
@@ -242,7 +191,6 @@ Pros: Transformative workouts; cons: Soreness and time-intensive. We advise star
 
 Engaging with **Muay Thai** requires respect for its traditions and personal limits. Safety starts with reputable venues; etiquette involves quiet observation and modest dress. Our on-ground audits reveal pitfalls like ignoring heat exhaustion.
 
-During a sweltering Phuket afternoon, we learned to hydrate religiously—lessons from the ring apply to life.
 
 ### Essential Safety Tips
 
@@ -262,22 +210,6 @@ In our Bangkok experiences, blending in with locals enhanced enjoyment.
 >
 > *Source: [Muay Thai Authority](https://www.muaythaiauthority.com/history-of-muay-thai/)*
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 8. Integrating Muay Thai into Your Thailand Itinerary
 
@@ -366,5 +298,5 @@ Yes, especially in peak season—popular Phuket camps fill weeks ahead. Use onli
 ### Are there Muay Thai experiences for non-fighters?
 Spectator packages include guided stadium tours or demo classes without full training. In Bangkok, combine with [Attractions travel guide](https://go2-thailand.com/city/bangkok/attractions/) for a full day. Costs start at 1,500 THB for combos.
 
-In wrapping up, **Muay Thai** in Thailand delivers pulse-pounding action whether you're cheering from the stands or throwing your first punch— from Bangkok's historic rings to Chiang Mai's serene camps, it's an essential experience. Plan your session today via our [activities](https://go2-thailand.com/category/activities) section or [Thailand Travel Guide](https://go2-thailand.com/thailand-travel-guide/) for seamless integration. As the Go2Thailand Team, we've vetted these spots through rigorous research to ensure your adventure is safe, authentic, and unforgettable.
+Muay Thai in Thailand can mean watching a stadium bout or joining a beginner class. Compare those options in our [Thailand activities guide](/activities/) and fit the session into your wider [Thailand travel plan](/thailand-travel-guide/) before booking.
 ---

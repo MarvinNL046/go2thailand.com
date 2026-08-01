@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "accommodation"
 tags: ["Phi Phi Islands", "luxury resort", "eco resort Thailand", "Outrigger", "sustainable travel", "Krabi province", "island resort 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/outrigger-phi-phi-island-resort-barefoot-luxury-2026-hero.webp"
 description: "The Outrigger Phi Phi Island Resort reopens in May 2026 with 63 suites, eco-friendly design and a PADI dive centre on Thailand's iconic Phi Phi Island."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 ## A New Luxury Chapter for Phi Phi Island
 
-Phi Phi Island is about to gain a fresh luxury address. The Outrigger Phi Phi Island Resort, a reimagined version of the former Zeavola Resort, is scheduled to open its doors in May 2026 on the northern tip of Phi Phi Don. The property is accessible only by boat, keeping the arrival experience as remote and dramatic as the island itself. For a broader introduction to the archipelago, see our guide to the [Phi Phi Islands](/city/phuket/attractions/phi-phi-islands/).
+Phi Phi Island is about to gain a fresh luxury address. The Outrigger Phi Phi Island Resort, a reimagined version of the former Zeavola Resort, is scheduled to open its doors in May 2026 on the northern tip of Phi Phi Don. The property is accessible only by boat, keeping the arrival experience as remote and dramatic as the island itself. For a broader introduction to the archipelago, see our guide to the [Phi Phi Islands](/city/phuket/attractions/).
 
 Outrigger Hospitality Group announced the project in late 2025, positioning the resort as a "barefoot-luxury" retreat that blends contemporary comforts with Thai culture and eco-conscious design. It joins a strong lineup of [new luxury hotels opening across Thailand in 2026](/blog/thailand-hotel-boom-2026-record-pipeline-bangkok-luxury/).
 
@@ -47,7 +47,7 @@ Guests arriving by longtail boat are welcomed with a traditional *RubKwan* cerem
 - **Zeavola Spa** — wellness rituals inspired by the Southern Thai expression *Ayu Man Kwan Yeun* (A Blessing for Life), focusing on balance and renewal.
 - **PADI Dive Center** — expert-led scuba diving, snorkelling trips and eco-conscious [island-hopping excursions](/blog/thailand-island-hopping-guide/) around the Phi Phi archipelago. The surrounding waters rank among the [best diving and snorkelling spots in Thailand](/best-diving-snorkeling-in-thailand/), and a [liveaboard trip to the Similan Islands](/blog/thailand-liveaboard-diving-guide-similan-surin-2026/) is a popular extension for serious divers.
 
-A kids' retreat and teen zone round out the offering for families — more ideas for family travel across the country can be found in our [Thailand with kids guide](/thailand-with-kids-family-travel-guide/) — while non-motorised water sports keep the beach peaceful and fuel-free.
+A kids' retreat and teen zone round out the offering for families — more ideas for family travel across the country can be found in our [Thailand with kids guide](/blog/thailand-with-kids-family-travel-guide/) — while non-motorised water sports keep the beach peaceful and fuel-free.
 
 ## Sustainability at Its Core
 
@@ -57,7 +57,7 @@ Outrigger has committed to eco-friendly operations at the resort, incorporating 
 
 - **Location:** Northern tip of Phi Phi Don, [Krabi Province](/city/krabi/)
 - **Opening:** May 2026
-- **Access:** Boat transfer from [Phuket](/city/phuket/) (approximately 90 minutes) or [Krabi](/destinations/krabi/) — see [Bangkok to Krabi transport options](/transport/bangkok-to-krabi/) and [Phuket to Krabi connections](/transport/phuket-to-krabi/)
+- **Access:** Boat transfer from [Phuket](/city/phuket/) (approximately 90 minutes) or [Krabi](/city/krabi/) — see [Bangkok to Krabi transport options](/transport/bangkok-to-krabi/) and [Phuket to Krabi connections](/transport/phuket-to-krabi/)
 - **Rooms:** 63 suites and villas
 - **Best for:** Couples, families and divers seeking a luxury island escape
 

@@ -1,0 +1,1828 @@
+{
+  "captured_at": "2026-07-27T19:09:29.119Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand rainy season",
+  "costs": {
+    "suggestions": 0.0288,
+    "related": 0.01524,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand rainy season",
+    "rainy season in thailand",
+    "rainy season for thailand",
+    "rainy season of thailand",
+    "rainy season thailand",
+    "when is thailand rainy season",
+    "when is rainy season in thailand",
+    "when rainy season thailand",
+    "when thailand rainy season",
+    "phuket thailand rainy season",
+    "rainy season in thailand phuket",
+    "rainy season phuket thailand",
+    "rainy season thailand phuket",
+    "thailand phuket rainy season",
+    "thailand rainy season phuket",
+    "rainy season in koh samui thailand",
+    "rainy season thailand koh samui",
+    "rainy season bangkok thailand",
+    "thailand rainy season 2026"
+  ],
+  "keywords": [
+    {
+      "keyword": "holidays to phuket",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season in thailand",
+      "volume": 4400,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season",
+      "volume": 4400,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season for thailand",
+      "volume": 2900,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season of thailand",
+      "volume": 2900,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand",
+      "volume": 2900,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is thailand rainy season",
+      "volume": 2400,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to go to thailand phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "when is rainy season in thailand",
+      "volume": 1900,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when rainy season thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when thailand rainy season",
+      "volume": 1900,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand rainy season",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month",
+      "volume": 720,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season in thailand phuket",
+      "volume": 720,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season phuket thailand",
+      "volume": 720,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand phuket",
+      "volume": 720,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand phuket rainy season",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season phuket",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok weather by month",
+      "volume": 590,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather by month",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit thailand",
+      "volume": 480,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season in koh samui thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand koh samui",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season bangkok thailand",
+      "volume": 320,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2026",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2025",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is rainy season in phuket thailand",
+      "volume": 110,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it rainy season in thailand",
+      "volume": 90,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when does rainy season end in thailand",
+      "volume": 90,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in krabi thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is rainy season in thailand",
+      "volume": 70,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is the rainy season in thailand",
+      "volume": 70,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when does rainy season start in thailand",
+      "volume": 70,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when does the rainy season start in thailand",
+      "volume": 70,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "worst time to visit malaysia",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season in pattaya thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season pattaya thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season months",
+      "volume": 50,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand 2025",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand 2026",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket and krabi",
+      "volume": 30,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is may rainy season in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is november rainy season in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is october rainy season in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is september rainy season in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is april rainy season in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is august rainy season in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is july rainy season in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is june rainy season in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is march a good time to visit phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand rainy season",
+      "volume": 20,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather 30 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rain in phuket by month",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season in thailand 2026",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season krabi thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "south thailand rainy season",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when does thailand rainy season end",
+      "volume": 20,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is rainy season in thailand phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when rainy season in thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand rainy season",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best places to visit in thailand during rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best shoes for thailand rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket august",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket october",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket september",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "does thailand have a rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "end of rainy season thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how bad is rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how bad is the rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long is rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long is thailand rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long is the rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is december rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it rainy season in thailand in november",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it rainy season in thailand in september",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it rainy season in thailand now",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is january rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is rainy season in thailand bad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "north thailand rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month october",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month rainfall",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season gulf of thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in bangkok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in chiang mai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in south thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in southern thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in thailand 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in thailand 2024",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in thailand bangkok",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in thailand what months",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in thailand which month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season in vietnam and thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season northern thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season south thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand 2025 dates",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand bangkok",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand islands",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand months",
+      "volume": 10,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand november",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "southern thailand rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand during rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2017",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2022",
+      "volume": 10,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2024",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2025 winter",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2026 predictions",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2027",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season by region",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season packing list",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season temperature",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season weather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the rainy season in thailand",
+      "volume": 10,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visiting thailand during rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visiting thailand in rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is rainy season like in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what month is rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what months are rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what months are the rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in thailand during rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to wear in thailand during rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to wear in thailand rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what's rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when does thailand rainy season start",
+      "volume": 10,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is peak rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is rainy season in bangkok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is rainy season in krabi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is rainy season in thailand bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is rainy season in thailand koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "when is thailand rainy season 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the rainy season in thailand 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when rainy season starts in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to go in thailand during rainy season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "which month is rainy season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "worst time to visit bangkok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season in thailand 2023",
+      "volume": 0,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand 2023",
+      "volume": 0,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand 2024",
+      "volume": 0,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2018",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2020",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2021",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season 2023",
+      "volume": 0,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the rainy season in thailand 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the rainy season in thailand 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "backpacking thailand rainy season",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beach thailand rainy season",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beaches in thailand during rainy season",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best places in thailand during rainy season",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is it worth going to thailand in rainy season",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand 2020",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand 2021",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel to thailand during rainy season",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to go thailand rainy season",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 3.3636363636363638,
+      "keywordCount": 11,
+      "visibility": 8.4,
+      "estimatedTraffic": 4068.955
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 4.181818181818182,
+      "keywordCount": 11,
+      "visibility": 7.499999999999999,
+      "estimatedTraffic": 1201.7079999999999
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 11.7,
+      "keywordCount": 10,
+      "visibility": 4.4,
+      "estimatedTraffic": 404.86800000000005
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 20.272727272727273,
+      "keywordCount": 11,
+      "visibility": 2.4499999999999997,
+      "estimatedTraffic": 321.48599999999993
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 20.90909090909091,
+      "keywordCount": 11,
+      "visibility": 1.05,
+      "estimatedTraffic": 125.46300000000001
+    },
+    {
+      "domain": "freedomdestinations.co.uk",
+      "avgPosition": 10,
+      "keywordCount": 9,
+      "visibility": 4.4,
+      "estimatedTraffic": 988.7850000000001
+    },
+    {
+      "domain": "www.selectiveasia.com",
+      "avgPosition": 10.444444444444445,
+      "keywordCount": 9,
+      "visibility": 4.499999999999999,
+      "estimatedTraffic": 1917.7400000000002
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 28.545454545454547,
+      "keywordCount": 11,
+      "visibility": 0.3,
+      "estimatedTraffic": 50.51599999999999
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 16,
+      "keywordCount": 9,
+      "visibility": 0.35,
+      "estimatedTraffic": 91.856
+    },
+    {
+      "domain": "www.adventure-life.com",
+      "avgPosition": 10.75,
+      "keywordCount": 8,
+      "visibility": 1.65,
+      "estimatedTraffic": 189.23
+    },
+    {
+      "domain": "www.gadventures.com",
+      "avgPosition": 21.555555555555557,
+      "keywordCount": 9,
+      "visibility": 0.35,
+      "estimatedTraffic": 65.64400000000002
+    },
+    {
+      "domain": "www.bambootravel.co.uk",
+      "avgPosition": 6.285714285714286,
+      "keywordCount": 7,
+      "visibility": 3.3,
+      "estimatedTraffic": 498.37200000000007
+    },
+    {
+      "domain": "www.climatestotravel.com",
+      "avgPosition": 28.11111111111111,
+      "keywordCount": 9,
+      "visibility": 0.5,
+      "estimatedTraffic": 51.216
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 11.857142857142858,
+      "keywordCount": 7,
+      "visibility": 1.8,
+      "estimatedTraffic": 280.72799999999995
+    },
+    {
+      "domain": "seasonsyear.com",
+      "avgPosition": 27.5,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 32.518
+    },
+    {
+      "domain": "www.thailandhighlights.com",
+      "avgPosition": 36.111111111111114,
+      "keywordCount": 9,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 33.26
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 35.375,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 30.828
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 18.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 62.756
+    },
+    {
+      "domain": "www.intrepidtravel.com",
+      "avgPosition": 20,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 57.56399999999999
+    },
+    {
+      "domain": "www.responsibletravel.com",
+      "avgPosition": 20,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 40.956
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 9.6,
+      "keywordCount": 5,
+      "visibility": 3.3,
+      "estimatedTraffic": 1451.46
+    },
+    {
+      "domain": "www.experiencetravelgroup.com",
+      "avgPosition": 9.8,
+      "keywordCount": 5,
+      "visibility": 0.6,
+      "estimatedTraffic": 159.57999999999998
+    },
+    {
+      "domain": "www.bestpricetravel.com",
+      "avgPosition": 35.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 31.727999999999994
+    },
+    {
+      "domain": "www.indietraveller.co",
+      "avgPosition": 30.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 31.662
+    },
+    {
+      "domain": "www1.ldd.go.th",
+      "avgPosition": 36.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 37.343999999999994
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 24.2,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.685
+    },
+    {
+      "domain": "lubd.com",
+      "avgPosition": 8,
+      "keywordCount": 4,
+      "visibility": 1.2,
+      "estimatedTraffic": 212
+    },
+    {
+      "domain": "www.tourcompass.co.uk",
+      "avgPosition": 26.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 23.134000000000004
+    },
+    {
+      "domain": "www.inthailand.travel",
+      "avgPosition": 39.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 29.022
+    },
+    {
+      "domain": "www.thekohsamuiguide.com",
+      "avgPosition": 10.5,
+      "keywordCount": 4,
+      "visibility": 1.85,
+      "estimatedTraffic": 151.672
+    },
+    {
+      "domain": "www.pacificprime.co.th",
+      "avgPosition": 41,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 36.522
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 41.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 29.022
+    },
+    {
+      "domain": "www.audleytravel.com",
+      "avgPosition": 42.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 28.644
+    },
+    {
+      "domain": "asoulwindow.com",
+      "avgPosition": 32,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 28.349999999999998
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 32.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 10.605
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 45.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 32.501999999999995
+    },
+    {
+      "domain": "www.odynovotours.com",
+      "avgPosition": 19,
+      "keywordCount": 4,
+      "visibility": 0.6,
+      "estimatedTraffic": 26.766
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 24.5,
+      "keywordCount": 4,
+      "visibility": 1.1,
+      "estimatedTraffic": 40.503
+    },
+    {
+      "domain": "www.101holidays.co.uk",
+      "avgPosition": 25,
+      "keywordCount": 4,
+      "visibility": 0.7,
+      "estimatedTraffic": 22.246000000000002
+    },
+    {
+      "domain": "northabroad.com",
+      "avgPosition": 40.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 28.349999999999998
+    },
+    {
+      "domain": "face.meei.harvard.edu",
+      "avgPosition": 42,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 22.932
+    },
+    {
+      "domain": "www.tripcrafters.com",
+      "avgPosition": 29.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 9.033000000000001
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 7,
+      "keywordCount": 3,
+      "visibility": 1.25,
+      "estimatedTraffic": 196.61100000000002
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 7.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.85,
+      "estimatedTraffic": 238.41
+    },
+    {
+      "domain": "maya.net",
+      "avgPosition": 31.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 19.11
+    },
+    {
+      "domain": "tripwis.com",
+      "avgPosition": 8.333333333333334,
+      "keywordCount": 3,
+      "visibility": 1.1,
+      "estimatedTraffic": 74.81
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 34.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.730999999999999
+    },
+    {
+      "domain": "www.tourismthailand.my",
+      "avgPosition": 35.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 19.11
+    },
+    {
+      "domain": "www.itsjustlight.com",
+      "avgPosition": 36,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 20.282
+    },
+    {
+      "domain": "www.thomascook.in",
+      "avgPosition": 14.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 10.488
+    }
+  ]
+}

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["floating markets Bangkok", "Damnoen Saduak 2026", "Amphawa floating market", "Bangkok day trips", "Thai street food", "Thailand markets"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-floating-markets-guide-damnoen-amphawa-2026-hero.webp"
 description: "A practical guide to the best floating markets near Bangkok in 2026, including Damnoen Saduak, Amphawa, and lesser-known alternatives with eco-friendly updates."
 featured: false
 readingTime: 3
@@ -30,15 +30,15 @@ Floating markets have been part of Thai life since the canal networks of the [Ay
 
 ## Damnoen Saduak: The Famous One
 
-Located about 100 kilometres southwest of Bangkok in Ratchaburi province, Damnoen Saduak is the floating market most visitors picture when they think of [Thailand](/blog/thailand-itinerary-first-timers/). Established during the reign of King Rama IV in the 19th century, it remains a colourful and photogenic spectacle, with dozens of wooden boats selling tropical fruits, [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), coconut ice cream, and souvenirs.
+Located about 100 kilometres southwest of Bangkok in Ratchaburi province, Damnoen Saduak is the floating market most visitors picture when they think of [Thailand](/blog/thailand-itinerary-first-timers/). Established during the reign of King Rama IV in the 19th century, it remains a colourful and photogenic spectacle, with dozens of wooden boats selling tropical fruits, [pad thai](/food/pad-thai/), coconut ice cream, and souvenirs.
 
-The key tip is to arrive early. The market is at its best between 6:00 and 9:00 AM, before the tour buses arrive. Entrance to the market area is free, but a boat ride costs between 300 and 600 baht depending on duration and route. For context on what things cost across Bangkok, see our [Bangkok budget guide](/blog/thailand-budget-2026-daily-costs/). By mid-morning, the narrow canals become congested with tourist boats, so an early start makes a real difference.
+The key tip is to arrive early. The market is at its best between 6:00 and 9:00 AM, before the tour buses arrive. Entrance to the market area is free, but a boat ride costs between 300 and 600 baht depending on duration and route. For context on what things cost across Bangkok, see our [Bangkok budget guide](/thailand-index/budget/). By mid-morning, the narrow canals become congested with tourist boats, so an early start makes a real difference.
 
 ## Amphawa: The Local Favourite
 
 Just 90 kilometres from Bangkok, Amphawa is widely considered the more authentic alternative. It operates mainly in the late afternoon and evening, which means you can combine it with a morning visit to Damnoen Saduak on the same [day trip](/blog/best-day-trips-from-bangkok/).
 
-Amphawa is popular with Thai families rather than foreign tour groups — it also features in our roundup of the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/). The food is the main draw: grilled river prawns, boat noodles, [mango sticky rice](/blog/mango-sticky-rice-season-thailand/), and Thai-style crepes sold directly from canal-side vendors. After dark, longtail boats offer firefly-watching trips along the Mae Klong River — a unique experience that is hard to find elsewhere near Bangkok. For more unusual night-time options, see our guide to the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/).
+Amphawa is popular with Thai families rather than foreign tour groups — it also features in our roundup of the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/). The food is the main draw: grilled river prawns, boat noodles, [mango sticky rice](/food/mango-sticky-rice/), and Thai-style crepes sold directly from canal-side vendors. After dark, longtail boats offer firefly-watching trips along the Mae Klong River — a unique experience that is hard to find elsewhere near Bangkok. For more unusual night-time options, see our guide to the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/).
 
 ## Lesser-Known Alternatives
 
@@ -52,6 +52,6 @@ Several floating markets have reduced single-use plastic in 2026. Vendors increa
 
 ## Practical Tips
 
-The floating market season runs year-round, but the [cool dry season](/blog/best-time-to-visit-thailand/) from November through April offers the most comfortable conditions. Wear a hat and sunscreen, bring small bills for boat-side purchases, and leave large bags at your hotel. Most markets are cash-only, though some canal-side shops in Amphawa now accept QR code payments via Thai banking apps. If you are planning multiple market visits, pick up a [local SIM card or eSIM](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) before you go so mobile payments work seamlessly.
+The floating market season runs year-round, but the [cool dry season](/blog/best-time-to-visit-thailand/) from November through April offers the most comfortable conditions. Wear a hat and sunscreen, bring small bills for boat-side purchases, and leave large bags at your hotel. Most markets are cash-only, though some canal-side shops in Amphawa now accept QR code payments via Thai banking apps. If you are planning multiple market visits, pick up a [local SIM card or eSIM](/travel-guides/sim-card-thailand/) before you go so mobile payments work seamlessly.
 
-If you want to explore more of Bangkok's food scene beyond floating markets, the [Banthat Thong Road food street](/blog/banthat-thong-road-bangkok-food-street-guide-2026/) and [Jodd Fairs night market](/blog/jodd-fairs-bangkok-night-market-guide/) are both excellent follow-ups. For first-timers nervous about [street food](/blog/bangkok-street-food-beginners/), our beginner's guide covers everything you need to know. You can also deepen your skills with a [cooking class and market tour](/blog/best-cooking-classes-bangkok-market-tour-2026/), or discover the [Tha Kha floating market](/blog/tha-kha-floating-market-samut-songkhram-hidden-gem-2026/) in Samut Songkhram as a quieter alternative to Damnoen Saduak.
+If you want to explore more of Bangkok's food scene beyond floating markets, the [Banthat Thong Road food street](/blog/banthat-thong-road-bangkok-food-street-guide-2026/) and [Jodd Fairs night market](/blog/jodd-fairs-bangkok-night-market-guide/) are both excellent follow-ups. For first-timers nervous about [street food](/blog/best-street-food-markets-bangkok/), our beginner's guide covers everything you need to know. You can also deepen your skills with a [cooking class and market tour](/blog/best-cooking-classes-bangkok-market-tour-2026/), or discover the [Tha Kha floating market](/blog/tha-kha-floating-market-samut-songkhram-hidden-gem-2026/) in Samut Songkhram as a quieter alternative to Damnoen Saduak.

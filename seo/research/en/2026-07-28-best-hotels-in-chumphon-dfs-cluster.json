@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T15:24:34.765Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels in chumphon",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "best hotels in chumphon"
+  ],
+  "keywords": [
+    {
+      "keyword": "best hotels in chumphon",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

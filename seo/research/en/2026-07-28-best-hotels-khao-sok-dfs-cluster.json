@@ -1,0 +1,69 @@
+{
+  "captured_at": "2026-07-28T19:41:03.861Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels khao sok",
+  "costs": {
+    "suggestions": 0.01248,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "best hotels khao sok",
+    "best hotels in khao sok",
+    "best hotels in khao sok national park",
+    "best khao sok hotels",
+    "khao sok best hotels"
+  ],
+  "keywords": [
+    {
+      "keyword": "best hotels in khao sok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in khao sok national park",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best khao sok hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao sok best hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels khao sok",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

@@ -1,16 +1,17 @@
 ---
-title: "Thailand Travel Fair 2026: March 25-29 at QSNCC Bangkok"
+title: "Thailand Tourism Festival 2026 at QSNCC: Event Recap"
 slug: "thailand-travel-fair-2026-qsncc-bangkok"
 date: "2026-03-21"
 author:
   name: "Go2Thailand Team"
 category: "news"
-tags: ["thailand travel fair", "QSNCC", "bangkok events", "tourism", "travel deals"]
-image: "/images/blog/thailand-news-default.webp"
-description: "The Thailand Travel Fair 2026 runs March 25-29 at QSNCC Bangkok, featuring five regions, nine activity zones, cultural shows, and travel deals across Thailand."
+tags:
+  ["thailand travel fair", "QSNCC", "bangkok events", "tourism", "travel deals"]
+image: "/images/redesign/editorial/thailand-travel-fair-2026-qsncc-bangkok-hero.webp"
+description: "A recap of the 44th Thailand Tourism Festival, held March 25-29, 2026 at QSNCC Bangkok with five regions and nine activity zones."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Nation Thailand - Thailand Travel Fair 2026 to run from March 25-29 at QSNCC"
     url: "https://www.nationthailand.com/news/tourism/40064075"
@@ -20,7 +21,9 @@ sources:
     url: "https://www.pattayamail.com/thailandnews/join-the-44th-thailand-tourism-festival-2026-at-qsncc-bangkok-this-march-537446"
 ---
 
-Thailand's biggest domestic travel event is back. The **Thailand Travel Fair 2026** takes place from **March 25 to 29** at the Queen Sirikit National Convention Center (QSNCC) in Bangkok, running daily from 10:00 AM to 9:00 PM.
+> **Event status (updated 1 August 2026):** The 44th Thailand Tourism Festival ended on 29 March 2026. TAT's official archive confirms the dates and programme below; offers, vendors and opening hours do not carry over to a future edition.
+
+Thailand's largest domestic travel showcase, the **Thailand Tourism Festival 2026**, took place from **March 25 to 29** at the Queen Sirikit National Convention Center (QSNCC) in Bangkok, running daily from 10:00 AM to 9:00 PM.
 
 ## What to Expect
 
@@ -58,6 +61,6 @@ The fair is organized by region, making it easy to plan trips:
 - **Northern Thailand** featuring [Chiang Mai](/city/chiang-mai/), [Chiang Rai](/city/chiang-rai/), and mountain destinations
 - **Northeastern Thailand (Isan)** with cultural and culinary highlights
 - **Eastern Thailand** showcasing beach destinations like [Pattaya](/city/pattaya/) and [Koh Chang](/islands/koh-chang/)
-- **Southern Thailand** covering island paradises from [Phuket](/islands/phuket/) to [Koh Samui](/islands/koh-samui/)
+- **Southern Thailand** covering island paradises from [Phuket](/city/phuket/) to [Koh Samui](/islands/koh-samui/)
 
 Whether you are planning a weekend getaway or a longer domestic trip, the Thailand Travel Fair 2026 is the place to find inspiration and deals. With nine zones of activities spanning [food](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/), culture, and adventure, it is one of the most comprehensive travel events on the Thai calendar this year. Check the [official visitor guide](/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/) for tips on making the most of your visit, or browse [domestic itinerary ideas](/blog/thailand-7-days-itineraries/) if you want to book a trip straight after.

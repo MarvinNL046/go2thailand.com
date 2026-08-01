@@ -1,0 +1,575 @@
+{
+  "captured_at": "2026-07-27T14:50:23.772Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "destination thailand visa",
+  "costs": {
+    "suggestions": 0.01356,
+    "related": 0.01368,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "destination thailand visa",
+    "destination thailand visa application",
+    "destination thailand visa cost",
+    "destination thailand visa reddit",
+    "destination thailand visa requirements",
+    "destination thailand visa tax",
+    "destination thailand visa uk",
+    "destination travel visa thailand",
+    "destination visa thailand",
+    "thailand destination visa"
+  ],
+  "keywords": [
+    {
+      "keyword": "destination thailand visa",
+      "volume": 260,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand dtv visa requirements",
+      "volume": 90,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtv visa thailand uk",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "destination thailand dtv visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "destination thailand visa application",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "destination thailand visa cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "destination thailand visa muay thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "destination thailand visa reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "destination thailand visa requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "destination thailand visa tax",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "destination thailand visa uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "destination travel visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "destination visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dtv visa thailand soft power requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand destination visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand dtv visa application",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand dtv visa cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand dtv visa eligible countries",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand dtv visa income requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand dtv visa medical treatment",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vietnam vs thailand find your next destination visa",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "london.thaiembassy.org",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 79.03999999999999
+    },
+    {
+      "domain": "www.siam-legal.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 42.120000000000005
+    },
+    {
+      "domain": "www.thaievisa.go.th",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 25.298
+    },
+    {
+      "domain": "www.thaiembassy.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 17.134
+    },
+    {
+      "domain": "dtv.in.th",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 12.193999999999999
+    },
+    {
+      "domain": "image.mfa.go.th",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 8.787999999999998
+    },
+    {
+      "domain": "www.bdo.global",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 6.656000000000001
+    },
+    {
+      "domain": "www.fragomen.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 5.122
+    },
+    {
+      "domain": "www.thaiembassyjakarta.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.9379999999999997
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.366
+    },
+    {
+      "domain": "www.thingsnomadsdo.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.95
+    },
+    {
+      "domain": "visa.vfsglobal.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.534
+    },
+    {
+      "domain": "dtvthaivisa.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.456
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.326
+    },
+    {
+      "domain": "destinationthailand.co.uk",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.118
+    },
+    {
+      "domain": "traveldave.co.uk",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.7020000000000001
+    },
+    {
+      "domain": "thailand.acclime.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.624
+    },
+    {
+      "domain": "www.learn-thai-podcast.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5720000000000001
+    },
+    {
+      "domain": "aimbangkok.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.dtvvisathai.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "lottalingo.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "thailand-immigration.weebly.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "bangkokvisaservices.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "manimama.eu",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "svbl.co.th",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.buch-dein-visum.de",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "grey.co",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.knightvisahelppoint.com",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.linkedin.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "thethaiger.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "visaguide.world",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "thailand.themispartner.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "visafoto.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.thailawonline.com",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "blog.tours4fun.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.siamvisapro.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.cnbctv18.com",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.hellothailandvisa.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.visathai.com",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.deskcompliance.com",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "hackernoon.com",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "timesofindia.indiatimes.com",
+      "avgPosition": 55,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "offshoreinasia.com",
+      "avgPosition": 56,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "kreston-thailand.com",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "thailand.go.th",
+      "avgPosition": 58,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.expatden.com",
+      "avgPosition": 59,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.realthailandguide.com",
+      "avgPosition": 60,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.thaiembassy.fr",
+      "avgPosition": 61,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "remotenomads.org",
+      "avgPosition": 64,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.stampednomad.com",
+      "avgPosition": 67,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    }
+  ]
+}

@@ -1,0 +1,936 @@
+{
+  "captured_at": "2026-07-24T10:57:54.914Z",
+  "locale": "nl",
+  "url": "https://www.theguardian.com/environment/2026/jun/05/el-nino-asia-unpredictable-extreme-weather-climate-change-crisis",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Europe edition",
+          "url": "https://www.theguardian.com/preference/edition/eur",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/preference/edition/eur",
+              "anchor_text": "Europe edition"
+            }
+          ]
+        },
+        {
+          "text": "UK edition",
+          "url": "https://www.theguardian.com/preference/edition/uk",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/preference/edition/uk",
+              "anchor_text": "UK edition"
+            }
+          ]
+        },
+        {
+          "text": "US edition",
+          "url": "https://www.theguardian.com/preference/edition/us",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/preference/edition/us",
+              "anchor_text": "US edition"
+            }
+          ]
+        },
+        {
+          "text": "Australia edition",
+          "url": "https://www.theguardian.com/preference/edition/au",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/preference/edition/au",
+              "anchor_text": "Australia edition"
+            }
+          ]
+        },
+        {
+          "text": "International edition",
+          "url": "https://www.theguardian.com/preference/edition/int",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/preference/edition/int",
+              "anchor_text": "International edition"
+            }
+          ]
+        },
+        {
+          "text": "View all News",
+          "url": "https://www.theguardian.com/",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/",
+              "anchor_text": "View all News"
+            }
+          ]
+        },
+        {
+          "text": "World news",
+          "url": "https://www.theguardian.com/world",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/world",
+              "anchor_text": "World news"
+            }
+          ]
+        },
+        {
+          "text": "UK news",
+          "url": "https://www.theguardian.com/uk-news",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/uk-news",
+              "anchor_text": "UK news"
+            }
+          ]
+        },
+        {
+          "text": "Climate crisis",
+          "url": "https://www.theguardian.com/environment/climate-crisis",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/environment/climate-crisis",
+              "anchor_text": "Climate crisis"
+            }
+          ]
+        },
+        {
+          "text": "Global development",
+          "url": "https://www.theguardian.com/global-development",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/global-development",
+              "anchor_text": "Global development"
+            }
+          ]
+        },
+        {
+          "text": "View all Opinion",
+          "url": "https://www.theguardian.com/commentisfree",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/commentisfree",
+              "anchor_text": "View all Opinion"
+            }
+          ]
+        },
+        {
+          "text": "The Guardian view",
+          "url": "https://www.theguardian.com/profile/editorial",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/profile/editorial",
+              "anchor_text": "The Guardian view"
+            }
+          ]
+        },
+        {
+          "text": "Opinion videos",
+          "url": "https://www.theguardian.com/type/video+tone/comment",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/type/video+tone/comment",
+              "anchor_text": "Opinion videos"
+            }
+          ]
+        },
+        {
+          "text": "View all Sport",
+          "url": "https://www.theguardian.com/sport",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/sport",
+              "anchor_text": "View all Sport"
+            }
+          ]
+        },
+        {
+          "text": "Rugby union",
+          "url": "https://www.theguardian.com/sport/rugby-union",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/sport/rugby-union",
+              "anchor_text": "Rugby union"
+            }
+          ]
+        },
+        {
+          "text": "US sports",
+          "url": "https://www.theguardian.com/sport/us-sport",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/sport/us-sport",
+              "anchor_text": "US sports"
+            }
+          ]
+        },
+        {
+          "text": "View all Culture",
+          "url": "https://www.theguardian.com/culture",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/culture",
+              "anchor_text": "View all Culture"
+            }
+          ]
+        },
+        {
+          "text": "TV & radio",
+          "url": "https://www.theguardian.com/tv-and-radio",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/tv-and-radio",
+              "anchor_text": "TV & radio"
+            }
+          ]
+        },
+        {
+          "text": "Art & design",
+          "url": "https://www.theguardian.com/artanddesign",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/artanddesign",
+              "anchor_text": "Art & design"
+            }
+          ]
+        },
+        {
+          "text": "View all Lifestyle",
+          "url": "https://www.theguardian.com/lifeandstyle",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/lifeandstyle",
+              "anchor_text": "View all Lifestyle"
+            }
+          ]
+        },
+        {
+          "text": "Love & sex",
+          "url": "https://www.theguardian.com/lifeandstyle/love-and-sex",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/lifeandstyle/love-and-sex",
+              "anchor_text": "Love & sex"
+            }
+          ]
+        },
+        {
+          "text": "Health & fitness",
+          "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing",
+              "anchor_text": "Health & fitness"
+            }
+          ]
+        },
+        {
+          "text": "Home & garden",
+          "url": "https://www.theguardian.com/lifeandstyle/home-and-garden",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/lifeandstyle/home-and-garden",
+              "anchor_text": "Home & garden"
+            }
+          ]
+        },
+        {
+          "text": "Support us",
+          "url": "https://support.theguardian.com/?INTCMP=side_menu_support&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D",
+          "urls": [
+            {
+              "url": "https://support.theguardian.com/?INTCMP=side_menu_support&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D",
+              "anchor_text": "Support us"
+            }
+          ]
+        },
+        {
+          "text": "Print subscriptions",
+          "url": "https://support.theguardian.com/subscribe/weekly?REFPVID=undefined&INTCMP=undefined&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentId%22%3A%22PrintSubscriptionsHeaderLink%22%2C%22componentType%22%3A%22ACQUISITIONS_HEADER%22%2C%22referrerUrl%22%3A%22%22%7D",
+          "urls": [
+            {
+              "url": "https://support.theguardian.com/subscribe/weekly?REFPVID=undefined&INTCMP=undefined&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentId%22%3A%22PrintSubscriptionsHeaderLink%22%2C%22componentType%22%3A%22ACQUISITIONS_HEADER%22%2C%22referrerUrl%22%3A%22%22%7D",
+              "anchor_text": "Print subscriptions"
+            }
+          ]
+        },
+        {
+          "text": "Search jobs",
+          "url": "https://jobs.theguardian.com/",
+          "urls": [
+            {
+              "url": "https://jobs.theguardian.com/",
+              "anchor_text": "Search jobs"
+            }
+          ]
+        },
+        {
+          "text": "Digital Archive",
+          "url": "https://theguardian.newspapers.com/",
+          "urls": [
+            {
+              "url": "https://theguardian.newspapers.com/",
+              "anchor_text": "Digital Archive"
+            }
+          ]
+        },
+        {
+          "text": "Guardian Licensing",
+          "url": "https://licensing.theguardian.com/",
+          "urls": [
+            {
+              "url": "https://licensing.theguardian.com/",
+              "anchor_text": "Guardian Licensing"
+            }
+          ]
+        },
+        {
+          "text": "Live events",
+          "url": "https://www.theguardian.com/guardian-live-events?INTCMP=live_eur_header_dropdown",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/guardian-live-events?INTCMP=live_eur_header_dropdown",
+              "anchor_text": "Live events"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://www.theguardian.com/about",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/about",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "The Guardian app",
+          "url": "https://app.adjust.com/16xt6hai",
+          "urls": [
+            {
+              "url": "https://app.adjust.com/16xt6hai",
+              "anchor_text": "The Guardian app"
+            }
+          ]
+        },
+        {
+          "text": "Today's paper",
+          "url": "https://www.theguardian.com/theguardian",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/theguardian",
+              "anchor_text": "Today's paper"
+            }
+          ]
+        },
+        {
+          "text": "Inside the Guardian",
+          "url": "https://www.theguardian.com/insidetheguardian",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/insidetheguardian",
+              "anchor_text": "Inside the Guardian"
+            }
+          ]
+        },
+        {
+          "text": "Guardian Weekly",
+          "url": "https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_Int",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_Int",
+              "anchor_text": "Guardian Weekly"
+            }
+          ]
+        },
+        {
+          "text": "Search jobs",
+          "url": "https://jobs.theguardian.com/",
+          "urls": [
+            {
+              "url": "https://jobs.theguardian.com/",
+              "anchor_text": "Search jobs"
+            }
+          ]
+        },
+        {
+          "text": "Digital Archive",
+          "url": "https://theguardian.newspapers.com/",
+          "urls": [
+            {
+              "url": "https://theguardian.newspapers.com/",
+              "anchor_text": "Digital Archive"
+            }
+          ]
+        },
+        {
+          "text": "Guardian Licensing",
+          "url": "https://licensing.theguardian.com/",
+          "urls": [
+            {
+              "url": "https://licensing.theguardian.com/",
+              "anchor_text": "Guardian Licensing"
+            }
+          ]
+        },
+        {
+          "text": "Live events",
+          "url": "https://www.theguardian.com/guardian-live-events?INTCMP=live_eur_header_dropdown",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/guardian-live-events?INTCMP=live_eur_header_dropdown",
+              "anchor_text": "Live events"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://www.theguardian.com/about",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/about",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Climate crisis",
+          "url": "https://www.theguardian.com/environment/climate-crisis",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/environment/climate-crisis",
+              "anchor_text": "Climate crisis"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Original reporting and incisive analysis, direct from the Guardian every morning",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "About us",
+          "url": "https://www.theguardian.com/about",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/about",
+              "anchor_text": "About us"
+            }
+          ]
+        },
+        {
+          "text": "Complaints & corrections",
+          "url": "https://www.theguardian.com/info/complaints-and-corrections",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/info/complaints-and-corrections",
+              "anchor_text": "Complaints & corrections"
+            }
+          ]
+        },
+        {
+          "text": "Contact us",
+          "url": "https://www.theguardian.com/help/contact-us",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/help/contact-us",
+              "anchor_text": "Contact us"
+            }
+          ]
+        },
+        {
+          "text": "Tip us off",
+          "url": "https://www.theguardian.com/tips",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/tips",
+              "anchor_text": "Tip us off"
+            }
+          ]
+        },
+        {
+          "text": "Privacy policy",
+          "url": "https://www.theguardian.com/info/privacy",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/info/privacy",
+              "anchor_text": "Privacy policy"
+            }
+          ]
+        },
+        {
+          "text": "Cookie policy",
+          "url": "https://www.theguardian.com/info/cookies",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/info/cookies",
+              "anchor_text": "Cookie policy"
+            }
+          ]
+        },
+        {
+          "text": "Tax strategy",
+          "url": "https://uploads.guim.co.uk/2026/07/22/STL_Global_Tax_Strategy_for_the_year_to_31_March_2027.pdf",
+          "urls": [
+            {
+              "url": "https://uploads.guim.co.uk/2026/07/22/STL_Global_Tax_Strategy_for_the_year_to_31_March_2027.pdf",
+              "anchor_text": "Tax strategy"
+            }
+          ]
+        },
+        {
+          "text": "Terms & conditions",
+          "url": "https://www.theguardian.com/help/terms-of-service",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/help/terms-of-service",
+              "anchor_text": "Terms & conditions"
+            }
+          ]
+        },
+        {
+          "text": "All topics",
+          "url": "https://www.theguardian.com/index/subjects/a",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/index/subjects/a",
+              "anchor_text": "All topics"
+            }
+          ]
+        },
+        {
+          "text": "All writers",
+          "url": "https://www.theguardian.com/index/contributors",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/index/contributors",
+              "anchor_text": "All writers"
+            }
+          ]
+        },
+        {
+          "text": "Digital newspaper archive",
+          "url": "https://theguardian.newspapers.com/",
+          "urls": [
+            {
+              "url": "https://theguardian.newspapers.com/",
+              "anchor_text": "Digital newspaper archive"
+            }
+          ]
+        },
+        {
+          "text": "Advertise with us",
+          "url": "https://advertising.theguardian.com/",
+          "urls": [
+            {
+              "url": "https://advertising.theguardian.com/",
+              "anchor_text": "Advertise with us"
+            }
+          ]
+        },
+        {
+          "text": "Search UK jobs",
+          "url": "https://jobs.theguardian.com/",
+          "urls": [
+            {
+              "url": "https://jobs.theguardian.com/",
+              "anchor_text": "Search UK jobs"
+            }
+          ]
+        },
+        {
+          "text": "Accessibility settings",
+          "url": "https://www.theguardian.com/help/accessibility-help",
+          "urls": [
+            {
+              "url": "https://www.theguardian.com/help/accessibility-help",
+              "anchor_text": "Accessibility settings"
+            }
+          ]
+        },
+        {
+          "text": "Work with us",
+          "url": "https://workwithus.theguardian.com/",
+          "urls": [
+            {
+              "url": "https://workwithus.theguardian.com/",
+              "anchor_text": "Work with us"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "‘Unpredictable and extreme’: Asia braces for El Niño",
+        "main_title": "‘Unpredictable and extreme’: Asia braces for El Niño",
+        "author": "https://www.facebook.com/theguardian",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "This article is more than 1 month old",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Weather models project a potentially strong El Niño this year, which could spell disaster for heatwave-hit India, drench China and hurt agriculture across south-east Asia",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The UN has warned that the world must prepare for the imminent return of El Niño and the raised global temperatures and weather extremes it brings.",
+            "url": "https://www.theguardian.com/environment/2026/jun/02/prepare-for-imminent-return-of-el-nino-un-warns",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/environment/2026/jun/02/prepare-for-imminent-return-of-el-nino-un-warns",
+                "anchor_text": "warned"
+              }
+            ]
+          },
+          {
+            "text": "The powerful natural weather pattern has an 80% chance of forming before September and a 90% chance before November, the World Meteorological Organization (WMO) said on Tuesday.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Experts say what is particularly concerning is that El Niño is unfolding against the backdrop of human-driven climate change, meaning there is the potential for its impacts to be supercharged.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Asia is predicted to be one of the regions most exposed, with intensifying heat and drought predicted to put major stresses on agriculture, power grids and water supplies.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Here’s how conditions look in key areas across the continent:",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "World almost certain to endure record hot year by 2030, UN warns",
+            "url": "https://www.theguardian.com/environment/2026/may/28/climate-impacts-spiralling-more-record-global-heat-warns-un",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/environment/2026/may/28/climate-impacts-spiralling-more-record-global-heat-warns-un",
+                "anchor_text": "World almost certain to endure record hot year by 2030, UN warns"
+              }
+            ]
+          },
+          {
+            "text": "Read more",
+            "url": "https://www.theguardian.com/environment/2026/may/28/climate-impacts-spiralling-more-record-global-heat-warns-un",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/environment/2026/may/28/climate-impacts-spiralling-more-record-global-heat-warns-un",
+                "anchor_text": "Read more"
+              }
+            ]
+          },
+          {
+            "text": "Climate crisis",
+            "url": "https://www.theguardian.com/environment/climate-crisis",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/environment/climate-crisis",
+                "anchor_text": "Climate crisis"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "‘A deadly combination for India’",
+        "main_title": "‘Unpredictable and extreme’: Asia braces for El Niño",
+        "author": "https://www.facebook.com/theguardian",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The core concern is that El Nino might intensify heat conditions and weaken the oncoming monsoon, the months of heavy rain that come every year around June, which is already predicted to deliver “below average” rainfall.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Experts are warning that would be disastrous for India and the wider subcontinent, which has already been grappling with deadly heatwaves, and an energy crisis due to the crisis in the Middle East.",
+            "url": "https://www.theguardian.com/world/india",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/world/india",
+                "anchor_text": "India"
+              }
+            ]
+          },
+          {
+            "text": "If El Niño causes the rains to arrive later, the heatwave that has engulfed the country in recent weeks will continue longer, crippling livelihoods and leading to potentially thousands of deaths. A shortage of rains would prove particularly devastating for farmers, who rely on the rains for their next crop planting season. The heatwave in May has already caused damage to wheat and mustard crops and it is feared El Niño could worsen drought conditions and and have a worrying effect on food security in the country.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Devender Sharma, an Indian agricultural expert and activist, told climate tracker Carbon Copy: “2026 is going to be a testing ground for India amid climate change and the present geopolitical situation.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“The ongoing extreme heat conditions are causing alarm. We are expecting El Niño, whose effect would be visible in July or August. This is a deadly combination for India, especially for agriculture in India.”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Farmers across India are already worried about an impending shortage of fertiliser for planting, due to the Middle East crisis.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "El Niño could also have severe consequences for India’s cities, most notably its film and financial capital of Mumbai which relies solely on seven rain-fed lakes to provide water for its more than 22 million inhabitants. The lakes currently only have 45 days of water left, and if the monsoon rainfall is delayed in El Niño conditions, Mumbai could find itself facing a significant water crisis.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Calls to stockpile essentials in parts of China",
+        "main_title": "‘Unpredictable and extreme’: Asia braces for El Niño",
+        "author": "https://www.facebook.com/theguardian",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "China often suffers from flooding as well as droughts in the summer months, weather events that have worsened with the climate crisis and which put pressure on the power grid. This year the challenges will be bigger as El Niño is set to cause further havoc.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "On Friday, the National Climate Centre said El Niño’s effects would peak in autumn and winter, and that it could lead to increased rainfall in southern China and higher temperatures across the country.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Rainfall in some parts is expected to be 20% higher than average this year, according to Chinese state media outlet Xinhua.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This week, the meteorological bureau of Qinghai, a high-altitude province in north-west China that sits on the Tibetan plateau, warned that while El Niño “may seem far away”, its effects on the Qinghai-Tibetan plateau would be “unpredictable and extreme”.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The bureau said it would prepare for sudden weather changes, and advised people to keep stockpiles of emergency supplies at home.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "China has already issued weather warnings for severe rain and storms, as the country prepares for a season of extreme weather ahead of El Niño. Xinhua quoted the Ministry of Water Resources as saying: “The flood control situation is ​severe and complex.”",
+            "url": "https://www.theguardian.com/environment/2026/jun/02/prepare-for-imminent-return-of-el-nino-un-warns",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/environment/2026/jun/02/prepare-for-imminent-return-of-el-nino-un-warns",
+                "anchor_text": "El Niño"
+              }
+            ]
+          },
+          {
+            "text": "Certain parts of China were expected to experience extremely heavy rainfall this week, with some areas of southern and eastern China set to see more than 200mm of rain. Parts of Hubei province have been particularly badly hit.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Additional research by Yu-chen Li",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "A ‘stress test’ for south-east Asia",
+        "main_title": "‘Unpredictable and extreme’: Asia braces for El Niño",
+        "author": "https://www.facebook.com/theguardian",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "A potent El Niño threatens to trigger prolonged and intense heat, severe drought, wildfires and air pollution across south-east Asia, said Justin Sentian, a professor in climate change at the Universiti Malaysia Sabah.",
+            "url": "https://www.theguardian.com/world/malaysia",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/world/malaysia",
+                "anchor_text": "Malaysia"
+              }
+            ]
+          },
+          {
+            "text": "Normally, robust winds drive warm surface waters toward the western Pacific, generating the heavy rainfall that sustains the region, Sentian said. “However, when these winds slacken or reverse, that warm pool shifts eastward, stripping countries like Malaysia, Singapore, Indonesia, Thailand and the Philippines of crucial atmospheric moisture.”",
+            "url": "https://www.theguardian.com/world/philippines",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/world/philippines",
+                "anchor_text": "Philippines"
+              }
+            ]
+          },
+          {
+            "text": "This disruption leaves the region vulnerable to surging temperatures that jeopardise public health, overwhelm electrical grids, and rapidly deplete vital water reserves, he said.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Agriculture and hydropower are among industries carrying the highest exposure, Yi Ming, a physical climate scientist and visiting professor at the National University of Singapore and a professor at Boston College, said.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Countries that depend heavily on agriculture, like Indonesia, Malaysia, Thailand, and the Philippines are particularly vulnerable, he said.",
+            "url": "https://www.theguardian.com/world/indonesia",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/world/indonesia",
+                "anchor_text": "Indonesia"
+              }
+            ]
+          },
+          {
+            "text": "The region is already in the midst of energy and fertiliser shortages due to the Middle East crisis, and has had to turn increasingly to dirty fuels to cover the shortfall.",
+            "url": "https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal",
+                "anchor_text": "increasingly to dirty fuels"
+              }
+            ]
+          },
+          {
+            "text": "“The return of El Niño to south-east Asia is more than a weather event. It’s a stress test for systems already under strain,” said associate professor Jason Lee, chair of the Global Heat Health Information Network Southeast Asia Hub.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Parched soils could threaten staples, particularly rice and palm oil, and spark food shortages and inflate market prices, “dealing a heavy blow to local economies and threatening the nutritional security of lower-income households,” Sentian said.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The consequences will be felt most in remote, rural areas where water infrastructure is already deficient, Sentian said. “While cities manage with centralised utility grids, isolated communities frequently depend on shallow wells, natural rivers, and gravity-fed mountain streams.”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“As El Niño-induced evaporation accelerates, these fragile water sources are bound to vanish. Lacking treatment facilities, families are often left with no choice but to collect unsafe, stagnant water from receding riverbeds, triggering spikes in waterborne illnesses like cholera”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A super El Niño could also create favourable conditions for tropical diseases like dengue and malaria, Yi said.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The region’s vital tourism sector could also be affected , Sentian said. “Famed destinations from Bangkok to Da Nang are bracing for daytime temperatures climbing well past 40 degrees, rendering outdoor attractions, cultural sites, and beaches practically unusable during peak hours.”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The dry spell could also ignite agricultural and peatland fires in places like Sumatra and Kalimantan. The resulting toxic smoke plumes could blanket financial and transit hubs like Singapore and Kuala Lumpur, Sentian said.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Prof Benjamin Horton, the Dean of the School of Energy and Environment City University of Hong Kong, said south-east Asia is “one of the regions most exposed to El Niño impacts”.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“What makes this episode particularly concerning for myself is that it is unfolding on the back of human-driven climate change. We are no longer dealing with El Niño in isolation.”.”",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "El Niño southern oscillation",
+            "url": "https://www.theguardian.com/environment/elnino",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/environment/elnino",
+                "anchor_text": "El Niño southern oscillation"
+              }
+            ]
+          },
+          {
+            "text": "Asia Pacific",
+            "url": "https://www.theguardian.com/world/asia-pacific",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/world/asia-pacific",
+                "anchor_text": "Asia Pacific"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Comments ( … )",
+        "main_title": "‘Unpredictable and extreme’: Asia braces for El Niño",
+        "author": "https://www.facebook.com/theguardian",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Most viewed",
+        "main_title": "‘Unpredictable and extreme’: Asia braces for El Niño",
+        "author": "https://www.facebook.com/theguardian",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Most viewed",
+        "main_title": "‘Unpredictable and extreme’: Asia braces for El Niño",
+        "author": "https://www.facebook.com/theguardian",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "?subject=‘Unpredictable and extreme’: Asia braces for El Niño&amp;body=https://www.theguardian.com/environment/2026/jun/05/el-nino-asia-unpredictable-extreme-weather-climate-change-crisis?CMP=share_btn_url"
+      ]
+    }
+  }
+}

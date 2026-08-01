@@ -57,18 +57,6 @@ Our team found the Rail Link particularly efficient during morning rush hour whe
 - **Late arrivals:** After midnight, you'll need a taxi or ride-sharing app—the Rail Link stops running
 - **Luggage:** One large suitcase and one carry-on fit comfortably; backpackers rarely struggle
 
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ### Metered Taxis from Suvarnabhumi
 
@@ -91,22 +79,6 @@ During our team's recent visits, Grab rides from Suvarnabhumi to Sukhumvit took 
 4. Confirm the estimated fare and driver details
 5. Meet your driver at the designated pickup zone (usually Level 2 or 3, depending on the app)
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Airport Buses from Suvarnabhumi
 
@@ -124,63 +96,13 @@ Don Mueang lacks a rail link, so public transport options are more limited. If y
 
 ---
 
-## 2. Phuket Airport Transfers: Reaching Patong, Kata & Beyond
+## 2. Phuket Airport Transfers: Choose by Hotel Zone
 
-**Phuket International Airport (HKT)** sits 32 km north of Patong Beach, the island's main tourist hub. The 45–60 minute journey is longer than Bangkok's airport transfers, making the choice of transport more significant. Phuket's road infrastructure is good, but traffic during peak hours (especially afternoons) can be unpredictable.
+Phuket International Airport (HKT) is in the north of the island. The crucial variable is therefore not simply “Phuket”, but the exact hotel area: Nai Yang and Mai Khao create a very different handoff from Patong, Kata, Karon, Rawai, Old Town or Khao Lak.
 
-Unlike Bangkok, Phuket has no rail link or extensive bus network. Your realistic options are taxis, ride-sharing, private transfers, or shared minibuses. The choice largely depends on your destination beach and budget.
+There is no airport rail link. A private transfer or official taxi can reduce the last-mile decisions, an app can provide a current quote and pickup instruction, and a public bus can work when its live route genuinely serves your hotel area. Schedules, pickup zones, app access and fares can change, so this broad three-airport comparison no longer publishes cached Phuket prices or promises a fixed journey time.
 
-### Official Taxis & Meter Taxis
-
-Official taxis queue at Phuket Airport's ground floor. However, unlike Bangkok, Phuket taxis typically operate on a **fixed-rate system**, not meters. Expect to pay 600–800 THB ($16–21 USD) to Patong Beach, 500–600 THB ($13–16 USD) to Kata or Karon, and 400–500 THB ($11–13 USD) to Phuket Town.
-
-These rates are non-negotiable and posted at the taxi counter. The advantage is clarity—you know the price upfront. The disadvantage is that these rates are higher than Bangkok's metered system. Taxis are air-conditioned and direct, making them comfortable for families or those with heavy luggage.
-
-**Common destinations & fixed rates:**
-- **Patong Beach:** 600–800 THB ($16–21 USD)
-- **Kata Beach:** 500–600 THB ($13–16 USD)
-- **Karon Beach:** 500–600 THB ($13–16 USD)
-- **Phuket Town:** 400–500 THB ($11–13 USD)
-- **Laguna area (Bang Tao):** 500–600 THB ($13–16 USD)
-
-### Grab & Ride-Sharing
-
-Grab operates at Phuket Airport with typically lower fares than official taxis. Expect 400–600 THB ($11–16 USD) to Patong, depending on demand. During peak hours (late afternoon), surge pricing can push fares higher. Bolt is less prevalent in Phuket but occasionally available.
-
-The advantage of Grab is transparency and app-based tracking. The disadvantage is that fares fluctuate, and during high-demand periods, prices spike. Our team recommends booking Grab during off-peak hours (early morning, late evening) for the best rates.
-
-**Pro tip:** If you're arriving in the afternoon (2:00–6:00 PM), Grab fares may surge. Consider waiting 30 minutes in the airport lounge or booking an official taxi to avoid surge pricing.
-
-### Shared Minibuses & Shuttle Services
-
-Several companies operate shared minibus shuttles from Phuket Airport to major beaches. These typically cost 200–300 THB ($5–8 USD) per person and make multiple stops. Journey time is longer (90+ minutes with stops) but the per-person cost is lowest.
-
-Shared shuttles work well for solo travelers or pairs but are impractical for groups or those with tight schedules. During our research, we found shuttle services most common for backpackers heading to Patong's budget accommodation areas.
-
-**Booking:** Look for shuttle company desks in the arrivals hall, or pre-book online through your hostel or guesthouse.
-
-### Private Transfers & Hotel Arrangements
-
-Many hotels and resorts offer pre-arranged transfers, typically costing 800–1,500 THB ($21–40 USD) depending on vehicle type and distance. These are more expensive than taxis but offer convenience—your driver meets you at arrivals with a name sign, handles luggage, and takes you directly to your hotel.
-
-Private transfers are worth considering if you're traveling with family, have multiple large suitcases, or are arriving late at night when other options are limited. Several mid-range and luxury resorts include transfers in their booking packages.
-
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
+For the complete arrival sequence, domestic-versus-international flow, six-area transfer matrix, live operator links, late-arrival plan and genuine airport questions, use our dedicated [Phuket Airport (HKT) arrivals and transfer guide](/blog/phuket-airport/).
 
 ---
 
@@ -218,22 +140,6 @@ Many guesthouses and hotels in Chiang Mai offer free or low-cost airport pickups
 
 If your hotel offers a pickup, take it—it's often cheaper than taxis and eliminates the hassle of finding transport after a long flight.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -324,22 +230,6 @@ For groups of 4 or more, **private minibus transfers** are often cheaper per per
 - Use services like [Viator](https://viator.tpo.lv/TUcQTS5u?subid=blog) or GetYourGuide (search "[airport transfer](https://trip.tpo.lv/hY8hOUey?subid=blog) [city]")
 - Arrange through travel agencies at the airport
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 

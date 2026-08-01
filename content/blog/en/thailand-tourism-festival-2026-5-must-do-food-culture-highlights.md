@@ -1,16 +1,25 @@
 ---
-title: "Thailand Tourism Festival 2026: The '5 Must Do' Food and Culture Highlights"
+title: "Thailand Tourism Festival 2026: '5 Must Do' Recap"
 slug: "thailand-tourism-festival-2026-5-must-do-food-culture-highlights"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Editorial"
 category: "events"
-tags: ["Thailand Tourism Festival 2026", "5 Must Do Thailand", "Bangkok events", "QSNCC", "Thai food festival", "Thai culture", "TAT"]
-image: "/images/blog/thailand-news-default.webp"
-description: "The 44th Thailand Tourism Festival runs March 25-29 at QSNCC Bangkok, built around the '5 Must Do in Thailand' concept: Must Taste, Must Try, Must Buy, Must Seek, and Must See."
+tags:
+  [
+    "Thailand Tourism Festival 2026",
+    "5 Must Do Thailand",
+    "Bangkok events",
+    "QSNCC",
+    "Thai food festival",
+    "Thai culture",
+    "TAT",
+  ]
+image: "/images/redesign/editorial/thailand-tourism-festival-2026-5-must-do-food-culture-highlights-hero.webp"
+description: "A recap of the 44th Thailand Tourism Festival's '5 Must Do in Thailand' food, culture, shopping, discovery and performance programme."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "TAT Newsroom — Thailand Tourism Festival 2026 spotlights 5 Must Do in Thailand"
     url: "https://www.tatnews.org/2026/03/thailand-tourism-festival-2026-spotlights-5-must-do-in-thailand-and-honours-her-majesty-queen-sirikit-the-queen-mother/"
@@ -22,13 +31,15 @@ sources:
     url: "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/21/thai-tourism-body-unveils-highlights-of-travel-fair-2026"
 ---
 
+> **Event status (updated 1 August 2026):** This festival ended on 29 March 2026. The five-pillar programme below is documented from TAT's official 2026 announcement and is retained for inspiration, not as a current event listing.
+
 ## Five Reasons to Visit, Under One Roof
 
 The 44th Thailand Tourism Festival (TTF) opens on March 25 and runs through March 29, 2026, at Halls 1-4 of the Queen Sirikit National Convention Centre (QSNCC) in [Bangkok](/city/bangkok/). Admission is free. This year's edition is organised around the Tourism Authority of Thailand's "5 Must Do in Thailand" framework, giving visitors a structured taste of the country across five pillars: Must Taste, Must Try, Must Buy, Must Seek, and Must See.
 
 ## What Each Pillar Offers
 
-**Must Taste** brings together regional dishes from all five parts of Thailand. More than 50 restaurants will serve specialties on-site, from northern [khao soi](/blog/khao-soi-chiang-mai-guide/) and Isaan [som tam](/blog/som-tam-regional-variations-thailand/) to southern massaman curry and central Thai boat noodles. Food vendors have been curated to represent both well-known favourites and lesser-known provincial dishes. For the full breakdown of what to eat by region, see the companion [culinary guide to the festival](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/).
+**Must Taste** brings together regional dishes from all five parts of Thailand. More than 50 restaurants will serve specialties on-site, from northern [khao soi](/blog/khao-soi-chiang-mai-guide/) and Isaan [som tam](/food/som-tam/) to southern massaman curry and central Thai boat noodles. Food vendors have been curated to represent both well-known favourites and lesser-known provincial dishes. For the full breakdown of what to eat by region, see the companion [culinary guide to the festival](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/).
 
 **Must Try** invites hands-on participation. Workshops include traditional garland-making, fruit carving, [Muay Thai](/best-muay-thai-in-thailand/) basics, and batik dyeing — each led by local artisans from different provinces.
 
@@ -40,7 +51,7 @@ The 44th Thailand Tourism Festival (TTF) opens on March 25 and runs through Marc
 
 ## Nine Zones Across Four Halls
 
-The festival floor is divided into nine zones. Five of them represent Thailand's geographic regions — North, Northeast, Central, East, and South — each designed as an immersive "village" with replica landmarks, food stalls, and photo spots. The remaining zones include the [Amazing Thailand x Lisa](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/) exhibition, a [Sustainability Zone](/blog/thailand-tourism-festival-2026-zero-waste-sustainability-zone/) running its fourth consecutive Zero Waste to Landfills programme, a partner organisations zone with discounted [travel packages](/thailand-travel-packages-guide/) from over 30 companies, and a live entertainment stage.
+The festival floor is divided into nine zones. Five of them represent Thailand's geographic regions — North, Northeast, Central, East, and South — each designed as an immersive "village" with replica landmarks, food stalls, and photo spots. The remaining zones include the [Amazing Thailand x Lisa](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/) exhibition, a [Sustainability Zone](/blog/thailand-tourism-festival-2026-zero-waste-sustainability-zone/) running its fourth consecutive Zero Waste to Landfills programme, a partner organisations zone with discounted [travel packages](/blog/thailand-travel-packages-guide/) from over 30 companies, and a live entertainment stage.
 
 ## How to Get There
 

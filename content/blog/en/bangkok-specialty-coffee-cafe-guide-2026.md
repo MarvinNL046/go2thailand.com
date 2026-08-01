@@ -34,7 +34,7 @@ This guide covers the 10 best specialty coffee spots across five neighbourhoods,
 
 ## How We Selected These Cafés
 
-Every café in this guide meets three criteria: a Google rating of 4.4 or higher from at least 300 reviews, beans roasted in-house or sourced directly from Thai and international farms, and a focus on specialty-grade coffee rather than commercial blends. We visited each neighbourhood and cross-referenced our picks with local barista recommendations and the specialty coffee community.
+Every café in this guide meets three criteria: a Google rating of 4.4 or higher from at least 300 reviews, beans roasted in-house or sourced directly from Thai and international farms, and a focus on specialty-grade coffee rather than commercial blends.
 
 ---
 
@@ -237,12 +237,12 @@ If you are new to specialty coffee, Bangkok menus can be overwhelming. Here is w
 
 - **Best strategy:** Pick one neighbourhood (Thonglor/Ekkamai or Ari) and hit 3–4 cafés in a morning. Most are walking distance from each other. The BTS Skytrain connects all major café neighbourhoods.
 - **Opening hours:** Most specialty cafés open between 07:00 and 08:00 and close by 16:00–17:00. Brave Roasters (22:00) and Gallery Drip (19:30) are exceptions. Arrive early on weekends — popular spots fill fast.
-- **Budget:** Expect to pay ฿100–200 (roughly $3–6 USD) for a specialty drink. Kaizen is the exception at ฿400–600 including brunch. For context on what things cost elsewhere, see the [Bangkok daily budget guide](/blog/thailand-budget-2026-daily-costs/).
+- **Budget:** Expect to pay ฿100–200 (roughly $3–6 USD) for a specialty drink. Kaizen is the exception at ฿400–600 including brunch. For context on what things cost elsewhere, see the [Bangkok daily budget guide](/thailand-index/budget/).
 - **Cash or card:** Most specialty cafés accept credit cards and QR payments. Some smaller shops and market stalls are cash-only — carry at least ฿500 for a morning out.
 - **WiFi and co-working:** Casa Lapin (WiFi mentioned in 19 reviews at the flagship) and Kaizen are the best options for working remotely. Factory Coffee's seating is too limited for laptops. Digital nomads should read about [Thailand's DTV visa](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) before planning a long stay.
 - **Heat strategy:** Bangkok is hot. Schedule café-hopping for the morning (08:00–12:00), then switch to air-conditioned malls or your hotel pool. A cold brew or nitro is the perfect midday reset.
 - **World of Coffee 2026:** If you are visiting 7–9 May, [World of Coffee Asia at BITEC](/blog/world-of-coffee-bangkok-2026-specialty-coffee-event/) offers public tastings, workshops and world-class barista competitions. Roots has a branch at BITEC (★ 4.7).
-- **Combine with food:** Coffee shops pair well with Bangkok's [street food scene](/blog/bangkok-street-food-beginners/) — a morning flat white followed by a street breakfast is the local routine. After your café-hopping morning, [Banthat Thong Road's food street](/blog/banthat-thong-road-bangkok-food-street-guide-2026/) or the [Lumpini Hawker Centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) make for a full Bangkok food day. [Cooking classes in Bangkok](/blog/best-cooking-classes-bangkok-market-tour-2026/) are a great complement to the café circuit.
+- **Combine with food:** Coffee shops pair well with Bangkok's [street food scene](/blog/best-street-food-markets-bangkok/) — a morning flat white followed by a street breakfast is the local routine. After your café-hopping morning, [Banthat Thong Road's food street](/blog/banthat-thong-road-bangkok-food-street-guide-2026/) or the [Lumpini Hawker Centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) make for a full Bangkok food day. [Cooking classes in Bangkok](/blog/best-cooking-classes-bangkok-market-tour-2026/) are a great complement to the café circuit.
 - **Chatuchak area:** If you are heading to the [Chatuchak Weekend Market](/blog/chatuchak-market-bangkok-guide/), several good specialty coffee stops have opened nearby. The [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/) often have craft coffee stalls after dark.
 
 ## Quick Comparison: All 10 Cafés at a Glance

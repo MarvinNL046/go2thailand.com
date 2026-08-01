@@ -1,0 +1,1597 @@
+{
+  "captured_at": "2026-07-28T20:09:14.734Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best time to visit koh samui",
+  "costs": {
+    "suggestions": 0.0144,
+    "related": 0.02592,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "best time to visit koh samui",
+    "best time of year to visit koh samui",
+    "best time to visit koh samui thailand",
+    "best time to visit thailand koh samui",
+    "koh samui best time to visit",
+    "koh samui thailand best time to visit",
+    "when is the best time to visit koh samui",
+    "when is the best time to visit koh samui thailand",
+    "best time to visit koh samui weather",
+    "best time of year to visit koh samui thailand",
+    "best time to visit koh samui and krabi",
+    "best time to visit koh samui and thailand",
+    "best time to visit koh samui thailand weather",
+    "best time to visit krabi and koh samui",
+    "best time to visit phuket and koh samui",
+    "koh samui climate best time to visit",
+    "koh samui weather best time to visit",
+    "the best time to visit koh samui",
+    "what is the best time to visit koh samui"
+  ],
+  "keywords": [
+    {
+      "keyword": "koh samui holidays",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to koh samui",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to koh samui from bangkok",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket november weather",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best months to visit koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time of year to visit koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit koh samui thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit thailand koh samui",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to koh samui from london",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in august weather",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather august",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in koh samui in august",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui climate december",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui december weather",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in july weather",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui july weather",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather december",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather in july",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather july",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather november",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui april weather",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in april weather",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in june weather",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather april",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather in june",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather january",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather june",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to koh samui from uk",
+      "volume": 590,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in may weather",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in september weather",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui may weather",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui october weather",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui september weather",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather february",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather in may",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather may",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather october",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather september",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi weather november",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in koh samui in september",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather koh samui september",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather by month",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather in march",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather march",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui rainy season",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to koh samui from manchester",
+      "volume": 320,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in august",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather ko samui",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather-ko samui",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui best time to visit",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in july",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui thailand best time to visit",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui holidays all inclusive",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in november",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in december",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in june",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in september",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather forecast 30 days",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok and koh samui holidays",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui climate",
+      "volume": 110,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui holidays 2027",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui holidays from uk",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in april",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in may",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather 15 days",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to koh samui direct flights",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "when is the best time to visit koh samui",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the best time to visit koh samui thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can you fly direct to koh samui from uk",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to koh samui from heathrow",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui dry season",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui holidays packages",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in march",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui seasons",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holidays to koh samui 2027",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui monsoon season",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui rainfall by month",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "singapore and koh samui holidays",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit koh samui",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit koh samui weather",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays koh samui 2026",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui multi centre holidays",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holidays to koh samui from manchester",
+      "volume": 30,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui climate by month",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "emirates flights to koh samui",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui all inclusive 5 star resorts",
+      "volume": 20,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in december weather",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui peak season",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather december january",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather june july",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in koh samui in december and january",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time of year to visit koh samui thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit koh samui and krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit koh samui and thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit koh samui thailand weather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit krabi and koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket and koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is april a good time to visit koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is may a good time to visit koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is october a good time to visit koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather forecast 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui all inclusive family resorts",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui climate best time to visit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui holidays 2025",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui holidays december 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui holidays tui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in december reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in july reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in june reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in may reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in october weather",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui in september reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather best time to visit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui weather by month rain",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather december rain",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather forecast 30 days bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather in june 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather january 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather july rain",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather june reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather march 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather march april",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather may 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather november december",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather september october",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket or koh samui in august",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket or koh samui in december",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the best time to visit koh samui",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in koh samui in december",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in koh samui in july",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in koh samui in september",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is the best time to visit koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is best time to visit koh samui",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 1.3333333333333333,
+      "keywordCount": 6,
+      "visibility": 5.800000000000001,
+      "estimatedTraffic": 1320.74
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 2,
+      "keywordCount": 6,
+      "visibility": 5.3999999999999995,
+      "estimatedTraffic": 890.76
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 3,
+      "keywordCount": 6,
+      "visibility": 4.8,
+      "estimatedTraffic": 658.961
+    },
+    {
+      "domain": "www.thekohsamuiguide.com",
+      "avgPosition": 4,
+      "keywordCount": 6,
+      "visibility": 4.199999999999999,
+      "estimatedTraffic": 390.551
+    },
+    {
+      "domain": "www.garrya.com",
+      "avgPosition": 6.166666666666667,
+      "keywordCount": 6,
+      "visibility": 2.9,
+      "estimatedTraffic": 176.904
+    },
+    {
+      "domain": "www.silavadeeresort.com",
+      "avgPosition": 7,
+      "keywordCount": 6,
+      "visibility": 2.4499999999999997,
+      "estimatedTraffic": 174.315
+    },
+    {
+      "domain": "www.firstchoice.co.uk",
+      "avgPosition": 8.166666666666666,
+      "keywordCount": 6,
+      "visibility": 1.7500000000000002,
+      "estimatedTraffic": 90.27199999999999
+    },
+    {
+      "domain": "www.kimptonkitalaysamui.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 6,
+      "visibility": 1.25,
+      "estimatedTraffic": 116.815
+    },
+    {
+      "domain": "www.luxtripper.co.uk",
+      "avgPosition": 13.333333333333334,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 37.602
+    },
+    {
+      "domain": "blog.bangkokair.com",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 26.708999999999996
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 16.5,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 20.141
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 16.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 19.285
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 19,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 13.443
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 20,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 29.589000000000002
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 7.6,
+      "keywordCount": 5,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 64.75
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 23,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 12.876
+    },
+    {
+      "domain": "www.theluxurysignature.com",
+      "avgPosition": 8.2,
+      "keywordCount": 5,
+      "visibility": 1.4000000000000001,
+      "estimatedTraffic": 106.78999999999999
+    },
+    {
+      "domain": "melatiresort.com",
+      "avgPosition": 8.4,
+      "keywordCount": 5,
+      "visibility": 1.2999999999999998,
+      "estimatedTraffic": 81.512
+    },
+    {
+      "domain": "www.theheadlandsamui.com",
+      "avgPosition": 23.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 11.052
+    },
+    {
+      "domain": "www.thailandhighlights.com",
+      "avgPosition": 24.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 15.367
+    },
+    {
+      "domain": "kohtour.com",
+      "avgPosition": 24.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 11.859
+    },
+    {
+      "domain": "paradiseislandestate.com",
+      "avgPosition": 26.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 14.779
+    },
+    {
+      "domain": "sg.trip.com",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 11.059
+    },
+    {
+      "domain": "www.samuisocial.com",
+      "avgPosition": 26.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 11.387999999999998
+    },
+    {
+      "domain": "www.celebritycruises.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 10.962
+    },
+    {
+      "domain": "www.villa-finder.com",
+      "avgPosition": 17,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 19.068999999999996
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 21.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 14.155999999999999
+    },
+    {
+      "domain": "mykeythai.com",
+      "avgPosition": 35.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 11.059
+    },
+    {
+      "domain": "chrisandwrensworld.com",
+      "avgPosition": 37.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "www.fairhousesamui.com",
+      "avgPosition": 25.4,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.629999999999999
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 38,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "www.ministryofvillas.com",
+      "avgPosition": 38,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "sonasia-holiday.com",
+      "avgPosition": 38.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "www.tripcrafters.com",
+      "avgPosition": 39.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "www.keremvillas.com",
+      "avgPosition": 40.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "thingstodoinsamui.com",
+      "avgPosition": 41.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "www.traveloka.com",
+      "avgPosition": 37,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.539
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 22,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.867999999999999
+    },
+    {
+      "domain": "www.wanderluststorytellers.com",
+      "avgPosition": 49.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "koh.tours",
+      "avgPosition": 50.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 42.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 10.458
+    },
+    {
+      "domain": "www.ferrysamui.com",
+      "avgPosition": 53.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "girlonazebra.com",
+      "avgPosition": 30.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 10.269
+    },
+    {
+      "domain": "voyeglobal.com",
+      "avgPosition": 54,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "phanganist.com",
+      "avgPosition": 55.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 33.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.35
+    },
+    {
+      "domain": "www.shortform.com",
+      "avgPosition": 47.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 10.709999999999999
+    },
+    {
+      "domain": "www.bestpricetravel.com",
+      "avgPosition": 47.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.539
+    },
+    {
+      "domain": "samuione.com",
+      "avgPosition": 59,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.899
+    },
+    {
+      "domain": "www.hoteis.com",
+      "avgPosition": 52.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 10.458
+    }
+  ]
+}

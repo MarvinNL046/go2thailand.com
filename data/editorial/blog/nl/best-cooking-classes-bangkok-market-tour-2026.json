@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "best-cooking-classes-bangkok-market-tour-2026",
+  "route": "/nl/blog/best-cooking-classes-bangkok-market-tour-2026/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Kookles in Bangkok met marktbezoek: keuzehulp",
+    "description": "Vergelijk kooklessen in Bangkok op marktbezoek, menu, groepsgrootte, locatie en dieetwensen. Met actuele controle vóór boeken.",
+    "primaryKeyword": "kookles Bangkok met marktbezoek",
+    "secondaryKeywords": ["Thaise kookles Bangkok", "Bangkok cooking class", "Silom kookschool"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/best-cooking-classes-bangkok-market-tour-2026/"
+  },
+  "hero": {
+    "eyebrow": "Van marktmand naar vijzel",
+    "title": "Kooklessen in Bangkok",
+    "accent": "Kies wat je echt wilt leren.",
+    "description": "Een marktbezoek klinkt bij veel lessen hetzelfde, maar duur, menu, eigen werkplek en dieetbegeleiding bepalen of de ervaring bij jou past.",
+    "image": "/images/redesign/editorial/best-cooking-classes-bangkok-market-tour-2026-hero.webp",
+    "imageAlt": "Deelnemers bereiden Thaise kruiden en curry in een open kookles in Bangkok",
+    "primaryCta": { "label": "Vergelijk lesvormen", "href": "#lesvormen" },
+    "secondaryCta": { "label": "Bekijk live aanbod", "href": "#boeken" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "class", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kies een ochtendles als een echte marktgang belangrijk is, controleer of je ieder gerecht zelf kookt en meld allergieën vóór betaling. Silom Thai Cooking School en Bangkok Thai Cooking Academy publiceren duidelijke actuele programma’s.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "lesvormen",
+      "title": "Welke lesvorm past bij jou?",
+      "options": [
+        { "title": "Ochtend met markt", "description": "De beste keuze als ingrediënten herkennen even belangrijk is als koken; controleer of de markt echt in jouw tijdslot zit.", "label": "Meeste context" },
+        { "title": "Middag of avond", "description": "Past makkelijker in een sightseeingdag, maar gebruikt soms een kruidentuin of uitleg in de les in plaats van een marktbezoek.", "label": "Flexibel" },
+        { "title": "Kleine of privéles", "description": "Meer ruimte voor dieetvragen en techniek; vergelijk groepsgrootte en wat je individueel bereidt.", "label": "Persoonlijk" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "controleren",
+      "title": "Controleer vóór betaling",
+      "items": ["Exacte startlocatie en duur", "Marktbezoek in jouw gekozen tijdslot", "Aantal gerechten dat je zelf maakt", "Groepsgrootte en instructietaal", "Allergie- en dieetbegeleiding", "Annuleringsbeleid en inbegrepen transfer"]
+    },
+    {
+      "kind": "affiliate",
+      "id": "boeken",
+      "provider": "klook",
+      "title": "Bekijk actuele kooklessen in Bangkok",
+      "description": "Vergelijk live tijdsloten, aanbieder, inclusies en voorwaarden. De redactionele selectie wordt niet door de affiliatepositie bepaald.",
+      "cta": { "label": "Controleer actuele opties op Klook", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true },
+      "placement": "nl-bangkok-cooking-classes",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "callout",
+      "id": "allergie",
+      "tone": "warning",
+      "title": "Een vegetarisch menu is niet automatisch allergieveilig",
+      "description": "Vraag vóór boeken naar kruiscontact, vissaus, garnalenpasta, noten en afzonderlijk keukengerei. De aanbieder moet jouw concrete behoefte bevestigen."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Heeft iedere kookles een marktbezoek?", "answer": "Nee. Bij sommige scholen is de markt alleen onderdeel van de ochtendles; lees het gekozen tijdslot nauwkeurig." },
+        { "question": "Zijn kooklessen geschikt voor beginners?", "answer": "Veel toeristenlessen wel. Controleer of iedereen een eigen werkplek heeft en hoeveel begeleiding de groepsgrootte toelaat." },
+        { "question": "Kun je vegetarisch koken?", "answer": "Vaak wel, maar meld dieetwensen vooraf. Vraag bij allergieën apart naar ingrediënten en kruiscontact." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Actuele programma’s van kookscholen",
+      "items": [
+        { "title": "Daily class programme", "publisher": "Silom Thai Cooking School", "url": "https://silomthaicooking.com/2018/main/", "checkedAt": "2026-08-01", "note": "Tijden, marktbezoek, groepsgrootte en gepubliceerde prijs." },
+        { "title": "Thai Cooking Classes", "publisher": "Bangkok Thai Cooking Academy", "url": "https://bangkokthaicookingacademy.com/learn-thai-cooking/", "checkedAt": "2026-08-01", "note": "Menu-opbouw, marktbezoek, duur en faciliteiten." },
+        { "title": "Food allergy", "publisher": "Voedingscentrum", "url": "https://www.voedingscentrum.nl/encyclopedie/voedselallergie.aspx", "checkedAt": "2026-08-01", "note": "Algemene allergenen- en kruiscontactcontext." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Verdiep je in de Thaise keuken",
+      "items": [
+        { "title": "Thaise curry’s", "description": "Leer de belangrijkste currystijlen uit elkaar houden.", "href": "/nl/blog/thai-curry-guide-green-red-yellow-massaman-panang/" },
+        { "title": "Tom yum", "description": "Lees de gerechtowner voor smaak en ingrediënten.", "href": "/nl/food/tom-yum-goong/" },
+        { "title": "Openbaar vervoer Bangkok", "description": "Plan de route naar de gekozen school.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" }
+      ]
+    }
+  ]
+}

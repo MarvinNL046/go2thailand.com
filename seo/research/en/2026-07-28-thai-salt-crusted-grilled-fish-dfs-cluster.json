@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T04:46:06.030Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai salt crusted grilled fish",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thai salt crusted grilled fish"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai salt crusted grilled fish",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

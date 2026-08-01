@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-28T11:25:07.444Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "chiang mai hotel recommendations",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "chiang mai hotel recommendations"
+  ],
+  "keywords": [
+    {
+      "keyword": "chiang mai hotel recommendations",
+      "volume": 10,
+      "kd": 30,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

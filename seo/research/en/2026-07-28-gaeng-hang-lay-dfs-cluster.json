@@ -1,0 +1,39 @@
+{
+  "captured_at": "2026-07-28T03:17:34.905Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "gaeng hang lay",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "gaeng hang lay"
+  ],
+  "keywords": [
+    {
+      "keyword": "gaeng hang lay",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "gaeng hang lay chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

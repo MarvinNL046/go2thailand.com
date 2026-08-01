@@ -40,7 +40,7 @@ We've spent countless mornings navigating Chatuchak's labyrinthine food zones, s
 
 **Chatuchak Weekend Market** sprawls across 27 sections covering 15 acres, but the food vendors cluster in predictable zones that make navigation manageable. Understanding the geography is half the battle—you don't want to waste stomach space on mediocre pad thai when legendary boat noodles are waiting three sections over.
 
-The market's food reputation rests on three pillars: authenticity, speed, and volume. Unlike tourist-focused [night markets in Bangkok](https://go2-thailand.com/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/), Chatuchak feeds locals who demand quality and won't tolerate shortcuts. Vendors here have been perfecting their craft for decades; some family operations have occupied the same stall for 20+ years. When we visited on a Saturday morning in March, we watched a grandmother at a boat noodle stall move through 40+ bowls in 90 minutes—each one identical in quality, each customer a repeat visitor.
+The market's food reputation rests on three pillars: authenticity, speed, and volume. Unlike tourist-focused [night markets in Bangkok](https://go2-thailand.com/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/), Chatuchak feeds locals who demand quality and won't tolerate shortcuts. Vendors here have been perfecting their craft for decades; some family operations have occupied the same stall for 20+ years.
 
 ### The Food Zones That Matter
 
@@ -76,28 +76,12 @@ When we ordered from a stall in section 26 (identifiable by the queue of locals 
 
 Satay (meat skewers with peanut sauce) and moo ping (grilled pork skewers) are Chatuchak's most visible dishes—vendors with charcoal grills line the main food aisles, and the aroma is intoxicating. The best satay comes from vendors who grill to order, not those with pre-cooked meat sitting under heat lamps. Moo ping should be slightly charred on the outside, juicy inside, and glazed with a sweet-savory marinade (typically soy sauce, palm sugar, and garlic).
 
-During our Saturday visit, we tested three different satay stalls. The first (section 27, near the main entrance) had meat that was dry and the peanut sauce tasted store-bought. The second, tucked deeper into section 26, grilled each skewer fresh and made their sauce in-house—visible in a small pot beside the grill. The difference was night and day: THB 20 per skewer versus THB 15, but the quality justified the premium.
+The first (section 27, near the main entrance) had meat that was dry and the peanut sauce tasted store-bought. The second, tucked deeper into section 26, grilled each skewer fresh and made their sauce in-house—visible in a small pot beside the grill. The difference was night and day: THB 20 per skewer versus THB 15, but the quality justified the premium.
 
 **How to order:** Point at the meat and say "Satay" or "Moo ping." Specify how many skewers: "Sam mai" (three sticks). Ask for extra sauce: "Sod nam jim thod" (sauce on the side). If the vendor hesitates to grill fresh, walk away.
 
 **Pro Tip:** The best moo ping vendors are those with a visible queue at 9:30 AM. They're not popular because of marketing—they're popular because locals know the quality.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -116,27 +100,9 @@ We sampled green curry from five different vendors. Three used obvious store-bou
 ### Larb (Spicy Meat Salad)
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 **[Larb](https://go2-thailand.com/food/larb/)** is a [northeastern Thai (Isaan)](https://go2-thailand.com/region/isaan/) specialty—minced meat mixed with lime juice, fish sauce, chili, and fresh herbs. It's served at room temperature and eaten with sticky rice or fresh vegetables. The best larb has a perfect balance of sour (lime), salty (fish sauce), spicy (chili), and herbaceous (mint, cilantro). Poor larb is greasy, oversalted, or tastes like the meat was cooked yesterday.
 
-When we visited section 26, we found a larb stall run by a woman from Udon Thani who'd been selling the same dish for 15 years. The meat was finely minced, the lime juice was fresh (you could smell it), and the herbs were vibrant. She offered a taste before we committed—a sign of confidence. The cost: THB 45 (USD 1.30) for a generous portion.
+The meat was finely minced, the lime juice was fresh (you could smell it), and the herbs were vibrant. She offered a taste before we committed—a sign of confidence. The cost: THB 45 (USD 1.30) for a generous portion.
 
 **How to order:** Point and say "Larb" or "Larb moo" (pork larb). Ask for "sticky rice" ("khao" or "khao iao") on the side. If the meat looks pre-cooked or the herbs are wilted, pass.
 
@@ -150,7 +116,7 @@ When we visited section 26, we found a larb stall run by a woman from Udon Thani
 
 Fresh grilled fish and shrimp are Chatuchak's premium offerings, found primarily in sections 21–22. The key to quality is simple: the fish should smell like the sea, not like fish that's been sitting. Grilled whole fish should have crispy skin, moist flesh, and a glaze of garlic and lime. Shrimp should be firm, not mushy.
 
-During our visit, we tested grilled fish from two vendors in section 21. The first had fish that smelled slightly off—not rotten, but not fresh either. The second had fish that arrived at the stall that morning (the vendor showed us the delivery receipt). The difference in flavor was profound: the fresh fish was sweet, delicate, and perfectly cooked. The questionable fish tasted fishy and slightly rubbery.
+The first had fish that smelled slightly off—not rotten, but not fresh either. The second had fish that arrived at the stall that morning (the vendor showed us the delivery receipt). The difference in flavor was profound: the fresh fish was sweet, delicate, and perfectly cooked. The questionable fish tasted fishy and slightly rubbery.
 
 **How to order:** Point at the fish and ask "Pla tod?" (grilled fish?). Specify size: "Lek" (small), "klang" (medium), or "yai" (large). Ask for "nam jim seafood" (seafood dipping sauce) on the side. Smell the fish before committing—if it smells strongly fishy, it's not fresh.
 
@@ -166,7 +132,7 @@ While [pad thai](https://go2-thailand.com/food/pad-thai/) is ubiquitous at Chatu
 
 **[Pad krapow moo](https://go2-thailand.com/food/pad-krapow/)** (basil pork) is technically a rice dish, but it deserves mention here: minced pork cooked with holy basil, garlic, and chili, served over jasmine rice with a fried egg on top. The basil should be fragrant and slightly crispy; the pork should be cooked through but not dry.
 
-We found an exceptional pad see ev vendor in section 27 who cooked each order in a massive wok over a roaring charcoal flame. The noodles had that prized wok hei—a smoky, almost charred flavor that's impossible to replicate on electric heat. Cost: THB 50 (USD 1.40).
+The noodles had that prized wok hei—a smoky, almost charred flavor that's impossible to replicate on electric heat. Cost: THB 50 (USD 1.40).
 
 **How to order:** Point and say "Pad see ev" or "Pad krapow moo." Specify protein for pad see ev: "gai" (chicken), "moo" (pork), "gung" (shrimp), or "ped" (duck). For pad krapow, it's typically pork, but you can ask for "pad krapow gai" (basil chicken).
 
@@ -184,53 +150,19 @@ We found an exceptional pad see ev vendor in section 27 who cooked each order in
 
 **[Mango sticky rice](https://go2-thailand.com/food/mango-sticky-rice/)** is Thailand's most iconic dessert—ripe mango sliced over sweet sticky rice, drizzled with coconut cream. The quality depends entirely on mango ripeness and coconut cream richness. A perfect version has a mango that's creamy and sweet, sticky rice that's fragrant and properly cooked, and coconut cream that's rich without being cloying.
 
-Chatuchak's dessert vendors (sections 1–2) compete fiercely on mango quality. The best vendors source their mangoes daily and can tell you the exact ripeness level. When we visited, one vendor let us taste the mango before ordering—it was perfectly ripe, with that golden-yellow color and slight give when pressed.
+Chatuchak's dessert vendors (sections 1–2) compete fiercely on mango quality. The best vendors source their mangoes daily and can tell you the exact ripeness level.
 
 **How to order:** Point at the mango and say "Khao mamuang" or simply "Sticky rice." Ask for "extra coconut cream" ("nam kati perm") if you want a richer version. Cost: THB 60–80 (USD 1.70–2.30).
 
-**Pro Tip:** The best time to buy mango sticky rice is between 10 AM–1 PM, when mangoes are freshest and vendors haven't run out of their best fruit. Want to know when mango season peaks? Check our [mango sticky rice season guide](https://go2-thailand.com/blog/mango-sticky-rice-season-thailand/).
+**Pro Tip:** The best time to buy mango sticky rice is between 10 AM–1 PM, when mangoes are freshest and vendors haven't run out of their best fruit. Want to know when mango season peaks? Check our [mango sticky rice season guide](https://go2-thailand.com/food/mango-sticky-rice/).
 
 ### Roti and Crepes
 
 
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
-Thai roti (fried flatbread) and crepes are Chatuchak staples, sold with sweet or savory fillings. The best roti is crispy on the outside, slightly chewy inside, and filled with quality ingredients. We found a roti vendor in section 2 who made the dough fresh every morning and filled each roti to order. The cost was THB 40–60 (USD 1.15–1.70) per roti, compared to THB 20–30 for lower-quality versions, but the difference was worth it.
+Thai roti (fried flatbread) and crepes are Chatuchak staples, sold with sweet or savory fillings. The best roti is crispy on the outside, slightly chewy inside, and filled with quality ingredients. The cost was THB 40–60 (USD 1.15–1.70) per roti, compared to THB 20–30 for lower-quality versions, but the difference was worth it.
 
 **What to skip:** Pre-made roti sitting under heat lamps. Roti loses its texture rapidly once cooked; if it's been sitting for more than 15 minutes, it becomes tough and chewy in an unpleasant way.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -294,24 +226,6 @@ If seafood smells off, looks discolored, or the vendor is vague about freshness,
 - **"Khrap" or "kha"** (polite particle) — add to the end of sentences for politeness
 
 ### Market Etiquette
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 - **Queue properly.** Chatuchak vendors expect orderly lines. Cutting in front is considered extremely rude.
@@ -394,7 +308,7 @@ No reservation is needed. Chatuchak is designed for walk-up ordering. However, i
 
 The key to a successful Chatuchak experience is simple: arrive early, stick to sections 26–27, trust your nose and your instincts, and don't overthink it. Skip the pre-cooked meat, embrace the chaos, and let yourself get lost in the maze of flavors. The best meal of your Bangkok trip is waiting in a stall you'll find by accident, run by a vendor who's been perfecting their craft for 20 years.
 
-For more Bangkok food recommendations, explore our [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/). Planning to visit the [Chatuchak Market attraction page](https://go2-thailand.com/city/bangkok/attractions/chatuchak-market/) has more context on the full market beyond the food. If you're thinking about where to base yourself for your Chatuchak visit, read our [Bangkok neighborhood guide](https://go2-thailand.com/blog/where-to-stay-bangkok-neighborhood-guide/) or the [cheapest vs most expensive hotel in Bangkok](https://go2-thailand.com/blog/cheapest-vs-most-expensive-hotel-bangkok/) experiment. And if you're planning a longer Thailand adventure, check out our [7-day Bangkok itineraries](https://go2-thailand.com/blog/thailand-7-days-itineraries/) for context on how Chatuchak fits into a broader food journey.
+For more Bangkok food recommendations, explore our [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/). The [Chatuchak Market attraction page](https://go2-thailand.com/city/bangkok/attractions/) has more context on the full market beyond the food. If Chatuchak is one stop in a wider city trip, use the [Bangkok neighbourhood guide](https://go2-thailand.com/blog/where-to-stay-bangkok-neighborhood-guide/) to choose a district and our [Bangkok hotel shortlist](https://go2-thailand.com/best-hotels/bangkok/) to compare transport access, traveller fit and current booking conditions. For a longer Thailand adventure, the [7-day Bangkok itineraries](https://go2-thailand.com/blog/thailand-7-days-itineraries/) show how the market can fit into a broader food journey.
 
 **Trust the queue. Trust the smell. Trust the locals.**
 

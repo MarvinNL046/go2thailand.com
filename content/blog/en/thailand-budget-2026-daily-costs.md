@@ -48,7 +48,7 @@ The **three main budget categories** aren't just about how much you spend; they 
 ### Budget Backpacker (Shoestring Travel)
 **Daily budget: ฿800–1,200 ($22–34 USD)**
 
-This tier means hostels, street food, local buses, and free attractions. You'll stay in dorm rooms, eat where locals eat, and use public transport. When we backpacked through the northeast, we regularly spent ฿50–80 ($1.40–2.25) on a massive bowl of [khao soi](/blog/khao-soi-chiang-mai-guide/) or larb. Accommodation runs ฿300–500 ($8.50–14) per night in hostels; ฿600–900 ($17–25) for a private budget room. Our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) dives deeper into this travel style.
+This tier means hostels, street food, local buses, and free attractions. You'll stay in dorm rooms, eat where locals eat, and use public transport. When we backpacked through the northeast, we regularly spent ฿50–80 ($1.40–2.25) on a massive bowl of [khao soi](/blog/khao-soi-chiang-mai-guide/) or larb. Accommodation runs ฿300–500 ($8.50–14) per night in hostels; ฿600–900 ($17–25) for a private budget room. Our [Thailand budget backpacker guide](/thailand-index/budget/) dives deeper into this travel style.
 
 **What's included:**
 - **Accommodation:** Dorm beds (฿300–500) or basic private rooms (฿600–900)
@@ -70,7 +70,7 @@ This is where most travelers find the best value-to-experience ratio. You get **
 ### Luxury & Resort Travel
 **Daily budget: ฿3,000+ ($85+ USD)**
 
-Beach resorts, fine dining, private tours, and high-end spas define this tier. Island destinations like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/islands/phuket/) cater heavily to this market, with 4–5 star hotels, beachfront restaurants, and premium experiences.
+Beach resorts, fine dining, private tours, and high-end spas define this tier. Island destinations like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) cater heavily to this market, with 4–5 star hotels, beachfront restaurants, and premium experiences.
 
 **What's included:**
 - **Accommodation:** 4–5 star hotels, resorts (฿2,000–5,000+)
@@ -127,7 +127,7 @@ This tier includes charming guesthouses, small hotels with personality, and mid-
 ### Luxury Resorts & High-End Hotels
 **฿2,000–5,000+ ($57–143+ USD) per night**
 
-Island resorts, 4–5 star hotels, and beachfront properties dominate this category. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/islands/phuket/) have the most options, but luxury is available everywhere—even in Chiang Mai you'll find high-end resorts.
+Island resorts, 4–5 star hotels, and beachfront properties dominate this category. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) have the most options, but luxury is available everywhere—even in Chiang Mai you'll find high-end resorts.
 
 <div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
@@ -172,7 +172,7 @@ When we explored [Bangkok's street food markets](/blog/best-street-food-markets-
 This is authentic Thailand. **Pad Thai, khao pad, som tam, pad krapow moo**—these dishes are everywhere, cheap, and incredible. Markets open early morning (5–9am) for breakfast, midday (11am–2pm) for lunch, and evening (4–9pm) for dinner. Each meal costs ฿40–80 for a single dish; add a drink for ฿10–20.
 
 **Best street food neighborhoods:**
-- **Bangkok:** [Chatuchak Market](/city/bangkok/attractions/chatuchak-market/), Yaowarat (Chinatown), Talad Rot Fai — also see the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/)
+- **Bangkok:** [Chatuchak Market](/city/bangkok/attractions/), Yaowarat (Chinatown), Talad Rot Fai — also see the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/)
 - **Chiang Mai:** Warorot Market, [Sunday Walking Street](/city/chiang-mai/attractions/sunday-night-market/)
 - **Phuket:** [Phuket Town Old Town](/blog/old-town-phuket-walking-guide-street-art-cafes-2026/), Patong Beach markets
 - **Islands:** Night markets in [Koh Samui](/best-hotels/koh-samui/) and [Koh Phangan](/best-hotels/koh-samui/)
@@ -281,7 +281,7 @@ When we took a cooking class in Chiang Mai, we paid ฿700 ($20) for a 4-hour cl
 Thailand's temples, beaches, and markets are free or nearly free. Donations at temples are optional (฿20–100 if you wish). Night markets are free to browse. Beaches have no entrance fee. Hiking in national parks costs ฿200–400 for entry.
 
 **Best free activities:**
-- **Temple visits:** Wat Phra That Doi Suthep (Chiang Mai), [Grand Palace](/city/bangkok/attractions/grand-palace/) (Bangkok), [Wat Phra Singh](/city/chiang-mai/attractions/wat-phra-singh/) (Chiang Mai) — read our [temple etiquette guide](/blog/thailand-temple-etiquette-dress-code-guide-2026/) before going
+- **Temple visits:** Wat Phra That Doi Suthep (Chiang Mai), [Grand Palace](/city/bangkok/attractions/) (Bangkok), [Wat Phra Singh](/city/chiang-mai/attractions/wat-phra-singh/) (Chiang Mai) — read our [temple etiquette guide](/blog/thailand-temple-etiquette-dress-code-guide-2026/) before going
 - **Night markets:** [Chiang Mai Sunday Walking Street](/city/chiang-mai/attractions/sunday-night-market/), Bangkok Talad Rot Fai, [Phuket Old Town](/blog/old-town-phuket-walking-guide-street-art-cafes-2026/)
 - **Beaches:** Any public beach in Thailand is free — see our [best beaches in Thailand](/best-beaches-in-thailand/) guide for where to go
 - **Hiking:** National parks charge ฿200–400 entry
@@ -470,7 +470,7 @@ Private tours, spa treatments, and exclusive experiences cost more but offer lux
 - **Credit card surcharge:** Some restaurants add 3–5% surcharge for credit cards. Ask before paying
 - **Resort fees:** High-end hotels sometimes charge ฿300–500 "resort fee" not included in room rate. Confirm when booking
 - **Drink minimums:** Some bars have drink minimums or table charges. Ask before sitting
-- **Overstaying visa:** Overstay fines are ฿500 per day. Check the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for current requirements — rules changed significantly in late 2025
+- **Overstaying visa:** Overstay fines are ฿500 per day. Check the [Thailand visa guide 2026](/visa/) for current requirements — rules changed significantly in late 2025
 
 ### Scams to Avoid
 **Common tourist scams and how to avoid them:**
@@ -661,7 +661,7 @@ Longer stays allow better negotiated rates on accommodation, reducing overall co
 
 The key to smart budgeting isn't cutting corners on everything—it's knowing where to save (street food, local transport, budget accommodation) and where to splurge (cooking classes, guided tours, occasional good meals). Our three years in Chiang Mai and extensive travels throughout Thailand taught us that the best experiences often cost the least.
 
-Ready to plan your Thailand trip? Start with our [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) or the [10-day Thailand itinerary](/blog/thailand-10-day-itinerary/) to map your route, then use these budget breakdowns to plan your daily spending. For a specific 2-week cost estimate, our [how much does 2 weeks in Thailand cost guide](/blog/how-much-2-weeks-thailand-cost-2026-budget/) runs through the numbers in detail. And if you are still deciding where to stay, our [where to stay in Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) and [Chiang Mai city guide](/city/chiang-mai/) are the best starting points.
+Ready to plan your Thailand trip? Start with our [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) or the [10-day Thailand itinerary](/blog/thailand-10-day-itinerary/) to map your route, then use these budget breakdowns to plan your daily spending. For a specific 2-week cost estimate, our [how much does 2 weeks in Thailand cost guide](/thailand-index/budget/) runs through the numbers in detail. And if you are still deciding where to stay, our [where to stay in Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) and [Chiang Mai city guide](/city/chiang-mai/) are the best starting points.
 
 **You've got this.** Thailand is waiting, and your money will stretch further than you think.
 

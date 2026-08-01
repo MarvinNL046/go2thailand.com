@@ -4,11 +4,13 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
-import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import monthlyGuides from '../../data/monthly-guides.json';
 import { getAllCities } from '../../lib/cities';
+import ThailandMonthGuideNl from '../../components/planning/ThailandMonthGuideNl';
+import ThailandMonthGuideEn from '../../components/planning/ThailandMonthGuideEn';
+import { isMonthSlugNl } from '../../data/thailand-month-guides.nl';
 
 interface MonthlyGuide {
   month: string;
@@ -50,6 +52,26 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
   const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl && isMonthSlugNl(guide.slug)) {
+    return (
+      <ThailandMonthGuideNl
+        slug={guide.slug}
+        previousMonth={previousMonth}
+        nextMonth={nextMonth}
+      />
+    );
+  }
+
+  if (!isNl) {
+    return (
+      <ThailandMonthGuideEn
+        guide={guide}
+        previousMonth={previousMonth}
+        nextMonth={nextMonth}
+      />
+    );
+  }
 
   const monthNl: Record<string, string> = {
     January: 'Januari', February: 'Februari', March: 'Maart', April: 'April',
@@ -172,11 +194,11 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                   {isNl ? 'Vorige Maand' : 'Previous Month'}
                 </Link>
               ) : <div />}
-              
-              <Link href="/travel-guides/thailand-weather/" className="text-gray-600 hover:text-thailand-blue">
+
+              <Link href={isNl ? '/weather/' : '/travel-guides/thailand-weather/'} className="text-gray-600 hover:text-thailand-blue">
                 {isNl ? 'Alle Maanden' : 'View All Months'}
               </Link>
-              
+
               {nextMonth ? (
                 <Link href={`/thailand-in/${nextMonth}/`} className="flex items-center text-thailand-blue hover:underline">
                   {isNl ? 'Volgende Maand' : 'Next Month'}
@@ -193,17 +215,17 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
         <section className="section-padding">
           <div className="container-custom">
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
-              
+
               {/* Main Content Column */}
               <div className="lg:col-span-2 space-y-12">
-                
+
                 {/* Weather Details */}
                 <div className="bg-white rounded-2xl shadow-md p-8">
                   <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 flex items-center">
                     <span className="text-3xl mr-3"></span>
                     {isNl ? `Weer in ${monthName}` : `Weather in ${guide.month}`}
                   </h2>
-                  
+
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
                     <div className="text-center">
                       <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Noord-Thailand' : 'Northern Thailand'}</h3>
@@ -221,7 +243,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                       <p className="text-sm text-gray-600 mt-1">{t("s003_phuket_krabi_koh_samui")}</p>
                     </div>
                   </div>
-                  
+
                   <div className="border-t pt-6">
                     <div className="grid grid-cols-2 gap-4">
                       <div>
@@ -397,7 +419,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                       </div>
                     </Link>
                     <Link
-                      href="/thailand-index/best-time"
+                      href={isNl ? '/weather/' : '/thailand-index/best-time/'}
                       className="flex items-center gap-3 bg-surface-cream rounded-xl p-4 hover:shadow-md transition-all group"
                     >
                       <span className="text-2xl">📅</span>
@@ -433,7 +455,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
               {/* Sidebar */}
               <div className="lg:col-span-1">
                 <div className="sticky top-4 space-y-8">
-                  
+
                   {/* Trip.com Widget */}
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">
@@ -449,9 +471,9 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                     </h3>
                     <div className="space-y-2">
                       {popularCities.slice(0, 6).map((city) => (
-                        <Link 
+                        <Link
                           key={city.slug}
-                          href={`/city/${city.slug}/`} 
+                          href={`/city/${city.slug}/`}
                           className="block text-thailand-blue hover:underline"
                         >
                           {city.name.en}
@@ -498,7 +520,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 <a
                   href="https://klook.tpo.lv/aq6ZFxvc?subid=month-guide"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-center bg-thailand-red text-white py-3 px-4 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
                 >
                   {isNl ? 'Bekijk Klook Activiteiten' : 'Browse Klook Activities'}
@@ -506,7 +528,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                 <a
                   href="https://getyourguide.tpo.lv/GuAFfGGK?subid=month-guide"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-center bg-thailand-blue text-white py-3 px-4 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                 >
                   {isNl ? 'Bekijk GetYourGuide' : 'Browse GetYourGuide'}

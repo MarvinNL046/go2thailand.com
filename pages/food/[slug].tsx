@@ -3,11 +3,57 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import fs from 'fs';
 import path from 'path';
-import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRelatedDishes, generateFoodBreadcrumbs } from '../../lib/food';
+import { getDishBySlug, getEnhancedDishBySlug, getRelatedDishes } from '../../lib/food';
 import SEOHead from '../../components/SEOHead';
 import FoodCityLinks from '../../components/FoodCityLinks';
 import FoodAffiliateCTA from '../../components/FoodAffiliateCTA';
 import InlineAd from '../../components/ads/InlineAd';
+import { DutchDishGuide } from '../../components/food/DutchDishGuide';
+import { PadThaiGuideEn } from '../../components/food/PadThaiGuideEn';
+import { MassamanCurryGuideEn } from '../../components/food/MassamanCurryGuideEn';
+import { MangoStickyRiceGuideEn } from '../../components/food/MangoStickyRiceGuideEn';
+import { GreenCurryGuideEn } from '../../components/food/GreenCurryGuideEn';
+import { PadKraPaoGuideEn } from '../../components/food/PadKraPaoGuideEn';
+import { PadSeeEwGuideEn } from '../../components/food/PadSeeEwGuideEn';
+import { LarbGuideEn } from '../../components/food/LarbGuideEn';
+import { LaabKuaGuideEn } from '../../components/food/LaabKuaGuideEn';
+import { ThaiFriedRiceGuideEn } from '../../components/food/ThaiFriedRiceGuideEn';
+import { KhaoManGaiGuideEn } from '../../components/food/KhaoManGaiGuideEn';
+import { BoatNoodlesGuideEn } from '../../components/food/BoatNoodlesGuideEn';
+import { SaiUaGuideEn } from '../../components/food/SaiUaGuideEn';
+import { NamPrikOngGuideEn } from '../../components/food/NamPrikOngGuideEn';
+import { GaengHangLayGuideEn } from '../../components/food/GaengHangLayGuideEn';
+import { MeeHokkienGuideEn } from '../../components/food/MeeHokkienGuideEn';
+import { OhAewGuideEn } from '../../components/food/OhAewGuideEn';
+import { MooHongGuideEn } from '../../components/food/MooHongGuideEn';
+import { NamPrikGoongSiapGuideEn } from '../../components/food/NamPrikGoongSiapGuideEn';
+import { KhanomJeenNamYaGuideEn } from '../../components/food/KhanomJeenNamYaGuideEn';
+import { HoiTodGuideEn } from '../../components/food/HoiTodGuideEn';
+import { PlaPaoGuideEn } from '../../components/food/PlaPaoGuideEn';
+import { YamWoonSenGuideEn } from '../../components/food/YamWoonSenGuideEn';
+import { KhaoPadSapparotGuideEn } from '../../components/food/KhaoPadSapparotGuideEn';
+import { RotiSaiMaiGuideEn } from '../../components/food/RotiSaiMaiGuideEn';
+import { TomYumNoodlesGuideEn } from '../../components/food/TomYumNoodlesGuideEn';
+import { KhaoMokGaiGuideEn } from '../../components/food/KhaoMokGaiGuideEn';
+import { GoongPadMakhamGuideEn } from '../../components/food/GoongPadMakhamGuideEn';
+import { TomSomPlaGuideEn } from '../../components/food/TomSomPlaGuideEn';
+import { GaiTodHatYaiGuideEn } from '../../components/food/GaiTodHatYaiGuideEn';
+import { KhaoYamGuideEn } from '../../components/food/KhaoYamGuideEn';
+import { NamNgiaoGuideEn } from '../../components/food/NamNgiaoGuideEn';
+import { TamKhanunGuideEn } from '../../components/food/TamKhanunGuideEn';
+import { KhaoKanJinGuideEn } from '../../components/food/KhaoKanJinGuideEn';
+import { RotiCanaiGuideEn } from '../../components/food/RotiCanaiGuideEn';
+import { BuaLoyGuideEn } from '../../components/food/BuaLoyGuideEn';
+import { SukhothaiNoodlesGuideEn } from '../../components/food/SukhothaiNoodlesGuideEn';
+import { KaengLiangGuideEn } from '../../components/food/KaengLiangGuideEn';
+import { MooPaloGuideEn } from '../../components/food/MooPaloGuideEn';
+import { NamPrikNoomGuideEn } from '../../components/food/NamPrikNoomGuideEn';
+import { NamPrikKapiGuideEn } from '../../components/food/NamPrikKapiGuideEn';
+import { GaengTaiPlaGuideEn } from '../../components/food/GaengTaiPlaGuideEn';
+import { GoongPadSatorGuideEn } from '../../components/food/GoongPadSatorGuideEn';
+import { LodChongGuideEn } from '../../components/food/LodChongGuideEn';
+import { SomTamGuideEn } from '../../components/food/SomTamGuideEn';
+import { TomYumGoongGuideEn } from '../../components/food/TomYumGoongGuideEn';
 
 interface EnhancedDish {
   id: number;
@@ -70,6 +116,10 @@ interface EnhancedDish {
     serves: string;
   };
   ai_generated?: boolean;
+  seo?: {
+    metaTitle?: { en?: string };
+    metaDescription?: { en?: string };
+  };
 }
 
 interface CityLink {
@@ -91,15 +141,196 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
   if (!dish) return <div>Dish not found</div>;
 
-  const metadata = generateDishMetadata(dish);
+  if (isNl) {
+    return <DutchDishGuide dish={dish} relatedDishes={relatedDishes} />;
+  }
+
+  if (dish.slug === 'pad-thai') {
+    return <PadThaiGuideEn />;
+  }
+
+  if (dish.slug === 'massaman-curry') {
+    return <MassamanCurryGuideEn />;
+  }
+
+  if (dish.slug === 'mango-sticky-rice') {
+    return <MangoStickyRiceGuideEn />;
+  }
+
+  if (dish.slug === 'green-curry') {
+    return <GreenCurryGuideEn />;
+  }
+
+  if (dish.slug === 'pad-krapow') {
+    return <PadKraPaoGuideEn />;
+  }
+
+  if (dish.slug === 'pad-see-ew') {
+    return <PadSeeEwGuideEn />;
+  }
+
+  if (dish.slug === 'larb') {
+    return <LarbGuideEn />;
+  }
+
+  if (dish.slug === 'laab-kua') {
+    return <LaabKuaGuideEn />;
+  }
+
+  if (dish.slug === 'thai-fried-rice') {
+    return <ThaiFriedRiceGuideEn />;
+  }
+
+  if (dish.slug === 'khao-man-gai') {
+    return <KhaoManGaiGuideEn />;
+  }
+
+  if (dish.slug === 'boat-noodles') {
+    return <BoatNoodlesGuideEn />;
+  }
+
+  if (dish.slug === 'sai-ua') {
+    return <SaiUaGuideEn />;
+  }
+
+  if (dish.slug === 'nam-prik-ong') {
+    return <NamPrikOngGuideEn />;
+  }
+
+  if (dish.slug === 'gaeng-hang-lay') {
+    return <GaengHangLayGuideEn />;
+  }
+
+  if (dish.slug === 'mee-hokkien') {
+    return <MeeHokkienGuideEn />;
+  }
+
+  if (dish.slug === 'oh-aew') {
+    return <OhAewGuideEn />;
+  }
+
+  if (dish.slug === 'moo-hong') {
+    return <MooHongGuideEn />;
+  }
+
+  if (dish.slug === 'nam-prik-goong-siap') {
+    return <NamPrikGoongSiapGuideEn />;
+  }
+
+  if (dish.slug === 'kanom-jeen-nam-ya') {
+    return <KhanomJeenNamYaGuideEn />;
+  }
+
+  if (dish.slug === 'hoy-tod') {
+    return <HoiTodGuideEn />;
+  }
+
+  if (dish.slug === 'pla-pao') {
+    return <PlaPaoGuideEn />;
+  }
+
+  if (dish.slug === 'yam-woon-sen') {
+    return <YamWoonSenGuideEn />;
+  }
+
+  if (dish.slug === 'khao-pad-sapparot') {
+    return <KhaoPadSapparotGuideEn />;
+  }
+
+  if (dish.slug === 'roti-sai-mai') {
+    return <RotiSaiMaiGuideEn />;
+  }
+
+  if (dish.slug === 'tom-yum-noodles') {
+    return <TomYumNoodlesGuideEn />;
+  }
+
+  if (dish.slug === 'khao-mok-gai') {
+    return <KhaoMokGaiGuideEn />;
+  }
+
+  if (dish.slug === 'goong-pad-makham') {
+    return <GoongPadMakhamGuideEn />;
+  }
+
+  if (dish.slug === 'tom-som-pla') {
+    return <TomSomPlaGuideEn />;
+  }
+
+  if (dish.slug === 'gai-tod-hat-yai') {
+    return <GaiTodHatYaiGuideEn />;
+  }
+
+  if (dish.slug === 'khao-yam') {
+    return <KhaoYamGuideEn />;
+  }
+
+  if (dish.slug === 'nam-ngiao') {
+    return <NamNgiaoGuideEn />;
+  }
+
+  if (dish.slug === 'tam-khanun') {
+    return <TamKhanunGuideEn />;
+  }
+
+  if (dish.slug === 'khao-kan-jin') {
+    return <KhaoKanJinGuideEn />;
+  }
+
+  if (dish.slug === 'roti-canai') {
+    return <RotiCanaiGuideEn />;
+  }
+
+  if (dish.slug === 'bua-loy') {
+    return <BuaLoyGuideEn />;
+  }
+
+  if (dish.slug === 'sukhothai-noodles') {
+    return <SukhothaiNoodlesGuideEn />;
+  }
+
+  if (dish.slug === 'kaeng-liang') {
+    return <KaengLiangGuideEn />;
+  }
+
+  if (dish.slug === 'moo-palo') {
+    return <MooPaloGuideEn />;
+  }
+
+  if (dish.slug === 'nam-prik-noom') {
+    return <NamPrikNoomGuideEn />;
+  }
+
+  if (dish.slug === 'nam-prik-kapi') {
+    return <NamPrikKapiGuideEn />;
+  }
+
+  if (dish.slug === 'gaeng-tai-pla') {
+    return <GaengTaiPlaGuideEn />;
+  }
+
+  if (dish.slug === 'goong-pad-sator') {
+    return <GoongPadSatorGuideEn />;
+  }
+
+  if (dish.slug === 'lod-chong') {
+    return <LodChongGuideEn />;
+  }
+
+  if (dish.slug === 'som-tam') {
+    return <SomTamGuideEn />;
+  }
+
+  if (dish.slug === 'tom-yum-goong') {
+    return <TomYumGoongGuideEn />;
+  }
 
   // Optimized SEO title and description (overrides lib defaults)
-  const categoryLabel = dish.category.replace('-', ' ');
   // Use custom SEO title from JSON if available, otherwise generate
-  const dishAny = dish as Record<string, any>;
-  const seoTitle = dishAny.seo?.metaTitle?.en || `${dish.name.en} (${dish.name.thai}) — What It Is, Where to Eat It & Prices`;
+  const seoTitle = dish.seo?.metaTitle?.en || `${dish.name.en} (${dish.name.thai}) — What It Is, Where to Eat It & Prices`;
   const descriptionBase = (dish.enhanced_description || dish.description.en).substring(0, 100);
-  const seoDescription = dishAny.seo?.metaDescription?.en || `${dish.name.en} (${dish.name.thai}) — ${descriptionBase}. Where to find it, prices, and what makes it special.`;
+  const seoDescription = dish.seo?.metaDescription?.en || `${dish.name.en} (${dish.name.thai}) — ${descriptionBase}. Where to find it, prices, and what makes it special.`;
+  const seoKeywords = [dish.name.en, dish.name.thai, 'Thai food', 'Thai cuisine', dish.category, dish.region, ...dish.ingredients.slice(0, 5)].join(', ');
 
   const getSpiceLevelColor = (level: string) => {
     switch (level) {
@@ -127,7 +358,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
         description={seoDescription}
         ogImage={dish.image?.startsWith('http') ? dish.image : `https://go2-thailand.com${dish.image}`}
       >
-        <meta name="keywords" content={metadata.keywords} />
+        <meta name="keywords" content={seoKeywords} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -227,7 +458,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                     <div className="text-2xl mb-2"></div>
                     <div className="text-sm text-gray-600">{isNl ? 'Regio' : 'Region'}</div>
                     <div className="font-semibold capitalize">
-                      <Link href={`/region/${dish.region}/`} className="text-thailand-blue hover:underline">
+                      <Link href={`/region/${dish.region === 'northeastern' ? 'isaan' : dish.region}/`} className="text-thailand-blue hover:underline">
                         {dish.region === 'isaan' ? 'Isaan (Northeast)' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`}
                       </Link>
                     </div>
@@ -497,7 +728,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
               <h2 className="text-3xl font-heading font-bold text-gray-900 mb-8 text-center">{isNl ? 'Gerelateerde Gerechten' : 'Related Dishes'}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 {relatedDishes.map((relatedDish) => (
-                  <Link key={relatedDish.id} href={`/food/${relatedDish.slug}`} className="group">
+                  <Link key={relatedDish.id} href={relatedDish.slug === 'khao-soi' ? '/blog/khao-soi-chiang-mai-guide/' : `/food/${relatedDish.slug}/`} className="group">
                     <div className="bg-surface-cream rounded-2xl overflow-hidden shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                       <img
                         src={relatedDish.image}
@@ -548,7 +779,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
             </p>
             <div className="flex flex-wrap gap-3 justify-center">
               <Link
-                href={`/region/${dish.region}/`}
+                href={`/region/${dish.region === 'northeastern' ? 'isaan' : dish.region}/`}
                 className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
               >
                 {isNl ? 'Ontdek' : 'Explore'} {dish.region === 'isaan' ? 'Isaan' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`}
@@ -587,7 +818,18 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const dish = getEnhancedDishBySlug(slug, locale);
+  if (locale !== 'nl' && slug === 'khao-soi') {
+    return {
+      redirect: {
+        destination: '/blog/khao-soi-chiang-mai-guide/',
+        permanent: true,
+      },
+    };
+  }
+  // Dutch dish pages use the verified base records and their dedicated
+  // editorial profiles. This avoids leaking stale English enhanced content,
+  // generated prices and unsupported health or restaurant claims into NL.
+  const dish = locale === 'nl' ? getDishBySlug(slug) : getEnhancedDishBySlug(slug, locale);
   if (!dish) return { notFound: true };
 
   const relatedDishes = getRelatedDishes(dish, 4);

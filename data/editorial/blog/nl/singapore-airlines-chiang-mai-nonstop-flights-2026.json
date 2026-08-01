@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "singapore-airlines-chiang-mai-nonstop-flights-2026",
+  "route": "/nl/blog/singapore-airlines-chiang-mai-nonstop-flights-2026/",
+  "cluster": "transport",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Singapore Airlines–Chiang Mai: claim niet bevestigd",
+    "description": "De beweerde non-stopvlucht van Singapore Airlines naar Chiang Mai is niet officieel bevestigd. Controleer uitvoerende maatschappij en actuele dienstregeling.",
+    "primaryKeyword": "Singapore Airlines Chiang Mai",
+    "secondaryKeywords": ["Singapore Chiang Mai vlucht", "vluchten Chiang Mai 2026"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/singapore-airlines-chiang-mai-nonstop-flights-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gearchiveerde routeclaim",
+    "title": "Geen bevestigde Singapore Airlines-route",
+    "accent": "Controleer de uitvoerende maatschappij",
+    "description": "De officiële SIA-zomerdienstregeling bevestigt extra Bangkok-vluchten, niet de geclaimde eigen non-stopdienst naar Chiang Mai. Boek alleen op basis van live vluchtgegevens.",
+    "image": "/images/redesign/editorial/singapore-airlines-chiang-mai-nonstop-flights-2026-hero.webp",
+    "imageAlt": "Generiek passagiersvliegtuig op Chiang Mai Airport met een onscherp vertrekbord",
+    "primaryCta": { "label": "Lees de verificatie", "href": "#status" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Op 1 augustus 2026 is geen primaire bron gevonden die een door Singapore Airlines zelf uitgevoerde nieuwe non-stopdienst Singapore–Chiang Mai bevestigt. Een codeshare- of boekingsresultaat bewijst niet wie de vlucht uitvoert.",
+  "blocks": [
+    { "kind": "callout", "id": "status", "tone": "warning", "title": "Deze pagina staat op noindex", "description": "De oorspronkelijke nieuwskop liep vooruit op officiële bevestiging. De routeclaim wordt niet als actuele reisinformatie gepubliceerd." },
+    { "kind": "checklist", "id": "vluchtcheck", "title": "Controleer een vlucht correct", "items": ["Uitvoerende maatschappij, niet alleen verkopende maatschappij", "Vluchtnummer en vertrekdatum", "Non-stop versus overstap", "Bagage op alle segmenten", "Wijzigings- en annuleringsvoorwaarden", "Live schema op de dag vóór vertrek"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Vliegt Singapore Airlines non-stop naar Chiang Mai?", "answer": "Niet op basis van de primaire bronnen die op 1 augustus 2026 zijn gecontroleerd. Zoekresultaten kunnen verbindingen of codeshares tonen." },
+      { "question": "Waarom zie ik de route toch op een boekingspagina?", "answer": "Een luchtvaartmaatschappij kan een reis verkopen die door een partner wordt uitgevoerd of een overstap bevat. Controleer altijd ‘operated by’." }
+    ]},
+    { "kind": "related", "id": "verder", "title": "Plan met actuele owners", "items": [
+      { "title": "Chiang Mai", "description": "Plan de bestemming los van één onbevestigde route.", "href": "/nl/city/chiang-mai/" },
+      { "title": "Vliegen naar Thailand", "description": "Vergelijk routes en overstappen op actuele voorwaarden.", "href": "/nl/flights/" }
+    ]},
+    { "kind": "sources", "id": "bronnen", "title": "Verificatiebronnen", "items": [
+      { "title": "Network adjustments for the 2026 Northern Summer season", "publisher": "Singapore Airlines", "url": "https://www.singaporeair.com/en_UK/sg/corporate/newsroom/press-release/2026/january---march-2026/network_adjustments_2026_northern_summer/", "checkedAt": "2026-08-01", "note": "Bevestigt extra Bangkok-capaciteit, niet de geclaimde Chiang Mai-route." },
+      { "title": "Flights from Chiang Mai to Singapore", "publisher": "Singapore Airlines", "url": "https://www.singaporeair.com/en-th/flights-from-chiang-mai-to-singapore", "checkedAt": "2026-08-01", "note": "Een verkoop- of zoekpagina bewijst niet dat SIA zelf een non-stopdienst uitvoert." }
+    ]}
+  ]
+}

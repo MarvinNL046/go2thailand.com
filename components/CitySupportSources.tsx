@@ -1,4 +1,4 @@
-interface ContentSource {
+export interface ContentSource {
   type?: string;
   title: string;
   creator?: string;

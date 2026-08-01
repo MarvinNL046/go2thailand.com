@@ -1,0 +1,49 @@
+{
+  "captured_at": "2026-07-24T16:30:18.766Z",
+  "locale": "nl",
+  "url": "https://tfic.airports.go.th/lcd/?p=TSB",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": null,
+    "footer": null,
+    "main_topic": null,
+    "secondary_topic": [
+      {
+        "h_title": "Airport",
+        "main_title": "Airport",
+        "author": null,
+        "language": null,
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Loading Flight...",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "© Department of Airports, Thailand. All Rights Reserved. สงวนลิขสิทธิ์ กรมท่าอากาศยาน",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Flight Information",
+        "main_title": "Airport",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

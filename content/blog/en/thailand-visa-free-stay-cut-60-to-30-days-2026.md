@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "visa"
 tags: ["Thailand visa 2026", "visa-free stay Thailand", "Thailand 30 day visa", "Thailand visa changes", "Thailand immigration 2026", "Thailand tourist visa"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-visa-free-stay-cut-60-to-30-days-2026-hero.webp"
 description: "Thailand's government is planning to cut the visa-free stay from 60 days back to 30 days. Here is what the change means for tourists and when it takes effect."
 featured: false
 readingTime: 3
@@ -26,7 +26,7 @@ sources:
 
 On March 22, 2026, Thailand's Ministry of Foreign Affairs gave the green light to a proposal that would cut the current 60-day visa-free stay back to 30 days. The plan still needs Cabinet approval before it becomes law, but the direction is clear: shorter initial stays for tourists arriving without a visa.
 
-The move reverses a July 2024 decision that expanded visa exemptions from 57 to 93 countries and doubled the standard stay from 30 to 60 days. That policy was designed to supercharge tourism after the pandemic, and it worked. But officials now say the generous rules have also been exploited by people involved in online scam networks and other non-tourism activities. This is part of a broader wave of [Thailand visa changes in 2026](/blog/thailand-visa-guide-2026/), including a [major e-visa overhaul that cut 17 visa categories down to 7](/blog/thailand-evisa-overhaul-2026-simplified-categories/).
+The move reverses a July 2024 decision that expanded visa exemptions from 57 to 93 countries and doubled the standard stay from 30 to 60 days. That policy was designed to supercharge tourism after the pandemic, and it worked. But officials now say the generous rules have also been exploited by people involved in online scam networks and other non-tourism activities. This is part of a broader wave of [Thailand visa changes in 2026](/visa/), including a [major e-visa overhaul that cut 17 visa categories down to 7](/blog/thailand-evisa-overhaul-2026-simplified-categories/).
 
 ## How the New Rules Would Work
 
@@ -50,12 +50,12 @@ No exact date has been confirmed. The proposal must pass through a Cabinet revie
 
 ## What Should You Do?
 
-If you are planning a trip to Thailand longer than 30 days and relying on visa-free entry, consider either applying for a tourist visa at a Thai embassy before departure or budgeting extra time and money for the in-country extension process. Keep checking official Thai immigration channels for the final decision. Our [complete Thailand visa guide for 2026](/blog/thailand-visa-guide-2026/) covers all visa types, costs, and application steps in detail.
+If you are planning a trip to Thailand longer than 30 days and relying on visa-free entry, consider either applying for a tourist visa at a Thai embassy before departure or budgeting extra time and money for the in-country extension process. Keep checking official Thai immigration channels for the final decision. Our [complete Thailand visa guide for 2026](/visa/) covers all visa types, costs, and application steps in detail.
 
 For digital nomads and long-stay visitors who have been relying on visa-exempt entries, the [era of visa runs is also coming to an end in 2026](/blog/thailand-visa-run-era-ending-2026-expat-guide/) — making it even more important to secure the right long-term visa from the start.
 
-When you arrive, you will also need to complete the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) online before boarding your flight. It is a quick process, but skipping it can cause delays at immigration.
+When you arrive, you will also need to complete the [Thailand Digital Arrival Card (TDAC)](/visa/digital-arrival-card/) online before boarding your flight. It is a quick process, but skipping it can cause delays at immigration.
 
-For trips of 30 days or less, nothing changes. Thailand remains one of the easiest countries in Southeast Asia to visit, and the entry process at airports like Suvarnabhumi and Phuket stays the same. Before you travel, make sure you have sorted your [SIM card or eSIM for Thailand](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) so you have connectivity from the moment you land. It is also worth reviewing [Thailand's most common travel scams](/blog/thailand-travel-scams-2026/) and making sure you have [travel insurance](/blog/travel-insurance-thailand-guide/) in place — both become more important when plans change due to visa issues.
+For trips of 30 days or less, nothing changes. Thailand remains one of the easiest countries in Southeast Asia to visit, and the entry process at airports like Suvarnabhumi and Phuket stays the same. Before you travel, make sure you have sorted your [SIM card or eSIM for Thailand](/travel-guides/sim-card-thailand/) so you have connectivity from the moment you land. It is also worth reviewing [Thailand's most common travel scams](/practical-info/scams-safety/) and making sure you have [travel insurance](/blog/travel-insurance-thailand-guide/) in place — both become more important when plans change due to visa issues.
 
-If you are still deciding when to visit, our [month-by-month guide to the best time to visit Thailand](/blog/best-time-to-visit-thailand/) can help you plan around both the weather and the new entry rules. And if this is your first trip, the [essential guide for first-time visitors](/blog/thailand-first-time-visitors-essential-guide-2026/) covers everything from entry requirements to budgeting — including an overview of [what Thailand actually costs per day in 2026](/blog/thailand-budget-2026-daily-costs/).
+If you are still deciding when to visit, our [month-by-month guide to the best time to visit Thailand](/blog/best-time-to-visit-thailand/) can help you plan around both the weather and the new entry rules. And if this is your first trip, the [essential guide for first-time visitors](/blog/thailand-first-time-visitors-essential-guide-2026/) covers everything from entry requirements to budgeting — including an overview of [what Thailand actually costs per day in 2026](/thailand-index/budget/).

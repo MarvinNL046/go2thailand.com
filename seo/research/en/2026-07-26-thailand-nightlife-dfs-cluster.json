@@ -1,0 +1,2440 @@
+{
+  "captured_at": "2026-07-26T15:53:30.718Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand nightlife",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.01608,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand nightlife",
+    "bangkok nightlife thailand",
+    "koh samui thailand nightlife",
+    "nightlife in bangkok thailand",
+    "nightlife in koh samui thailand",
+    "nightlife in pattaya thailand",
+    "nightlife in thailand #bangkok",
+    "nightlife in thailand bangkok",
+    "nightlife in thailand pattaya",
+    "nightlife pattaya thailand",
+    "pattaya thailand nightlife",
+    "thailand koh samui nightlife",
+    "thailand nightlife in pattaya",
+    "thailand nightlife pattaya",
+    "thailand pattaya nightlife",
+    "nightlife in phuket thailand",
+    "nightlife in thailand phuket",
+    "phuket thailand nightlife",
+    "thailand phuket nightlife",
+    "nightlife in krabi thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "bangla road phuket",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok nightlife #thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok nightlife thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui thailand nightlife",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in bangkok thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in koh samui thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in pattaya thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in thailand #bangkok",
+      "volume": 1000,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in thailand bangkok",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in thailand pattaya",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife pattaya thailand",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife thailand bangkok",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand bangkok nightlife",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand koh samui nightlife",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife #bangkok",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife bangkok",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife in pattaya",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife pattaya",
+      "volume": 1000,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya nightlife",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in phuket thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in thailand phuket",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand nightlife",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife phuket",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand phuket nightlife",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand nightlife",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in krabi thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand krabi nightlife",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife at thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife of thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand nightlife",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife hua hin thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in hua hin thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife thailand phuket",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket city thailand nightlife",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang mai thailand nightlife",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh lanta thailand nightlife",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in chiang mai thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in phi phi island thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao lak thailand nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in patong phuket thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in patong thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach thailand nightlife",
+      "volume": 210,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong thailand nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand patong nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ao nang thailand nightlife",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao thailand nightlife",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in udon thani thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "udon thani thailand nightlife",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "jomtien thailand nightlife",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best nightlife in thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best nightlife thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samet thailand nightlife",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in rayong thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rayong thailand nightlife",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand best nightlife",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pai thailand nightlife",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife walking street",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street nightlife",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai thailand nightlife",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya nightlife walking street",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ban chang thailand nightlife",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangla road thailand nightlife",
+      "volume": 50,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "buriram thailand nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cha am thailand nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon thailand nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife khon kaen thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand bangkok nightlife areas",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in thailand pattaya beach",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya beach nightlife",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya beach thailand nightlife",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife for singles",
+      "volume": 40,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife for singles",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand ubon ratchathani nightlife",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ubon ratchathani thailand nightlife",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place for nightlife in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best places in thailand for nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "isaan thailand nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife #thailand",
+      "volume": 30,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife thailand",
+      "volume": 30,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket island thailand nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand nightlife",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya videos",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand nightlife",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket adults only",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket direction",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chaiyaphum thailand nightlife",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong khai thailand nightlife",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya beach road freelancers price",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife for couples",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife video",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya soi 6 vs walking street",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife for singles",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket nightlife boom boom price",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "si racha thailand nightlife",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sriracha thailand nightlife",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang nightlife thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trang thailand nightlife",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vietnam nightlife vs thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bali nightlife vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bali vs thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok pattaya nightlife in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand nightlife street",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand nightlife youtube",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket location",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket to patong beach",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best cities in thailand for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best city in thailand for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best nightlife in phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best nightlife in thailand for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best nightlife in thailand islands",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place in thailand for beach and nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best places to go in thailand for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "betong thailand nightlife 2018",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bueng kan thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cambodia nightlife vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chanthaburi thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chonburi thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "copenhagen thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost of nightlife in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "countries like thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "countries like thailand nightlife for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "famous street in thailand for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hatyai thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin nightlife thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thailand nightlife open",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh chang thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand nightlife",
+      "volume": 10,
+      "kd": 40,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kosumi thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand nightlife for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lampang thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lamphun thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "loei thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lopburi thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae sai thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mukdahan thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nan thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nana thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife chumphon thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in bangkok thailand for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in betong thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in hat yai thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in pattaya thailand for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in surin thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife koh tao thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife rayong thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nonthaburi thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patpong thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattani thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya in thailand nightlife",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife tips",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street live",
+      "volume": 10,
+      "kd": 53,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street night club",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street nightlife for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phichit thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines nightlife vs thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phitsanulok thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phrae thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket bangla street nightlife",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket nightlife for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket nightlife street",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket thailand nightlife for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand nightlife photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand patong nightlife",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "places to visit in thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ranong thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rayong thailand nightlife for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sa kaeo thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sadao thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sakon nakhon thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "saraburi thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "satun thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "silom thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tak thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand #nightlife ladies",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand bangkok nightlife for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand bangkok pattaya nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife blog",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife experience",
+      "volume": 10,
+      "kd": 45,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife for adults",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife forum",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife guide",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife reopening",
+      "volume": 10,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife restrictions",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife street",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife video",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife videos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife youtube",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya beach nightlife",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya nightlife video",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand red light area nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand street nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourism nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand udon thani nightlife",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs philippines nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand vs vietnam nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thonglor thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trat thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "udon thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "uttaradit thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walking street nightlife thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walking street thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to stay in thailand for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "which city in thailand has the best nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "which is the best place for nightlife in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "youtube thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 1.2222222222222223,
+      "keywordCount": 9,
+      "visibility": 8.8,
+      "estimatedTraffic": 2040.3999999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 8.555555555555555,
+      "keywordCount": 9,
+      "visibility": 3.45,
+      "estimatedTraffic": 458.475
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 3.75,
+      "keywordCount": 8,
+      "visibility": 5.8,
+      "estimatedTraffic": 817.628
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 7.714285714285714,
+      "keywordCount": 7,
+      "visibility": 2.3500000000000005,
+      "estimatedTraffic": 153.783
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 8.571428571428571,
+      "keywordCount": 7,
+      "visibility": 2.4000000000000004,
+      "estimatedTraffic": 181.144
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 9.428571428571429,
+      "keywordCount": 7,
+      "visibility": 2.25,
+      "estimatedTraffic": 185.74499999999998
+    },
+    {
+      "domain": "www.thrillophilia.com",
+      "avgPosition": 18.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.25,
+      "estimatedTraffic": 25.852999999999998
+    },
+    {
+      "domain": "www.timeout.com",
+      "avgPosition": 19,
+      "keywordCount": 7,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 35.92
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 21.857142857142858,
+      "keywordCount": 7,
+      "visibility": 1.1500000000000001,
+      "estimatedTraffic": 68.075
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 33.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 13.131
+    },
+    {
+      "domain": "traveler.byunique.com",
+      "avgPosition": 17,
+      "keywordCount": 5,
+      "visibility": 1.65,
+      "estimatedTraffic": 126.708
+    },
+    {
+      "domain": "traveltriangle.com",
+      "avgPosition": 33.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 10.79
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 2.25,
+      "keywordCount": 4,
+      "visibility": 3.5,
+      "estimatedTraffic": 513.3040000000001
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 11,
+      "keywordCount": 4,
+      "visibility": 1,
+      "estimatedTraffic": 55.742000000000004
+    },
+    {
+      "domain": "www.travelonline.com",
+      "avgPosition": 13,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 21.912
+    },
+    {
+      "domain": "www.andamandaphuket.com",
+      "avgPosition": 14,
+      "keywordCount": 4,
+      "visibility": 0.6500000000000001,
+      "estimatedTraffic": 40.919999999999995
+    },
+    {
+      "domain": "dimaak.com",
+      "avgPosition": 32.6,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 9.18
+    },
+    {
+      "domain": "phuket-tropic-tours.com",
+      "avgPosition": 20.5,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 10.032
+    },
+    {
+      "domain": "www.journeyrouters.com",
+      "avgPosition": 24.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 8.901
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 24.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 21.384
+    },
+    {
+      "domain": "clubbamboo.com",
+      "avgPosition": 26.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 9.328
+    },
+    {
+      "domain": "www.phuket-travel-secrets.com",
+      "avgPosition": 26.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.3919999999999995
+    },
+    {
+      "domain": "www.clubmed.asia",
+      "avgPosition": 6,
+      "keywordCount": 3,
+      "visibility": 1.5,
+      "estimatedTraffic": 93.544
+    },
+    {
+      "domain": "www.keemala.com",
+      "avgPosition": 6.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.3,
+      "estimatedTraffic": 84.216
+    },
+    {
+      "domain": "simbaseatrips.com",
+      "avgPosition": 31.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.3919999999999995
+    },
+    {
+      "domain": "phuketexpatguide.com",
+      "avgPosition": 33,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.656
+    },
+    {
+      "domain": "www.traveloka.com",
+      "avgPosition": 35.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.448
+    },
+    {
+      "domain": "www.tripsavvy.com",
+      "avgPosition": 48.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 9.491999999999999
+    },
+    {
+      "domain": "thailand-divers.com",
+      "avgPosition": 36.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.3919999999999995
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 36.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.434999999999999
+    },
+    {
+      "domain": "phanganist.com",
+      "avgPosition": 16.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 28.676000000000002
+    },
+    {
+      "domain": "www.pulse-clinic.com",
+      "avgPosition": 37.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.643999999999999
+    },
+    {
+      "domain": "www.theluxurysignature.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 11.704
+    },
+    {
+      "domain": "www.thethaipass.com",
+      "avgPosition": 38.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.3919999999999995
+    },
+    {
+      "domain": "solis-phuket.com",
+      "avgPosition": 21.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 6.071999999999999
+    },
+    {
+      "domain": "thailand-vloggers.com",
+      "avgPosition": 42.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.3919999999999995
+    },
+    {
+      "domain": "phuket-travel-experience.com",
+      "avgPosition": 42.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.3919999999999995
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 24.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 10.824000000000002
+    },
+    {
+      "domain": "www.phuket-plaza.com",
+      "avgPosition": 44.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.3919999999999995
+    },
+    {
+      "domain": "www.thailandredcat.com",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.455
+    },
+    {
+      "domain": "activityfan.com",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 9.065000000000001
+    },
+    {
+      "domain": "phukettoursandrentals.com",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 5.72
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.639
+    },
+    {
+      "domain": "www.nightflow.com",
+      "avgPosition": 67.16666666666667,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 11.843999999999998
+    },
+    {
+      "domain": "wanderon.in",
+      "avgPosition": 36,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 4.3469999999999995
+    },
+    {
+      "domain": "www.bestpricetravel.com",
+      "avgPosition": 36,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 5.544
+    },
+    {
+      "domain": "amazinglanta.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 72.681
+    },
+    {
+      "domain": "bluetree.fun",
+      "avgPosition": 37,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 5.544
+    },
+    {
+      "domain": "bangkoknightlife.com",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.7999999999999999,
+      "estimatedTraffic": 71.32400000000001
+    },
+    {
+      "domain": "phuket-blog.com",
+      "avgPosition": 53.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.3919999999999995
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-25T07:29:10.828Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "bueng kan thailand",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "bueng kan thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "bueng kan thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

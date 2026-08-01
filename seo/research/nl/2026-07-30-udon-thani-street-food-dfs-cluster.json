@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-30T11:17:04.389Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "udon thani street food",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "udon thani street food"
+  ],
+  "keywords": [
+    {
+      "keyword": "udon thani street food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

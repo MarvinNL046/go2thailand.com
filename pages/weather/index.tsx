@@ -6,6 +6,8 @@ import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import citiesData from '../../data/cities/index.json';
+import ThailandWeatherHub from '../../components/weather/ThailandWeatherHub';
+import ThailandWeatherHubEn from '../../components/weather/ThailandWeatherHubEn';
 
 interface WeatherIndexProps {
   cities: Array<{
@@ -105,6 +107,10 @@ const weatherFaqs = {
 const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (locale === 'nl') return <ThailandWeatherHub />;
+  if (locale === 'en') return <ThailandWeatherHubEn />;
+
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, 'weather', placement);
 
@@ -157,7 +163,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
         />
       </SEOHead>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         <p className="font-script text-thailand-gold mb-2">{isNl ? 'Klimaatgids' : 'Climate Guide'}</p>
@@ -361,7 +367,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
                     {regionCities.map((city) => (
                       <Link
                         key={city.slug}
-                        href={`/city/${city.slug}/weather/`}
+                        href={city.slug === 'koh-samui' || city.slug === 'phuket' ? `/city/${city.slug}/weather/` : `/city/${city.slug}/best-time-to-visit/`}
                         className="flex items-center justify-between p-3 bg-surface-cream rounded-xl hover:bg-thailand-blue/5 transition-colors group"
                       >
                         <span className="font-medium text-gray-700 group-hover:text-thailand-blue">
@@ -538,7 +544,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
             <a
               href={trackAffiliate(TRIP_GENERIC, 'hotels')}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow sponsored"
               className="bg-white text-thailand-blue rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block"
             >
               <div className="text-3xl mb-3"></div>
@@ -554,7 +560,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               <p className="text-sm text-gray-600">{isNl ? 'Koop een eSIM voor Thailand' : 'Get an eSIM for Thailand'}</p>
             </Link>
             <Link
-              href="/travel-insurance-thailand/"
+              href="/travel-insurance/"
               className="bg-white text-thailand-blue rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block"
             >
               <div className="text-3xl mb-3"></div>
@@ -568,7 +574,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
               : 'External links are affiliate links. We may earn a small commission at no extra cost to you.'}
           </p>
         </section>
-      </main>
+      </div>
     </div>
   );
 };

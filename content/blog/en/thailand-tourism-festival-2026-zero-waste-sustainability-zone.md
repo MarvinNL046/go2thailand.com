@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Thailand Tourism Festival 2026", "zero waste", "sustainable tourism Thailand", "QSNCC Bangkok", "eco-friendly travel"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-festival-2026-zero-waste-sustainability-zone-hero.webp"
 description: "The 44th Thailand Tourism Festival introduces a Zero Waste to Landfill policy and a dedicated Sustainability Zone. Here is what to expect at QSNCC from March 25-29."
 featured: false
 readingTime: 3

@@ -66,8 +66,14 @@ Bij een upgrade naar v4: wrap Tailwind imports in `@layer` of isoleer het widget
 - **NordPass:** `https://nordvpn.tpo.lv/tp12zNjC`
 
 ### Amazon Associates (tag: go2thailand-20)
-- 13 productlinks in `pages/travel-gear/index.tsx`
-- Format: `https://www.amazon.com/dp/[ASIN]?tag=go2thailand-20`
+- 13 producten in de centrale registry `lib/amazon-affiliates.ts`
+- Publieke links gebruiken `/go/[product-slug]/`; de server voegt de tag toe
+- Canonieke bestemming: `https://www.amazon.com/dp/[ASIN]?tag=go2thailand-20`
+- De redirects zijn `noindex`, `nofollow` en `no-store`
+- Internationale bezoekers worden door Amazon OneLink afgehandeld wanneer de
+  internationale Store IDs in Associates Central gekoppeld zijn en per land een
+  standaard tracking-ID is geselecteerd
+- Controle: `npm run affiliate:verify`
 
 ### SafetyWing (Travel Insurance)
 - **URL:** `https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador`

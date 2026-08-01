@@ -22,7 +22,7 @@ sources:
 
 ## Halal Food in Thailand: Where to Eat & What to Know
 
-**Thailand** may be a predominantly Buddhist country, but finding **halal food** here is far easier than most Muslim travelers expect. With a Muslim population of roughly **5-6%** (around 4 million people), a government-backed halal certification system, and thousands of certified restaurants across the country, you can eat well and eat confidently throughout your trip. This guide covers everything from Bangkok's best halal spots to useful apps and the Thai phrases you need to know. If you are still planning your trip, check our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand visa guide](/blog/thailand-visa-guide-2026/) before you go.
+**Thailand** may be a predominantly Buddhist country, but finding **halal food** here is far easier than most Muslim travelers expect. With a Muslim population of roughly **5-6%** (around 4 million people), a government-backed halal certification system, and thousands of certified restaurants across the country, you can eat well and eat confidently throughout your trip. This guide covers everything from Bangkok's best halal spots to useful apps and the Thai phrases you need to know. If you are still planning your trip, check our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand visa guide](/visa/) before you go.
 
 ### Key Takeaways
 
@@ -60,7 +60,7 @@ Thailand currently exports halal food products to over 50 countries, which speak
 
 #### Bangkok
 
-Bangkok offers the widest selection of halal food in the country. For a full overview of the city's dining scene, see our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/) and [Thai street food guide](/blog/thai-street-food-guide-2026/).
+Bangkok offers the widest selection of halal food in the country. For a full overview of the city's dining scene, see our [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/) and [Thai street food guide](/thailand-street-food/).
 
 - **Sukhumvit Soi 3 (Nana)** -- Known as Bangkok's "Arab Quarter," this street is lined with Middle Eastern restaurants, Indian eateries, and halal Thai food stalls. You will find shawarma, kebabs, biryani, and Thai dishes all within walking distance.
 - **Ramkhamhaeng area** -- A local neighborhood with many Muslim-run restaurants serving authentic Thai-Muslim food like **khao mok gai** (Thai chicken biryani), roti mataba, and halal som tum.
@@ -96,7 +96,7 @@ Krabi province has a significant Muslim population, and halal food is easily acc
 
 ### Naturally Halal Thai Dishes
 
-Many traditional Thai dishes are naturally halal or can easily be made halal when prepared by a Muslim cook. For a deeper look at Thai cuisine, see our [what is Thai food guide](/blog/what-is-thai-food-cuisine-guide/) and [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/).
+Many traditional Thai dishes are naturally halal or can easily be made halal when prepared by a Muslim cook. For a deeper look at Thai cuisine, see our [what is Thai food guide](/travel-guides/thai-cuisine-food-guide/) and [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/).
 
 - **Khao Mok Gai** -- Thai-style chicken biryani with fragrant yellow rice, a staple at Muslim food stalls.
 - **Satay Gai** -- Grilled chicken skewers with peanut dipping sauce and cucumber relish.
@@ -161,7 +161,7 @@ Several hotels in Bangkok, Phuket, and Krabi market themselves as Muslim-friendl
 Not by default. However, Muslim-run street stalls (look for vendors wearing hijab or taqiyah) typically serve halal food. When in doubt, look for the green CICOT halal certification logo.
 
 **How much does halal food cost in Thailand?**
-Prices are the same as non-halal food. Street food runs **30-80 THB** (~1-2.50 USD) per dish, and restaurant meals cost **80-300 THB** (~2.50-9 USD) depending on the venue. For a full breakdown of travel costs, see our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) and tips on [eating like a local under $5](/blog/eat-like-local-thailand-under-5-dollars/).
+Prices are the same as non-halal food. Street food runs **30-80 THB** (~1-2.50 USD) per dish, and restaurant meals cost **80-300 THB** (~2.50-9 USD) depending on the venue. For a full breakdown of travel costs, see our [Thailand budget guide](/thailand-index/budget/) and tips on [eating like a local under $5](/blog/eat-like-local-thailand-under-5-dollars/).
 
 ## FAQ
 

@@ -5,6 +5,11 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import SEOHead from '../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
+import { PattayaNightlifeGuide } from '../../components/nightlife/PattayaNightlifeGuide';
+import { PattayaNightlifeGuideEn } from '../../components/nightlife/PattayaNightlifeGuideEn';
+import { nlCityOwner, nlFoodOwner } from '../../lib/nl-route-owners';
+import { CityNightlifeGuideNl } from '../../components/nightlife/CityNightlifeGuideNl';
+import { getNlCityNightlifeGuide } from '../../data/nightlife/nl-city-guides';
 
 interface Venue {
   name: string;
@@ -76,8 +81,6 @@ function priceLevelLabel(level: string, isNl: boolean): string {
 
 function generateFAQs(data: NightlifeData, cityName: string) {
   const areas = data.areas;
-  const budgetArea = areas.find(a => a.price_level === 'budget') || areas[0];
-  const clubArea = areas.find(a => a.type === 'clubbing') || areas[1];
 
   return [
     {
@@ -86,11 +89,11 @@ function generateFAQs(data: NightlifeData, cityName: string) {
     },
     {
       question: `How much does a night out in ${cityName} cost?`,
-      answer: `Prices vary by area. ${budgetArea.name} is the most affordable with beers from ${budgetArea.price_range.beers || 'around 100-150 THB'}. ${areas.find(a => a.price_level === 'upscale')?.name || areas[areas.length - 1].name} is the priciest with cocktails around ${areas.find(a => a.price_level === 'upscale')?.price_range.cocktails || '400+ THB'}.`,
+      answer: `There is no reliable city-wide total. Venue, event, cover charge, transport home and what you order all change the result. Choose an area first, then check the named venue's current menu, entry policy and payment rules before you go.`,
     },
     {
       question: `What time does nightlife start in ${cityName}?`,
-      answer: `Most bars get busy around ${areas[0].peak_hours}. ${clubArea ? `Clubs like those on ${clubArea.name} peak at ${clubArea.peak_hours}.` : ''} ${areas.find(a => a.type === 'late-night') ? `After-hours spots run ${areas.find(a => a.type === 'late-night')!.peak_hours}.` : 'Most venues close around 2 AM.'}`,
+      answer: `There is no universal start or closing time. Market days, venue licences, events and local restrictions differ. Pick the area that fits your evening, then verify the venue and arrange legal transport home before you leave.`,
     },
   ];
 }
@@ -98,6 +101,19 @@ function generateFAQs(data: NightlifeData, cityName: string) {
 export default function NightlifePage({ nightlifeData, slug, cityName }: NightlifePageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl && slug === 'pattaya') {
+    return <PattayaNightlifeGuide />;
+  }
+
+  const nlGuide = isNl ? getNlCityNightlifeGuide(slug) : null;
+  if (nlGuide) {
+    return <CityNightlifeGuideNl guide={nlGuide} />;
+  }
+
+  if (!isNl && slug === 'pattaya') {
+    return <PattayaNightlifeGuideEn />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -321,11 +337,11 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
                 {isNl ? `Ontdek restaurants, bezienswaardigheden en de complete reisgids voor ${cityName}.` : `Discover restaurants, attractions, and the complete travel guide for ${cityName}.`}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Link href={`/city/${slug}/`} className="btn-primary">
+                <Link href={isNl ? nlCityOwner(slug) : `/city/${slug}/`} className="btn-primary">
                   {isNl ? `Complete ${cityName} Gids` : `Complete ${cityName} Guide`}
                 </Link>
-                <Link href={`/city/${slug}/top-10-restaurants/`} className="btn-secondary">
-                  Top 10 Restaurants
+                <Link href={isNl ? nlFoodOwner(slug) : `/city/${slug}/top-10-restaurants/`} className="btn-secondary">
+                  {isNl ? 'Eten & restaurants' : 'Top 10 Restaurants'}
                 </Link>
               </div>
             </div>
@@ -390,7 +406,10 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = CITY_SLUGS.map((slug) => ({ params: { slug } }));
+  const paths = CITY_SLUGS.flatMap((slug) => [
+    { params: { slug }, locale: 'en' },
+    { params: { slug }, locale: 'nl' },
+  ]);
   return { paths, fallback: false };
 };
 
@@ -411,11 +430,34 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       const fileContent = fs.readFileSync(dataPath, 'utf8');
       nightlifeData = JSON.parse(fileContent);
     }
-  } catch (error) {
+  } catch {
     // Data file not found
   }
 
   if (!nightlifeData) return { notFound: true };
+
+  if (lang === 'en') {
+    const sentenceIsVolatile = (sentence: string) => /\b(?:THB|baht|price|prices|open until|personally verified|most affordable|cheapest|priciest|\d{1,2}\s*(?:AM|PM))\b/i.test(sentence);
+    const durableCopy = (value: string) => value
+      .split(/(?<=[.!?])\s+/)
+      .filter((sentence) => !sentenceIsVolatile(sentence))
+      .join(' ')
+      .trim();
+    nightlifeData = {
+      ...nightlifeData,
+      title: `${cityName} Nightlife: Areas, Atmosphere & Safe Planning`,
+      meta_description: `Compare ${cityName} nightlife areas by atmosphere, access and travel fit. Plan transport home and verify current venue details before you go.`,
+      intro: `Nightlife in ${cityName} is not one scene. Use this guide to choose an area by atmosphere and access, then verify the current venue, event, entry policy and route home. Names and opening patterns change, so this is deliberately an area guide rather than a live venue directory.`,
+      areas: nightlifeData.areas.map((area) => ({
+        ...area,
+        description: durableCopy(area.description) || `${area.name} has a distinct nightlife identity. Compare its atmosphere and access with the other areas before choosing your base.`,
+        highlights: area.highlights.filter((item) => !sentenceIsVolatile(item)).slice(0, 3),
+        venues: [],
+        price_range: {},
+        peak_hours: 'Verify the venue or event on the day',
+      })),
+    };
+  }
 
   return {
     props: {

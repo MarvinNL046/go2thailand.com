@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "nightlife"
 tags: ["Bangkok nightlife", "Bangkok bars 2026", "cocktail bars Bangkok", "Thonglor nightlife", "Bar.Yard Bangkok", "Rabbit Hole Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-best-cocktail-bars-march-2026-nightlife-hero.webp"
 description: "Three of Bangkok's best bars have reinvented their drink menus in early 2026. From rooftop reinventions to hidden speakeasies, here is where to drink in Bangkok right now."
 featured: false
 readingTime: 3

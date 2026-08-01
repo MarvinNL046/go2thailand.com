@@ -1,0 +1,2643 @@
+{
+  "captured_at": "2026-07-31T12:36:58.618Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "patong phuket",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.01848,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "patong phuket",
+    "patong beach phuket",
+    "patong beach phuket thailand",
+    "phuket thailand patong beach",
+    "phuket to patong beach",
+    "patong phuket thailand",
+    "thailand phuket patong",
+    "hotels in patong phuket",
+    "hotels in patong phuket thailand",
+    "hotels in phuket patong",
+    "hotels patong phuket thailand",
+    "phuket hotels patong",
+    "phuket patong hotels",
+    "beach hotels in phuket patong",
+    "hotels in patong beach phuket thailand",
+    "hotels in phuket patong beach",
+    "hotels patong beach phuket",
+    "hotels phuket patong beach",
+    "phuket hotels on patong beach"
+  ],
+  "keywords": [
+    {
+      "keyword": "patong beach",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach phuket",
+      "volume": 2900,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach phuket thailand",
+      "volume": 2900,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong beach",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand patong beach",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket to patong beach",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata beach",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok hotel",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "freedom beach phuket",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel phuket",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels phuket",
+      "volume": 590,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vakantie phuket",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket patong bangla road",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel duangjitt resort",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kata beach phuket",
+      "volume": 260,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong phuket thailand",
+      "volume": 260,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand phuket patong",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tui phuket",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "airbnb phuket",
+      "volume": 170,
+      "kd": 22,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "deevana plaza patong phuket",
+      "volume": 170,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "deevana plaza phuket patong",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel phuket patong",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in patong phuket",
+      "volume": 170,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in patong phuket thailand",
+      "volume": 170,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in phuket patong",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels patong phuket thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "night market phuket patong",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong hotel phuket",
+      "volume": 170,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong phuket hotel",
+      "volume": 170,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket hotel patong",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket hotels patong",
+      "volume": 170,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket night market patong",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong hotel",
+      "volume": 170,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong hotels",
+      "volume": 170,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong night market",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "baan samui hotel",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "grand mercure patong phuket",
+      "volume": 140,
+      "kd": 20,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand mercure phuket patong",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong phuket",
+      "volume": 140,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "avista hideaway phuket patong",
+      "volume": 110,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beach hotels in phuket patong",
+      "volume": 110,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel patong beach phuket",
+      "volume": 110,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel phuket patong beach",
+      "volume": 110,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel thailand phuket patong beach",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in patong beach phuket thailand",
+      "volume": 110,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in phuket patong beach",
+      "volume": 110,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels patong beach phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels phuket patong beach",
+      "volume": 110,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach hotel",
+      "volume": 110,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach hotel phuket",
+      "volume": 110,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong seaview hotel phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket hotels on patong beach",
+      "volume": 110,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong beach hotel",
+      "volume": 110,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sawaddi patong resort & spa phuket",
+      "volume": 110,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sawaddi patong resort phuket",
+      "volume": 110,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "seaview patong hotel",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sofitel phuket patong",
+      "volume": 110,
+      "kd": 25,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "baan chaweng beach resort spa",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lub d phuket patong",
+      "volume": 90,
+      "kd": 13,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lub d phuket patong hostel",
+      "volume": 90,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "muang samui resort",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "novotel phuket resort patong",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong bay hill phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong bay hill resort phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong bay hotel phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong resort phuket",
+      "volume": 90,
+      "kd": 13,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket hotels on the beach",
+      "volume": 90,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket patong",
+      "volume": 90,
+      "kd": 13,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in phuket patong",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather phuket patong",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "baan laimai beach resort spa",
+      "volume": 70,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "burasari patong boutique hotel",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "central patong phuket",
+      "volume": 70,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "four points by sheraton phuket patong beach resort",
+      "volume": 70,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "graceland phuket patong",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort phuket patong",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata beach hotels",
+      "volume": 70,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kata noi",
+      "volume": 70,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massage phuket patong",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the kee resort & spa",
+      "volume": 70,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "amata patong hotel phuket",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "baan haad ngam boutique resort",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beach club phuket patong",
+      "volume": 50,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in phuket patong",
+      "volume": 50,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beyond patong",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beyond patong phuket",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "deevana resort",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel clover patong phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel patong",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel patong paragon phuket",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ibis phuket patong",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "king's garden resort koh samui",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "matcha samui resort",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach phuket nightlife",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong heritage hotel phuket",
+      "volume": 50,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong merlin hotel phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong merlin phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong merlin phuket thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong paragon resort spa",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "radisson red phuket patong beach",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shopping mall phuket patong",
+      "volume": 50,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beach resort phuket patong",
+      "volume": 40,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife phuket patong",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong bay residence phuket",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach resort phuket",
+      "volume": 40,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong market phuket",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong markets phuket",
+      "volume": 40,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong phuket nightlife",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong resort hotel",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong resort hotel phuket",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket market patong",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket nightlife patong",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong nightlife",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket resort patong beach",
+      "volume": 40,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket resorts patong beach",
+      "volume": 40,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resorts in phuket patong beach",
+      "volume": 40,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fusion suites phuket patong",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gym phuket patong",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn express phuket patong beach central",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn phuket patong beach",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel indigo phuket patong",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "liv hotel phuket patong beachfront",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "palmyra patong resort phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong street phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong street",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants patong beach phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in phuket patong",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tribe phuket patong",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "avista hideaway phuket patong mgallery",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best massage in phuket patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best massage phuket patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "clubs in phuket patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach club",
+      "volume": 20,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach club phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach phuket map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach phuket maps",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach phuket weather",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong road phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong weer",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket clubs patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong beach map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ramada phuket deevana patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "skyview resort phuket patong beach",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tui phuket all inclusive",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tui phuket patong beach",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villa phuket patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villas in phuket patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walking street phuket patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "3-star hotels in phuket near patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "4-star hotels in phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airbnb phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "avista hideaway phuket patong reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "baan samui resort photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "baan samui resort reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "banyan tree phuket to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beachfront hotels in patong phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in patong",
+      "volume": 10,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket near patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bus phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cafe phuket view point to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chaweng buri resort koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotel in phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in patong phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "clover patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "clover patong phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "deevana plaza phuket patong prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "deevana plaza phuket patong reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "deevana plaza phuket to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "elephant sanctuary phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "four points by sheraton phuket patong beach resort email address",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "four points by sheraton phuket patong beach resort prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gay massage phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "go-go bars phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "google maps phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand mercure phuket patong booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand mercure phuket patong location",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand mercure phuket patong pool access room",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand mercure phuket patong prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand mercure phuket patong reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand mercure phuket patong tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "halal food phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday in phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn express patong phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn express phuket patong beach central reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort phuket patong beach central",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hostels in phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel clover patong phuket reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels patong beach near bangla road",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how far is patong beach from phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hyton leelavadee phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ibis phuket patong review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "le meridien phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "le meridien phuket to patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "live cam phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lub d phuket patong photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lub d phuket patong prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "marriott phuket patong beach resort",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mercure phuket patong journeyhub",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mercure phuket patong journeyhub prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mercure phuket patong journeyhub reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "météo phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mida grande resort phuket to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "night club phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel patong beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket resort patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach hotel address",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach hotel booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach resort and spa phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach thailand tourist reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach to phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach weer",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong heritage hotel phuket review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong phuket maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong phuket night market",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong phuket shooting range & hostel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to patong distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket bus terminal 2 to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket dive tours patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket hotels near patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket news patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket news patong today",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket patong maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket to patong bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket villa patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket walking street patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "private pool villa phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ramada by wyndham phuket deevana patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ramada by wyndham phuket deevana patong reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sawaddi patong resort spa by tolani",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "seaview patong hotel phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sinae phuket to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "swissotel hotel phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taxi patong to phuket town",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taxi phuket airport to patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the marina phuket hotel to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the nature phuket to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "three monkeys phuket to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tsunami phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "veranda resort phuket to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "webcam patong phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "webcam phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weer phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham sea pearl resort phuket to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kamala beach",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kamala beach resort",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 4.250000000000001,
+      "keywordCount": 17,
+      "visibility": 13.700000000000003,
+      "estimatedTraffic": 421.44665
+    },
+    {
+      "domain": "www.vakantiediscounter.nl",
+      "avgPosition": 3.1875,
+      "keywordCount": 16,
+      "visibility": 12.499999999999996,
+      "estimatedTraffic": 921.1613200000003
+    },
+    {
+      "domain": "www.tui.nl",
+      "avgPosition": 11.75,
+      "keywordCount": 16,
+      "visibility": 4.399999999999999,
+      "estimatedTraffic": 649.74644
+    },
+    {
+      "domain": "www.trivago.nl",
+      "avgPosition": 2.214285714285714,
+      "keywordCount": 14,
+      "visibility": 12.3,
+      "estimatedTraffic": 525.8776
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 3.2142857142857144,
+      "keywordCount": 14,
+      "visibility": 10.9,
+      "estimatedTraffic": 351.81782000000004
+    },
+    {
+      "domain": "www.patongresorthotel.com",
+      "avgPosition": 11.8,
+      "keywordCount": 15,
+      "visibility": 2.8000000000000003,
+      "estimatedTraffic": 46.16773
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 20.1875,
+      "keywordCount": 16,
+      "visibility": 0.8,
+      "estimatedTraffic": 28.471449999999997
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 20.875,
+      "keywordCount": 16,
+      "visibility": 4.5,
+      "estimatedTraffic": 522.26418
+    },
+    {
+      "domain": "www.expedia.nl",
+      "avgPosition": 27,
+      "keywordCount": 16,
+      "visibility": 1.05,
+      "estimatedTraffic": 31.185779999999998
+    },
+    {
+      "domain": "www.momondo.nl",
+      "avgPosition": 6.833333333333333,
+      "keywordCount": 12,
+      "visibility": 5.1499999999999995,
+      "estimatedTraffic": 59.709484
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 7.5,
+      "keywordCount": 12,
+      "visibility": 4.3999999999999995,
+      "estimatedTraffic": 50.13703
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 31.133333333333333,
+      "keywordCount": 15,
+      "visibility": 0.9,
+      "estimatedTraffic": 48.39931999999999
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 31.2,
+      "keywordCount": 15,
+      "visibility": 0.55,
+      "estimatedTraffic": 50.33032
+    },
+    {
+      "domain": "www.goibibo.com",
+      "avgPosition": 17.083333333333332,
+      "keywordCount": 12,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 8.14118
+    },
+    {
+      "domain": "www.kayak.nl",
+      "avgPosition": 5.4,
+      "keywordCount": 10,
+      "visibility": 5.6,
+      "estimatedTraffic": 78.19541
+    },
+    {
+      "domain": "all.accor.com",
+      "avgPosition": 17.727272727272727,
+      "keywordCount": 11,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 16.773480000000003
+    },
+    {
+      "domain": "www.makemytrip.global",
+      "avgPosition": 18.2,
+      "keywordCount": 10,
+      "visibility": 0.35,
+      "estimatedTraffic": 6.247159999999999
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 38.38461538461539,
+      "keywordCount": 13,
+      "visibility": 0,
+      "estimatedTraffic": 15.979739999999996
+    },
+    {
+      "domain": "www.patongheritage.com",
+      "avgPosition": 21.2,
+      "keywordCount": 10,
+      "visibility": 0.25,
+      "estimatedTraffic": 4.043620000000001
+    },
+    {
+      "domain": "www.hotelscombined.com",
+      "avgPosition": 28.90909090909091,
+      "keywordCount": 11,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.97924
+    },
+    {
+      "domain": "www.wotif.com",
+      "avgPosition": 22.8,
+      "keywordCount": 10,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.6961399999999993
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 16,
+      "keywordCount": 9,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 6.87344
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 16.88888888888889,
+      "keywordCount": 9,
+      "visibility": 0.35,
+      "estimatedTraffic": 6.269939999999999
+    },
+    {
+      "domain": "www.patonglodgehotel.com",
+      "avgPosition": 25.7,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 3.53974
+    },
+    {
+      "domain": "www.jamiesphuketblog.com",
+      "avgPosition": 7.875,
+      "keywordCount": 8,
+      "visibility": 2.5,
+      "estimatedTraffic": 27.881564
+    },
+    {
+      "domain": "hotelsofphuket.net",
+      "avgPosition": 34.36363636363637,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 3.8413200000000005
+    },
+    {
+      "domain": "www.patong-find-hotel.com",
+      "avgPosition": 35.27272727272727,
+      "keywordCount": 11,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.031320000000002
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 37.27272727272727,
+      "keywordCount": 11,
+      "visibility": 0,
+      "estimatedTraffic": 16.034739999999996
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 14.375,
+      "keywordCount": 8,
+      "visibility": 0.35,
+      "estimatedTraffic": 8.37416
+    },
+    {
+      "domain": "www.hotelsofphuket.com",
+      "avgPosition": 32,
+      "keywordCount": 10,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.79774
+    },
+    {
+      "domain": "www.expedia.co.th",
+      "avgPosition": 32.1,
+      "keywordCount": 10,
+      "visibility": 0.2,
+      "estimatedTraffic": 10.590739999999998
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 26.75,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.7317400000000003
+    },
+    {
+      "domain": "www.hotelspatongthailand.com",
+      "avgPosition": 35.44444444444444,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 3.14874
+    },
+    {
+      "domain": "reserving.com",
+      "avgPosition": 40.55555555555556,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 3.12732
+    },
+    {
+      "domain": "www.bmair.nl",
+      "avgPosition": 12.666666666666666,
+      "keywordCount": 6,
+      "visibility": 1.1,
+      "estimatedTraffic": 100.287
+    },
+    {
+      "domain": "www.sawadee.nl",
+      "avgPosition": 2.4,
+      "keywordCount": 5,
+      "visibility": 4.3,
+      "estimatedTraffic": 1831.68
+    },
+    {
+      "domain": "www.traveloka.com",
+      "avgPosition": 30.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.4133199999999997
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 3.8,
+      "keywordCount": 5,
+      "visibility": 3.5999999999999996,
+      "estimatedTraffic": 366.124
+    },
+    {
+      "domain": "nerdnomads.com",
+      "avgPosition": 14,
+      "keywordCount": 5,
+      "visibility": 0.55,
+      "estimatedTraffic": 58.69
+    },
+    {
+      "domain": "www.trivago.be",
+      "avgPosition": 58.7,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 3.42316
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 19.2,
+      "keywordCount": 5,
+      "visibility": 0.7500000000000001,
+      "estimatedTraffic": 66.619
+    },
+    {
+      "domain": "www.kayak.com",
+      "avgPosition": 50.25,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 2.77032
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 20.8,
+      "keywordCount": 5,
+      "visibility": 0.35,
+      "estimatedTraffic": 65.594
+    },
+    {
+      "domain": "www.prijsvrij.nl",
+      "avgPosition": 5.75,
+      "keywordCount": 4,
+      "visibility": 2.1,
+      "estimatedTraffic": 89.80600000000001
+    },
+    {
+      "domain": "www.guestreservations.com",
+      "avgPosition": 37.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 2.07774
+    },
+    {
+      "domain": "www.clubmed.com.au",
+      "avgPosition": 10,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 119.17999999999999
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 28.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 7.975580000000002
+    },
+    {
+      "domain": "www.gettyimages.com",
+      "avgPosition": 14.25,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 39.918
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 17,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.69314
+    },
+    {
+      "domain": "nl.hotels.com",
+      "avgPosition": 18,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.3728599999999997
+    }
+  ]
+}

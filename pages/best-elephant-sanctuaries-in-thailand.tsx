@@ -7,6 +7,9 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/best-elephant-sanctuaries-in-thailand';
+import NlTopicalManualGuide from '../components/editorial/NlTopicalManualGuide';
+import { nlTopicalManualGuides } from '../data/editorial/nl-topical-manual';
+import { elephantThailandGuideEn, ManualDecisionGuideEn } from '../components/editorial/ManualDecisionGuideEn';
 
 interface Sanctuary {
   name: string;
@@ -63,6 +66,8 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
   const loc = locale || 'en';
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+  if (isNl) return <NlTopicalManualGuide data={nlTopicalManualGuides['best-elephant-sanctuaries-in-thailand']} />;
+  if (!isNl) return <ManualDecisionGuideEn config={elephantThailandGuideEn} />;
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Beste Olifanten Opvangcentra in Thailand' : 'Best Elephant Sanctuaries in Thailand', href: '/best-elephant-sanctuaries-in-thailand/' }
@@ -398,7 +403,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 <a
                   href={GYG_AFFILIATE}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                 >
                   Browse on GetYourGuide
@@ -406,7 +411,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 <a
                   href={KLOOK_AFFILIATE}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                 >
                   Browse on Klook
@@ -440,7 +445,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 {isNl ? 'Gerelateerde Gidsen' : 'Related Guides'}
               </h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-                <Link href="/travel-insurance-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
+                <Link href="/travel-insurance/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
                   <div className="font-semibold text-gray-900">{t("s005_travel_insurance")}</div>
                   <div className="text-xs text-gray-600">{t("s006_essential_for_activities")}</div>
                 </Link>

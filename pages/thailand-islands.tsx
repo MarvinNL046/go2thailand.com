@@ -230,7 +230,7 @@ export default function ThailandIslandsPage() {
                       <p><strong>{t("s028_best_for")}</strong> {t("s029_families_couples_relaxing_no")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s030_explore_our_koh_lanta")}</Link>
+                      <Link href="/islands/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s030_explore_our_koh_lanta")}</Link>
                     </p>
                   </div>
                 </div>
@@ -293,7 +293,7 @@ export default function ThailandIslandsPage() {
                       <p><strong>{t("s045_whale_shark_season")}</strong> {t("s046_june_september")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">{t("s047_explore_koh_tao")}</Link>
+                      <Link href="/islands/koh-tao/" className="text-thailand-blue hover:underline font-semibold">{t("s047_explore_koh_tao")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
                       <Link href="/best-diving-snorkeling-in-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s048_best_diving_amp_snorkeling")}</Link>
                     </p>
@@ -383,7 +383,7 @@ export default function ThailandIslandsPage() {
                       <p><strong>Tip:</strong> {isNl ? 'Draag schoenen die vies mogen worden, bewaar waardevolle spullen in je hotel, drink alleen uit verzegelde verpakkingen' : 'Wear shoes you do not mind ruining, keep valuables at your hotel, drink from sealed containers only'}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s069_explore_our_koh_phangan")}</Link>
+                      <Link href="/islands/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s069_explore_our_koh_phangan")}</Link>
                     </p>
                   </div>
                 </div>
@@ -491,7 +491,7 @@ export default function ThailandIslandsPage() {
                       <p><strong>Atmosphere:</strong> {t("s095_quiet_relaxed_no_party")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s096_explore_koh_lanta")}</Link>
+                      <Link href="/islands/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s096_explore_koh_lanta")}</Link>
                     </p>
                   </div>
                 </div>
@@ -552,7 +552,7 @@ export default function ThailandIslandsPage() {
                       <p><strong>{t("s112_scooter_rental")}</strong> ฿200-300/day</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s113_explore_koh_phangan")}</Link>
+                      <Link href="/islands/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s113_explore_koh_phangan")}</Link>
                     </p>
                   </div>
                 </div>
@@ -763,7 +763,7 @@ export default function ThailandIslandsPage() {
                   <div className="font-semibold text-gray-900 text-sm">{t("s157_koh_samui")}</div>
                   <div className="text-xs text-gray-600">{t("s156_full_guide")}</div>
                 </Link>
-                <Link href="/city/koh-phangan/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
+                <Link href="/islands/koh-phangan/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
                   <div className="font-semibold text-gray-900 text-sm">{t("s159_koh_phangan")}</div>
                   <div className="text-xs text-gray-600">{t("s156_full_guide")}</div>
                 </Link>

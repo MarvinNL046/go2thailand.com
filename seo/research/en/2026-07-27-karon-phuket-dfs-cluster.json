@@ -1,0 +1,2949 @@
+{
+  "captured_at": "2026-07-27T10:33:17.773Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "karon phuket",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.02436,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "karon phuket",
+    "karon beach karon phuket thailand",
+    "karon beach phuket thailand",
+    "karon beach to phuket",
+    "karon phuket beach",
+    "phuket beach karon",
+    "phuket karon beach",
+    "phuket thailand karon beach",
+    "phuket to karon beach",
+    "thailand phuket karon beach",
+    "karon beach phuket",
+    "phuket orchid karon",
+    "hotel in karon beach phuket",
+    "hotels in karon beach phuket",
+    "hotels in phuket karon beach",
+    "hotels karon beach phuket",
+    "karon beach hotels phuket",
+    "karon beach phuket thailand hotels",
+    "thailand phuket karon beach hotels",
+    "centara villas phuket karon"
+  ],
+  "keywords": [
+    {
+      "keyword": "karon beach",
+      "volume": 4400,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach karon phuket thailand",
+      "volume": 4400,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket thailand",
+      "volume": 4400,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach to phuket",
+      "volume": 4400,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon phuket beach",
+      "volume": 4400,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "katathani phuket beach resort karon",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket beach karon",
+      "volume": 4400,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon beach",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand karon beach",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket to karon beach",
+      "volume": 4400,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand phuket karon beach",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "amari phuket",
+      "volume": 2400,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "centara karon phuket",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon resort phuket",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon resort phuket hotel",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon resort phuket location",
+      "volume": 1600,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon resort phuket thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara phuket karon",
+      "volume": 1600,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel centara karon resort phuket",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thavorn palm beach resort karon phuket",
+      "volume": 1000,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thavorn palm beach resort phuket karon",
+      "volume": 1000,
+      "kd": 14,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "andaman seaview hotel karon beach phuket",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket orchid karon",
+      "volume": 880,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket orchid resort and spa karon",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket orchid resort karon",
+      "volume": 880,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "avista grande phuket karon",
+      "volume": 720,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel at karon beach phuket",
+      "volume": 720,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in karon beach phuket",
+      "volume": 720,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel phuket karon beach",
+      "volume": 720,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in karon beach phuket",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in phuket karon beach",
+      "volume": 720,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels karon beach phuket",
+      "volume": 720,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach hotel phuket",
+      "volume": 720,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach hotel phuket thailand",
+      "volume": 720,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach hotels",
+      "volume": 720,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach hotels phuket",
+      "volume": 720,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket hotels",
+      "volume": 720,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket thailand hotels",
+      "volume": 720,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata beach hotels",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "paradox resort phuket",
+      "volume": 720,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket hotel karon beach",
+      "volume": 720,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket hotels karon beach",
+      "volume": 720,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand phuket karon beach hotels",
+      "volume": 720,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in phuket today",
+      "volume": 720,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "centara villas phuket karon",
+      "volume": 590,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beyond karon resort phuket",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beyond resort karon phuket",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon viewpoint phuket",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket beyond resort karon",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pullman phuket karon beach resort",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon phuket",
+      "volume": 390,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon phuket thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon to phuket",
+      "volume": 390,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon town phuket",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mandarava resort and spa karon beach",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket karon",
+      "volume": 390,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand karon",
+      "volume": 390,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 14 days",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 30 days",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand phuket karon",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in phuket 10 days",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in phuket 14 days",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "marina phuket resort karon",
+      "volume": 320,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the yama hotel phuket karon",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket weather",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "katathani phuket karon",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best western phuket ocean resort karon",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket restaurants",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach restaurants",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach webcam",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach webcam phuket",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "marina phuket hotel karon",
+      "volume": 210,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "marina phuket karon",
+      "volume": 210,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon beach nightlife",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon beach restaurants",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "webcam phuket karon beach",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "horizon beach resort karon phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "horizon karon beach resort phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "horizon karon resort phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel horizon karon beach phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel karon phuket",
+      "volume": 170,
+      "kd": 17,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in karon phuket",
+      "volume": 170,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in karon phuket thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon hotel phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon hotels phuket",
+      "volume": 170,
+      "kd": 16,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon phuket hotels",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket horizon karon beach resort",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket hotel karon",
+      "volume": 170,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon hotel",
+      "volume": 170,
+      "kd": 43,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon hotels",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 15 days",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather kata beach",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kata beach restaurants",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "woraburi phuket resort & spa",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "woraburi phuket resort & spa karon",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotel in karon beach phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in karon beach phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels karon beach phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels on karon beach phuket",
+      "volume": 110,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach resort",
+      "volume": 110,
+      "kd": 25,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach resort phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach to patong",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon sea sands resort & spa phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon sea sands resort phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon sea sands resort spa phuket thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "movenpick phuket karon beach",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "old phuket karon beach resort",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon beach resort",
+      "volume": 110,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon beach resorts",
+      "volume": 110,
+      "kd": 14,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket resorts karon beach",
+      "volume": 110,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 21 days",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "resort karon beach phuket",
+      "volume": 110,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resorts in karon beach phuket",
+      "volume": 110,
+      "kd": 25,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the old phuket karon beach resort",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "the old phuket karon beach resort phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the old phuket-karon beach resort",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon beach hotel phuket",
+      "volume": 90,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon beach phuket",
+      "volume": 90,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon beach resort phuket",
+      "volume": 90,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn phuket karon beach",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort phuket karon beach by ihg",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon phuket weather",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "kata beach phuket map",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kata beach to patong",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "on the hill karon resort phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon weather",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in karon beach phuket",
+      "volume": 90,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "baan karon resort phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurant karon beach phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants karon beach phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara grand beach resort phuket karon thailand",
+      "volume": 70,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara grand karon resort phuket",
+      "volume": 70,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon phuket reviews",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon resort phuket review",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon resort phuket reviews",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton phuket karon",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort phuket karon beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach best restaurants",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon hilton phuket arcadia resort & spa",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon market phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon phuket restaurants",
+      "volume": 70,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon restaurants",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon temple phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "le meridien phuket beach resort karon",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to karon",
+      "volume": 70,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to karon beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket island view hotel karon",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon restaurants",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pullman phuket karon beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the old phuket karon",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the old phuket karon phuket",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the village resort karon phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5-star hotel phuket patong beach",
+      "volume": 50,
+      "kd": 43,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in phuket patong beach",
+      "volume": 50,
+      "kd": 9,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in phuket with private beach",
+      "volume": 50,
+      "kd": 53,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "centara grand hotel karon beach phuket",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays karon beach phuket thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "jonox phuket karon hotel",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach holidays",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket map",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket things to do",
+      "volume": 50,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach things to do",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon phuket nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "massage in karon beach phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massage karon beach phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massage phuket karon beach",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon beach map",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon beach things to do",
+      "volume": 50,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the proud karon beach phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the proud karon beach phuket trademark collection by wyndham",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in karon phuket",
+      "volume": 50,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in phuket karon",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in karon beach phuket",
+      "volume": 40,
+      "kd": 14,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in phuket karon beach",
+      "volume": 40,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5 star hotels karon beach phuket",
+      "volume": 40,
+      "kd": 21,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5-star hotel phuket karon beach",
+      "volume": 40,
+      "kd": 14,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in karon beach phuket",
+      "volume": 40,
+      "kd": 14,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "avista grande phuket karon review",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "avista grande phuket karon reviews",
+      "volume": 40,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach to phuket airport",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon resort phuket",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon resorts phuket",
+      "volume": 40,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon to phuket airport",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mövenpick karon beach",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mövenpick karon beach phuket",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "movenpick phuket karon",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mövenpick phuket karon",
+      "volume": 40,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "movenpick resort & spa karon beach phuket",
+      "volume": 40,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mövenpick resort & spa karon beach phuket",
+      "volume": 40,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "movenpick resort and spa karon beach phuket",
+      "volume": 40,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket resorts with private beach",
+      "volume": 40,
+      "kd": 18,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pullman phuket karon beach resort review",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pullman phuket karon beach resort reviews",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sugar marina art karon phuket",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sugar marina resort art karon phuket",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in phuket tomorrow",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in karon phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon resort phuket photos",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach night market",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach villas phuket",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon mueang phuket district phuket thailand",
+      "volume": 30,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon or kata beach phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon princess hotel phuket thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket karon beach",
+      "volume": 30,
+      "kd": 3,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket karon beach resort",
+      "volume": 30,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket karon beach resort & spa",
+      "volume": 30,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket karon beach resort and spa",
+      "volume": 30,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket karon beach resort and spa thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "paradox karon beach",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket villas karon beach",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the front village karon phuket photos",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the old phuket karon beach",
+      "volume": 30,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villas in karon beach phuket",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is karon beach phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airbnb phuket karon beach",
+      "volume": 20,
+      "kd": 15,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "avista grande phuket karon photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "avista phuket karon",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best bars in karon beach phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best bars karon beach",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best western karon beach phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara hotel phuket karon beach",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara karon beach resort",
+      "volume": 20,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "centara villas phuket karon beach",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton hotel phuket karon beach",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel near karon beach phuket",
+      "volume": 20,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how far is karon beach from phuket airport",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "karon beach shopping",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach to phuket old town",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon to phuket town",
+      "volume": 20,
+      "kd": 24,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "paradox resort phuket karon beach",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "paradox resort phuket photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong weather 21 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket airport to karon beach taxi fare",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket beach resorts 5 star",
+      "volume": 20,
+      "kd": 60,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket karon beach hotel",
+      "volume": 20,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket karon beach hotels",
+      "volume": 20,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 21 days bbc",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 30 days bbc",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "taxi from phuket airport to karon beach",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in karon phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "3-star hotels in phuket near patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4 star hotels in phuket patong beach",
+      "volume": 10,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in phuket near beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bbc weather karon beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beachfront hotels in patong phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best karon beach restaurants",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai restaurant karon beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fine dining karon beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how far is karon beach from phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach 30 day weather forecast",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach girly bars",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach google map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach incident",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach nightlife for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach phuket parasailing accident",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach resort map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach resort reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach restaurants with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach to bangla road",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach to kata beach distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach to patong bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach to patong distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon beach weather forecast 14 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon phuket things to do",
+      "volume": 10,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "luxury resorts in phuket with private beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mövenpick beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mövenpick phuket booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 15 days bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 15 days met office",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 20 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather forecast 21 days accuweather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the old phuket karon beach resort photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the old phuket karon beach resort reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the old phuket karon beach resort tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the old phuket photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in karon beach 10 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in phuket 10 days in celsius",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kamala beach to patong",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 3.4285714285714284,
+      "keywordCount": 7,
+      "visibility": 5.3,
+      "estimatedTraffic": 2405.3959999999997
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 14.714285714285714,
+      "keywordCount": 7,
+      "visibility": 0.65,
+      "estimatedTraffic": 145.317
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 2.3333333333333335,
+      "keywordCount": 6,
+      "visibility": 5.2,
+      "estimatedTraffic": 2211.299
+    },
+    {
+      "domain": "www.onthebeach.co.uk",
+      "avgPosition": 2.6666666666666665,
+      "keywordCount": 6,
+      "visibility": 5,
+      "estimatedTraffic": 833.088
+    },
+    {
+      "domain": "www.jamiesphuketblog.com",
+      "avgPosition": 4.666666666666667,
+      "keywordCount": 6,
+      "visibility": 3.8,
+      "estimatedTraffic": 1080.0030000000002
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 7.166666666666667,
+      "keywordCount": 6,
+      "visibility": 3.15,
+      "estimatedTraffic": 572.245
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 13.833333333333334,
+      "keywordCount": 6,
+      "visibility": 1.15,
+      "estimatedTraffic": 213.12199999999999
+    },
+    {
+      "domain": "www.sunshine.co.uk",
+      "avgPosition": 18.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 37.962999999999994
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 10.2,
+      "keywordCount": 5,
+      "visibility": 1.3,
+      "estimatedTraffic": 161.44
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 30.411
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 19,
+      "keywordCount": 5,
+      "visibility": 0.3,
+      "estimatedTraffic": 83.515
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 4.75,
+      "keywordCount": 4,
+      "visibility": 2.5,
+      "estimatedTraffic": 316.76800000000003
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 5,
+      "keywordCount": 4,
+      "visibility": 2.4,
+      "estimatedTraffic": 550.774
+    },
+    {
+      "domain": "nerdnomads.com",
+      "avgPosition": 8.5,
+      "keywordCount": 4,
+      "visibility": 1.05,
+      "estimatedTraffic": 191.352
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 12.75,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 45.028999999999996
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 15.75,
+      "keywordCount": 4,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 41.099
+    },
+    {
+      "domain": "www.destination2.co.uk",
+      "avgPosition": 19,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 21.884999999999998
+    },
+    {
+      "domain": "freedomdestinations.co.uk",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 48.824
+    },
+    {
+      "domain": "www.pullmanphuketkaron.com",
+      "avgPosition": 13.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 39.789
+    },
+    {
+      "domain": "www.loveholidays.com",
+      "avgPosition": 13.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 29.943
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 36,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 22.467
+    },
+    {
+      "domain": "royalvacationdmc.com",
+      "avgPosition": 15,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 35.480999999999995
+    },
+    {
+      "domain": "www.andamandaphuket.com",
+      "avgPosition": 16,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 54.361999999999995
+    },
+    {
+      "domain": "www.siamniramitphuket.com",
+      "avgPosition": 24.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "phuket-tropic-tours.com",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "www.firstchoice.co.uk",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 17.186999999999998
+    },
+    {
+      "domain": "www.centarahotelsresorts.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 71.78399999999999
+    },
+    {
+      "domain": "www.windowonphuket.com",
+      "avgPosition": 38.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 39.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 9,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 21.599999999999998
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 20.736
+    },
+    {
+      "domain": "www.mercuryholidays.co.uk",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.45,
+      "estimatedTraffic": 20.109
+    },
+    {
+      "domain": "www.phuket-plaza.com",
+      "avgPosition": 43,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "thailandbeaches.org",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 23.848000000000003
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 6.6240000000000006
+    },
+    {
+      "domain": "www.hotels.com",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 25.927
+    },
+    {
+      "domain": "www.tripoto.com",
+      "avgPosition": 44.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 66.6,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 23.090999999999998
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 31.68
+    },
+    {
+      "domain": "phuketelephantnaturereserve.com",
+      "avgPosition": 47,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "kamalabeachestate.com",
+      "avgPosition": 47.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.851
+    },
+    {
+      "domain": "www.easydayphuket.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.843
+    },
+    {
+      "domain": "www.pavaragroup.com",
+      "avgPosition": 50.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "loveandroad.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 18.48
+    },
+    {
+      "domain": "karonseasand.com",
+      "avgPosition": 26.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.331
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 11.352
+    },
+    {
+      "domain": "www.andatelhotel.com",
+      "avgPosition": 52.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "www.travalot.com",
+      "avgPosition": 53,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.907
+    },
+    {
+      "domain": "www.holidaycheck.de",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 3.024
+    }
+  ]
+}

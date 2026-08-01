@@ -1,0 +1,704 @@
+{
+  "captured_at": "2026-07-24T15:56:12.111Z",
+  "locale": "nl",
+  "url": "https://www.dmcr.go.th/detailAll/74166/nws/0/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Department of Marine and Coastal Resources",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "พะยูน และการประเมินสุขภาพของพะยูน",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "หน้าแรก Home",
+          "url": "https://www.dmcr.go.th/home",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/home",
+              "anchor_text": "หน้าแรก\nHome"
+            }
+          ]
+        },
+        {
+          "text": "วิสัยทัศน์ ภารกิจ พันธกิจ",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkd1NFpEJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkd1NFpEJTNRJTNR",
+              "anchor_text": "วิสัยทัศน์ ภารกิจ พันธกิจ"
+            }
+          ]
+        },
+        {
+          "text": "ผู้บริหารเทคโนโลยีสารสนเทศระดับสูงระดับกรม (DCIO)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkd1NFp0JTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkd1NFp0JTNRJTNR",
+              "anchor_text": "ผู้บริหารเทคโนโลยีสารสนเทศระดับสูงระดับกรม (DCIO)"
+            }
+          ]
+        },
+        {
+          "text": "กฎ / ระเบียบ / ข้อบังคับ",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdXNEFEJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdXNEFEJTNRJTNR",
+              "anchor_text": "กฎ / ระเบียบ / ข้อบังคับ"
+            }
+          ]
+        },
+        {
+          "text": "การเปิดเผยข้อมูลสาธารณะ (OIT)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFNY0FhdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFNY0FhdGs=",
+              "anchor_text": "การเปิดเผยข้อมูลสาธารณะ (OIT)"
+            }
+          ]
+        },
+        {
+          "text": "สรุปผลการใช้จ่ายงบประมาณ (GFMIS)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdJNFpqJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdJNFpqJTNRJTNR",
+              "anchor_text": "สรุปผลการใช้จ่ายงบประมาณ (GFMIS)"
+            }
+          ]
+        },
+        {
+          "text": "ข่าวจาก Facebook ทช.",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdTNEFEJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdTNEFEJTNRJTNR",
+              "anchor_text": "ข่าวจาก Facebook ทช."
+            }
+          ]
+        },
+        {
+          "text": "ข่าวสาร ทช.",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdFNEFEJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdFNEFEJTNRJTNR",
+              "anchor_text": "ข่าวสาร ทช."
+            }
+          ]
+        },
+        {
+          "text": "แวดวง ทช.",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdxNEFOJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdxNEFOJTNRJTNR",
+              "anchor_text": "แวดวง ทช."
+            }
+          ]
+        },
+        {
+          "text": "กิจกรรม ทช.",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdNNEFOJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdNNEFOJTNRJTNR",
+              "anchor_text": "กิจกรรม ทช."
+            }
+          ]
+        },
+        {
+          "text": "ข่าวพิเศษ/ทุน ก.พ.",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdXNEFOJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdXNEFOJTNRJTNR",
+              "anchor_text": "ข่าวพิเศษ/ทุน ก.พ."
+            }
+          ]
+        },
+        {
+          "text": "ศูนย์ COVID-19 ทช.",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFFY1ozdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFFY1ozdGs=",
+              "anchor_text": "ศูนย์ COVID-19 ทช."
+            }
+          ]
+        },
+        {
+          "text": "พระบรมราโชวาทและพระราชดำรัส ร.9 และ ร.10",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFJY1ozdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFJY1ozdGs=",
+              "anchor_text": "พระบรมราโชวาทและพระราชดำรัส ร.9 และ ร.10"
+            }
+          ]
+        },
+        {
+          "text": "คลังความรู้ทางทะเลและชายฝั่ง (KM)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFJY1phdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFJY1phdGs=",
+              "anchor_text": "คลังความรู้ทางทะเลและชายฝั่ง (KM)"
+            }
+          ]
+        },
+        {
+          "text": "DMCR Mobile Application",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFFY1phdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFFY1phdGs=",
+              "anchor_text": "DMCR Mobile Application"
+            }
+          ]
+        },
+        {
+          "text": "แผนที่ออนไลน์ (Marine Map)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVF1Y0FhdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVF1Y0FhdGs=",
+              "anchor_text": "แผนที่ออนไลน์ (Marine Map)"
+            }
+          ]
+        },
+        {
+          "text": "ระบบรายงานผลการปฏิบัติงาน (OnePage)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFTY1phdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFTY1phdGs=",
+              "anchor_text": "ระบบรายงานผลการปฏิบัติงาน (OnePage)"
+            }
+          ]
+        },
+        {
+          "text": "ระบบใบแจ้งเงินเดือน (e-Slip)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFNY1ozdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFNY1ozdGs=",
+              "anchor_text": "ระบบใบแจ้งเงินเดือน (e-Slip)"
+            }
+          ]
+        },
+        {
+          "text": "ระบบแจ้งเหตุผ่าน Mobile App.",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkd1NEJOJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkd1NEJOJTNRJTNR",
+              "anchor_text": "ระบบแจ้งเหตุผ่าน Mobile App."
+            }
+          ]
+        },
+        {
+          "text": "จดหมายอิเล็กทรอนิกส์ (workD Mail)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdBNEJOJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdBNEJOJTNRJTNR",
+              "anchor_text": "จดหมายอิเล็กทรอนิกส์ (workD Mail)"
+            }
+          ]
+        },
+        {
+          "text": "ฐานข้อมูลทรัพยากรบุคคล (DPIS)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdTNEJEJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdTNEJEJTNRJTNR",
+              "anchor_text": "ฐานข้อมูลทรัพยากรบุคคล (DPIS)"
+            }
+          ]
+        },
+        {
+          "text": "ระบบปฏิทินกิจกรรม ทช.",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFXY0FhdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFXY0FhdGs=",
+              "anchor_text": "ระบบปฏิทินกิจกรรม ทช."
+            }
+          ]
+        },
+        {
+          "text": "ระบบคิวอาร์โค้ด (DMCR Smart QR)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFPY0EzdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFPY0EzdGs=",
+              "anchor_text": "ระบบคิวอาร์โค้ด (DMCR Smart QR)"
+            }
+          ]
+        },
+        {
+          "text": "ห้องสมุดอิเล็กทรอนิกส์ (E-Library)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdNNEJEJTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdNNEJEJTNRJTNR",
+              "anchor_text": "ห้องสมุดอิเล็กทรอนิกส์ (E-Library)"
+            }
+          ]
+        },
+        {
+          "text": "NEWS CLIPPING",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkd5NEF0JTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkd5NEF0JTNRJTNR",
+              "anchor_text": "NEWS CLIPPING"
+            }
+          ]
+        },
+        {
+          "text": "กรอบรูป ทช.",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdNNEF0JTNRJTNR",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/bkdNNEF0JTNRJTNR",
+              "anchor_text": "กรอบรูป ทช."
+            }
+          ]
+        },
+        {
+          "text": "ถ่ายทอดสดออนไลน์ (CCTV)",
+          "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFJY0FhdGs=",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/pageredirect/menu-header/cVFJY0FhdGs=",
+              "anchor_text": "ถ่ายทอดสดออนไลน์ (CCTV)"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "กรมทรัพยากรทางทะเลและชายฝั่ง กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม Department of Marine and Coastal Resources",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "About Us",
+          "url": "https://www.dmcr.go.th/aboutus/ab",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/aboutus/ab",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.dmcr.go.th/contact",
+          "urls": [
+            {
+              "url": "https://www.dmcr.go.th/contact",
+              "anchor_text": "Contact Us"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "พะยูน และการประเมินสุขภาพของพะยูน",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "พะยูน (Dugong dugon) เป็นสัตว์เลี้ยงลูกด้วยนม ที่อาศัยอยู่เฉพาะบริเวณแนวชายฝั่งทะเลที่มีแหล่งอาหารที่สำคัญ คือ หญ้าทะเล (seagrass) โดยลักษณะภายนอกทั่วไป ประกอบด้วย ลำตัวเป็นรูปกระสวยคล้ายโลมา สีเทาอมชมพู หรือสีน้ำตาล และมีขนสั้นขึ้นประปรายอยู่ทั่วลำตัว หางเป็นรูปแฉกคล้ายโลมา บางครั้งเรียกว่า หางแบบส้อม มีครีบคู่หน้า 1 คู่ และมีติ่งนมอยู่หลังฐานครีบ ความยาวลำตัวสูงสุดประมาณ 3 เมตร น้ำหนักประมาณ 250-300 กิโลกรัม พะยูนแรกเกิดมีความยาว 1-1.20 เมตร และมีน้ำหนักประมาณ 20-30 กิโลกรัม พะยูนเป็นสัตว์ที่มีอายุใกล้เคียงกับมนุษย์ คือประมาณ 70 ปี โดยพะยูนที่จะเข้าสู่วัยเจริญพันธุ์ มีอายุตั้งแต่ 9-10 ปี ระยะตั้งท้องนาน 12-13 เดือน คลอดลูกครั้งละ 1 ตัว และพะยูนตัวแม่ต้องเลี้ยงลูกอยู่นานเกือบ 2 ปี ทั้งคอยดูแลความปลอดภัย ป้อนนม และฝึกการอาศัยอยู่ในทะเล ติดตามดูพฤติกรรมภายในฝูงทั้งการกิน การพักผ่อน และการอยู่ร่วมกันภายในฝูงพะยูน เนื่องจากพะยูนมีพฤติกรรมการอาศัยแบบครอบครัว",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ทั้งนี้ กรมทรัพยากรทางทะเลและชายฝั่ง ขอความร่วมมือจากพี่น้องประชาชนในพื้นที่ชายฝั่งทะเล ชาวประมง ผู้ประกอบการท่องเที่ยวทางทะเล ร่วมกันเฝ้าระวัง ให้ข้อมูลหากพบพะยูน เพื่อช่วยกันอนุรักษ์มิให้สัตว์ทะเลหายากสูญพันธุ์",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "20 พ.ย. 2567",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "พะยูนที่สำรวจพบจากภาพถ่ายหรือภาพถ่ายทางอากาศแต่ละตัวนั้นมีสุขภาพอย่างไรบ้าง",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "เพื่อที่จะประเมินและส่งเจ้าหน้าที่เฝ้าระวังหรือส่งสัตวแพทย์เข้าไปให้การรักษารวมถึงออกมาตรการเฝ้าระวังเฉพาะพื้นที่ สังเกตได้จากลักษณะตามภาพค่ะ",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "DMCR FACEBOOK",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "ข่าวสารที่เกี่ยวข้อง",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "23 ก.ค. 2569",
+            "url": "https://www.dmcr.go.th/detailAll/86566/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86566/nws/260",
+                "anchor_text": "23 ก.ค. 2569"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "ข่าวดีจากทะเลตรัง! กรมทะเลพบพะยูน 16 ตัว พร้อมแม่–ลูก 1 คู่ และสัตว์ทะเลหายากรวมกว่า 77 ตัว",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "ข่าวดีจากทะเลตรัง! กรมทะเลพบพะยูน 16 ตัว พร้อมแม่–ลูก 1 คู่ และสัตว์ทะเลหายากรวมกว่า 77 ตัว",
+            "url": "https://www.dmcr.go.th/detailAll/86566/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86566/nws/260",
+                "anchor_text": "ข่าวดีจากทะเลตรัง! กรมทะเลพบพะยูน 16 ตัว พร้อมแม่–ลูก 1 คู่ และสัตว์ทะเลหายากรวมกว่า 77 ตัว"
+              }
+            ]
+          },
+          {
+            "text": "ระหว่างวันที่ 20–23 กรกฎาคม 2569 ศูนย์วิจัยทรัพยากรทางทะเลและชายฝั่งทะเลอันดามันตอนล่าง (ศวอล.) กรมทรัพยากรทางทะเลและชายฝั่ง ดำเนินการสำรวจการแพร่กระจาย ติดตามสุขภาพสัตว์ทะเลหายาก และสำรวจรอยกินของพะยูน บริเวณ เกาะลิบง จังหวัดตรัง โดยใช้การสำรวจทางเรือร่วมกับอากาศยานไร้คนขับ (Multirotor UAV)\nผลการสำรวจพบสัตว์ทะเลหายาก รวม 77 ตัว ประกอบด้วย พะยูน 16 ตัว เต่าตนุ 60 ตัว และโลมาหลังโหนก 1 ตัว กระจายตัวอยู่ในหลายพื้นที่รอบเกาะลิบง เช่น อ่าวบ้านพร้าว อ่าวเสม็ด ปากคลองสะพานช้าง คลองหว้า และแหลมจูโหย",
+            "url": "https://www.dmcr.go.th/detailAll/86566/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86566/nws/260",
+                "anchor_text": "ระหว่างวันที่ 20–23 กรกฎาคม 2569 ศูนย์วิจัยทรัพยากรทางทะเลและชายฝั่งทะเลอันดามันตอนล่าง (ศวอล.) กรมทรัพยากรทางทะเลและชายฝั่ง ดำเนินการสำรวจการแพร่กระจาย ติดตามสุขภาพสัตว์ทะเลหายาก และสำรวจรอยกินของพะยูน บริเวณ เกาะลิบง จังหวัดตรัง โดยใช้การสำรวจทางเรือร่วมกับอากาศยานไร้คนขับ (Multirotor UAV)\nผลการสำรวจพบสัตว์ทะเลหายาก รวม 77 ตัว ประกอบด้วย พะยูน 16 ตัว เต่าตนุ 60 ตัว และโลมาหลังโหนก 1 ตัว กระจายตัวอยู่ในหลายพื้นที่รอบเกาะลิบง เช่น อ่าวบ้านพร้าว อ่าวเสม็ด ปากคลองสะพานช้าง คลองหว้า และแหลมจูโหย"
+              }
+            ]
+          },
+          {
+            "text": "23 ก.ค. 2569",
+            "url": "https://www.dmcr.go.th/detailAll/86564/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86564/nws/260",
+                "anchor_text": "23 ก.ค. 2569"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "ข่าวดี! กรมทะเลพบวาฬบรูด้าหลายฝูงนอกชายฝั่งชลบุรี ติดตาม “เจ้าบางแสน” ได้อีกครั้ง สะท้อนความอุดมสมบูรณ์ของทะเลไทย",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "ข่าวดี! กรมทะเลพบวาฬบรูด้าหลายฝูงนอกชายฝั่งชลบุรี ติดตาม “เจ้าบางแสน” ได้อีกครั้ง สะท้อนความอุดมสมบูรณ์ของทะเลไทย",
+            "url": "https://www.dmcr.go.th/detailAll/86564/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86564/nws/260",
+                "anchor_text": "ข่าวดี! กรมทะเลพบวาฬบรูด้าหลายฝูงนอกชายฝั่งชลบุรี ติดตาม “เจ้าบางแสน” ได้อีกครั้ง สะท้อนความอุดมสมบูรณ์ของทะเลไทย"
+              }
+            ]
+          },
+          {
+            "text": "ระหว่างวันที่ 21–23 กรกฎาคม 2569 ศูนย์วิจัยทรัพยากรทางทะเลและชายฝั่งอ่าวไทยฝั่งตะวันออก (ศวทอ.) ดำเนินการสำรวจวาฬบรูด้า (Balaenoptera edeni) ด้วยวิธี Hot Spot Check ในพื้นที่เขาสามมุก ชายหาดบางแสน ชายหาดบางพระ และเกาะสีชัง จังหวัดชลบุรี",
+            "url": "https://www.dmcr.go.th/detailAll/86564/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86564/nws/260",
+                "anchor_text": "ระหว่างวันที่ 21–23 กรกฎาคม 2569 ศูนย์วิจัยทรัพยากรทางทะเลและชายฝั่งอ่าวไทยฝั่งตะวันออก (ศวทอ.) ดำเนินการสำรวจวาฬบรูด้า (Balaenoptera edeni) ด้วยวิธี Hot Spot Check ในพื้นที่เขาสามมุก ชายหาดบางแสน ชายหาดบางพระ และเกาะสีชัง จังหวัดชลบุรี"
+              }
+            ]
+          },
+          {
+            "text": "23 ก.ค. 2569",
+            "url": "https://www.dmcr.go.th/detailAll/86562/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86562/nws/260",
+                "anchor_text": "23 ก.ค. 2569"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "เนื่องในวันวาฬและโลมาโลก วันนี้ขอพาน้อง ๆ วาฬและโลมามาอวดโฉมทักทายทุกคน",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "เนื่องในวันวาฬและโลมาโลก วันนี้ขอพาน้อง ๆ วาฬและโลมามาอวดโฉมทักทายทุกคน",
+            "url": "https://www.dmcr.go.th/detailAll/86562/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86562/nws/260",
+                "anchor_text": "เนื่องในวันวาฬและโลมาโลก วันนี้ขอพาน้อง ๆ วาฬและโลมามาอวดโฉมทักทายทุกคน"
+              }
+            ]
+          },
+          {
+            "text": "เบื้องหลังความน่ารักเหล่านี้ คือทะเลที่อุดมสมบูรณ์และระบบนิเวศที่แข็งแรง มาช่วยกันดูแลทะเล ลดขยะ ลดการใช้พลาสติก และเคารพพื้นที่ของสัตว์ทะเล เพื่อให้น้อง ๆ ได้แหวกว่ายอย่างอิสระไปอีกนาน",
+            "url": "https://www.dmcr.go.th/detailAll/86562/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86562/nws/260",
+                "anchor_text": "เบื้องหลังความน่ารักเหล่านี้ คือทะเลที่อุดมสมบูรณ์และระบบนิเวศที่แข็งแรง มาช่วยกันดูแลทะเล ลดขยะ ลดการใช้พลาสติก และเคารพพื้นที่ของสัตว์ทะเล เพื่อให้น้อง ๆ ได้แหวกว่ายอย่างอิสระไปอีกนาน"
+              }
+            ]
+          },
+          {
+            "text": "22 ก.ค. 2569",
+            "url": "https://www.dmcr.go.th/detailAll/86515/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86515/nws/260",
+                "anchor_text": "22 ก.ค. 2569"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "กรมทะเล ตรวจสอบซากพะยูนเกยตายบริเวณเกาะพระทอง จ.พังงา เร่งส่งชันสูตรหาสาเหตุการเสียชีวิต",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "กรมทะเล ตรวจสอบซากพะยูนเกยตายบริเวณเกาะพระทอง จ.พังงา เร่งส่งชันสูตรหาสาเหตุการเสียชีวิต",
+            "url": "https://www.dmcr.go.th/detailAll/86515/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86515/nws/260",
+                "anchor_text": "กรมทะเล ตรวจสอบซากพะยูนเกยตายบริเวณเกาะพระทอง จ.พังงา เร่งส่งชันสูตรหาสาเหตุการเสียชีวิต"
+              }
+            ]
+          },
+          {
+            "text": "วันที่ 22 กรกฎาคม 2569 กรมทรัพยากรทางทะเลและชายฝั่ง (ทช.) โดยสำนักงานทรัพยากรทางทะเลและชายฝั่งที่ 6 มอบหมายส่วนอนุรักษ์ทรัพยากรทางทะเล ร่วมกับศูนย์อนุรักษ์ทรัพยากรป่าชายเลนที่ 12 (คุระบุรี) ลงพื้นที่ตรวจสอบซากพะยูน หลังได้รับแจ้งจากเจ้าหน้าที่ศูนย์ช่วยเหลือสัตว์ทะเลหายากสิรีธาร พบซากพะยูนบริเวณเกาะพระทอง จังหวัดพังงา",
+            "url": "https://www.dmcr.go.th/detailAll/86515/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86515/nws/260",
+                "anchor_text": "วันที่ 22 กรกฎาคม 2569 กรมทรัพยากรทางทะเลและชายฝั่ง (ทช.) โดยสำนักงานทรัพยากรทางทะเลและชายฝั่งที่ 6 มอบหมายส่วนอนุรักษ์ทรัพยากรทางทะเล ร่วมกับศูนย์อนุรักษ์ทรัพยากรป่าชายเลนที่ 12 (คุระบุรี) ลงพื้นที่ตรวจสอบซากพะยูน หลังได้รับแจ้งจากเจ้าหน้าที่ศูนย์ช่วยเหลือสัตว์ทะเลหายากสิรีธาร พบซากพะยูนบริเวณเกาะพระทอง จังหวัดพังงา"
+              }
+            ]
+          },
+          {
+            "text": "19 ก.ค. 2569",
+            "url": "https://www.dmcr.go.th/detailAll/86426/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86426/nws/260",
+                "anchor_text": "19 ก.ค. 2569"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "กรมทะเล เผยผลสำรวจพบ “โลมาอิรวดี” ฝูงใหญ่สุขภาพดี สะท้อนความสมบูรณ์และการฟื้นตัวของระบบนิเวศ",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "กรมทะเล เผยผลสำรวจพบ “โลมาอิรวดี” ฝูงใหญ่สุขภาพดี สะท้อนความสมบูรณ์และการฟื้นตัวของระบบนิเวศ",
+            "url": "https://www.dmcr.go.th/detailAll/86426/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86426/nws/260",
+                "anchor_text": "กรมทะเล เผยผลสำรวจพบ “โลมาอิรวดี” ฝูงใหญ่สุขภาพดี สะท้อนความสมบูรณ์และการฟื้นตัวของระบบนิเวศ"
+              }
+            ]
+          },
+          {
+            "text": "กรมทรัพยากรทางทะเลและชายฝั่ง (ทช.) โดยศูนย์วิจัยทรัพยากรทางทะเลและชายฝั่งอ่าวไทยตอนล่าง (สงขลา) เผยข่าวดีหนุนความหวังด้านการอนุรักษ์ หลังประสบความสำเร็จในการนำเทคโนโลยีล้ำสมัยอย่าง อากาศยานไร้คนขับ (UAV) ร่วมกับการสำรวจทางเรือ ลงพื้นที่ประเมินประชากรโลมาอิรวดีในบริเวณทะเลสาบสงขลา จากการลงพื้นที่สำรวจอย่างใกล้ชิด บริเวณจุดเฝ้าระวังระหว่างบ้านปากหวะ ต.ลำปำ อ.เมือง จ.พัทลุง และ ต.เกาะใหญ่ อ.กระแสสินธุ์ จ.สงขลา",
+            "url": "https://www.dmcr.go.th/detailAll/86426/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86426/nws/260",
+                "anchor_text": "กรมทรัพยากรทางทะเลและชายฝั่ง (ทช.) โดยศูนย์วิจัยทรัพยากรทางทะเลและชายฝั่งอ่าวไทยตอนล่าง (สงขลา) เผยข่าวดีหนุนความหวังด้านการอนุรักษ์ หลังประสบความสำเร็จในการนำเทคโนโลยีล้ำสมัยอย่าง อากาศยานไร้คนขับ (UAV) ร่วมกับการสำรวจทางเรือ ลงพื้นที่ประเมินประชากรโลมาอิรวดีในบริเวณทะเลสาบสงขลา จากการลงพื้นที่สำรวจอย่างใกล้ชิด บริเวณจุดเฝ้าระวังระหว่างบ้านปากหวะ ต.ลำปำ อ.เมือง จ.พัทลุง และ ต.เกาะใหญ่ อ.กระแสสินธุ์ จ.สงขลา"
+              }
+            ]
+          },
+          {
+            "text": "15 ก.ค. 2569",
+            "url": "https://www.dmcr.go.th/detailAll/86355/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86355/nws/260",
+                "anchor_text": "15 ก.ค. 2569"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "กรมทะเล ตรวจชันสูตรซากโลมาหัวบาตรหลังเรียบเกยตื้น จ.สมุทรปราการ ไม่สามารถระบุสาเหตุการตายได้เนื่องจากสภาพซากเน่าเปื่อย",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "กรมทะเล ตรวจชันสูตรซากโลมาหัวบาตรหลังเรียบเกยตื้น จ.สมุทรปราการ ไม่สามารถระบุสาเหตุการตายได้เนื่องจากสภาพซากเน่าเปื่อย",
+            "url": "https://www.dmcr.go.th/detailAll/86355/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86355/nws/260",
+                "anchor_text": "กรมทะเล ตรวจชันสูตรซากโลมาหัวบาตรหลังเรียบเกยตื้น จ.สมุทรปราการ ไม่สามารถระบุสาเหตุการตายได้เนื่องจากสภาพซากเน่าเปื่อย"
+              }
+            ]
+          },
+          {
+            "text": "วันที่ 15 กรกฎาคม 2569​ เจ้าหน้าที่ศูนย์วิจัยทรัพยากรทางทะเลและชายฝั่งอ่าวไทยตอนบน (ศวทบ.) ได้รับแจ้งเรื่องพบซากโลมาเกยตื้น บริเวณหน้าวัดขุนสมุทรจีน ตำบล แหลมฟ้าผ่า อำเภอ พระสมุทรเจดีย์ จังหวัด​สมุทรปราการ",
+            "url": "https://www.dmcr.go.th/detailAll/86355/nws/260",
+            "urls": [
+              {
+                "url": "https://www.dmcr.go.th/detailAll/86355/nws/260",
+                "anchor_text": "วันที่ 15 กรกฎาคม 2569​ เจ้าหน้าที่ศูนย์วิจัยทรัพยากรทางทะเลและชายฝั่งอ่าวไทยตอนบน (ศวทบ.) ได้รับแจ้งเรื่องพบซากโลมาเกยตื้น บริเวณหน้าวัดขุนสมุทรจีน ตำบล แหลมฟ้าผ่า อำเภอ พระสมุทรเจดีย์ จังหวัด​สมุทรปราการ"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "กรุณากรอกอีเมล์",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "สมัครรับจดหมายข่าว กรมทรัพยากรทางทะเลและชายฝั่ง",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ยินดีต้อนรับเข้าสู่ระบบ กรมทรัพยากรทางทะเลและชายฝั่ง",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ลงทะเบียนสมัครเป็นสมาชิก เพียงคลิกปุ่มสมัครสมาชิกด้านล่างนี้ได้เลย",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ยินดีต้อนรับเข้าสู่ระบบปฏิทินผู้บริหาร กรมทรัพยากรทางทะเลและชายฝั่ง",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ยินดีต้อนรับเข้าสู่ระบบ กรมทรัพยากรทางทะเลและชายฝั่ง",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "คุณต้องการลบ?",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 4,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "แบบสำรวจความความพึงพอใจ",
+        "main_title": "DMCR FACEBOOK",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "021411296",
+        "021411246"
+      ],
+      "emails": [
+        ""
+      ]
+    }
+  }
+}

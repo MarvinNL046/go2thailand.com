@@ -1,0 +1,61 @@
+{
+  "captured_at": "2026-07-27T13:18:31.225Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/",
+  "cost": 0.01284,
+  "rankings": [
+    {
+      "keyword": "bangkok to chiang mai",
+      "position": 91,
+      "volume": 3600,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/"
+    },
+    {
+      "keyword": "chiang mai from bangkok",
+      "position": 92,
+      "volume": 3600,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/"
+    },
+    {
+      "keyword": "how to get from bangkok to chiang mai",
+      "position": 60,
+      "volume": 390,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/"
+    },
+    {
+      "keyword": "bkk to chiang mai distance",
+      "position": 55,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/"
+    },
+    {
+      "keyword": "distance from bangkok to chiang mai",
+      "position": 57,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/"
+    },
+    {
+      "keyword": "travel from bangkok to chiang mai",
+      "position": 92,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/"
+    },
+    {
+      "keyword": "travel to chiang mai from bangkok",
+      "position": 94,
+      "volume": 110,
+      "intent": "transactional",
+      "url": "https://go2-thailand.com/transport/bangkok-to-chiang-mai/"
+    }
+  ]
+}

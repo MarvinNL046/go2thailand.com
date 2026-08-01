@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-30T20:36:48.237Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "eten in chiang khan thailand",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "eten in chiang khan thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "eten in chiang khan thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

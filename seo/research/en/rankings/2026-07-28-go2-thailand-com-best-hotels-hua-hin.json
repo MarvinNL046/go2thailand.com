@@ -1,0 +1,54 @@
+{
+  "captured_at": "2026-07-28T13:08:45.406Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/best-hotels/hua-hin/",
+  "cost": 0.01272,
+  "rankings": [
+    {
+      "keyword": "best hotels hua hin",
+      "position": 56,
+      "volume": 210,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/best-hotels/hua-hin/"
+    },
+    {
+      "keyword": "best hotels hua hin thailand",
+      "position": 38,
+      "volume": 210,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/best-hotels/hua-hin/"
+    },
+    {
+      "keyword": "best hotels in hua hin",
+      "position": 49,
+      "volume": 210,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/best-hotels/hua-hin/"
+    },
+    {
+      "keyword": "best hotels in hua hin thailand",
+      "position": 50,
+      "volume": 210,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/best-hotels/hua-hin/"
+    },
+    {
+      "keyword": "hua hin best hotels",
+      "position": 58,
+      "volume": 210,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/best-hotels/hua-hin/"
+    },
+    {
+      "keyword": "place to stay in hua hin",
+      "position": 60,
+      "volume": 170,
+      "intent": "transactional",
+      "url": "https://go2-thailand.com/best-hotels/hua-hin/"
+    }
+  ]
+}

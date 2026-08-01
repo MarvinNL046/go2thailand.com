@@ -1,60 +1,63 @@
 ---
-title: "Thailand lanceert 'Healing Journey' wellness toerisme campagne 2026"
+title: "Healing Journey Thailand 2026: van campagne naar reisplan"
 slug: "healing-journey-thailand-wellness-campaign-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
-category: "news"
-tags: ["wellness toerisme", "healing journey thailand", "TAT campagne", "duurzaam reizen", "wellness retreats", "beste wellness retreats Thailand", "Thailand wellness vakantie", "genezende reis Thailand"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Ontdek de Healing Journey Thailand campagne van de Tourism Authority: wellness en mindfulness als nieuwe luxe voor je 2026-vakantie. Vanuit Nederland ideaal voor een herstellende reis met directe vluchten vanaf Schiphol."
+category: "wellness"
+tags: ["Healing Journey Thailand", "wellness Thailand", "TAT campagne", "slow travel Thailand"]
+image: "/images/redesign/editorial/healing-journey-thailand-wellness-campaign-2026-hero.webp"
+description: "Healing Journey Thailand is een TAT-campagne rond betekenisvol en wellnessgericht reizen. Vertaal de 5R’s naar een nuchter reisplan zonder gezondheidsbeloftes."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 6
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Travel And Tour World - Healing Journey Thailand campaign unveiled"
-    url: "https://www.travelandtourworld.com/news/article/healing-journey-thailand-thailands-new-wellness-tourism-campaign-unveiled/"
-  - name: "The Manila Times - TAT invites global travellers to rediscover balance through Healing Journey Thailand"
-    url: "https://www.manilatimes.net/2026/03/20/tmt-newswire/media-outreach-newswire/tourism-authority-of-thailand-invites-global-travellers-to-rediscover-balance-through-healing-journey-thailand-campaign/2304278"
-  - name: "TravelPulse - Thailand Launches New Luxury Wellness Travel Campaign"
-    url: "https://www.travelpulse.com/news/destinations/thailand-launches-new-luxury-wellness-travel-campaign"
-  - name: "The Bruneian - TAT premieres Healing Journey Thailand global campaign in London"
-    url: "https://thebruneian.news/2026/03/16/tourism-authority-of-thailand-premieres-healing-journey-thailand-global-campain-in-london-advancing-healing-led-tourism-vision/"
+  - name: "TAT Newsroom — Healing Journey Thailand campaign"
+    url: "https://www.tatnews.org/2026/03/tourism-authority-of-thailand-invites-global-travellers-to-rediscover-balance-through-healing-journey-thailand-campaign/"
+  - name: "TAT Newsroom — London presentation"
+    url: "https://www.tatnews.org/2026/03/tourism-authority-of-thailand-presents-healing-journey-thailand-global-campaign-in-london-advancing-healing-led-tourism-vision/"
+  - name: "TAT Newsroom — campaign preview"
+    url: "https://www.tatnews.org/2025/12/tat-unveils-healing-journey-thailand-global-campaign-ahead-of-january-2026-launch/"
 ---
 
-De Tourism Authority of Thailand (TAT) heeft officieel **Healing Journey Thailand** gelanceerd, de vlaggenschip internationale marketingcampagne voor 2026. Deze initiatief positioneert Thailand als de wereldleidende bestemming voor wellness-reizen onder de slogan **"Genezen is de nieuwe luxe."** Als je een reis plant, begin dan met onze [gids voor de beste reistijd in Thailand](/blog/best-time-to-visit-thailand/) om het juiste seizoen te kiezen voor een wellness-retreat – ideaal tijdens het koele seizoen voor optimaal comfort en veiligheid.
+**Healing Journey Thailand** is een toerismecampagne van de Tourism Authority of Thailand (TAT), geen medisch programma of kwaliteitskeurmerk. De campagne werd in januari 2026 gelanceerd en in maart in Londen gepresenteerd. Gebruik de ideeën als inspiratie, maar controleer iedere retreat, behandeling en activiteit afzonderlijk.
 
-## Wat is Healing Journey Thailand?
+## Wat bedoelt TAT met Healing Journey?
 
-De campagne ging in première op 16 maart 2026 in **The Cinema at Selfridges in Londen**, wat Thailand's ambitie aangeeft om in te haken op de groeiende wereldwijde wellness-toerismemarkt. In plaats van Thailand puur te promoten als een strand-en-tempelbestemming, framet de TAT het land nu als een plek voor **betekenisvolle, herstellende reiservaringen**.
+TAT koppelt herstel en betekenisvol reizen aan natuur, cultuur, eten, lokale gemeenschappen en hedendaagse wellness. De campagnefilm met de Britse artiest Henry Moodie werd opgenomen in Krabi en Trang. Latere creator-routes liepen onder meer door Chumphon, Ranong, Chiang Mai, Sukhothai, Khao Yai en Phang Nga.
 
-Volgens [The Manila Times](https://www.manilatimes.net/2026/03/20/tmt-newswire/media-outreach-newswire/tourism-authority-of-thailand-invites-global-travellers-to-rediscover-balance-through-healing-journey-thailand-campaign/2304278) nodigt de campagne globale reizigers uit om "balans her te ontdekken" via Thailand's wellness-tradities, natuurlijke landschappen en cultureel erfgoed – perfect voor Nederlanders die op zoek zijn naar rust na een druk jaar.
+Dat brede geografische bereik is nuttig: je hoeft geen duur resort te boeken om rustiger te reizen. Een kleiner dagprogramma, minder hotelwissels en tijd voor een lokale workshop kunnen beter passen dan een vol retreatpakket.
 
-## Het 5R Framework
+## De 5R’s als praktische keuzehulp
 
-De campagne is opgebouwd rond een **"5R"-framework** dat vijf soorten genezende ervaringen definieert die door heel Thailand beschikbaar zijn:
+De campagne gebruikt vijf pijlers:
 
-1. **Retreats** — Wellness-vakanties, spa-behandelingen en meditatieprogramma's in plekken als [Chiang Mai](/city/chiang-mai/), [Koh Samui](/city/koh-samui/) en [Hua Hin](/city/hua-hin/)
-2. **Rituals** — Culturele ceremonies, tempelbezoeken en spirituele praktijken geworteld in de Thaise traditie
-3. **Reels** — Visuele storytelling-mogelijkheden, waarmee bezoekers de schoonheid van Thailand kunnen delen via sociale media
-4. **Rhythms** — Muziek, festivals en evenementen die reizigers verbinden met de lokale cultuur
-5. **Relations** — Gemeenschapsgericht toerisme en authentieke interacties met lokale gemeenschappen
+- **Retreats:** kijk naar programma, begeleiders, groepsgrootte, rusttijd en annuleringsvoorwaarden.
+- **Rituals:** behandel tempelbezoek en lokale tradities als cultuur, niet als een gegarandeerde persoonlijke transformatie.
+- **Reels:** laat fotogenieke content niet je hele route bepalen; vraag toestemming bij mensen en gemeenschappen.
+- **Rhythms:** denk aan muziek, beweging, eten en het tempo van je dagen.
+- **Relations:** controleer hoe een activiteit de lokale organisatie of gemeenschap daadwerkelijk betrekt.
 
-## Bekende Ambassadeur
+## Kies eerst je behoefte, daarna de aanbieder
 
-De Britse singer-songwriter **Henry Moodie** is het gezicht van de campagne. Zijn persoonlijke reis door Thailand's meest serene bestemmingen speelt een centrale rol in de boodschap van de campagne, met content die wordt verspreid over internationale markten waaronder het VK, Duitsland, Frankrijk en India – en straks ook meer gericht op Europese reizigers zoals uit Nederland.
+Wil je vooral slapen en vertragen, plan dan minder verplaatsingen. Zoek je yoga of meditatie, controleer opleiding, taal en belastingniveau. Voor massage helpt onze [gids over Thaise massage](/nl/blog/thai-massage-guide-types-prices/) bij de keuze tussen stijlen en consent. Bij klachten, medicatie, zwangerschap of herstel na een operatie vraag je advies aan een bevoegde zorgverlener; marketingtaal is geen medische beoordeling.
 
-## Waarom het ertoe doet voor reizigers
+Controleer vóór betaling altijd wat bij het programma hoort, hoeveel vrije tijd er is, welke kamer je krijgt, welk eten kan worden aangepast en wat er gebeurt als een sessie uitvalt. Gebruik alleen de actuele totaalprijs en voorwaarden van de aanbieder. Deze route bevat bewust geen affiliateblok: de campagne verklaart het concept, maar lost de keuze voor een concrete retreat niet zelfstandig op.
 
-Het wellness-toerismesegment in Thailand groeit razendsnel. Het land biedt al van alles, van traditionele Thaise massage en kruidenbehandelingen tot luxe resort-spa's en stille meditatie-retreats in boskloosters.
+## Veelgestelde vragen
 
-Met de [Healing Journey-campagne](https://www.travelandtourworld.com/news/article/healing-journey-thailand-thailands-new-wellness-tourism-campaign-unveiled/) richt de TAT zich specifiek op **hoogwaardige reizigers** die meer willen dan een standaardvakantie – mensen die op zoek zijn naar ervaringen die ontspanning, culturele onderdompeling en persoonlijk welzijn combineren. Voor Nederlanders is dit ideaal, met directe KLM-vluchten vanaf Schiphol en aandacht voor het regenseizoen in je planning.
+### Is Healing Journey Thailand een officiële campagne?
 
-Belangrijke wellness-bestemmingen die worden gepromoot, zijn:
+Ja. TAT publiceerde de campagne en de presentatie in Londen via zijn eigen newsroom.
 
-- **[Chiang Mai](/city/chiang-mai/)** — Meditatie-retreats en traditionele noordelijke Thaise geneespraktijken
-- **[Koh Samui](/city/koh-samui/)** — Luxe wellness-resorts en detox-programma's
-- **[Bangkok](/city/bangkok/)** — High-end spa-ervaringen en wellness-gerichte hotels
-- **[Phuket](/city/phuket/)** — Strand-yoga-retreats en holistische gezondheidscentra
+### Garandeert een vermelding in de campagne kwaliteit?
 
-Voor reizigers die geïnteresseerd zijn in deze kant van Thailand, bekijk onze gids voor de [beste wellness-retreats in Thailand voor 2026](/blog/best-wellness-retreats-thailand-2026/). Eten is een essentieel onderdeel van wellness-reizen in Thailand – ontdek waarom in ons artikel over [of Thais eten gezond is](/blog/is-thai-food-healthy/) en duik in de voedzame kruiden achter Thaise gerechten met de [geschiedenis van de Thaise keuken](/blog/history-of-thai-cuisine/). Voor wie op een genezende reis ook de lokale voedselcultuur wil ervaren, tonen de [Bangkok streetfood gids voor beginners](/blog/bangkok-street-food-beginners/) en [beste streetfood-markten in Bangkok](/blog/best-street-food-markets-bangkok/) een andere maar even verrijkende kant van Thailand. Als je de hele reis plant, zijn onze [Thailand reisgids](/thailand-travel-guide/) en [reisschema's](/itineraries/) een goed startpunt. Wellness-retreats zijn ook een populair thema tijdens het [koele seizoen](/blog/best-time-to-visit-thailand/) – de meest comfortabele reistijd. Reizigers die geïnteresseerd zijn in plantaardig of holistisch eten, moeten ook onze [vegan Thaise eten gids](/blog/vegan-thai-food-guide/) en [halal eten in Thailand gids](/blog/halal-food-thailand-guide/) bekijken.
+Nee. Een campagneverhaal is geen onafhankelijke inspectie van een retreat, therapeut of gezondheidsclaim.
+
+### Moet ik naar Krabi of Trang?
+
+Nee. De campagne gebruikt meerdere regio’s. Kies eerst klimaat, transfertijd en activiteitstype; bepaal daarna de bestemming.
+
+### Is dit medische wellness?
+
+Niet automatisch. De campagne gaat over toerisme en welzijn. Diagnostiek, behandeling en herstelzorg vragen een aparte medische en juridische controle.

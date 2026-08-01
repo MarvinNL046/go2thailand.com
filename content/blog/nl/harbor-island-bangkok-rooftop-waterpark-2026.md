@@ -1,66 +1,68 @@
 ---
-title: "Harbor Island: Grootste Dakterras Waterpark in Bangkok met Glijbanen en Zipline"
+title: "Harbor Island Bangkapi: waterpark, route en gezinscheck"
 slug: "harbor-island-bangkok-rooftop-waterpark-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "attractions"
-tags: ["Harbor Island Bangkok", "Bangkok waterpark", "bezienswaardigheden Bangkok 2026", "familie vakantie Thailand", "The Mall Bangkapi", "dakterras attracties Bangkok", "tips Bangkok met kinderen", "beste waterparken Thailand"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Ontdek Harbor Island, het grootste dakterras waterpark in Zuidoost-Azië: 10.000 m² vol glijbanen, lazy river en een 100m zipline bovenop een Bangkokse mall. Perfect voor families op vakantie in Thailand."
+tags: ["Harbor Island Bangkapi", "waterpark Bangkok", "Bangkok met kinderen", "MRT Yellow Line"]
+image: "/images/redesign/editorial/harbor-island-bangkok-rooftop-waterpark-2026-hero.webp"
+description: "Plan Harbor Island in The Mall Lifestore Bangkapi: controleer vestiging, route, zones, kindvoorwaarden, openingstijd en ticket voor je bezoek."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 12
+lastUpdated: "2026-08-01"
 sources:
-  - name: "The Smart Local — Massive New Rooftop Waterpark in Bangkok"
-    url: "https://thesmartlocal.com/read/harborland-waterpark-bangkok/"
-  - name: "HarborLand Group — Harbor Island at The Mall Lifestore Bangkapi"
+  - name: "HarborLand Group — Harbor Island The Mall Lifestore Bangkapi"
     url: "https://harborlandgroup.com/harbor-island-the-mall-lifestore-bangkapi/"
-  - name: "ASEAN Records World — Harbor Island: Largest Rooftop Water Park in Southeast Asia"
-    url: "https://aseanrecords.world/harbor-island-thailand-the-largest-rooftop-water-park-in-southeast-asia/"
-  - name: "The Asian Affairs — Bangkok Rooftop Waterpark 2026"
-    url: "https://www.theasianaffairs.com/bangkok-rooftop-waterpark-slides-zipline-2026/"
+  - name: "HarborLand Group — branch overview"
+    url: "https://harborlandgroup.com/branch/"
 ---
 
-## Een Waterpark op het Dak van een Winkelcentrum
+Harbor Island Bangkapi is het rooftopwaterpark op de derde verdieping van **The Mall Lifestore Bangkapi**. Controleer die volledige vestigingsnaam voordat je een ticket kiest: Harbor Island Bangkae en de droge HarborLand-speelparken zijn andere producten en routes.
 
-Bangkok heeft nooit een gebrek gehad aan manieren om de hitte te trotseren, maar Harbor Island brengt het naar een hoger niveau – letterlijk. Met 10.000 vierkante meter op het dak van The Mall Lifestore in Bangkapi houdt het het record voor het grootste dakterras waterpark in Zuidoost-Azië. Het park opende begin 2025 en is al snel een van de populairste familieattracties van de stad geworden. Als je een familie reis naar Bangkok plant, kijk dan in onze [gids voor Thailand met kinderen](/blog/thailand-with-kids-family-travel-guide/) en [beste dagtrips vanuit Bangkok](/blog/best-day-trips-from-bangkok/) voor meer ideeën. Voor Nederlandse families is dit ideaal, vooral als je rechtstreeks vanaf Schiphol komt met KLM.
+## Past Bangkapi bij jouw dag?
 
-## Wat Kun Je Er Vinden
+Kies deze vestiging als de MRT Yellow Line en het oosten van Bangkok logisch liggen ten opzichte van je hotel. Het park vraagt meerdere uren; combineer het niet automatisch met een druk programma aan de andere kant van de stad. Houd een rustig alternatief in de mall achter de hand bij onweer, onderhoud of tijdelijke sluiting van een buitenzone.
 
-Harbor Island is verdeeld in zeven themazones, elk ontworpen voor verschillende leeftijden en avontuurlijke niveaus. Alle zones zijn inbegrepen bij één ticket – geen extra kosten voor banden, kluisjes of handdoeken. Het is een van de [nieuwe attracties die in 2026 opengaan in Bangkok](/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/), naast het [Thainosaur Museum](/blog/thainosaur-museum-bangkok-dinosaur-attraction-2026/) en de [Skyflyers-schommelrit in Asiatique](/blog/skyflyers-garudapterus-asiatique-bangkok-tallest-swing-ride-2026/).
+HarborLand beschrijft zeven zones: Super Island, Little Island, Lazy Island, Jungle Island, Sky Rider, Toys Island en Art Island. De naam van een zone zegt niet welke attractie voor jouw kind toegankelijk is. Lengte, gewicht, gezondheid, zwemvaardigheid en begeleiding kunnen per toestel verschillen.
 
-### Sky Rider
+## Zo voorkom je de verkeerde boeking
 
-De eyecatcher is Thailand's langste sky track: een 8 meter hoge, 100 meter lange luchtslee die je over het hele waterpark laat zweven. Het is deels zipline, deels achtbaan, en totaal anders dan wat je in een traditioneel waterpark vindt.
+Controleer in deze volgorde:
 
-### Super Island
+1. **Vestiging:** The Mall Lifestore Bangkapi, niet Bangkae.
+2. **Product:** Harbor Island-waterpark, niet alleen HarborLand.
+3. **Datum en sessie:** kies alleen voorwaarden die bij jouw bezoekdag horen.
+4. **Bezoekerstype:** kind, tiener, volwassene of begeleider kan een eigen categorie hebben.
+5. **Inbegrepen onderdelen:** lees of locker, uitrusting of activiteiten apart worden behandeld.
+6. **Wijziging:** bekijk het beleid bij weer, onderhoud en te laat arriveren.
 
-Een reusachtige Aqua Tower met 18 verschillende glijbanen, van milde kindvriendelijke banen tot steile, razendsnelle drops. Een gigantische emmer kiept elke paar minuten water over nietsvermoedende bezoekers beneden.
+Deze gids noemt bewust geen vaste ticketprijs. Promoties en categorieën veranderen; de actuele aanbiederinformatie bij afrekenen is leidend.
 
-### Lazy Island
+## Route met openbaar vervoer
 
-Een 200 meter lange lazy river slingert door interactieve water-effecten en pittoreske stukken. De ideale plek om te dobberen en op adem te komen tussen de glijbanen.
+Gebruik de MRT Yellow Line naar **Bang Kapi** en volg de actuele route naar The Mall Lifestore. Een uitgang of skywalk kan door werkzaamheden of beheer tijdelijk anders lopen. Controleer daarom op de bezoekdag de route in je navigatie-app en de aanwijzingen in het station en winkelcentrum. De mall bereiken is niet hetzelfde als bij de waterparkingang staan; reserveer tijd voor de laatste looproute naar verdieping drie.
 
-### Spray Park en Kindzones
+## Met kinderen
 
-Voor jongere kinderen (vanaf 2 jaar) zijn er speciale splashgebieden met ondiepe baden, mini-glijbanen en waterkanonnen. Het park biedt ook een **Happy Care Service** voor kinderen van 3 tot 10 jaar, met een toegewijde begeleider zodat ouders kunnen genieten van de grotere attracties.
+De officiële pagina positioneert het park voor bezoekers vanaf ongeveer twee jaar. Dat is geen toegangsgarantie voor iedere glijbaan of activiteit. Spreek een ontmoetingspunt af, houd jonge kinderen direct in zicht en plan pauzes. Controleer ter plaatse de actuele regels en volg de instructies van medewerkers.
 
-## Tickets en Openingstijden
+Neem zwemkleding, droge kleding, waterbestendige tas en zonbescherming mee. Vraag vooraf naar toegestane kleding, eigen drijfmiddelen, lockers en handdoeken; veronderstel niet dat alles inbegrepen of toegestaan is.
 
-- **Volwassenen (6-uurs pas):** 670 THB (ongeveer €16,50)
-- **Volwassenen (volledige dag):** 990 THB (ongeveer €24,90)
-- **Dagelijks geopend:** 10:00 tot 20:00 uur
+## Veelgestelde vragen
 
-Alle zones, kluisjes, handdoeken en banden zijn inbegrepen bij het ticketprijs.
+### Is Harbor Island Bangkapi binnen of buiten?
 
-## Hoe Kom Je Er
+Het hoofdproduct is een rooftopwaterpark met buitenonderdelen. Sommige zones zijn droog of beschut, maar weer en onderhoud kunnen de werking beïnvloeden.
 
-Harbor Island ligt op de 3e verdieping van The Mall Lifestore in Bangkapi. De makkelijkste manier is met de **MRT Yellow Line** naar **Bang Kapi Station** – het winkelcentrum is direct verbonden. Vanuit het centrum van Bangkok duurt de rit met de trein ongeveer 30 minuten. Onze [gids voor openbaar vervoer in Bangkok](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) gaat uitgebreid in op alle BTS-, MRT- en monoraillijnen, inclusief de [Yellow en Pink Line monorail routes](/blog/bangkok-yellow-pink-line-monorail-tourist-guide-2026/). Voor reizigers vanuit Nederland is dit handig, want de hitte in Bangkok vraagt om betrouwbaar en koel transport.
+### Is dit hetzelfde als Harbor Island Bangkae?
 
-## Is Het Een Bezoek Waard?
+Nee. Het zijn twee vestigingen met een eigen route en zone-opzet.
 
-Als je met kinderen reist, is Harbor Island een prima keuze voor een halve of hele dag, zonder Bangkok te verlaten. Zelfs zonder kids bieden de Sky Rider-zipline en de grotere glijbanen echte spanning. En als je klaar bent, sta je al in een volledig winkelcentrum met restaurants en airco-winkelen beneden – vergelijkbaar met de shopervaring bij [One Bangkok](/blog/one-bangkok-shopping-mall-tourist-guide-2026/), de nieuwste megaproject van Bangkok.
+### Zijn openingstijden altijd hetzelfde?
 
-Voor meer activiteiten in Bangkok, bekijk onze gidsen over de [Bangkok Art Biennale 2026](/blog/bangkok-art-biennale-2026-angels-mara-guide/), [beste nachtmarkten in Bangkok](/blog/best-night-markets-bangkok-2026/) en [nieuwe dakterrasbars in Bangkok](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/). Denk je ook na over overnachtingen? Blader door onze [beste hotels in Bangkok](/best-hotels/bangkok/) of lees onze [gids voor wijken in Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/) om de juiste buurt te kiezen. Voor je hele reis? Onze [reisroute Thailand voor beginners](/blog/thailand-itinerary-first-timers/) en [hoeveel kost 2 weken Thailand](/blog/how-much-2-weeks-thailand-cost-2026-budget/) zijn goede startpunten. Let op het regenseizoen als je in de zomer boekt!
----
+Nee. De officiële branchpagina is de juiste actuele check. Controleer ook feestdagen en tijdelijke mededelingen.
+
+### Kan een peuter overal in?
+
+Nee. Een algemene minimumleeftijd vervangt de regels per toestel niet.

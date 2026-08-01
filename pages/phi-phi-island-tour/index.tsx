@@ -1,7 +1,9 @@
-import Link from 'next/link';
+﻿import Link from 'next/link';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC, BOOKING_GENERIC } from '../../lib/affiliates';
+import { useRouter } from 'next/router';
+import { ManualDecisionGuideEn, phiPhiGuideEn } from '../../components/editorial/ManualDecisionGuideEn';
 
 const LAST_VERIFIED = 'April 18, 2026';
 
@@ -131,6 +133,8 @@ const COMMON_MISTAKES = [
 ];
 
 export default function PhiPhiIslandTourPage() {
+  const { locale } = useRouter();
+  if (locale !== 'nl') return <ManualDecisionGuideEn config={phiPhiGuideEn} />;
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
 
   const breadcrumbs = [
@@ -221,7 +225,7 @@ export default function PhiPhiIslandTourPage() {
                 <a
                   href={VIATOR_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                 >
                   Compare Tours on Viator
@@ -229,7 +233,7 @@ export default function PhiPhiIslandTourPage() {
                 <a
                   href={GYG_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
                 >
                   Check GetYourGuide
@@ -343,7 +347,7 @@ export default function PhiPhiIslandTourPage() {
                     <a
                       href={provider.url}
                       target="_blank"
-                      rel="noopener noreferrer nofollow"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-5 py-2 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
                     >
                       Check {provider.name}
@@ -624,14 +628,14 @@ export default function PhiPhiIslandTourPage() {
                   <p className="text-sm text-gray-600">The quiet side of Phi Phi Don: Laem Tong, Long Beach at sunrise, and the local bars nobody tells day-trippers about.</p>
                 </Link>
                 <Link
-                  href="/blog/thailand-islands/"
+                  href="/thailand-islands/"
                   className="rounded-2xl bg-white p-5 shadow-md transition-all hover:-translate-y-1 hover:shadow-lg"
                 >
                   <h3 className="mb-2 font-bold font-heading text-gray-900">Thailand Islands Overview</h3>
                   <p className="text-sm text-gray-600">How Phi Phi compares to Koh Lanta, Koh Tao, Koh Samui, and Koh Lipe, with a decision framework for picking yours.</p>
                 </Link>
                 <Link
-                  href="/blog/best-beaches-in-thailand/"
+                  href="/best-beaches-in-thailand/"
                   className="rounded-2xl bg-white p-5 shadow-md transition-all hover:-translate-y-1 hover:shadow-lg"
                 >
                   <h3 className="mb-2 font-bold font-heading text-gray-900">Best Beaches in Thailand</h3>
@@ -661,7 +665,7 @@ export default function PhiPhiIslandTourPage() {
                 <a
                   href={VIATOR_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full bg-white px-6 py-3 text-sm font-semibold text-thailand-blue transition-colors hover:bg-slate-100"
                 >
                   Compare on Viator
@@ -669,7 +673,7 @@ export default function PhiPhiIslandTourPage() {
                 <a
                   href={GYG_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
                 >
                   Check GetYourGuide
@@ -677,7 +681,7 @@ export default function PhiPhiIslandTourPage() {
                 <a
                   href={KLOOK_GENERIC}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
                 >
                   Check Klook

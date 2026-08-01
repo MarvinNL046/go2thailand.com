@@ -1,5 +1,5 @@
 ---
-title: "Thailand Halves Visa-Free Stays for 93 Countries Over Tourist Misconduct"
+title: "Thailand Visa-Free Reduction Proposal: Current Status"
 slug: "thailand-halves-visa-free-stays-93-countries-tourist-misconduct"
 date: "2026-05-14"
 category: "tourism"
@@ -8,8 +8,11 @@ source:
   url: "https://www.independent.co.uk/travel/news-and-advice/thailand-visa-free-restrictions-tourists-russia-china-b2975555.html"
   originalTitle: "Thailand slashes visa durations for 93 countries after controversy over tourists’ behaviour"
 tags: ["visa-policy", "tourism", "foreign-business", "thailand-government"]
-description: "Thailand plans to cut visa-free stays from 60 to 30 days for visitors from 93 countries due to concerns over illegal business activities by foreigners, especially Russians and Chinese. This overhaul aims to balance tourism revenue with local protections amid rising resentment in hotspots."
+description: "Historical report on Thailand's proposed 60-to-30-day visa-free reduction, with the current official UK status checked on 27 July 2026."
+lastUpdated: "2026-07-27"
 ---
+
+> **Current-status update — 27 July 2026:** This article records a proposal. It is not the current rule stated for ordinary British passports: GOV.UK and the Royal Thai Embassy in London still state up to 60 days. Verify the temporary policy in the [visa-exemption owner](https://go2-thailand.com/visa/visa-free-entry/) shortly before departure.
 
 Thailand's government is set to propose reducing visa-free stays from 60 days to 30 days for tourists from 93 countries, driven by escalating concerns over foreign nationals engaging in illegal business operations and other misconduct. The move, announced by Foreign Affairs Minister **Sihasak Phuangketkaeow** on Tuesday, May 12, 2026, targets a broader review of visa policies amid local backlash in popular tourist areas. Officials aim to curb abuses while preserving the tourism sector, which powers much of the economy, as reported by [The Independent](https://www.independent.co.uk/travel/news-and-advice/thailand-visa-free-restrictions-tourists-russia-china-b2975555.html).
 

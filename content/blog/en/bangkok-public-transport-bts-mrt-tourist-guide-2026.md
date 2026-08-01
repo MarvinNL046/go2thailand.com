@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "practical-info"
 tags: ["Bangkok BTS", "Bangkok MRT", "Bangkok monorail", "Pink Line Bangkok", "Yellow Line Bangkok", "Bangkok public transport 2026", "getting around Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-public-transport-bts-mrt-tourist-guide-2026-hero.webp"
 description: "Bangkok's rail network keeps expanding. Here is the full 2026 guide to the BTS Skytrain, MRT subway, Yellow and Pink monorails, and how to use them as a tourist."
 featured: false
 readingTime: 4
@@ -26,7 +26,7 @@ sources:
 
 ## Bangkok's Rail Network Is Bigger Than Ever
 
-Bangkok's public transport network has grown rapidly over the past few years. In 2026, the city now has underground metro lines, elevated Skytrain routes, modern driverless monorails, and an airport rail link — all connected at key interchange stations. For tourists, this means you can reach most major sights, [shopping districts](/blog/one-bangkok-shopping-mall-tourist-guide-2026/), and [night markets](/blog/best-night-markets-bangkok-2026/) without sitting in Bangkok's notorious traffic.
+Bangkok combines underground metro lines, elevated Skytrain routes, monorails and an airport rail link, but no single mode solves every visitor route. First choose a hotel corridor and geographic day shape with our [Bangkok first-time travel guide](/blog/bangkok-travel-tips-reddit/); then use this specialist transport guide to check which rail line actually fits each long move. Current maps, payment methods, service information and fares should always be verified with the operator.
 
 ## The Main Lines You Need to Know
 
@@ -48,7 +48,7 @@ The Pink Line, officially called the Wiwat Nakhon Line, runs from Khae Rai in No
 
 ### Airport Rail Link (ARL)
 
-The ARL connects [Suvarnabhumi Airport](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) to Phaya Thai station in central Bangkok in about 30 minutes. From Phaya Thai you can transfer to the BTS. A one-way ticket to Phaya Thai costs 45 baht — far cheaper than a taxi.
+The ARL connects [Suvarnabhumi Airport](/travel-guides/sim-card-thailand/) to Phaya Thai station in central Bangkok in about 30 minutes. From Phaya Thai you can transfer to the BTS. A one-way ticket to Phaya Thai costs 45 baht — far cheaper than a taxi.
 
 ## Paying for Your Ride
 
@@ -69,4 +69,4 @@ Four new metro lines — Brown, Grey, Silver, and an extended Blue Line — are 
 - **No eating or drinking.** Food and beverages are banned on all trains and in stations. Fines apply.
 - **Use Google Maps.** The app shows real-time BTS and MRT routes and will tell you exactly which station to transfer at.
 
-Once you have the rail network figured out, use it to explore Bangkok properly. The BTS drops you close to the [best rooftop bars in Bangkok](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/), [street food markets](/blog/bangkok-street-food-beginners/), and [floating markets](/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) on the city's outskirts. The MRT is the key to reaching [Chatuchak Weekend Market](/blog/chatuchak-weekend-market-food-guide/), [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/), and day trips toward [Ayutthaya](/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/) from Bang Sue Grand Station. If you are planning a longer journey, the [Bangkok to Chiang Mai sleeper train](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) departs from Bang Sue and is one of the best overnight routes in Southeast Asia. For getting around your neighborhood on foot, the [Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) shows which BTS and MRT stations put you closest to the action.
+Once you have the rail network figured out, use it to explore Bangkok properly. The BTS drops you close to the [best rooftop bars in Bangkok](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/), [street food markets](/blog/best-street-food-markets-bangkok/), and [floating markets](/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) on the city's outskirts. The MRT is the key to reaching [Chatuchak Weekend Market](/blog/chatuchak-weekend-market-food-guide/), [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/), and day trips toward [Ayutthaya](/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/) from Bang Sue Grand Station. If you are planning a longer journey, the [Bangkok to Chiang Mai sleeper train](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) departs from Bang Sue and is one of the best overnight routes in Southeast Asia. For getting around your neighborhood on foot, the [Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) shows which BTS and MRT stations put you closest to the action.

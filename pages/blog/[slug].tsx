@@ -1,5 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
-import { useEffect } from 'react';
+import { useEffect, type ComponentType } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
@@ -27,7 +27,7 @@ import {
   TWELVEGO_GENERIC,
   withPlacementSubId,
 } from '../../lib/affiliates';
-import { getAllPosts, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
+import { getBlogConsolidation, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
 import { useGsapBlogHero } from '../../components/animations/useGsapBlogHero';
 import { useGsapScrollReveal } from '../../components/animations/useGsapScrollReveal';
 import BlogTableOfContents from '../../components/blog/BlogTableOfContents';
@@ -36,6 +36,54 @@ import BuyerIntentNextStep from '../../components/blog/BuyerIntentNextStep';
 import TripFunnelBlock from '../../components/blog/TripFunnelBlock';
 import BookingHeroCTA from '../../components/BookingHeroCTA';
 import { useSubId } from '../../lib/useSubId';
+import { ClimateUpdateGuideTemplate } from '../../components/blog/ClimateUpdateGuideTemplate';
+import { getEnClimateUpdateGuide } from '../../data/climate/en';
+import { getNlClimateUpdateGuide } from '../../data/climate/nl';
+import { ThaiCurryGuide } from '../../components/food/ThaiCurryGuide';
+import { ThaiCurryGuideEn } from '../../components/food/ThaiCurryGuideEn';
+import { DurianThailandGuide } from '../../components/food/DurianThailandGuide';
+import { DurianThailandGuideEn } from '../../components/food/DurianThailandGuideEn';
+import { LumpiniHawkerCentreGuide } from '../../components/food/LumpiniHawkerCentreGuide';
+import { LumpiniHawkerCentreGuideEn } from '../../components/food/LumpiniHawkerCentreGuideEn';
+import { BangkokSpecialtyCoffeeGuide } from '../../components/food/BangkokSpecialtyCoffeeGuide';
+import { BangkokSpecialtyCoffeeGuideEn } from '../../components/food/BangkokSpecialtyCoffeeGuideEn';
+import { CaveFantasyBangkokGuide } from '../../components/attractions/CaveFantasyBangkokGuide';
+import { CaveFantasyBangkokGuideEn } from '../../components/attractions/CaveFantasyBangkokGuideEn';
+import { NewLuxuryResortsThailandGuide } from '../../components/hotels/NewLuxuryResortsThailandGuide';
+import { NewLuxuryResortsThailandGuideEn } from '../../components/hotels/NewLuxuryResortsThailandGuideEn';
+import { JoddFairsRatchadaGuide } from '../../components/markets/JoddFairsRatchadaGuide';
+import { JoddFairsRatchadaGuideEn } from '../../components/markets/JoddFairsRatchadaGuideEn';
+import { ChatuchakFoodGuide } from '../../components/markets/ChatuchakFoodGuide';
+import { ChatuchakFoodGuideEn } from '../../components/markets/ChatuchakFoodGuideEn';
+import { BangkokStreetFoodMarketsGuideEn } from '../../components/markets/BangkokStreetFoodMarketsGuideEn';
+import { BangkokFirstTimeTipsGuideEn } from '../../components/editorial/BangkokFirstTimeTipsGuideEn';
+import { ThaiMassageThailandGuide } from '../../components/wellness/ThaiMassageThailandGuide';
+import { ThaiMassageThailandGuideEn } from '../../components/wellness/ThaiMassageThailandGuideEn';
+import { MuayThaiBeginnerTrainingGuide } from '../../components/activities/MuayThaiBeginnerTrainingGuide';
+import { MuayThaiBeginnerTrainingGuideEn } from '../../components/activities/MuayThaiBeginnerTrainingGuideEn';
+import { HarborIslandBangkapiGuide } from '../../components/attractions/HarborIslandBangkapiGuide';
+import { HarborIslandBangkapiGuideEn } from '../../components/attractions/HarborIslandBangkapiGuideEn';
+import PhuketSamuiComparisonGuideEn from '../../components/compare/PhuketSamuiComparisonGuideEn';
+import ThailandPhilippinesComparisonGuideEn from '../../components/compare/ThailandPhilippinesComparisonGuideEn';
+import ThailandBaliComparisonGuideEn from '../../components/compare/ThailandBaliComparisonGuideEn';
+import ThailandVietnamComparisonGuideEn from '../../components/compare/ThailandVietnamComparisonGuideEn';
+import { BangkokKohSamuiJourneyEn } from '../../components/transport/BangkokKohSamuiJourneyEn';
+import { BangkokChiangMaiSleeperTrainEn } from '../../components/transport/BangkokChiangMaiSleeperTrainEn';
+import { ThailandIslandHoppingGuideEn } from '../../components/islands/ThailandIslandHoppingGuideEn';
+import { HowLongThailandGuideEn } from '../../components/planning/HowLongThailandGuideEn';
+import { BestTimeThailandGuideEn } from '../../components/planning/BestTimeThailandGuideEn';
+import BtsBangkokConcertGuideEn from '../../components/events/BtsBangkokConcertGuideEn';
+import ChiangMaiChiangRaiComparisonGuideEn from '../../components/compare/ChiangMaiChiangRaiComparisonGuideEn';
+import { KhaoSoiGuideEn } from '../../components/food/KhaoSoiGuideEn';
+import { AirportArrivalGuideTemplate } from '../../components/transport/AirportArrivalGuideTemplate';
+import { phuketAirportGuideEn } from '../../data/airport-guides/en/phuket';
+import {
+  getBlogOwnerRegistration,
+  type BlogOwnerRenderer,
+} from '../../lib/blog-owner-registry';
+import { NlEditorialArticle } from '../../components/editorial/blog/NlEditorialArticle';
+import type { NlEditorialDocument } from '../../data/editorial/blog/types';
+import { combineNlEditorialDocument, loadNlEditorialProfile } from '../../lib/nl-editorial-loader';
 
 interface Source {
   name: string;
@@ -53,6 +101,11 @@ interface BlogPost {
   description: string;
   date: string;
   lastUpdated?: string;
+  sourceCount?: number;
+  editorialVolatility?: {
+    hasPriceOrSchedule: boolean;
+    hasFirstPersonAuthorityClaim: boolean;
+  };
   author: { name: string };
   category: string;
   tags: string[];
@@ -75,6 +128,7 @@ interface BlogPostPageProps {
   relatedPosts: BlogPost[];
   prevPost: AdjacentPost | null;
   nextPost: AdjacentPost | null;
+  editorialDocument?: NlEditorialDocument;
 }
 
 // Travelpayouts embed script URLs — keyed by widget type matching data-widget attribute
@@ -91,11 +145,77 @@ const WIDGET_SCRIPTS: Record<string, string> = {
   nordpass: '',  // No script widget available, fallback CTA box only
 };
 
+type StaticBlogOwnerRenderer = Exclude<
+  BlogOwnerRenderer,
+  'climate-update' | 'phuket-airport-en'
+>;
+
+const STATIC_BLOG_OWNER_COMPONENTS: Record<StaticBlogOwnerRenderer, ComponentType> = {
+  'thai-curry-nl': ThaiCurryGuide,
+  'thai-curry-en': ThaiCurryGuideEn,
+  'durian-nl': DurianThailandGuide,
+  'durian-en': DurianThailandGuideEn,
+  'lumpini-hawker-nl': LumpiniHawkerCentreGuide,
+  'lumpini-hawker-en': LumpiniHawkerCentreGuideEn,
+  'bangkok-coffee-nl': BangkokSpecialtyCoffeeGuide,
+  'bangkok-coffee-en': BangkokSpecialtyCoffeeGuideEn,
+  'cave-fantasy-nl': CaveFantasyBangkokGuide,
+  'cave-fantasy-en': CaveFantasyBangkokGuideEn,
+  'new-luxury-resorts-nl': NewLuxuryResortsThailandGuide,
+  'new-luxury-resorts-en': NewLuxuryResortsThailandGuideEn,
+  'jodd-fairs-nl': JoddFairsRatchadaGuide,
+  'jodd-fairs-en': JoddFairsRatchadaGuideEn,
+  'chatuchak-food-nl': ChatuchakFoodGuide,
+  'chatuchak-food-en': ChatuchakFoodGuideEn,
+  'bangkok-street-food-markets-en': BangkokStreetFoodMarketsGuideEn,
+  'bangkok-first-time-en': BangkokFirstTimeTipsGuideEn,
+  'thai-massage-nl': ThaiMassageThailandGuide,
+  'thai-massage-en': ThaiMassageThailandGuideEn,
+  'muay-thai-beginner-nl': MuayThaiBeginnerTrainingGuide,
+  'muay-thai-beginner-en': MuayThaiBeginnerTrainingGuideEn,
+  'harbor-island-nl': HarborIslandBangkapiGuide,
+  'harbor-island-en': HarborIslandBangkapiGuideEn,
+  'phuket-samui-comparison-en': PhuketSamuiComparisonGuideEn,
+  'thailand-philippines-comparison-en': ThailandPhilippinesComparisonGuideEn,
+  'thailand-bali-comparison-en': ThailandBaliComparisonGuideEn,
+  'thailand-vietnam-comparison-en': ThailandVietnamComparisonGuideEn,
+  'bangkok-koh-samui-en': BangkokKohSamuiJourneyEn,
+  'bangkok-chiang-mai-sleeper-en': BangkokChiangMaiSleeperTrainEn,
+  'thailand-island-hopping-en': ThailandIslandHoppingGuideEn,
+  'how-long-thailand-en': HowLongThailandGuideEn,
+  'best-time-thailand-en': BestTimeThailandGuideEn,
+  'bts-bangkok-concert-en': BtsBangkokConcertGuideEn,
+  'chiang-mai-chiang-rai-comparison-en': ChiangMaiChiangRaiComparisonGuideEn,
+  'khao-soi-en': KhaoSoiGuideEn,
+};
+
+function isStaticBlogOwnerRenderer(
+  renderer: BlogOwnerRenderer,
+): renderer is StaticBlogOwnerRenderer {
+  return renderer !== 'climate-update' && renderer !== 'phuket-airport-en';
+}
+
 function toAbsoluteImageUrl(image: string) {
   return /^https?:\/\//i.test(image) ? image : `https://go2-thailand.com${image}`;
 }
 
-export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }: BlogPostPageProps) {
+function applyRegisteredPostOverride(
+  post: BlogPost,
+  locale: 'en' | 'nl',
+): BlogPost {
+  const override = getBlogOwnerRegistration(locale, post.slug)?.postOverride;
+  if (!override) return post;
+
+  const { stripLegacyContent, ...metadata } = override;
+  const ownerPost: BlogPost = { ...post, ...metadata };
+  if (stripLegacyContent) {
+    delete ownerPost.contentHtml;
+    delete ownerPost.faqItems;
+  }
+  return ownerPost;
+}
+
+export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost, editorialDocument }: BlogPostPageProps) {
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const subId = useSubId();
@@ -167,6 +287,31 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
     };
   }, []);
 
+  const ownerLocale = locale === 'nl' ? 'nl' : 'en';
+  const ownerRegistration = getBlogOwnerRegistration(ownerLocale, post.slug);
+
+  if (ownerRegistration?.renderer === 'climate-update') {
+    const climateGuide = ownerLocale === 'nl'
+      ? getNlClimateUpdateGuide(post.slug)
+      : getEnClimateUpdateGuide(post.slug);
+    if (climateGuide) {
+      return <ClimateUpdateGuideTemplate data={climateGuide} />;
+    }
+  }
+
+  if (ownerRegistration?.renderer === 'phuket-airport-en') {
+    return <AirportArrivalGuideTemplate data={phuketAirportGuideEn} />;
+  }
+
+  if (ownerRegistration && isStaticBlogOwnerRenderer(ownerRegistration.renderer)) {
+    const OwnerComponent = STATIC_BLOG_OWNER_COMPONENTS[ownerRegistration.renderer];
+    return <OwnerComponent />;
+  }
+
+  if (ownerLocale === 'nl' && editorialDocument) {
+    return <NlEditorialArticle document={editorialDocument} />;
+  }
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: 'Blog', href: '/blog/' },
@@ -182,7 +327,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
     "datePublished": post.date,
     "dateModified": post.lastUpdated || post.date,
     "author": {
-      "@type": "Person",
+      "@type": /team|editorial/i.test(post.author.name) ? "Organization" : "Person",
       "name": post.author.name
     },
     "publisher": {
@@ -257,9 +402,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
         )}
       </SEOHead>
 
-      <article className="bg-surface-cream min-h-screen">
+      <article className="min-h-screen bg-[#fbf7ef]" data-premium-template="editorial-guide">
         {/* Hero Section */}
-        <section ref={heroRef} className="relative h-[400px] lg:h-[500px]">
+        <section ref={heroRef} className="relative h-[440px] overflow-hidden lg:h-[560px]">
           <Image
             src={post.image}
             alt={post.title}
@@ -267,10 +412,11 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
             className="object-cover"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#003f35]/95 via-[#003f35]/65 to-black/15" />
           <div className="absolute bottom-0 left-0 right-0 text-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
               <div className="max-w-4xl">
+                <p className="mb-4 text-xs font-bold uppercase tracking-[0.22em] text-[#ff9d2e]">Independent Thailand travel guide</p>
                 <div className="flex gap-2 mb-4">
                   <Link
                     href={`/blog/category/${post.category}/`}
@@ -279,8 +425,8 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     {post.category}
                   </Link>
                 </div>
-                <h1 className="text-3xl lg:text-5xl font-bold font-heading mb-6">{post.title}</h1>
-                <div className="flex items-center gap-6 text-lg">
+                <h1 className="mb-6 max-w-4xl font-heading text-4xl font-semibold leading-[1.02] lg:text-6xl">{post.title}</h1>
+                <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-white/90">
                   <span>{post.author.name}</span>
                   <span>-</span>
                   <span>{post.date}</span>
@@ -293,11 +439,16 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
         </section>
 
         {/* Breadcrumbs + Last Updated */}
-        <section className="bg-white border-b">
+        <section className="border-b border-[#0b4b40]/10 bg-[#fbf7ef]">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
               <Breadcrumbs items={breadcrumbs} />
               <LastUpdated date={post.lastUpdated || post.date} locale={locale} />
+            </div>
+            <div className="mt-3 flex flex-wrap gap-x-6 gap-y-2 border-t border-[#0b4b40]/10 pt-3 text-xs font-semibold text-[#31574f]" aria-label="Editorial trust signals">
+              <span>Independent editorial selection</span>
+              <span>{post.sourceCount || 0} cited sources</span>
+              <Link href="/about/" className="underline decoration-[#ff9d2e] underline-offset-4">How we review guides</Link>
             </div>
           </div>
         </section>
@@ -311,7 +462,15 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
             <div className="grid lg:grid-cols-12 gap-8">
               {/* Article Content */}
               <div className="lg:col-span-8">
-                <div className="bg-white rounded-2xl shadow-md p-8 lg:p-12">
+                <div className="rounded-[1.75rem] border border-[#0b4b40]/10 bg-white p-6 shadow-[0_24px_70px_rgba(0,63,53,0.08)] sm:p-8 lg:p-12">
+                  {(post.editorialVolatility?.hasPriceOrSchedule || post.editorialVolatility?.hasFirstPersonAuthorityClaim) && (
+                    <aside className="mb-8 rounded-2xl border border-[#ff9d2e]/30 bg-[#fff8ec] p-5" aria-label="Editorial verification note">
+                      <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#c86700]">Check before you travel</p>
+                      <p className="mt-2 text-sm leading-6 text-[#23463f]">
+                        Prices, timetables and access conditions can change. Treat figures and first-person observations in this archive guide as planning context, then verify the latest total and conditions with the cited official source or provider before paying.
+                      </p>
+                    </aside>
+                  )}
                   {/* Share Buttons - Top */}
                   <div className="mb-8 pb-6 border-b border-gray-100">
                     <ShareButtons
@@ -450,7 +609,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     <a
                       href={trackAffiliate(BOOKING_GENERIC, 'sidebar-hotels-primary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
                     >
                       Booking.com
@@ -458,7 +617,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     <a
                       href={trackAffiliate(TRIP_GENERIC, 'sidebar-hotels-secondary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
                     >
                       Trip.com
@@ -474,7 +633,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     <a
                       href={trackAffiliate(KLOOK_GENERIC, 'sidebar-tours-primary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
                       {locale === 'nl' ? 'Klook Activiteiten' : 'Klook Activities'}
@@ -482,7 +641,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     <a
                       href={trackAffiliate(GYG_GENERIC, 'sidebar-tours-secondary')}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow sponsored"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
                       GetYourGuide Tours
@@ -500,7 +659,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                   <a
                     href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
                   >
                     Saily eSIM
@@ -516,7 +675,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                   <p className="text-sm opacity-90 mb-4">
                     {locale === 'nl' ? 'Bescherm jezelf tijdens het reizen. Vergelijk de beste reisverzekeringen.' : 'Protect yourself while traveling. Compare the best travel insurance.'}
                   </p>
-                  <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
+                  <Link href="/travel-insurance/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
                     {locale === 'nl' ? 'Vergelijk Nu' : 'Compare Now'}
                   </Link>
                 </div>
@@ -527,7 +686,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                   <a
                     href={trackAffiliate(TWELVEGO_GENERIC, 'sidebar-transport')}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
                   >
                     {locale === 'nl' ? '12Go Asia - Boek Transport' : '12Go Asia - Book Transport'}
@@ -572,10 +731,25 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
   const lang = locale === 'nl' ? 'nl' : 'en';
 
+  const consolidationDestination = getBlogConsolidation(lang, slug);
+  if (consolidationDestination) {
+    return {
+      redirect: {
+        destination: consolidationDestination,
+        permanent: true,
+      },
+    };
+  }
+
   const post = await getPostBySlug(slug, lang);
 
   if (!post) {
-    // Try fallback to English if not found in requested locale
+    // Dutch routes must never silently publish the English article body.
+    if (lang === 'nl') {
+      return { notFound: true };
+    }
+
+    // Preserve the legacy default-locale lookup path for English requests.
     const fallbackPost = await getPostBySlug(slug, 'en');
     if (!fallbackPost) {
       return { notFound: true };
@@ -590,9 +764,36 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   const relatedPosts = getRelatedPosts(slug, lang, 4);
   const { prevPost, nextPost } = getAdjacentPosts(slug, lang);
+  const ownerPost = applyRegisteredPostOverride(post, lang);
+
+  if (lang === 'nl' && !getBlogOwnerRegistration(lang, slug)) {
+    const profile = loadNlEditorialProfile(slug);
+    if (profile) {
+      const editorialDocument = combineNlEditorialDocument(profile, {
+        slug: ownerPost.slug,
+        title: ownerPost.title,
+        description: ownerPost.description,
+        category: ownerPost.category,
+        date: ownerPost.date,
+        lastUpdated: ownerPost.lastUpdated,
+        image: ownerPost.image,
+        author: ownerPost.author,
+        tags: ownerPost.tags,
+        readingTime: ownerPost.readingTime,
+        contentHtml: ownerPost.contentHtml ?? '',
+        faqItems: ownerPost.faqItems,
+        sources: ownerPost.sources,
+      });
+
+      return {
+        props: { post: ownerPost, relatedPosts, prevPost, nextPost, editorialDocument },
+        revalidate: 604800,
+      };
+    }
+  }
 
   return {
-    props: { post, relatedPosts, prevPost, nextPost },
+    props: { post: ownerPost, relatedPosts, prevPost, nextPost },
     revalidate: 604800
   };
 };

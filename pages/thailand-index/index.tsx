@@ -3,7 +3,6 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import { useMemo } from 'react';
 import type { ThailandIndex, BilingualText } from '../../lib/thailand-index';
 import {
   IndexTable,
@@ -12,10 +11,14 @@ import {
   MonthMatrix,
 } from '../../components/index';
 import type { TocItem } from '../../components/index';
+import ThailandDecisionIndexNl from '../../components/editorial/ThailandDecisionIndexNl';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 
 interface ThailandIndexPageProps {
-  data: ThailandIndex;
+  data: ThailandIndex | null;
 }
+
+const isDutchLocale = (locale: string | undefined): boolean => locale === 'nl';
 
 function t(obj: BilingualText, locale: string): string {
   return obj[(locale as keyof BilingualText)] || obj.en;
@@ -107,6 +110,10 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
+  if (isDutchLocale(locale)) return <ThailandDecisionIndexNl />;
+  return <StaticTravelGuideOwnerEn owner="index" />;
+  if (!data) return null;
+
   const tocItems = lang === 'nl' ? tocItemsNl : tocItemsEn;
 
   const breadcrumbItems = [
@@ -126,10 +133,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
   const expensiveTop5 = data.rankings.most_expensive.items.slice(0, 5);
 
   // Cities with weather data for best-time preview
-  const citiesWithWeather = useMemo(
-    () => data.cities.filter((c) => c.weather && c.weather.month_scores),
-    [data.cities]
-  );
+  const citiesWithWeather = data.cities.filter((c) => c.weather && c.weather.month_scores);
 
   // FAQ schema
   const faqSchema = {
@@ -522,7 +526,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                 )}
                 <div className="text-center mt-8">
                   <Link
-                    href="/thailand-index/best-time/"
+                    href={lang === 'nl' ? '/weather/' : '/thailand-index/best-time/'}
                     className="inline-flex items-center gap-2 bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors"
                   >
                     {lang === 'nl'
@@ -590,7 +594,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                     ))}
                   </div>
                   <div className="mt-4">
-                    <Link href="/thailand-index/safety/" className="text-thailand-blue hover:underline font-medium">
+                    <Link href="/is-thailand-safe/" className="text-thailand-blue hover:underline font-medium">
                       {lang === 'en' ? 'Complete safety guide \u2192' : 'Volledige veiligheidsgids \u2192'}
                     </Link>
                   </div>
@@ -698,7 +702,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
                   </Link>
                   {/* Safety Guide */}
                   <Link
-                    href="/thailand-index/safety/"
+                    href="/is-thailand-safe/"
                     className="group bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md hover:-translate-y-0.5 transition-all"
                   >
                     <div className="w-12 h-12 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center mb-4">
@@ -831,9 +835,9 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
   // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const data = require('../../data/thailand-index.json');
+  const data = locale === 'nl' ? null : null;
   return {
     props: { data },
     revalidate: 604800,

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "khao-soi-chiang-mai-guide",
+  "route": "/nl/blog/khao-soi-chiang-mai-guide/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Khao soi in Chiang Mai: varianten proeven | Go2Thailand",
+    "description": "Vergelijk khao soi in Chiang Mai op bouillon, noedels, vlees en toppings. Met een veilige bestelstrategie voor allergieën.",
+    "primaryKeyword": "khao soi varianten chiang mai",
+    "secondaryKeywords": [
+      "khao soi eetroute",
+      "noord Thaise curry vergelijken",
+      "khao soi toppings"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/khao-soi-chiang-mai-guide/"
+  },
+  "hero": {
+    "eyebrow": "Noord-Thais proefkader",
+    "title": "Khao soi in Chiang Mai",
+    "accent": "Proef de verschillen",
+    "description": "Vergelijk bouillon, noedels, vlees en toppings zonder één recept of restaurant tot absolute winnaar te maken.",
+    "image": "/images/redesign/editorial/khao-soi-chiang-mai-guide-hero.webp",
+    "imageAlt": "Kom khao soi met zachte en krokante noedels in Chiang Mai",
+    "primaryCta": {
+      "label": "Vergelijk de kom",
+      "href": "#varianten"
+    },
+    "secondaryCta": {
+      "label": "Bestel veilig",
+      "href": "#allergenen"
+    }
+  },
+  "layout": {
+    "kind": "food-guide",
+    "foodMode": "dish",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Khao soi in Chiang Mai combineert zachte eiernoedels, een gekruide kokos-curry en krokante noedels. Vergelijk vooral de bouillonstijl en voeg zure en pittige toppings geleidelijk toe.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "varianten",
+      "title": "Vier onderdelen bepalen je kom",
+      "description": "Variatie is normaal; kies de stijl die bij jouw smaak en dieet past.",
+      "options": [
+        {
+          "title": "Bouillon",
+          "description": "Van lichter en kruidig tot voller en nadrukkelijk kokosrijk.",
+          "label": "Basis"
+        },
+        {
+          "title": "Noedels",
+          "description": "Zachte eiernoedels dragen de soep; gefrituurde noedels geven vers contrast.",
+          "label": "Textuur"
+        },
+        {
+          "title": "Kip of rund",
+          "description": "Kip is vaak milder; rund kan de bouillon steviger laten smaken.",
+          "label": "Keuze"
+        },
+        {
+          "title": "Toppings",
+          "description": "Doseer limoen, ingelegde groente, sjalot en chili-olie beetje bij beetje.",
+          "label": "Balans"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "proefroute",
+      "title": "Vergelijk zonder eetmarathon",
+      "steps": [
+        {
+          "title": "Proef eerst klassiek",
+          "description": "Begin met kip en gebruik de toppings terughoudend, zodat je de bouillon leert kennen.",
+          "label": "1"
+        },
+        {
+          "title": "Kies één contrast",
+          "description": "Neem later een lichtere of vollere stijl, of wissel van vlees; verander niet alles tegelijk.",
+          "label": "2"
+        },
+        {
+          "title": "Plaats het gerecht in de regio",
+          "description": "Combineer met andere Noord-Thaise smaken via de foodgids van Chiang Mai.",
+          "label": "3"
+        }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "allergenen",
+      "tone": "warning",
+      "title": "Vraag naar noedels, pasta én bouillon",
+      "description": "Tarwe en ei zitten vaak in de noedels; vis, schaaldieren, soja of pinda kunnen in currypasta en smaakmakers zitten. Vraag ook naar bouillon en gedeelde frituurolie. Niet pittig betekent niet allergeenvrij."
+    },
+    {
+      "kind": "checklist",
+      "id": "veilig",
+      "title": "Praktische veiligheidscheck",
+      "items": [
+        "Bouillon wordt zichtbaar heet gehouden",
+        "Vlees en noedels worden per bestelling goed verwarmd",
+        "Rauwe toppings blijven gescheiden van rauw vlees",
+        "De verkoper kan ingrediënten en gedeelde bereiding uitleggen",
+        "Je loopt weg bij lauw eten, zichtbare vervuiling of twijfel"
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plaats khao soi in je Chiang Mai-reis",
+      "items": [
+        {
+          "title": "Khao soi als gerecht",
+          "description": "Ingrediënten, basisopbouw en bestelcontext van het gerecht.",
+          "href": "/nl/food/khao-soi/"
+        },
+        {
+          "title": "Eten in Chiang Mai",
+          "description": "Noord-Thaise gerechten en de culinaire structuur van de stad.",
+          "href": "/nl/city/chiang-mai/food/"
+        },
+        {
+          "title": "Chiang Mai plannen",
+          "description": "Combineer je eetroute met wijken, tempels en vervoer.",
+          "href": "/nl/city/chiang-mai/"
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Gecontroleerde bronnen",
+      "items": [
+        {
+          "title": "Northern Thai Cuisine",
+          "publisher": "Thailand Foundation",
+          "url": "https://thailandfoundation.or.th/northern-thai-cuisine-opening/",
+          "checkedAt": "2026-08-01",
+          "note": "Regionale keuken, Lanna-context en plaats van khao soi binnen Noord-Thais eten."
+        },
+        {
+          "title": "Discover Thai Cuisine through its famous four regions",
+          "publisher": "TAT Newsroom",
+          "url": "https://www.tatnews.org/2018/01/discover-thai-cuisine-famous-four-regions/",
+          "checkedAt": "2026-08-01",
+          "note": "Opbouw met zachte en krokante noedels, kokos-curry en vlees."
+        },
+        {
+          "title": "Food safety is everyone’s business in street food vending",
+          "publisher": "WHO and FAO",
+          "url": "https://www.who.int/publications/i/item/WHO-HEP-NFS-AFS-2022.4",
+          "checkedAt": "2026-08-01",
+          "note": "Primaire veiligheidsprincipes voor streetfoodverkoop."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+import type { DestinationGuideData } from '../types';
+import { bangkokDestinationGuide } from './bangkok';
+import { chiangMaiDestinationGuide } from './chiang-mai';
+import { phuketDestinationGuide } from './phuket';
+import { kohSamuiDestinationGuide } from './koh-samui';
+import { khaoSokDestinationGuide } from './khao-sok';
+import { ayutthayaDestinationGuide } from './ayutthaya';
+import { chiangRaiDestinationGuide } from './chiang-rai';
+import { paiDestinationGuide } from './pai';
+import { pattayaDestinationGuide } from './pattaya';
+import { huaHinDestinationGuide } from './hua-hin';
+import { chumphonDestinationGuide } from './chumphon';
+import { rayongDestinationGuide } from './rayong';
+import { kanchanaburiDestinationGuide } from './kanchanaburi';
+import { sukhothaiDestinationGuide } from './sukhothai';
+import { lampangDestinationGuide } from './lampang';
+import { udonThaniDestinationGuide } from './udon-thani';
+import { phitsanulokDestinationGuide } from './phitsanulok';
+import { trangDestinationGuide } from './trang';
+import { suratThaniDestinationGuide } from './surat-thani';
+import { hatYaiDestinationGuide } from './hat-yai';
+import { tratDestinationGuide } from './trat';
+import { khonKaenDestinationGuide } from './khon-kaen';
+import { banKrutDestinationGuide } from './ban-krut';
+import { maeHongSonDestinationGuide } from './mae-hong-son';
+import { chanthaburiDestinationGuide } from './chanthaburi';
+import { lopburiDestinationGuide } from './lopburi';
+import { ubonRatchathaniDestinationGuide } from './ubon-ratchathani';
+import { nakhonRatchasimaDestinationGuide } from './nakhon-ratchasima';
+import { nongKhaiDestinationGuide } from './nong-khai';
+import { chiangKhanDestinationGuide } from './chiang-khan';
+import { nakhonSiThammaratDestinationGuide } from './nakhon-si-thammarat';
+import { nakhonPhanomDestinationGuide } from './nakhon-phanom';
+import { mukdahanDestinationGuide } from './mukdahan';
+import { buengKanDestinationGuide } from './bueng-kan';
+
+export const destinationIndexNl = {
+  seo: {
+    title: 'Bestemmingen Thailand: kies de plek die bij je reis past',
+    description: 'Vergelijk de mooiste bestemmingen van Thailand op reisstijl, regio en praktische trade-offs. Van Bangkok en Chiang Mai tot Krabi, Phuket en de eilanden.',
+  },
+  hero: {
+    eyebrow: 'Niet meer plekken, maar betere keuzes',
+    title: 'Thailand.',
+    accent: 'Waar begin je?',
+    intro: 'Thailand verandert per regio, tempo en seizoen. Deze gids helpt je eerst kiezen wat voor reis je wilt maken en daarna pas welke plaatsen daarbij passen.',
+  },
+  featured: [
+    { slug: 'bangkok', name: 'Bangkok', kicker: 'Stad & eten', image: '/images/redesign/destination-bangkok.webp', alt: 'Tempels en skyline van Bangkok', summary: 'Een gelaagde hoofdstad voor tempels, streetfood, markten en hedendaags stadsleven.', bestFor: 'Een eerste of laatste reisblok met veel contrast.', tradeoff: 'Hitte, verkeer en schaal vragen om buurten per dag.' },
+    { slug: 'chiang-mai', name: 'Chiang Mai', kicker: 'Cultuur & bergen', image: '/images/redesign/destination-chiang-mai.webp', alt: 'Tempel in Chiang Mai', summary: 'Tempels, markten, koffie en toegang tot de groene bergen van Noord-Thailand.', bestFor: 'Rustiger stadstempo en dagtochten naar natuur.', tradeoff: 'Controleer luchtkwaliteit tijdens het brandseizoen.' },
+    { slug: 'krabi', name: 'Krabi', kicker: 'Karst & eilanden', image: '/images/redesign/krabi-destination-hero.webp', alt: 'Longtailboot tussen de kalksteenrotsen van Krabi', summary: 'Kalksteenkliffen, Railay, eilandroutes en een praktische kustbasis rond Ao Nang.', bestFor: 'Een eerste Andaman-reis met natuur en boten.', tradeoff: 'Veel bekende plekken vragen dezelfde soort bootdag.' },
+    { slug: 'phuket', name: 'Phuket', kicker: 'Strand & keuze', image: '/images/redesign/phuket-destination-hero-v2.webp', alt: 'Phuket Old Town en de kust', summary: 'Een groot eiland met verschillende kustzones, Old Town, veel hotels en sterke dagtrips.', bestFor: 'Reizigers die gemak met veel variatie willen.', tradeoff: 'Verkeer en afstanden maken de gebiedskeuze belangrijk.' },
+    { slug: 'koh-samui', name: 'Koh Samui', kicker: 'Resort & eilandritme', image: '/images/redesign/destination-koh-samui.webp', alt: 'Tropische kust van Koh Samui', summary: 'Een toegankelijke Golf-eilandbasis met stranden, resorts en uitstappen naar Ang Thong.', bestFor: 'Comfort, stellen en langere eilandverblijven.', tradeoff: 'Vluchten en populaire kustzones kunnen duurder zijn.' },
+    { slug: 'ayutthaya', name: 'Ayutthaya', kicker: 'Geschiedenis', image: '/images/redesign/experience-ayutthaya.webp', alt: 'Historische tempels van Ayutthaya', summary: 'Tempelruïnes en koninklijke geschiedenis op korte reisafstand van Bangkok.', bestFor: 'Een cultuurdag of rustige overnachting.', tradeoff: 'De warmte en afstanden maken een realistische route nodig.' },
+    { slug: 'kanchanaburi', name: 'Kanchanaburi', kicker: 'Rivier & natuur', image: '/images/cities/generated/kanchanaburi.webp', alt: 'Rivierlandschap bij Kanchanaburi', summary: 'Riviergeschiedenis, nationale parken en een andere kant van Centraal-Thailand.', bestFor: 'Natuur en geschiedenis buiten de hoofdstad.', tradeoff: 'Bezienswaardigheden liggen verspreid over de provincie.' },
+    { slug: 'sukhothai', name: 'Sukhothai', kicker: 'Tempels & stilte', image: '/images/cities/generated/sukhothai.webp', alt: 'Historisch park van Sukhothai', summary: 'Een overzichtelijk historisch park dat zich goed per fiets en in rustig tempo laat ontdekken.', bestFor: 'Erfgoed zonder de drukte van een grote stad.', tradeoff: 'De ligging vraagt een bewuste tussenstop in je route.' },
+    { slug: 'pai', name: 'Pai', kicker: 'Bergen & langzaam reizen', image: '/images/cities/generated/pai.webp', alt: 'Groen berglandschap rond Pai', summary: 'Een kleine noordelijke basis voor uitzichtpunten, warmwaterbronnen en ontspannen dagen.', bestFor: 'Langzaam reizen en berglandschap.', tradeoff: 'De bochtige weg vanuit Chiang Mai is niet voor iedereen prettig.' },
+    { slug: 'koh-lanta', name: 'Koh Lanta', kicker: 'Rustig eiland', image: '/images/islands/koh-lanta.webp', alt: 'Strand en groene kust van Koh Lanta', summary: 'Een langgerekt eiland met rustigere stranden, dorpen en ruimte voor een langer verblijf.', bestFor: 'Gezinnen, stellen en reizigers die minder drukte zoeken.', tradeoff: 'Buiten het droge seizoen zijn bootroutes en kleinere eilanden beperkter.' },
+    { slug: 'khao-sok', name: 'Khao Sok', kicker: 'Jungle & kalksteen', image: '/images/redesign/khao-sok-destination-hero.webp', alt: 'Longtailboot op Cheow Lan Lake tussen kalksteenbergen', summary: 'Tropisch regenwoud, rivieractiviteiten en Cheow Lan Lake als natuurblok tussen beide Thaise kusten.', bestFor: 'Jungle, bootdagen en een bijzondere overnachting op het water.', tradeoff: 'Khlong Sok en de meerpier liggen ver uit elkaar; de routevolgorde bepaalt hoeveel je rijdt.' },
+  ],
+  styles: [
+    { id: 'eerste-keer', title: 'Eerste keer Thailand', description: 'Combineer een stad, een cultureel noorden en één kustbasis. Dat geeft contrast zonder iedere twee dagen te verhuizen.', links: ['Bangkok', 'Chiang Mai', 'Krabi of Phuket'] },
+    { id: 'strand', title: 'Strand & eilanden', description: 'Kies eerst tussen Andamanse Zee en Golf van Thailand, daarna pas het eiland of kustgebied dat bij je seizoen past.', links: ['Krabi', 'Phuket', 'Koh Samui', 'Koh Lanta'] },
+    { id: 'cultuur', title: 'Cultuur & geschiedenis', description: 'Tempelsteden en oude hoofdsteden werken beter als volwaardige reisblokken dan als een eindeloze rij dagtrips.', links: ['Bangkok', 'Ayutthaya', 'Sukhothai', 'Chiang Mai'] },
+    { id: 'rust', title: 'Rustiger reizen', description: 'Kies minder bases, langere verblijven en plekken waar het landschap of lokale ritme belangrijker is dan een checklist.', links: ['Koh Lanta', 'Pai', 'Kanchanaburi'] },
+  ],
+  regions: [
+    { key: 'Northern', label: 'Noord', title: 'Bergen, tempels en markten', description: 'Chiang Mai, Chiang Rai en Pai combineren cultuur met een koeler, groener landschap.' },
+    { key: 'Central', label: 'Centraal', title: 'Hoofdstad en oude koninkrijken', description: 'Bangkok, Ayutthaya en Kanchanaburi vormen een logisch blok voor stad, geschiedenis en rivierlandschap.' },
+    { key: 'Isaan', label: 'Isaan', title: 'Lokaler en minder bereisd', description: 'Het noordoosten beloont reizigers die eten, Mekongsteden en Khmer-erfgoed boven bekende strandroutes kiezen.' },
+    { key: 'Southern', label: 'Zuid', title: 'Twee zeeën, veel reisstijlen', description: 'De Andamanse kust en de Golf hebben elk een ander seizoen, landschap en eilandritme.' },
+  ],
+  faqs: [
+    { question: 'Wat is het mooiste gedeelte van Thailand?', answer: 'Dat is persoonlijk. Noord-Thailand past bij bergen, tempels en steden; de Andamanse kust bij kalksteen en bootroutes; de Golf bij een ander eiland- en seizoenritme. Kies eerst op reisstijl en maand.' },
+    { question: 'Welk deel van Thailand is het mooist?', answer: 'Er bestaat geen objectieve winnaar. Voor een eerste reis geeft Bangkok, Chiang Mai en één passende kustbasis meestal meer contrast dan zo veel mogelijk losse plekken combineren.' },
+    { question: 'Waar moet je echt zijn geweest in Thailand?', answer: 'Nergens is verplicht. Bangkok, Chiang Mai, Ayutthaya of Sukhothai en één kust- of natuurbasis vormen sterke opties; kies alleen de plekken die logisch op jouw route liggen.' },
+    { question: 'Wat zijn de beste plekken om naartoe te gaan in Thailand?', answer: 'Bangkok en Chiang Mai zijn veelzijdig; Krabi, Phuket en Koh Samui verschillen sterk per kust en seizoen; Khao Sok, Kanchanaburi en Sukhothai passen bij natuur of geschiedenis. De beste plek is degene waarvan ook de praktische keerzijde bij je past.' },
+    { question: 'Welke Thaise eilanden zijn rustig?', answer: 'Koh Lanta en rustigere delen van Koh Samui of Phuket bieden meer ruimte dan de bekendste uitgaanszones. Rust hangt ook af van de exacte kustplaats en het seizoen.' },
+    { question: 'Wat is de beste reistijd voor Thailand?', answer: 'Thailand heeft geen universeel beste maand. Noord, Andamanse kust en Golf van Thailand kennen verschillende regen- en zeepatronen. Bekijk daarom de weerpagina van je gekozen bestemming.' },
+  ],
+  relatedGuides: [
+    { title: 'Eerste keer Thailand', description: 'Bouw een haalbare eerste route zonder te veel bases.', href: '/thailand-for-first-timers/', image: '/images/redesign/first-time-thailand-hero.webp' },
+    { title: 'Uitjes in Thailand', description: 'Vergelijk activiteiten nadat je bestemming vaststaat.', href: '/activities/', image: '/images/redesign/thailand-excursions-hero.webp' },
+    { title: 'Vervoer in Thailand', description: 'Kies trein, bus, boot of vlucht per traject.', href: '/transport/', image: '/images/redesign/transport-thailand-hero.webp' },
+  ],
+  sources: [
+    { title: 'Destinations in Thailand', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Destinations', note: 'Officiële bestemmings- en regiocontext.' },
+    { title: 'Reisadvies Thailand', creator: 'NederlandWereldwijd', url: 'https://www.nederlandwereldwijd.nl/reisadvies/thailand', note: 'Actuele regionale veiligheidscontext.' },
+    { title: 'Thailand climate information', creator: 'Thai Meteorological Department', url: 'https://www.tmd.go.th/en', note: 'Officiële weer- en seizoensinformatie voor routekeuzes.' },
+  ],
+};
+
+const guides: Record<string, DestinationGuideData> = {
+  bangkok: bangkokDestinationGuide,
+  'chiang-mai': chiangMaiDestinationGuide,
+  phuket: phuketDestinationGuide,
+  'koh-samui': kohSamuiDestinationGuide,
+  'khao-sok': khaoSokDestinationGuide,
+  ayutthaya: ayutthayaDestinationGuide,
+  'chiang-rai': chiangRaiDestinationGuide,
+  pai: paiDestinationGuide,
+  pattaya: pattayaDestinationGuide,
+  'hua-hin': huaHinDestinationGuide,
+  chumphon: chumphonDestinationGuide,
+  rayong: rayongDestinationGuide,
+  kanchanaburi: kanchanaburiDestinationGuide,
+  sukhothai: sukhothaiDestinationGuide,
+  lampang: lampangDestinationGuide,
+  'udon-thani': udonThaniDestinationGuide,
+  phitsanulok: phitsanulokDestinationGuide,
+  trang: trangDestinationGuide,
+  'surat-thani': suratThaniDestinationGuide,
+  'hat-yai': hatYaiDestinationGuide,
+  trat: tratDestinationGuide,
+  'khon-kaen': khonKaenDestinationGuide,
+  'ban-krut': banKrutDestinationGuide,
+  'mae-hong-son': maeHongSonDestinationGuide,
+  chanthaburi: chanthaburiDestinationGuide,
+  lopburi: lopburiDestinationGuide,
+  'ubon-ratchathani': ubonRatchathaniDestinationGuide,
+  'nakhon-ratchasima': nakhonRatchasimaDestinationGuide,
+  'nong-khai': nongKhaiDestinationGuide,
+  'chiang-khan': chiangKhanDestinationGuide,
+  'nakhon-si-thammarat': nakhonSiThammaratDestinationGuide,
+  'nakhon-phanom': nakhonPhanomDestinationGuide,
+  mukdahan: mukdahanDestinationGuide,
+  'bueng-kan': buengKanDestinationGuide,
+};
+
+export function getNlDestinationGuide(citySlug: string) {
+  return guides[citySlug];
+}
+
+export { ayutthayaDestinationGuide, banKrutDestinationGuide, bangkokDestinationGuide, buengKanDestinationGuide, chanthaburiDestinationGuide, chiangKhanDestinationGuide, chiangMaiDestinationGuide, chiangRaiDestinationGuide, chumphonDestinationGuide, hatYaiDestinationGuide, huaHinDestinationGuide, kanchanaburiDestinationGuide, khonKaenDestinationGuide, lampangDestinationGuide, lopburiDestinationGuide, maeHongSonDestinationGuide, mukdahanDestinationGuide, nakhonPhanomDestinationGuide, nakhonRatchasimaDestinationGuide, nakhonSiThammaratDestinationGuide, nongKhaiDestinationGuide, paiDestinationGuide, pattayaDestinationGuide, phitsanulokDestinationGuide, phuketDestinationGuide, rayongDestinationGuide, sukhothaiDestinationGuide, suratThaniDestinationGuide, trangDestinationGuide, tratDestinationGuide, ubonRatchathaniDestinationGuide, udonThaniDestinationGuide, kohSamuiDestinationGuide, khaoSokDestinationGuide };

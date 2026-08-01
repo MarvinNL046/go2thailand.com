@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tourism-festival-2026-culinary-regional-food-guide",
+  "route": "/nl/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Culinaire festivalgids 2026: samengevoegd", "description": "Deze verlopen culinaire festivalpagina is samengevoegd met het centrale Thailand Tourism Festival-verslag.", "primaryKeyword": "gearchiveerde culinaire festivalgids", "searchIntent": "navigational", "canonicalPath": "/nl/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/", "noindex": true },
+  "hero": { "eyebrow": "Culinair archief", "title": "Regionale smaken, één festivalverslag", "accent": "De eetgids is samengevoegd", "description": "De vijfdaagse foodzone is voorbij. Voor actuele eetkeuzes verwijzen we naar blijvende Bangkok- en Thailandgidsen.", "image": "/images/redesign/editorial/thailand-tourism-festival-2026-culinary-regional-food-guide-hero.webp", "imageAlt": "Thaise regionale gerechten op donkere houten tafel", "primaryCta": { "label": "Open het festivalverslag", "href": "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/" }, "secondaryCta": { "label": "Ontdek Thais eten", "href": "/nl/food/" } },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-03-25", "endsOn": "2026-03-29", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze tijdelijke foodgids is gearchiveerd en geconsolideerd; het centrale festivalverslag bevat de bronvaste terugblik.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Niet meer plannen op verlopen informatie", "description": "Prijzen, verkopers en beschikbaarheid golden alleen tijdens 25–29 maart 2026. De pagina claimt daarom geen actuele bezoekersintentie.", "cta": { "label": "Lees het festivalverslag", "href": "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/" } },
+    { "kind": "related", "id": "eten", "title": "Blijvende foodgidsen", "items": [{ "title": "Thaise keuken", "description": "Leer gerechten en regionale smaken kennen.", "href": "/nl/food/" }, { "title": "Khao soi", "description": "Lees waar dit noordelijke noedelgerecht vandaan komt.", "href": "/nl/blog/khao-soi-chiang-mai-guide/" }] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire festivalbron", "items": [{ "title": "Thailand Tourism Festival 2026 spotlights 5 Must Do", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/03/thailand-tourism-festival-2026-spotlights-5-must-do-in-thailand-and-honours-her-majesty-queen-sirikit-the-queen-mother/", "checkedAt": "2026-08-01" }] }
+  ]
+}

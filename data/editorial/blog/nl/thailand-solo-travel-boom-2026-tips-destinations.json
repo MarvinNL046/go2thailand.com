@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-solo-travel-boom-2026-tips-destinations",
+  "route": "/nl/blog/thailand-solo-travel-boom-2026-tips-destinations/",
+  "cluster": "planning",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Alleen reizen door Thailand: route en tips | Go2Thailand",
+    "description": "Plan een eerste soloreis door Thailand met beheersbare etappes, sociale accommodatiekeuzes, officieel vervoer en een persoonlijk veiligheidsplan.",
+    "primaryKeyword": "alleen reizen Thailand",
+    "secondaryKeywords": ["soloreis Thailand", "solo travel Thailand route", "Thailand alleen op reis"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-solo-travel-boom-2026-tips-destinations/"
+  },
+  "hero": {
+    "eyebrow": "Soloreis · routeplanner",
+    "title": "Alleen reizen door Thailand",
+    "accent": "Maak de eerste route beheersbaar",
+    "description": "Kies weinig wissels, boek kritieke aankomsten vooruit en bouw contact én zelfstandigheid in.",
+    "image": "/images/redesign/editorial/thailand-solo-travel-boom-2026-tips-destinations-hero.webp",
+    "imageAlt": "Soloreiziger bekijkt een kaart op een verlicht treinstation in Thailand",
+    "primaryCta": { "label": "Kies een routestructuur", "href": "#routes" },
+    "secondaryCta": { "label": "Pak de checklist", "href": "#checklist" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Voor een eerste soloreis werkt Bangkok plus één regio vaak beter dan veel snelle wissels. Boek je eerste nacht en aankomsttransfer vooruit, gebruik officiële vervoerskanalen en houd je eigen nood- en contactplan bij de hand.",
+  "blocks": [
+    { "kind": "comparison", "id": "routes", "title": "Drie eenvoudige routestructuren", "options": [
+      { "title": "Bangkok + noorden", "description": "Stad combineren met Chiang Mai en eventueel één extra noordelijke stop. Goed voor cultuur en landvervoer.", "label": "Stad & noorden" },
+      { "title": "Bangkok + één kustregio", "description": "Kies de Andaman-kust óf de Golf op basis van seizoen en verbindingen, niet beide in een korte reis.", "label": "Stad & strand" },
+      { "title": "Eén regio langzaam", "description": "Blijf langer in één deel van Thailand en plan dagactiviteiten vanuit twee vaste bases.", "label": "Minste wissels" }
+    ] },
+    { "kind": "steps", "id": "sociaal", "title": "Sociaal én zelfstandig", "steps": [
+      { "title": "Kies accommodatie op functie", "description": "Lees recente reviews over locatie, receptie, nachtrust, kluisjes en gemeenschappelijke ruimte." },
+      { "title": "Boek één gedeelde activiteit", "description": "Een kookles, wandeling of dagtour kan contact geven zonder je hele route vast te leggen." },
+      { "title": "Houd je eigen terugweg", "description": "Weet hoe je zelfstandig naar je accommodatie terugkomt en laat je niet onder druk zetten." }
+    ] },
+    { "kind": "checklist", "id": "checklist", "title": "Voor je eerste verplaatsing", "items": [
+      "Deel je route en accommodaties met een contactpersoon thuis.",
+      "Bewaar paspoortkopie, verzekering en noodcontacten ook offline.",
+      "Gebruik voor treinen het officiële SRT D-Ticket-kanaal.",
+      "Controleer vertrekpunt, aankomsttijd en laatste lokale aansluiting.",
+      "Noteer Tourist Police 1155 en medische noodhulp 1669.",
+      "Houd geld en een betaalmiddel op twee afzonderlijke plaatsen."
+    ] },
+    { "kind": "callout", "id": "veiligheid", "tone": "warning", "title": "Geen algemene veiligheidsgarantie", "description": "Risico’s verschillen per plaats, tijdstip en persoon. Controleer NederlandWereldwijd vlak voor vertrek en pas je route aan actuele informatie aan." },
+    { "kind": "related", "id": "specifiek", "title": "Specifieker advies", "items": [
+      { "title": "Solo reizen als vrouw", "description": "De aparte eigenaar voor gender-specifieke ervaringen en persoonlijke veiligheid.", "href": "/nl/travel-guides/solo-female-travel-thailand/" },
+      { "title": "Budget Thailand", "description": "Bouw je budget op met live prijzen in plaats van één vast dagbedrag.", "href": "/nl/thailand-index/budget/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële bronnen", "items": [
+      { "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01", "note": "Actuele veiligheids- en reisadviescontext." },
+      { "title": "Tourist Police Thailand", "publisher": "Tourist Police Bureau", "url": "https://www.touristpolice.go.th/main", "checkedAt": "2026-08-01", "note": "Bevestigt hotline 1155 en overige noodnummers." },
+      { "title": "D-Ticket", "publisher": "State Railway of Thailand", "url": "https://dticket.railway.co.th/DTicketPublicWeb/home/Home", "checkedAt": "2026-08-01", "note": "Officieel kanaal voor treinzoeken en -boeken." }
+    ] }
+  ]
+}

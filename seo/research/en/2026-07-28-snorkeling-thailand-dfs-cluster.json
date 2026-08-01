@@ -1,0 +1,1331 @@
+{
+  "captured_at": "2026-07-28T22:11:53.156Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "snorkeling thailand",
+  "costs": {
+    "suggestions": 0.02436,
+    "related": 0.01284,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "snorkeling thailand",
+    "snorkeling in thailand",
+    "thailand snorkeling",
+    "phuket thailand snorkeling",
+    "snorkeling in thailand phuket",
+    "best snorkeling in thailand",
+    "best snorkeling thailand",
+    "thailand best snorkeling",
+    "krabi thailand snorkeling",
+    "similan islands thailand snorkeling",
+    "snorkeling in krabi thailand",
+    "snorkeling in thailand krabi",
+    "snorkeling krabi thailand",
+    "koh tao thailand snorkeling",
+    "snorkeling khao lak thailand",
+    "best beach snorkeling thailand",
+    "best beaches in thailand for snorkeling",
+    "best island for snorkeling thailand",
+    "best islands for snorkeling in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "snorkeling in thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand snorkeling",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand snorkeling",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling in thailand phuket",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand best snorkeling",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "krabi thailand snorkeling",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "similan islands thailand snorkeling",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling in krabi thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling in thailand krabi",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling krabi thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao thailand snorkeling",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling khao lak thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beach snorkeling thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beaches in thailand for snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best island for snorkeling thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best islands for snorkeling in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best islands for snorkeling thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best islands in thailand for snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place in thailand for snorkeling",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best resort for snorkeling in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling beaches in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in krabi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand in november",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling islands in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling krabi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling thailand december",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best snorkeling thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "fish in thailand snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fish thailand snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin thailand snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "manta ray snorkeling thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling in bangkok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling in thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "snorkeling liveaboard thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling phuket thailand",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling similan islands thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling thailand phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "snorkeling thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling with whale sharks thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand best snorkeling beaches",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand best snorkeling spots",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand fish snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand fish species snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand snorkeling islands",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand snorkeling map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand snorkeling resort",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand snorkeling tours",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "whale shark snorkeling thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand in july",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand off the beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling thailand reviews",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling thailand tripadvisor",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin islands snorkeling in thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand snorkeling off beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand snorkeling resorts",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotel for snorkeling in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand 2020",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand in february",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand in june",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in thailand in october",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling near krabi thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling off the beach in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling resort thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling thailand 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling thailand august",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling thailand february",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling thailand june",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling tours in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "coral reef thailand snorkeling",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "family snorkeling thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gulf of thailand snorkeling",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is snorkeling in thailand safe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is snorkeling safe in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "liveaboard thailand snorkeling",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phi phi thailand snorkeling",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shallow snorkeling thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shark snorkeling thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling and scuba diving in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling cha am thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling cha-am thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling di thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling from shore thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling gear thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling holiday thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling in thailand in june",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling in trang thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling report thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling thailand december",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling with sharks thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling with turtles thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling with whale sharks in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin islands snorkeling thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand islands for snorkeling",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand snorkeling off the beach",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tripadvisor thailand snorkeling",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 3.1,
+      "keywordCount": 10,
+      "visibility": 7.8999999999999995,
+      "estimatedTraffic": 130.15800000000002
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 3.4,
+      "keywordCount": 10,
+      "visibility": 7.6,
+      "estimatedTraffic": 142.51100000000002
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 11.2,
+      "keywordCount": 10,
+      "visibility": 2.5,
+      "estimatedTraffic": 24.790000000000003
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 10.777777777777779,
+      "keywordCount": 9,
+      "visibility": 1.7999999999999998,
+      "estimatedTraffic": 15.603000000000002
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 19.9,
+      "keywordCount": 10,
+      "visibility": 1.8499999999999999,
+      "estimatedTraffic": 16.626999999999995
+    },
+    {
+      "domain": "www.getmyboat.com",
+      "avgPosition": 24.11111111111111,
+      "keywordCount": 9,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.5949999999999998
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 24.22222222222222,
+      "keywordCount": 9,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.436
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 25.666666666666668,
+      "keywordCount": 9,
+      "visibility": 1.4000000000000001,
+      "estimatedTraffic": 20.558999999999997
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 8.857142857142858,
+      "keywordCount": 7,
+      "visibility": 3.8,
+      "estimatedTraffic": 42.819
+    },
+    {
+      "domain": "phanganist.com",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 9,
+      "visibility": 1.7999999999999998,
+      "estimatedTraffic": 17.85
+    },
+    {
+      "domain": "snorkelingthailand.com",
+      "avgPosition": 18,
+      "keywordCount": 7,
+      "visibility": 0.8,
+      "estimatedTraffic": 13.198
+    },
+    {
+      "domain": "www.vagabonddisposition.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 6,
+      "visibility": 3.4,
+      "estimatedTraffic": 78.611
+    },
+    {
+      "domain": "snorkelverse.com",
+      "avgPosition": 26,
+      "keywordCount": 7,
+      "visibility": 0.55,
+      "estimatedTraffic": 7.718999999999999
+    },
+    {
+      "domain": "www.liveaboard.com",
+      "avgPosition": 8,
+      "keywordCount": 5,
+      "visibility": 1.6500000000000001,
+      "estimatedTraffic": 16.075999999999997
+    },
+    {
+      "domain": "gretastravels.com",
+      "avgPosition": 10.8,
+      "keywordCount": 5,
+      "visibility": 3.4000000000000004,
+      "estimatedTraffic": 85.70100000000001
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 27.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.9319999999999997
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 46.625,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 1.561
+    },
+    {
+      "domain": "snorkelaroundtheworld.com",
+      "avgPosition": 29.5,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.364
+    },
+    {
+      "domain": "thailand-divers.com",
+      "avgPosition": 30,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 4.164999999999999
+    },
+    {
+      "domain": "www.heatheronhertravels.com",
+      "avgPosition": 1,
+      "keywordCount": 4,
+      "visibility": 4,
+      "estimatedTraffic": 182.39999999999998
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 21.6,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.584
+    },
+    {
+      "domain": "www.snorkeling-report.com",
+      "avgPosition": 6,
+      "keywordCount": 4,
+      "visibility": 2,
+      "estimatedTraffic": 25.545
+    },
+    {
+      "domain": "khroom-sport.com",
+      "avgPosition": 12.25,
+      "keywordCount": 4,
+      "visibility": 1.45,
+      "estimatedTraffic": 12.849
+    },
+    {
+      "domain": "borapush.com",
+      "avgPosition": 12.5,
+      "keywordCount": 4,
+      "visibility": 0.55,
+      "estimatedTraffic": 7.5329999999999995
+    },
+    {
+      "domain": "www.shutterstock.com",
+      "avgPosition": 30.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.533
+    },
+    {
+      "domain": "www.tropicalsnorkeling.com",
+      "avgPosition": 14.25,
+      "keywordCount": 4,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 5.0280000000000005
+    },
+    {
+      "domain": "passportandpiano.com",
+      "avgPosition": 14.5,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.552
+    },
+    {
+      "domain": "www.pelago.com",
+      "avgPosition": 32,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.05
+    },
+    {
+      "domain": "www.thrillophilia.com",
+      "avgPosition": 45.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.5539999999999998
+    },
+    {
+      "domain": "traveltriangle.com",
+      "avgPosition": 47,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.5679999999999998
+    },
+    {
+      "domain": "ninjashark.com.au",
+      "avgPosition": 24,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.458
+    },
+    {
+      "domain": "www.umetravel.com",
+      "avgPosition": 50.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.adventure-life.com",
+      "avgPosition": 26.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.722
+    },
+    {
+      "domain": "fastmanta.com",
+      "avgPosition": 4.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.9,
+      "estimatedTraffic": 12.459999999999999
+    },
+    {
+      "domain": "kontiki-krabi.com",
+      "avgPosition": 7.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.1,
+      "estimatedTraffic": 5.124
+    },
+    {
+      "domain": "greatever.com",
+      "avgPosition": 46,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.6589999999999998
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 2.3310000000000004
+    },
+    {
+      "domain": "simbaseatrips.com",
+      "avgPosition": 47.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.407
+    },
+    {
+      "domain": "krabinature.com",
+      "avgPosition": 13.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.351
+    },
+    {
+      "domain": "theculturetrip.com",
+      "avgPosition": 35.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.2599999999999998
+    },
+    {
+      "domain": "krabisunsetcruises.com",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.3929999999999998
+    },
+    {
+      "domain": "www.padi.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.099
+    },
+    {
+      "domain": "www.deevanahotels.com",
+      "avgPosition": 17,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.931
+    },
+    {
+      "domain": "www.krabivillas.com",
+      "avgPosition": 23.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "thecoloursofthailand.com",
+      "avgPosition": 45.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.2599999999999998
+    },
+    {
+      "domain": "www.easydaythailand.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "www.oh-hoo.com",
+      "avgPosition": 28,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "redfox.travel",
+      "avgPosition": 46.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.2599999999999998
+    },
+    {
+      "domain": "www.musement.com",
+      "avgPosition": 30.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "kohtourkrabi.com",
+      "avgPosition": 31.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "beste-streetfood-bangkok-wijken-plekken-proeven",
+  "route": "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Streetfood Bangkok: wijken en eetroute kiezen | Go2Thailand",
+    "description": "Vergelijk Yaowarat, markten, foodcourts en foodtours op sfeer, route en eetstijl — zonder verouderende top tien.",
+    "primaryKeyword": "streetfood Bangkok wijken",
+    "secondaryKeywords": ["beste streetfood Bangkok", "waar streetfood eten Bangkok", "Bangkok foodtour"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/"
+  },
+  "hero": {
+    "eyebrow": "Eet de stad per wijk",
+    "title": "Streetfood in Bangkok",
+    "accent": "Kies eerst je eetvorm",
+    "description": "Van Yaowarat tot een rustige foodcourt: bouw een route die past bij je avond, groep en dieet.",
+    "image": "/images/redesign/editorial/beste-streetfood-bangkok-wijken-plekken-proeven-hero.webp",
+    "imageAlt": "Bangkokse avondstraat met verlichte streetfoodkramen en gasten",
+    "primaryCta": { "label": "Vergelijk vier eetvormen", "href": "#eetvormen" },
+    "secondaryCta": { "label": "Veiligheidscheck", "href": "#veilig-eten" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "market", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Yaowarat past bij een energieke avond, een buurtmarkt bij lokaal ritme, een foodcourt bij gemak en een foodtour bij uitleg. Kies geen plek op een oude top tien: controleer opening, route en dieetafhandeling opnieuw.",
+  "blocks": [
+    { "kind": "comparison", "id": "eetvormen", "title": "Welke Bangkokse eetavond past?", "options": [
+      { "title": "Yaowarat", "description": "Neon, Chinees-Thaise smaken en veel delen; plan ruimte voor drukte en wachtrijen.", "label": "Energie", "href": "/nl/city/bangkok/food/" },
+      { "title": "Buurtmarkt", "description": "Kleinere porties en lokaal dagritme; controleer actuele marktdag en opening.", "label": "Variatie" },
+      { "title": "Foodcourt", "description": "Zitplaatsen, duidelijk betalen en beschutting; sterk met verschillende voorkeuren.", "label": "Gemak" },
+      { "title": "Foodtour", "description": "Context en een vaste route; controleer stops, groep, eindpunt en allergenen vooraf.", "label": "Uitleg" }
+    ] },
+    { "kind": "steps", "id": "proefroute", "title": "Bouw een avond in vier smaken", "steps": [
+      { "title": "Begin licht", "description": "Kies een soep, dumpling of kleine snack zodat er ruimte blijft." },
+      { "title": "Deel een hoofdgerecht", "description": "Bestel met je groep en stem pittigheid en allergenen expliciet af." },
+      { "title": "Voeg iets van de grill toe", "description": "Kies goed verhit eten bij een kraam met zichtbare omloop." },
+      { "title": "Sluit af met dessert", "description": "Eindig dicht bij je MRT-, BTS- of taxiroute terug." }
+    ] },
+    { "kind": "callout", "id": "veilig-eten", "tone": "warning", "title": "Druk is een signaal, geen veiligheidsgarantie", "description": "Let op schoon werken, scheiding van rauw en gaar en grondige verhitting. Vraag bij allergieën naar ingrediënten én kruiscontact; kies bij twijfel een andere kraam." },
+    { "kind": "affiliate", "id": "foodtour", "provider": "klook", "title": "Wil je liever met een gids eten?", "description": "Vergelijk de actuele route, eetstops, groepsgrootte, dieetafhandeling, eindlocatie en annuleringsvoorwaarden. De productpagina voor jouw datum is leidend.", "cta": { "label": "Bekijk actuele foodtours", "href": "https://klook.tpo.lv/7Dt6WApj?subid=streetfood-bangkok-nl", "external": true }, "placement": "bangkok-streetfood-guided-option", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer." },
+    { "kind": "related", "id": "verder-eten", "title": "Verdiep je eetroute", "items": [
+      { "title": "Bangkok foodgids", "description": "Kies gerechten, stadsdelen en een haalbare fooddag.", "href": "/nl/city/bangkok/food/" },
+      { "title": "Jodd Fairs", "description": "Beoordeel één avondmarkt op route en actuele opening.", "href": "/nl/blog/jodd-fairs-bangkok-night-market-guide/" },
+      { "title": "Chatuchak foodgids", "description": "Combineer marktsecties en eten zonder teruglopen.", "href": "/nl/blog/chatuchak-weekend-market-food-guide/" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Welke wijk heeft de beste streetfood in Bangkok?", "answer": "Er is geen universele beste wijk. Yaowarat is sterk voor een levendige avond; markten, buurten en foodcourts passen bij andere reistempo’s." },
+      { "question": "Is streetfood in Bangkok veilig?", "answer": "Geen kraam is vooraf gegarandeerd veilig. Let op hygiëne, scheiding van rauw en gaar, grondige verhitting en vraag bij allergieën naar kruiscontact." },
+      { "question": "Is een foodtour nodig?", "answer": "Nee. Kies een tour als uitleg en logistiek waarde toevoegen; ga zelfstandig wanneer vrijheid en rustig eten belangrijker zijn." },
+      { "question": "Moet ik contant geld meenemen?", "answer": "Betaalmethoden verschillen per markt en kraam. Neem een bescheiden alternatief mee en controleer ter plaatse wat wordt geaccepteerd." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen en controlemethode", "items": [
+      { "title": "Bangkok destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/bangkok/219", "checkedAt": "2026-08-01" },
+      { "title": "The adventure through Bangkok’s Chinatown", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/the-adventure-through-bangkok-s-chinatown", "checkedAt": "2026-08-01", "note": "Gebruikt voor wijkcontext, niet voor actuele openingstijden." },
+      { "title": "Five keys to safer food", "publisher": "World Health Organization", "url": "https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

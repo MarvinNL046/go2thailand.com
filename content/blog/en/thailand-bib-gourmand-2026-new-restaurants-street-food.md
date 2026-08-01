@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Michelin Bib Gourmand Thailand 2026", "Bangkok street food", "cheap eats Thailand", "Chiang Mai restaurants", "Thailand food guide 2026", "best restaurants Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-bib-gourmand-2026-new-restaurants-street-food-hero.webp"
 description: "The Michelin Guide Thailand 2026 added 13 new Bib Gourmand restaurants across Bangkok, Chiang Mai, Surat Thani and more. Here are the best new affordable eats worth a detour."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 ## What Is the Bib Gourmand?
 
-The Michelin Bib Gourmand is a designation for restaurants that serve outstanding food at moderate prices. In Thailand, that typically means a full meal for under 1,000 baht (roughly 28 USD). While Michelin stars grab the headlines, the Bib Gourmand list is arguably more useful for everyday travellers looking for genuinely excellent food without the fine-dining price tag. If you want to plan your meals around it, first check our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) so you know exactly how much to set aside for food each day.
+The Michelin Bib Gourmand is a designation for restaurants that serve outstanding food at moderate prices. In Thailand, that typically means a full meal for under 1,000 baht (roughly 28 USD). While Michelin stars grab the headlines, the Bib Gourmand list is arguably more useful for everyday travellers looking for genuinely excellent food without the fine-dining price tag. If you want to plan your meals around it, first check our [Thailand budget guide](/thailand-index/budget/) so you know exactly how much to set aside for food each day.
 
 The **2026 list features 137 restaurants** across Thailand, with **13 newcomers** joining the ranks. See also our full [Thailand Michelin Guide 2026 stars round-up](/blog/thailand-michelin-guide-2026-new-stars-suhring/) for the starred restaurants announced at the same ceremony.
 
@@ -35,7 +35,7 @@ Four new restaurants earned a Bib Gourmand in [Bangkok](/city/bangkok/) and surr
 - **Jaan by Khun Jim** — Southern Thai and Thai-Chinese dishes made with freshly pressed coconut milk. The bold, aromatic curries are the highlight, and the casual setting keeps prices low.
 - **Kolun.h** — A Hainanese-style noodle house where the crispy pork belly and slow-simmered broth draw long queues from locals. Arrive before noon to beat the rush.
 
-With these additions, Bangkok now has **44 Bib Gourmand restaurants** — more than enough to plan an entire trip around affordable, Michelin-recognised eating. For more food inspiration in the capital, see our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) and the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/). If you are planning a longer stay, the [Bangkok Lumpini hawker centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) is another excellent budget-friendly option that opened in 2026.
+With these additions, Bangkok now has **44 Bib Gourmand restaurants** — more than enough to plan an entire trip around affordable, Michelin-recognised eating. For more food inspiration in the capital, see our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) and the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/). If you are planning a longer stay, the [Bangkok Lumpini hawker centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) is another excellent budget-friendly option that opened in 2026.
 
 ## Regional Newcomers Worth a Detour
 
@@ -55,7 +55,7 @@ The full 2026 Bib Gourmand selection is searchable on the official Michelin Guid
 For food-focused travellers, combining the Bib Gourmand list with Thailand's legendary street food markets creates one of the best culinary experiences in Southeast Asia — and you will rarely spend more than a few hundred baht per meal. To plan around this:
 
 - **Night markets:** Our [best night markets in Bangkok guide](/blog/best-night-markets-bangkok-2026/) and [night markets for food lovers](/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/) cover the top spots in the capital, Chiang Mai, and Phuket.
-- **Street food overview:** The [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) explains dishes, prices, and where to find them — a solid companion to the Bib Gourmand list.
+- **Street food overview:** The [Thai street food guide 2026](/thailand-street-food/) explains dishes, prices, and where to find them — a solid companion to the Bib Gourmand list.
 - **Bangkok's best restaurants:** See the [Bangkok Top Tables 2026 awards](/blog/bangkok-top-tables-2026-best-restaurants-awards/) for a broader picture of the city's dining scene beyond Michelin.
-- **Budget context:** Our [Thailand budget 2026 guide](/blog/thailand-budget-2026-daily-costs/) shows that a full day's food budget at Bib Gourmand restaurants is still well within reach for backpackers and mid-range travellers alike.
+- **Budget context:** Our [Thailand budget 2026 guide](/thailand-index/budget/) shows that a full day's food budget at Bib Gourmand restaurants is still well within reach for backpackers and mid-range travellers alike.
 - **Getting around:** Use the [Bangkok public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) to hop between Bib Gourmand restaurants across the city without overpaying on taxis.

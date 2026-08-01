@@ -1,0 +1,40 @@
+{
+  "captured_at": "2026-07-29T22:52:28.559Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "pai eten",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "pai eten",
+    "eten in pai"
+  ],
+  "keywords": [
+    {
+      "keyword": "eten in pai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pai eten",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

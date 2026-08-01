@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "khao-sok-floating-bungalows-cheow-lan-lake-glamping-guide-2026",
+  "route": "/nl/blog/khao-sok-floating-bungalows-cheow-lan-lake-glamping-guide-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Khao Sok floating bungalows: actuele gids | Go2Thailand",
+    "description": "Deze dubbele 2026-route is vervangen door de actuele Khao Sok-overnachtingsgids met jungle-versus-meerkeuze en raft-housechecks.",
+    "primaryKeyword": "Khao Sok floating bungalows",
+    "secondaryKeywords": ["Cheow Lan Lake overnachten", "Khao Sok raft house", "drijvende bungalow Khao Sok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/khao-sok-floating-bungalows-cheow-lan-lake-glamping-guide-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Vervangen verblijfsonderwerp",
+    "title": "Floating bungalows in Khao Sok",
+    "accent": "Gebruik de volledige overnachtingsgids",
+    "description": "De actuele owner vergelijkt Khlong Sok, landlodges, Ban Ta Khun en raft houses in één route.",
+    "image": "/images/redesign/editorial/khao-sok-floating-bungalows-cheow-lan-lake-glamping-guide-2026-hero.webp",
+    "imageAlt": "Houten floating bungalows op Cheow Lan Lake tussen groene kalksteenbergen",
+    "primaryCta": { "label": "Open de actuele gids", "href": "/nl/best-hotels/khao-sok/" },
+    "secondaryCta": { "label": "Bekijk de overstap", "href": "#waarom" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Deze losse route is inhoudelijk vervangen door /nl/best-hotels/khao-sok/, de bestaande owner voor hotels, landlodges en floating bungalows. De route blijft noindex tot een centrale redirect wordt ingesteld.",
+  "blocks": [
+    { "kind": "callout", "id": "waarom", "tone": "warning", "title": "Deze pagina is niet meer de verblijfowner", "description": "Ga naar de actuele overnachtingsgids. Daar staan de zonekeuze, raft-housecheck en live verblijfsopties bij elkaar.", "cta": { "label": "Naar overnachten in Khao Sok", "href": "/nl/best-hotels/khao-sok/" } },
+    { "kind": "comparison", "id": "zone", "title": "Meer en dorp zijn andere bases", "options": [
+      { "title": "Cheow Lan Lake", "description": "Boottransfer, pakketonderdelen, afgelegen ligging en raft-housevoorzieningen bepalen de keuze.", "label": "Floating bungalow" },
+      { "title": "Khlong Sok", "description": "Landlodges en toegang tot het westelijke parkdeel passen bij een andere dagindeling.", "label": "Landbasis" },
+      { "title": "Ban Ta Khun", "description": "Praktische basis bij de dam en pier wanneer je niet op het water slaapt.", "label": "Transferbasis" }
+    ] },
+    { "kind": "checklist", "id": "raft-check", "title": "Controleer bij ieder raft house", "items": ["Vertrekpier en boottransfer", "Kamertype, sanitair en relingen", "Stroom en bereik", "Maaltijden en dieet", "Activiteiten en zwemvesten", "Bagage en opslag", "Parktoegang en toeslagen", "Actuele totaalprijs en annulering"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Waar staat de actuele informatie?", "answer": "Op /nl/best-hotels/khao-sok/, de bestaande owner voor alle verblijfsvormen in Khao Sok." },
+      { "question": "Is ieder raft house glamping?", "answer": "Nee. Voorzieningen lopen uiteen van eenvoudig tot comfortabel; controleer het exacte kamertype." },
+      { "question": "Kan ik naar mijn bungalow rijden?", "answer": "Nee. Een verblijf op het meer vraagt vervoer over water." },
+      { "question": "Waarom noindex?", "answer": "De route overlapt de sterkere hotelowner en moet geen tweede zoekresultaat voor dezelfde beslissing worden." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële bestemmingscontext", "items": [
+      { "title": "Ratchaprapha Dam in the rainy season", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/rainy-season-5-place-en", "checkedAt": "2026-08-01", "note": "Bevestigt floating-raftcontext; geen universele pakketvoorwaarden." },
+      { "title": "A Different Side of Surat Thani", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/a-different-side-of-surat-thani-no-sea-required", "checkedAt": "2026-08-01", "note": "Context voor Ratchaprapha Dam, boot en raftaccommodatie." }
+    ] },
+    { "kind": "related", "id": "owner", "title": "Gebruik de actuele eigenaar", "items": [
+      { "title": "Overnachten in Khao Sok", "description": "Vergelijk jungle, dorp, dam en floating bungalow.", "href": "/nl/best-hotels/khao-sok/" },
+      { "title": "Khao Sok bezienswaardigheden", "description": "Koppel verblijf aan parkdeel en activiteiten.", "href": "/nl/city/khao-sok/attractions/" },
+      { "title": "Khao Sok overzicht", "description": "Plan west- en oostzijde in de juiste volgorde.", "href": "/nl/city/khao-sok/" }
+    ] }
+  ]
+}

@@ -1,57 +1,43 @@
 ---
-title: "Bangkok Art Biennale 2026: Angels and Mara reisgids"
+title: "Bangkok Art Biennale 2026: data, thema en bezoekplan"
 slug: "bangkok-art-biennale-2026-angels-mara-guide"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "culture"
-tags: ["Bangkok Art Biennale", "BAB 2026", "hedendaagse kunst", "cultuur Bangkok", "Wat Arun", "Wat Pho", "BACC", "Thailand evenementen 2026", "Bangkok bezienswaardigheden", "Bangkok tips", "kunstroute Thailand"]
-image: "/images/blog/thailand-news-default.webp"
-description: "De Bangkok Art Biennale 2026 loopt van oktober 2026 tot februari 2027 met thema Angels and Mara. Gratis kunstinstallaties bij tempels en musea."
+tags: ["Bangkok Art Biennale 2026", "Angels and Mara", "kunst Bangkok", "BAB 2026"]
+image: "/images/redesign/editorial/bangkok-art-biennale-2026-angels-mara-guide-hero.webp"
+description: "BAB 2026 loopt van 29 oktober 2026 tot en met 28 februari 2027. Bekijk het thema, de aangekondigde locaties en wat je vlak voor vertrek controleert."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-28"
+readingTime: 5
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Bangkok Art Biennale — Official site BAB2026"
-    url: "https://www.bkkartbiennale.com/"
-  - name: "Friday Bangkok — Bangkok Art Biennale 2026 Angels and Mara"
-    url: "https://fridaybangkok.com/en/n/bangkok-art-biennale-2026-angels-and-mara-artists-venues"
-  - name: "Art Asia Pacific — Bangkok Art Biennale 5th Edition"
-    url: "https://www.artasiapacific.com/news/bangkok-art-biennale-announces-preliminary-details-for-its-5th-edition/"
-  - name: "Nation Thailand — BAB 2026 call for performance artists"
-    url: "https://www.nationthailand.com/life/art-culture/40058394"
+  - name: "Bangkok Art Biennale — Angels and Mara"
+    url: "https://www.bkkartbiennale.com/press/bangkok-art-biennale-angels-and-mara"
+  - name: "Bangkok Art Biennale — artists announcement"
+    url: "https://www.bkkartbiennale.com/press/bangkok-art-biennale-announces-theme-and-artists-for-2026-edition-updated"
 ---
 
-## Bangkok verandert in een stadsbreed kunstpodium
+## Het korte antwoord
 
-Zet het in je agenda: de vijfde editie van de Bangkok Art Biennale (BAB 2026) loopt van **29 oktober 2026 tot 28 februari 2027** en tovert tempels, musea en openbare ruimtes in de [hoofdstad](/city/bangkok/) om tot één grote openluchtgalerie. Toegang tot de meeste locaties is gratis.
+De vijfde Bangkok Art Biennale staat gepland van **29 oktober 2026 tot en met 28 februari 2027**. Het thema is *Angels and Mara*: een onderzoek naar tegenpolen als hoop en verlangen, bescherming en verleiding. De organisatie heeft tempels, musea en moderne kunstruimtes aangekondigd, maar de kaart en bezoekersvoorwaarden kunnen tot de opening veranderen.
 
-## Het thema: Angels and Mara
+## Wat is al bevestigd?
 
-Het concept van dit jaar heet **Angels and Mara**. De naam speelt met de volledige ceremoniële titel van [Bangkok](/city/bangkok/), die zich laat vertalen als "Stad der Engelen". De curatoren plaatsen goddelijke boodschappers uit culturen wereldwijd tegenover Mara, de boeddhistische figuur die verlangen, verleiding en de schaduwkant van de mens belichaamt. Het resultaat: kunst over de spanning tussen licht en donker, hoop en angst.
+De officiële organisatie noemt onder meer Wat Arun, Wat Pho, Wat Prayoon, BACC, Museum Siam, National Museum Bangkok, National Gallery of Thailand en One Bangkok. Behandel dit als een aangekondigde locatieset, niet als een garantie dat elke plek op iedere bezoekdag open is.
 
-Het curatorenteam staat onder leiding van prof. dr. Apinan Poshyananda, chief executive en artistiek directeur van de Biennale, samen met Adulaya Hoontrakul (Bangkok Art and Culture Centre), Rémy Jarry (Chulalongkorn University), Melanie Pocock (Ikon Gallery, Birmingham) en architect Kulapat Yantrasast van wHY Architecture.
+De eerste kunstenaars zijn bekendgemaakt. Voor de uiteindelijke deelnemers, werken en locatie-indeling blijft de [officiële BAB-site](https://www.bkkartbiennale.com/) leidend.
 
-## Waar vind je de kunst?
+## Zo plan je een kunstdag
 
-Installaties verschijnen op enkele van de bekendste plekken van Bangkok:
+Kies één geografisch cluster. Combineer bijvoorbeeld de tempels aan de rivier, of houd BACC en de moderne stadsroute bij elkaar. Bangkok is te groot om alle locaties zonder haast in één dag af te vinken.
 
-- **[Wat Arun](/city/bangkok/attractions/wat-arun/)** en **[Wat Pho](/city/bangkok/attractions/wat-pho/)** — hedendaagse kunst tegen de achtergrond van eeuwenoude tempelarchitectuur
-- **Wat Prayoon** — een minder bekende maar prachtige tempel aan de rivier
-- **Bangkok Art and Culture Centre (BACC)** — het belangrijkste hedendaagse kunstcentrum van de stad, naast BTS National Stadium
-- **Museum Siam** en het **[National Museum Bangkok](/city/bangkok/attractions/bangkok-national-museum/)** — historische panden bij het [Grand Palace](/city/bangkok/attractions/grand-palace/)
-- **National Gallery of Thailand** — direct aan Chao Phraya Road
-- **[One Bangkok](/blog/one-bangkok-shopping-mall-tourist-guide-2026/)** — het enorme nieuwe mixed-use complex in de CBD
+Bij actieve tempels gelden de huisregels van de tempel ook tijdens een kunstbezoek. Draag bedekkende kleding, fotografeer alleen waar dat mag en geef rituelen en gebed voorrang. Controleer vlak voor vertrek opening, toegang, eventuele tijdsloten en de actuele routekaart.
 
-## Wie exposeert er?
+## Vervoer en weer
 
-Bevestigde kunstenaars zijn onder meer Mel Chin, Mandy El-Sayegh, Piero Golia, Sonia Hamza, Yasumasa Morimura, de Thaise fotograaf Manit Sriwanichpoom en het Chinese duo Sun Yuan & Peng Yu. Meer namen volgen richting de opening.
+Gebruik de [Bangkokse vervoersgids](/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) voor BTS, MRT en rivierboten. Reken extra tijd tussen rivierlocaties en het moderne centrum. Openluchtwerk kan bij hitte of hevige regen minder prettig of tijdelijk anders toegankelijk zijn.
 
-## Praktische tips voor bezoekers
+## Voor wie past BAB 2026?
 
-- **Kosten:** toegang tot installaties bij tempels en openbare ruimtes is gratis. Sommige musea vragen een kleine entree. Voor een vergelijkbare meeslepende ervaring zie ook [Cave Fantasy in MBK Center](/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/).
-- **Hoe verken je alles:** de locaties zijn verspreid over Rattanakosin, de rivier en de moderne CBD. Combineer een Chao Phraya Express-boot met ritten op de [BTS](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/).
-- **Wanneer te gaan:** doordeweeks is het rustiger. November tot januari biedt [koeler weer](/city/bangkok/best-time-to-visit/) én de volledige line-up van installaties.
-- **Combineer met:** een bezoek aan de nabije [Lumpini Hawker Centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) voor [streetfood](/city/bangkok/food/) na het galerie-hoppen.
-
-De Bangkok Art Biennale is een van de meest ambitieuze evenementen rond hedendaagse kunst in Zuidoost-Azië. Of je nu een kunstliefhebber bent of gewoon nieuwsgierig: rondslenteren door eeuwenoude tempels vol moderne installaties is een ervaring die alleen [Bangkok](/city/bangkok/top-10-attractions/) biedt. Plan je verblijf via de [beste hotels in Bangkok](/best-hotels/bangkok/) en bekijk de [toprestaurants van Bangkok](/city/bangkok/top-10-restaurants/) om je bezoek compleet te maken.
+De biennale past bij reizigers die hedendaagse kunst willen combineren met Bangkokse architectuur. Wie vooral één klassiek museum zoekt, kan beter één instelling kiezen. Wie tempels bezoekt voor rust of religieuze context, plant het kunstprogramma als aanvulling en niet als fotodecor.

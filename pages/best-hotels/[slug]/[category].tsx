@@ -1,5 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../components/SEOHead';
@@ -10,6 +11,7 @@ import EditorialMeta from '../../../components/editorial/EditorialMeta';
 import IntentInternalLinks, { IntentInternalLinkItem } from '../../../components/IntentInternalLinks';
 import { getAffiliates, withPlacementSubId, TIQETS_GENERIC, TRIP_GENERIC, tripcomAffiliate } from '../../../lib/affiliates';
 import { getEditorialUpdatedAt } from '../../../lib/pseo-editorial-date';
+import PhuketHotelCategoryNl, { PhuketHotelCategory } from '../../../components/hotels/PhuketHotelCategoryNl';
 
 /**
  * PSEO template: /best-hotels/[city]/[category]
@@ -117,6 +119,11 @@ function fallbackRelatedLinks(data: PseoData): IntentInternalLinkItem[] {
 }
 
 export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  if (isNl && data.citySlug === 'phuket' && ['all-inclusive', 'family', 'resorts'].includes(data.category)) {
+    return <PhuketHotelCategoryNl category={data.category as PhuketHotelCategory} candidates={data.hotels} />;
+  }
   const categoryLabel = CATEGORY_LABELS[data.category] || data.category.replace(/-/g, ' ');
   const renderedRelatedLinks = relatedLinks && relatedLinks.length > 0 ? relatedLinks : fallbackRelatedLinks(data);
   const editorialUpdatedAt = getEditorialUpdatedAt(data);
@@ -180,7 +187,7 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
   };
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Best Hotels', href: '/best-hotels/' },
+    { name: 'Hotels', href: '/where-to-stay/' },
     { name: data.cityName, href: `/best-hotels/${data.citySlug}/` },
     { name: `${categoryLabel.charAt(0).toUpperCase() + categoryLabel.slice(1)}`, href: `/best-hotels/${data.citySlug}/${data.category}/` },
   ];
@@ -278,7 +285,7 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
           </div>
         </section>
 
-        <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick answers — scannable above-the-fold pick block */}
           {data.aiContent.quickAnswers && data.aiContent.quickAnswers.length > 0 && (
             <section className="-mt-4">
@@ -339,7 +346,7 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
                           <td className="px-4 py-3 text-gray-700">{r.standout}</td>
                           <td className="px-4 py-3 text-gray-600 italic">{r.drawback}</td>
                           <td className="px-4 py-3">
-                            {cta && (<a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-thailand-red font-semibold hover:underline whitespace-nowrap">{cta.specific ? 'Check price →' : 'Search →'}</a>)}
+                            {cta && (<a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-thailand-red font-semibold hover:underline whitespace-nowrap">{cta.specific ? 'Check current total →' : 'Search live stays →'}</a>)}
                           </td>
                         </tr>
                       );
@@ -524,7 +531,7 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
             <p className="mt-2 text-gray-700">Browse every category, compare neighbourhoods, or read the full {data.cityName} travel guide.</p>
             <div className="mt-4 flex flex-wrap gap-3">
               <Link href={`/best-hotels/${data.citySlug}/`} className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">All hotels in {data.cityName}</Link>
-              <Link href={`/where-to-stay/${data.citySlug}/`} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">Where to stay (areas)</Link>
+              <Link href={isNl ? `/best-hotels/${data.citySlug}/#gebieden` : `/where-to-stay/${data.citySlug}/`} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">{isNl ? 'Vergelijk gebieden' : 'Where to stay (areas)'}</Link>
               <Link href={`/city/${data.citySlug}/`} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{data.cityName} travel guide</Link>
             </div>
           </section>
@@ -542,7 +549,7 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
               </div>
             </section>
           )}
-        </main>
+        </div>
       </div>
 
       {/* Sticky mobile CTA — only visible on small screens, only when we have a top-pick link */}
@@ -582,6 +589,14 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params, locale }) 
   const category = params?.category as string;
   const enFile = path.join(process.cwd(), 'data', 'pseo', 'best-hotels', `${city}-${category}.json`);
   const nlFile = path.join(process.cwd(), 'data', 'pseo', 'best-hotels', 'nl', `${city}-${category}.json`);
+  if (locale === 'nl' && !fs.existsSync(nlFile)) {
+    return {
+      redirect: {
+        destination: `/nl/best-hotels/${city}/`,
+        permanent: true,
+      },
+    };
+  }
   const file = locale === 'nl' && fs.existsSync(nlFile) ? nlFile : enFile;
   if (!fs.existsSync(file)) return { notFound: true, revalidate: 60 };
   const data = JSON.parse(fs.readFileSync(file, 'utf8')) as PseoData;

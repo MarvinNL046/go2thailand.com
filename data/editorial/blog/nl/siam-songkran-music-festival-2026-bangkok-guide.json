@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "siam-songkran-music-festival-2026-bangkok-guide",
+  "route": "/nl/blog/siam-songkran-music-festival-2026-bangkok-guide/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "SIAM Songkran Music Festival 2026: archief",
+    "description": "SIAM Songkran Music Festival 2026 bij Bravo BKK is afgelopen. Bekijk de bevestigde historische data zonder verlopen ticketverkoop.",
+    "primaryKeyword": "SIAM Songkran Music Festival 2026",
+    "secondaryKeywords": ["SIAM Songkran Bangkok", "Bravo BKK festival", "Songkran muziekfestival"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/siam-songkran-music-festival-2026-bangkok-guide/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Afgelopen evenement",
+    "title": "SIAM Songkran 2026",
+    "accent": "Archief: 11–14 april.",
+    "description": "De editie bij Bravo BKK is voorbij. Oude line-ups, tickets en prijzen zijn niet meer actueel.",
+    "image": "/images/redesign/editorial/siam-songkran-music-festival-2026-bangkok-guide-hero.webp",
+    "imageAlt": "Historisch podiumbeeld van SIAM Songkran Music Festival in Bangkok",
+    "primaryCta": { "label": "Bekijk het archief", "href": "#archief" },
+    "secondaryCta": { "label": "Brede Songkran-gids", "href": "/nl/blog/songkran-festival-2026-guide/" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "elapsed",
+    "startsOn": "2026-04-11",
+    "endsOn": "2026-04-14",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "SIAM Songkran Music Festival 2026 vond van 11 tot en met 14 april plaats bij Bravo BKK. De editie is afgelopen en deze pagina heeft geen ticket- of wederverkoopuitgang.",
+  "blocks": [
+    { "kind": "callout", "id": "archief", "tone": "warning", "title": "Geen 2026-ticket meer kopen", "description": "De festivaleditie is afgelopen. Wacht voor een volgende editie op de officiële organisator en ticketpartner." },
+    { "kind": "comparison", "id": "onderscheid", "title": "Festival en traditie zijn niet hetzelfde", "options": [
+      { "title": "SIAM Songkran", "description": "Een afzonderlijk betaald muziekfestival met eigen toegang en huisregels.", "label": "Commercieel evenement" },
+      { "title": "Songkran", "description": "Het bredere Thaise nieuwjaar met familie, tempels, lokale rituelen en openbare vieringen.", "label": "Culturele traditie", "href": "/nl/blog/songkran-festival-2026-guide/" }
+    ] },
+    { "kind": "checklist", "id": "volgende-editie", "title": "Bij een toekomstige editie opnieuw controleren", "items": [
+      "Officiële datum en locatie",
+      "Erkende ticketpartner en naambeleid",
+      "Minimumleeftijd en identiteitscontrole",
+      "Tassen-, water- en veiligheidsregels",
+      "Vervoer terug naar het hotel"
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Kan ik nog een ticket voor 2026 kopen?", "answer": "Nee. De editie is afgelopen." },
+      { "question": "Is een volgende editie bevestigd?", "answer": "Deze archiefpagina bevestigt geen volgende editie." },
+      { "question": "Is dit hetzelfde als Songkran?", "answer": "Nee. Het was een commercieel festival binnen de bredere Songkran-periode." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Historische primaire bronnen", "items": [
+      { "title": "SIAM Songkran Music Festival 2026", "publisher": "SIAM Songkran", "url": "https://siamsongkran.info/?direct=true", "checkedAt": "2026-08-01" },
+      { "title": "Songkran Festival 2026 nationwide", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/03/songkran-festival-2026-to-proceed-nationwide-welcoming-global-visitors-to-thailands-unesco-recognised-new-year-celebration/", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

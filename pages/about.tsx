@@ -81,6 +81,11 @@ export default function AboutPage() {
                   ? 'Go2Thailand.com bestaat om reizigers te helpen betere reizen naar Thailand te plannen. Wij geloven dat elke bezoeker toegang verdient tot nauwkeurige, actuele en eerlijke reisinformatie — of je nu een eerste bezoeker bent die zijn visum uitzoekt of een ervaren reiziger op zoek naar de beste Khao Soi in Chiang Mai.'
                   : 'Go2Thailand.com exists to help travelers plan better trips to Thailand. We believe every visitor deserves access to accurate, up-to-date, and honest travel information — whether you\'re a first-timer figuring out your visa or a seasoned traveler looking for the best Khao Soi in Chiang Mai.'}
               </p>
+              <p className="text-gray-700 mb-4">
+                {isNl
+                  ? <>Bekijk ook onze <Link href="/social/" className="font-semibold text-thailand-blue hover:underline">sociale kanalen en community-updates</Link> voor nieuwe gidsen, visuele inspiratie en verbeteringen aan de website.</>
+                  : <>Read more <Link href="/blog/" className="font-semibold text-thailand-blue hover:underline">travel guides and editorial updates</Link> for new planning ideas, destination inspiration and website improvements.</>}
+              </p>
               <p className="text-gray-700">
                 {isNl
                   ? <>We behandelen <strong>33 steden</strong>, <strong>11 eilanden</strong>, <strong>295 attracties</strong>,{' '}<strong>46 Thaise gerechten</strong> en <strong>245 transportroutes</strong> in elke regio van Thailand. Onze gidsen zijn onderzocht, op feiten gecontroleerd en regelmatig bijgewerkt.</>

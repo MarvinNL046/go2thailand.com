@@ -1,0 +1,644 @@
+{
+  "captured_at": "2026-07-28T02:53:32.288Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "sai ua",
+  "costs": {
+    "suggestions": 0.01404,
+    "related": 0.01392,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "sai ua",
+    "sai oua",
+    "sai krok",
+    "sai ua sausage",
+    "best sai ua in chiang mai",
+    "sai krok isan recipe",
+    "sai krok sausage",
+    "sai oua chiang mai",
+    "sai oua pronunciation",
+    "sai oua recipe",
+    "sai ua chiang mai",
+    "sai ua la wan",
+    "sai ua pronunciation",
+    "sai ua recipe",
+    "sai ua sausage recipe",
+    "sai ua thai sausage",
+    "thai sai ua"
+  ],
+  "keywords": [
+    {
+      "keyword": "sai oua",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai krok",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai ua",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai ua sausage",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sai ua in chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai krok isan frozen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai krok isan near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai krok isan recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai krok sausage",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai oua chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai oua near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai oua pronunciation",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai oua recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai ua chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai ua la wan",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai ua near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai ua pronunciation",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai ua recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai ua sausage recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai ua thai sausage",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai ua where to buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai sai ua",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai oua where to buy",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sai ua calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai ua dish",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai ua pronounce",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai ua samun phrai",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai sai ua recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1.3333333333333333,
+      "keywordCount": 3,
+      "visibility": 2.9,
+      "estimatedTraffic": 218.06
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 7,
+      "keywordCount": 3,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 21.171
+    },
+    {
+      "domain": "www.thai-food-online.co.uk",
+      "avgPosition": 7.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.15,
+      "estimatedTraffic": 31.238
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 11.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 6.555
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 1.9,
+      "estimatedTraffic": 117.04899999999999
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 16.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.832
+    },
+    {
+      "domain": "www.tasteatlas.com",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.971
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 19.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.242
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 19.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 9.204
+    },
+    {
+      "domain": "www.infusioncookingclassessamui.com",
+      "avgPosition": 25,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.445
+    },
+    {
+      "domain": "www.simplysuwanee.com",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.9,
+      "estimatedTraffic": 15.966
+    },
+    {
+      "domain": "riceandrelish.wordpress.com",
+      "avgPosition": 30,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.0389999999999997
+    },
+    {
+      "domain": "swaledale.co.uk",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 64.21799999999999
+    },
+    {
+      "domain": "meatwave.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 19.717000000000002
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 40.673
+    },
+    {
+      "domain": "ianbenites.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.65,
+      "estimatedTraffic": 6.292
+    },
+    {
+      "domain": "twoguysandacooler.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 1.437
+    },
+    {
+      "domain": "lionbrand.com.au",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 6.078
+    },
+    {
+      "domain": "www.greatbritishchefs.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 20.088999999999995
+    },
+    {
+      "domain": "delishglobe.com",
+      "avgPosition": 44.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.575
+    },
+    {
+      "domain": "www.raanthai.co.uk",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.516000000000001
+    },
+    {
+      "domain": "craftstocrumbs.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.77
+    },
+    {
+      "domain": "www.chefsteps.com",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.6309999999999998
+    },
+    {
+      "domain": "en.ahaan-thai.de",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.35
+    },
+    {
+      "domain": "rollerbaggoddess.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.445
+    },
+    {
+      "domain": "moomangmee.co.uk",
+      "avgPosition": 30,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.6839999999999997
+    },
+    {
+      "domain": "www.sbs.com.au",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.094
+    },
+    {
+      "domain": "www.notquitenigella.com",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "www.muaysupermarket.co.uk",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.7429999999999999
+    },
+    {
+      "domain": "www.orientalmart.co.uk",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.504
+    },
+    {
+      "domain": "thaicookingchiangmai.com",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "tuktukmart.co.uk",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.6839999999999997
+    },
+    {
+      "domain": "www.yak-thai.de",
+      "avgPosition": 38.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.4069999999999998
+    },
+    {
+      "domain": "lannainfo.library.cmu.ac.th",
+      "avgPosition": 39.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "asianinspirations.com.au",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "huongvietstore.co.uk",
+      "avgPosition": 43,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "chokdeethaimarket.co.uk",
+      "avgPosition": 47.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "raan-nuch.co.uk",
+      "avgPosition": 51,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "www.mamajinnythaikitchen.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 4.221
+    },
+    {
+      "domain": "www.eatnua.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 2.3659999999999997
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 2.3040000000000003
+    },
+    {
+      "domain": "stefangourmet.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.379
+    },
+    {
+      "domain": "www.rachelredlaw.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.3499999999999999
+    },
+    {
+      "domain": "importfood.com",
+      "avgPosition": 55.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "thejoblessfoodie.co.uk",
+      "avgPosition": 56,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.386
+    },
+    {
+      "domain": "migrationology.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.6749999999999999
+    },
+    {
+      "domain": "www.learningbytaste.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.459
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.301
+    },
+    {
+      "domain": "stickyricethaikitchen.com",
+      "avgPosition": 58.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.33599999999999997
+    },
+    {
+      "domain": "thailand1dollarmeals.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    }
+  ]
+}

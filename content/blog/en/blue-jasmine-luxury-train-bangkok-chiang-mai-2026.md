@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "travel"
 tags: ["Blue Jasmine train", "luxury train Thailand", "Bangkok to Chiang Mai", "slow travel", "Thailand rail", "luxury travel 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/blue-jasmine-luxury-train-bangkok-chiang-mai-2026-hero.webp"
 description: "The Blue Jasmine is a restored 1960s sleeper train offering a nine-day luxury journey from Bangkok to Chiang Mai, with just 37 guests per departure. Here is everything you need to know."
 featured: false
 readingTime: 3
@@ -38,7 +38,7 @@ Daily activities include tuk-tuk tours through the [ancient ruins of Ayutthaya](
 
 The Blue Jasmine has 10 vintage carriages designed by DTH Travel in partnership with the State Railway of Thailand. The Premium Suites feature a double bed, private ensuite bathroom, and butler service. With only 37 guests per departure, the atmosphere stays intimate and unhurried.
 
-Meals onboard lean into [Thai cuisine](/blog/what-is-thai-food-cuisine-guide/), and the dining car doubles as a social space where guests can mingle over cocktails as the countryside rolls past the windows.
+Meals onboard lean into [Thai cuisine](/travel-guides/thai-cuisine-food-guide/), and the dining car doubles as a social space where guests can mingle over cocktails as the countryside rolls past the windows.
 
 ## 2026 Departures and Pricing
 

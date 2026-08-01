@@ -1,0 +1,36 @@
+# surfles kata beach — SERP research
+
+**Date:** 2026-07-31
+**Locale:** nl
+**Market:** Netherlands
+**SERP features:** local_pack, people_also_ask, organic, video, images, related_searches
+
+## Top organic results
+
+5. [Kata Surf School (2026) - Alles wat u MOET weten voordat ...](https://www.tripadvisor.nl/Attraction_Review-g1210687-d17849620-Reviews-Kata_Surf_School-Kata_Beach_Karon_Phuket.html) — www.tripadvisor.nl
+   - 16 van 32 Boottochten en watersporten in Kata BeachSurfen & windsurfen. Een ... Accor-hotels in Kata BeachKata Group Resorts in Kata BeachOYO-hotels in Kata Beach.
+6. [Kata Beach Surf Guide](https://nl.surf-forecast.com/breaks/Kata-Beach) — nl.surf-forecast.com
+   - Kata Beach in Phuket is an exposed beach break that only works when conditions are just right. May-Oct (Dry Season) is the optimum time of year for waves. The ...
+7. [Surfing at Kata Beach: Best Season, Schools & Tips](https://www.phuket-cannacia.com/blog/surfing-at-kata-beach-best-season-schools-tips/) — www.phuket-cannacia.com
+   - 12 feb 2026 — The waves at Kata Beach typically range from 0.8 to 1.5 meters in height during the surf season, creating ideal conditions for beginners and ...
+
+## People Also Ask — verbatim
+
+- Kun je surfen bij Kata Beach?
+- Wat is de beste surfplek in Thailand?
+- Wanneer is het surfseizoen in Kata Beach?
+- Waar ligt Kata Beach?
+
+## Related searches
+
+- None captured.
+
+## Manual analysis required before drafting
+
+- [ ] Confirm dominant intent and page format.
+- [ ] Read the top three pages fully and record their heading trees.
+- [ ] Record word count per top-three page and set the ±20% target.
+- [ ] Mark topics covered by all three competitors.
+- [ ] Add one or two evidence-backed information-gain angles.
+- [ ] Research and cite every selected PAA answer.
+- [ ] Run locale-specific cannibalisation check.

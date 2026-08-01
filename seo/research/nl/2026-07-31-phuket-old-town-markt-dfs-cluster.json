@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-31T11:36:55.861Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "phuket old town markt",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "phuket old town markt"
+  ],
+  "keywords": [
+    {
+      "keyword": "phuket old town markt",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

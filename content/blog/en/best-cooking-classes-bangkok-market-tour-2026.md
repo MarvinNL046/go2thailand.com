@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Bangkok cooking class", "Thai cooking class 2026", "Silom cooking school", "Amita cooking class", "Bangkok market tour", "learn Thai cooking"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/best-cooking-classes-bangkok-market-tour-2026-hero.webp"
 description: "A hands-on guide to the best cooking classes in Bangkok for 2026, from Silom market tours to canal-side home kitchens, with prices, what you will cook, and how to book."
 featured: false
 readingTime: 3
@@ -26,7 +26,7 @@ sources:
 
 ## Why Take a Cooking Class in Bangkok
 
-Eating your way through [Bangkok](/blog/bangkok-street-food-beginners/) is easy. Bangkok was recently named [best city in Asia](/blog/bangkok-best-city-asia-2026-destinasian-award/), and its food scene is a big reason why. Learning to recreate those flavours at home is the souvenir that actually lasts. Bangkok's cooking schools have grown beyond basic [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/) lessons into full culinary experiences that start at a local market and end with a multi-course meal you prepared yourself.
+Eating your way through [Bangkok](/blog/best-street-food-markets-bangkok/) is easy. Bangkok was recently named [best city in Asia](/blog/bangkok-best-city-asia-2026-destinasian-award/), and its food scene is a big reason why. Learning to recreate those flavours at home is the souvenir that actually lasts. Bangkok's cooking schools have grown beyond basic [pad thai](/food/pad-thai/) lessons into full culinary experiences that start at a local market and end with a multi-course meal you prepared yourself.
 
 Here are three of the [best cooking classes in Bangkok](/best-cooking-classes-in-thailand/) for 2026, each with a different style and price point. If you're planning a longer trip, our [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) can help you fit a class into your schedule.
 
@@ -34,7 +34,7 @@ Here are three of the [best cooking classes in Bangkok](/best-cooking-classes-in
 
 The **Silom Thai Cooking School** is one of Bangkok's longest-running and highest-rated options. Morning and afternoon sessions begin with a guided walk through a fresh market near Silom, where instructors explain key Thai ingredients like galangal, kaffir lime leaves, and shrimp paste.
 
-Back at the school, you cook **five dishes from scratch** at your own station. The menu rotates, but expect classics like [green curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), [tom yum goong](/blog/tom-yum-goong-guide/), and [mango sticky rice](/blog/mango-sticky-rice-season-thailand/). Group sizes are kept small, so you get personal guidance throughout.
+Back at the school, you cook **five dishes from scratch** at your own station. The menu rotates, but expect classics like [green curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), [tom yum goong](/food/tom-yum-goong/), and [mango sticky rice](/food/mango-sticky-rice/). Group sizes are kept small, so you get personal guidance throughout.
 
 **Details:** Morning, afternoon, and evening sessions available. The market tour is included in morning and afternoon classes. Prices start at around 1,000 THB. Book via the school's website or through platforms like Viator. See our [best night markets Bangkok guide](/blog/best-night-markets-bangkok-2026/) for more local market experiences.
 
@@ -42,13 +42,13 @@ Back at the school, you cook **five dishes from scratch** at your own station. T
 
 For a more intimate experience, **Amita Thai Cooking Class** is run from a traditional Thai home on the bank of Bangkok Yai Canal on the Thonburi side of the river. The class includes **free pick-up and drop-off** plus a private long-tail boat ride to the house — a taste of Bangkok's [floating markets](/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) culture.
 
-Once you arrive, the family team welcomes you with appetisers and cold drinks before showing you around their herb garden. You then cook a half-day menu that typically includes **tom kha gai, [green curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), and mango sticky rice** — all using herbs picked from the garden minutes earlier.
+Once you arrive, the family team welcomes you with appetisers and cold drinks before showing you around their herb garden. You then cook a half-day menu that typically includes **tom kha gai, [green curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), [pad thai](/food/pad-thai/), and mango sticky rice** — all using herbs picked from the garden minutes earlier.
 
 **Details:** Half-day class with hotel transfers and boat ride included. The setting feels worlds away from central Bangkok despite being just across the river. Pair it with a visit to nearby [Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/) for a full day on the Thonburi side.
 
 ## Arun Thai Cooking — Tuk-Tuk Ride and Four Dishes
 
-**Arun Thai Cooking** offers a 3-hour-15-minute class that starts with a **tuk-tuk ride to a traditional local market**. The market tour is guided and focused on how to select the freshest ingredients. You then prepare four authentic [Thai dishes](/blog/what-is-thai-food-cuisine-guide/) at your own cooking station.
+**Arun Thai Cooking** offers a 3-hour-15-minute class that starts with a **tuk-tuk ride to a traditional local market**. The market tour is guided and focused on how to select the freshest ingredients. You then prepare four authentic [Thai dishes](/travel-guides/thai-cuisine-food-guide/) at your own cooking station.
 
 The class is compact enough to fit into a busy [Bangkok sightseeing schedule](/blog/best-day-trips-from-bangkok/) while still giving you a genuine hands-on experience.
 

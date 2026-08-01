@@ -1,0 +1,616 @@
+{
+  "captured_at": "2026-07-27T15:05:52.297Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand education visa",
+  "costs": {
+    "suggestions": 0.01464,
+    "related": 0.01284,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand education visa",
+    "education visa thailand",
+    "education visa thailand cost",
+    "thailand education visa cost",
+    "thailand education visa requirements",
+    "education visa thailand 2021",
+    "education visa thailand chiang mai",
+    "education visa thailand muay thai",
+    "education visa thailand price",
+    "education visa thailand reddit",
+    "education visa thailand requirements",
+    "how much is education visa in thailand",
+    "learn thai in thailand education visa",
+    "thai education visa courses",
+    "thailand education visa age limit",
+    "thailand education visa muay thai",
+    "thailand education visa reddit"
+  ],
+  "keywords": [
+    {
+      "keyword": "education visa thailand",
+      "volume": 320,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand education visa",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "education visa thailand cost",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand education visa cost",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand education visa requirements",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "1 year student visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "education visa thailand 2021",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "education visa thailand chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "education visa thailand muay thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "education visa thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "education visa thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "education visa thailand requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is education visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "learn thai in thailand education visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai education visa courses",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand ed visa new rules",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand education visa age limit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand education visa muay thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand education visa reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "education visa thailand 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "6 month education visa thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can you work on an education visa thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "documents for education visa thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "education visa thailand covid",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand education visa covid",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "london.thaiembassy.org",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 97.28
+    },
+    {
+      "domain": "www.siam-legal.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 51.84
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 31.136
+    },
+    {
+      "domain": "www.thaiembassy.at",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 21.088
+    },
+    {
+      "domain": "www.thaiembassyjakarta.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 15.008
+    },
+    {
+      "domain": "ihbangkok.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 10.815999999999999
+    },
+    {
+      "domain": "www.educationvisathailand.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 8.192
+    },
+    {
+      "domain": "thailand.acclime.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 6.303999999999999
+    },
+    {
+      "domain": "tslchiangmai.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 4.8
+    },
+    {
+      "domain": "geosthai.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.6159999999999997
+    },
+    {
+      "domain": "www.aaathai.school",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.912
+    },
+    {
+      "domain": "www.findawayabroad.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.888
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.792
+    },
+    {
+      "domain": "kstvs.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.6320000000000001
+    },
+    {
+      "domain": "pbiss.ac.th",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.376
+    },
+    {
+      "domain": "www.goldenstepvisaservices.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.376
+    },
+    {
+      "domain": "dukelanguage.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.056
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8640000000000001
+    },
+    {
+      "domain": "mahidol.ac.th",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.7679999999999999
+    },
+    {
+      "domain": "www.pslawbusiness.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.7040000000000001
+    },
+    {
+      "domain": "alalanguage.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.thaiembassy.fr",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "immigrationbangkok.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.thaisolutions1502.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "thaivisafinder.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "thethaiger.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.conciergepattaya.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.krabiinternationalschool.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "schoolphuket.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.phuket-languageschool.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "thaivisabd.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "easy-abc-th.com",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "image.mfa.go.th",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "benoit-partners.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.theknowledge.in.th",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.integrity-legal.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "thailandguide.co.uk",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.thethailandlife.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "bangkokknowledge.com",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "sans.co.th",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "visasupportthailand.com",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "visathailand.com",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "thaivisa-express.com",
+      "avgPosition": 55,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "thaivisaexpert.com",
+      "avgPosition": 56,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "thailand.themispartner.com",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.thaivisaflow.com",
+      "avgPosition": 58,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "apexeducate.com",
+      "avgPosition": 59,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "thailand-e-visas.com",
+      "avgPosition": 60,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "huahinvisa.net",
+      "avgPosition": 63,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "nomadlifestyle.io",
+      "avgPosition": 64,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.6719999999999999
+    }
+  ]
+}

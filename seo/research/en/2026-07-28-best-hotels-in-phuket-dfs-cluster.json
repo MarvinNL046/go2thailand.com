@@ -1,0 +1,1898 @@
+{
+  "captured_at": "2026-07-28T11:45:35.458Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels in phuket",
+  "costs": {
+    "suggestions": 0.02496,
+    "related": 0.02076,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "best hotels in phuket",
+    "best hotels in phuket thailand",
+    "best hotels in thailand phuket",
+    "best hotels phuket",
+    "best family friendly hotels in phuket",
+    "best family hotels in phuket",
+    "best family hotels in phuket thailand",
+    "best hotels in phuket for families",
+    "best beach hotels in phuket thailand",
+    "best hotels in phuket on the beach",
+    "best hotels in phuket thailand on the beach",
+    "best hotels in patong phuket",
+    "best hotels in patong phuket thailand",
+    "best hotels in phuket patong",
+    "best hotels in karon beach phuket",
+    "best hotels in phuket luxury",
+    "best luxury hotels in phuket",
+    "best luxury hotels in phuket thailand",
+    "best luxury hotels phuket"
+  ],
+  "keywords": [
+    {
+      "keyword": "phuket hotels",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in thailand phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rosewood phuket",
+      "volume": 1900,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in phuket",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "seaview patong hotel",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong hotel",
+      "volume": 880,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels phuket",
+      "volume": 720,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach hotels",
+      "volume": 390,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best family friendly hotels in phuket",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best family hotels in phuket",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best family hotels in phuket thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket for families",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beach hotels in phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beach hotels in phuket thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beachfront hotels in phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotel in phuket on the beach",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket beach",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket on the beach",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket thailand on the beach",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in patong phuket",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in patong phuket thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket patong",
+      "volume": 140,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best resort in phuket for families",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in karon beach phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket luxury",
+      "volume": 110,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotel phuket thailand",
+      "volume": 110,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in phuket",
+      "volume": 110,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in phuket thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels phuket",
+      "volume": 110,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 5 star hotels in phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 5 star hotels in phuket thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 5 star hotels phuket",
+      "volume": 90,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 5-star hotels in phuket",
+      "volume": 90,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best area to stay in phuket for couples",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best five star hotels in phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in kata beach phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket 5 star",
+      "volume": 90,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket 5-star",
+      "volume": 90,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket kata beach",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels near bangla road phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach resort",
+      "volume": 90,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in patong beach phuket",
+      "volume": 70,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in patong beach phuket thailand",
+      "volume": 70,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket on patong beach",
+      "volume": 70,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket patong beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in patong phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in phuket with private beach",
+      "volume": 50,
+      "kd": 56,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotel phuket patong beach",
+      "volume": 50,
+      "kd": 43,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in patong beach phuket thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in phuket with private beach",
+      "volume": 50,
+      "kd": 53,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best all inclusive hotels in phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best area to stay in phuket for families",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket for couples",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in phuket for first timers",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels to stay in phuket",
+      "volume": 40,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket resorts with private beach",
+      "volume": 40,
+      "kd": 18,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rosewood phuket reviews",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury resorts phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best resorts in phuket for couples",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels kata beach phuket",
+      "volume": 20,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best affordable hotels in phuket",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best boutique hotels phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best budget hotels in phuket",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in karon phuket",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels patong beach near bangla road",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket beach resorts 5 star",
+      "volume": 20,
+      "kd": 60,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket hotels on the beach 5 star",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rosewood phuket photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rosewood phuket wedding",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the best hotels in phuket",
+      "volume": 20,
+      "kd": 34,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "10 best hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "10 best hotels in phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "3-star hotels in phuket near patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "3-star hotels near bangla road phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4 star hotels in phuket patong beach",
+      "volume": 10,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4-star hotels in phuket patong beach",
+      "volume": 10,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels phuket tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangla road phuket to patong beach",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 3 star hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 4 star hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 4 star hotels in phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 4-star hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 5 star hotels in patong beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 5 star hotels in phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best area to stay in phuket for couples reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in phuket for solo travellers",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in phuket for tourist",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beach hotels in phuket for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beach hotels in phuket for families",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beach side hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beachfront hotels in patong phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best cheap hotels in phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best family hotels in phuket area",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best guest friendly hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best honeymoon hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels and resorts in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels for honeymoon in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in kata phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in old town phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket and krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket city",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket conde nast",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket for honeymoon",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket for solo travellers",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket near airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket near bangla road",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket near beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket near patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket telegraph",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket thailand for families",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket thailand for honeymoon",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket with private beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket with private pool",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket with sea view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels near bangla road phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels phuket tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels to stay in phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury family hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in phuket for families",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in phuket on the beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best party hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best party hotels in phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best places to stay in phuket for young adults",
+      "volume": 10,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pool villa hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best romantic hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sea view hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best spa hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best value hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best view hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best villa hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "boutique hotel phuket patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap and best hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts in phuket with private beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach hotel booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong hotel reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket luxury hotels on the beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rosewood phuket beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rosewood phuket booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rosewood phuket map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rosewood phuket restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "small luxury hotels phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top luxury hotels in phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tripadvisor best hotels in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to stay in phuket for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 3 star hotels in phuket patong beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 3-star hotels in phuket patong beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 4 star hotels in patong beach phuket",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels for bachelors in phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket 2017",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in phuket 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best website to book hotels in phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best wedding hotels in phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "telegraph best hotels in phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 3.888888888888889,
+      "keywordCount": 9,
+      "visibility": 6.4,
+      "estimatedTraffic": 243.38
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 4.111111111111111,
+      "keywordCount": 9,
+      "visibility": 6.2,
+      "estimatedTraffic": 187.177
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 8.88888888888889,
+      "keywordCount": 9,
+      "visibility": 2.949999999999999,
+      "estimatedTraffic": 240.20900000000003
+    },
+    {
+      "domain": "www.mrandmrssmith.com",
+      "avgPosition": 3.75,
+      "keywordCount": 8,
+      "visibility": 5.799999999999999,
+      "estimatedTraffic": 225.11899999999997
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 14.444444444444445,
+      "keywordCount": 9,
+      "visibility": 0.95,
+      "estimatedTraffic": 27.813
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 6.25,
+      "keywordCount": 8,
+      "visibility": 4.550000000000001,
+      "estimatedTraffic": 373.621
+    },
+    {
+      "domain": "www.jamiesphuketblog.com",
+      "avgPosition": 9.25,
+      "keywordCount": 8,
+      "visibility": 3.2,
+      "estimatedTraffic": 146.75
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 9,
+      "visibility": 0.05,
+      "estimatedTraffic": 11.152
+    },
+    {
+      "domain": "www.fivestaralliance.com",
+      "avgPosition": 21,
+      "keywordCount": 8,
+      "visibility": 0.2,
+      "estimatedTraffic": 8.982999999999999
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 12.714285714285714,
+      "keywordCount": 7,
+      "visibility": 2.45,
+      "estimatedTraffic": 37.94499999999999
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 24.125,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 9.924999999999999
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 19.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.85,
+      "estimatedTraffic": 20.820999999999998
+    },
+    {
+      "domain": "slh.com",
+      "avgPosition": 8.833333333333334,
+      "keywordCount": 6,
+      "visibility": 1.5500000000000003,
+      "estimatedTraffic": 48.391
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 23.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.55,
+      "estimatedTraffic": 11.101999999999999
+    },
+    {
+      "domain": "www.travelplusstyle.com",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 8.712
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.4,
+      "estimatedTraffic": 11.336999999999998
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 29.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 19.045
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 29.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 7.59
+    },
+    {
+      "domain": "www.myboutiquehotel.com",
+      "avgPosition": 22.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.997
+    },
+    {
+      "domain": "www.glamourmagazine.co.uk",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.57
+    },
+    {
+      "domain": "theluxurytravelexpert.com",
+      "avgPosition": 18.6,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.97
+    },
+    {
+      "domain": "www.sandymakessense.com",
+      "avgPosition": 21.8,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.068
+    },
+    {
+      "domain": "www.asthebirdfliesblog.com",
+      "avgPosition": 4,
+      "keywordCount": 4,
+      "visibility": 2.8,
+      "estimatedTraffic": 50.754
+    },
+    {
+      "domain": "www.designhotels.com",
+      "avgPosition": 24.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 4.936
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 7.5,
+      "keywordCount": 4,
+      "visibility": 2.05,
+      "estimatedTraffic": 20.259
+    },
+    {
+      "domain": "theluxuryeditor.com",
+      "avgPosition": 39,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 5.46
+    },
+    {
+      "domain": "www.elegantresorts.co.uk",
+      "avgPosition": 8.75,
+      "keywordCount": 4,
+      "visibility": 0.9000000000000001,
+      "estimatedTraffic": 7.226999999999999
+    },
+    {
+      "domain": "luxuryhotel.world",
+      "avgPosition": 41.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 5.207999999999999
+    },
+    {
+      "domain": "thehoteljournal.com",
+      "avgPosition": 16.25,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.892
+    },
+    {
+      "domain": "www.cntravellerme.com",
+      "avgPosition": 44.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 5.46
+    },
+    {
+      "domain": "www.oyster.com",
+      "avgPosition": 53.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.6879999999999993
+    },
+    {
+      "domain": "www.americanexpress.com",
+      "avgPosition": 19.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.43
+    },
+    {
+      "domain": "www.thetimes.com",
+      "avgPosition": 38.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 5.2509999999999994
+    },
+    {
+      "domain": "www.wheressharon.com",
+      "avgPosition": 4,
+      "keywordCount": 3,
+      "visibility": 2.1,
+      "estimatedTraffic": 197.79
+    },
+    {
+      "domain": "www.thehotelguru.com",
+      "avgPosition": 28.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 5.439
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 29.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.427
+    },
+    {
+      "domain": "www.inspiringtravel.co.uk",
+      "avgPosition": 30.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.683
+    },
+    {
+      "domain": "en.tripadvisor.com.hk",
+      "avgPosition": 62,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.6879999999999993
+    },
+    {
+      "domain": "www.onthebeach.co.uk",
+      "avgPosition": 11.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.9000000000000001,
+      "estimatedTraffic": 35.589999999999996
+    },
+    {
+      "domain": "hotelsofphuket.net",
+      "avgPosition": 37.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.7429999999999999
+    },
+    {
+      "domain": "www.thaiholidayguide.com",
+      "avgPosition": 38,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "www.lhw.com",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.166
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 23.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.1529999999999996
+    },
+    {
+      "domain": "www.thavornpalmbeach.com",
+      "avgPosition": 24,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.6039999999999999
+    },
+    {
+      "domain": "www.gourmettraveller.com.au",
+      "avgPosition": 43.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "en.escapio.com",
+      "avgPosition": 30.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "www.top25hotels.com",
+      "avgPosition": 48,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.683
+    },
+    {
+      "domain": "beta.luxeglobalawards.com",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.825
+    },
+    {
+      "domain": "grantourismotravels.com",
+      "avgPosition": 49.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.683
+    },
+    {
+      "domain": "sethlui.com",
+      "avgPosition": 50,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.683
+    }
+  ]
+}

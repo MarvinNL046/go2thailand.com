@@ -6,9 +6,14 @@ category: "news"
 author:
   name: "Go2Thailand Team"
 tags: ["thailand politics", "anutin charnvirakul", "bhumjaithai party", "thailand government 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-anutin-reelected-prime-minister-march-2026-hero.webp"
 draft: false
 lastUpdated: "2026-03-29"
+sources:
+  - name: "Thailand Government Public Relations Department: parliamentary vote"
+    url: "https://thailand.prd.go.th/en/content/category/detail/id/48/iid/486890"
+  - name: "Thailand Government Public Relations Department: Royal Command"
+    url: "https://thailand.prd.go.th/en/content/category/detail/id/48/iid/487230"
 ---
 
 ## Anutin Charnvirakul Wins Second Term as Prime Minister
@@ -33,11 +38,11 @@ Sophon previously served as Thailand's transport minister from 2008 to 2011 and 
 
 For tourists and expats, political stability is generally positive news. A stable government is more likely to follow through on tourism policies, including the ongoing push to attract [higher-spending visitors](/blog/thailand-tourism-next-strategy-value-over-volume-2026/) and infrastructure improvements. The Bhumjaithai-led government has previously supported tourism-friendly measures such as visa extensions and the [Digital Nomad (DTV) visa program](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/).
 
-A new cabinet is expected to be formed in the coming weeks, which will clarify the direction of tourism and economic policy for the remainder of 2026. The government's handling of key issues — from [airfare relief through jet fuel tax cuts](/blog/thailand-airlines-jet-fuel-tax-cut-proposal-march-2026/) to the [controversial 60-to-30-day visa-free stay reduction](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) — will be closely watched by the travel industry.
+A new cabinet is expected to be formed in the coming weeks, which will clarify the direction of tourism and economic policy for the remainder of 2026. The government's handling of key issues — from [airfare relief through jet fuel tax cuts](/blog/thailand-airlines-jet-fuel-tax-cut-proposal-march-2026/) to proposals affecting visa exemption — will be closely watched by the travel industry. Travellers should use the dated [visa-exemption owner](/visa/visa-free-entry/) for the rule currently in force.
 
 Tourism is under pressure: [Thailand recorded 7 million visitors in March 2026](/blog/thailand-tourism-7-million-visitors-march-2026/) but faces mounting competition from regional rivals. The government has also been managing [TAT's crisis monitoring centre](/blog/thailand-tat-crisis-monitoring-centre-march-2026/) amid broader [geopolitical and economic uncertainty affecting tourism in 2026](/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/).
 
-For visitors planning a trip, it is worth reviewing the [Thailand visa guide for 2026](/blog/thailand-visa-guide-2026/) and keeping up with [Thailand's tourism growth targets](/blog/thailand-tourism-growth-target-2026-recovery-after-2025-decline/) to understand the policy environment shaping your experience. Those considering longer stays should read our guide on [where to live in Bangkok as an expat](/blog/where-to-live-bangkok-neighborhood-guide-expats/) and the [Thailand first-time visitors essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/).
+For visitors planning a trip, it is worth reviewing the [Thailand visa guide for 2026](/visa/) and keeping up with [Thailand's tourism growth targets](/blog/thailand-tourism-growth-target-2026-recovery-after-2025-decline/) to understand the policy environment shaping your experience. Those considering longer stays should read our guide on [where to live in Bangkok as an expat](/blog/where-to-live-bangkok-neighborhood-guide-expats/) and the [Thailand first-time visitors essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/).
 
 **Sources:**
 - [Thailand's Anutin reelected PM - CNBC](https://www.cnbc.com/2026/03/19/thailands-anutin-reelected-pm-after-crushing-rival-in-parliamentary-vote.html)

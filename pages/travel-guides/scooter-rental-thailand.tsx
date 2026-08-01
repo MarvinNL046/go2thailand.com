@@ -4,6 +4,8 @@ import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import guideData from '../../data/travel-guides/scooter-rental-thailand.json';
+import ThailandScooterRentalGuideNl from '../../components/editorial/ThailandScooterRentalGuideNl';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 
 interface FAQ {
   question: string;
@@ -17,6 +19,11 @@ interface ScooterGuideProps {
 export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) {
+    return <ThailandScooterRentalGuideNl />;
+  }
+  return <StaticTravelGuideOwnerEn owner="scooter" />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -158,7 +165,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
               </div>
 
               <p className="text-center mt-6">
-                <Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline font-medium">
+                <Link href="/travel-insurance/" className="text-thailand-blue hover:underline font-medium">
                   {isNl ? 'Vergelijk reisverzekeringen met motordekking \u2192' : 'Compare travel insurance options with motorcycle coverage \u2192'}
                 </Link>
               </p>
@@ -325,7 +332,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
                   </p>
                 </div>
               </Link>
-              <Link href="/travel-insurance-thailand/" className="group">
+              <Link href="/travel-insurance/" className="group">
                 <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-3">\uD83D\uDEE1\uFE0F</div>
                   <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">
@@ -344,10 +351,10 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
   return {
     props: {
-      data: guideData
+      data: locale === 'nl' ? guideData : null
     }
   };
 };

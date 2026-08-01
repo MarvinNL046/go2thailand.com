@@ -1,4 +1,7 @@
 import Link from 'next/link';
+import { useRouter } from 'next/router';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
+import { normalizeNlInternalHref } from '../lib/nl-route-owners';
 
 interface BridgeLink {
   href: string;
@@ -46,15 +49,19 @@ const BRIDGE_LINKS: Record<string, (props: ContentBridgeProps) => BridgeLink[]> 
 };
 
 export default function ContentBridge({ context, citySlug, cityName }: ContentBridgeProps) {
+  const { locale } = useRouter();
   const getLinks = BRIDGE_LINKS[context];
   if (!getLinks) return null;
-  const links = getLinks({ context, citySlug, cityName });
+  const links = getLinks({ context, citySlug, cityName }).map(link => ({
+    ...link,
+    href: locale === 'nl' ? normalizeNlInternalHref(link.href) : normalizeEnInternalHref(link.href),
+  }));
 
   return (
     <section className="bg-surface-cream py-10 mt-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h3 className="text-lg font-bold font-heading text-gray-900 mb-4 text-center">
-          Continue Exploring
+          {locale === 'nl' ? 'Verder ontdekken' : 'Continue Exploring'}
         </h3>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
           {links.map((link) => (

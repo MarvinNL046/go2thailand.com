@@ -1,0 +1,352 @@
+{
+  "captured_at": "2026-07-29T15:32:13.747Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "pad mee korat",
+  "costs": {
+    "suggestions": 0.01284,
+    "related": 0.0126,
+    "competitors": 0.01632
+  },
+  "competitorKeywords": [
+    "pad mee korat",
+    "pad mee korat hot thai kitchen",
+    "pad mee korat recipe",
+    "pad mee korat vs pad thai"
+  ],
+  "keywords": [
+    {
+      "keyword": "pad mee korat",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad mee thai",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "marion's kitchen pad mee korat",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad mee korat hot thai kitchen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad mee korat near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad mee korat recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad mee korat vs pad thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic pad mee korat",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 27.36
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 14.58
+    },
+    {
+      "domain": "thatspicychick.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 8.757
+    },
+    {
+      "domain": "schoolofwok.co.uk",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 5.931
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 4.221
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 3.042
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 2.3040000000000003
+    },
+    {
+      "domain": "www.simplysuwanee.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.017
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8190000000000001
+    },
+    {
+      "domain": "www.chezmaryb.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.6749999999999999
+    },
+    {
+      "domain": "cravingsbychrissyteigen.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.504
+    },
+    {
+      "domain": "www.asiancook.eu",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.459
+    },
+    {
+      "domain": "www.slurrp.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.387
+    },
+    {
+      "domain": "sliceofgourmet.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.297
+    },
+    {
+      "domain": "www.shutterstock.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.207
+    },
+    {
+      "domain": "www.nourthai.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.ramenheaven.de",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.konkrua.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.meemeekorat.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "foodish.cooking",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "importfood.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.thailandblog.nl",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.pinterest.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.amazon.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "millasmat.com",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "thericechick.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 48,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.grocery.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "nicacioprev.com",
+      "avgPosition": 55,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.penguinrandomhouse.ca",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "thaigourmetflavors.com",
+      "avgPosition": 59,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 62,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 63,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.vice.com",
+      "avgPosition": 66,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 68,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    }
+  ]
+}

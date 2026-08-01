@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-07-26T03:31:01.660Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/city/rayong/attractions/koh-samet/",
+  "cost": 0.01224,
+  "rankings": [
+    {
+      "keyword": "ko samet",
+      "position": 100,
+      "volume": 590,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/rayong/attractions/koh-samet/"
+    },
+    {
+      "keyword": "samet",
+      "position": 89,
+      "volume": 170,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/rayong/attractions/koh-samet/"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "captured_at": "2026-07-28T03:27:35.329Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "mee hokkien phuket",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "mee hokkien phuket"
+  ],
+  "keywords": [
+    {
+      "keyword": "go tee mee hokkien phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mee hokkien phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

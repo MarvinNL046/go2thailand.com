@@ -1,0 +1,2206 @@
+{
+  "captured_at": "2026-07-27T11:11:14.287Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "surin beach",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.01404,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "surin beach",
+    "twinpalms phuket surin beach",
+    "twinpalms surin beach phuket",
+    "surin beach phuket thailand",
+    "hotels in surin beach phuket",
+    "surin beach hotels",
+    "phuket surin beach hotels",
+    "surin beach hotels phuket thailand",
+    "surin beach thailand",
+    "surin thailand beach",
+    "restaurants in surin beach",
+    "surin beach nightlife",
+    "surin beach phuket hotels",
+    "surin beach phuket nightlife",
+    "surin beach resorts",
+    "surin beach restaurants",
+    "outrigger surin beach resort reviews",
+    "surin beach to patong",
+    "twinpalms surin beach phuket reviews"
+  ],
+  "keywords": [
+    {
+      "keyword": "phuket surin beach",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket",
+      "volume": 1600,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "twinpalms phuket surin beach",
+      "volume": 480,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "twinpalms surin beach phuket",
+      "volume": 480,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "outrigger surin beach resort",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort phuket surin beach",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket thailand",
+      "volume": 140,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in surin beach phuket",
+      "volume": 90,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach hotel",
+      "volume": 90,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach hotels",
+      "volume": 90,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "twinpalms surin beach",
+      "volume": 90,
+      "kd": 13,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn surin beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "norn talay surin beach phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "outrigger surin beach",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket surin beach hotel",
+      "volume": 50,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket surin beach hotels",
+      "volume": 50,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach hotel phuket",
+      "volume": 50,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach hotels phuket",
+      "volume": 50,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach hotels phuket thailand",
+      "volume": 50,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach thailand",
+      "volume": 50,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin thailand beach",
+      "volume": 50,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beach restaurant by the surin phuket",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn phuket surin beach",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach muay thai",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "6th avenue surin beach",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort phuket surin beach reviews",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket surin beach resort",
+      "volume": 30,
+      "kd": 19,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurant surin beach phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in surin beach",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants surin beach",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket hotels",
+      "volume": 30,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket restaurants",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach resort",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach resorts",
+      "volume": 30,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach restaurants",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "outrigger surin beach resort phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "outrigger surin beach resort reviews",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "palmyrah surin beach residence",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket maps",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach to patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "twinpalms surin beach phuket reviews",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5 star hotels surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "6th avenue surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airbnb surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "audy restaurant surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao or surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beach club surin phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beach restaurant by the surin phuket menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beach restaurant surin",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants near surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "car rental surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "catch beach club surin phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chan restaurant surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chedi hotel phuket surin beach thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "destination resort phuket surin beach",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "destination resorts phuket surin beach",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn phuket surin beach photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort phuket surin beach by ihg photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort phuket surin beach location",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn resort phuket surin beach photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday inn surin beach reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel surin beach phuket",
+      "volume": 10,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels near surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels surin beach phuket",
+      "volume": 10,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how far is surin beach from phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is surin beach nice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury villas surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "manathai surin beach resort",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "norn talay surin beach phuket photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "norn talay surin beach phuket prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "norn talay surin beach phuket reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "norn talay surin beach phuket tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket surin beach resort",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket surin beach resort hotel",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket surin beach resort review",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket surin beach resort reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket surin beach resort tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel surin beach",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel surin beach phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel surin beach resort",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel surin beach tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "outrigger surin beach resort photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "outrigger surin beach resort review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "outrigger surin beach resort tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pansea surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket webcam surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rachawadee surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resort phuket surin beach",
+      "volume": 10,
+      "kd": 17,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resorts surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants near surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sunset surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach bars",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach club",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach club phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach directions",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach holidays",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach hotels tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach live cam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach markets",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach massage",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach new years eve",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket new years eve",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach phuket weather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach residence",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach residence phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach resort agoda",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach resort phuket",
+      "volume": 10,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach resort phuket thailand",
+      "volume": 10,
+      "kd": 30,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach resort reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach spa",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach sunset",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach surf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach surf report",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach surfing",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach thailand hotels",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach to airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach to bang tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surin beach to phi phi island",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach to phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach to phuket town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach tsunami",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach villas",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach weather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach webcam",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taste restaurant surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taxi from phuket airport to surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the aristo condo 2 surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the chedi surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the surin beach",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the surin beach hotel",
+      "volume": 10,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the surin beach resort phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the surin beach restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the surin beach restaurant menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the surin hotel pansea beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the thara surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do near surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tp surin beach hotel ltd",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tripadvisor surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tsunami surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "twin palms hotel surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "twin palms surin beach phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "twin palms surin beach reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "twin palms surin beach thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "twinpalms surin beach phuket & twinpalms tented camp phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "twinpalms surin beach phuket location",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "twinpalms surin beach phuket photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "twinpalms surin beach phuket prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what happened to surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is surin beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to eat surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand phuket surin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "breakfast surin beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "d restaurant surin beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "destination resort surin beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket surin beach resort booking",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket surin beach resort ex double tree surin",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel phuket surin beach resort pantip",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel surin beach family suite",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel surin beach pantip",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel surin beach reviews",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai restaurant surin beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pizza surin beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach new years eve 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach resort phuket tripadvisor",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach resort tripadvisor",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the aristo surin beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the lofts apartments surin beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the sixteenth surin beach hotel",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villa malisa surin beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "long term rentals surin beach",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel surin beach deals",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel surin beach resort reviews",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach 2020",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surin beach girl bars",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the surin beach deluxe suite",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2.5,
+      "keywordCount": 8,
+      "visibility": 6.8,
+      "estimatedTraffic": 623.494
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 3.8750000000000004,
+      "keywordCount": 8,
+      "visibility": 5.7,
+      "estimatedTraffic": 154.371
+    },
+    {
+      "domain": "www.onthebeach.co.uk",
+      "avgPosition": 4.25,
+      "keywordCount": 8,
+      "visibility": 5.4,
+      "estimatedTraffic": 131.99400000000003
+    },
+    {
+      "domain": "www.thesurinphuket.com",
+      "avgPosition": 5.75,
+      "keywordCount": 8,
+      "visibility": 6.6000000000000005,
+      "estimatedTraffic": 356.84799999999996
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 10.625,
+      "keywordCount": 8,
+      "visibility": 3.3499999999999996,
+      "estimatedTraffic": 176.958
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 8.714285714285714,
+      "keywordCount": 7,
+      "visibility": 1.8,
+      "estimatedTraffic": 17.723
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 21.875,
+      "keywordCount": 8,
+      "visibility": 2.25,
+      "estimatedTraffic": 115.06700000000001
+    },
+    {
+      "domain": "www.destination2.co.uk",
+      "avgPosition": 14.666666666666666,
+      "keywordCount": 6,
+      "visibility": 0.35,
+      "estimatedTraffic": 6.433000000000001
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 18.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.5,
+      "estimatedTraffic": 3.912
+    },
+    {
+      "domain": "www.outrigger.com",
+      "avgPosition": 7,
+      "keywordCount": 5,
+      "visibility": 2,
+      "estimatedTraffic": 9.672
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 18.2,
+      "keywordCount": 5,
+      "visibility": 0.4,
+      "estimatedTraffic": 17.342
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 21.8,
+      "keywordCount": 5,
+      "visibility": 1.85,
+      "estimatedTraffic": 19.166999999999998
+    },
+    {
+      "domain": "www.saltwater-dreaming.com",
+      "avgPosition": 35.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 18.749
+    },
+    {
+      "domain": "www.jamiesphuketblog.com",
+      "avgPosition": 9.75,
+      "keywordCount": 4,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 57.025
+    },
+    {
+      "domain": "thesurin.com-phuket.com",
+      "avgPosition": 28.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.8029999999999999
+    },
+    {
+      "domain": "ca.hotels.com",
+      "avgPosition": 12,
+      "keywordCount": 4,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 25.481
+    },
+    {
+      "domain": "thailandbeaches.org",
+      "avgPosition": 14,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 6.814
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 15.25,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.880000000000001
+    },
+    {
+      "domain": "www.scottdunn.com",
+      "avgPosition": 34.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.798
+    },
+    {
+      "domain": "www.thailandretreats.com",
+      "avgPosition": 20,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.514
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 21.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.5640000000000001
+    },
+    {
+      "domain": "www.thomascook.com",
+      "avgPosition": 22.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.8470000000000004
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 23.25,
+      "keywordCount": 4,
+      "visibility": 0.5,
+      "estimatedTraffic": 19.982999999999997
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 23.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.465
+    },
+    {
+      "domain": "phuket-tropic-tours.com",
+      "avgPosition": 26.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.864
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 29.75,
+      "keywordCount": 4,
+      "visibility": 0.45,
+      "estimatedTraffic": 7.433
+    },
+    {
+      "domain": "www.phuket-travel-secrets.com",
+      "avgPosition": 30.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.183999999999999
+    },
+    {
+      "domain": "www.phuket.go.th",
+      "avgPosition": 30.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 15.064
+    },
+    {
+      "domain": "www.sunshine.co.uk",
+      "avgPosition": 44.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.701
+    },
+    {
+      "domain": "amazinglanta.com",
+      "avgPosition": 31.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.864
+    },
+    {
+      "domain": "twinpalmshotelsresorts.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 3,
+      "visibility": 1.1,
+      "estimatedTraffic": 146.59
+    },
+    {
+      "domain": "www.clubmed.co.th",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.75,
+      "estimatedTraffic": 14.009
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 34.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.407
+    },
+    {
+      "domain": "www.easydayphuket.com",
+      "avgPosition": 34.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.864
+    },
+    {
+      "domain": "theluxtraveller.com",
+      "avgPosition": 13,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.527
+    },
+    {
+      "domain": "www.cestee.com",
+      "avgPosition": 35.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.864
+    },
+    {
+      "domain": "resortthesurinphuket.ohotel.uk",
+      "avgPosition": 48.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.798
+    },
+    {
+      "domain": "www.ihg.com",
+      "avgPosition": 14,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.499
+    },
+    {
+      "domain": "reserving.com",
+      "avgPosition": 37.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.407
+    },
+    {
+      "domain": "holidayinnsurin.com",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 0.722
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 19,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.938
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 22,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.811
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 42,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.343999999999999
+    },
+    {
+      "domain": "www.worldbeachguide.com",
+      "avgPosition": 23,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.082
+    },
+    {
+      "domain": "www.kenwoodtravel.co.uk",
+      "avgPosition": 24,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.509
+    },
+    {
+      "domain": "travelhighlife.com",
+      "avgPosition": 24.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.32
+    },
+    {
+      "domain": "www.phuket-excursions.com",
+      "avgPosition": 44.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.864
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 57,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 4.872
+    },
+    {
+      "domain": "www.tripoto.com",
+      "avgPosition": 46.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.864
+    },
+    {
+      "domain": "asiapositive.com",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.504
+    }
+  ]
+}

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "travel-tips"
 tags: ["TAGTHAi", "Thailand travel app", "sustainable travel", "eco travel Thailand", "community tourism", "TAT", "travel technology 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/tagthai-app-sustainable-travel-guide-2026-hero.webp"
 description: "TAGTHAi, Thailand's official travel app backed by TAT, now offers AI-powered trip planning and eco-tourism routes. Here is how it works and why it matters in 2026."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 ## What Is TAGTHAi?
 
-TAGTHAi — short for Thailand All-in-One Guide — is a travel platform backed by the Tourism Authority of Thailand (TAT). Available on both iOS and Android, the app bundles hotel bookings, attraction tickets, restaurant deals and curated travel routes into a single interface. Think of it as Thailand's official answer to the scattered mix of booking apps most tourists juggle on holiday. It complements tools like the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) that have streamlined the arrival process in recent years.
+TAGTHAi — short for Thailand All-in-One Guide — is a travel platform backed by the Tourism Authority of Thailand (TAT). Available on both iOS and Android, the app bundles hotel bookings, attraction tickets, restaurant deals and curated travel routes into a single interface. Think of it as Thailand's official answer to the scattered mix of booking apps most tourists juggle on holiday. It complements tools like the [Thailand Digital Arrival Card (TDAC)](/visa/digital-arrival-card/) that have streamlined the arrival process in recent years.
 
 The platform now connects over 3,000 local partners, from boutique guesthouses and hidden-gem restaurants to luxury spas and traditional craft workshops. In 2025 alone, TAGTHAi saw a 100 percent increase in downloads, surpassing four million, and a 170 percent jump in purchases.
 
@@ -65,4 +65,4 @@ For travellers who want to dig deeper into responsible travel, the [Healing Jour
 
 If you are visiting Thailand in 2026, TAGTHAi is a practical download. The eco-tourism routes are genuinely useful for anyone wanting to travel more responsibly without spending hours researching small-town destinations. And the discounts through bundled passes can save real money compared to booking everything separately.
 
-Before you travel, make sure your paperwork is in order — our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) covers the latest entry requirements. Once you have landed, TAGTHAi works particularly well for [solo travellers](/blog/thailand-solo-travel-boom-2026-tips-destinations/) and [families](/blog/thailand-with-kids-family-travel-guide/) looking to get off the beaten path. If you are planning to tick off Bangkok's attractions, pairing the app with a visit to [Space & Time Cube](/blog/space-time-cube-bangkok-immersive-metaverse-museum-2026/) — one of the city's newest immersive experiences — is a great way to start your trip.
+Before you travel, make sure your paperwork is in order — our [Thailand visa guide 2026](/visa/) covers the latest entry requirements. Once you have landed, TAGTHAi works particularly well for [solo travellers](/blog/thailand-solo-travel-boom-2026-tips-destinations/) and [families](/blog/thailand-with-kids-family-travel-guide/) looking to get off the beaten path. If you are planning to tick off Bangkok's attractions, pairing the app with a visit to [Space & Time Cube](/blog/space-time-cube-bangkok-immersive-metaverse-museum-2026/) — one of the city's newest immersive experiences — is a great way to start your trip.

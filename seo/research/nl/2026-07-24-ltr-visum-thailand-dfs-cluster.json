@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-24T04:55:08.242Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "ltr visum thailand",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "ltr visum thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "ltr visum thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

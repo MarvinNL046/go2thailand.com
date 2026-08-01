@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["Nasatta Light Festival 2026", "Ratchaburi attractions", "Thailand light festivals", "night events Thailand", "day trips from Bangkok 2026", "Fairy Dreams"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/nasatta-light-festival-ratchaburi-fairy-dreams-2026-hero.webp"
 description: "The Nasatta Light Festival 2026 transforms 30 rai of woodland in Ratchaburi into a glowing fairy-tale landscape. Open nightly until May 3 — here is everything visitors need to know."
 featured: false
 readingTime: 3
@@ -56,4 +56,4 @@ While you are in this part of the country, the [Tha Kha floating market in Samut
 
 The Nasatta Light Festival works well for [families](/blog/thailand-with-kids-family-travel-guide/), couples, and photographers. The park setting is flat and walkable, though comfortable shoes are recommended for the unpaved forest paths. Evenings can still be warm in March and April, so dress lightly and bring water. See [Thailand's rainy season travel tips](/blog/thailand-rainy-season-travel-tips-2026/) if your visit extends into May.
 
-With only a few weeks left before the festival closes on May 3, this is one of the most memorable evening activities available near Bangkok right now. If you are building a broader Thailand itinerary, our [first-timer's guide to Thailand](/blog/thailand-itinerary-first-timers/) and our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) are good starting points. And if you are thinking about adding an active element to your trip, [Muay Thai training camps for beginners](/blog/muay-thai-training-camps-thailand-beginners-guide-2026/) offers a completely different but equally unforgettable Thailand experience.
+With only a few weeks left before the festival closes on May 3, this is one of the most memorable evening activities available near Bangkok right now. If you are building a broader Thailand itinerary, our [first-timer's guide to Thailand](/blog/thailand-itinerary-first-timers/) and our [Thailand budget guide](/thailand-index/budget/) are good starting points. And if you are thinking about adding an active element to your trip, [Muay Thai training camps for beginners](/blog/muay-thai-training-camps-thailand-beginners-guide-2026/) offers a completely different but equally unforgettable Thailand experience.

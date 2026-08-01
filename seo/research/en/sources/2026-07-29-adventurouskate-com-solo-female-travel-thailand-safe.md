@@ -1,0 +1,441 @@
+# DFS parsed source — https://www.adventurouskate.com/solo-female-travel-thailand-safe/
+
+**Captured:** 2026-07-29T00:42:07.529Z
+**Cost:** 0.00015
+**HTTP status:** 200
+
+# Solo Female Travel in Thailand — Is Thailand Safe?
+
+Adventurous Kate contains affiliate links. If you make a purchase through these links, I will earn a commission at no extra cost to you. Thanks!
+
+I’ve traveled solo in Thailand several times in the past ten years. I consider it one of the best destinations in the world for women traveling on their own, including first-time solo female travelers.
+
+There are a number of guides out there, but they tend to be lacking in specific tips for women to stay safe while traveling. (Oh, and I SEE YOU, Rough Guides, with that post labeled “solo female guide to Thailand” in the search results that omits the word “female” once you click on the page and has exactly zero female-specific tips.)
+
+Additionally, you might have family or loved ones who say, “It’s not safe for a woman to travel alone in Thailand!” Believe me, I know. [Are they experienced Thailand travelers? If not, they’re not the right people to ask.](https://www.adventurouskate.com/travel-safety-always-consider-the-source/)
+
+I’m an expert on solo female travel in Thailand. I’ve spent several months in Thailand altogether, most of the time traveling solo. I’ve traveled on a shoestring budget and in luxury; I’ve traveled to big cities, small towns, quirky islands, and national parks all over the country.
+
+By this point, I have a strong perspective about what travel in Thailand is like for women, and I want to share the truth about Thailand solo travel with all of you.
+
+This post was last updated in December 2019.
+
+Table of Contents
+
+Why Travel Solo to Thailand?
+
+Group Tours to Thailand
+
+Is Thailand Good for Experienced Solo Travelers?
+
+Is Thailand Safe?
+
+What It’s Like to Travel in Thailand as a Woman
+
+Thailand Safety Tips
+
+Best Things to Do on a Thailand Solo Trip
+
+Where to Go in Thailand
+
+Best Time to Travel to Thailand
+
+How to Get Around Thailand by Plane
+
+How to Get Around Thailand by Train
+
+How to Get Around Thailand by Bus
+
+How to Get Around Thailand by Boat
+
+How to Get Around Thailand by Car
+
+How to Get Around Thailand by Motorbike
+
+Traveling Within Thai Cities
+
+What to Pack for a Solo Trip to Thailand
+
+Eating Alone in Thailand
+
+How to Meet People in Thailand
+
+Travel Insurance for Thailand
+
+If you’re a woman, you will feel safe in Thailand.
+
+At age 26, I quit my job to travel the world alone. I spent six fantastic months in Southeast Asia and turned my travel blog into a full-time business. 15 years later, I'm still traveling -- 99 countries and 7 continents -- and now living in Prague! My goal is to show YOU how you can travel the world on your own -- easily, safely, and adventurously. [Read more here.](https://www.adventurouskate.com/about-this-blog/about-kate)
+
+*Currently in the works
+
+[AK Monthly Recap: June 2026](https://www.adventurouskate.com/ak-monthly-recap-june-2026/)
+
+[AK Monthly Recap: May 2026](https://www.adventurouskate.com/ak-monthly-recap-may-2026/)
+
+[How to Attend the Cooper’s Hill Cheese Rolling](https://www.adventurouskate.com/coopers-hill-cheese-rolling/)
+
+[What NOT to Do in Uzbekistan](https://www.adventurouskate.com/what-not-to-do-in-uzbekistan/)
+
+[There’s So Much To Love About Madrid](https://www.adventurouskate.com/if-this-were-a-city-it-would-be-madrid/)
+## Why Travel Solo to Thailand?
+
+I always say, “First time in Asia? Go to Thailand!” It’s the perfect introduction to the continent. Asia can feel overwhelming if you’ve never been before. Even my friends who are very experienced travelers were nervous for their first trips to Asia.
+
+And everyone who did their first trip to Thailand said something along the lines of, “I don’t know what I was worried about!”
+
+Not only is Thailand a fantastic destination for first-time solo female travelers, I also think it’s the ideal location for a first-time trip to Asia. Here’s why:
+
+First off, Thailand is a very easy place to travel. There is a well-worn tourist trail and great infrastructure. If you suddenly wake up in Pai and decide you want to go to Koh Phi Phi tomorrow, go to your guesthouse desk and they will purchase the combination of bus, train, and ferry tickets that will take you directly to the island.
+
+Isn’t that insane?! And there are travel agencies on every block that will do it for a bit less. (Side note: don’t go from Pai to Koh Phi Phi overland in one go. That’s a LONG journey. Flying from Chiang Mai to Krabi makes it infinitely easier and shorter.)
+
+There isn’t much of a language barrier in Thailand. If you stick to the tourist trail (and the tourist trail is vast and expansive in Thailand), people speak at least a little English. Learning a few phrases like “sawatdee-ka/kap” (hello for women/men) and “kop kun ka/kap” (thank you for women/men) will be appreciated, however.
+
+Excellent food. Even if you have no idea what Thai food is beyond pad thai, you’ll soon discover a plethora of delicious dishes. Just know that spicy is one thing, but “Thai spicy” is spicier than anything you’ve had in your life!
+
+Thailand is easy to get to. While there aren’t direct flights to Thailand from the United States, you can find easy connections via Seoul, Hong Kong, Singapore, Tokyo, Beijing, and more.
+
+[I use Skyscanner to find flights to Thailand, as they tend to have the cheapest rates.](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.skyscanner.net/)
+
+Thailand has something for everyone. Thailand is equally fantastic for young backpackers who want to party, older couples who love history, and families with young kids. It’s a safe and welcoming destination for LGBT travelers. It’s a top culinary destination.
+
+You can backpack Thailand for very cheap or bask in some of the best luxury resorts in Asia. Whether you’re a city person, a mountain person, or a beach person, you’ll find a place that’s perfect for you in Thailand. Solo travel is a blast here.
+## Is Thailand Good for First-Time Solo Travelers?
+
+If you’ve never traveled solo before, I think Thailand is a great place to start. Even though Asia may seem daunting, Thailand is as easy as Asia gets.
+
+Thailand has been a popular travel destination for a long time and you’ll find tons of travel infrastructure for backpackers, mid-range travelers, and luxury travelers. Transportation is easy and the language barrier is minimal. Internet access is excellent.
+
+Thai food will likely be familiar to you — pad Thai, green curries, tom yum soups — and this is a great opportunity to break out of your usual Thai food orders.
+
+And because Thailand is so cheap, it’s easy to justify spending a bit more money to feel more safe and secure — like taking a taxi at night instead of the Skytrain, or spending a bit more for a hotel in a central location.
+### Group Tours to Thailand
+
+If you want to go to Thailand and you’ve never traveled solo before, you may enjoy joining a tour group.
+
+[G Adventures](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.gadventures.com/), a tour company I’ve traveled with and recommend, offers several group tours to Thailand. Here are a few of their Thailand tours:
+
+[Classic Thailand: East Coast](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.gadventures.com/trips/classic-thailand-east-coast/ATNB/) (14 days, Bangkok to Koh Tao) — A ton of variety in a two-week Thailand trip.
+
+[Bangkok to Chiang Mai Express](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.gadventures.com/trips/bangkok-to-chiang-mai-express/ATNR/) (7 days, Bangkok to Chiang Mai) — A short weeklong trip with some northern highlights.
+
+[Thailand Hike, Bike, and Kayak](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.gadventures.com/trips/thailand-hike-bike-kayak/ATHB/) (14 days from Bangkok) — An active trip all over the country, including hill tribe trekking.
+
+[Sailing Thailand — Phuket to Phuket](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.gadventures.com/trips/sailing-thailand-phuket-to-phuket/ATSA/) (7 days from Phuket) — A week sailing the islands on the Andaman coast.
+
+[See all their Thailand tours here.](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.gadventures.com/search/?f=665dbe6c19ec)
+## Is Thailand Good for Experienced Solo Travelers?
+
+You can have a great time in Thailand if you’re an experienced solo traveler. If you’re used to traveling in developing countries, you’ll find Thailand to be a very easy destinations.
+
+If you’ve done a lot of solo travel, though, you probably have a lower tolerance for tourist zones. I would steer clear of touristy zones like Khao San Road and Patong in Phuket.
+
+If you’re heading for the islands, I’d recommend avoiding the best known islands and heading to lesser-known islands like Koh Kood, Koh Mak, or Koh Kraden. Many of the better known islands are overwhelmed with tourists.
+
+In Thailand, solo travel is very common for newbie travelers and experienced travelers. It’s up to you where you want to spend your time.
+## Is Thailand Safe?
+
+Generally speaking, Thailand is a very safe country to visit as a traveler. Violent crime against foreigners is extremely rare, and most theft can be prevented with common sense. Petty criminals tend to seek out inebriated travelers, which makes it all the more important to stay sober enough to know what you’re doing.
+
+That doesn’t mean that nothing bad happens, ever. There’s no 100% perfectly safe location on the planet. Even if you follow every precaution, you can still get robbed. You occasionally hear about a traveler dying in Thailand, and while these incidents are tragic, they are uncommon, just as tragedies are uncommon in your home country.
+
+While you occasionally hear of terrorism and bombings, these tend to be in off-the-beaten-path destinations in far southern Thailand. There was one bombing at Erawan Shine in Bangkok, a busy and well-traversed area, in 2015. Again, these incidents are rare, but they happen — in Bangkok, in New York, in Paris.
+
+Overall, traveling in Thailand as a solo woman is often as safe or safer than staying in your hometown.
+## What It’s Like to Travel in Thailand as a Woman
+
+Traveling alone as a woman in Thailand is a safe and secure experience, and I feel very comfortable there. In fact, I feel safer and more comfortable in Thailand than almost any other destination. Here’s why:
+
+Catcalling and street harassment are nearly nonexistent. It’s almost disconcerting how pleasant it is. If any man catcalls you as you walk down the street, it will likely be a foreign visitor, not a Thai.
+
+The closest I’ve been to being hit on by a Thai was a makeup salesman at MAC who shyly told me, “I like your eye.”
+
+People are out all night in Thailand. You see people manning street carts even late at night. This is good because it means you’ll never be alone on the street. That in itself is huge for safety.
+
+Thai people are incredibly kind and welcoming. Just like anywhere else in the world, 98% of people are nice and the other 2% are jerks, but I think Thai people are a lot kinder, a lot more open, and much gentler than the general population of the world.
+
+Here are a few things to know as a woman:
+
+Tampons and pads are readily available, but… It’s hard to find tampons with applicators. You can get them at drugstores like Boots or Tesco Lotus; otherwise, get your products at 7-Eleven. That said, I recommend you use a [DivaCup](https://www.amazon.com/gp/product/B000FAG6X0/ref=as_at/?imprToken=OsXOB1wCVZHlNS-hEax3.g&slotNum=0&ie=UTF8&camp=1789&creative=390957&creativeASIN=B000FAG6X0&linkCode=w61&tag=advkatasolfem-20&linkId=UC6OQ2TCTQ3FP4M3) instead for convenience, packing, and environmental reasons ( [read why here](https://www.adventurouskate.com/should-you-use-a-diva-cup/) ).
+
+Condoms are also readily available. You can get them at 7-Eleven, including Western brands like Durex and Trojan. And in the event that you get a UTI, just head to a pharmacy and they’ll give you a prescription. Thai pharmacists often prescribe Cipro for UTIs; check with your doctor at home to see if taking it is right for you.
+
+Women are not permitted to touch monks. Don’t sit next to them or walk next to them, either. If you give them something, put it down on the table in front of you and let them pick it up.
+
+Many Thai toiletries have bleaching agents added to them. This even happens in products you wouldn’t expect, like deodorant. Be sure to read the labels when you buy any skin products.
+
+Want to go off the beaten path in Thailand?
+
+[Check out Khao Sok National Park!](https://www.adventurouskate.com/khao-sok-cliffs-and-adventure-in-southern-thailand/)
+## Thailand Safety Tips
+
+“Is Thailand safe?” is the question of most solo female travelers. Like most destinations in the world, Thailand safety is all about researching in advance and having common sense. Here are some tips that I recommend:
+
+Keep your drinks close to you. Don’t take drinks from strangers and don’t leave them out when you’re drinking them. Watch them like a hawk.
+
+Don’t drink too much. Be in a state where you’re aware of your surroundings. I generally recommend sticking to two drinks per night.
+
+Be cautious of bucket cocktails. These buckets are made from Sangsom (“Thai whiskey,” technically rum), Coke, and Red Bull. Each bucket is worth several drinks and the Coke and Red Bull keep you caffeinated so you don’t realize how drunk you are. These can be very dangerous and I only get one if sharing with friends.
+
+Lock up your valuables in a portable safe in your hotel room. I lock up my valuables in my [Pacsafe Travelsafe](https://www.amazon.com/gp/product/B00E8BK6KQ/ref=as_at/?imprToken=4sFr5gk7EM9lsbn9Zx2Lsg&slotNum=2&ie=UTF8&camp=1789&creative=390957&creativeASIN=B00E8BK6KQ&linkCode=w61&tag=advkatasolfem-20&linkId=TCTIQDMFWBQV4ANB) and I consider it [the most important thing I pack](https://www.adventurouskate.com/the-most-important-item-i-pack-pacsafe-travelsafe-review/).
+
+READ MORE:
+
+[How to Protect Your Belongings on the Beach](https://www.adventurouskate.com/how-to-protect-your-belongings-on-the-beach/)
+
+Cover up a bit. Thai women tend to cover up more than Westerners, and it’s good to blend in by dressing a bit more conservatively and not wearing short-shorts or super revealing tops or dresses. Do not wear your swimwear anywhere but the beach.
+
+Always cover your shoulders and knees when you visit a temple.
+
+Don’t take photos of you in front of a Buddha statue. Don’t point your feet at the Buddha, especially when sitting. These actions are disrespectful to Buddhists.
+
+Take VIP buses and avoid backpacker buses. Travel agencies will try to send you on backpacker buses, but these sometimes have drivers who are forced to work long hours and take amphetamines to stay awake. VIP buses are what the locals take.
+
+Do not take drugs, even if you’re a party drug enthusiast. First, drugs in Thailand can be cut with poisonous substances that can often lead to your death.
+
+Second, if you’re arrested while on drugs, the police have the power to do a urinalysis and use the results in a court of law.
+
+Third, if you’re caught with drugs, some corrupt police will take your passport and demand hundreds or thousands of dollars in order to get it back.
+
+Fourth, the penalties for drugs are extremely severe in Thailand. To see the worst case scenario, watch the movie Brokedown Palace.
+
+Don’t be afraid of street food. Street food is life in Thailand. Go where the crowds are; it means the food is great and there’s high turnover. You may want to start with vegetarian food and slowly ease yourself into meat.
+
+Hide your money in multiple places. Only take a small amount of cash and a debit card with you when going out. Keep the rest locked up in your room.
+
+Get an extra debit card. You should have two debit cards to two different bank accounts. If you only have one, I recommend you get a debit card from [Transferwise](https://transferwise.com/invite/u/katelynm37). Keep a few hundred dollars in your account, hide the card deep in your luggage, and use it if your primary debit card is stolen.
+
+Don’t insult the royal family. Thai people love their king, who recently passed away, and speaking badly about the royal family can get you arrested. Always rise and stand still when the national anthem plays — even in places like movie theaters.
+
+Protect yourself from the sun and heat. Bring sunscreen and a hat. If you plan on snorkeling or diving, use reef safe sunscreen ( [Stream2Sea](http://amzn.to/2AuN2Sh) is a good reef safe brand). Hydrate constantly. Water is ideal, but coconuts are great for the electrolytes!
+
+The water in Thailand is not safe to drink. For this reason, I recommend you bring a [reusable bottle](https://amzn.to/2BfX4bS) and invest in a [SteriPen water purifier](https://amzn.to/2MNTgn4) (much better and faster than tablets). Alternatively, you can bring a [LifeStraw](https://amzn.to/2MQREsM), a bottle that purifies water as you drink it through its straw.
+
+Taxi and tuk-tuk scams abound in Thailand, especially Bangkok. Most commonly, drivers will tell you an attraction is closed, then offer to take you on a super-cheap tour instead…and he will bring you to shops his friends own. (I once got hit with this at Wat Po: “You can’t go in, there is special ceremony right now!”)
+
+These shop tours aren’t dangerous, but they are annoying time-wasters. If a taxi driver offers you a tour, say no.
+
+Additionally, always ask to use the meter when riding in a taxi. Taxi drivers should always use the meter. If the driver says the meter’s not working or he doesn’t have one, it’s a scam and he’ll try to negotiate for more than what the ride should cost.
+
+Tuk-tuks are different — you negotiate their price before your trip. If you don’t, your driver will try to charge you an inflated price upon arrival.
+
+Finally, invest in a guidebook. Even as an expert traveler in the year 2017, I love guidebooks. They’re filled with detailed information about everything from travel times between cities to medical clinics serving foreigners.
+
+I’m a Lonely Planet fan and I recommend [Lonely Planet’s Guide to Thailand](http://amzn.to/2AwyRMu) or [Southeast Asia on a Shoestring](http://amzn.to/2Azozvg) if you’re visiting multiple countries in the region.
+
+KNOW BEFORE YOU GO:
+
+[Top 10 Travel Safety Tips for Women](https://www.adventurouskate.com/top-10-travel-safety-tips-for-women/)
+## Best Things to Do on a Thailand Solo Trip
+
+Get massages every single day. An hourlong massage in Bangkok usually runs around 250 baht, or a little over $7. Expect to pay a bit less in rural areas and a bit more on the beach. At prices like that, you can afford to get them daily! If you’ve never had a foot massage, this is the time to get one.
+
+Celebrate Loy Krathong. During this November holiday, locals make krathongs, or floating lanterns, and release them into the river. It’s beautiful, especially if you can make it to Chiang Mai for the Yi Peng lantern release.
+
+Find your perfect island or beach. There are plenty of them, but [my absolute favorite is Koh Lanta](https://www.adventurouskate.com/the-ultimate-girls-getaway-to-koh-lanta-thailand/).
+
+Visit [Elephant Nature Park](http://elephantnaturepark.org/) and care for rescued elephants. DO NOT RIDE AN ELEPHANT IN THAILAND, EVER. Elephant rides are animal abuse 100% of the time. Instead, visit this park that cares for rescued elephants. You can feed them, wash them, and even hug them — and unlike elephant rides, it’s not abusive at all.
+
+Learn to ride a motorbike. Motorbiking is an adventurous way to explore the countryside! I recommend learning in the northern town of Pai, where the streets are empty and the countryside is stunning.
+
+Shop like crazy. One of my favorite markets in the world is Chatuchak Market in Bangkok, only open on the weekends. This massive place has everything from furniture to local hipster clothing to live animals for sale! You can also get clothing tailored for a very cheap price.
+
+Learn to dive. Koh Tao is one of the top destinations to get scuba-certified. This will be a skill you can take around the world.
+
+Join the water fight at Songkran. Every April, Thailand erupts into a three-day water fight to celebrate the New Year. The best celebrations are in Bangkok and Chiang Mai.
+## Where to Go in Thailand
+
+What are the best places in Thailand for solo female travelers? Whether you’re looking for cities or beaches, small towns or ancient monuments, there are tons of options for all kinds of solo travelers.
+
+Bangkok is a thrilling city with more to do than you could ever fit into one vacation. The food is outstanding, the rooftop bars are insane, the people are wonderful. It’s one of my favorite cities on the planet. [I wrote a detailed accommodation guide so you can find out the best place to stay.](https://www.adventurouskate.com/where-to-stay-in-bangkok-best-neighborhoods-accommodation/)
+
+There are a lot of people who don’t like Bangkok, but I’ve found that these people tend not to be city people in general. My suggestion? Roll with it and enjoy it.
+
+In the north, Chiang Mai is a relaxing city full of temples with great night markets and an amazing street food scene. Pai is a gorgeous mountain village filled with musicians and I think it’s the ideal place to learn to ride a motorbike.
+
+If you like ancient cities, be sure to do a day trip to Ayutthaya from Bangkok, or to head further north and visit Sukhothai en route to Chiang Mai. Sukhothai in particular has surprisingly few tourists.
+
+Thailand is famous for its islands and beaches. I will always recommend Koh Lanta first. Railay in the Krabi region gets a lot of praise but I think it’s past its prime, sadly. If you’re looking for luxury beach resorts in Thailand, the best selection are in Phuket and Koh Samui.
+
+If you want to dive or just chill, Koh Tao is your place. Koh Phangan is home to the infamous Full Moon Party. I’m also a big fan of chilled out Koh Chang in That province, which is close to the Cambodian border.
+
+One nice off-the-beaten-path spot is Khao Sok National Park in the south. You can [cruise giant lakes filled with limestone karsts](https://www.adventurouskate.com/khao-sok-cliffs-and-adventure-in-southern-thailand/), canoe down rivers, and stay in over-water cabins.
+
+These are just a few suggestions — Thailand is full of great places to visit!
+
+My Favorite Place in Thailand:
+
+[Adventurous Kate’s Guide to Koh Lanta, Thailand](https://www.adventurouskate.com/the-ultimate-girls-getaway-to-koh-lanta-thailand/)
+## Best Time to Travel to Thailand
+
+Most Thailand travelers from the Northern hemisphere come to escape the winter — so Thailand is at its busiest from December through March. But what is the best time to visit Thailand?
+
+Thailand has three official seasons: hot, cool, and wet.
+
+Thailand’s cool season lasts from November through March. Temperatures are at their lowest, which makes this a very pleasant time to visit. It’s also the busiest time in Thailand. Most hotels have the highest rates during this time, with peak rates running from Christmas through New Year’s.
+
+Thailand’s hot season lasts from late March through June. Temperatures are at their hottest in April and May, which makes Songkran a very welcome holiday (see more on that below).
+
+Thailand’s wet season or monsoon season varies depending on the region. The Andaman Coast (west coast) has monsoon season roughly from June through October. The Gulf Coast (east coast) has monsoon season roughly from November through May.
+
+Monsoon season is characterized by occasional showers throughout the day. Sometimes it’s just one brief shower per day and the rest of the day is sunny. Sometimes you have longer gray days. But the nice thing about the different monsoon seasons is that you can often go from one coast to the other and have completely different weather!
+
+Keep in mind that weather in Thailand can vary enormously from year to year; this is just a general guide.
+
+One other thing: every year Chiang Mai has a burning season from March 1 through April 12, when the farmers burn their fields. I strongly recommend avoiding Chiang Mai during this time. Most locals who are able to leave the area. If you do go, be sure to wear a surgical mask whenever you’re outdoors.
+
+Personally, I love visiting the islands of the Andaman Coast in November and December. There is some rain and a Thailand trip can be a bit risky for this reason — but the streakiness of the sky leads to the most gorgeous sunsets. The sunsets are so boring by comparison in January and February.
+
+As for holidays, there are two main Thai holidays that I think are worth planning a trip to experience: Songkran and Loy Krathong/Yi Peng.
+
+Songkran is the Thai New Year and it takes place from April 13-15. The streets erupt in nonstop water fights for three days straight, as Thais wear Hawaiian shirts, run around with water guns and buckets, and douse everyone in their path (save monks and the elderly). Songkran is insanely fun and it’s one of the best things I’ve ever done in Thailand.
+
+I recommend experiencing Songkran in Bangkok (the best water fight zones are on Silom Road and Khao San Road) and Chiang Mai; it is a more muted experience in rural areas.
+
+Loy Krathong usually falls in November each year. On this holiday, Thais build krathongs (water baskets) and set them alight and afloat in the water. There are usually beauty contests and other celebrations. I celebrated Loy Krathong in Koh Lanta and was welcomed wholeheartedly by the celebrating locals.
+
+Yi Peng, a northern Thai or Lanna festival, takes place during Loy Krathong in the north. It’s characterized by its release of lanterns. Chiang Mai is home to the biggest lantern release and it’s an enormously popular event for photographers and travelers. Be sure to book far in advance, as Chiang Mai gets expensive during this fine.
+## How to Get Around Thailand Solo
+
+Is Thailand safe to get around on your own? Yes! Thailand is a very easy country to get around. In every tourist destination there are travel agencies on what seems like every corner, and that’s in addition to the guesthouses that double as travel agencies!
+
+Here are the different ways to get around Thailand:
+### How to Get Around Thailand by Plane
+
+It’s easy to get cheap flights all over Thailand. Whether you’re looking to earn points on Thai Airways flights or looking for dirt-cheap flights on Air Asia, cheap flights will save you tons of time in traveling throughout Thailand.
+
+Let me put it this way: an overnight bus or train from Bangkok to Chiang Mai is about 12 hours. A flight is about 40 minutes and usually costs less than $50.
+
+[The cheapest flights tend to be on Skyscanner. Check rates here.](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.skyscanner.net/)
+
+Keep in mind that not a lot of islands are flight-accessible. You may need to fly to Ranong, Phuket, or Krabi on the west coast, or Chumphong, Suratthani, or Koh Samui on the east coast, then get a ferry to your final destination. [You can check various Thailand ferry schedules here.](https://www.directferries.com/?dfpid=4376&affid=1185&rurl=thailand.htm)
+### How to Get Around Thailand by Train
+
+Thailand has several train lines running throughout Thailand with Bangkok as the epicenter. Many of the journeys are overnight, and I highly recommend taking one overnight train in Thailand just for the experience!
+
+Thai trains sometimes sell out in advance, especially during holidays, so I recommend booking tickets through an agency as soon as you arrive in Thailand.
+
+On overnight trains you need to book a bunk as well. Bunks are sized for Thai bodies and I don’t recommend booking a bunk if you’re very tall or plus-sized.
+
+If you’re traveling solo on a popular tourist line, like to Chiang Mai or Nong Khai (on the Laos border), expect a convivial party atmosphere among the travelers — at least until the bar closes!
+
+If you’re traveling solo on a local line, like I did to Ubon Ratchathani, expect to be asked “Why you no have boyfriend?” over and over by Thai ladies, translated through their younger relatives. I was the only one not in bed by nine.
+
+Finally, keep in mind that trains don’t go to the southern beaches. The closest a train gets is Suratthani, and from there you’ll need to take a bus to points further south.
+### How to Get Around Thailand by Bus
+
+Not all Thai buses are equal. You have regular-sized buses, usually to popular destinations, and “minibuses,” which are essentially vans.
+
+More importantly, there are cheap tourist buses, which backpackers take on long distances, and VIP buses, which are much better and safer buses.
+
+Always ask for a VIP bus, or the local bus for Thais. Many of the cheap backpacker buses are unsafe — drivers are often hopped up on amphetamines to stay awake and the vehicles are often kept in poor condition. They are not safe travel options and I urge you not to take them.
+
+VIP buses are pricier but nicer, usually taken by all Thais, and the proper way to travel long distances in Thailand by bus.
+
+Minibuses are often the only option for shorter distances.
+### How to Get Around Thailand by Boat
+
+If you’re traveling to islands or isolated beaches in Thailand, you’ll have to take a boat there. Ferries run regularly along popular routes.
+
+Some destinations, like Railay, don’t have docks big enough for ferries — you must take a longtail boat (those famous small wooden boats) to shore. Keep this in mind if you have larger luggage; you’ll have to carry it through the surf.
+
+NOTE: Please take boat safety seriously in Thailand. I survived a horrific shipwreck in Indonesia in 2011 and have since made it my mission to educate travelers of the risks of boat travel in the developing world.
+
+This is what I tell everyone: Never take a boat at night or in bad weather. Never take any “fast ferries,” they tend to sink most often. Take a larger and/or slower ferry whenever possible. If you’re on the inside, look for the exits before you depart. Grab a life jacket and sit on it during your journey, just in case.
+### How to Get Around Thailand Solo
+
+[Adventurous Kate Gets Shipwrecked in Indonesia](https://www.adventurouskate.com/adventurous-kate-gets-shipwrecked-in-indonesia/)
+### How to Get Around Thailand by Car
+
+I’ve never felt the need to rent a car in Thailand as a solo traveler, but it’s an option. It will give you the ultimate freedom to come and go as you please.
+### How to Get Around Thailand by Motorbike
+
+I definitely recommend renting a motorbike during your time in Thailand! Hitting the open road all alone on a motorbike is one of my favorite pleasures as a solo traveler.
+
+Don’t learn to ride a motorbike in a city — learn somewhere rural, like Pai or an island. Always wear a helmet.
+
+Most motorbike rental places will want to hold onto your passport while you have the bike in your possession.
+
+I’ve never gone on multi-day motorbike trips around Thailand, but [I have in Laos](https://www.adventurouskate.com/off-the-beaten-path-in-laos-the-bolaven-plateau/). My top tip is to leave your main luggage at your guesthouse and only travel with a small backpack with the essentials. You don’t want to wield a huge backpack on a motorbike.
+### Traveling Within Thai Cities
+
+When traveling locally, you can rent a motorbike or bicycle, or take taxis or tuk-tuks. Taxis should have the meter running; if they don’t have a working meter, they’re trying to scam you.
+
+Tuk-tuks look different in every Thai city. They’re best for short journeys (especially in Bangkok, as the air pollution is awful), and you negotiate a fare in advance.
+
+Bangkok has the Skytrain and MRT — two subway systems. There are also boats along the Chao Phraya and the canals within the city.
+
+If you ride a motorcycle taxi in Thailand (WOW, you are a badass!), it’s expected that women ride sidesaddle. They will provide a helmet for you to wear.
+
+In Chiang Mai, the songthaew is a popular method of transportation — it’s a red pickup truck with two rows of seats on the inside. You tell the driver where you want to go, he may pick up others along the way and the rate is 20 baht for anywhere within the city. Pay on your way out.
+## What to Pack for a Solo Trip to Thailand
+
+One nice thing about traveling in Thailand is that the shopping is great. There are a few exceptions, though — plus-size clothing is very difficult to find and even as a size 8, I found is extremely difficult to find underwear that fit.
+
+Here are some important things to pack for a solo trip to Thailand:
+
+[Flip-flops](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.thewalkingcompany.com/abeo-flip_flops-sandals) or other easy-on, easy-off sandals. You’ll be constantly taking your shoes on and off. I have arch issues and can’t wear most flip-flops but I LOVE [these flip-flops with arch support](https://www.anrdoezrs.net/links/7379926/type/dlg/https://www.thewalkingcompany.com/abeo-flip_flops-sandals) from The Walking Company.
+
+A sarong. Works as a cover-up on the beach or when visiting a temple. Extremely easy to find for cheap throughout Thailand.
+
+A [Speakeasy Travel Supply scarf](https://speakeasytravelsupply.com/?rfsn=400506.1a73c2). These scarves are ideal for travel — they all have a hidden passport pocket and some come in light fabrics perfect for Thailand. I love these scarves ( [I even designed my own!](https://speakeasytravelsupply.com/collections/adventurous-kate/?rfsn=400506.1a73c2) ).
+
+A hooded sweatshirt and long pants. Some parts of the mountains get cool at night, and buses blast the AC.
+
+A [portable safe](https://www.amazon.com/gp/product/B00E8BK6KQ/ref=as_at/?imprToken=4sFr5gk7EM9lsbn9Zx2Lsg&slotNum=2&ie=UTF8&camp=1789&creative=390957&creativeASIN=B00E8BK6KQ&linkCode=w61&tag=advkatasolfem-20&linkId=TCTIQDMFWBQV4ANB). By far the most important thing I pack — it keeps your valuables safely locked up in your room.
+
+Either a [reusable bottle](https://amzn.to/2BfX4bS) and [SteriPen water purifier](https://amzn.to/2MNTgn4) or a [LifeStraw](https://amzn.to/2MQREsM). The water isn’t safe to drink in Thailand as is, but you can drink it safely with either of these methods. This keeps you from buying bottled water and contributing to Thailand’s horrible waste epidemic.
+
+A [Divacup](https://amzn.to/35zfRME), if you menstruate. Another way to avoid buying pads and tampons and ultimately creating more waste in Thailand.
+
+[Reef safe sunscreen.](https://amzn.to/2AuN2Sh) Even if you’re not planning on diving or snorkeling, most of Thailand’s beaches are close to reefs.
+## Eating Alone in Thailand
+
+Eating alone may seem scary, but it’s a perfectly normal way to eat in Thailand! Nobody will look at you strangely for eating alone.
+
+Most travelers in Thailand tend to order the same familiar dishes over and over — green curry, pad Thai, tom yum, spring rolls, sticky rice with mango. Try to try new dishes each day. I love eating soup for breakfast in Thailand!
+
+Street food is a way of life in Thailand. Most street carts specialize in one dish and if it’s a busy place, you know it’s good! Fruit shakes are ubiquitous and delicious, but keep in mind they often contain a lot of sugar.
+
+If you’re vegetarian or vegan, Thailand will be paradise for you. You can easily eat gluten-free in Thailand — be sure to bring [the most extensive gluten-free cards for eating in Thailand](https://gumroad.com/l/GFThai), created by my friend Jodi, a expert on navigating Thailand as a celiac.
+
+Keep in mind that Thais love their food VERY spicy. Thai chefs are used to foreign palates and can prepare non-spicy or medium spicy food, but if they say “Thai spicy?” be prepared for the spiciest food of your life.
+
+If you’re eager to experience fine dining in Thailand, consider [Bo.lan](http://www.bolan.co.th/2019/), [Paste](https://www.pastebangkok.com/), or [nahm](https://www.comohotels.com/en/metropolitanbangkok/dining/nahm), all in Bangkok. Make reservations early!
+## How to Meet People in Thailand
+
+I’ve met so many friends while traveling solo in Thailand. If you’re backpacking or traveling on a budget, it’s very easy to make friends; if you’re not, it requires more of an effort but can still be done.
+
+Stay in social hostels and guesthouses. Read through the reviews of hostels and guesthouses (and keep in mind that many Thai hostels have private rooms!) and spend time in the common areas.
+
+Check out local meetups via [Meetup.com](https://www.meetup.com/). Whether you’re into travel, running, movies, board games, or just want to meet a group of nice people, there’s a Meetup for that.
+
+Couchsurfing. The Couchsurfing Thailand community isn’t just for free accommodation, it’s also for socializing. The local Couchsurfers often put on events and meetups in a variety of cities.
+
+Join local tours and events. Taking a cooking class or visiting Elephant Nature Park or doing a day trip to a few different islands is a great way to meet other travelers in Thailand! Once the day is over, ask them if they feel like getting a drink or dinner.
+
+Join the local party scene. If you’re up for party friends, join a local pub crawl tour or head to a popular bar in town.
+
+Put out feelers on social media. You never know — often a friend of yours will have a cousin or friend in Thailand at the same time as you.
+
+Tinder. If you’re looking to date or hook up, you’ll have a lot of options at your fingertips.
+
+READ MORE:
+
+[How to Travel Solo to a Party Destination](https://www.adventurouskate.com/how-to-travel-solo-to-a-party-destination/)
+## Travel Insurance for Thailand
+
+One last note — it’s absolutely vital to have travel insurance before traveling to Thailand. If you get sick or injured on your trip, or even have to be flown home, travel insurance will protect you from financial ruin. [I use and recommend World Nomads for trips to Thailand.](https://www.adventurouskate.com/recommends/worldnomads)
+
+I once had a medical issue crop up while in Bangkok and I had to see a doctor. I went to Bumrungrad Hospital (which is excellent, FYI — far better than any American hospital I’ve ever visited), got an examination and an ultrasound, got documentation, and my expenses were reimbursed by World Nomads.
+## If you’re a woman, you will feel safe in Thailand.
+
+People often ask me where the safest place for a woman to travel is. If I were considering safety alone, I would probably put Iceland and Japan at the top of the list. But right after that would be Southeast Asia, and Thailand specifically.
+
+If you’re nervous about your trip to Thailand, don’t be. Plan carefully, do your research, and then go and have the time of your life!
+
+READ NEXT:
+
+[Where to Stay in Bangkok: Best Neighborhoods and Accommodation](https://www.adventurouskate.com/where-to-stay-in-bangkok-best-neighborhoods-accommodation/)
+
+Have you taken a solo trip to Thailand? Share your tips!

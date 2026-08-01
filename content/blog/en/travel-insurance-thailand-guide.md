@@ -26,13 +26,13 @@ sources:
 
 Here's the short answer: no, Thailand does not legally require travel insurance for tourists. Here's the longer answer: skipping it is one of the biggest financial risks you can take on your trip. We've seen travelers face hospital bills of $10,000+ after scooter accidents, and others stranded when flights were cancelled during monsoon season. A policy that costs $30–80 per month can save you from financial disaster. Let's break down exactly what you need to know.
 
-Before you read on, check our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) and the [300 THB tourist entry fee explainer](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) — both affect your pre-trip planning.
+Before you read on, check our [Thailand visa guide 2026](/visa/) and the [300 THB tourist entry fee explainer](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) — both affect your pre-trip planning.
 
 ## Key Takeaways
 
 | Question | Answer |
 |----------|--------|
-| **Is insurance required?** | No, not for standard tourist entries (30-day visa exemption). |
+| **Is insurance required?** | It depends on the visa route; the current ordinary British-passport exemption does not itself list travel insurance as an entry requirement. |
 | **Is it recommended?** | Strongly yes. Thailand doesn't accept foreign health insurance. |
 | **How much does it cost?** | $30–80/month for comprehensive coverage. |
 | **Minimum medical coverage?** | At least $100,000. Ideally $250,000+. |
@@ -91,7 +91,7 @@ Covers prepaid, non-refundable expenses if you need to cancel or cut your trip s
 
 ### Personal Belongings and Theft
 
-Thailand is generally [safe for tourists](/blog/is-thailand-safe-tourists-2026/), but petty theft happens — especially on crowded beaches and in night markets. Coverage for lost, stolen, or damaged belongings adds peace of mind. Review our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) to stay aware of the most common risks.
+Thailand is generally [safe for tourists](/is-thailand-safe/), but petty theft happens — especially on crowded beaches and in night markets. Coverage for lost, stolen, or damaged belongings adds peace of mind. Review our [Thailand travel scams guide](/practical-info/scams-safety/) to stay aware of the most common risks.
 
 ### Adventure Activities
 
@@ -173,7 +173,7 @@ Here's the problem: if you crash without valid insurance coverage, you're paying
 
 If you don't have a motorcycle license, consider Genki Traveler (covers 125cc without a license) or simply don't ride. Grab and Bolt ride-hailing apps are available across Thailand and cost a fraction of the medical bills you'd face after an accident.
 
-For more on staying safe, read our [common Thailand travel mistakes](/blog/10-biggest-thailand-travel-mistakes/) and [scam awareness guide](/blog/thailand-travel-scams-2026/). Families with children should also see our [Thailand with kids guide](/blog/thailand-with-kids-family-travel-guide/) for health and safety tips specific to travelling with young travelers.
+For more on staying safe, read our [common Thailand travel mistakes](/blog/10-biggest-thailand-travel-mistakes/) and [scam awareness guide](/practical-info/scams-safety/). Families with children should also see our [Thailand with kids guide](/blog/thailand-with-kids-family-travel-guide/) for health and safety tips specific to travelling with young travelers.
 
 ---
 
@@ -193,7 +193,7 @@ Some premium credit cards (Chase Sapphire Reserve, Amex Platinum) offer travel i
 
 ### What if I need to go to the hospital?
 
-Go to the nearest hospital. In an emergency, call 1669 (Thai emergency number) or 1155 (Tourist Police). Private hospitals like Bumrungrad, Bangkok Hospital, and Samitivej have English-speaking staff and international patient departments. Contact your insurer as soon as possible. See our [best SIM card and eSIM guide for Thailand](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) to ensure you always have connectivity in an emergency.
+Go to the nearest hospital. In an emergency, call 1669 (Thai emergency number) or 1155 (Tourist Police). Private hospitals like Bumrungrad, Bangkok Hospital, and Samitivej have English-speaking staff and international patient departments. Contact your insurer as soon as possible. See our [best SIM card and eSIM guide for Thailand](/travel-guides/sim-card-thailand/) to ensure you always have connectivity in an emergency.
 
 ### How much does travel insurance cost for a 2-week Thailand trip?
 

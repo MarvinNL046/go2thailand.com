@@ -1,61 +1,76 @@
 ---
-title: "Duurzaam Toerisme Thailand: 41 Bestemmingen met 'Thailand Good Travel' Certificering"
+title: "Thailand Good Travel-keurmerk: zo controleer je het"
 slug: "thailand-good-travel-certification-41-sustainable-destinations-2026"
 date: "2026-03-23"
+lastUpdated: "2026-08-01"
 author:
   name: "Go2Thailand Editorial"
-category: "news"
-tags: ["duurzaam toerisme Thailand", "Thailand Good Travel", "groen toerisme Thailand", "eco toerisme 2026", "GSTC", "verantwoord reizen", "Thailand vakantie", "tips duurzaam reizen", "beste duurzame bestemmingen"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Thailand heeft 41 bestemmingen en toerismebedrijven het 'Thailand Good Travel'-duurzaamheidscertificaat toegekend, als onderdeel van het Green Tourism Plan 2030. Ontdek verantwoorde vakanties die natuur en gemeenschappen beschermen – ideaal voor reizigers vanuit Nederland."
+category: "sustainability"
+tags: ["Thailand Good Travel", "duurzaam reizen Thailand", "duurzaamheidskeurmerk"]
+image: "/images/redesign/editorial/thailand-good-travel-certification-41-sustainable-destinations-2026-hero.webp"
+description: "Wat zegt Thailand Good Travel werkelijk? Leer keurmerken onderscheiden en controleer hotels, tours en bestemmingen voor je boekt."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 7
 sources:
-  - name: "PRWeb - Thailand Good Travel Recognizes 41 Model Destinations"
-    url: "https://www.prweb.com/releases/thailand-good-travel-recognizes-41-model-destinations-and-tourism-operators-advancing-toward-international-standards-302719448.html"
-  - name: "Chiang Rai Times - Thailand Good Travel Certification Recognizes 41 Sustainable Tourism Leaders"
-    url: "https://www.chiangraitimes.com/national/thailand-good-travel-certification/"
-  - name: "GSTC - Thailand's Green Hotel Plus Gains GSTC-Recognized Standard Status"
-    url: "https://www.gstc.org/thailands-green-hotel-plus-gains-gstc-recognized-standards-status/"
-  - name: "TAT Newsroom - Thailand Green Tourism Plan 2030 advances sustainable future"
+  - name: "TAT — Thailand Green Tourism Plan 2030"
     url: "https://www.tatnews.org/2025/10/thailand-green-tourism-plan-2030-advances-sustainable-future/"
+  - name: "TAT — Green Destinations success at ITB Berlin 2026"
+    url: "https://www.tatnews.org/2026/03/ko-lanta-and-chiang-khan-drive-thailands-green-destinations-success-at-itb-berlin-2026/"
+  - name: "Green Destinations — Good Travel Event at ITB Berlin"
+    url: "https://www.greendestinations.org/good-travel-event-at-itb-berlin/"
 ---
 
-Thailand heeft **41 bestemmingen en toerismebedrijven** gecertificeerd onder het nieuwe 'Thailand Good Travel'-duurzaamheidslabel, een belangrijke stap in de ambitie van het koninkrijk om tegen 2030 een van de top [duurzame toerismebestemmingen ter wereld](/blog/thailand-star-green-tourism-accreditation-2026/) te worden.
+Thailand Good Travel is een nationaal programma voor duurzamer toerisme. Het klinkt als één eenvoudig keurmerk, maar de beoordeling kan slaan op een bestemming, community-initiatief, kleine accommodatie of touroperator. Wie bewust wil boeken, moet daarom niet alleen het logo herkennen maar ook de **scope en actuele registratie** controleren.
 
-## Wat is de Thailand Good Travel-certificering?
+## Correctie: geen 41 gecertificeerde bestemmingen
 
-Het Thailand Good Travel-logo is een kwaliteitskeurmerk voor verantwoord opererende toerismebedrijven. Het omvat vier categorieën toerismebedrijven – van [ethische olifantenopvangcentra](/blog/ethical-elephant-sanctuaries-thailand-2026-guide/) tot gecertificeerde stadbestemmingen:
+De oude versie van dit artikel sprak over 41 gecertificeerde bestemmingen. Dat was te stellig. Het getal verwees naar een gemengde groep deelnemers en organisaties in verschillende categorieën. Openbare primaire bronnen ondersteunen niet dat alle 41 afzonderlijke bestemmingen waren.
 
-- **Bestemmingen** geëvalueerd op 15 kerncriteria voor duurzaamheid uit 84 indicatoren
-- **Gemeenschapsgebaseerde toerismebedrijven (CBT)** beoordeeld op cultureel en milieubeheer – vergelijkbaar met het [duurzame toerisme-initiatief voor Mekong-rivierprovincies](/blog/thailand-mekong-riverside-seven-provinces-sustainable-tourism-2026/)
-- **Kleine accommodaties** met maximaal 50 kamers (onder de 'Small Good Stay'-norm)
-- **Tour operators** die voldoen aan verantwoorde bedrijfspraktijken
+Die correctie is belangrijk: duurzaamheidsclaims werken alleen als de uitleg precies blijft. De titel-URL blijft technisch bestaan, maar deze vernieuwde gids gebruikt het aantal niet langer als bestemmingsclaim.
 
-De certificering is ontwikkeld met verwijzing naar de criteria van de **Global Sustainable Tourism Council (GSTC)** en versterkt door expertise van de Green Destinations Foundation en Travelife for Tour Operators, wat het internationale geloofwaardigheid geeft. Het is ook nauw verbonden met de [tagthai-app voor duurzaam reizen](/blog/tagthai-app-sustainable-travel-guide-2026/), die bezoekers helpt gecertificeerde aanbieders ter plaatse te vinden.
+## Wat is Thailand Good Travel?
 
-## Wie zijn de gelukkigen?
+Het Department of Tourism presenteerde het programma binnen het Thailand Green Tourism Plan 2030. De beoordeling kijkt naar vier dimensies: milieu, samenleving, cultuur en economie. Het programma is ontwikkeld met verwijzing naar criteria van de Global Sustainable Tourism Council en met expertise van Green Destinations en Travelife.
 
-Van de 41 gecertificeerde operators en bestemmingen is de verdeling als volgt:
+Dat betekent niet dat iedere deelnemer automatisch **GSTC-gecertificeerd** is. GSTC-erkenning van een standaard, accreditatie van een certificeringsinstantie en certificering van een bedrijf zijn verschillende dingen. Kijk dus altijd welk programma en welke beoordelaar letterlijk worden genoemd.
 
-- **12** gecertificeerd onder de Small Good Stay-norm
-- **15** onder de Thailand Good Travel Community-Based Tourism-norm
-- **5** tourbedrijven
-- **7** bestemmingen geëvalueerd op duurzaamheidscriteria die milieu-, sociale, culturele en economische aspecten omvatten
+## Thailand Good Travel, STAR en Green Destinations
 
-## Deel van een Groter Geheel
+- **Thailand Good Travel** is een nationaal raamwerk voor verschillende soorten toerismeorganisaties en bestemmingen.
+- **STGs STAR** is een TAT-rating voor ondernemingen die bijdragen aan de Thaise Sustainable Tourism Goals.
+- **Green Destinations** is een internationaal programma voor bestemmingsbeheer, awards en certificering.
+- **Thailand Tourism Awards** belonen toerismeproducten en organisaties; een award is niet hetzelfde als een doorlopend certificaat.
 
-De certificering past binnen het bredere **Green Tourism Plan 2030** van Thailand, dat Thaise toerismebestemmingen onder de wereldtop 100 duurzame sites wil plaatsen. Het plan brengt economische groei in balans met milieubescherming en sociaal welzijn – een visie die ook doorklinkt in de [ITB Berlin 2026-presentatie over duurzaam en welzijnstoerisme](/blog/the-new-thailand-itb-berlin-2026-sustainable-wellness-tourism/).
+Een hotel kan bij één programma zijn aangesloten zonder alle andere labels te hebben. Een bestemming kan bovendien erkenning krijgen terwijl niet ieder hotel of elke tour ter plaatse afzonderlijk is beoordeeld.
 
-Thailand heeft ook een ambitieus doel gesteld via het **STAR-programma** (Sustainable Tourism Acceleration Rating): **70 procent van alle toerismebedrijven** in het land moet tegen eind 2026 STAR-gecertificeerd zijn. Deze inspanning maakt deel uit van een [breder groeidoel voor toerisme in 2026](/blog/thailand-tourism-growth-target-2026-recovery-after-2025-decline/), waarbij duurzaamheid centraal staat in de bezoekerservaring.
+## Zo controleer je een claim voor je boekt
 
-## Wat Betekent Dit voor Reizigers?
+1. Zoek de exacte naam van het bedrijf of de bestemming in de officiële deelnemerslijst.
+2. Controleer welke categorie en welk jaar bij de vermelding horen.
+3. Vraag wat er concreet wordt gemeten: water, energie, afval, vervoer, natuurbeheer of lokale inkoop.
+4. Controleer of bewoners aantoonbaar meebeslissen en delen in de opbrengst.
+5. Kijk bij natuurtours ook naar groepsgrootte, afstand tot dieren en parkregels.
 
-Voor reizigers die waarde hechten aan verantwoord toerisme, maakt het Thailand Good Travel-logo het makkelijker om operators en bestemmingen te vinden die aan geverifieerde duurzaamheidsnormen voldoen. Als je je reis rond deze waarden plant – vooral met een directe vlucht vanaf Schiphol – bekijk dan de [beste welzijnsretraites in Thailand voor 2026](/blog/best-wellness-retreats-thailand-2026/) en [vrijwilligersprogramma's voor wildlifebescherming](/blog/wildlife-conservation-volunteering-thailand-2026-turtles-elephants/) die aansluiten bij gecertificeerde bestemmingen. Let op het keurmerk bij:
+Een groen logo mag nooit een excuus worden om minder vragen te stellen. Bij een [ethische olifantenopvang](/nl/best-elephant-sanctuaries-in-thailand/) blijven activiteiten zonder rijden, shows of gedwongen contact bijvoorbeeld doorslaggevend.
 
-- Boeken van kleine hotels en guesthouses – verken opties in [Chiang Mai](/city/chiang-mai/hotels/), [Chiang Rai](/best-hotels/chiang-rai/) en [Krabi](/best-hotels/krabi/)
-- Kiezen van gemeenschapsgebaseerde tours in landelijke gebieden, inclusief de [Mekong-rivierregio](/blog/thailand-mekong-river-cruises-cultural-tourism-2026/)
-- Selecteren van tour operators voor [meerdagenreizen](/blog/thailand-10-day-itinerary/) of een [2-weken Thailand-reis](/blog/thailand-itinerary-2-weeks/)
+## Maak claims vergelijkbaar
 
-Groen toerisme is in Thailand geen niche meer. Het wordt een **standaardverwachting**, en de overheid investeert echt in de infrastructuur ervoor. Naarmate meer bedrijven certificering nastreven, krijgen bezoekers bredere opties voor reizen die lokale gemeenschappen ondersteunen en het milieu beschermen. Gerelateerd: de [Thailand Tourism Festival 2026 duurzaamheidszone](/blog/thailand-tourism-festival-2026-zero-waste-sustainability-zone/) en de [quietcation-trend](/blog/thailand-quietcation-trend-tranquil-travel-2026/) die low-impact reizen in 2026 stimuleert.
+Vraag twee aanbieders dezelfde vijf dingen. Waar komt elektriciteit vandaan? Hoe wordt drinkwater gebruikt? Welke afvalstromen worden lokaal verwerkt? Welk deel van de activiteit wordt door bewoners geleid? En hoe wordt natuurschade gemeten? Een concreet antwoord is waardevoller dan een pagina vol woorden als *eco*, *green* en *responsible*.
+
+Let ook op de schaal. Een klein hotel is niet vanzelf duurzamer dan een groot hotel; een groter bedrijf kan juist betere metingen en waterzuivering hebben. Omgekeerd zegt een energierapport weinig over lage lonen, verdringing of cultureel respect. De vier dimensies van het programma helpen precies daarom: één sterk milieupunt compenseert niet automatisch een zwak sociaal beleid.
+
+Bij een tour kun je daarnaast vragen of de aanbieder parkfees afdraagt, groepen beperkt en lokale gidsen rechtstreeks betaalt. Bij een verblijf zijn hervulstations, linnengoedbeleid en openbaar vervoer nuttig, maar controleer ook of de accommodatie op een kwetsbare kuststrook of ver buiten bestaand vervoer ligt.
+
+## Na je bezoek
+
+Een eerlijke review helpt volgende reizigers beter dan algemene lof. Noem wat je daadwerkelijk zag: werd afval gescheiden, legde de gids natuurregels uit en bleef de groep op afstand van dieren? Meld ook wanneer de uitvoering afweek van de gepubliceerde belofte. Zo wordt certificering een controleerbaar gesprek in plaats van alleen marketing.
+
+Bewaar eventueel een schermafbeelding van de officiële vermelding en de beloofde maatregelen op je boekingsdatum. Niet om op kleine verschillen te jagen, maar om bij een wezenlijke afwijking gericht vragen te kunnen stellen. Een programma blijft geloofwaardig wanneer reizigers, bedrijven en beoordelaars dezelfde openbare informatie kunnen terugvinden.
+
+## Wat jij als reiziger zelf kunt doen
+
+Blijf langer op één plek, voorkom onnodige binnenlandse vluchten, neem hervulbare spullen mee en boek lokale gidsen wanneer hun rol transparant is. Kies bovendien een regio op seizoen: een boottocht die bij slecht weer wordt afgelast is duurzamer én veiliger dan een operator die park- of weersregels negeert.
+
+Gebruik onze [weergids voor Thailand](/nl/weather/) om regio en maand te combineren. Wie drukte wil spreiden kan daarnaast [minder bekende plekken](/nl/travel-guides/hidden-gems-off-beaten-path-thailand/) opnemen zonder kwetsbare gemeenschappen als nieuwe checklistbestemming te behandelen.
+
+Thailand Good Travel is dus een nuttig startsignaal, geen eindconclusie. Controleer wie is beoordeeld, waarop en wanneer. Pas daarna zegt het keurmerk werkelijk iets over jouw keuze.

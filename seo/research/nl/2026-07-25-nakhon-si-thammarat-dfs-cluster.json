@@ -1,0 +1,546 @@
+{
+  "captured_at": "2026-07-25T10:11:22.799Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "nakhon si thammarat",
+  "costs": {
+    "suggestions": 0.01416,
+    "related": 0.01296,
+    "competitors": 0.01788
+  },
+  "competitorKeywords": [
+    "nakhon si thammarat",
+    "changwat nakhon si thammarat",
+    "khanom beach nakhon si thammarat",
+    "khanom nakhon si thammarat",
+    "khanom nakhon si thammarat thailand",
+    "mueang nakhon si thammarat district",
+    "nakhon si thammarat beaches",
+    "nakhon si thammarat nightlife",
+    "nakhon si thammarat population",
+    "nakhon si thammarat province",
+    "nakhon si thammarat religion",
+    "nakhon si thammarat temple",
+    "what to do in nakhon si thammarat"
+  ],
+  "keywords": [
+    {
+      "keyword": "nakhon si thammarat",
+      "volume": 210,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "changwat nakhon si thammarat",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat airport",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khanom beach nakhon si thammarat",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khanom nakhon si thammarat",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khanom nakhon si thammarat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mueang nakhon si thammarat district",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat beaches",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat population",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat province",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat religion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat temple",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nakhon si thammarat to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "twin lotus nakhon si thammarat",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in nakhon si thammarat",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara nakhon si thammarat",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.localherotravel.nl",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 63.839999999999996
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 34.02
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 20.433
+    },
+    {
+      "domain": "www.azie.nl",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 13.839
+    },
+    {
+      "domain": "www.expedia.nl",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 9.849
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 7.097999999999999
+    },
+    {
+      "domain": "www.exotravel.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 5.376
+    },
+    {
+      "domain": "www.google.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.15
+    },
+    {
+      "domain": "thailandinsider.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.3729999999999998
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.911
+    },
+    {
+      "domain": "thesiamsociety.org",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.575
+    },
+    {
+      "domain": "www.thailandtourismus.de",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "thailande-et-asie.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.176
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.0710000000000002
+    },
+    {
+      "domain": "www.kayak.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.903
+    },
+    {
+      "domain": "image.mfa.go.th",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.903
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.5670000000000001
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.504
+    },
+    {
+      "domain": "sa.trip.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.483
+    },
+    {
+      "domain": "www.britannica.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.462
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.sitesatlas.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.thaizer.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.theblondtravels.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.thailand.co.nl",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.tiptoptravel.nl",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.penang-traveltips.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.expedia.com",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "travelauthenticasia.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "commons.wikimedia.org",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.hellotravel.com",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.voyagethailande.fr",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.thaiguiden.no",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.tourismethai.fr",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.touronthai.com",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "travelask.co.uk",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.wheree.com",
+      "avgPosition": 56,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "thaiest.com",
+      "avgPosition": 60,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "thai.haogiayensao.com",
+      "avgPosition": 64,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.tripadvisor.com.my",
+      "avgPosition": 79,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    }
+  ]
+}

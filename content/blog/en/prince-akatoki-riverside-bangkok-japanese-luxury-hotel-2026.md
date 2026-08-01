@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "travel"
 tags: ["Prince Akatoki Bangkok", "luxury hotel Bangkok", "Chao Phraya River hotel", "new hotel Bangkok 2026", "Japanese hotel Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/prince-akatoki-riverside-bangkok-japanese-luxury-hotel-2026-hero.webp"
 description: "The Prince Akatoki Riverside Bangkok is set to open in late 2026 with 255 rooms on the Chao Phraya River, bringing Japanese luxury hospitality to Thailand for the first time."
 featured: false
 readingTime: 3
@@ -26,7 +26,7 @@ sources:
 
 Bangkok's Chao Phraya River is about to welcome another high-end hotel. The Prince Akatoki Riverside Bangkok is scheduled to open in the fourth quarter of 2026, making it the brand's first property in Southeast Asia and only the third Prince Akatoki hotel in the world, after London and an upcoming property in Guangzhou.
 
-For travellers who appreciate Japanese hospitality, this is a notable arrival. The Prince Akatoki brand is known for blending contemporary Japanese design with a focus on calm, precision and thoughtful service — something Bangkok's riverside hotel scene has not offered before. If you are researching where to stay, our [Bangkok hotels guide](/city/bangkok/hotels/) covers the full range of options across the city.
+For travellers who appreciate Japanese hospitality, this is a notable arrival. The Prince Akatoki brand is known for blending contemporary Japanese design with a focus on calm, precision and thoughtful service — something Bangkok's riverside hotel scene has not offered before. If you are researching where to stay, our [Bangkok hotels guide](/best-hotels/bangkok/) covers the full range of options across the city.
 
 ## What to Expect
 
@@ -38,7 +38,7 @@ The property is being positioned as an urban sanctuary, designed to give guests 
 
 The Prince Akatoki Riverside Bangkok sits on the west bank of the Chao Phraya River. While the exact address has not been fully publicised yet, the hotel's proximity to IconSiam and the Chao Phraya tourist boat network means it will be well connected to Sathorn Pier, the BTS system, and Bangkok's main tourist districts. You can plan your transfers easily using our [Bangkok public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/).
 
-Guests wanting to explore the riverfront independently can walk or take a short boat ride to iconic landmarks like [Wat Arun](/city/bangkok/attractions/wat-arun/) and the [Grand Palace](/city/bangkok/attractions/grand-palace/), both of which sit directly on the Chao Phraya.
+Guests wanting to explore the riverfront independently can walk or take a short boat ride to iconic landmarks like [Wat Arun](/city/bangkok/attractions/) and the [Grand Palace](/city/bangkok/attractions/), both of which sit directly on the Chao Phraya.
 
 For travellers arriving from Suvarnabhumi Airport, the riverside area is typically a 45 to 60 minute taxi ride depending on traffic.
 
@@ -48,6 +48,6 @@ Bangkok already has dozens of luxury hotels, but Japanese-branded properties rem
 
 Other notable recent additions to Bangkok's luxury market include the [Andaz One Bangkok](/blog/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026/) in Lumphini and the [newly renovated Anantara Siam](/blog/anantara-siam-bangkok-50-million-renovation-garden-suites-2026/), which underwent a major refresh. For a broader look at what is coming, our roundup of [new luxury resorts across Thailand in 2026](/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/) puts the current hotel boom in context — as does this overview of the [record hotel development pipeline in Bangkok](/blog/thailand-hotel-boom-2026-record-pipeline-bangkok-luxury/).
 
-Bangkok's nightlife is another draw for guests at riverside properties, with [new rooftop bars](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/) continuing to open throughout 2026. For those weighing up accommodation costs, our [cheapest vs most expensive hotel comparison in Bangkok](/blog/cheapest-vs-most-expensive-hotel-bangkok/) gives a useful sense of the market spread. You can also browse our curated list of [top hotels in Bangkok](/city/bangkok/top-10-hotels/) or check [best hotels Bangkok](/best-hotels/bangkok/) for a full overview.
+Bangkok's nightlife is another draw for guests at riverside properties, with [new rooftop bars](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/) continuing to open throughout 2026. If you are weighing hotel cost against location and transport friction, compare the verified choices and honest trade-offs in our [Bangkok hotel guide](/best-hotels/bangkok/), then check the current total for your own dates.
 
 If you are planning a Bangkok trip in late 2026 or 2027, The Prince Akatoki Riverside is worth keeping on your shortlist, especially if riverside living and Japanese-style service appeal to you. Our full [Bangkok city guide](/city/bangkok/) is a good starting point for planning the rest of your trip.

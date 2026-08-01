@@ -1,0 +1,69 @@
+{
+  "captured_at": "2026-07-29T15:00:05.626Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "udon thani restaurants",
+  "costs": {
+    "suggestions": 0.0126,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "udon thani restaurants",
+    "restaurants in udon thani",
+    "best restaurants in udon thani",
+    "best restaurants udon thani"
+  ],
+  "keywords": [
+    {
+      "keyword": "restaurants in udon thani",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "udon thani restaurants",
+      "volume": 20,
+      "kd": 42,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in udon thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants udon thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "udon thani restaurants kl",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

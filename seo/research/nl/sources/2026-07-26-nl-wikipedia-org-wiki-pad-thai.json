@@ -1,0 +1,986 @@
+{
+  "captured_at": "2026-07-26T00:42:33.000Z",
+  "locale": "nl",
+  "url": "https://nl.wikipedia.org/wiki/Pad_thai",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Vind een artikel",
+          "url": "https://nl.wikipedia.org/wiki/Portaal:Navigatie",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/wiki/Portaal:Navigatie",
+              "anchor_text": "Vind een artikel"
+            }
+          ]
+        },
+        {
+          "text": "Recente wijzigingen",
+          "url": "https://nl.wikipedia.org/wiki/Speciaal:RecenteWijzigingen",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/wiki/Speciaal:RecenteWijzigingen",
+              "anchor_text": "Recente wijzigingen"
+            }
+          ]
+        },
+        {
+          "text": "Nieuwe artikelen",
+          "url": "https://nl.wikipedia.org/wiki/Speciaal:NieuwePaginas",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/wiki/Speciaal:NieuwePaginas",
+              "anchor_text": "Nieuwe artikelen"
+            }
+          ]
+        },
+        {
+          "text": "Willekeurige pagina",
+          "url": "https://nl.wikipedia.org/wiki/Speciaal:Willekeurig",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/wiki/Speciaal:Willekeurig",
+              "anchor_text": "Willekeurige pagina"
+            }
+          ]
+        },
+        {
+          "text": "Speciale pagina's",
+          "url": "https://nl.wikipedia.org/wiki/Speciaal:SpecialePaginas",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/wiki/Speciaal:SpecialePaginas",
+              "anchor_text": "Speciale pagina's"
+            }
+          ]
+        },
+        {
+          "text": "Hulp en contact",
+          "url": "https://nl.wikipedia.org/wiki/Portaal:Hulp_en_beheer",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/wiki/Portaal:Hulp_en_beheer",
+              "anchor_text": "Hulp en contact"
+            }
+          ]
+        },
+        {
+          "text": "Account aanmaken",
+          "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:GebruikerAanmaken&returnto=Pad+thai",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:GebruikerAanmaken&returnto=Pad+thai",
+              "anchor_text": "Account aanmaken"
+            }
+          ]
+        },
+        {
+          "text": "Account aanmaken",
+          "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:GebruikerAanmaken&returnto=Pad+thai",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:GebruikerAanmaken&returnto=Pad+thai",
+              "anchor_text": "Account aanmaken"
+            }
+          ]
+        },
+        {
+          "text": "Naar boven",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Deze pagina is voor het laatst bewerkt op 20 aug 2024 om 02:41.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Pagina is weergegeven met Parsoid.",
+          "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+          "urls": [
+            {
+              "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+              "anchor_text": "Parsoid"
+            }
+          ]
+        },
+        {
+          "text": "De tekst is beschikbaar onder de licentie Creative Commons Naamsvermelding/Gelijk delen, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de gebruiksvoorwaarden voor meer informatie.",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.nl",
+          "urls": [
+            {
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.nl",
+              "anchor_text": "Creative Commons Naamsvermelding/Gelijk delen"
+            },
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/nl",
+              "anchor_text": "gebruiksvoorwaarden"
+            }
+          ]
+        },
+        {
+          "text": "Wikipedia® is een geregistreerd handelsmerk van de Wikimedia Foundation, Inc., een organisatie zonder winstoogmerk.",
+          "url": "https://www.wikimediafoundation.org/",
+          "urls": [
+            {
+              "url": "https://www.wikimediafoundation.org/",
+              "anchor_text": "Wikimedia Foundation, Inc."
+            }
+          ]
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Over Wikipedia",
+          "url": "https://nl.wikipedia.org/wiki/Wikipedia",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/wiki/Wikipedia",
+              "anchor_text": "Over Wikipedia"
+            }
+          ]
+        },
+        {
+          "text": "Contact juridisch & veiligheid",
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+          "urls": [
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+              "anchor_text": "Contact juridisch & veiligheid"
+            }
+          ]
+        },
+        {
+          "text": "Mobiele weergave",
+          "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&mobileaction=toggle_view_mobile",
+          "urls": [
+            {
+              "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&mobileaction=toggle_view_mobile",
+              "anchor_text": "Mobiele weergave"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Pad thai",
+        "main_title": "Pad thai",
+        "author": "Bijdragers aan Wikimedia-projecten",
+        "language": "nl",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Uit Wikipedia, de vrije encyclopedie",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Pad thai, phat thai ( Thai : ผัดไทย; 'gebakken op Thaise wijze') of kway teow pad is een populair Thais eenbordsgerecht van drooggebakken rijstnoedels dat in Thailand voornamelijk wordt verkocht in eetkraampjes en lokale eetgelegenheden.",
+            "url": "https://nl.wikipedia.org/wiki/Thai_(taal)",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Thai_(taal)",
+                "anchor_text": "Thai"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Thailand",
+                "anchor_text": "Thais"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Rijstnoedels",
+                "anchor_text": "rijstnoedels"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Bikol Central",
+            "url": "https://bcl.wikipedia.org/wiki/Pad_thai",
+            "urls": [
+              {
+                "url": "https://bcl.wikipedia.org/wiki/Pad_thai",
+                "anchor_text": "Bikol Central"
+              }
+            ]
+          },
+          {
+            "text": "Bahasa Indonesia",
+            "url": "https://id.wikipedia.org/wiki/Pad_thai",
+            "urls": [
+              {
+                "url": "https://id.wikipedia.org/wiki/Pad_thai",
+                "anchor_text": "Bahasa Indonesia"
+              }
+            ]
+          },
+          {
+            "text": "Bahasa Melayu",
+            "url": "https://ms.wikipedia.org/wiki/Pad_Thai",
+            "urls": [
+              {
+                "url": "https://ms.wikipedia.org/wiki/Pad_Thai",
+                "anchor_text": "Bahasa Melayu"
+              }
+            ]
+          },
+          {
+            "text": "Simple English",
+            "url": "https://simple.wikipedia.org/wiki/Pad_thai",
+            "urls": [
+              {
+                "url": "https://simple.wikipedia.org/wiki/Pad_thai",
+                "anchor_text": "Simple English"
+              }
+            ]
+          },
+          {
+            "text": "Tiếng Việt",
+            "url": "https://vi.wikipedia.org/wiki/Pad_Th%C3%A1i",
+            "urls": [
+              {
+                "url": "https://vi.wikipedia.org/wiki/Pad_Th%C3%A1i",
+                "anchor_text": "Tiếng Việt"
+              }
+            ]
+          },
+          {
+            "text": "Brontekst bewerken",
+            "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&action=edit",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&action=edit",
+                "anchor_text": "Brontekst bewerken"
+              }
+            ]
+          },
+          {
+            "text": "Brontekst bewerken",
+            "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&action=edit",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&action=edit",
+                "anchor_text": "Brontekst bewerken"
+              }
+            ]
+          },
+          {
+            "text": "Links naar deze pagina",
+            "url": "https://nl.wikipedia.org/wiki/Speciaal:VerwijzingenNaarHier/Pad_thai",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Speciaal:VerwijzingenNaarHier/Pad_thai",
+                "anchor_text": "Links naar deze pagina"
+              }
+            ]
+          },
+          {
+            "text": "Gerelateerde wijzigingen",
+            "url": "https://nl.wikipedia.org/wiki/Speciaal:RecenteWijzigingenGelinkt/Pad_thai",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Speciaal:RecenteWijzigingenGelinkt/Pad_thai",
+                "anchor_text": "Gerelateerde wijzigingen"
+              }
+            ]
+          },
+          {
+            "text": "Bestand uploaden",
+            "url": "https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=nl",
+            "urls": [
+              {
+                "url": "https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=nl",
+                "anchor_text": "Bestand uploaden"
+              }
+            ]
+          },
+          {
+            "text": "Permanente koppeling",
+            "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&oldid=67991104",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&oldid=67991104",
+                "anchor_text": "Permanente koppeling"
+              }
+            ]
+          },
+          {
+            "text": "Deze pagina citeren",
+            "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:Citeren&page=Pad_thai&id=67991104&wpFormIdentifier=titleform",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:Citeren&page=Pad_thai&id=67991104&wpFormIdentifier=titleform",
+                "anchor_text": "Deze pagina citeren"
+              }
+            ]
+          },
+          {
+            "text": "Verkorte url verkrijgen",
+            "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:UrlShortener&url=https%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FPad_thai",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:UrlShortener&url=https%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FPad_thai",
+                "anchor_text": "Verkorte url verkrijgen"
+              }
+            ]
+          },
+          {
+            "text": "Naar de oude parser overschakelen",
+            "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&useparsoid=0",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/w/index.php?title=Pad_thai&useparsoid=0",
+                "anchor_text": "Naar de oude parser overschakelen"
+              }
+            ]
+          },
+          {
+            "text": "Boek aanmaken",
+            "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:Boek&bookcmd=book_creator&referer=Pad+thai",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:Boek&bookcmd=book_creator&referer=Pad+thai",
+                "anchor_text": "Boek aanmaken"
+              }
+            ]
+          },
+          {
+            "text": "Downloaden als PDF",
+            "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:DownloadAsPdf&page=Pad_thai&action=show-download-screen",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/w/index.php?title=Speciaal:DownloadAsPdf&page=Pad_thai&action=show-download-screen",
+                "anchor_text": "Downloaden als PDF"
+              }
+            ]
+          },
+          {
+            "text": "In andere projecten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/Category:Pad_Thai",
+            "urls": [
+              {
+                "url": "https://commons.wikimedia.org/wiki/Category:Pad_Thai",
+                "anchor_text": "Wikimedia Commons"
+              }
+            ]
+          },
+          {
+            "text": "Thaise keuken",
+            "url": "https://nl.wikipedia.org/wiki/Categorie:Thaise_keuken",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Categorie:Thaise_keuken",
+                "anchor_text": "Thaise keuken"
+              }
+            ]
+          },
+          {
+            "text": "Wikipedia:Onbereikbare externe link",
+            "url": "https://nl.wikipedia.org/wiki/Categorie:Wikipedia:Onbereikbare_externe_link",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Categorie:Wikipedia:Onbereikbare_externe_link",
+                "anchor_text": "Wikipedia:Onbereikbare externe link"
+              }
+            ]
+          }
+        ],
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Pad thai",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "",
+                    "urls": [
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Bestand:Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+                        "anchor_text": ""
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Pad thai in een straatstand in Chiang Mai, Thailand",
+                    "urls": [
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Chiang_Mai_(stad)",
+                        "anchor_text": "Chiang Mai"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Thailand",
+                        "anchor_text": "Thailand"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Alternatieve naam",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Phat thai, kway teow pad",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Land",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Thailand",
+                    "urls": [
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Bestand:Flag_of_Thailand.svg",
+                        "anchor_text": ""
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Thailand",
+                        "anchor_text": "Thailand"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Hoofd ­ ingrediënt(en)",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Rijstnoedels, eieren, tofoe, tamarindepasta, vissaus, garnalen, knoflook of sjalotten, rode chilipepers, palmsuiker, limoen, pinda's",
+                    "urls": [
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Rijstnoedels",
+                        "anchor_text": "Rijstnoedels"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Ei_(voeding)",
+                        "anchor_text": "eieren"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Tofoe",
+                        "anchor_text": "tofoe"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Tamarinde",
+                        "anchor_text": "tamarindepasta"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Vissaus",
+                        "anchor_text": "vissaus"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Garnalen",
+                        "anchor_text": "garnalen"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Knoflook",
+                        "anchor_text": "knoflook"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Sjalot",
+                        "anchor_text": "sjalotten"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Spaanse_peper",
+                        "anchor_text": "chilipepers"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Palmsuiker",
+                        "anchor_text": "palmsuiker"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Limoen",
+                        "anchor_text": "limoen"
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Pinda",
+                        "anchor_text": "pinda's"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Varianten",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Vietnam : pho sao ( phở xào )",
+                    "urls": [
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Bestand:Flag_of_Vietnam.svg",
+                        "anchor_text": ""
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Vietnam_(hoofdbetekenis)",
+                        "anchor_text": "Vietnam"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Gang",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Hoofdgerecht",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Type",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Eenbordsgerecht",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Portaal Eten en drinken",
+                    "urls": [
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Bestand:Portal.svg",
+                        "anchor_text": ""
+                      },
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Portaal:Eten_en_drinken",
+                        "anchor_text": "Eten en drinken"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Portaal",
+                    "urls": [
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Bestand:Portal.svg",
+                        "anchor_text": ""
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "text": "Eten en drinken",
+                    "urls": [
+                      {
+                        "url": "https://nl.wikipedia.org/wiki/Portaal:Eten_en_drinken",
+                        "anchor_text": "Eten en drinken"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Geschiedenis",
+        "main_title": "Pad thai",
+        "author": "Bijdragers aan Wikimedia-projecten",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Anders dan de naam van het gerecht doet vermoeden is pad thai van oorsprong waarschijnlijk geen Thais gerecht en bevat het bovendien weinig typisch Thaise ingrediënten. [ 1 ] Volgens één theorie is pad thai ontstaan uit een Thaise interpretatie van pho sao ( phở xào ), een Vietnamees gerecht met drooggebakken rijstnoedels dat in de dagen van het Koninkrijk Ayutthaya (1351–1767) in de hoofdstad Ayutthaya werd geïntroduceerd door Vietnamese handelaren. [ 2 ] In Thailand wordt het gerecht ook kway teow pad genoemd. Kway teow is Chinees voor rijstnoedels en veel inwoners van Thailand zien dit gerecht ook als een Chinees gerecht. [ 1 ]",
+            "url": "https://nl.wikipedia.org/wiki/Thaise_keuken",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Thaise_keuken",
+                "anchor_text": "Thais gerecht"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Vietnam",
+                "anchor_text": "Vietnamees"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Rijstnoedels",
+                "anchor_text": "rijstnoedels"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Koninkrijk_Ayutthaya",
+                "anchor_text": "Koninkrijk Ayutthaya"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Historisch_Park_Ayutthaya",
+                "anchor_text": "Ayutthaya"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Vietnam",
+                "anchor_text": "Vietnamese"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Chinese_talen",
+                "anchor_text": "Chinees"
+              }
+            ]
+          },
+          {
+            "text": "Tijdens de Tweede Wereldoorlog wilde minister-president Plaek Pibul Songkram het gebruik van rijst promoten, op dat moment Thailands voornaamste exportproduct. Bovendien wilde hij de Thaise keuken ontdoen van Chinese invloeden. De Chinese eiernoedels werden daarom vervangen door rijstnoedels, die zeer geschikt zijn om in de pan te bakken. Door het vervangen van de eiernoedels en enkele andere ingrediënten ontstond uiteindelijk de pad thai zoals we die nu kennen. [ 3 ]",
+            "url": "https://nl.wikipedia.org/wiki/Tweede_Wereldoorlog",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Tweede_Wereldoorlog",
+                "anchor_text": "Tweede Wereldoorlog"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Plaek_Pibul_Songkram",
+                "anchor_text": "Plaek Pibul Songkram"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Eiernoedels",
+                "anchor_text": "eiernoedels"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Rijstnoedels",
+                "anchor_text": "rijstnoedels"
+              }
+            ]
+          },
+          {
+            "text": "Na de Tweede Wereldoorlog bleef de populariteit van pad thai stijgen en werd het gerecht een van Thailands nationale gerechten. [ 4 ] Tegenwoordig staat het gerecht op het menu van een groot aantal Thaise restaurants buiten Thailand. Bij een enquête die CNN in 2011 hield, eindigde pad thai op nummer vijf van de 50 lekkerste gerechten in de wereld. [ 5 ]",
+            "url": "https://nl.wikipedia.org/wiki/CNN",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/CNN",
+                "anchor_text": "CNN"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bereiding",
+        "main_title": "Pad thai",
+        "author": "Bijdragers aan Wikimedia-projecten",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Pad thai wordt gemaakt van rijstnoedels die eerst zijn geweekt en vervolgens in een wok gebakken, samen met eieren en gesneden tofoe. Tijdens het wokken worden tamarindepasta, vissaus, garnalen, knoflook of sjalotten, rode chilipepers en palmsuiker toegevoegd. Het gerecht wordt meestal geserveerd met limoen en grofgemalen geroosterde pinda's. [ 6 ]",
+            "url": "https://nl.wikipedia.org/wiki/Wok",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Wok",
+                "anchor_text": "wok"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Ei_(voeding)",
+                "anchor_text": "eieren"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Tofoe",
+                "anchor_text": "tofoe"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Tamarinde",
+                "anchor_text": "tamarindepasta"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Vissaus",
+                "anchor_text": "vissaus"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Garnalen",
+                "anchor_text": "garnalen"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Knoflook",
+                "anchor_text": "knoflook"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Sjalot",
+                "anchor_text": "sjalotten"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Spaanse_peper",
+                "anchor_text": "chilipepers"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Palmsuiker",
+                "anchor_text": "palmsuiker"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Limoen",
+                "anchor_text": "limoen"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Pinda",
+                "anchor_text": "pinda's"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Variaties",
+        "main_title": "Pad thai",
+        "author": "Bijdragers aan Wikimedia-projecten",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Andere ingrediënten die soms worden gebruikt zijn taugé, Chinese bieslook, koriander, radijs, lenteui en knolraap. In plaats van garnalen wordt soms krab, kippen- of varkensvlees gebruikt, alhoewel dit laatste ingrediënt in Thailand als typisch Chinees wordt beschouwd.\nVeel restaurants hebben ook een vegetarische variant op het menu, waarbij de vissaus is vervangen door sojasaus. [ 6 ] [ 7 ]",
+            "url": "https://nl.wikipedia.org/wiki/Taug%C3%A9",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Taug%C3%A9",
+                "anchor_text": "taugé"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Chinese_bieslook",
+                "anchor_text": "Chinese bieslook"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Koriander",
+                "anchor_text": "koriander"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Radijs",
+                "anchor_text": "radijs"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Lenteui",
+                "anchor_text": "lenteui"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Knolraap",
+                "anchor_text": "knolraap"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Krab",
+                "anchor_text": "krab"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Kippenvlees",
+                "anchor_text": "kippen-"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Varkensvlees",
+                "anchor_text": "varkensvlees"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Ingredi%C3%ABnt",
+                "anchor_text": "ingrediënt"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Sojasaus",
+                "anchor_text": "sojasaus"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Zie ook",
+        "main_title": "Pad thai",
+        "author": "Bijdragers aan Wikimedia-projecten",
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Thaise keuken",
+            "url": "https://nl.wikipedia.org/wiki/Thaise_keuken",
+            "urls": [
+              {
+                "url": "https://nl.wikipedia.org/wiki/Thaise_keuken",
+                "anchor_text": "Thaise keuken"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Bronnen en verwijzingen",
+        "main_title": "Pad thai",
+        "author": "Bijdragers aan Wikimedia-projecten",
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "1 2 ( en ) Roberto A. Ferdman in Quartz: The strange and potentially stolen origins of pad Thai (15 april 2014)",
+            "url": "http://qz.com/198860/the-strange-and-potentially-stolen-origins-of-pad-thai/",
+            "urls": [
+              {
+                "url": "http://qz.com/198860/the-strange-and-potentially-stolen-origins-of-pad-thai/",
+                "anchor_text": "The strange and potentially stolen origins of pad Thai"
+              }
+            ]
+          },
+          {
+            "text": "↑ ( en ) Suthon Sukphisit in Bangkok Post: History discovered in a staple dish (16 februari 2014)",
+            "url": "http://www.bangkokpost.com/lifestyle/food-features/395238/history-discovered-in-a-staple-dish",
+            "urls": [
+              {
+                "url": "http://www.bangkokpost.com/lifestyle/food-features/395238/history-discovered-in-a-staple-dish",
+                "anchor_text": "History discovered in a staple dish"
+              }
+            ]
+          },
+          {
+            "text": "↑ ( en ) Scholarbank.nus.edu.sg: What is Thai Cuisine? [ dode link ] (12 april 2010)",
+            "url": "http://scholarbank.nus.edu.sg/bitstream/handle/10635/17685/2.%20Thesis%20body%20-%20What%20is%20Thai%20Cuisine.pdf?sequence=2",
+            "urls": [
+              {
+                "url": "http://scholarbank.nus.edu.sg/bitstream/handle/10635/17685/2.%20Thesis%20body%20-%20What%20is%20Thai%20Cuisine.pdf?sequence=2",
+                "anchor_text": "What is Thai Cuisine?"
+              },
+              {
+                "url": "https://nl.wikipedia.org/wiki/Wikipedia:Onbereikbare_externe_links",
+                "anchor_text": "[dode link]"
+              }
+            ]
+          },
+          {
+            "text": "↑ ( en ) Ifood.tv: Thai National Foods Thai National Foods (15 augustus 2011)",
+            "url": "https://web.archive.org/web/20130605004853/http://www.ifood.tv/blog/thai-national-foods",
+            "urls": [
+              {
+                "url": "https://web.archive.org/web/20130605004853/http://www.ifood.tv/blog/thai-national-foods",
+                "anchor_text": "Thai National Foods Thai National Foods"
+              }
+            ]
+          },
+          {
+            "text": "↑ ( en ) CNN GO: Your pick: World's 50 most delicious foods (7 september 2011)",
+            "url": "https://web.archive.org/web/20121111184944/http://www.cnngo.com/explorations/eat/readers-choice-worlds-50-most-delicious-foods-012321",
+            "urls": [
+              {
+                "url": "https://web.archive.org/web/20121111184944/http://www.cnngo.com/explorations/eat/readers-choice-worlds-50-most-delicious-foods-012321",
+                "anchor_text": "Your pick: World's 50 most delicious foods"
+              }
+            ]
+          },
+          {
+            "text": "1 2 ( en ) Thaitable.com: Pad Thai - ผัดไทยกุ้งสด",
+            "url": "https://web.archive.org/web/20190105155645/https://www.thaitable.com/thai/recipe/pad-thai",
+            "urls": [
+              {
+                "url": "https://web.archive.org/web/20190105155645/https://www.thaitable.com/thai/recipe/pad-thai",
+                "anchor_text": "Pad Thai - ผัดไทยกุ้งสด"
+              }
+            ]
+          },
+          {
+            "text": "↑ ( en ) Jill Wilcox in The Observer: Vegetarian Pad Thai recipe a noodle favourite (2 maart 2015)",
+            "url": "http://www.theobserver.ca/2015/02/26/vegetarian-pad-thai-recipe-a-noodle-favourite",
+            "urls": [
+              {
+                "url": "http://www.theobserver.ca/2015/02/26/vegetarian-pad-thai-recipe-a-noodle-favourite",
+                "anchor_text": "Vegetarian Pad Thai recipe a noodle favourite"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Externe link",
+        "main_title": "Pad thai",
+        "author": "Bijdragers aan Wikimedia-projecten",
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "( en ) Felicity Cloake in The Guardian: How to make the perfect pad thai (30 mei 2013)",
+            "url": "https://www.theguardian.com/lifeandstyle/wordofmouth/2013/may/30/how-to-make-perfect-pad-thai",
+            "urls": [
+              {
+                "url": "https://www.theguardian.com/lifeandstyle/wordofmouth/2013/may/30/how-to-make-perfect-pad-thai",
+                "anchor_text": "How to make the perfect pad thai"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

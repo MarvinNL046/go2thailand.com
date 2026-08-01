@@ -1,0 +1,768 @@
+{
+  "captured_at": "2026-07-27T20:13:20.028Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand travel cost",
+  "costs": {
+    "suggestions": 0.01548,
+    "related": 0.01368,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand travel cost",
+    "travel thailand cost",
+    "travel to thailand cost",
+    "how much does it cost to travel thailand",
+    "thailand travel visa cost",
+    "cost to travel to thailand",
+    "travel cost in thailand",
+    "travel in thailand cost",
+    "thailand travel insurance cost",
+    "cost of travel insurance to thailand",
+    "cost to travel thailand for a month",
+    "cost to travel to thailand for 2 weeks",
+    "how much cost to travel in thailand",
+    "how much cost to travel thailand",
+    "how much cost travel to thailand",
+    "how much does travel insurance to thailand cost",
+    "how much it cost to travel in thailand",
+    "how much it cost to travel thailand from india",
+    "india to thailand travel cost"
+  ],
+  "keywords": [
+    {
+      "keyword": "thailand travel cost",
+      "volume": 110,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "travel thailand cost",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel to thailand cost",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much does it cost to travel thailand",
+      "volume": 50,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand trip cost for 7 days",
+      "volume": 50,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel visa cost",
+      "volume": 40,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost to travel to thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel cost in thailand",
+      "volume": 30,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel in thailand cost",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is a trip to thailand for 2 weeks",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much money to travel thailand for 3 months",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much to travel thailand for a month",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel insurance cost",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand trip cost from india",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4 days thailand tour package price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 days thailand tour package price from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheapest thailand tour package",
+      "volume": 10,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cost of travel insurance to thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost to travel thailand for a month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost to travel to thailand for 2 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much cost to travel in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much cost to travel thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much cost travel to thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much does travel insurance to thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much it cost to travel in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much it cost to travel thailand from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "india to thailand travel cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "philippines to thailand travel cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tour package 3 days 2 nights",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tour package 4 days 3 nights price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand travel cost from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel from india cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand trip cost for 3 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand trip cost for 7 days from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand trip cost for 7 days with flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "travel insurance cost for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel insurance cost thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel insurance for thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel insurance thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel thailand cost per day",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vietnam vs thailand travel cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel cost from bangladesh",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.neverendingfootsteps.com",
+      "avgPosition": 2,
+      "keywordCount": 3,
+      "visibility": 2.7,
+      "estimatedTraffic": 53.46
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 2.6666666666666665,
+      "keywordCount": 3,
+      "visibility": 2.5,
+      "estimatedTraffic": 51.391999999999996
+    },
+    {
+      "domain": "www.travelex.co.uk",
+      "avgPosition": 3.3333333333333335,
+      "keywordCount": 3,
+      "visibility": 2.3,
+      "estimatedTraffic": 28.654999999999998
+    },
+    {
+      "domain": "www.amigosim.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.7,
+      "estimatedTraffic": 38.423
+    },
+    {
+      "domain": "www.nomadicmatt.com",
+      "avgPosition": 6.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.2999999999999998,
+      "estimatedTraffic": 11.561
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 7,
+      "keywordCount": 3,
+      "visibility": 1.25,
+      "estimatedTraffic": 11.968
+    },
+    {
+      "domain": "radicalstorage.com",
+      "avgPosition": 7.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.1,
+      "estimatedTraffic": 8.184
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 3.9930000000000003
+    },
+    {
+      "domain": "www.budgetyourtrip.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.55,
+      "estimatedTraffic": 4.356
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 4.8069999999999995
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 14,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.222
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 14.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.35,
+      "estimatedTraffic": 3.223
+    },
+    {
+      "domain": "royalthailandtours.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.738
+    },
+    {
+      "domain": "travelthru.com",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.946
+    },
+    {
+      "domain": "weareglobaltravellers.com",
+      "avgPosition": 25.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.111
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 26.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9349999999999999
+    },
+    {
+      "domain": "www.tripsavvy.com",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.759
+    },
+    {
+      "domain": "www.starlingbank.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 66.88
+    },
+    {
+      "domain": "www.nomadasaurus.com",
+      "avgPosition": 34.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.715
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 38.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "www.ourescapeclause.com",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.177
+    },
+    {
+      "domain": "southeastasiabackpacker.com",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.034
+    },
+    {
+      "domain": "www.psimonmyway.com",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.7369999999999999
+    },
+    {
+      "domain": "www.theblondtravels.com",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.539
+    },
+    {
+      "domain": "gotothailand.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.506
+    },
+    {
+      "domain": "backpackbob.com",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.594
+    },
+    {
+      "domain": "customasiatravel.com",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 25,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 25.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "alike.io",
+      "avgPosition": 52.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.825
+    },
+    {
+      "domain": "footloosedev.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "thebucketlistcompany.co.uk",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "thailandwithtereza.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.travelvisapro.com",
+      "avgPosition": 38,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "thebackpackingfamily.com",
+      "avgPosition": 58.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "www.yokomeshi.co.uk",
+      "avgPosition": 39.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "vickiviaja.com",
+      "avgPosition": 59.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "exiap.co.uk",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "kailyntravels.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "travelhiatus.com",
+      "avgPosition": 63.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "chalotravellers.com",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "charlieontravel.com",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 47.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "loveandroad.com",
+      "avgPosition": 65.33333333333333,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.693
+    },
+    {
+      "domain": "strollingadventures.com",
+      "avgPosition": 49,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 5.159
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.65
+    },
+    {
+      "domain": "simify.com",
+      "avgPosition": 54.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.holidayhypermarket.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.65
+    },
+    {
+      "domain": "www.moneywehave.com",
+      "avgPosition": 60.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    }
+  ]
+}

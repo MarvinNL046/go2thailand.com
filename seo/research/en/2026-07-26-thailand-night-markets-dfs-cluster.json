@@ -1,0 +1,429 @@
+{
+  "captured_at": "2026-07-26T15:53:32.758Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand night markets",
+  "costs": {
+    "suggestions": 0.0126,
+    "related": 0.012,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand night markets",
+    "night markets in thailand",
+    "night markets thailand",
+    "best night markets in thailand",
+    "best night markets thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "night markets in thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "night markets thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best night markets in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best night markets thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand night markets",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand night markets and blue waters",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.bestattravel.co.uk",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 94.24000000000001
+    },
+    {
+      "domain": "www.feastographyblog.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 33.882999999999996
+    },
+    {
+      "domain": "berkeleypratunam.com",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 21.595
+    },
+    {
+      "domain": "unforgettabletravel.com",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.75,
+      "estimatedTraffic": 10.229000000000001
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.65,
+      "estimatedTraffic": 7.518
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.45,
+      "estimatedTraffic": 5.402
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 5.462999999999999
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.376
+    },
+    {
+      "domain": "bokksumarket.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 3.489
+    },
+    {
+      "domain": "www.traveloka.com",
+      "avgPosition": 13.5,
+      "keywordCount": 2,
+      "visibility": 0.45,
+      "estimatedTraffic": 3.992
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.6510000000000002
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.9729999999999999
+    },
+    {
+      "domain": "www.pastelbangkok.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.457
+    },
+    {
+      "domain": "tulum.asia",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.959
+    },
+    {
+      "domain": "www.laughtraveleat.com",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "www.viehotelbangkok.com",
+      "avgPosition": 31.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.735
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.959
+    },
+    {
+      "domain": "www.visitthailandtoday.com",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.679
+    },
+    {
+      "domain": "www.icicilombard.com",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.651
+    },
+    {
+      "domain": "exploreirelandnow.com",
+      "avgPosition": 48,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.651
+    },
+    {
+      "domain": "thetravelingtaylors.world",
+      "avgPosition": 49.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.651
+    },
+    {
+      "domain": "blog.bangkokair.com",
+      "avgPosition": 50,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.665
+    },
+    {
+      "domain": "www.simpleexplorer.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 27.54
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 16.541
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 5.7459999999999996
+    },
+    {
+      "domain": "tropicalwarehouse.co.uk",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 3.3489999999999998
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.9209999999999998
+    },
+    {
+      "domain": "www.hotels.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.274
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.5470000000000002
+    },
+    {
+      "domain": "www.celebritycruises.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.275
+    },
+    {
+      "domain": "thailandinsider.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.459
+    },
+    {
+      "domain": "www.cuddlynest.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "balancedtravel.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.indianholiday.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "travelauthenticasia.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.indochinavoyages.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "newasiatours.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "travelfromeurope.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.luxurytravelmagazine.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.thrillophilia.com",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.cleverthai.com",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "roadbook.com",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "nashaplaneta.net",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.thai-travel-guide.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "banbanjara.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "en.paperblog.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "achefstour.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "theculturetrip.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    }
+  ]
+}

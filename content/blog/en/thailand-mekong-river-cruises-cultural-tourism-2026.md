@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["mekong river", "cultural tourism", "nakhon phanom", "river cruises", "sustainable tourism"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-mekong-river-cruises-cultural-tourism-2026-hero.webp"
 description: "Thailand's Nakhon Phanom province launches Mekong River cruise tourism, offering cultural immersion across nine ethnic communities along the Thai-Lao border."
 featured: false
 readingTime: 4
@@ -54,7 +54,7 @@ The broader Mekong corridor — covered in detail in our guide to [Thailand's Me
 
 ## Why Nakhon Phanom?
 
-Most international visitors have never heard of [Nakhon Phanom](/destinations/nakhon-phanom/), but locals consider it one of Thailand's most beautiful riverside cities. The **Mekong promenade** offers stunning sunset views over Laos, and the town's Vietnamese-influenced architecture reflects its multicultural heritage.
+Most international visitors have never heard of [Nakhon Phanom](/city/nakhon-phanom/), but locals consider it one of Thailand's most beautiful riverside cities. The **Mekong promenade** offers stunning sunset views over Laos, and the town's Vietnamese-influenced architecture reflects its multicultural heritage.
 
 The province is also home to **Phra That Phanom**, one of the most sacred Buddhist temples in the Isan region, drawing pilgrims from across Thailand and Laos. Browse [hotels in Nakhon Phanom](/best-hotels/nakhon-phanom/) if you plan to base yourself there for a few nights.
 

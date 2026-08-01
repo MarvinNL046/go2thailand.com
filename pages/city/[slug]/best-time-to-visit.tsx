@@ -7,6 +7,11 @@ import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
 import transportRoutes from '../../../data/transport-routes.json';
+import cityWeatherData from '../../../data/city-weather.json';
+import { normalizeNlInternalHref } from '../../../lib/nl-route-owners';
+import { normalizeEnInternalHref } from '../../../lib/en-route-owners';
+import { getEnSeasonDecisionGuide } from '../../../data/seasons/en';
+import { SeasonDecisionGuideTemplate } from '../../../components/weather/SeasonDecisionGuideTemplate';
 
 interface PracticalInfo {
   bestMonths?: string[];
@@ -60,6 +65,7 @@ interface TransportRouteLink {
 interface BestTimeToVisitPageProps {
   city: City;
   topRoutes: TransportRouteLink[];
+  hasWeatherOwner: boolean;
 }
 
 const ALL_MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -79,13 +85,52 @@ const MONTH_FULL_NAMES: Record<string, string> = {
   Dec: 'December',
 };
 
-export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisitPageProps) {
+const EN_BEST_TIME_TO_WEATHER = new Set([
+  'bangkok',
+  'chiang-mai',
+  'pattaya',
+  'ayutthaya',
+  'krabi',
+  'chiang-rai',
+  'hat-yai',
+  'sukhothai',
+  'surat-thani',
+]);
+
+const EN_BEST_TIME_TO_CITY = new Set([
+  'pai',
+  'mae-hong-son',
+  'kanchanaburi',
+  'udon-thani',
+  'lampang',
+  'khon-kaen',
+  'nakhon-ratchasima',
+  'ubon-ratchathani',
+  'lopburi',
+  'phitsanulok',
+  'trat',
+  'rayong',
+  'nakhon-si-thammarat',
+  'trang',
+  'chumphon',
+  'chanthaburi',
+  'chiang-khan',
+  'nong-khai',
+  'bueng-kan',
+  'nakhon-phanom',
+  'mukdahan',
+]);
+
+export default function BestTimeToVisitPage({ city, topRoutes, hasWeatherOwner }: BestTimeToVisitPageProps) {
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
 
   if (!city) return <div>{isNl ? 'Stad niet gevonden' : 'City not found'}</div>;
+
+  const premiumSeasonGuide = !isNl ? getEnSeasonDecisionGuide(city.slug) : undefined;
+  if (premiumSeasonGuide) return <SeasonDecisionGuideTemplate data={premiumSeasonGuide} />;
 
   const cityName = typeof city.name === 'string' ? city.name : (city.name?.[lang] || city.name?.en || '');
   const breadcrumbs = generateBreadcrumbs(city, 'best-time-to-visit');
@@ -289,6 +334,14 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       </div>
                     </div>
                   )}
+                  {hasWeatherOwner ? (
+                    <div className="mt-6 border-t border-gray-100 pt-5">
+                      <Link href={`/city/${city.slug}/weather/`} className="group inline-flex min-h-11 items-center gap-3 text-sm font-bold text-thailand-blue transition hover:text-thailand-red">
+                        See {cityName} temperatures, rain and conditions by month
+                        <span aria-hidden="true" className="text-thailand-gold transition group-hover:translate-x-1">&rarr;</span>
+                      </Link>
+                    </div>
+                  ) : null}
                 </div>
               </div>
 
@@ -472,7 +525,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                   {isNl ? `Ontdek Meer van ${cityName}` : `Explore More of ${cityName}`}
                 </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                  <Link href={isNl ? `/best-hotels/${city.slug}/` : normalizeEnInternalHref(`/best-hotels/${city.slug}/`)} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                     <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mr-4">
                       <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
@@ -551,6 +604,43 @@ function flattenBilingual(data: any): any {
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
+
+  if (locale === 'nl') {
+    return {
+      redirect: {
+        destination: `/nl${normalizeNlInternalHref(`/city/${slug}/best-time-to-visit/`)}`,
+        permanent: true,
+      },
+    };
+  }
+
+  if (slug === 'koh-samui' || slug === 'phuket') {
+    return {
+      redirect: {
+        destination: `/city/${slug}/weather/`,
+        permanent: true,
+      },
+    };
+  }
+
+  if (EN_BEST_TIME_TO_WEATHER.has(slug)) {
+    return {
+      redirect: {
+        destination: `/city/${slug}/weather/`,
+        permanent: true,
+      },
+    };
+  }
+
+  if (EN_BEST_TIME_TO_CITY.has(slug)) {
+    return {
+      redirect: {
+        destination: `/city/${slug}/`,
+        permanent: true,
+      },
+    };
+  }
+
   const rawCity = getCityBySlug(slug, locale);
 
   if (!rawCity) {
@@ -582,6 +672,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     props: {
       city: JSON.parse(JSON.stringify(city)),
       topRoutes,
+      hasWeatherOwner: Object.prototype.hasOwnProperty.call(cityWeatherData, slug),
     },
     revalidate: 604800,
   };

@@ -9,6 +9,7 @@ import SEOHead from '../../components/SEOHead';
 import EmailCapture from '../../components/EmailCapture';
 import { useT } from '../../lib/i18n';
 import { strings as i18nStrings } from '../../lib/i18n/food-index';
+import ThailandFoodHub from '../../components/food/ThailandFoodHub';
 
 interface Dish {
   id: number;
@@ -29,7 +30,7 @@ interface FoodIndexPageProps {
   categories: string[];
 }
 
-export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps) {
+export default function FoodIndexPage({ dishes }: FoodIndexPageProps) {
   const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
@@ -181,6 +182,10 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
     dateModified: '2026-04-02',
   };
 
+  if (isNl) {
+    return <ThailandFoodHub dishes={dishes} />;
+  }
+
   return (
     <>
       <SEOHead
@@ -263,7 +268,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                     <p className="mt-3 text-sm">
                       <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">{t("s005_full_pad_thai_guide")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/pad-thai-street-food-vs-restaurant-homemade/" className="text-thailand-blue hover:underline font-semibold">{t("s006_street_food_vs_restaurant")}</Link>
+                      <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">{t("s006_street_food_vs_restaurant")}</Link>
                     </p>
                   </div>
                 </div>
@@ -276,17 +281,15 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                   <div>
                     <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s007_som_tam_green_papaya")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      Som tam is arguably the most eaten dish in Thailand — Thais consume it at every meal, from breakfast to late-night snacking. Shredded unripe papaya is pounded in a clay mortar with garlic, chilies, long beans, tomatoes, dried shrimp, peanuts, lime juice, fish sauce, and palm sugar. The result is an explosive combination of crunchy, spicy, sour, sweet, and salty in every bite. Originating from Isaan (northeastern Thailand), som tam has countless regional variations: som tam thai is the milder, tourist-friendly version with peanuts and dried shrimp; som tam poo adds salted black crab for a funky, intensely savory kick; and som tam pla ra includes fermented fish sauce that locals love but can challenge uninitiated palates. Street vendors across the country pound it fresh to order, typically for 40-60 baht. Watch them adjust the chilies — four or more is standard for Thais, but asking for one or two is perfectly fine.
+                      Som Tam is a family of pounded sour-spicy salads rather than one fixed green-papaya recipe. Som Tam Thai commonly combines papaya, tomato, long beans, lime, fish sauce, palm sugar, peanuts and dried shrimp; pla-ra, crab, noodles and other fruit or vegetables identify materially different versions. Choose the version first, then discuss chilli and dietary boundaries before the mortar is used.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 40-60 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 100-180 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
-                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Gemiddeld tot zeer pittig — altijd aanpasbaar' : 'Medium to very hot — always adjustable'}</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s008_isaan_region_bangkok_any")}</p>
+                      <p><strong>{isNl ? 'Versie:' : 'Version:'}</strong> {isNl ? 'Thai, pla-ra, krab of een andere basis' : 'Thai, pla ra, crab or another base'}</p>
+                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Bespreek chili vóór het stampen' : 'Discuss chilli before pounding starts'}</p>
+                      <p><strong>{isNl ? 'Controleer:' : 'Check:'}</strong> {isNl ? 'Vissaus, gedroogde garnaal, gefermenteerde vis, krab en pinda' : 'Fish sauce, dried shrimp, fermented fish, crab and peanut'}</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/som-tam/" className="text-thailand-blue hover:underline font-semibold">{t("s009_full_som_tam_guide")}</Link>
-                      {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/som-tam-regional-variations-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s010_regional_som_tam_variations")}</Link>
                     </p>
                   </div>
                 </div>
@@ -320,12 +323,12 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                   <div>
                     <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s014_massaman_curry")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      Massaman curry is Thai cuisine&apos;s most globally acclaimed dish — CNN once named it the best food in the world. This rich, mild curry reflects centuries of cultural exchange with Muslim traders from India, Persia, and the Malay Peninsula. The curry paste combines dried spices rarely found in other Thai curries: cinnamon, cardamom, cloves, star anise, and cumin, along with lemongrass, galangal, and shallots. These are simmered in thick coconut milk with tender chunks of beef or chicken, potatoes, and roasted peanuts. The result is warming, slightly sweet, and deeply aromatic — closer to an Indian-style curry than anything else in Thai cooking, yet unmistakably Thai in its use of fish sauce, tamarind, and palm sugar. Massaman is one of the least spicy Thai curries, making it an excellent choice for travelers who are sensitive to heat. It is most commonly served over steamed jasmine rice.
+                      Massaman is a rich Thai curry shaped by Thai-Muslim cooking and long-distance spice exchange. Coconut milk, curry paste, potato, onion, tamarind, peanuts and warm dry spices such as cinnamon, cardamom and cumin are familiar signals. Chicken or beef is common, but the recipe, heat and dietary boundary vary by kitchen. Its Muslim roots do not automatically prove that a restaurant uses halal meat, stock, utensils or certification.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 50-70 baht ({isNl ? 'straatvoedsel/food court' : 'street food/food court'}) | 150-280 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
-                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Mild — een van de minst pittige Thaise curry\'s' : 'Mild — one of the least spicy Thai curries'}</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s015_southern_thailand_phuket_krabi")}</p>
+                      <p><strong>Before ordering:</strong> confirm today&apos;s protein, chilli level, peanut, fish sauce, shrimp paste and stock.</p>
+                      <p><strong>Halal boundary:</strong> ask the kitchen or choose a clearly certified restaurant when formal assurance matters.</p>
+                      <p><strong>Price:</strong> check the actual menu; portion, protein, setting and city change the current price.</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/massaman-curry/" className="text-thailand-blue hover:underline font-semibold">{t("s016_full_massaman_curry_guide")}</Link>
@@ -341,17 +344,15 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                   <div>
                     <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s017_mango_sticky_rice")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      Mango sticky rice is Thailand&apos;s most beloved dessert, and once you try it, you will understand why. Warm glutinous rice is soaked in sweetened coconut cream until each grain is rich and fragrant, then served alongside slices of perfectly ripe nam dok mai mango — a golden, fiberless variety that is intensely sweet and creamy. A drizzle of additional coconut cream and a sprinkle of crispy mung beans or toasted sesame seeds finish the dish. The combination of warm, salty-sweet sticky rice against cool, juicy mango is simple genius. Peak mango season runs from April through June, when the fruit is at its sweetest and most abundant — prices drop and quality soars during these months. Outside of season, vendors still serve it year-round using different mango varieties, but the experience during peak season is unmatched. Street vendors sell portions for 60-100 baht; restaurants charge 120-200 baht.
+                      Mango sticky rice pairs ripe fruit with steamed Thai glutinous rice dressed in sweetened coconut milk and salt. Salted coconut sauce and crisp split mung beans or sesame may finish the plate. Thailand Foundation describes the broad mango season as late March to July, while the dessert remains available year-round; cultivar, ripeness, topping and dietary handling still vary by vendor.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 60-100 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 120-200 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
-                      <p><strong>{isNl ? 'Beste seizoen:' : 'Best season:'}</strong> April - June ({isNl ? 'piek mango seizoen' : 'peak mango season'})</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {isNl ? 'Overal verkrijgbaar, maar Bangkok\'s Yaowarat en nachtmarkten blinken uit' : 'Available everywhere, but Bangkok\'s Yaowarat and night markets excel'}</p>
+                      <p><strong>Season:</strong> late March to July is the broad mango window; availability and ripeness vary.</p>
+                      <p><strong>Dietary check:</strong> ask about condensed milk, dairy, sauce thickener, toppings and shared utensils.</p>
+                      <p><strong>Price:</strong> check the actual stall or restaurant menu for today&apos;s portion and fruit.</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/mango-sticky-rice/" className="text-thailand-blue hover:underline font-semibold">{t("s018_full_mango_sticky_rice")}</Link>
-                      {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/mango-sticky-rice-season-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s019_when_is_mango_season")}</Link>
+                      <Link href="/food/mango-sticky-rice/" className="text-thailand-blue hover:underline font-semibold">Read the complete ingredients, season and eating guide</Link>
                     </p>
                   </div>
                 </div>
@@ -393,7 +394,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s023_chiang_mai_khao_soi")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/khao-soi/" className="text-thailand-blue hover:underline font-semibold">{t("s024_full_khao_soi_guide")}</Link>
+                      <Link href="/blog/khao-soi-chiang-mai-guide/" className="text-thailand-blue hover:underline font-semibold">{t("s024_full_khao_soi_guide")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
                       <Link href="/blog/khao-soi-chiang-mai-guide/" className="text-thailand-blue hover:underline font-semibold">{t("s025_where_to_eat_khao")}</Link>
                     </p>
@@ -455,7 +456,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 </ul>
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
-                For a deeper introduction, read our <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">{t("s045_bangkok_street_food_guide")}</Link> and our guide to <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">eating like a local for under $5 a day</Link>.
+                For a deeper introduction, read our <Link href="/blog/best-street-food-markets-bangkok/" className="text-thailand-blue hover:underline font-semibold">{t("s045_bangkok_street_food_guide")}</Link> and our guide to <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">eating like a local for under $5 a day</Link>.
               </p>
 
               <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s046_how_to_order_in")}</h3>
@@ -510,7 +511,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 </p>
                 <p className="text-gray-700 leading-relaxed mb-2">
                   <strong>{t("s051_signature_dishes")}</strong>{' '}
-                  <Link href="/food/khao-soi/" className="text-thailand-blue hover:underline">{t("s060_khao_soi")}</Link>,{' '}
+                  <Link href="/blog/khao-soi-chiang-mai-guide/" className="text-thailand-blue hover:underline">{t("s060_khao_soi")}</Link>,{' '}
                   <Link href="/food/sai-ua/" className="text-thailand-blue hover:underline">{t("s061_sai_oua_herb_sausage")}</Link>,{' '}
                   <Link href="/food/nam-prik-ong/" className="text-thailand-blue hover:underline">{t("s062_nam_prik_ong")}</Link>,{' '}
                   <Link href="/food/gaeng-hang-lay/" className="text-thailand-blue hover:underline">{t("s063_gaeng_hang_lay")}</Link>,{' '}
@@ -736,6 +737,44 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
               </div>
             )}
 
+            <nav aria-labelledby="complete-dish-directory" className="mt-14 overflow-hidden rounded-[28px] border border-jade/10 bg-jade text-white shadow-editorial-lift">
+              <div className="grid gap-8 p-7 sm:p-9 lg:grid-cols-[0.68fr_1.32fr] lg:p-11">
+                <div>
+                  <p className="text-[9px] font-extrabold uppercase tracking-[0.18em] text-saffron-light">Complete dish directory</p>
+                  <h3 id="complete-dish-directory" className="mt-3 font-display text-[2.75rem] font-semibold leading-[0.9] tracking-[-0.035em]">Find every Thai dish in this guide.</h3>
+                  <p className="mt-5 max-w-md text-sm font-medium leading-7 text-white/62">Browse the lightweight directory by dish type, then open the flavour, ingredient and ordering guide that fits what you found on the menu.</p>
+                </div>
+                <div className="grid gap-7 sm:grid-cols-2">
+                  {[
+                    { slug: 'main-dish', label: 'Main dishes' },
+                    { slug: 'soup', label: 'Soups' },
+                    { slug: 'curry', label: 'Curries' },
+                    { slug: 'salad', label: 'Salads' },
+                    { slug: 'dessert', label: 'Desserts' },
+                  ].map((group) => {
+                    const groupDishes = dishes.filter((dish) => dish.category === group.slug);
+                    if (!groupDishes.length) return null;
+
+                    return (
+                      <div key={group.slug}>
+                        <h4 className="border-b border-white/12 pb-3 text-[10px] font-extrabold uppercase tracking-[0.14em] text-saffron-light">{group.label}</h4>
+                        <ul className="mt-2 divide-y divide-white/8">
+                          {groupDishes.map((dish) => (
+                            <li key={dish.slug}>
+                              <Link href={dish.slug === 'khao-soi' ? '/blog/khao-soi-chiang-mai-guide/' : `/food/${dish.slug}/`} className="group flex min-h-11 items-center justify-between gap-3 py-2 text-xs font-bold text-white/72 transition hover:text-white">
+                                <span>{dish.name.en}</span>
+                                <span aria-hidden="true" className="text-saffron-light transition group-hover:translate-x-1">&rarr;</span>
+                              </Link>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            </nav>
+
             {/* Show message when all dishes are displayed */}
             {visibleDishes >= dishes.length && (
               <div className="text-center mt-12 p-6 bg-white rounded-2xl">
@@ -801,7 +840,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                     )}
                     {item.question === 'Is street food safe in Thailand?' && (
                       <p className="mt-2 text-sm">
-                        <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">{t("s097_bangkok_street_food_guide")}</Link>
+                        <Link href="/blog/best-street-food-markets-bangkok/" className="text-thailand-blue hover:underline font-semibold">{t("s097_bangkok_street_food_guide")}</Link>
                         {' '}<span className="text-gray-400">|</span>{' '}
                         <Link href="/blog/bangkok-lumpini-hawker-centre-street-food-2026/" className="text-thailand-blue hover:underline font-semibold">{t("s098_lumpini_hawker_centre_guide")}</Link>
                       </p>

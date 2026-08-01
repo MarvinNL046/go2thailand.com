@@ -1,0 +1,582 @@
+{
+  "captured_at": "2026-07-31T12:52:25.728Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "restaurants patong",
+  "costs": {
+    "suggestions": 0.01428,
+    "related": 0.01284,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "restaurants patong",
+    "best restaurants in patong",
+    "best restaurants in phuket patong",
+    "best restaurants patong",
+    "patong beach restaurants",
+    "restaurants patong beach",
+    "restaurants patong beach phuket",
+    "best restaurants in patong beach with a view",
+    "best restaurants in patong reddit",
+    "best restaurants patong beach",
+    "best restaurants patong michelin",
+    "best restaurants patong reddit",
+    "best restaurants phuket patong",
+    "best thai restaurants in patong",
+    "beste restaurants patong",
+    "italian restaurants patong",
+    "patong restaurants with a view",
+    "tripadvisor patong restaurants"
+  ],
+  "keywords": [
+    {
+      "keyword": "restaurants patong",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in phuket patong",
+      "volume": 50,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong",
+      "volume": 50,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong beach restaurants",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants patong beach",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants patong beach phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong beach with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in patong reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong michelin",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants phuket patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai restaurants in patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beste restaurants patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "golek restaurant patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "italian restaurants patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "patong restaurants with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "tripadvisor patong restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "zuri restaurant patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants patong tripadvisor",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "zurirestaurant.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 1.6,
+      "estimatedTraffic": 31.581
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 12.5,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.206
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 27.36
+    },
+    {
+      "domain": "naughtynuristhailand.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 14.58
+    },
+    {
+      "domain": "madisonsfootsteps.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 14.58
+    },
+    {
+      "domain": "wa.me",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 8.757
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 8.757
+    },
+    {
+      "domain": "traveleatsleeprepeat.co.uk",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 5.931
+    },
+    {
+      "domain": "stayatcasasolana.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 5.931
+    },
+    {
+      "domain": "www.cappadociarestaurantsthailand.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 4.221
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 3.042
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 2.3040000000000003
+    },
+    {
+      "domain": "restaurantpatong.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 2.3040000000000003
+    },
+    {
+      "domain": "www.ladyironchef.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.773
+    },
+    {
+      "domain": "www.julianhappydays.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.773
+    },
+    {
+      "domain": "patongseafood.co.th",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.3499999999999999
+    },
+    {
+      "domain": "amritsr.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.3499999999999999
+    },
+    {
+      "domain": "www.thekeeresort.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.017
+    },
+    {
+      "domain": "www.kalimaresort.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8190000000000001
+    },
+    {
+      "domain": "www.jungceylon.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.6749999999999999
+    },
+    {
+      "domain": "www.opentable.co.th",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.504
+    },
+    {
+      "domain": "bydlofts.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.459
+    },
+    {
+      "domain": "phuketfoodie.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.387
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.387
+    },
+    {
+      "domain": "www.andamandaphuket.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.297
+    },
+    {
+      "domain": "web.hungryhub.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.24300000000000002
+    },
+    {
+      "domain": "www.avistahideawayphuketresort.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.21599999999999997
+    },
+    {
+      "domain": "www.phuket-plaza.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.207
+    },
+    {
+      "domain": "www.deevanahotels.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.kuukandtravel.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.viridianphuket.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "jp.hotels.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "andatelhotel.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.nextholidays.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.petitfute.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "phuket-insider.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.chope.co",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "nowphuket.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.whatsoninphuket.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.fodors.com",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.aphuket.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "evendo.com",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.ministryofvillas.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "wanderlog.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.petitfute.co.uk",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "phuket.as",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.thailandnomads.com",
+      "avgPosition": 64,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    }
+  ]
+}

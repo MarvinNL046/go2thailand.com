@@ -1,0 +1,40 @@
+{
+  "captured_at": "2026-07-26T03:13:41.329Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/hotel/centara-grand-beach-resort-villas-krabi/",
+  "cost": 0.01248,
+  "rankings": [
+    {
+      "keyword": "centara grand beach resort & villas krabi",
+      "position": 62,
+      "volume": 170,
+      "intent": "transactional",
+      "url": "https://go2-thailand.com/nl/hotel/centara-grand-beach-resort-villas-krabi/"
+    },
+    {
+      "keyword": "centara krabi",
+      "position": 53,
+      "volume": 140,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/centara-grand-beach-resort-villas-krabi/"
+    },
+    {
+      "keyword": "grand centara beach resort krabi",
+      "position": 59,
+      "volume": 140,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/centara-grand-beach-resort-villas-krabi/"
+    },
+    {
+      "keyword": "grand centara krabi",
+      "position": 52,
+      "volume": 140,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/centara-grand-beach-resort-villas-krabi/"
+    }
+  ]
+}

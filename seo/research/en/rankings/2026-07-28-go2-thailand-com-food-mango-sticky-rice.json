@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-07-28T00:08:23.051Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/food/mango-sticky-rice/",
+  "cost": 0.0126,
+  "rankings": [
+    {
+      "keyword": "mango rice thailand",
+      "position": 57,
+      "volume": 720,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/mango-sticky-rice/"
+    },
+    {
+      "keyword": "mango sticky rice thailand",
+      "position": 68,
+      "volume": 720,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/mango-sticky-rice/"
+    },
+    {
+      "keyword": "sticky rice thailand recipe",
+      "position": 81,
+      "volume": 320,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/mango-sticky-rice/"
+    },
+    {
+      "keyword": "thailand mango sticky rice recipe",
+      "position": 84,
+      "volume": 170,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/mango-sticky-rice/"
+    },
+    {
+      "keyword": "khao niao mamuang",
+      "position": 73,
+      "volume": 50,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/mango-sticky-rice/"
+    }
+  ]
+}

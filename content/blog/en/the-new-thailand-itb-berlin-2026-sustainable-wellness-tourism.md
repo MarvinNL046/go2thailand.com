@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "tourism-news"
 tags: ["Thailand tourism 2026", "ITB Berlin 2026", "sustainable tourism Thailand", "wellness tourism Thailand", "TAT campaign", "The New Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/the-new-thailand-itb-berlin-2026-sustainable-wellness-tourism-hero.webp"
 description: "Thailand debuted its ambitious 'The New Thailand' campaign at ITB Berlin 2026, putting wellness, sustainability, and off-the-beaten-path destinations at the centre of its global tourism pitch."
 featured: false
 readingTime: 3

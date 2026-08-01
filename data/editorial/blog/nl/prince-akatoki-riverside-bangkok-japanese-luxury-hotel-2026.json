@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "prince-akatoki-riverside-bangkok-japanese-luxury-hotel-2026",
+  "route": "/nl/blog/prince-akatoki-riverside-bangkok-japanese-luxury-hotel-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Prince Akatoki Riverside Bangkok: openingsstatus",
+    "description": "Controleer de openingsstatus van The Prince Akatoki Riverside Bangkok, de ligging aan de Chao Phraya en wat je vóór boeken moet verifiëren.",
+    "primaryKeyword": "Prince Akatoki Riverside Bangkok",
+    "secondaryKeywords": ["nieuw hotel Bangkok 2026", "Japans hotel Bangkok", "rivierhotel Bangkok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/prince-akatoki-riverside-bangkok-japanese-luxury-hotel-2026/"
+  },
+  "hero": {
+    "eyebrow": "Nieuw hotel · status eerst",
+    "title": "The Prince Akatoki Riverside Bangkok",
+    "accent": "Nog niet blind boeken",
+    "description": "De officiële hotelpagina noemt een opening in 2026, maar geen betrouwbare openingsdag. Controleer boekbaarheid, faciliteiten en voorwaarden voor jouw verblijfsdata.",
+    "image": "/images/redesign/editorial/prince-akatoki-riverside-bangkok-japanese-luxury-hotel-2026-hero.webp",
+    "imageAlt": "Serene Japans geïnspireerde rivierarchitectuur aan de Chao Phraya bij avondlicht",
+    "primaryCta": { "label": "Bekijk de status", "href": "#status" },
+    "secondaryCta": { "label": "Vergelijk de ligging", "href": "#match" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "The Prince Akatoki Riverside Bangkok staat officieel gepland voor 2026 aan 68 Charoen Krung Road. Zolang jouw datum niet rechtstreeks boekbaar en bevestigd is, behandel je het hotel als een aankomende opening.",
+  "blocks": [
+    { "kind": "callout", "id": "status", "tone": "warning", "title": "2026 is geen openingsgarantie", "description": "Seibu Prince noemt alleen het jaar. Oudere artikelen met kwartaal- of openingsdagclaims zijn geen voldoende bewijs voor jouw verblijf." },
+    { "kind": "comparison", "id": "match", "title": "Past deze rivierligging bij je reis?", "options": [
+      { "title": "Rivier en erfgoed", "description": "Logisch als Charoen Krung, bootverbindingen en de historische rivierzone centraal staan.", "label": "Sterke match" },
+      { "title": "BTS-zware stadsdagen", "description": "Vergelijk de werkelijke transfer naar BTS met een hotel in Sukhumvit of Silom.", "label": "Routecheck" },
+      { "title": "Openingsfase", "description": "Vraag expliciet welke restaurants, bars, het zwembad, de pier en lounge operationeel zijn.", "label": "Extra controle" }
+    ]},
+    { "kind": "checklist", "id": "boekcheck", "title": "Controleer vóór betaling", "items": ["Is jouw exacte datum werkelijk boekbaar?", "Welke faciliteiten zijn operationeel?", "Wat is de totaalprijs inclusief belastingen?", "Welke annuleringsvoorwaarden gelden?", "Is de privéferry actief en volgens welk schema?", "Past het adres bij je dagelijkse route?"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is The Prince Akatoki Riverside Bangkok geopend?", "answer": "De officiële pagina noemt op 1 augustus 2026 een geplande opening in 2026, zonder betrouwbare openingsdag. Controleer je datum rechtstreeks." },
+      { "question": "Waar komt het hotel?", "answer": "Seibu Prince noemt 68 Charoen Krung Road in Bang Rak, aan de Chao Phraya." },
+      { "question": "Wat kost een kamer?", "answer": "Een vaste vanafprijs veroudert snel. Vergelijk alleen een live totaalprijs voor je data, bezetting, kamertype en voorwaarden." }
+    ]},
+    { "kind": "related", "id": "vergelijken", "title": "Vergelijk vóór je kiest", "items": [
+      { "title": "Beste hotels in Bangkok", "description": "Vergelijk gevestigde alternatieven per buurt.", "href": "/nl/best-hotels/bangkok/" },
+      { "title": "Waar overnachten in Bangkok?", "description": "Koppel de buurt aan je dagplanning.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
+      { "title": "Bangkok-gids", "description": "Plan vervoer en bezienswaardigheden samen.", "href": "/nl/city/bangkok/" }
+    ]},
+    { "kind": "sources", "id": "bronnen", "title": "Officiële statusbronnen", "items": [
+      { "title": "The Prince Akatoki Riverside Bangkok", "publisher": "Seibu Prince Hotels", "url": "https://www.seibuprince.com/the-prince-akatoki-riverside-bangkok", "checkedAt": "2026-08-01", "note": "Officiële projectpagina: opening in 2026, adres, 255 kamers en geplande faciliteiten." },
+      { "title": "The Prince Akatoki brand", "publisher": "Seibu Prince Hotels", "url": "https://www.seibuprince.com/the-prince-akatoki", "checkedAt": "2026-08-01", "note": "Merkcontext; niet gebruikt als openingsbewijs." }
+    ]}
+  ]
+}

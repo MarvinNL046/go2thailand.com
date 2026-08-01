@@ -39,7 +39,7 @@ This itinerary is specifically designed for first-time visitors. It follows the 
 | **Daily budget?** | Budget: $30–50/day. Mid-range: $50–80/day. Comfortable: $80–120/day. |
 | **Best time to go?** | November–February (cool, dry). Avoid March–April in the north (burning season). |
 | **What to book ahead?** | Flights, peak-season hotels, cooking classes, ethical elephant sanctuaries. |
-| **Do I need a visa?** | Most nationalities get 30–60 days visa-free. Check [visa requirements](https://go2-thailand.com/blog/thailand-visa-guide-2026/). |
+| **Do I need a visa?** | Most nationalities get 30–60 days visa-free. Check [visa requirements](https://go2-thailand.com/visa/). |
 
 ## Why This Route Works for First-Timers
 
@@ -60,11 +60,11 @@ You can do this route in 10 days (tight but doable) or 14 days (comfortable, wit
 
 ### Day 1: Arrival and Orientation
 
-**What to do:** Land at Suvarnabhumi Airport (BKK). Clear immigration (have your [Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/) QR code ready — you must complete this online at least 3 days before arrival). Take the Airport Rail Link to the city center (45 minutes, 45 THB/$1.30) or grab a metered taxi (300–400 THB/$8–11 to central Bangkok).
+**What to do:** Land at Suvarnabhumi Airport (BKK). Clear immigration (have your [Thailand Digital Arrival Card](https://go2-thailand.com/visa/digital-arrival-card/) QR code ready — you must complete this online at least 3 days before arrival). Take the Airport Rail Link to the city center (45 minutes, 45 THB/$1.30) or grab a metered taxi (300–400 THB/$8–11 to central Bangkok).
 
 **First-timer tip:** Get a Thai SIM card or eSIM at the airport. You'll need data for Grab (Thailand's Uber), Google Maps, and translating menus. AIS and TrueMove offer tourist SIMs for 299–599 THB ($8–17) with 15–30 days of data. Prefer eSIM? Grab one from [Saily](https://saily.tpo.lv/rf9lidnE) before you fly and have data the moment you land.
 
-**Evening:** Walk your neighborhood, eat [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) for dinner. Try pad kra pao (basil stir-fry with rice and fried egg) — it's Thailand's everyday comfort food. Cost: 50–80 THB ($1.50–2.30). Vegan? Look for the [yellow เจ flag for Jay food](https://go2-thailand.com/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/) stalls — fully plant-based meals from 50 THB.
+**Evening:** Walk your neighborhood, eat [street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) for dinner. Try pad kra pao (basil stir-fry with rice and fried egg) — it's Thailand's everyday comfort food. Cost: 50–80 THB ($1.50–2.30). Vegan? Look for the [yellow เจ flag for Jay food](https://go2-thailand.com/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/) stalls — fully plant-based meals from 50 THB.
 
 ### Day 2: Temples and the Old City
 
@@ -78,7 +78,7 @@ You can do this route in 10 days (tight but doable) or 14 days (comfortable, wit
 
 ### Day 3: Markets, Food, and Modern Bangkok
 
-**Morning:** Visit a floating market ([Damnoen Saduak](https://go2-thailand.com/city/bangkok/attractions/damnoen-saduak/) or the smaller, less touristy Amphawa). See our [Bangkok floating markets guide](https://go2-thailand.com/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) for what to expect. Book a [day trip from Bangkok](https://go2-thailand.com/blog/best-day-trips-from-bangkok/) or arrange transport via Grab.
+**Morning:** Visit a floating market ([Damnoen Saduak](https://go2-thailand.com/city/bangkok/attractions/) or the smaller, less touristy Amphawa). See our [Bangkok floating markets guide](https://go2-thailand.com/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) for what to expect. Book a [day trip from Bangkok](https://go2-thailand.com/blog/best-day-trips-from-bangkok/) or arrange transport via Grab.
 
 **Afternoon:** Explore modern Bangkok — the [BTS Skytrain](https://go2-thailand.com/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) connects malls, neighborhoods, and rooftop bars. Visit Chinatown (Yaowarat Road) for the best [street food in Bangkok](https://go2-thailand.com/blog/best-street-food-markets-bangkok/).
 
@@ -130,7 +130,7 @@ Fly from Chiang Mai to your island destination. You have two main choices:
 - **[Koh Tao](https://go2-thailand.com/islands/koh-tao/)** — Best for [diving](https://go2-thailand.com/blog/koh-tao-guide-diving-beaches-budget-travel/) and snorkeling. Small, budget-friendly, laid-back.
 
 ### Andaman Coast (West Side)
-- **[Phuket](https://go2-thailand.com/islands/phuket/)** — Largest island, most infrastructure, direct flights. Read our [Phuket guide](https://go2-thailand.com/blog/phuket-travel-guide-2026/).
+- **[Phuket](https://go2-thailand.com/city/phuket/)** — Largest island, most infrastructure, direct flights. Read our [Phuket guide](https://go2-thailand.com/blog/phuket-travel-guide-2026/).
 - **[Krabi](https://go2-thailand.com/blog/krabi-travel-guide/)** — Mainland base with stunning limestone cliffs. Gateway to smaller islands.
 - **[Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/)** — Dramatic scenery, Maya Bay, great snorkeling. Crowded but worth a day trip or overnight.
 - **[Koh Lanta](https://go2-thailand.com/islands/koh-lanta/)** — Quieter, more relaxed. Excellent for families and those avoiding party scenes.
@@ -163,7 +163,7 @@ These are the errors we see first-time visitors make again and again:
 
 1. **Overbooking your schedule.** You don't need to see everything. Thailand rewards slow travel. Leave gaps in your itinerary for spontaneous discoveries — a random street food stall, a conversation with a local, an unplanned beach.
 
-2. **Skipping street food.** Eating only in hotel restaurants means missing Thailand's greatest strength. [Street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/) is safe (look for busy stalls with high turnover), incredibly cheap, and often better than restaurant food. Read our [street food beginner's guide](https://go2-thailand.com/blog/bangkok-street-food-beginners/) or check [how to eat like a local for under $5](https://go2-thailand.com/blog/eat-like-local-thailand-under-5-dollars/).
+2. **Skipping street food.** Eating only in hotel restaurants means missing Thailand's greatest strength. [Street food](https://go2-thailand.com/thailand-street-food/) is safe (look for busy stalls with high turnover), incredibly cheap, and often better than restaurant food. Read our [street food beginner's guide](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) or check [how to eat like a local for under $5](https://go2-thailand.com/blog/eat-like-local-thailand-under-5-dollars/).
 
 3. **Only visiting tourist areas.** The Grand Palace and Phi Phi are spectacular, but they're also packed. Balance famous sites with quieter spots — [Talad Noi](https://go2-thailand.com/blog/24-hours-talad-noi-bangkok-hidden-gem/) in Bangkok, local temples in Chiang Mai, or a less-visited island like [Koh Chang](https://go2-thailand.com/blog/koh-chang-guide-thailand-eastern-island/).
 
@@ -185,7 +185,7 @@ Here's a realistic breakdown for the full 10–14 day itinerary (excluding inter
 | **10-day total** | $350–600 | $800–1,800 | $2,000–4,500 |
 | **14-day total** | $500–850 | $1,100–2,500 | $2,800–6,000 |
 
-For a detailed daily cost breakdown, check our [Thailand budget guide](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/).
+For a detailed daily cost breakdown, check our [Thailand budget guide](https://go2-thailand.com/thailand-index/budget/).
 
 ## What to Book in Advance vs. On Arrival
 
@@ -208,9 +208,9 @@ For a detailed daily cost breakdown, check our [Thailand budget guide](https://g
 
 - **Grab app** is your best friend. Works for taxis, motorbike taxis, and food delivery. Always cheaper and safer than negotiating with random drivers.
 - **Currency:** Thai Baht (THB). 1 USD is roughly 35 THB (2026 rates). ATMs are everywhere but charge 220 THB ($6.30) per withdrawal. Use ATMs inside bank branches for security. Bring a travel card with low foreign transaction fees.
-- **SIM card or eSIM:** Get one at the airport on arrival. You need mobile data for maps, Grab, and translation apps. Budget 299–599 THB ($8–17) for 15–30 days. See our [best SIM card and eSIM guide for Thailand](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/).
+- **SIM card or eSIM:** Get one at the airport on arrival. You need mobile data for maps, Grab, and translation apps. Budget 299–599 THB ($8–17) for 15–30 days. See our [best SIM card and eSIM guide for Thailand](/travel-guides/sim-card-thailand/).
 - **Transport apps:** Google Maps works well in Thailand. For intercity buses and trains, book through [12Go Asia](https://12go.tpo.lv/tNA80urD) — it aggregates routes and lets you compare options.
-- **[Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/):** Complete this online at least 3 days before your flight. It's free and mandatory.
+- **[Thailand Digital Arrival Card](https://go2-thailand.com/visa/digital-arrival-card/):** Complete this online at least 3 days before your flight. It's free and mandatory.
 
 ## Frequently Asked Questions
 
@@ -224,11 +224,11 @@ For a first visit, [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) or
 
 ### Is Thailand safe for first-time travelers?
 
-Very safe. Thailand welcomes over 35 million tourists annually and has excellent tourism infrastructure. Common-sense precautions apply — don't leave valuables unattended, use metered taxis or Grab, and be aware of common [scams](https://go2-thailand.com/blog/thailand-travel-scams-2026/). Read our full [safety guide](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026/) for details.
+Thailand cannot be reduced to a permanent safety label or a visitor count. Check current official advice for the exact route, use identifiable transport, keep control of documents and drinks, and recognise common [pressure and scam patterns](/practical-info/scams-safety/). Our full [Thailand safety guide](/is-thailand-safe/) covers the current country-level decision.
 
 ### Can I do this itinerary solo?
 
-Absolutely. Thailand is one of the best countries in the world for [solo travel](https://go2-thailand.com/blog/solo-female-travel-thailand-safety-tips/), including for women. Hostels are social, other travelers are everywhere, and locals are welcoming. Check our [Thailand solo travel boom guide](https://go2-thailand.com/blog/thailand-solo-travel-boom-2026-tips-destinations/) for practical tips. You'll never feel truly alone unless you want to.
+Thailand can work well for solo travel when the route matches the traveller. A private room with a social common space, a class or a small-group activity can create connection without giving up control of the itinerary. Women planning the trip independently can use our [solo female travel in Thailand guide](/travel-guides/solo-female-travel-thailand/) for arrival, accommodation, transport and return-route decisions. The separate [Thailand solo-travel trend article](/blog/thailand-solo-travel-boom-2026-tips-destinations/) covers the current tourism context rather than promising that company or support will always be available.
 
 ### Should I book a package tour instead?
 

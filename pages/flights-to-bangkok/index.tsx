@@ -7,6 +7,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import DestinationFlightsGuideNl from '../../components/flights/DestinationFlightsGuideNl';
 
 interface Route {
   code: string;
@@ -37,6 +38,10 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (isNl) {
+    return <DestinationFlightsGuideNl destination="bangkok" routes={routes} />;
+  }
 
   const tiers: Array<'domestic' | 'regional' | 'long-haul'> = ['domestic', 'regional', 'long-haul'];
   const grouped = tiers.reduce<Record<string, Route[]>>((acc, t) => {
@@ -78,7 +83,7 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
       {
         '@type': 'Question',
         name: 'When is the cheapest time to fly to Bangkok?',
-        acceptedAnswer: { '@type': 'Answer', text: 'May to early October (low season — south-west monsoon) prices drop 25–40% on most routes. The absolute cheapest fares cluster in mid-September and early November (just before high season starts) and again in late May/early June. Christmas/New Year, Chinese New Year (late Jan/early Feb) and Songkran (mid-April) are most expensive — book 4–6 months ahead for those windows.' }
+        acceptedAnswer: { '@type': 'Answer', text: 'There is no reliably cheapest month. Search flexible dates around your trip and compare the same fare class, baggage, connection and change conditions. Holiday and school-break demand can materially change the final total.' }
       },
       {
         '@type': 'Question',
@@ -141,7 +146,7 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
               </div>
             )}
             <div className="mt-5 flex flex-wrap gap-x-5 gap-y-1 text-xs opacity-90">
-              <span>✔ All {nonSearchCount} routes verified May 2026</span>
+              <span>✔ {nonSearchCount} routes with live-fare links</span>
               <span>✔ BKK + DMK both covered</span>
               <span>✔ 30-day cookie tracking</span>
               <span>✔ Honest airline notes</span>
@@ -149,7 +154,7 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">Quick comparison: {nonSearchCount} routes to Bangkok</h2>
@@ -186,7 +191,7 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
                 </tbody>
               </table>
             </div>
-            <p className="mt-3 text-xs text-gray-500">Prices are typical low-to-high bands in 2026 economy class — not promotional fares. Always confirm at booking.</p>
+            <p className="mt-3 text-xs text-gray-500">Price bands are planning guidance, not live quotes. Confirm the same itinerary, baggage and final payable total before booking.</p>
           </section>
 
           {/* Detailed sections per tier */}
@@ -284,8 +289,8 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
             <p className="mt-2 text-gray-700">Plan the rest of your Bangkok trip:</p>
             <div className="mt-4 flex flex-wrap gap-3">
               <Link href="/best-hotels/bangkok/" className="rounded-full bg-thailand-blue text-white px-5 py-2 text-sm font-semibold hover:bg-blue-700">🏨 Best hotels in Bangkok</Link>
-              <Link href="/where-to-stay/bangkok/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">🗺️ Where to stay (areas)</Link>
-              <Link href="/best-hotels/bangkok/family/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">👨‍👩‍👧 Family hotels</Link>
+              <Link href="/best-hotels/bangkok/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">🗺️ Where to stay (areas)</Link>
+              <Link href={isNl ? '/best-hotels/bangkok/' : '/best-hotels/bangkok/family/'} className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">👨‍👩‍👧 Family hotels</Link>
               <Link href="/grand-palace-tickets/" className="rounded-full bg-white text-thailand-blue border border-thailand-blue px-5 py-2 text-sm font-semibold hover:bg-thailand-blue hover:text-white">Grand Palace tickets</Link>
               <Link href="/transport/bangkok-to-chiang-mai/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">Bangkok → Chiang Mai</Link>
               <Link href="/transport/bangkok-to-phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">Bangkok → Phuket</Link>
@@ -311,16 +316,19 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
           {/* Methodology */}
           <section className="rounded-2xl bg-gray-50 border border-gray-200 p-6 text-sm text-gray-700">
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">Methodology</h2>
-            <p>Routes verified May 2026 against Trip.com schedules and airline timetables. Price bands are typical economy fares (low-to-high) outside peak weeks, not promotional sales. Duration ranges include minimum reasonable layover time for 1-stop options. We earn a commission when readers book through Trip.com — this never changes the price you pay or the routes we recommend. Last verified May 2026.</p>
+            <p>Route and duration guidance is editorial context, while schedules, fares, baggage and connection rules remain live supplier information. Check the final itinerary and payable total before booking. We may earn commission through Trip.com links at no extra cost to you; this does not determine the editorial order.</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
 }
 
-export const getStaticProps: GetStaticProps<Props> = async () => {
+export const getStaticProps: GetStaticProps<Props> = async ({ locale }) => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'flights', 'bangkok-routes.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  return { props: { routes: data.routes, lastUpdated: data.lastUpdated }, revalidate: 604800 };
+  const routes = locale === 'nl'
+    ? data.routes.map(({ code, from, fromName, tier, partnerUrl }: Route) => ({ code, from, fromName, tier, partnerUrl }))
+    : data.routes;
+  return { props: { routes, lastUpdated: data.lastUpdated }, revalidate: 604800 };
 };

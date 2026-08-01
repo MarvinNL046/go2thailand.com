@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T09:38:06.174Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai shrimp paste chilli dip",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thai shrimp paste chilli dip"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai shrimp paste chilli dip",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

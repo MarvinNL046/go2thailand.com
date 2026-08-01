@@ -35,10 +35,10 @@ Thailand welcomes over 35 million international visitors annually, and the vast 
 | **Is Thailand generally safe?** | Yes, it's one of Southeast Asia's safer destinations. Exercise normal precautions in tourist areas. |
 | **What are the biggest risks?** | Petty theft, drink spiking, motorbike accidents, and tourist scams—not violent crime. |
 | **Which areas are safest?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and established beach resorts. Avoid border regions and late-night street drinking. |
-| **Do I need travel insurance?** | Absolutely. Medical care is affordable but comprehensive [travel insurance](https://go2-thailand.com/travel-insurance-thailand/) protects against emergencies. |
+| **Do I need travel insurance?** | Absolutely. Medical care is affordable but comprehensive [travel insurance](https://go2-thailand.com/travel-insurance/) protects against emergencies. |
 | **What's the biggest scam?** | Gem scams, overpriced tuk-tuks, and drink spiking in nightlife areas. Always use metered taxis or apps. |
 | **Should I be worried about crime?** | Petty theft is more common than violent crime. Violent incidents involving tourists are rare if you avoid late-night confrontations. |
-| **Is it safe for solo female travelers?** | Yes, but take standard precautions: avoid walking alone very late, don't accept drinks from strangers, trust your instincts. |
+| **Is it safe for solo female travellers?** | No trip has a blanket guarantee. Check arrival, accommodation access, transport, drink control and the route home. |
 
 ---
 
@@ -116,7 +116,7 @@ During our time exploring Bangkok's [Chatuchak Market](/blog/chatuchak-market-ba
 
 ## 3. Tourist Scams: Know the Tricks
 
-Thailand's scam ecosystem is sophisticated and well-documented. The good news? Most scams are easily avoided once you know them. We've catalogued the most common ones below. For a deep-dive, see our dedicated [Thailand travel scams guide](/blog/thailand-travel-scams-2026/).
+Thailand's scam ecosystem is sophisticated and well-documented. The good news? Most scams are easily avoided once you know them. We've catalogued the most common ones below. For a deep-dive, see our dedicated [Thailand travel scams guide](/practical-info/scams-safety/).
 
 ### The Gem Scam (Avoid Completely)
 
@@ -176,7 +176,7 @@ Unmarked "taxis" prey on tourists at airports and train stations. They overcharg
 
 ## 4. Motorbike Accidents: The Underrated Risk
 
-Here's something tourists often underestimate: **motorbike accidents are the leading cause of injury to foreign visitors in Thailand.** Understanding your [daily budget in Thailand](/blog/thailand-budget-2026-daily-costs/) helps you factor in safer transport costs from the start. We've seen this firsthand—a friend rented a scooter without a helmet, hit a pothole, and spent two weeks in a Bangkok hospital with a fractured arm.
+Here's something tourists often underestimate: **motorbike accidents are the leading cause of injury to foreign visitors in Thailand.** Understanding your [daily budget in Thailand](/thailand-index/budget/) helps you factor in safer transport costs from the start. We've seen this firsthand—a friend rented a scooter without a helmet, hit a pothole, and spent two weeks in a Bangkok hospital with a fractured arm.
 
 ### Why Motorbikes Are Dangerous
 
@@ -241,7 +241,7 @@ Thailand's healthcare system is excellent—and shockingly affordable. Private h
 - Hospital stay (private, per night): 3,000-10,000 baht ($84-280 USD)
 - Emergency room: 1,000-5,000 baht ($28-140 USD)
 
-**Recommendation:** Get comprehensive [travel insurance](https://go2-thailand.com/travel-insurance-thailand/) before arrival. It costs 15-30 USD for two weeks and covers medical evacuation, which can cost 100,000+ baht if needed. [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) is a popular choice among long-term travelers, while [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) offers affordable short-trip plans starting from around $14.
+**Recommendation:** Get comprehensive [travel insurance](https://go2-thailand.com/travel-insurance/) before arrival. It costs 15-30 USD for two weeks and covers medical evacuation, which can cost 100,000+ baht if needed. [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) is a popular choice among long-term travelers, while [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) offers affordable short-trip plans starting from around $14.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -311,7 +311,7 @@ In our experience, confrontations with Thai people almost always stem from touri
 
 ## 8. Women Travelers: Safety Considerations
 
-Thailand is generally safe for solo female travelers, but gender-specific risks exist. We've traveled with female colleagues throughout Thailand and observed patterns worth noting. Our dedicated [solo female travel safety guide](/blog/solo-female-travel-thailand-safety-tips/) goes deeper on specific precautions.
+Thailand does not come with a blanket safety verdict for women travelling alone. Arrival time, accommodation access, transport, drink control and the route home all change the decision. Our independently researched [solo female travel in Thailand guide](/travel-guides/solo-female-travel-thailand/) turns those moments into a practical plan and points back to current official advice.
 
 ### Real Risks for Women
 
@@ -390,7 +390,7 @@ Internet safety is often overlooked but critical in Thailand. Public WiFi is ubi
 
 ### Getting Connected Safely
 
-Purchase a local eSIM or SIM card upon arrival. Major providers (AIS, Dtac, True Move) offer tourist packages: 7-day plans with 4-8GB data cost 300-500 baht ($8-14 USD). This is cheaper and more secure than relying on public WiFi. See our [best SIM card & eSIM guide for Thailand 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) for a full comparison.
+Purchase a local eSIM or SIM card upon arrival. Major providers (AIS, Dtac, True Move) offer tourist packages: 7-day plans with 4-8GB data cost 300-500 baht ($8-14 USD). This is cheaper and more secure than relying on public WiFi. See our [best SIM card & eSIM guide for Thailand 2026](/travel-guides/sim-card-thailand/) for a full comparison.
 
 Alternatively, arrange an eSIM before departure through services like Saily. Rates are slightly higher but convenient.
 
@@ -443,11 +443,11 @@ Avoid border regions near Myanmar and Cambodia (active conflict zones). Within t
 
 ### Do I need a visa, and is the entry process safe?
 
-Most nationalities get 30-60 days visa-free. You must complete the Thailand Digital Arrival Card (TM.6) online at [tdac.immigration.go.th](https://tdac.immigration.go.th/arrival-card/#/home) at least 3 days before arrival. The process is straightforward and secure. See our [Thailand Digital Arrival Card guide](/blog/thailand-digital-arrival-card-tdac-guide/) for step-by-step instructions, and our [Thailand visa guide](/blog/thailand-visa-guide-2026/) for longer stays.
+Most nationalities get 30-60 days visa-free. You must complete the Thailand Digital Arrival Card (TM.6) online at [tdac.immigration.go.th](https://tdac.immigration.go.th/arrival-card/#/home) at least 3 days before arrival. The process is straightforward and secure. See our [Thailand Digital Arrival Card guide](/visa/digital-arrival-card/) for step-by-step instructions, and our [Thailand visa guide](/visa/) for longer stays.
 
 ### Is it safe to eat street food?
 
-Yes. Thai street food is generally safe and delicious. The risk of food poisoning is low if you eat at busy stalls with high turnover (food doesn't sit long). Avoid food that's been sitting in the heat for hours. Stick to cooked items rather than raw. We eat street food constantly and rarely get sick. Start with our [Bangkok street food beginner's guide](/blog/bangkok-street-food-beginners/) and explore the [Jodd Fairs night market](/blog/jodd-fairs-bangkok-night-market-guide/) for a safe, authentic introduction.
+Yes. Thai street food is generally safe and delicious. The risk of food poisoning is low if you eat at busy stalls with high turnover (food doesn't sit long). Avoid food that's been sitting in the heat for hours. Stick to cooked items rather than raw. We eat street food constantly and rarely get sick. Start with our [Bangkok street food beginner's guide](/blog/best-street-food-markets-bangkok/) and explore the [Jodd Fairs night market](/blog/jodd-fairs-bangkok-night-market-guide/) for a safe, authentic introduction.
 
 ### Should I get travel insurance?
 
@@ -465,7 +465,7 @@ Yes, for both men and women. Thousands of solo travelers visit Thailand annually
 
 The key is informed caution, not paranoia. Don't let fear prevent you from exploring this magical country. We've spent years here and keep coming back because Thailand—despite its quirks—is genuinely welcoming and safe for respectful travelers.
 
-Ready to book your trip? Check out our [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and [island guides](https://go2-thailand.com/islands/) for detailed planning. If you're planning day trips, see our [best day trips from Bangkok guide](/blog/best-day-trips-from-bangkok/)—including the [Ayutthaya day trip by train](/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/). And don't skip [travel insurance](https://go2-thailand.com/travel-insurance-thailand/)—it's the one thing that makes everything else worry-free.
+Ready to book your trip? Check out our [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and [island guides](https://go2-thailand.com/islands/) for detailed planning. If you're planning day trips, see our [best day trips from Bangkok guide](/blog/best-day-trips-from-bangkok/)—including the [Ayutthaya day trip by train](/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/). And don't skip [travel insurance](https://go2-thailand.com/travel-insurance/)—it's the one thing that makes everything else worry-free.
 
 **Have questions about safety in a specific area?** Drop a comment below or reach out to our team. We've been there and can give you the real story.
 

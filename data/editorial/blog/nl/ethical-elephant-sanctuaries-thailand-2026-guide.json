@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "ethical-elephant-sanctuaries-thailand-2026-guide",
+  "route": "/nl/blog/ethical-elephant-sanctuaries-thailand-2026-guide/",
+  "cluster": "attractions",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Olifantenopvang Thailand: gids geconsolideerd | Go2Thailand",
+    "description": "Deze dubbele route is gearchiveerd. Gebruik de landelijke owner voor actuele olifantenwelzijnscriteria en observation-only locaties in Thailand.",
+    "primaryKeyword": "olifantenopvang Thailand gids geconsolideerd",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/ethical-elephant-sanctuaries-thailand-2026-guide/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Eén landelijke welzijnsowner",
+    "title": "Ethische olifantenopvang",
+    "accent": "Observeer zonder contact",
+    "description": "Deze dubbele blogroute is gearchiveerd. Gebruik de actuele landelijke check voor locaties, rode vlaggen en regionale keuzes.",
+    "image": "/images/redesign/editorial/ethical-elephant-sanctuaries-thailand-2026-guide-hero.webp",
+    "imageAlt": "Olifanten die vrij foerageren terwijl bezoekers vanaf een afgescheiden platform observeren",
+    "primaryCta": { "label": "Naar de landelijke gids", "href": "/nl/best-elephant-sanctuaries-in-thailand/" },
+    "secondaryCta": { "label": "Welzijnsgrens", "href": "#ondergrens" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "split", "navigation": "compact", "density": "standard" },
+  "quickAnswer": "Gebruik de landelijke owner. Een verantwoorde ondergrens is observatie op afstand, zonder rijden, shows, baden, selfies, aanraken of voeren zonder barrière.",
+  "blocks": [
+    { "kind": "callout", "id": "consolidatie", "tone": "cream", "title": "Deze route bezit de zoekintentie niet meer", "description": "De inhoud overlapt de bestaande landelijke owner. Eén actuele pagina voorkomt tegenstrijdige locatie- en welzijnsclaims.", "cta": { "label": "Open de landelijke gids", "href": "/nl/best-elephant-sanctuaries-in-thailand/" } },
+    { "kind": "checklist", "id": "ondergrens", "title": "Vermijd direct", "items": ["Olifantenritten", "Shows en kunstjes", "Baden of wassen met bezoekers", "Selfies, knuffelen en aanraken", "Voeren zonder barrière", "Jonge dieren als foto-attractie"] },
+    { "kind": "card-grid", "id": "controle", "title": "Observation only is het begin", "cards": [
+      { "title": "Ruimte en keuze", "description": "Olifanten moeten kunnen foerageren, bewegen en afstand nemen.", "label": "Gedrag" },
+      { "title": "Sociale groepen", "description": "Controleer of passende sociale contacten mogelijk zijn.", "label": "Welzijn" },
+      { "title": "Zorg en beleid", "description": "Vraag naar veterinaire zorg, mahoutbeleid en fokken voor toerisme.", "label": "Organisatie" }
+    ] },
+    { "kind": "callout", "id": "veiligheid", "tone": "warning", "title": "Afstand beperkt risico, niet tot nul", "description": "Olifanten zijn grote wilde dieren. Bespreek mobiliteit, zwangerschap of medische zorgen met een bevoegde arts en vraag de locatie naar terrein, hitte en noodprocedures." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is ieder sanctuary ethisch?", "answer": "Nee. De naam is niet beschermd als welzijnsbewijs. Controleer programma, leefruimte, zorg en actuele onafhankelijke criteria." },
+      { "question": "Mag ik olifanten baden?", "answer": "Nee. ABTA en World Animal Protection wijzen toeristenbaden af; kies observeren zonder direct contact." },
+      { "question": "Is voeren altijd onschuldig?", "answer": "Nee. Voeren stuurt gedrag en creëert contact. De betere ondergrens is observation only; sommige transitievenues gebruiken nog een barrière." }
+    ] },
+    { "kind": "related", "id": "owner", "title": "Gebruik de actuele owner", "items": [
+      { "title": "Beste olifantenopvangen in Thailand", "description": "Landelijke selectiecriteria, actuele locaties en regionale keuzes.", "href": "/nl/best-elephant-sanctuaries-in-thailand/" },
+      { "title": "Olifantenopvang Chiang Mai", "description": "Lokale route, programma- en transfercheck.", "href": "/nl/chiang-mai-elephant-sanctuary/" },
+      { "title": "Olifantenopvang Phuket", "description": "Observation-led keuze voor Phuket.", "href": "/nl/phuket-tours/elephant-sanctuary/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Welzijnsbronnen", "items": [
+      { "title": "Captive elephants still suffering in Thailand", "publisher": "World Animal Protection", "url": "https://www.worldanimalprotection.org/latest/news/captive-elephants-thailand-tourism-welfare-report-2026/", "checkedAt": "2026-08-01", "note": "2026-publicatie over de 2024/25-veldbeoordeling en observation-only ontwikkeling." },
+      { "title": "Elephant-friendly tourist guide", "publisher": "World Animal Protection", "url": "https://www.worldanimalprotection.org/elephant-friendly-tourist-guide", "checkedAt": "2026-08-01", "note": "Actuele locatie- en transitie-informatie; beleid kan veranderen." },
+      { "title": "How the travel industry is working to improve elephant welfare", "publisher": "ABTA", "url": "https://www.abta.com/sustainability/animal-welfare/how-travel-industry-working-improve-welfare-elephants-tourism", "checkedAt": "2026-08-01", "note": "Rijden en baden gelden als onacceptabele activiteiten." }
+    ] }
+  ]
+}

@@ -68,7 +68,7 @@ The key to eating for under $5 daily is knowing which dishes offer the best valu
 - **[Tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup):** 50–70 baht ($1.40–$2.00). Often served with rice. Extremely filling.
 - **Khao pad (fried rice):** 40–60 baht ($1.10–$1.70). Leftover rice stir-fried with egg, vegetables, and meat. Available at almost every food stall.
 
-During our time in [Bangkok](https://go2-thailand.com/city/bangkok/), we discovered that ordering khao pad with a fried egg (kai dao) added only 10 baht but made the meal significantly more satisfying. Small additions like this—an extra egg, extra sauce, or a side of vegetables—rarely cost more than 5–10 baht.
+Small additions like this—an extra egg, extra sauce, or a side of vegetables—rarely cost more than 5–10 baht.
 
 <div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
@@ -87,24 +87,6 @@ During our time in [Bangkok](https://go2-thailand.com/city/bangkok/), we discove
 Let's break down exactly what a $5 day of eating looks like. These are actual prices we've recorded in [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and smaller towns.
 
 ### Budget Day #1: The Street Food Minimalist (170 baht / $4.70 USD)
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 | Meal | Dish | Cost |
@@ -138,22 +120,6 @@ Let's break down exactly what a $5 day of eating looks like. These are actual pr
 
 These aren't theoretical budgets—they're meals we've actually eaten. The key is **avoiding tourist areas entirely** and eating where locals eat.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & [Activities](https://getyourguide.tpo.lv/GuAFfGGK)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -163,7 +129,7 @@ The location where you eat matters more than what you eat. A pad thai from a str
 
 ### Street Food Carts: The Gold Standard
 
-Street carts are the cheapest option, but they require confidence. You're eating from a cart with no seating, often standing or sitting on a plastic stool. The hygiene depends entirely on the vendor's practices. In our experience, the busiest carts—the ones with lines of local workers—are the safest bets. High turnover means fresh ingredients.
+Street carts are the cheapest option, but they require confidence. You're eating from a cart with no seating, often standing or sitting on a plastic stool. The hygiene depends entirely on the vendor's practices. High turnover means fresh ingredients.
 
 **Best times to visit street carts:**
 - **Breakfast (6–9 a.m.):** Khao man gai, jok, and sai oua vendors are fully stocked
@@ -199,24 +165,8 @@ Every neighborhood in Thailand has a wet market. In [Chiang Mai](/city/chiang-ma
 - **Sticky rice:** Sold in small portions (10–15 baht)
 - **Fresh juice:** Sugarcane, orange, watermelon (15–25 baht)
 
-During our three years in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we discovered that eating breakfast at Ton Payom Market cost us roughly 40 baht per person. The same meal at a tourist-facing restaurant would have been 150+ baht. The food quality was identical; the only difference was the clientele.
+The same meal at a tourist-facing restaurant would have been 150+ baht. The food quality was identical; the only difference was the clientele.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -225,24 +175,6 @@ During our three years in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/
 One of the biggest budget mistakes travelers make is buying bottled water and soft drinks. Thai vendors offer incredible drink options for 10–20 baht that are fresher and cheaper than anything you'll find in a convenience store.
 
 ### Cheap Drink Options
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 | Drink | Cost | Notes |
@@ -269,24 +201,8 @@ After living in Thailand and eating on a genuine local budget, we've discovered 
 - **Order rice dishes, not noodle dishes:** Rice-based meals (pad krapow, khao pad, khao man gai) are 20–30% cheaper than noodle dishes. You'll eat the same amount but spend less.
 - **Buy fruit from markets, not vendors:** A mango from a market vendor costs 20 baht. The same mango from a tourist-area fruit stand costs 60 baht. Markets are always cheaper.
 - **Eat at lunch, not dinner:** Many vendors offer lunch specials (11 a.m.–1 p.m.) that are cheaper than evening prices. Some offer rice + curry + soup for 50 baht at lunch, 70 baht at dinner.
-- **Use the "point and smile" method:** If you don't speak Thai, simply point at what you want and smile. Vendors will serve you the same portion and price as locals. Speaking English often triggers a price increase.
+- **Use the "point and smile" method:** If you don't speak Thai, simply point at what you want and smile. Speaking English often triggers a price increase.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -306,33 +222,15 @@ Thailand's geography matters for budget eating. Prices vary dramatically between
 
 **Our recommendation:** If you're serious about eating for under $5 daily, spend more time in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), Isaan, or rural areas. Avoid [Phuket](https://go2-thailand.com/city/phuket/) and major beach resort areas where tourism has inflated prices 2–3x.
 
-During our island-hopping phase in the south, we discovered that eating on [Koh Samui](https://go2-thailand.com/islands/koh-samui/) cost us 150–200 baht per meal. When we returned to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), the same meal cost 50 baht. The difference was purely location-based tourism pricing.
+When we returned to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), the same meal cost 50 baht. The difference was purely location-based tourism pricing.
 
 ---
 
 ## 9. Food Safety: Eating Street Food Confidently
 
-Western travelers often worry about street food safety in Thailand. In our experience, street food is actually safer than many Western restaurants because of high turnover and visible preparation. The key is knowing what to look for.
+Western travelers often worry about street food safety in Thailand. The key is knowing what to look for.
 
 ### Signs of a Safe Street Food Vendor
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 - **Long lines of local customers:** If locals are eating there, it's safe. Thais are extremely cautious about food safety.
@@ -368,7 +266,7 @@ Eating for under $5 daily is possible and genuinely enjoyable, but there are mom
 
 ### Worth Splurging On
 
-- **Specialty regional dishes:** If you're in [Chiang Mai](/city/chiang-mai/), try [khao soi](/food/khao-soi/) (Northern curry noodles) at a proper restaurant (80–120 baht). It's worth the extra cost because it's a regional specialty.
+- **Specialty regional dishes:** If you're in [Chiang Mai](/city/chiang-mai/), try [khao soi](/blog/khao-soi-chiang-mai-guide/) (Northern curry noodles) at a proper restaurant (80–120 baht). It's worth the extra cost because it's a regional specialty.
 - **Seafood in coastal areas:** If you're on an island like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), fresh seafood is actually cheaper than in inland areas. Splurge on grilled fish or prawns (100–150 baht).
 - **Cooking classes:** A Thai cooking class (typically 500–800 baht) teaches you skills that save money long-term. You'll understand Thai flavors and be able to cook at home. The [Blue Elephant Cooking School in Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/) is a premium option worth considering. Travelers following a plant-based diet should check our [vegan Thai food guide](/blog/vegan-thai-food-guide/), while those needing [halal food in Thailand](/blog/halal-food-thailand-guide/) will find more options than they expect.
 - **Night markets:** Bangkok's [best night markets](/blog/best-night-markets-bangkok-2026/) offer unique street food experiences. Prices are slightly higher (60–100 baht per item) but the variety and quality justify it.
@@ -416,6 +314,6 @@ Eating like a local in Thailand for under $5 daily isn't a budget hack—it's si
 
 The secret isn't finding "cheap" food; it's eating the food that Thais actually eat, in the places where Thais actually eat it. When you do this, you'll discover that Thailand isn't just affordable—it's an absolute steal for food lovers.
 
-Ready to explore Thailand on a real budget? Check out our [Thailand Budget Backpacker Guide](/blog/thailand-budget-backpacker-guide/) for accommodation and transport tips that pair perfectly with this eating strategy. And if you want to deepen your food knowledge, our [Thai Street Food Guide 2026](/blog/thai-street-food-guide-2026/) covers regional specialties and must-try dishes across the country. Before you go, check our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) and read our [Bangkok street food for beginners guide](/blog/bangkok-street-food-beginners/) to hit the ground running. For those with dietary needs, our [is Thai food gluten free guide](/blog/is-thai-food-gluten-free/) will help you navigate the street stalls safely.
+Ready to explore Thailand on a real budget? Check out our [Thailand Budget Backpacker Guide](/thailand-index/budget/) for accommodation and transport tips that pair perfectly with this eating strategy. And if you want to deepen your food knowledge, our [Thai Street Food Guide 2026](/thailand-street-food/) covers regional specialties and must-try dishes across the country. Before you go, check our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) and read our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) to hit the ground running. For those with dietary needs, our [is Thai food gluten free guide](/blog/is-thai-food-gluten-free/) will help you navigate the street stalls safely.
 
-**Trust us:** After three years in [Chiang Mai](/city/chiang-mai/), island-hopping the south, and navigating [Bangkok](/city/bangkok/) as locals, we can confidently say that eating like a local isn't just cheaper—it's genuinely better. Your taste buds and your wallet will thank you.
+Your taste buds and your wallet will thank you.

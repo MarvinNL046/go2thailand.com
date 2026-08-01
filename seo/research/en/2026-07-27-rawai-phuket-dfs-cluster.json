@@ -1,0 +1,2072 @@
+{
+  "captured_at": "2026-07-27T11:26:38.496Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "rawai phuket",
+  "costs": {
+    "suggestions": 0.02988,
+    "related": 0.01752,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "rawai phuket",
+    "phuket rawai",
+    "phuket rawai beach",
+    "rawai phuket beach",
+    "thailand phuket rawai beach",
+    "hotels in rawai phuket",
+    "phuket rawai hotels",
+    "rawai palm beach resort phuket reviews",
+    "thailand phuket rawai",
+    "rawai phuket restaurants",
+    "weather rawai phuket",
+    "things to do in rawai phuket",
+    "hotels in rawai beach phuket",
+    "rawai beach phuket hotels",
+    "best restaurant rawai phuket",
+    "best restaurants in rawai phuket",
+    "best restaurants rawai phuket",
+    "hotels rawai beach phuket thailand",
+    "hotels rawai phuket thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "kata beach",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket rawai",
+      "volume": 2400,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket rawai beach",
+      "volume": 2400,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai phuket beach",
+      "volume": 2400,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand phuket rawai beach",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel rawai palm beach resort phuket",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai palm beach resort phuket",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beaches in phuket",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the vijitt resort phuket rawai",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "selina serenity rawai phuket",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel rawai phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel-rawai phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in rawai phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels rawai phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "navatara phuket resort rawai",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket rawai hotels",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai hotel phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai hotels phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket rawai beach resort",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach resort",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai beach resort phuket",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach resort thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai beach resorts",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "karon to patong",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai palm beach resort phuket reviews",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai seafood market phuket",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand phuket rawai",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "friendship beach rawai phuket",
+      "volume": 90,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "friendship beach resort rawai phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket restaurants",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai restaurants",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather rawai phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach nightlife",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai phuket nightlife",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in rawai",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in rawai phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel rawai beach phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in rawai beach phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach hotel",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai beach hotel phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach phuket hotels",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai to patong",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in phuket for families",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurant rawai phuket",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants in rawai phuket",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants rawai phuket",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chalong to patong",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket airport to rawai",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai villas phuket",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top 5 beaches in phuket",
+      "volume": 30,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in phuket for couples",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in phuket map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel rawai phuket thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels rawai beach phuket thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels rawai phuket thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is rawai a good place to stay",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kathu to patong",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai palm beach resort location",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai phuket hotel",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket hotels",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai phuket map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai pier phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai to phuket airport",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "accommodation in rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "accommodation rawai beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airbnb phuket rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beaches near rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "beachfront hotel phuket rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beaches in phuket for swimming",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in phuket reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches near rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai food rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "car hire rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatrium hotel rawai beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap accommodation rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "crossfit phuket rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "food delivery rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gym rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "harmony naturist resort rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "harmony naturist resort rawai phuket reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get from phuket airport to rawai beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "intercontinental phuket rawai beach resort",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is rawai a good place to stay in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "le resort rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "live webcam phuket rawai beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "long term rental rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "long term rentals rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "motorbike rental rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to rawai beach distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to rawai bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to rawai taxi",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to rawai taxi fare",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket hostel at rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket island resort rawai beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket muay thai rawai",
+      "volume": 10,
+      "kd": 54,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket rawai weather",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket sea resort rawai",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket shooting range rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket to rawai",
+      "volume": 10,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai bars phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach club",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai beach holidays",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai beach map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai beach phuket map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach phuket nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai beach reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai beach things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai beach to patong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai beach to phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai girly bars",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai market phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai muay thai phuket",
+      "volume": 10,
+      "kd": 54,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai nightlife reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai palm beach resort phuket tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai palm beach resort to phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai park phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket accommodation",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket muay thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket things to do",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai phuket weather",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai restaurants phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai restaurants with a view",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai to patong distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rawai to phuket airport bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai to phuket town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai view menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "room for rent rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rooms to rent in rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scooter rental rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "selina rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "selina serenity rawai phuket address",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "selina serenity rawai phuket reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "serenity hotel rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "serenity rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shopping rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spa rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "stay phuket rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tambon rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tambon rawai to phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taxi fare from phuket airport to rawai beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taxi phuket airport to rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taxi rawai to patong beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "taxi rawai to phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the beachfront hotel phuket rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in rawai beach phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do rawai phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top 10 beaches in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "villa rawai phuket",
+      "volume": 10,
+      "kd": 17,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "webcam phuket rawai beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is rawai like in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is rawai in phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "windguru phuket rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "windmill hotel rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham phuket rawai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "yoga rawai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ban rawai phuket",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best western phuket rawai",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best western plus the beachfront rawai phuket",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "intercontinental phuket rawai beach resort opening",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "intercontinental rawai phuket",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ko he rawai mueang phuket district phuket thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket to rawai bus",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "amphoe mueang phuket rawai",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "car rental in rawai phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap house for rent rawai phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for rent phuket rawai",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "detox rawai phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "diving rawai phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fx fitness phuket rawai gym",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in rawai phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket international school rawai",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property to rent rawai phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket news",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rawai phuket postcode",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the beach phuket rawai",
+      "volume": null,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "yoga phuket rawai",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 1.375,
+      "keywordCount": 8,
+      "visibility": 7.7,
+      "estimatedTraffic": 1165.841
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 7,
+      "keywordCount": 7,
+      "visibility": 4.7,
+      "estimatedTraffic": 378.613
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 20.375,
+      "keywordCount": 8,
+      "visibility": 0.6499999999999999,
+      "estimatedTraffic": 23.908
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 13,
+      "keywordCount": 7,
+      "visibility": 1.8,
+      "estimatedTraffic": 57.93
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 22.142857142857142,
+      "keywordCount": 7,
+      "visibility": 1.4,
+      "estimatedTraffic": 101.17299999999999
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 10.166666666666666,
+      "keywordCount": 6,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 15.223
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 6,
+      "visibility": 1.45,
+      "estimatedTraffic": 409.38700000000006
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 6,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 66.962
+    },
+    {
+      "domain": "www.loveholidays.com",
+      "avgPosition": 6.4,
+      "keywordCount": 5,
+      "visibility": 2.5999999999999996,
+      "estimatedTraffic": 167.48900000000003
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 33.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0.45,
+      "estimatedTraffic": 11.68
+    },
+    {
+      "domain": "www.mercuryholidays.co.uk",
+      "avgPosition": 13.8,
+      "keywordCount": 5,
+      "visibility": 0.75,
+      "estimatedTraffic": 16.393
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 19.8,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 11.09
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 3.5,
+      "keywordCount": 4,
+      "visibility": 3,
+      "estimatedTraffic": 136.146
+    },
+    {
+      "domain": "www.rawaibeachresort.com",
+      "avgPosition": 25,
+      "keywordCount": 5,
+      "visibility": 0.6,
+      "estimatedTraffic": 115.32799999999997
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 8.25,
+      "keywordCount": 4,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 16.084
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 8.25,
+      "keywordCount": 4,
+      "visibility": 1.4,
+      "estimatedTraffic": 26.450999999999997
+    },
+    {
+      "domain": "www.jamiesphuketblog.com",
+      "avgPosition": 10.5,
+      "keywordCount": 4,
+      "visibility": 1.9999999999999998,
+      "estimatedTraffic": 220.51999999999998
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 15,
+      "keywordCount": 4,
+      "visibility": 1.1,
+      "estimatedTraffic": 85.888
+    },
+    {
+      "domain": "www.ministryofvillas.com",
+      "avgPosition": 16.75,
+      "keywordCount": 4,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 17.136000000000003
+    },
+    {
+      "domain": "phuket-insider.com",
+      "avgPosition": 40,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.785
+    },
+    {
+      "domain": "www.rawai.fr",
+      "avgPosition": 40,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 6.090000000000001
+    },
+    {
+      "domain": "www.selinahotels.com",
+      "avgPosition": 28.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 5.908
+    },
+    {
+      "domain": "www.nothingfamiliar.com",
+      "avgPosition": 29.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.224
+    },
+    {
+      "domain": "www.thomascook.com",
+      "avgPosition": 6.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.3,
+      "estimatedTraffic": 13.682
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 11,
+      "keywordCount": 3,
+      "visibility": 0.35,
+      "estimatedTraffic": 5.254999999999999
+    },
+    {
+      "domain": "www.tripoto.com",
+      "avgPosition": 33.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.717999999999999
+    },
+    {
+      "domain": "www.myphuketpass.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.563
+    },
+    {
+      "domain": "www.rawaipalmbeachresort.com",
+      "avgPosition": 17,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.8900000000000001
+    },
+    {
+      "domain": "www.phuket-plaza.com",
+      "avgPosition": 38.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.224
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 38.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 13.074000000000002
+    },
+    {
+      "domain": "www.thailandretreats.com",
+      "avgPosition": 19,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 16.251
+    },
+    {
+      "domain": "www.destination2.co.uk",
+      "avgPosition": 19,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.5999999999999999
+    },
+    {
+      "domain": "www.phuket-travel-secrets.com",
+      "avgPosition": 43,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.224
+    },
+    {
+      "domain": "west.rawayanabeachfront.com",
+      "avgPosition": 25,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.526
+    },
+    {
+      "domain": "phuket-tropic-tours.com",
+      "avgPosition": 43.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.224
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.129
+    },
+    {
+      "domain": "phuketinsiderguide.com",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.268
+    },
+    {
+      "domain": "www.travelrepublic.co.uk",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.travalot.com",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.1839999999999997
+    },
+    {
+      "domain": "phuketserenityvillas.com",
+      "avgPosition": 47.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.224
+    },
+    {
+      "domain": "luxuryvillasphuketthailand.com",
+      "avgPosition": 47.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 7.224
+    },
+    {
+      "domain": "nowphuket.com",
+      "avgPosition": 30.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 7.077
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 30.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 7.077
+    },
+    {
+      "domain": "www.airbnb.co.uk",
+      "avgPosition": 33.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.011
+    },
+    {
+      "domain": "www.nextstopwhoknows.com",
+      "avgPosition": 34.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.189
+    },
+    {
+      "domain": "www.myboutiquehotel.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 13.719
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 15.555
+    },
+    {
+      "domain": "www.sunsuri-phuket.com",
+      "avgPosition": 37.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.338
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 7.198
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 13.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.9549999999999998
+    }
+  ]
+}

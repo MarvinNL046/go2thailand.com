@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "sak-yant-bamboo-tattoo-thailand-guide-2026",
+  "route": "/nl/blog/sak-yant-bamboo-tattoo-thailand-guide-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Sak Yant in Thailand: betekenis, hygiëne en keuze",
+    "description": "Leer wat Sak Yant cultureel betekent en hoe je een aanbieder beoordeelt op toestemming, steriele materialen, inkt, nazorg en respect.",
+    "primaryKeyword": "Sak Yant Thailand",
+    "secondaryKeywords": ["Sak Yant tattoo", "bamboe tattoo Thailand", "Sak Yant hygiëne"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/sak-yant-bamboo-tattoo-thailand-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Betekenis vóór motief",
+    "title": "Sak Yant met respect en een veiligheidscheck",
+    "accent": "Spiritueel ritueel én huiddoorboring",
+    "description": "Neem geen beslissing onder tijdsdruk. Begrijp de culturele context, bespreek grenzen en controleer steriele materialen en nazorg vóórdat iemand je huid aanraakt.",
+    "image": "/images/redesign/editorial/sak-yant-bamboo-tattoo-thailand-guide-2026-hero.webp",
+    "imageAlt": "Respectvol voorgesprek met steriel verpakte materialen en Sak Yant-ontwerpen in een schone studio",
+    "primaryCta": { "label": "Doe de veiligheidscheck", "href": "#veiligheid" },
+    "secondaryCta": { "label": "Begrijp de context", "href": "#betekenis" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "learn", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Sak Yant is geen gewone souvenirkeuze: het combineert een permanent huidontwerp met religieuze en culturele betekenissen. Kies alleen na geïnformeerde toestemming en een controle op nieuwe steriele naalden, schone inktcups, handhygiëne en duidelijke nazorg.",
+  "blocks": [
+    { "kind": "callout", "id": "gezondheid", "tone": "warning", "title": "‘Traditioneel’ betekent niet automatisch veilig", "description": "Elke techniek die de huid doorboort kan infectie, een allergische reactie en littekenvorming veroorzaken. Medische claims of gegarandeerde bescherming door een motief zijn niet toetsbaar." },
+    { "kind": "card-grid", "id": "betekenis", "eyebrow": "Culturele keuze", "title": "Drie gesprekken vóór je beslist", "cards": [
+      { "title": "Betekenis en plaatsing", "description": "Vraag wat het motief betekent, wie het passend vindt en of de gekozen lichaamsplaats respectvol is.", "label": "Culturele toestemming" },
+      { "title": "Persoonlijke grenzen", "description": "Bespreek aanraking, privacy, taal en je recht om op ieder moment te stoppen.", "label": "Informed consent" },
+      { "title": "Gezondheid", "description": "Meld relevante huidproblemen, allergieën, medicatie of bloedingsrisico aan een arts en de uitvoerder.", "label": "Geen medisch advies" }
+    ]},
+    { "kind": "checklist", "id": "veiligheid", "title": "Loop weg als dit niet helder is", "items": ["Nieuwe steriele single-use naald wordt voor je geopend", "Handschoenen en handhygiëne zijn zichtbaar op orde", "Inkt gaat in schone cups en wordt niet teruggegoten", "Geen niet-steriel water voor verdunning of reiniging", "Werkoppervlak en herbruikbare delen zijn aantoonbaar gereinigd", "Schriftelijke nazorg en alarmsymptomen worden uitgelegd", "Je krijgt tijd om vrijwillig toestemming te geven"] },
+    { "kind": "steps", "id": "nazorg", "title": "Na de sessie", "steps": [
+      { "title": "Volg de specifieke nazorg", "description": "Houd je aan de instructies van een deskundige aanbieder en raak de plek alleen met schone handen aan." },
+      { "title": "Bescherm de huid", "description": "Vermijd zwemmen, schuren en felle zon zolang de huid niet gesloten en rustig is." },
+      { "title": "Herken alarmsignalen", "description": "Zoek medische hulp bij toenemende roodheid, warmte, pijn, pus, koorts of een zich uitbreidende reactie." }
+    ]},
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Sak Yant hetzelfde als een bamboetattoo?", "answer": "Niet precies. Sak Yant verwijst naar de heilige geometrische traditie en context; de gebruikte techniek en materialen kunnen per uitvoerder verschillen." },
+      { "question": "Is een tempel automatisch hygiënisch?", "answer": "Nee. Locatie of religieuze status vervangt geen controle op steriele naalden, inkt, handschoenen, werkoppervlak en nazorg." },
+      { "question": "Kun je zwemmen na een Sak Yant?", "answer": "Een verse tattoo is beschadigde huid. Vermijd zwembad, zee en ander besmettingsrisico totdat de huid volgens professioneel advies is hersteld." },
+      { "question": "Wat doe je bij een reactie?", "answer": "Neem bij aanhoudende of verergerende klachten contact op met een arts. Bij koorts of snel uitbreidende roodheid moet je niet afwachten." }
+    ]},
+    { "kind": "related", "id": "verder", "title": "Reis respectvol", "items": [
+      { "title": "Etiquette en cultuur", "description": "Verdiep je in religieuze omgangsvormen.", "href": "/nl/practical-info/etiquette-culture/" },
+      { "title": "Gezondheid in Thailand", "description": "Bereid medische en reisgezondheidsvragen voor.", "href": "/nl/practical-info/health-vaccinations/" },
+      { "title": "Chiang Mai", "description": "Plan cultuur zonder de reis rond één sessie te bouwen.", "href": "/nl/city/chiang-mai/" }
+    ]},
+    { "kind": "sources", "id": "bronnen", "title": "Gezondheidsbronnen", "items": [
+      { "title": "Think Before You Ink: Tattoo Safety", "publisher": "U.S. Food and Drug Administration", "url": "https://www.fda.gov/consumers/consumer-updates/think-you-ink-tattoo-safety", "checkedAt": "2026-08-01", "note": "Risico's van besmette inkt, infecties, allergische reacties en alarmsymptomen." },
+      { "title": "Tattoo-associated skin infections", "publisher": "U.S. Centers for Disease Control and Prevention", "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6133a3.htm", "checkedAt": "2026-08-01", "note": "Aseptische techniek, steriel water, handschoenen en consumentencontrole." }
+    ]}
+  ]
+}

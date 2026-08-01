@@ -25,7 +25,7 @@ const CTA_MAP: CtaConfig[] = [
   { keywords: ['island', 'beach', 'snorkel', 'diving'], href: '/islands/', label: 'Thailand Islands Guide', labelNl: 'Thailand Eilanden Gids', icon: '🏝️' },
   { keywords: ['food', 'restaurant', 'eat', 'cuisine', 'dish', 'street food'], href: '/food/', label: 'Thai Food & Cuisine', labelNl: 'Thais Eten & Keuken', icon: '🍜' },
   { keywords: ['hotel', 'stay', 'accommodation', 'hostel', 'resort'], href: '/thailand-travel-guide/', label: 'Thailand Travel Guide', labelNl: 'Thailand Reisgids', icon: '🏨' },
-  { keywords: ['insurance', 'safety', 'safe'], href: '/travel-insurance-thailand/', label: 'Travel Insurance Guide', labelNl: 'Reisverzekering Gids', icon: '🛡️' },
+  { keywords: ['insurance', 'safety', 'safe'], href: '/travel-insurance/', label: 'Travel Insurance Guide', labelNl: 'Reisverzekering Gids', icon: '🛡️' },
   { keywords: ['esim', 'sim card', 'internet', 'wifi'], href: '/esim/', label: 'Thailand eSIM Guide', labelNl: 'Thailand eSIM Gids', icon: '📱' },
 ];
 
@@ -75,7 +75,7 @@ function createAffiliateCta(cta: CtaConfig, locale?: string): HTMLElement {
   const link = document.createElement('a');
   link.href = cta.href;
   link.target = '_blank';
-  link.rel = 'noopener noreferrer';
+  link.rel = 'noopener noreferrer nofollow sponsored';
   link.className = 'flex items-center gap-4 w-full no-underline';
   link.innerHTML = `
     <span class="text-3xl flex-shrink-0">${cta.icon}</span>

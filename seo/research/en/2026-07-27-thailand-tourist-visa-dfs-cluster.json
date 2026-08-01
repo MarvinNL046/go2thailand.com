@@ -1,0 +1,2926 @@
+{
+  "captured_at": "2026-07-27T14:38:20.232Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand tourist visa",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.02364,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand tourist visa",
+    "thailand tourist visa uk",
+    "thailand visa tourist",
+    "tourist visa for thailand",
+    "tourist visa in thailand",
+    "visa for thailand tourist",
+    "visa thailand tourist",
+    "thailand tourist visa requirements",
+    "do i need a tourist visa for thailand",
+    "tourist visa thailand",
+    "60 day tourist visa thailand uk",
+    "60-day tourist visa thailand uk",
+    "90 day tourist visa thailand",
+    "90-day tourist visa thailand",
+    "thailand 60 day tourist visa uk",
+    "thailand 90 day tourist visa",
+    "tourist visa for thailand from uk",
+    "tourist visa for uk from thailand",
+    "tourist visa thailand uk"
+  ],
+  "keywords": [
+    {
+      "keyword": "do i need a visa for thailand from uk",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa uk",
+      "volume": 2900,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa uk",
+      "volume": 2900,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa",
+      "volume": 1600,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival",
+      "volume": 1600,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa tourist",
+      "volume": 1600,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa for thailand",
+      "volume": 1600,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa in thailand",
+      "volume": 1600,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visa for thailand tourist",
+      "volume": 1600,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visa thailand tourist",
+      "volume": 1600,
+      "kd": 35,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai e visa",
+      "volume": 1300,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa requirements",
+      "volume": 590,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa requirements",
+      "volume": 590,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa for indians",
+      "volume": 480,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how long can i stay in thailand without a visa",
+      "volume": 390,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "90-day visa for thailand from uk",
+      "volume": 320,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a tourist visa for thailand",
+      "volume": 320,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa thailand",
+      "volume": 320,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is a visa for thailand",
+      "volume": 260,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "60 day tourist visa thailand uk",
+      "volume": 170,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "60-day tourist visa thailand uk",
+      "volume": 170,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "90 day tourist visa thailand",
+      "volume": 170,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "90-day tourist visa thailand",
+      "volume": 170,
+      "kd": 29,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand 60 day tourist visa uk",
+      "volume": 170,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 90 day tourist visa",
+      "volume": 170,
+      "kd": 32,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival uk",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa requirements uk",
+      "volume": 170,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "gov uk thailand visa",
+      "volume": 140,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tourist visa for thailand from uk",
+      "volume": 140,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa for uk from thailand",
+      "volume": 140,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa thailand uk",
+      "volume": 140,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "uk tourist visa for thailand",
+      "volume": 140,
+      "kd": 13,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "uk tourist visa from thailand",
+      "volume": 140,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "uk tourist visa thailand",
+      "volume": 140,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "multi entry tourist visa thailand",
+      "volume": 110,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "multiple entry tourist visa thailand",
+      "volume": 110,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand multiple entry tourist visa",
+      "volume": 110,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa from pakistan",
+      "volume": 110,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa multiple entry",
+      "volume": 110,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa rules",
+      "volume": 110,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand visa application form online",
+      "volume": 110,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa exemption thailand",
+      "volume": 110,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "6 month tourist visa thailand",
+      "volume": 90,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "6-month tourist visa thailand",
+      "volume": 90,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long can you stay in thailand on tourist visa",
+      "volume": 90,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 6 month tourist visa",
+      "volume": 90,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa 6 months",
+      "volume": 90,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what do i need to enter thailand from uk",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "60 day tourist visa thailand",
+      "volume": 70,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "60-day tourist visa thailand",
+      "volume": 70,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to apply for thailand tourist visa",
+      "volume": 70,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to apply thailand tourist visa",
+      "volume": 70,
+      "kd": 32,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand visa for uk brp holders",
+      "volume": 70,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "1 year multiple entry visa thailand",
+      "volume": 50,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "free thailand visa",
+      "volume": 50,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "single entry tourist visa thailand",
+      "volume": 50,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "single-entry tourist visa thailand",
+      "volume": 50,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 60 day tourist visa",
+      "volume": 50,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 60 days tourist visa",
+      "volume": 50,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand on arrival visa for indian",
+      "volume": 50,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand single entry tourist visa",
+      "volume": 50,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa 60 days",
+      "volume": 50,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa application form",
+      "volume": 50,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa form",
+      "volume": 50,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand visa 60 days tourist",
+      "volume": 50,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand visa application form",
+      "volume": 50,
+      "kd": 33,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa cost uk",
+      "volume": 50,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa exemption scheme",
+      "volume": 50,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa on arrival thailand for indian",
+      "volume": 50,
+      "kd": 32,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "apply for thailand tourist visa",
+      "volume": 40,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "apply for tourist visa thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost of thailand tourist visa",
+      "volume": 40,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long can you stay in thailand with a visa",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much is a tourist visa for thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is a tourist visa to thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 60-day visa exemption",
+      "volume": 40,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand free visa on arrival",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa cost",
+      "volume": 40,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for uk citizen",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for uk citizens",
+      "volume": 40,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand visa official website",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival for indians",
+      "volume": 40,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "6 month tourist visa thailand cost",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "6-month tourist visa thailand cost",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how do i get a tourist visa for thailand",
+      "volume": 30,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long can i stay in thailand on tourist visa",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long is a tourist visa in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get a tourist visa for thailand",
+      "volume": 30,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get thailand tourist visa",
+      "volume": 30,
+      "kd": 46,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get tourist visa for thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get tourist visa thailand",
+      "volume": 30,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "non immigrant o visa thailand uk",
+      "volume": 30,
+      "kd": 59,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai 90-day visa online",
+      "volume": 30,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai e visa processing time",
+      "volume": 30,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand 90-day visa application form",
+      "volume": 30,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa news",
+      "volume": 30,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival fees",
+      "volume": 30,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa-free thailand for indian",
+      "volume": 30,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "90 day tourist visa thailand cost",
+      "volume": 20,
+      "kd": 55,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "90-day tourist visa thailand cost",
+      "volume": 20,
+      "kd": 55,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "extension tourist visa thailand",
+      "volume": 20,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "indian tourist visa thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "requirements for tourist visa in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai e visa problems",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai visa application online",
+      "volume": 20,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand e visa for indian",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa extension",
+      "volume": 20,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for indians",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa from india",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa india",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa price",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa requirements for indian citizens",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand visa cost for 15 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa requirements for indian citizens",
+      "volume": 20,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tourist visa extension thailand",
+      "volume": 20,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa requirements thailand",
+      "volume": 20,
+      "kd": 65,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa thailand requirements",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa to uk from thailand",
+      "volume": 20,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "1 year multiple-entry visa thailand requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "30 day tourist visa extension thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "30 day tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "30-day tourist visa extension thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "30-day tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "6 month tourist visa thailand requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "6-month tourist visa thailand requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "60 day tourist visa extension thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "60 day tourist visa thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "60 day tourist visa thailand uk cost",
+      "volume": 10,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "60-day tourist visa thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "60-day tourist visa thailand uk cost",
+      "volume": 10,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "90 day tourist visa thailand from australia",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "90-day thai visa requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "90-day tourist visa thailand for indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "apply for 60 day tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "apply for uk tourist visa from thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "australia tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can i apply for a tourist visa while in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can i get a 90 day tourist visa for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can i get a 90-day tourist visa for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can you get married in thailand on a tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can you work in thailand on a tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "canada tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "change tourist visa to non b thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "checklist for thailand tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "convert tourist visa to non immigrant o visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost of 60 day tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cover letter for thailand tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "documents required for thailand tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "extend 60 day tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long is a thailand tourist visa good for",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long is a tourist visa for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long thailand tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many times can you extend tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how many tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is a 60-day visa for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much is thailand tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much thailand tourist visa cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to apply for a 60 day tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to apply tourist visa for thailand online",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to fill thailand visa application form",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "india to thailand tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "india to thailand tourist visa price",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "long stay tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "long term tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "multiple entry tourist visa thailand requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "new tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "requirements for thailand tourist visa",
+      "volume": 10,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "special tourist visa thailand",
+      "volume": 10,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "special tourist visa thailand 2020",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sponsorship letter for tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai e visa cost uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai e visa declaration form",
+      "volume": 10,
+      "kd": 51,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai e visa help",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai e visa supporting documents",
+      "volume": 10,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand 10-year tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 60 day tourist visa application form",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 60 day tourist visa cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand e visa fees for indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand immigration tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand long stay tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand long-term tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand multiple entry tourist visa requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand multiple entry visa uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand on arrival visa for indian fees",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand special tourist visa",
+      "volume": 10,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist e visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa 3 months",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa 90 days",
+      "volume": 10,
+      "kd": 29,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa application",
+      "volume": 10,
+      "kd": 66,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa application form for bangladeshi",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa apply online",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa bangladesh",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa canada",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa charges",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa cost for indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa documents required",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa exemption list",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa exemption scheme",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa extension form",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa fee",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa fee for bangladeshi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa fee for indians",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for australian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for bangladeshi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for chinese citizen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for filipino",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for iranian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for malaysian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for us citizens",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa for us green card holders",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa from bangladesh",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa germany",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa hong kong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa information",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa latest news",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa length",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa length of stay",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa maximum stay",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa official website",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa on arrival",
+      "volume": 10,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa on arrival requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa package",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa photo specifications",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa proof of funds",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa requirements for nigerian citizens",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa south africa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa uk cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa update",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa usa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa validity",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand us tourist visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand visa application form 2022",
+      "volume": 10,
+      "kd": 37,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa application form download",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa exemption 90 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa fee for indians",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa for indians 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa for indians reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa for indians with us visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa free for indian documents required",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival 60 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival countries",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival for nepalese",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival for pakistan",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival form online",
+      "volume": 10,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival official website",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival requirements",
+      "volume": 10,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa requirements for pakistani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa requirements wiki",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa-free for indian 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa-free for indian documents required",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tourist multiple entry visa thailand",
+      "volume": 10,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa australia from thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa exemption scheme thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa exemption thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa for indians in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa for thailand cost",
+      "volume": 10,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa for thailand from australia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa for thailand from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa for thailand from new zealand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa for thailand from usa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa in thailand for filipino",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa in thailand how many days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa on arrival thailand",
+      "volume": 10,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa thailand cost",
+      "volume": 10,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa thailand sweden",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa to non b thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa to thailand",
+      "volume": 10,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa to thailand from sri lanka",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist visa to thailand from uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "us tourist visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "visa application form thailand pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa exemption thailand uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa on arrival thailand for indian fees",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa-free thailand for indian 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa-free thailand for indian 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "90-day tourist visa thailand 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa application form 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.gov.uk",
+      "avgPosition": 1.8571428571428572,
+      "keywordCount": 7,
+      "visibility": 6.3999999999999995,
+      "estimatedTraffic": 490.042
+    },
+    {
+      "domain": "www.thaiembassy.com",
+      "avgPosition": 2.7142857142857144,
+      "keywordCount": 7,
+      "visibility": 5.8,
+      "estimatedTraffic": 295.20300000000003
+    },
+    {
+      "domain": "london.thaiembassy.org",
+      "avgPosition": 4.571428571428571,
+      "keywordCount": 7,
+      "visibility": 4.5,
+      "estimatedTraffic": 185.685
+    },
+    {
+      "domain": "www.siam-legal.com",
+      "avgPosition": 6.428571428571429,
+      "keywordCount": 7,
+      "visibility": 3.2,
+      "estimatedTraffic": 67.34700000000001
+    },
+    {
+      "domain": "cibtvisas.co.uk",
+      "avgPosition": 8.714285714285714,
+      "keywordCount": 7,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 62.60499999999999
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 13.428571428571429,
+      "keywordCount": 7,
+      "visibility": 0.8,
+      "estimatedTraffic": 15.590000000000002
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 16.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.85,
+      "estimatedTraffic": 23.022
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 21.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 7.637999999999999
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 17.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 10.370999999999999
+    },
+    {
+      "domain": "www.visagenie.co.uk",
+      "avgPosition": 29.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.130000000000001
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 5,
+      "visibility": 3,
+      "estimatedTraffic": 79.312
+    },
+    {
+      "domain": "visa-fees.homeoffice.gov.uk",
+      "avgPosition": 6.2,
+      "keywordCount": 5,
+      "visibility": 2.4,
+      "estimatedTraffic": 78.93599999999999
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 23.5,
+      "keywordCount": 6,
+      "visibility": 1,
+      "estimatedTraffic": 14.004999999999999
+    },
+    {
+      "domain": "asq.in.th",
+      "avgPosition": 25.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.669
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 31.5,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.877
+    },
+    {
+      "domain": "www.thaievisa.go.th",
+      "avgPosition": 1,
+      "keywordCount": 4,
+      "visibility": 4,
+      "estimatedTraffic": 687.0399999999998
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 21,
+      "keywordCount": 5,
+      "visibility": 0.5,
+      "estimatedTraffic": 9.495
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 32.8,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.196
+    },
+    {
+      "domain": "thailandinsiderguide.com",
+      "avgPosition": 26.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.68
+    },
+    {
+      "domain": "thailand-visa.co.uk",
+      "avgPosition": 28.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.767
+    },
+    {
+      "domain": "www.visahq.co.uk",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.30000000000000004,
+      "estimatedTraffic": 9.075999999999999
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.113
+    },
+    {
+      "domain": "www.issacompass.com",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.892
+    },
+    {
+      "domain": "www.dookinternational.com",
+      "avgPosition": 24,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 10.438
+    },
+    {
+      "domain": "birchvisas.co.uk",
+      "avgPosition": 29,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 4.645999999999999
+    },
+    {
+      "domain": "immigration.go.th",
+      "avgPosition": 32,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.4879999999999998
+    },
+    {
+      "domain": "www.visahq.com",
+      "avgPosition": 32.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "embassies.net",
+      "avgPosition": 49.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 4.683
+    },
+    {
+      "domain": "thetravelvisacompany.co.uk",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 17.472
+    },
+    {
+      "domain": "www.crystaltravel.co.uk",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.9239999999999995
+    },
+    {
+      "domain": "travel.state.gov",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 25.632
+    },
+    {
+      "domain": "www.arise.tv",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.006
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.946
+    },
+    {
+      "domain": "visasnews.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8160000000000001
+    },
+    {
+      "domain": "thailandguide.co.uk",
+      "avgPosition": 48,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 4.074
+    },
+    {
+      "domain": "mfa.go.th",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.gbnews.com",
+      "avgPosition": 50.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 4.326
+    },
+    {
+      "domain": "lwvppr.org",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "apply.joinsherpa.com",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.274
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "visathailand.com",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "travelweekly.co.uk",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "thaiest.com",
+      "avgPosition": 56.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "www.ubon-lawyers.com",
+      "avgPosition": 35,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.thaiembassyuk.co.uk",
+      "avgPosition": 36.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 58.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.697
+    },
+    {
+      "domain": "www.solicitor-thailand.com",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.mfa.go.th",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 4.032
+    },
+    {
+      "domain": "apply-thai-visa.weebly.com",
+      "avgPosition": 42,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "entry.com",
+      "avgPosition": 42.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.966
+    }
+  ]
+}

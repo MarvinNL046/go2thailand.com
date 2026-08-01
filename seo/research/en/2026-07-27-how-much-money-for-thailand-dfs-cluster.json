@@ -1,0 +1,850 @@
+{
+  "captured_at": "2026-07-27T20:13:22.635Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "how much money for thailand",
+  "costs": {
+    "suggestions": 0.01812,
+    "related": 0.01212,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "how much money for thailand",
+    "how much spending money for thailand",
+    "how much spending money for 2 weeks in thailand",
+    "how much spending money for thailand 2 weeks",
+    "how much spending money for thailand for 2 weeks",
+    "how much spending money for two weeks in thailand",
+    "how much money to take to thailand for 7 days",
+    "how much money for 2 weeks in thailand",
+    "how much money for thailand 2 weeks",
+    "how much money for two weeks in thailand",
+    "how much money to take to thailand for 2 weeks",
+    "how much spending money for 3 weeks in thailand",
+    "how much spending money for thailand 3 weeks",
+    "how much money do i need for thailand",
+    "how much money for 3 weeks in thailand",
+    "how much money for a month in thailand",
+    "how much money to take to thailand for 10 days",
+    "how much money to travel thailand for 3 months",
+    "how much spending money for 10 days in thailand",
+    "thailand for a month how much money"
+  ],
+  "keywords": [
+    {
+      "keyword": "how much spending money for thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for 2 weeks in thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand 2 weeks",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand for 2 weeks",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for two weeks in thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to take to thailand for 7 days",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for 2 weeks in thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for thailand 2 weeks",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for two weeks in thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to take to thailand for 2 weeks",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for 3 weeks in thailand",
+      "volume": 30,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand 3 weeks",
+      "volume": 30,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money do i need for thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for 3 weeks in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for a month in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to take to thailand for 10 days",
+      "volume": 20,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to travel thailand for 3 months",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for 10 days in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand for a month how much money",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for 1 month in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for a trip to thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for a week in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much money for thailand trip",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money needed for thailand trip from india",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to bring to thailand for 4 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to bring to thailand for 5 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to bring to thailand for a month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to bring to thailand for a week",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to exchange for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to live in thailand for a month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to take to thailand for 3 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to take to thailand for 5 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to take to thailand for a month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to take to thailand for a week",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money to travel thailand for a month",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much show money for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much show money for tourist in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money do i need for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand 10 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand gbp",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand in pounds",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand 2 weeks 2017",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand 2 weeks 2018",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand 2 weeks 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand 2017",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money for 2 weeks backpacking in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much money needed for thailand 1 month",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for 2 weeks in thailand 2016",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much spending money for thailand uk",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.starlingbank.com",
+      "avgPosition": 2.1666666666666665,
+      "keywordCount": 6,
+      "visibility": 5.3,
+      "estimatedTraffic": 158.65100000000004
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 2.8333333333333335,
+      "keywordCount": 6,
+      "visibility": 4.8999999999999995,
+      "estimatedTraffic": 102.75
+    },
+    {
+      "domain": "www.holidayhypermarket.co.uk",
+      "avgPosition": 2.8333333333333335,
+      "keywordCount": 6,
+      "visibility": 4.9,
+      "estimatedTraffic": 161.198
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 3,
+      "keywordCount": 6,
+      "visibility": 4.8,
+      "estimatedTraffic": 135.301
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 5.166666666666667,
+      "keywordCount": 6,
+      "visibility": 3.4999999999999996,
+      "estimatedTraffic": 43.422000000000004
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 9.166666666666666,
+      "keywordCount": 6,
+      "visibility": 1.6000000000000003,
+      "estimatedTraffic": 15.655000000000001
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 13.5,
+      "keywordCount": 6,
+      "visibility": 1,
+      "estimatedTraffic": 8.941
+    },
+    {
+      "domain": "radicalstorage.com",
+      "avgPosition": 13.833333333333334,
+      "keywordCount": 6,
+      "visibility": 0.55,
+      "estimatedTraffic": 5.6690000000000005
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 4.221
+    },
+    {
+      "domain": "www.nomadicmatt.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 4.142
+    },
+    {
+      "domain": "weareglobaltravellers.com",
+      "avgPosition": 19.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.0770000000000004
+    },
+    {
+      "domain": "exiap.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 5,
+      "visibility": 2.05,
+      "estimatedTraffic": 21.293999999999997
+    },
+    {
+      "domain": "www.budgetyourtrip.com",
+      "avgPosition": 23.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.965
+    },
+    {
+      "domain": "www.mumsnet.com",
+      "avgPosition": 9.6,
+      "keywordCount": 5,
+      "visibility": 1.45,
+      "estimatedTraffic": 17.692
+    },
+    {
+      "domain": "www.neverendingfootsteps.com",
+      "avgPosition": 11.6,
+      "keywordCount": 5,
+      "visibility": 0.5499999999999999,
+      "estimatedTraffic": 6.392999999999999
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 27,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.109
+    },
+    {
+      "domain": "gotothailand.com",
+      "avgPosition": 30.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.911
+    },
+    {
+      "domain": "listsbylukiih.com",
+      "avgPosition": 31.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.911
+    },
+    {
+      "domain": "www.travelex.co.uk",
+      "avgPosition": 18.6,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 4.24
+    },
+    {
+      "domain": "www.tripsavvy.com",
+      "avgPosition": 33.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.911
+    },
+    {
+      "domain": "www.lemon8-app.com",
+      "avgPosition": 24.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.748
+    },
+    {
+      "domain": "www.eternal-expat.com",
+      "avgPosition": 13.75,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.528
+    },
+    {
+      "domain": "travelthru.com",
+      "avgPosition": 31.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.365
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 34,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.6529999999999996
+    },
+    {
+      "domain": "www.travellerspoint.com",
+      "avgPosition": 20,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.512
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 20.5,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.912
+    },
+    {
+      "domain": "hanoivoyage.com",
+      "avgPosition": 26.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.176
+    },
+    {
+      "domain": "www.awaywithmaja.com",
+      "avgPosition": 9.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 5.263999999999999
+    },
+    {
+      "domain": "www.travelzoo.com",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 6.784
+    },
+    {
+      "domain": "www.travelmoney.co.nz",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 3.5109999999999997
+    },
+    {
+      "domain": "hnvjourneys.com",
+      "avgPosition": 22,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.232
+    },
+    {
+      "domain": "thebackpackingfamily.com",
+      "avgPosition": 43.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.176
+    },
+    {
+      "domain": "www.travelxp.com",
+      "avgPosition": 44,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.071
+    },
+    {
+      "domain": "www.wakitravels.com",
+      "avgPosition": 44.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.071
+    },
+    {
+      "domain": "www.amjourneys.com",
+      "avgPosition": 26.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.cleverthai.com",
+      "avgPosition": 60.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.365
+    },
+    {
+      "domain": "www.cabinzero.com",
+      "avgPosition": 34.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.mostwandered.com",
+      "avgPosition": 35,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 20.176000000000002
+    },
+    {
+      "domain": "www.monito.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.148
+    },
+    {
+      "domain": "footloosedev.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.2209999999999999
+    },
+    {
+      "domain": "www.tripadvisor.ie",
+      "avgPosition": 62,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.071
+    },
+    {
+      "domain": "www.theblondtravels.com",
+      "avgPosition": 25.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "kailyntravels.com",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "crowncurrency.com.au",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.483
+    },
+    {
+      "domain": "www.tourradar.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "autourasia.com",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7349999999999999
+    },
+    {
+      "domain": "www.tripadvisor.in",
+      "avgPosition": 50,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.haystravel.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 6.656000000000001
+    },
+    {
+      "domain": "en.tripadvisor.com.hk",
+      "avgPosition": 69.33333333333333,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    }
+  ]
+}

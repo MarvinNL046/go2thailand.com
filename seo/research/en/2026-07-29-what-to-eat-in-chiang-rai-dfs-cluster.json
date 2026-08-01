@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-29T07:09:09.654Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "what to eat in chiang rai",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "what to eat in chiang rai"
+  ],
+  "keywords": [
+    {
+      "keyword": "what to eat in chiang rai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

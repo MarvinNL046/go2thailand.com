@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "koh-chang-guide-thailand-eastern-island",
+  "route": "/nl/blog/koh-chang-guide-thailand-eastern-island/",
+  "cluster": "destination-guides",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koh Chang gids: verder naar de eilandowner | Go2Thailand",
+    "description": "Deze oude Koh Chang-blog is samengevoegd met de complete eilandgids voor stranden, gebieden, vervoer, weer en verblijf.",
+    "primaryKeyword": "Koh Chang gids oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/koh-chang-guide-thailand-eastern-island/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde reisgids",
+    "title": "Koh Chang heeft één eilandowner",
+    "accent": "Kies eerst je kust",
+    "description": "De complete gids brengt strand, transferritme, weer en verblijf samen zonder dubbele claims.",
+    "image": "/images/redesign/editorial/koh-chang-guide-thailand-eastern-island-hero.webp",
+    "imageAlt": "Beboste kust en rustige baai van Koh Chang",
+    "primaryCta": { "label": "Open de Koh Chang-gids", "href": "/nl/islands/koh-chang/" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "island", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze blogroute is samengevoegd met de complete Koh Chang-owner. Daar kies je kust, reistempo en vervoer met actuele lokale voorwaarden.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Ga verder met de actuele eilandgids", "description": "De oude brede blog bevatte vaste prijzen, tijden en absolute veiligheidsclaims. Die zijn bewust niet behouden.", "cta": { "label": "Naar Koh Chang", "href": "/nl/islands/koh-chang/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële context", "items": [
+      { "title": "Ko Chang", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko-Chang/467", "checkedAt": "2026-08-01", "note": "Bestemmingscontext." },
+      { "title": "Trat", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Trat/466", "checkedAt": "2026-08-01", "note": "Regionale eilanden- en zeeconditiecontext." }
+    ] }
+  ]
+}

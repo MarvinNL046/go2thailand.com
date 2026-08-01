@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-2026-election-tourism-rail-investment",
+  "route": "/nl/blog/thailand-2026-election-tourism-rail-investment/",
+  "cluster": "policy",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Verkiezingen Thailand 2026: vooruitblik ingehaald | Go2Thailand",
+    "description": "De verkiezingsvooruitblik is ingehaald door uitslag en regeringsvorming. Lees de bevestigde tijdlijn en gebruik actuele owners voor beleid en spoor.",
+    "primaryKeyword": "verkiezingen Thailand 2026",
+    "secondaryKeywords": ["toerismebeleid Thailand", "spoorinvesteringen Thailand", "Thaise regering 2026"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-2026-election-tourism-rail-investment/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Gecorrigeerd verkiezingsarchief",
+    "title": "De vooruitblik is ingehaald",
+    "accent": "Gebruik bevestigde besluiten",
+    "description": "De verkiezing, premiersstemming en beleidsverklaring hebben speculatie vervangen. Concrete spoorstatus hoort bij de projectowner.",
+    "image": "/images/redesign/editorial/thailand-2026-election-tourism-rail-investment-hero.webp",
+    "imageAlt": "Brede blik in een moderne Thaise parlementszaal tijdens een ordelijke zitting",
+    "primaryCta": { "label": "Bekijk de tijdlijn", "href": "#tijdlijn" },
+    "secondaryCta": { "label": "Waarom noindex?", "href": "#lifecycle" }
+  },
+  "layout": {
+    "kind": "policy-guide",
+    "policyStatus": "superseded",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "De algemene verkiezing was op 8 februari 2026, de premiersstemming op 19 maart en de beleidsverklaring op 9 april. Deze vooruitblik is daardoor geen actuele beleidsowner meer.",
+  "blocks": [
+    {
+      "kind": "steps",
+      "id": "tijdlijn",
+      "title": "Van verkiezing naar beleid",
+      "steps": [
+        { "title": "8 februari", "description": "Algemene verkiezing met officieel gemelde opkomst van 71,42 procent." },
+        { "title": "19 maart", "description": "Het Huis stemde over de premier en steunde Anutin met 293 stemmen." },
+        { "title": "9 april", "description": "De regering presenteerde de beleidsverklaring; uitvoering vraagt nog thematische besluiten." }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "lifecycle",
+      "tone": "warning",
+      "title": "Archiveren en later consolideren",
+      "description": "De voorspellende zoekintentie is verstreken. Een centrale redirect naar de actuele regeringsowner is aanbevolen; deze batch wijzigt geen centrale redirects."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Wanneer waren de verkiezingen?", "answer": "De algemene verkiezing vond plaats op 8 februari 2026." },
+        { "question": "Bracht de verkiezing direct een nieuw spoorpakket?", "answer": "Nee. Projecten hebben eigen besluitvorming, financiering en voortgangsrapporten." },
+        { "question": "Moet een reiziger op basis van de uitslag aanpassen?", "answer": "Alleen wanneer een bevoegde bron een concrete maatregel bevestigt die voor de reis geldt." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële verkiezings- en beleidsbronnen",
+      "items": [
+        { "title": "General election turnout", "publisher": "Secretariat of the Prime Minister", "url": "https://spm.thaigov.go.th/th/2569-government-formation/16620", "checkedAt": "2026-08-01" },
+        { "title": "Certified constituency results", "publisher": "Secretariat of the Prime Minister", "url": "https://spm.thaigov.go.th/th/2569-government-formation/16629", "checkedAt": "2026-08-01" },
+        { "title": "Prime Minister vote", "publisher": "Secretariat of the Prime Minister", "url": "https://spm.thaigov.go.th/index.php/th/2569-government-formation/16675", "checkedAt": "2026-08-01" },
+        { "title": "Government policy statement", "publisher": "Royal Thai Government", "url": "https://www.thaigov.go.th/th/news/162941", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "actuele-owners",
+      "title": "Gebruik de actuele owner",
+      "items": [
+        { "title": "Anutin benoemd", "description": "Bevestigde regeringsstatus en reizigersgrenzen.", "href": "/nl/blog/thailand-anutin-reelected-prime-minister-march-2026/" },
+        { "title": "Spoorprojectstatus", "description": "Actuele officiële status van de drie-luchthavenspoorlijn.", "href": "/nl/blog/thailand-three-airport-high-speed-rail-2026-update/" },
+        { "title": "Vervoer in Thailand", "description": "Plan met verbindingen die vandaag bestaan.", "href": "/nl/transport/" }
+      ]
+    }
+  ]
+}

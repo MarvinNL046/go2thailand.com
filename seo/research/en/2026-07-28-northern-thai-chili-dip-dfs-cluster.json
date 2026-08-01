@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T03:05:30.377Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "northern thai chili dip",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "northern thai chili dip"
+  ],
+  "keywords": [
+    {
+      "keyword": "northern thai chili dip",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

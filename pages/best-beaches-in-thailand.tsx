@@ -5,8 +5,11 @@ import { useState } from 'react';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import { useT } from '../lib/i18n';
+import { normalizeNlInternalHref } from '../lib/nl-route-owners';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
 import { strings as i18nStrings } from '../lib/i18n/best-beaches-in-thailand';
 import { getIslandAffiliates, TRIP_GENERIC, withPlacementSubId } from '../lib/affiliates';
+import { EditorialHero } from '../components/design/EditorialHero';
 
 interface BeachData {
   rank: number;
@@ -121,7 +124,7 @@ const COAST_GUIDE: Record<Lang, Array<{ coast: string; body: string; routes: Arr
       coast: 'Andaman Sea',
       body: 'Best for iconic scenery, headline beaches, and multi-stop island trips. TAT\'s Phuket and Phi Phi pages support the basic pattern here: headline beaches are easier to reach, but crowd pressure is highest on the best-known stretches.',
       routes: [
-        { href: '/islands/phuket/', label: 'Phuket guide' },
+        { href: '/city/phuket/', label: 'Phuket guide' },
         { href: '/islands/koh-phi-phi/', label: 'Koh Phi Phi guide' },
         { href: '/islands/koh-lanta/', label: 'Koh Lanta guide' }
       ]
@@ -130,7 +133,7 @@ const COAST_GUIDE: Record<Lang, Array<{ coast: string; body: string; routes: Arr
       coast: 'Gulf of Thailand',
       body: 'Better for travelers choosing between Samui comfort, Phangan variety, Tao diving, or the quieter Trat islands. The Gulf is often the more practical answer when you want one island base instead of a fast-moving hop.',
       routes: [
-        { href: '/islands/koh-samui/', label: 'Koh Samui guide' },
+        { href: '/city/koh-samui/', label: 'Koh Samui guide' },
         { href: '/islands/koh-tao/', label: 'Koh Tao guide' },
         { href: '/islands/koh-chang/', label: 'Koh Chang guide' }
       ]
@@ -141,7 +144,7 @@ const COAST_GUIDE: Record<Lang, Array<{ coast: string; body: string; routes: Arr
       coast: 'Andamanzee',
       body: 'Het sterkst voor iconische landschappen, bekende stranden en eilandroutes met meerdere stops. De officiële TAT-pagina\'s voor Phuket en Phi Phi ondersteunen hetzelfde patroon: de bekendste stranden zijn het makkelijkst bereikbaar, maar ook het drukst.',
       routes: [
-        { href: '/islands/phuket/', label: 'Phuket-gids' },
+        { href: '/city/phuket/', label: 'Phuket-gids' },
         { href: '/islands/koh-phi-phi/', label: 'Koh Phi Phi-gids' },
         { href: '/islands/koh-lanta/', label: 'Koh Lanta-gids' }
       ]
@@ -150,7 +153,7 @@ const COAST_GUIDE: Record<Lang, Array<{ coast: string; body: string; routes: Arr
       coast: 'Golf van Thailand',
       body: 'Sterker voor reizigers die kiezen tussen het comfort van Samui, de variatie van Phangan, het duiken van Tao of de rustigere eilanden bij Trat. De Golf is vaak de praktischere keuze als je een vaste uitvalsbasis wilt in plaats van snel doorhoppen.',
       routes: [
-        { href: '/islands/koh-samui/', label: 'Koh Samui-gids' },
+        { href: '/city/koh-samui/', label: 'Koh Samui-gids' },
         { href: '/islands/koh-tao/', label: 'Koh Tao-gids' },
         { href: '/islands/koh-chang/', label: 'Koh Chang-gids' }
       ]
@@ -221,6 +224,15 @@ function getSelectionReason(beach: BeachData, lang: Lang): string {
     : 'An all-rounder with a clear identity inside this shortlist.';
 }
 
+function nlBeachFit(value: string): string {
+  const labels: Record<string, string> = {
+    families: 'gezinnen', swimming: 'zwemmen', snorkeling: 'snorkelen', diving: 'duiken',
+    nightlife: 'nachtleven', party: 'uitgaan', relaxation: 'rust', seclusion: 'afzondering',
+    romance: 'romantiek', 'fire shows': 'vuurshows', budget: 'budget', surfing: 'surfen',
+  };
+  return labels[value.toLowerCase()] || value;
+}
+
 export default function BestBeachesInThailand({ data }: BestBeachesProps) {
   const t = useT(i18nStrings);
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
@@ -279,7 +291,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
       }
     },
     dateModified: data.last_updated,
-    url: 'https://go2-thailand.com/best-beaches-in-thailand/'
+    url: `https://go2-thailand.com${lang === 'nl' ? '/nl' : ''}/best-beaches-in-thailand/`,
+    inLanguage: lang === 'nl' ? 'nl-NL' : 'en-GB',
   };
 
   const breadcrumbSchema = {
@@ -327,20 +340,32 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
         />
       </SEOHead>
 
-      <div className="min-h-screen bg-surface-cream">
-        <section className="bg-surface-dark text-white">
+      <div data-premium-template={lang === 'nl' ? 'nl-topical-best-beaches-in-thailand' : undefined} className="min-h-screen bg-surface-cream">
+        {lang === 'nl' ? (
+          <EditorialHero
+            image="/images/redesign/thailand-island-hopping-hero-v2.webp"
+            imageAlt="Thaise eilanden en verschillende strandtypes gezien vanaf helder kustwater"
+            breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: 'Stranden kiezen' }]}
+            eyebrow="Kustlogica vóór de foto"
+            title={<>Kies je kust.<br /><span className="text-saffron-light">Vind je strand.</span></>}
+            description="Niet elk mooi strand is een slimme uitvalsbasis. Vergelijk eerst kust, eilandtype, drukte en reisfunctie; controleer daarna actuele zeecondities en toegang."
+            actions={[{ label: 'Open de shortlist', href: '#shortlist', kind: 'primary' }, { label: 'Vergelijk de kusten', href: '#kust', kind: 'secondary' }]}
+            contentTone="light"
+            gradientClassName="bg-[linear-gradient(90deg,rgba(3,29,29,0.97)_0%,rgba(3,29,29,0.88)_43%,rgba(3,29,29,0.2)_72%,rgba(3,29,29,0.02)_100%)]"
+            titleClassName="max-w-[760px] text-[4rem] leading-[.85] !text-white sm:text-[5rem] lg:text-[5.7rem]"
+            descriptionClassName="mt-5 max-w-[620px] text-sm leading-7 !text-white/76"
+          />
+        ) : <section className="bg-surface-dark text-white">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
             <div className="max-w-4xl">
               <p className="font-script text-thailand-gold text-lg mb-3">
-                {lang === 'nl' ? 'Redactionele strandgids' : 'Editorial beach planning guide'}
+                Editorial beach planning guide
               </p>
               <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-6">
-                {lang === 'nl' ? 'De stranden die echt helpen bij je keuze' : 'The beaches that actually help you choose'}
+                The beaches that actually help you choose
               </h1>
               <p className="text-lg lg:text-2xl opacity-90 max-w-3xl">
-                {lang === 'nl'
-                  ? 'Niet elk mooi strand is de juiste uitvalsbasis. Deze gids helpt je kiezen tussen Thailand\'s bekendste strandgebieden door kust, eilandtype, drukte en gebruikswaarde naast elkaar te zetten.'
-                  : 'Not every beautiful beach makes sense as a trip base. This guide helps you choose between Thailand\'s headline beach zones by putting coast, island style, crowd pressure, and planning value side by side.'}
+                Not every beautiful beach makes sense as a trip base. This guide helps you choose between Thailand&apos;s headline beach zones by putting coast, island style, crowd pressure, and planning value side by side.
               </p>
               <div className="flex flex-wrap gap-3 mt-8 text-sm">
                 <span className="bg-white/15 rounded-full px-4 py-2">25 beaches</span>
@@ -350,13 +375,13 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
               </div>
             </div>
           </div>
-        </section>
+        </section>}
 
-        <section className="bg-white border-b">
+        {lang !== 'nl' && <section className="bg-white border-b">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Breadcrumbs items={breadcrumbItems} />
           </div>
-        </section>
+        </section>}
 
         <section className="bg-white border-b">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-5">
@@ -392,7 +417,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
           </div>
         </section>
 
-        <section className="py-12">
+        <section id="shortlist" className="scroll-mt-24 py-12">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-end justify-between gap-4 mb-8">
               <div>
@@ -432,8 +457,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
 
                     <div className="grid grid-cols-2 gap-3 md:w-64 text-sm">
                       <div className="rounded-2xl bg-surface-cream p-3">
-                        <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Beste maanden' : 'Best months'}</div>
-                        <div className="font-semibold text-gray-900">{beach.best_months}</div>
+                        <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Seizoenscheck' : 'Best months'}</div>
+                        <div className="font-semibold text-gray-900">{lang === 'nl' ? 'Controleer actueel' : beach.best_months}</div>
                       </div>
                       <div className="rounded-2xl bg-surface-cream p-3">
                         <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Drukte' : 'Crowd level'}</div>
@@ -441,7 +466,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                       </div>
                       <div className="rounded-2xl bg-surface-cream p-3 col-span-2">
                         <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Strand werkt goed voor' : 'Works best for'}</div>
-                        <div className="font-semibold text-gray-900">{beach.best_for.slice(0, 3).join(', ')}</div>
+                        <div className="font-semibold text-gray-900">{beach.best_for.slice(0, 3).map(value => lang === 'nl' ? nlBeachFit(value) : value).join(', ')}</div>
                       </div>
                     </div>
                   </div>
@@ -464,17 +489,18 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                     const aff = getIslandAffiliates(beach.island_slug);
                     const tripUrl = withPlacementSubId(aff?.trip ?? TRIP_GENERIC, `best-beaches-${beach.island_slug}`, `beach-${beach.rank}-trip`);
                     const klookUrl = aff?.klook ? withPlacementSubId(aff.klook, `best-beaches-${beach.island_slug}`, `beach-${beach.rank}-klook`) : null;
+                    const showAffiliate = lang !== 'nl' || beach.rank <= 6;
                     return (
                       <div className="mt-5 flex flex-wrap gap-3">
-                        <a
+                        {showAffiliate && <a
                           href={tripUrl}
                           target="_blank"
                           rel="noopener noreferrer nofollow sponsored"
                           className="inline-flex items-center rounded-full bg-thailand-red px-4 py-2 text-sm font-semibold text-white hover:bg-red-700 transition-colors"
                         >
                           {lang === 'nl' ? `Hotels bij ${beach.name} →` : `Hotels near ${beach.name} →`}
-                        </a>
-                        {klookUrl && (
+                        </a>}
+                        {showAffiliate && klookUrl && (
                           <a
                             href={klookUrl}
                             target="_blank"
@@ -485,7 +511,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
                           </a>
                         )}
                         <Link
-                          href={`/islands/${beach.island_slug}/`}
+                          href={lang === 'nl' ? normalizeNlInternalHref(`/islands/${beach.island_slug}/`) : normalizeEnInternalHref(`/islands/${beach.island_slug}/`)}
                           className="inline-flex items-center rounded-full bg-thailand-blue px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700 transition-colors"
                         >
                           {lang === 'nl' ? `${beach.island_name[lang]} gids` : `${beach.island_name[lang]} guide`}
@@ -499,7 +525,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
           </div>
         </section>
 
-        <section className="py-12 bg-white">
+        <section id="kust" className="scroll-mt-24 py-12 bg-white">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <p className="section-label text-thailand-gold text-center">
               {lang === 'nl' ? 'Kustlogica' : 'Coast logic'}
@@ -545,7 +571,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
               <p className="text-gray-700 leading-relaxed mb-5">
                 {lang === 'nl'
                   ? 'Deze pagina is op 28 maart 2026 handmatig gecontroleerd en herschreven aan de hand van officiële TAT-bestemmingspagina\'s (Krabi, Phuket, Ko Samui, Ko Phi Phi, Ko Chang), de officiële TAT-attractiepagina\'s voor Railay Beach en Ao Nang, de TAT Tarutao National Park-pagina en de aankondiging van Thailand\'s Department of National Parks over de heropening van Maya Bay. Maya Bay-bezoekersslimieten en tarieven zijn bevestigd via de aankondiging van het Thaise Government Public Relations Department (1 oktober 2022 heropening). Seizoensgebonden en transportdetails zijn bewust duurzaam gehouden voor claims die snel veranderen.'
-                  : 'This page was manually reviewed and rewritten on March 28, 2026 against official TAT destination pages for Krabi, Phuket, Ko Samui, Ko Phi Phi, and Ko Chang; TAT attraction pages for Railay Beach and Ao Nang; the TAT Tarutao National Park page; and Thailand\'s Department of National Parks announcement on Maya Bay\'s reopening. Maya Bay visitor management rules and fees are confirmed via the Thailand Government Public Relations Department announcement (1 October 2022 reopening). Seasonality and transport notes are intentionally stable where operational details change quickly.'}
+                  : 'This shortlist is grounded in official TAT destination and attraction pages for Krabi, Phuket, Ko Samui, Ko Phi Phi, Ko Chang, Railay, Ao Nang and Tarutao. The older government announcement about Maya Bay is retained only as reopening history, not as proof of today\'s fee, visitor limit or access. Check the current park notice, marine forecast and operator conditions before travel.'}
               </p>
               <ul className="space-y-3">
                 {SOURCE_LINKS.map(source => (

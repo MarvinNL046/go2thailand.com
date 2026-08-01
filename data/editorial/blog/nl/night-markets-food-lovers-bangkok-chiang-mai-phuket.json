@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "night-markets-food-lovers-bangkok-chiang-mai-phuket",
+  "route": "/nl/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Nachtmarkten Thailand: foodroute per stad | Go2Thailand",
+    "description": "Vergelijk nachtmarkten in Bangkok, Chiang Mai en Phuket op lokale smaken, sfeer, bereikbaarheid, allergenen en voedselveiligheid.",
+    "primaryKeyword": "nachtmarkten thailand foodroute",
+    "secondaryKeywords": [
+      "foodmarkt Bangkok Chiang Mai Phuket",
+      "nachtmarkt eten vergelijken",
+      "avondmarkt Thailand route"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/"
+  },
+  "hero": {
+    "eyebrow": "Drie steden, drie smaken",
+    "title": "Nachtmarkten voor foodliefhebbers",
+    "accent": "Kies een route, geen ranglijst",
+    "description": "Bangkok biedt grootstedelijke variatie, Chiang Mai Noord-Thaise wandelmarkten en Phuket de eetcultuur van Old Town.",
+    "image": "/images/redesign/editorial/night-markets-food-lovers-bangkok-chiang-mai-phuket-hero.webp",
+    "imageAlt": "Avondmarkt met Thaise eetkramen en bezoekers",
+    "primaryCta": {
+      "label": "Vergelijk de steden",
+      "href": "#steden"
+    },
+    "secondaryCta": {
+      "label": "Eet bewust",
+      "href": "#veilig"
+    }
+  },
+  "layout": {
+    "kind": "food-guide",
+    "foodMode": "market",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Kies Bangkok voor Yaowarat en veel grootstedelijke keuze, Chiang Mai voor Noord-Thaise snacks op een wandelmarkt en Phuket voor Old Town en eilandgastronomie. Controleer marktdag en opening altijd dezelfde dag.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "steden",
+      "title": "Welke foodroute past bij je avond?",
+      "options": [
+        {
+          "title": "Bangkok — Yaowarat",
+          "description": "Een levendige foodstraat met Chinees-Thaise noedels, grillgerechten, seafood en desserts.",
+          "label": "Grootstedelijk"
+        },
+        {
+          "title": "Chiang Mai — Walking Street",
+          "description": "Noord-Thaise hapjes, ambacht en wandelen door de oude stad; bekende markten kunnen daggebonden zijn.",
+          "label": "Regionaal"
+        },
+        {
+          "title": "Phuket — Old Town",
+          "description": "Lokale en Peranakan-invloeden rond Thalang Road, gekoppeld aan de culturele straten van Old Town.",
+          "label": "Eilandcultuur"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "route",
+      "title": "Bouw een avond met samenhang",
+      "steps": [
+        {
+          "title": "Loop eerst één ronde",
+          "description": "Bekijk bereiding, omloop en regionale specialiteiten voordat je bestelt.",
+          "label": "1"
+        },
+        {
+          "title": "Kies drie proefmomenten",
+          "description": "Neem één hartig gerecht, één lokale snack en één dessert of drankje.",
+          "label": "2"
+        },
+        {
+          "title": "Deel porties",
+          "description": "Zo proef je meer zonder haast en kun je stoppen zodra iets niet betrouwbaar oogt.",
+          "label": "3"
+        }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "allergenen",
+      "tone": "warning",
+      "title": "Een zichtbare topping is niet de hele ingrediëntenlijst",
+      "description": "Vissaus, garnalenpasta, pinda, soja, sesam, tarwe, ei en melk kunnen in saus, bouillon en beslag zitten. Vraag ook naar gedeelde wok, tang, snijplank en frituurolie."
+    },
+    {
+      "kind": "checklist",
+      "id": "veilig",
+      "title": "Veiligheidscheck op de markt",
+      "items": [
+        "Eten wordt per bestelling bereid en heet geserveerd",
+        "Rauw vlees blijft gescheiden van gaar eten en fruit",
+        "IJs en drinkwater komen uit een beschermde bron",
+        "Kleine hoeveelheden worden snel aangevuld",
+        "De verkoper neemt ingrediënten- en allergievragen serieus",
+        "Je vermijdt rauwe seafood en voorgesneden fruit dat warm ligt"
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "stadsroutes",
+      "title": "Verdiep je foodroute per stad",
+      "items": [
+        {
+          "title": "Eten in Bangkok",
+          "description": "Wijken, gerechten en keuzehulp buiten één marktstraat.",
+          "href": "/nl/city/bangkok/food/"
+        },
+        {
+          "title": "Eten in Chiang Mai",
+          "description": "Noord-Thaise keuken, lokale gerechten en culinaire structuur.",
+          "href": "/nl/city/chiang-mai/food/"
+        },
+        {
+          "title": "Eten in Phuket",
+          "description": "Old Town, lokale recepten en foodkeuzes op het eiland.",
+          "href": "/nl/city/phuket/food/"
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Gecontroleerde bronnen",
+      "items": [
+        {
+          "title": "Bangkok destination page",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Destinations/Provinces/bangkok/219",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële bestemmingcontext voor Yaowarat, Phahurat en andere Bangkokmarkten."
+        },
+        {
+          "title": "Yummy delicacies at Chiang Mai Night Market",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Articles/yummy-delicacies-at-chiang-mai-night-market",
+          "checkedAt": "2026-08-01",
+          "note": "Route en gerechtvoorbeelden van de Chiang Mai Sunday Walking Street; tijden niet als actueel overgenomen."
+        },
+        {
+          "title": "Recommended route for one day in Phuket",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/recommended-route-for-one-day-3",
+          "checkedAt": "2026-08-01",
+          "note": "Old Town en de historische Sunday Walking Street langs Thalang Road."
+        },
+        {
+          "title": "Phuket — Creative City of Gastronomy",
+          "publisher": "UNESCO Creative Cities Network",
+          "url": "https://www.unesco.org/en/creative-cities/phuket?hub=80094",
+          "checkedAt": "2026-08-01",
+          "note": "Culturele gastronomie, lokale voedselbronnen en voedselveiligheidsprogramma’s."
+        },
+        {
+          "title": "Food safety is everyone’s business in street food vending",
+          "publisher": "WHO and FAO",
+          "url": "https://www.who.int/publications/i/item/WHO-HEP-NFS-AFS-2022.4",
+          "checkedAt": "2026-08-01",
+          "note": "Primaire veiligheidsprincipes voor streetfoodverkoop."
+        }
+      ]
+    }
+  ]
+}

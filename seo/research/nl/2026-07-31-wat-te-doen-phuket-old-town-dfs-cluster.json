@@ -1,0 +1,49 @@
+{
+  "captured_at": "2026-07-31T11:36:54.188Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "wat te doen phuket old town",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "wat te doen phuket old town",
+    "wat te doen in phuket old town",
+    "phuket old town wat te doen"
+  ],
+  "keywords": [
+    {
+      "keyword": "wat te doen in phuket old town",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket old town wat te doen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat te doen phuket old town",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

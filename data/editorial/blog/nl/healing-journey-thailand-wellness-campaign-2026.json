@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "healing-journey-thailand-wellness-campaign-2026",
+  "route": "/nl/blog/healing-journey-thailand-wellness-campaign-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Healing Journey Thailand 2026: nuchtere keuzehulp | Go2Thailand",
+    "description": "Begrijp de officiële TAT-campagne, vertaal de 5R’s naar je reisplan en controleer retreats en wellness zonder gezondheidsbeloftes.",
+    "primaryKeyword": "Healing Journey Thailand 2026",
+    "secondaryKeywords": ["wellness Thailand", "Healing is the New Luxury", "Thailand wellnesscampagne"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/healing-journey-thailand-wellness-campaign-2026/"
+  },
+  "hero": {
+    "eyebrow": "Officiële TAT-campagne",
+    "title": "Healing Journey Thailand",
+    "accent": "Inspiratie, geen gezondheidsbelofte",
+    "description": "Gebruik natuur, cultuur en een rustiger tempo als vertrekpunt. Controleer iedere retreat, behandeling en activiteit afzonderlijk.",
+    "image": "/images/redesign/editorial/healing-journey-thailand-wellness-campaign-2026-hero.webp",
+    "imageAlt": "Rustig houten kustpaviljoen in Thailand met kruidenthee en meditatiekussen",
+    "primaryCta": { "label": "Bekijk de 5R’s", "href": "#vijf-r" },
+    "secondaryCta": { "label": "Doe de retreatcheck", "href": "#retreatcheck" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Healing Journey Thailand is een officiële TAT-toerismecampagne rond betekenisvolle, wellnessgerichte reizen. Het is geen medisch programma, retreatkeurmerk of garantie op persoonlijk resultaat.",
+  "blocks": [
+    { "kind": "card-grid", "id": "vijf-r", "eyebrow": "Campagnekader", "title": "Vertaal de 5R’s naar keuzes", "cards": [
+      { "title": "Retreats", "description": "Controleer programma, begeleiders, rusttijd, groepsgrootte en voorwaarden." },
+      { "title": "Rituals", "description": "Benader tradities met respect en zonder resultaatbelofte." },
+      { "title": "Reels", "description": "Vraag toestemming en laat beeld niet je hele route bepalen." },
+      { "title": "Rhythms", "description": "Bouw ruimte in voor eten, beweging, muziek en minder hotelwissels." },
+      { "title": "Relations", "description": "Vraag hoe lokale organisaties en gemeenschappen betrokken zijn." }
+    ] },
+    { "kind": "comparison", "id": "reisvorm", "title": "Welke vorm past bij je behoefte?", "options": [
+      { "title": "Vertragen", "description": "Minder verplaatsen, langer op één plek en ruimte zonder programma.", "label": "Slow travel" },
+      { "title": "Begeleid programma", "description": "Kies op inhoud, docent, niveau, taal en vrije tijd.", "label": "Retreat" },
+      { "title": "Medische vraag", "description": "Gebruik een bevoegde zorgverlener en controleer medische en juridische status.", "label": "Andere route" }
+    ] },
+    { "kind": "checklist", "id": "retreatcheck", "title": "Controleer vóór je betaalt", "items": ["Dagprogramma en vrije tijd", "Opleiding en rol van begeleiders", "Belastingniveau en contra-indicaties", "Kamer en maaltijden", "Dieet- en toegankelijkheidsafspraken", "Totaalprijs en inbegrepen onderdelen", "Annulering en programmawijziging"] },
+    { "kind": "callout", "id": "gezondheid", "tone": "cream", "title": "Campagnetaal is geen medische claim", "description": "Bij klachten, medicatie, zwangerschap of herstel na een ingreep vraag je advies aan een bevoegde zorgverlener. Een toerismecampagne beoordeelt geen behandeling." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Healing Journey Thailand officieel?", "answer": "Ja. TAT lanceerde en publiceerde de campagne via zijn eigen newsroom." },
+      { "question": "Is het een kwaliteitskeurmerk?", "answer": "Nee. Controleer iedere aanbieder, begeleider en claim afzonderlijk." },
+      { "question": "Moet ik naar Krabi of Trang?", "answer": "Nee. De campagne gebruikt meerdere regio’s; kies eerst reisritme, klimaat en transfertijd." },
+      { "question": "Is dit medische wellness?", "answer": "Niet automatisch. Medische diagnostiek en behandeling vragen een aparte controle." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire TAT-bronnen", "items": [
+      { "title": "Healing Journey Thailand campaign", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/03/tourism-authority-of-thailand-invites-global-travellers-to-rediscover-balance-through-healing-journey-thailand-campaign/", "checkedAt": "2026-08-01", "note": "Actuele campagneroutes en positionering." },
+      { "title": "Healing Journey Thailand in London", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/03/tourism-authority-of-thailand-presents-healing-journey-thailand-global-campaign-in-london-advancing-healing-led-tourism-vision/", "checkedAt": "2026-08-01", "note": "Bevestigt presentatie, film en boodschap." },
+      { "title": "Campaign preview and 5R framework", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2025/12/tat-unveils-healing-journey-thailand-global-campaign-ahead-of-january-2026-launch/", "checkedAt": "2026-08-01", "note": "Definieert de vijf campagnepijlers." }
+    ] },
+    { "kind": "related", "id": "verdiepen", "title": "Verdiep je wellnesskeuze", "items": [
+      { "title": "Thaise massage", "description": "Kies stijl, intensiteit en consent zonder gezondheidsbelofte.", "href": "/nl/blog/thai-massage-guide-types-prices/" },
+      { "title": "Yoga-retreats op Samui en Phangan", "description": "Vergelijk programma en eilandlogistiek.", "href": "/nl/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/" }
+    ] }
+  ]
+}

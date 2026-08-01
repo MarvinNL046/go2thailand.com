@@ -1,0 +1,56 @@
+{
+  "captured_at": "2026-07-24T02:15:40.464Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "kosten thailand vakantie",
+  "costs": {
+    "suggestions": 0.01236,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "kosten thailand vakantie"
+  ],
+  "keywords": [
+    {
+      "keyword": "kosten vakantie thailand gezin",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kosten vakantie thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vakantie thailand kosten",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kosten thailand vakantie",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

@@ -1,27 +1,32 @@
 ---
-title: "Thailand's Three-Airport High-Speed Rail: Contract Expected by July 2026, Service by 2032"
+title: "Thailand's Three-Airport High-Speed Rail: Current Project Status"
 date: "2026-03-22"
-description: "Thailand's long-delayed high-speed rail project linking Don Mueang, Suvarnabhumi, and U-Tapao airports moves forward with a contract signing expected in July 2026 and a target service launch in 2032."
+description: "Source-led status of Thailand's planned high-speed rail link between Don Mueang, Suvarnabhumi and U-Tapao airports; it is not an available passenger service."
 category: "news"
 author:
   name: "Go2Thailand Team"
 tags: ["thailand high-speed rail", "bangkok airport rail", "thailand infrastructure 2026", "suvarnabhumi airport", "thailand transport"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-three-airport-high-speed-rail-2026-update-hero.webp"
 draft: false
 lastUpdated: "2026-03-29"
+sources:
+  - name: "Eastern Economic Corridor Office: three-airport high-speed rail"
+    url: "https://www.eeco.or.th/en/high-speed-rail-linking-three-airports/"
+  - name: "State Railway of Thailand"
+    url: "https://www.railway.co.th/"
 ---
 
 ## A 220-Kilometer Rail Link Between Three Airports
 
-Thailand's most ambitious transport project is finally gaining momentum. The high-speed rail line connecting Don Mueang, Suvarnabhumi, and U-Tapao airports has been stuck in negotiations for years, but the State Railway of Thailand (SRT) announced in February 2026 that a revised contract with the CP-led consortium is expected to be signed by July 2026.
+Thailand's planned high-speed rail line would connect Don Mueang, Suvarnabhumi and U-Tapao airports. The Eastern Economic Corridor Office describes the notice to proceed as scheduled for 2026 and full service as expected in 2031. It is not currently a transport option, and project milestones can change.
 
-If that timeline holds, construction would begin in August 2026, with service projected to start in 2032 after five years of building and six months of testing. This is part of a broader wave of [Thailand's transport infrastructure investments in 2026](/blog/thailand-double-track-railway-2026-progress-travel-impact/) that will reshape how visitors move around the country.
+Travellers should use existing airport-transfer options until official channels announce an operational opening. The project is part of a broader wave of [Thailand's transport infrastructure investments in 2026](/blog/thailand-double-track-railway-2026-progress-travel-impact/).
 
 ## What This Means for Travelers
 
 Once operational, the rail line will cover 220 kilometers and fundamentally change how visitors move between Bangkok's two main airports and the eastern seaboard. Currently, transferring between Don Mueang and Suvarnabhumi requires a taxi or bus ride through Bangkok traffic, which can take well over an hour. The high-speed rail would cut that journey to roughly 20 minutes.
 
-U-Tapao airport, located near [Pattaya](/city/pattaya/) and the Eastern Economic Corridor, would become far more accessible. Travelers heading to [Pattaya](/destinations/pattaya/), Rayong, or the eastern beaches could fly into any of the three airports and connect quickly by rail. U-Tapao is already seeing significant growth — read about [U-Tapao's new flight routes and expansion plans](/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/) for the latest details.
+U-Tapao airport, located near [Pattaya](/city/pattaya/) and the Eastern Economic Corridor, would become far more accessible. Travelers heading to [Pattaya](/city/pattaya/), Rayong, or the eastern beaches could fly into any of the three airports and connect quickly by rail. U-Tapao is already seeing significant growth — read about [U-Tapao's new flight routes and expansion plans](/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/) for the latest details.
 
 If you are planning a visit to Pattaya, the [Bangkok to Pattaya transport guide](/transport/bangkok-to-pattaya/) covers all the current options by bus, minivan and taxi.
 

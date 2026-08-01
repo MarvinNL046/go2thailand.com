@@ -31,7 +31,7 @@ The first time we tasted **tom yum goong** in a small shophouse restaurant in Ba
 |----------|--------|
 | **What is tom yum goong?** | A **spicy and sour shrimp soup** with lemongrass, galangal, kaffir lime, and chilies as core ingredients |
 | **How much does it cost?** | Street stalls: 40–80 THB ($1–2 USD); restaurants: 80–200 THB ($2–6 USD) |
-| **Where is it best?** | Bangkok's Chinatown, [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) markets, and coastal towns like Krabi and [Phuket](https://go2-thailand.com/islands/phuket/) |
+| **Where is it best?** | Bangkok's Chinatown, [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) markets, and coastal towns like Krabi and [Phuket](https://go2-thailand.com/city/phuket/) |
 | **Is it spicy?** | Yes—request "mai pet" (not spicy) or "pet nit noi" (a little spicy) if you're heat-sensitive |
 | **What's the best time to eat it?** | Year-round, but especially satisfying during cooler months (November–February) |
 | **Can I learn to cook it?** | Yes—[cooking classes in Thailand](https://go2-thailand.com/best-cooking-classes-in-thailand/) offer tom yum lessons in most cities |
@@ -124,7 +124,7 @@ During our time in Bangkok's Chinatown, we noticed that vendors here often add e
 
 ### Southern Thai Tom Yum (Phuket, Krabi, Trang)
 
-Southern tom yum, particularly in coastal provinces like [Phuket](https://go2-thailand.com/islands/phuket/) and Krabi, tends to be richer and sometimes includes coconut milk, blurring the line between tom yum and tom kha. Seafood is more varied—you might find tom yum with squid, crab, or mixed shellfish. The broth is often deeper in color and flavor, with more emphasis on fish sauce and sometimes shrimp paste.
+Southern tom yum, particularly in coastal provinces like [Phuket](https://go2-thailand.com/city/phuket/) and Krabi, tends to be richer and sometimes includes coconut milk, blurring the line between tom yum and tom kha. Seafood is more varied—you might find tom yum with squid, crab, or mixed shellfish. The broth is often deeper in color and flavor, with more emphasis on fish sauce and sometimes shrimp paste.
 
 **Southern Variation Characteristics:**
 - **Creamier broth:** Often includes coconut milk
@@ -138,7 +138,7 @@ Northern tom yum is less common than central or southern versions, but when you 
 
 ### Isan (Northeastern) Variations
 
-In the [Isaan region](https://go2-thailand.com/region/isaan/), tom yum takes on characteristics of Lao cuisine—sometimes with more tamarind for sourness, sometimes with extra chilies and a more rustic presentation. The distinction between tom yum and other Isan soups can blur here, but the core tom yum philosophy remains. The northeast is also home to [som tam (papaya salad)](/blog/som-tam-regional-variations-thailand/), another dish that captures the same bold, sour-spicy balance.
+In the [Isaan region](https://go2-thailand.com/region/isaan/), tom yum takes on characteristics of Lao cuisine—sometimes with more tamarind for sourness, sometimes with extra chilies and a more rustic presentation. The distinction between tom yum and other Isan soups can blur here, but the core tom yum philosophy remains. The northeast is also home to [som tam (papaya salad)](/food/som-tam/), another dish that captures the same bold, sour-spicy balance.
 
 ---
 
@@ -165,9 +165,9 @@ For a full rundown of where to eat, see our guide to [best street food markets i
 
 ### Restaurant Recommendations (By Region)
 
-In [Bangkok's food scene](https://go2-thailand.com/city/bangkok/food/), mid-range restaurants specializing in seafood consistently deliver excellent tom yum. First-time visitors should also read our [Bangkok street food guide for beginners](/blog/bangkok-street-food-beginners/) before heading out. Look for places with "seafood" or "fish" in the name, where tom yum is a specialty rather than an afterthought. Coastal towns like Krabi naturally have better seafood-based tom yum due to ingredient freshness.
+In [Bangkok's food scene](https://go2-thailand.com/city/bangkok/food/), mid-range restaurants specializing in seafood consistently deliver excellent tom yum. First-time visitors should also read our [Bangkok street food guide for beginners](/blog/best-street-food-markets-bangkok/) before heading out. Look for places with "seafood" or "fish" in the name, where tom yum is a specialty rather than an afterthought. Coastal towns like Krabi naturally have better seafood-based tom yum due to ingredient freshness.
 
-During our travels, we found that restaurants near fishing ports—whether in [Phuket](https://go2-thailand.com/islands/phuket/) or smaller towns—tend to have superior tom yum because shrimp quality is higher and turnover is faster.
+During our travels, we found that restaurants near fishing ports—whether in [Phuket](https://go2-thailand.com/city/phuket/) or smaller towns—tend to have superior tom yum because shrimp quality is higher and turnover is faster.
 
 <div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -342,7 +342,7 @@ The real nutritional value comes from the herbs and spices:
 
 ### Why Thais Eat It Daily
 
-Tom yum is a staple in Thai cuisine partly because it's light, protein-rich, and packed with beneficial herbs. It's satisfying without being heavy, making it perfect for Thailand's hot climate. The spices aid digestion and promote sweating, which cools the body—a natural adaptation to tropical heat. Read more about [is Thai food healthy](/blog/is-thai-food-healthy/) for a deeper look at the nutritional side of Thai cuisine. After a bowl of tom yum, a dessert of [mango sticky rice](/blog/mango-sticky-rice-season-thailand/) makes for the ideal Thai meal.
+Tom yum is a staple in Thai cuisine partly because it's light, protein-rich, and packed with beneficial herbs. It's satisfying without being heavy, making it perfect for Thailand's hot climate. The spices aid digestion and promote sweating, which cools the body—a natural adaptation to tropical heat. Read more about [is Thai food healthy](/blog/is-thai-food-healthy/) for a deeper look at the nutritional side of Thai cuisine. After a bowl of tom yum, a dessert of [mango sticky rice](/food/mango-sticky-rice/) makes for the ideal Thai meal.
 
 **Health Considerations:**
 - **Sodium:** Fish sauce makes tom yum salty; those watching sodium intake should request less
@@ -395,7 +395,7 @@ Understanding how tom yum fits into Thai dining culture helps you appreciate it 
 
 ### Tom Yum in Thai Meals
 
-Tom yum is typically eaten as part of a larger meal, not alone. A typical Thai lunch might include tom yum, a [Thai curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), a stir-fry like [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), and rice—all shared family-style. However, eating tom yum as a solo meal with rice is completely acceptable and common, especially for lunch.
+Tom yum is typically eaten as part of a larger meal, not alone. A typical Thai lunch might include tom yum, a [Thai curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), a stir-fry like [pad thai](/food/pad-thai/), and rice—all shared family-style. However, eating tom yum as a solo meal with rice is completely acceptable and common, especially for lunch.
 
 ### The Social Aspect
 
@@ -449,11 +449,11 @@ Traditional tom yum goong isn't vegetarian (it contains shrimp and fish sauce). 
 
 ## Conclusion
 
-**Tom yum goong** is far more than Thailand's most famous soup—it's an expression of Thai culinary philosophy, a balance of flavors that represents centuries of refinement. Whether you're eating it from a street vendor in [Bangkok](https://go2-thailand.com/city/bangkok/) for 60 THB or at a restaurant in [Phuket](https://go2-thailand.com/islands/phuket/) for 200 THB, you're tasting something genuinely special.
+**Tom yum goong** is far more than Thailand's most famous soup—it's an expression of Thai culinary philosophy, a balance of flavors that represents centuries of refinement. Whether you're eating it from a street vendor in [Bangkok](https://go2-thailand.com/city/bangkok/) for 60 THB or at a restaurant in [Phuket](https://go2-thailand.com/city/phuket/) for 200 THB, you're tasting something genuinely special.
 
 The best tom yum comes from understanding its components: the aromatic herbs that define its character, the fresh shrimp that provide sweetness, the lime juice that brings brightness, and the chilies that deliver heat. When these elements come together in the right balance, you understand why this soup has conquered menus worldwide while remaining authentically Thai.
 
-For deeper exploration of Thai cuisine, check out our [comprehensive Thai food guide](https://go2-thailand.com/food/) and discover other iconic dishes — including our guides to [Thai curry varieties](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) and [pad Thai: street food vs restaurant](/blog/pad-thai-street-food-vs-restaurant-homemade/). If you're planning a trip to Thailand, our [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/) and [Chiang Mai food recommendations](https://go2-thailand.com/city/chiang-mai/food/) will help you eat like a local. If you follow a plant-based diet, see our [vegan Thai food guide](/blog/vegan-thai-food-guide/) for how to order tom yum het (mushroom version) instead.
+For deeper exploration of Thai cuisine, check out our [comprehensive Thai food guide](https://go2-thailand.com/food/) and discover other iconic dishes — including our guides to [Thai curry varieties](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) and [pad Thai: street food vs restaurant](/food/pad-thai/). If you're planning a trip to Thailand, our [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/) and [Chiang Mai food recommendations](https://go2-thailand.com/city/chiang-mai/food/) will help you eat like a local. If you follow a plant-based diet, see our [vegan Thai food guide](/blog/vegan-thai-food-guide/) for how to order tom yum het (mushroom version) instead.
 
 **Ready to experience tom yum in its homeland?** Start with a street stall, take a cooking class to understand the technique, and explore regional variations across Thailand. Your palate—and your appreciation for Thai culture—will be forever changed.
 

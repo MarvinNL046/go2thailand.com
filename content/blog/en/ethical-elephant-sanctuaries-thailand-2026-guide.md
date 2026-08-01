@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "activities"
 tags: ["elephant sanctuary Thailand", "ethical elephant tourism 2026", "Elephant Nature Park Chiang Mai", "responsible tourism Thailand", "Following Giants Krabi", "things to do Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/ethical-elephant-sanctuaries-thailand-2026-guide-hero.webp"
 description: "Want to see elephants in Thailand without supporting exploitation? These five ethical sanctuaries in Chiang Mai, Phuket, Krabi and beyond offer observation-only or minimal-contact experiences in 2026."
 featured: false
 readingTime: 3
@@ -71,4 +71,4 @@ Not every place that calls itself a "sanctuary" is one. Watch for these red flag
 
 The simplest test: if the experience is built around what the tourist wants rather than what the elephant needs, walk away.
 
-Responsible elephant tourism is just one part of travelling thoughtfully in Thailand. For more ethical and nature-based activities, see our guides to [best wellness retreats in Thailand](/blog/best-wellness-retreats-thailand-2026/), [solo female travel in Thailand](/blog/solo-female-travel-thailand-safety-tips/), and [travelling Thailand with kids](/blog/thailand-with-kids-family-travel-guide/). If you are budgeting your trip, our [how much does two weeks in Thailand cost guide](/blog/how-much-2-weeks-thailand-cost-2026-budget/) and [Thailand daily costs breakdown](/blog/thailand-budget-2026-daily-costs/) are useful starting points. For a nature day trip in a completely different setting, the [Erawan Falls day trip guide](/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/) covers one of western Thailand's most rewarding excursions. Before you travel, check our [is Thailand safe for tourists guide](/blog/is-thailand-safe-tourists-2026/) and read the [Thailand first-time visitor's essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/).
+Responsible elephant tourism is just one part of travelling thoughtfully in Thailand. For more ethical and nature-based activities, see our guides to [best wellness retreats in Thailand](/blog/best-wellness-retreats-thailand-2026/), [solo female travel in Thailand](/travel-guides/solo-female-travel-thailand/), and [travelling Thailand with kids](/blog/thailand-with-kids-family-travel-guide/). If you are budgeting your trip, our [how much does two weeks in Thailand cost guide](/thailand-index/budget/) and [Thailand daily costs breakdown](/thailand-index/budget/) are useful starting points. For a nature day trip in a completely different setting, the [Erawan Falls day trip guide](/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/) covers one of western Thailand's most rewarding excursions. Before you travel, check our [is Thailand safe for tourists guide](/is-thailand-safe/) and read the [Thailand first-time visitor's essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/).

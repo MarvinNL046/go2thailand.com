@@ -1,0 +1,109 @@
+{
+  "captured_at": "2026-07-27T13:45:03.285Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "phuket phi phi krabi itinerary",
+  "costs": {
+    "suggestions": 0.01308,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "phuket phi phi krabi itinerary",
+    "bangkok phuket krabi phi phi itinerary",
+    "itinerary for phuket krabi and phi phi",
+    "phuket koh phi phi krabi itinerary",
+    "phuket krabi phi phi itinerary",
+    "phuket krabi phi phi itinerary 5 days",
+    "phuket krabi phi phi itinerary 7 days",
+    "phuket krabi phi phi koh samui itinerary"
+  ],
+  "keywords": [
+    {
+      "keyword": "bangkok phuket krabi phi phi itinerary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "itinerary for phuket krabi and phi phi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket koh phi phi krabi itinerary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket krabi phi phi itinerary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket krabi phi phi itinerary 5 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket krabi phi phi itinerary 7 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket krabi phi phi koh samui itinerary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket phi phi krabi itinerary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "itinerary for phuket krabi and phi phi for 3 days",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

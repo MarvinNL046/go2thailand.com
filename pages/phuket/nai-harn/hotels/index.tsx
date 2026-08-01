@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PhuketAreaHotelsHubNl from '../../../../components/hotels/PhuketAreaHotelsHubNl';
 
 interface PartnerEntry { partnerUrl: string; label: string }
 interface Partners { [key: string]: PartnerEntry }
@@ -28,6 +29,7 @@ export default function NaiHarnHotelsHubPage({ partners, hotels, lastUpdated }: 
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+  if (isNl) return <PhuketAreaHotelsHubNl area="nai-harn" tripUrl={partners.trip_hotels.partnerUrl} />;
   const placement = (p: string) => `${subId}-pseo-phuket-nai-harn-hotels-${p}`;
 
   const breadcrumbs = [
@@ -112,7 +114,7 @@ export default function NaiHarnHotelsHubPage({ partners, hotels, lastUpdated }: 
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? 'Snelle vergelijking: 6 opties' : 'Quick compare: 6 picks'}</h2>
@@ -221,7 +223,7 @@ export default function NaiHarnHotelsHubPage({ partners, hotels, lastUpdated }: 
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

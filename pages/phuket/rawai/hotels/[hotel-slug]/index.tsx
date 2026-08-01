@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../../components/SEOHead';
 import Breadcrumbs from '../../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlWestPhuketHotelDetailGuide } from '../../../../../data/hotel-details/nl-west-phuket';
+import type { HotelDetailGuideData } from '../../../../../data/hotel-details/types';
 import { withSubId } from '../../../../../lib/affiliates';
 import { useSubId } from '../../../../../lib/useSubId';
 
@@ -30,11 +33,12 @@ interface HotelData {
 
 interface Props {
   hotel: HotelData;
+  nlGuide: HotelDetailGuideData | null;
   partners: Partners;
   lastUpdated: string;
 }
 
-export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: Props) {
+export default function RawaiHotelReviewPage({ hotel, nlGuide, partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
@@ -69,6 +73,10 @@ export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: P
 
   const primaryUrl = partners[hotel.primaryPartnerKey]?.partnerUrl || partners.trip_pillar.partnerUrl;
   const secondaryUrl = partners[hotel.secondaryPartnerKey]?.partnerUrl || partners.trip_pillar.partnerUrl;
+
+  if (isNl && nlGuide) {
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={withSubId(primaryUrl, placement('hotel-detail'))} />;
+  }
 
   const faqEn = [
     { q: 'Is Selina Serenity Rawai worth booking?', a: 'For long-stays (1+ week) yes — the coworking + community + pool combination is unique in Phuket. Less ideal for short 3–5 day trips: the hostel-hybrid vibe is built for slow travel, not quick beach holidays. Pricing scales: solo dorm bed $15–25/night, private room $55–110, suite $120+. Best value per dollar of any Phuket stay if you genuinely use the coworking space.' },
@@ -118,7 +126,7 @@ export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: P
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
@@ -186,7 +194,7 @@ export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: P
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -195,7 +203,9 @@ export default function RawaiHotelReviewPage({ hotel, partners, lastUpdated }: P
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'areas', 'rawai-hotels.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = (data.hotels || []).map((h: any) => ({ params: { 'hotel-slug': h.slug } }));
+  const paths = (data.hotels || []).flatMap((h: any) =>
+    ['en', 'nl'].map(locale => ({ params: { 'hotel-slug': h.slug }, locale })),
+  );
   return { paths, fallback: false };
 };
 
@@ -212,6 +222,7 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   return {
     props: {
       hotel,
+      nlGuide: getNlWestPhuketHotelDetailGuide(slug),
       partners: partnersData.partners,
       lastUpdated: hotelsData.lastUpdated,
     },

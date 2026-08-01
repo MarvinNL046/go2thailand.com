@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Bangkok street food", "Banthat Thong Road", "Bangkok food guide 2026", "Thai street food", "Chulalongkorn", "night food Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/banthat-thong-road-bangkok-food-street-guide-2026-hero.webp"
 description: "Banthat Thong Road near Chulalongkorn University has become Bangkok's trendiest street food strip in 2026. Here is what to eat, when to go, and how to get there."
 featured: false
 readingTime: 3
@@ -30,13 +30,13 @@ The road runs roughly parallel to Rama I Road in the Pathum Wan district, connec
 
 ## What to Eat
 
-**Jeh O Chula** is the stall that put the street on the map. Its [tom yum](/blog/tom-yum-goong-guide/) Mama noodles — loaded with seafood and pork — earned a [Michelin Bib Gourmand](/blog/thailand-bib-gourmand-2026-new-restaurants-street-food/) and regularly draw queues past midnight. Arrive before 9 pm or expect a wait.
+**Jeh O Chula** is the stall that put the street on the map. Its [tom yum](/food/tom-yum-goong/) Mama noodles — loaded with seafood and pork — earned a [Michelin Bib Gourmand](/blog/thailand-bib-gourmand-2026-new-restaurants-street-food/) and regularly draw queues past midnight. Arrive before 9 pm or expect a wait.
 
-**Tang Sui Heng**, another Michelin Guide pick, serves classic [Thai-Chinese comfort food](/blog/what-is-thai-food-cuisine-guide/) including rich duck noodle soup and crispy pork belly at prices that rarely break THB 100.
+**Tang Sui Heng**, another Michelin Guide pick, serves classic [Thai-Chinese comfort food](/travel-guides/thai-cuisine-food-guide/) including rich duck noodle soup and crispy pork belly at prices that rarely break THB 100.
 
 **HAAB** is famous for grilled egg cakes (khanom khai) cooked over charcoal — crispy outside, soft inside, and best eaten immediately.
 
-[Street-food](/blog/thai-street-food-guide-2026/) dishes on Banthat Thong generally cost **THB 50 to 150**, while sit-down restaurants and cafes range from **THB 120 to 300** per plate.
+[Street-food](/thailand-street-food/) dishes on Banthat Thong generally cost **THB 50 to 150**, while sit-down restaurants and cafes range from **THB 120 to 300** per plate.
 
 ## When to Go
 
@@ -44,13 +44,13 @@ Most vendors open from late afternoon until well past midnight. The sweet spot i
 
 ## How to Get There
 
-The easiest route is the **[BTS Skytrain](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) to National Stadium station**, then a 10-minute walk south along Banthat Thong Road. You can also take the [MRT](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) to Sam Yan station and walk north. Tuk-tuks from [Siam Square](/city/bangkok/attractions/siam-paragon/) take under five minutes.
+The easiest route is the **[BTS Skytrain](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) to National Stadium station**, then a 10-minute walk south along Banthat Thong Road. You can also take the [MRT](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) to Sam Yan station and walk north. Tuk-tuks from [Siam Square](/city/bangkok/attractions/) take under five minutes.
 
 ## Tips for First-Timers
 
 - **Bring cash.** Many stalls do not accept cards or QR payments.
 - **Wear comfortable shoes.** You will be walking and standing in queues.
 - **Go with an empty stomach.** The temptation to try "just one more stall" is real, and the portions are generous.
-- **Watch out for [travel scams](/blog/thailand-travel-scams-2026/).** Stay aware of overcharging and unofficial guides near busy food streets.
+- **Watch out for [travel scams](/practical-info/scams-safety/).** Stay aware of overcharging and unofficial guides near busy food streets.
 
-Banthat Thong Road proves that [Bangkok's street food scene](/blog/bangkok-street-food-beginners/) keeps reinventing itself. If your last trip focused on Yaowarat or [Jodd Fairs](/blog/jodd-fairs-bangkok-night-market-guide/), this is where to head next. For a broader overview of [where to stay in Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/) while you explore the city's food scene, or to plan a longer trip with a [Bangkok itinerary](/blog/best-day-trips-from-bangkok/), the Pathum Wan area puts you within easy reach of everything.
+Banthat Thong Road proves that [Bangkok's street food scene](/blog/best-street-food-markets-bangkok/) keeps reinventing itself. If your last trip focused on Yaowarat or [Jodd Fairs](/blog/jodd-fairs-bangkok-night-market-guide/), this is where to head next. For a broader overview of [where to stay in Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/) while you explore the city's food scene, or to plan a longer trip with a [Bangkok itinerary](/blog/best-day-trips-from-bangkok/), the Pathum Wan area puts you within easy reach of everything.

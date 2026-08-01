@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-07-29T05:40:41.450Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/city/phuket/top-10-restaurants/",
+  "cost": 0.0126,
+  "rankings": [
+    {
+      "keyword": "best restaurants in thailand phuket",
+      "position": 43,
+      "volume": 590,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/phuket/top-10-restaurants/"
+    },
+    {
+      "keyword": "best restaurants phuket",
+      "position": 54,
+      "volume": 590,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/phuket/top-10-restaurants/"
+    },
+    {
+      "keyword": "top restaurants phuket",
+      "position": 48,
+      "volume": 590,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/phuket/top-10-restaurants/"
+    },
+    {
+      "keyword": "phuket restaurants",
+      "position": 41,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/phuket/top-10-restaurants/"
+    },
+    {
+      "keyword": "restaurants in phuket thailand",
+      "position": 50,
+      "volume": 260,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/phuket/top-10-restaurants/"
+    }
+  ]
+}

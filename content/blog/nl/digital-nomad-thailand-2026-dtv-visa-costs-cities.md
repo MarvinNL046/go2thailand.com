@@ -243,7 +243,7 @@ Toen we internet installeerden in ons Chiang Mai-appartement, kregen we 100 Mbps
 
 Thailand's mobiele netwerken (AIS, Dtac, True Move) bieden uitstekende 4G-dekking in steden en dorpen, met 5G steeds meer beschikbaar in Bangkok en Chiang Mai. Een onbeperkt maandelijks 4G-datapakket kost 200–500 THB (€5–€13), een spotgoedkope back-upoptie.
 
-Voor connectiviteit onderweg tussen steden of als back-up voor thuisinternet, overweeg een lokale [Thailand eSIM](https://go2-thailand.com/esim/) of SIM-kaart. Onze [beste SIM-kaart & eSIM-gids 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) vergelijkt alle topopties. Je koopt een SIM op de luchthaven, in gemakswinkels of mobielwinkels. Activering duurt 5 minuten, en je bent meteen online.
+Voor connectiviteit onderweg tussen steden of als back-up voor thuisinternet, overweeg een lokale [Thailand eSIM](https://go2-thailand.com/esim/) of SIM-kaart. Onze [beste SIM-kaart & eSIM-gids 2026](/nl/travel-guides/sim-card-thailand/) vergelijkt alle topopties. Je koopt een SIM op de luchthaven, in gemakswinkels of mobielwinkels. Activering duurt 5 minuten, en je bent meteen online.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -565,7 +565,7 @@ November tot februari is ideaal — koel, droog weer en comfortabele temperature
 
 Thailand in 2026 is écht een van de beste bestemmingen ter wereld voor digitale nomaden. Het nieuwe **DTV-visum** verwijdert de juridische onzekerheid die remote werkers eerder plaagde, en biedt een legitiem, langdurig visum speciaal voor jouw levensstijl. Met maandelijkse kosten vanaf 30.000 THB in Chiang Mai, uitstekende internetinfrastructuur, bruisende communities in meerdere steden en een gastvrije cultuur vinkt Thailand alle vakjes af voor locatie-onafhankelijke professionals.
 
-Of je nu kiest voor de digital nomad-hoofdstad Chiang Mai, de grote-stadsenergie van Bangkok, of het strandleven van Phuket en Krabi, je vindt een stad die past bij je levensstijl en budget. De sleutel is vooruit plannen — vraag je DTV aan vóór aankomst, richt je accommodatie en internet zorgvuldig in, en sluit je aan bij de lokale digital nomad-community. Bookmark ook onze [Thailand reisscams-gids](/blog/thailand-travel-scams-2026/) en [Thailand budget 2026](/blog/thailand-budget-2026-daily-costs/) zodat je geïnformeerd arriveert.
+Of je nu kiest voor de digital nomad-hoofdstad Chiang Mai, de grote-stadsenergie van Bangkok, of het strandleven van Phuket en Krabi, je vindt een stad die past bij je levensstijl en budget. De sleutel is vooruit plannen — vraag je DTV aan vóór aankomst, richt je accommodatie en internet zorgvuldig in, en sluit je aan bij de lokale digital nomad-community. Bookmark ook onze [Thailand reisscams-gids](/blog/thailand-travel-scams-2026/) en [Thailand budget 2026](/nl/thailand-index/budget/) zodat je geïnformeerd arriveert.
 
 Klaar om te verhuizen? Begin met onze [Digital Nomad Visum-gids](https://go2-thailand.com/visa/digital-nomad-visa/) voor gedetailleerde aanvraagstappen, en check onze [stads gidsen](https://go2-thailand.com/city/) om je perfecte basis te vinden. Thailand wacht op je.
 

@@ -1,5 +1,5 @@
 ---
-title: "Thailand Cuts Visa-Free Tourist Stays from 60 to 30 Days"
+title: "Thailand Visa-Free Cut Report: What Current Rules Say"
 slug: "2026-05-21-thailand-visa-free-stays-reduced"
 date: "2026-05-21"
 category: "tourism"
@@ -8,10 +8,13 @@ source:
   url: "https://www.aljazeera.com/news/2026/5/19/thailand-to-slash-tourist-visa-free-stays"
   originalTitle: "Thailand to slash tourist visa-free stays"
 tags: ["visa", "tourism", "thailand", "travel-policy"]
-description: "Thailand's cabinet has approved a drastic reduction to its visa-free entry scheme, cutting the 60-day exemption to 30 days for tourists from over 90 countries."
+description: "Historical report on a Thailand visa-free reduction, corrected with the official UK status checked on 27 July 2026."
+lastUpdated: "2026-07-27"
 ---
 
-Thailand's cabinet has approved a significant reduction to its visa-free entry scheme, cutting the allowance from **60 days to 30 days** for tourists from more than 90 countries, according to [Al Jazeera](https://www.aljazeera.com/news/2026/5/19/thailand-to-slash-tourist-visa-free-stays). The decision, announced on Tuesday, marks a sharp reversal from the generous exemption introduced in July 2024 to boost post-pandemic tourism recovery. The new tiered system will also reduce stays to just 15 days for citizens of some countries.
+> **Current-status correction — 27 July 2026:** The 30-day implementation described below is not shown in the current GOV.UK or Royal Thai Embassy London guidance. Both still state up to 60 days for an ordinary British passport. Use the [visa-exemption owner](https://go2-thailand.com/visa/visa-free-entry/) for the live planning answer.
+
+The cited Al Jazeera report said Thailand's cabinet had approved a reduction from **60 days to 30 days** for tourists from more than 90 countries. Subsequent official UK-facing entry pages checked on 27 July 2026 still state up to 60 days for an ordinary British passport. The article therefore preserves the reported proposal and debate, not a current country-by-country entry schedule.
 
 ## Why Thailand Is Making the Change
 

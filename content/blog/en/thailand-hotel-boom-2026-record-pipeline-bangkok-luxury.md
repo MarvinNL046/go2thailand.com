@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand hotels 2026", "Bangkok hotel openings", "luxury hotels Thailand", "hotel pipeline Asia Pacific", "Langham Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-hotel-boom-2026-record-pipeline-bangkok-luxury-hero.webp"
 description: "Bangkok leads the Asia Pacific hotel construction pipeline with 68 projects and over 16,600 rooms. Here is what the luxury surge means for travelers visiting Thailand in 2026."
 featured: false
 readingTime: 3
@@ -36,7 +36,7 @@ International luxury chains are staking their claim across the country. Among th
 - **[The BARAI Hua Hin](/blog/barai-hua-hin-hyatt-unbound-collection-2026/)**, adjacent to the Hyatt Regency [Hua Hin](https://go2-thailand.com/city/hua-hin/), will debut in mid-2026 with 98 rooms and suites arranged around a central pool oasis and lush tropical gardens.
 - **[KAIA Koh Phangan](/blog/kaia-koh-phangan-eco-luxury-tented-resort-2026/)** takes a different approach, offering open-air tented suites designed by Cloud Collective to minimize environmental impact while keeping guests connected to the surrounding forest on [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/).
 
-Other properties on the radar include a Kimpton in [Hua Hin](/best-hotels/hua-hin/) and several new entrants in [Phuket](https://go2-thailand.com/islands/phuket/).
+Other properties on the radar include a Kimpton in [Hua Hin](/best-hotels/hua-hin/) and several new entrants in [Phuket](https://go2-thailand.com/city/phuket/).
 
 ## A Two-Tiered Market Emerges
 

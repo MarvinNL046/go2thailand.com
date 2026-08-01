@@ -1,0 +1,770 @@
+{
+  "captured_at": "2026-07-24T14:45:49.798Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "udon thani thailand",
+  "costs": {
+    "suggestions": 0.01404,
+    "related": 0.01524,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "udon thani thailand",
+    "thailand udon thani",
+    "udon thani province thailand",
+    "hotels in udon thani thailand",
+    "hotels udon thani thailand",
+    "udon thani beuningen",
+    "nam som udon thani thailand",
+    "non sa at udon thani thailand",
+    "things to do in udon thani thailand",
+    "udon thani 41000 thailand",
+    "what to do in udon thani thailand",
+    "where is udon thani in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "kaart thailand",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kaart eilanden thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kaart van thailand met eilanden",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand udon thani",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "toeristische kaart thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani province thailand",
+      "volume": 260,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "udon thani thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand kaart wereld",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "gedetailleerde kaart thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kaart thailand google maps",
+      "volume": 70,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand kaart maps",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel udon thani thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in udon thani thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels udon thani thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "udon thani beuningen",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kaart thailand zuiden",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the pannarai hotel udon thani thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kaart thailand kopen",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kaart van thailand met steden",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kaart zuid thailand eilanden",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kaart zuid-thailand eilanden",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand hotspots",
+      "volume": 20,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thailand map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani thailand map",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "udon thani weer",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "9d sport hotel udon thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kaart thailand backpacken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kaart thailand en buurlanden",
+      "volume": 10,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kaart thailand phuket",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "landkaart thailand kopen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nam som udon thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "non sa at udon thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rent house udon thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in udon thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "udon thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani 41000 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "udon thani google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wegenkaart thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in udon thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is udon thani in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ddproperty udon thani thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "waar ligt udon thani",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "rondreis.nl",
+      "avgPosition": 1.3333333333333333,
+      "keywordCount": 3,
+      "visibility": 2.9,
+      "estimatedTraffic": 200.2
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 28.912
+    },
+    {
+      "domain": "www.adventuresofjellie.com",
+      "avgPosition": 8.333333333333334,
+      "keywordCount": 3,
+      "visibility": 1.25,
+      "estimatedTraffic": 33.28
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 9.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 9.776
+    },
+    {
+      "domain": "www.bmair.nl",
+      "avgPosition": 11.666666666666666,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 22.802
+    },
+    {
+      "domain": "www.hotels.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 8.19
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 13,
+      "keywordCount": 3,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 14.274
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 15,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 4.914
+    },
+    {
+      "domain": "www.travelsewhere.net",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.406
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 20,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.2880000000000003
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 22,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.4579999999999997
+    },
+    {
+      "domain": "www.thai-udon.be",
+      "avgPosition": 23.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.9499999999999997
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 25.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.7159999999999997
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 18.121999999999996
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 28,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.69
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.6639999999999997
+    },
+    {
+      "domain": "nakaravillasandglamping.com",
+      "avgPosition": 34,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 84.24000000000001
+    },
+    {
+      "domain": "www.thailandguide24.com",
+      "avgPosition": 35,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 37.492
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 37.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 40.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.7,
+      "estimatedTraffic": 18.226
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.068
+    },
+    {
+      "domain": "www.thailandtourismus.de",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.236
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 12.739999999999998
+    },
+    {
+      "domain": "www.thailandiaweb.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.3
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.404
+    },
+    {
+      "domain": "au.trip.com",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.496
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "www.tourismethai.fr",
+      "avgPosition": 42,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "trip101.com",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "thingstodoinudonthani.com",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "www.takemetour.com",
+      "avgPosition": 50,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 79.03999999999999
+    },
+    {
+      "domain": "travel.com",
+      "avgPosition": 51.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "www.expedia.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 8.787999999999998
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 6.656000000000001
+    },
+    {
+      "domain": "www.expedia.nl",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.366
+    },
+    {
+      "domain": "mapy.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.95
+    },
+    {
+      "domain": "toerisme-thailand.nl",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.534
+    },
+    {
+      "domain": "travel360benelux.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.456
+    },
+    {
+      "domain": "www.udon-map.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.456
+    },
+    {
+      "domain": "www.grab.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.326
+    },
+    {
+      "domain": "www.cheaptickets.nl",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.118
+    },
+    {
+      "domain": "www.expedia.co.th",
+      "avgPosition": 60.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.598
+    },
+    {
+      "domain": "www.tripadvisor.ca",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5720000000000001
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5720000000000001
+    },
+    {
+      "domain": "m.thetrippacker.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    },
+    {
+      "domain": "www.eater.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.5459999999999999
+    }
+  ]
+}

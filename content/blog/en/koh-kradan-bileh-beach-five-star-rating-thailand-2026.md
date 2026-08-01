@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["koh kradan", "bileh beach", "trang", "krabi", "sustainable tourism", "best beaches thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/koh-kradan-bileh-beach-five-star-rating-thailand-2026-hero.webp"
 description: "Thailand's Pollution Control Department awards its highest five-star Beach Star rating to Koh Kradan in Trang and Bileh Beach in Krabi — the first beaches to reach this level."
 featured: false
 readingTime: 3
@@ -36,13 +36,13 @@ For the latest round, 20 tourist beaches were assessed. Ten achieved ratings of 
 
 ## Koh Kradan: A Familiar Winner
 
-Koh Kradan is no stranger to international recognition. In 2023, it was named the **world's best beach** by the World Beach Guide. The island sits in the Andaman Sea within [Hat Chao Mai National Park](/city/trang/attractions/hat-chao-mai-national-park/) and is known for its long stretch of white sand backed by jungle, with a coral reef running along the eastern shore. It consistently features among the [best beaches in Thailand](/best-beaches-in-thailand/).
+Koh Kradan is no stranger to international recognition. In 2023, it was named the **world's best beach** by the World Beach Guide. The island sits in the Andaman Sea within [Hat Chao Mai National Park](/city/trang/attractions/) and is known for its long stretch of white sand backed by jungle, with a coral reef running along the eastern shore. It consistently features among the [best beaches in Thailand](/best-beaches-in-thailand/).
 
-Getting to Koh Kradan requires a boat from the mainland pier at **[Pak Meng](/city/trang/attractions/pak-meng-beach/)** or **Kuantungku** in [Trang](/city/trang/) — the trip takes about 45 minutes. Accommodation is limited to a handful of small resorts, which keeps the island uncrowded. The national park entrance fee applies (400 baht for foreign visitors). If you are planning a broader southern Thailand trip, the [Trang hotels page](/best-hotels/trang/) lists well-positioned bases on the mainland.
+Getting to Koh Kradan requires a boat from the mainland pier at **[Pak Meng](/city/trang/attractions/)** or **Kuantungku** in [Trang](/city/trang/) — the trip takes about 45 minutes. Accommodation is limited to a handful of small resorts, which keeps the island uncrowded. The national park entrance fee applies (400 baht for foreign visitors). If you are planning a broader southern Thailand trip, the [Trang hotels page](/best-hotels/trang/) lists well-positioned bases on the mainland.
 
 ## Bileh Beach: Krabi's Hidden Lagoon
 
-Bileh Beach on Koh Hong is less well-known but equally stunning. Part of the **Than Bok Khorani National Park** in [Krabi](/city/krabi/), the beach sits inside a dramatic limestone lagoon with emerald-green water. Most visitors reach it by longtail boat from **[Ao Nang](/city/krabi/attractions/ao-nang-beach/)** or **[Krabi Town](/city/krabi/top-10-attractions/)** as part of an [island-hopping day trip](/blog/thailand-island-hopping-guide/).
+Bileh Beach on Koh Hong is less well-known but equally stunning. Part of the **Than Bok Khorani National Park** in [Krabi](/city/krabi/), the beach sits inside a dramatic limestone lagoon with emerald-green water. Most visitors reach it by longtail boat from **[Ao Nang](/city/krabi/attractions/)** or **[Krabi Town](/city/krabi/top-10-attractions/)** as part of an [island-hopping day trip](/blog/thailand-island-hopping-guide/).
 
 Because it is within a national park, visitor numbers are controlled, which has helped maintain the pristine conditions that earned the five-star rating. This approach mirrors the conservation model being used elsewhere — for example, [Koh Tao's new coral restoration and eco-diving rules](/blog/koh-tao-coral-restoration-eco-diving-rules-2026/) and the [Similan Islands' updated snorkelling restrictions](/blog/similan-islands-diving-snorkelling-new-rules-2026/).
 

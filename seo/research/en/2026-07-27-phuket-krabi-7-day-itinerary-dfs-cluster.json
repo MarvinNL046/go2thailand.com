@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-27T13:45:02.352Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "phuket krabi 7 day itinerary",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "phuket krabi 7 day itinerary"
+  ],
+  "keywords": [
+    {
+      "keyword": "phuket krabi 7 day itinerary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

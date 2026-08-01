@@ -1,0 +1,1068 @@
+{
+  "captured_at": "2026-07-27T11:18:29.225Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "nai harn phuket",
+  "costs": {
+    "suggestions": 0.0198,
+    "related": 0.01428,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "nai harn phuket",
+    "phuket nai harn hotels",
+    "hotels in nai harn beach phuket",
+    "wyndham grand nai harn beach phuket reviews",
+    "the nai harn phuket review",
+    "the nai harn phuket reviews",
+    "hotels in nai harn phuket",
+    "nai harn phuket review",
+    "nai harn phuket reviews",
+    "nai harn phuket things to do",
+    "phuket town to nai harn beach",
+    "sunsuri nai harn phuket 5",
+    "things to do in nai harn phuket",
+    "wyndham grand nai harn beach phuket prices"
+  ],
+  "keywords": [
+    {
+      "keyword": "phuket nai harn beach",
+      "volume": 1600,
+      "kd": 14,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand nai harn beach phuket",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel nai harn phuket",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn hotel",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn hotel phuket",
+      "volume": 880,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket",
+      "volume": 880,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket hotel",
+      "volume": 880,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket hotels",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket nai harn",
+      "volume": 880,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket nai harn hotels",
+      "volume": 880,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the nai harn phuket",
+      "volume": 880,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in nai harn beach phuket",
+      "volume": 140,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels phuket nai harn beach",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn beach hotel phuket",
+      "volume": 140,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn beach phuket",
+      "volume": 140,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn beach phuket hotels",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn beach resort",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wyndham grand nai harn beach phuket reviews",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn beach hotels",
+      "volume": 50,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wyndham nai harn beach phuket",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn gym phuket health club",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket restaurants",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunsuri phuket nai harn beach",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the nai harn phuket review",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "the nai harn phuket reviews",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand nai harn beach phuket photos",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket thailand",
+      "volume": 20,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn resort phuket",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rock salt phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunsuri nai harn phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "two villas holiday phuket onyx style nai harn beach",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand nai harn beach phuket location",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand phuket nai harn",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in nai harn phuket",
+      "volume": 10,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn beach club",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn beach phuket map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn beach resort phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn beach resort reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn beach to phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn hotel phuket reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket beach",
+      "volume": 10,
+      "kd": 32,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket review",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket reviews",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn phuket things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "nai harn to phuket airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to nai harn",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket riviera villas nai harn",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket town to nai harn beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rock salt restaurant mueang phuket district menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rock salt restaurant mueang phuket district reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunsuri nai harn phuket 5",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "taxi phuket airport to nai harn",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the nai harn photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the nai harn phuket photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the nai harn phuket tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in nai harn phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tripadvisor nai harn phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "w phuket nai harn beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand nai harn beach phuket pantip",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand nai harn beach phuket prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand nai harn beach phuket tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand nai harn phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "all season phuket nai harn pantip",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the nai harn phuket pantip",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the royal phuket yacht club nai harn beach",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nai harn beach surfing phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to the nai harn",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket nai harn property",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket villa for sale nai harn",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sunsuri phuket nai harn beach serenity thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the nai harn phuket facebook",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham grand nai harn beach phuket sky bath",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wyndham nai harn beach phuket review",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 1.6666666666666667,
+      "keywordCount": 3,
+      "visibility": 2.8,
+      "estimatedTraffic": 192.60000000000002
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 4.333333333333333,
+      "keywordCount": 3,
+      "visibility": 2,
+      "estimatedTraffic": 44.907000000000004
+    },
+    {
+      "domain": "www.wyndhamgrandnaiharnphuket.com",
+      "avgPosition": 11,
+      "keywordCount": 3,
+      "visibility": 0.85,
+      "estimatedTraffic": 9.889
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 8.836
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 13,
+      "keywordCount": 3,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 9.485000000000001
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 17.142
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 18.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.2,
+      "estimatedTraffic": 11.254999999999999
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 30.235999999999997
+    },
+    {
+      "domain": "www.thenaiharn.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 310.08
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 36.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.331
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 89.208
+    },
+    {
+      "domain": "www.lhw.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 23.901999999999997
+    },
+    {
+      "domain": "www.onthebeach.co.uk",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 15.957999999999998
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 7.635999999999999
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 11.074000000000002
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.302000000000001
+    },
+    {
+      "domain": "www.mercuryholidays.co.uk",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.626
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.798
+    },
+    {
+      "domain": "www.destination2.co.uk",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 25.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.sunsuri-phuket.com",
+      "avgPosition": 25.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.31
+    },
+    {
+      "domain": "www.thehotelguru.com",
+      "avgPosition": 30,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.23
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 30,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "www.travelrepublic.co.uk",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "www.tropicalsky.co.uk",
+      "avgPosition": 34,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "thefittraveller.com",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "www.wintasun.co.uk",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 51.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.537
+    },
+    {
+      "domain": "www.hotels.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 57.992
+    },
+    {
+      "domain": "www.firstchoice.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 2.3040000000000003
+    },
+    {
+      "domain": "www.wyndhamhotels.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.3499999999999999
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.6749999999999999
+    },
+    {
+      "domain": "thailandbeaches.org",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.6
+    },
+    {
+      "domain": "www.kayak.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.531
+    },
+    {
+      "domain": "www.phuket.go.th",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.488
+    },
+    {
+      "domain": "www.loveholidays.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.387
+    },
+    {
+      "domain": "www.travelweekly.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.784
+    },
+    {
+      "domain": "www.broadwaytravel.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.1119999999999997
+    },
+    {
+      "domain": "www.coraltravel.pl",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "phuketwalk.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "wyndhamnaiharnbeachphuket.hotelsofphuket.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "scarlettlondon.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.holidaycheck.de",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.sunway.ie",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.101holidays.co.uk",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "tophotels.ru",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.tablethotels.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    }
+  ]
+}

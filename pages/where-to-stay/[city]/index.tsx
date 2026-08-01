@@ -127,7 +127,7 @@ export default function WhereToStayCityPage({ page, affiliates }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           <section id="area-comparison">
             <div className="flex flex-wrap items-end justify-between gap-4 mb-4">
               <div>
@@ -309,7 +309,7 @@ export default function WhereToStayCityPage({ page, affiliates }: Props) {
               </div>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -320,8 +320,16 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths: listIntentPaths('where-to-stay'), fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
+export const getStaticProps: GetStaticProps<Props> = async ({ params, locale }) => {
   const city = params?.city as string;
+  if (locale === 'nl') {
+    return {
+      redirect: {
+        destination: `/nl/best-hotels/${city}/`,
+        permanent: true,
+      },
+    };
+  }
   const { getWhereToStayIntentPage } = await import('../../../lib/intent-pages');
   const page = getWhereToStayIntentPage(city);
   if (!page) return { notFound: true, revalidate: 60 };

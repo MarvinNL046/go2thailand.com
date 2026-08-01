@@ -1,0 +1,897 @@
+{
+  "captured_at": "2026-07-28T06:59:36.621Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai rice salad",
+  "costs": {
+    "suggestions": 0.01848,
+    "related": 0.01272,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thai rice salad",
+    "rice noodle salad thai",
+    "thai rice noodle salad",
+    "thai rice noodles salad",
+    "rice salad thai",
+    "crispy rice salad thai",
+    "thai crispy rice salad",
+    "thai rice salad recipe",
+    "cold rice noodle salad thai",
+    "southern thai rice salad",
+    "thai beef salad toasted rice",
+    "thai beef salad with rice noodles",
+    "thai black rice salad",
+    "thai black rice salad recipe",
+    "thai brown rice salad",
+    "thai chicken rice noodle salad",
+    "thai chicken rice salad",
+    "thai chicken salad with rice noodles",
+    "thai crispy rice salad recipe"
+  ],
+  "keywords": [
+    {
+      "keyword": "rice noodle salad thai",
+      "volume": 90,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodle salad",
+      "volume": 90,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodles salad",
+      "volume": 90,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rice salad thai",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice salad",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "crispy rice salad #thai",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "crispy rice salad thai",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai crispy rice salad",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "asian crispy rice salad",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "crispy rice salad tiktok",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai rice salad recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cold rice noodle salad thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "southern thai rice salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef salad toasted rice",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef salad with rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai black rice salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai black rice salad recipe",
+      "volume": 10,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai brown rice salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice noodle salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken rice salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken salad with rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai crispy rice salad near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai crispy rice salad recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai cucumber salad recipe rice vinegar",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai herbal rice salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai red rice salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice ball salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodle salad dressing",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodle salad recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodle salad with chili lime vinaigrette",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodle salad with chili-lime vinaigrette",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice salad bowls",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai rice salad with peanut dressing",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice vermicelli salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice vermicelli salad recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai salad dressing rice wine vinegar",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai shrimp salad with rice noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef mango salad rice noodles",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai coconut wild rice salad",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodle salad jamie oliver",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai rice noodle salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "spicy thai rice noodle salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef salad rice",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef salad rice powder",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai brown rice and quinoa salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai cauliflower rice salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken salad with rice",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai coconut rice salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai coconut wild rice salad aldi",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pineapple rice salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai prawn and rice salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice noodle salad with peanut dressing",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai rice salad vegan",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style rice salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai wild rice salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the spruce eats thai rice noodle salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.lazycatkitchen.com",
+      "avgPosition": 8.2,
+      "keywordCount": 5,
+      "visibility": 1.75,
+      "estimatedTraffic": 13.962
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 9.6,
+      "keywordCount": 5,
+      "visibility": 2,
+      "estimatedTraffic": 16.58
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 11.8,
+      "keywordCount": 5,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 5.318
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 12.4,
+      "keywordCount": 5,
+      "visibility": 2.5,
+      "estimatedTraffic": 35.385
+    },
+    {
+      "domain": "www.riverford.co.uk",
+      "avgPosition": 19.8,
+      "keywordCount": 5,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 2.86
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 20,
+      "keywordCount": 5,
+      "visibility": 0.5,
+      "estimatedTraffic": 2.92
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 26,
+      "keywordCount": 5,
+      "visibility": 1.4,
+      "estimatedTraffic": 8.682
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 29,
+      "keywordCount": 5,
+      "visibility": 3,
+      "estimatedTraffic": 82.374
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 3.3333333333333335,
+      "keywordCount": 3,
+      "visibility": 2.3,
+      "estimatedTraffic": 26.442
+    },
+    {
+      "domain": "vanillaandbean.com",
+      "avgPosition": 3.6666666666666665,
+      "keywordCount": 3,
+      "visibility": 2.2,
+      "estimatedTraffic": 21.735
+    },
+    {
+      "domain": "food52.com",
+      "avgPosition": 29.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "glebekitchen.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 8.829
+    },
+    {
+      "domain": "www.jessdukes.com",
+      "avgPosition": 9,
+      "keywordCount": 3,
+      "visibility": 0.6499999999999999,
+      "estimatedTraffic": 4.365
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 47.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.903
+    },
+    {
+      "domain": "www.cottercrunch.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "www.flavourandsavour.com",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.3319999999999999
+    },
+    {
+      "domain": "andreabuckett.com",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 0.9809999999999999
+    },
+    {
+      "domain": "winealittlecookalot.com",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.107
+    },
+    {
+      "domain": "www.food.com",
+      "avgPosition": 51.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.861
+    },
+    {
+      "domain": "somuchfoodblog.com",
+      "avgPosition": 20,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.0350000000000001
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 21,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.792
+    },
+    {
+      "domain": "mymarketkitchen.tv",
+      "avgPosition": 24.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.585
+    },
+    {
+      "domain": "rolandfoods.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.567
+    },
+    {
+      "domain": "www.everydayhealthyeverydaydelicious.com",
+      "avgPosition": 28,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.6119999999999999
+    },
+    {
+      "domain": "www.foodiecrush.com",
+      "avgPosition": 28,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.567
+    },
+    {
+      "domain": "www.cookinginmygenes.com",
+      "avgPosition": 28,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.621
+    },
+    {
+      "domain": "www.sainsburysmagazine.co.uk",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.567
+    },
+    {
+      "domain": "vjcooks.com",
+      "avgPosition": 30,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.567
+    },
+    {
+      "domain": "blog.davidlloyd.co.uk",
+      "avgPosition": 48,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.lindsaypleskot.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 42.56
+    },
+    {
+      "domain": "www.thekitchensofa.com",
+      "avgPosition": 2.5,
+      "keywordCount": 2,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 18.151
+    },
+    {
+      "domain": "www.simplyrecipes.com",
+      "avgPosition": 35,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.567
+    },
+    {
+      "domain": "www.simplysuwanee.com",
+      "avgPosition": 35,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.567
+    },
+    {
+      "domain": "cookingwithcocktailrings.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 15.953
+    },
+    {
+      "domain": "www.rte.ie",
+      "avgPosition": 35.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.567
+    },
+    {
+      "domain": "sunkissedkitchen.com",
+      "avgPosition": 36,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.567
+    },
+    {
+      "domain": "thehappyfoodie.co.uk",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 4.731999999999999
+    },
+    {
+      "domain": "rabbithilllifestyle.com",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 4.074
+    },
+    {
+      "domain": "www.cookeatworld.com",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.65,
+      "estimatedTraffic": 3.92
+    },
+    {
+      "domain": "pinchofyum.com",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 2.4290000000000003
+    },
+    {
+      "domain": "eatwithclarity.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 2.448
+    },
+    {
+      "domain": "twistedfood.co.uk",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.45,
+      "estimatedTraffic": 2.149
+    },
+    {
+      "domain": "www.woolworths.com.au",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.0919999999999999
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.99
+    },
+    {
+      "domain": "www.forksoverknives.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.672
+    },
+    {
+      "domain": "www.waitrose.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.49
+    },
+    {
+      "domain": "www.splendidtable.org",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.532
+    },
+    {
+      "domain": "tenderly.medium.com",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.48600000000000004
+    },
+    {
+      "domain": "www.pinterest.com",
+      "avgPosition": 59.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "nadiashealthykitchen.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.504
+    }
+  ]
+}

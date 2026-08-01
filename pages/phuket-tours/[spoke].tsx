@@ -8,6 +8,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
 import phiPhiContentData from '../../data/pseo/tours/phi-phi-content.json';
+import PhuketTourGuideNl, { PhuketTourOwner } from '../../components/tours/PhuketTourGuideNl';
 
 interface PartnerEntry { partnerUrl: string; label?: string }
 interface Partners { [key: string]: PartnerEntry }
@@ -74,6 +75,11 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+
+  if (isNl) {
+    return <PhuketTourGuideNl owner={spoke as PhuketTourOwner} primaryUrl={primaryUrl} secondaryUrl={secondaryUrl} tertiaryUrl={tertiaryUrl} />;
+  }
+
   const place = (placement: string) => `${subId}-pseo-phuket-tours-${spoke}-${placement}`;
 
   const breadcrumbs = [
@@ -572,7 +578,7 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
@@ -809,7 +815,7 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
             <p>{isNl ? 'Tarieven en operator-info geverifieerd in mei 2026 op Klook, GetYourGuide, Viator en operator-websites. Tripadvisor-reviews (>200 reviews, 4,5+ rating) gebruikt voor kwaliteitscheck. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke operators we noemen.' : "Rates and operator info verified May 2026 on Klook, GetYourGuide, Viator, and operator websites. Tripadvisor reviews (>200 reviews, 4.5+ rating) used for quality checks. We earn a commission on bookings via the listed platforms — this never changes the price you pay or which operators we cover."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -818,7 +824,9 @@ export default function PhuketToursSpokePage({ spoke, primaryUrl, secondaryUrl, 
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'tours', 'phuket-spokes.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = (data.spokes as SpokeMeta[]).map(s => ({ params: { spoke: s.slug } }));
+  const paths = (data.spokes as SpokeMeta[]).flatMap(s =>
+    ['en', 'nl'].map(locale => ({ params: { spoke: s.slug }, locale })),
+  );
   return { paths, fallback: false };
 };
 

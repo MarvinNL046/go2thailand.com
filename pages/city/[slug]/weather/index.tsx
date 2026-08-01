@@ -9,6 +9,9 @@ import { TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../../../
 import { useSubId } from '../../../../lib/useSubId';
 import cityWeatherData from '../../../../data/city-weather.json';
 import citiesData from '../../../../data/cities/index.json';
+import WeatherGuideTemplate from '../../../../components/weather/WeatherGuideTemplate';
+import { getEnWeatherGuide } from '../../../../data/weather/en';
+import { getNlWeatherGuide } from '../../../../data/weather/nl';
 
 interface CityWeatherIndexProps {
   city: any;
@@ -55,7 +58,7 @@ const getSeasonColor = (month: string) => {
   const coolSeason = ['november', 'december', 'january', 'february'];
   const hotSeason = ['march', 'april', 'may'];
   const rainySeason = ['june', 'july', 'august', 'september', 'october'];
-  
+
   if (coolSeason.includes(month)) return 'bg-blue-100 border-blue-300';
   if (hotSeason.includes(month)) return 'bg-orange-100 border-orange-300';
   return 'bg-green-100 border-green-300';
@@ -80,28 +83,69 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, subId, placement);
 
+  const hottestMonth = monthlyWeather.reduce((best, item) => item.temperature.high > best.temperature.high ? item : best, monthlyWeather[0]);
+  const coolestMonth = monthlyWeather.reduce((best, item) => item.temperature.low < best.temperature.low ? item : best, monthlyWeather[0]);
+  const wettestMonth = monthlyWeather.reduce((best, item) => item.rainfall > best.rainfall ? item : best, monthlyWeather[0]);
+  const driestMonth = monthlyWeather.reduce((best, item) => item.rainfall < best.rainfall ? item : best, monthlyWeather[0]);
+
+  const weatherGuide = isNl ? getNlWeatherGuide(city.slug) : getEnWeatherGuide(city.slug);
+  if (weatherGuide) {
+    return <WeatherGuideTemplate data={weatherGuide} />;
+  }
+
   const breadcrumbs = [
     { name: isNl ? 'Home' : 'Home', href: '/' },
     { name: cityName, href: `/city/${city.slug}` },
     { name: isNl ? 'Weer' : 'Weather', href: `/city/${city.slug}/weather` }
   ];
+  const canonicalUrl = `https://go2-thailand.com/city/${city.slug}/weather/`;
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((crumb, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: crumb.name,
+      item: `https://go2-thailand.com${crumb.href.endsWith('/') ? crumb.href : `${crumb.href}/`}`,
+    })),
+  };
+  const webPageJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    '@id': `${canonicalUrl}#webpage`,
+    url: canonicalUrl,
+    name: `${cityName} weather and climate by month`,
+    description: `${cityName} planning averages by month, with temperature and rainfall context, limitations and links to current official forecasts.`,
+    inLanguage: 'en-GB',
+    about: {
+      '@type': 'City',
+      name: city.name.en,
+      containedInPlace: { '@type': 'Country', name: 'Thailand' },
+    },
+  };
 
   return (
-    <div className="min-h-screen bg-surface-cream">
+    <div data-premium-template="destination-weather" className="min-h-screen bg-canvas text-charcoal">
       <SEOHead
         title={isNl
           ? `${cityName} Weer 2026 — Beste Reistijd per Maand`
-          : `${cityName} Weather 2026 — Best Time to Visit by Month`}
+          : `${cityName} Weather by Month | Climate & Trip Planning`}
         description={isNl
           ? `${cityName} weergids: maandelijkse temperaturen, regenval en beste reistijd in 2026. Plan je Thailand reis met seizoensgebonden tips.`
-          : `${cityName} weather guide: monthly temperatures, rainfall, and best time to visit in 2026. Plan your Thailand trip with season-by-season tips.`}
+          : `${cityName} weather planning averages by month, with temperature and rainfall context, seasonal trade-offs and links to current official forecasts.`}
       >
         <meta name="keywords" content={isNl
           ? `${cityName} weer, ${cityName} klimaat, ${cityName} temperatuur, ${cityName} regenval, ${cityName} beste reistijd, ${cityName} seizoenen`
           : `${cityName} weather, ${cityName} climate, ${cityName} temperature, ${cityName} rainfall, ${cityName} best time to visit, ${cityName} seasons`} />
+        {!isNl && (
+          <>
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageJsonLd) }} />
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+          </>
+        )}
       </SEOHead>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-8">
@@ -111,11 +155,11 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-2">
             {/* Introduction */}
-            <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+            <section className="rounded-2xl border border-jade/10 bg-tonal p-6 mb-8 shadow-editorial-card">
               <p className="text-gray-700 leading-relaxed">
                 {isNl
                   ? `Ben je je reis naar ${cityName} aan het plannen? Het begrijpen van de weerpatronen gedurende het jaar is essentieel om het meeste uit je bezoek te halen. ${cityName} kent drie verschillende seizoenen: het koele seizoen (november-februari), het hete seizoen (maart-mei) en het regenseizoen (juni-oktober). Elk seizoen biedt unieke ervaringen en bezienswaardigheden.`
-                  : `Planning your trip to ${cityName}? Understanding the weather patterns throughout the year is essential for making the most of your visit. ${cityName} experiences three distinct seasons: the cool season (November-February), hot season (March-May), and rainy season (June-October). Each season offers unique experiences and attractions.`}
+                  : `Use these monthly values as planning averages, not as a forecast for your travel dates. Thailand's rainfall pattern varies by coast, latitude and year, so compare the months below and check the Thai Meteorological Department forecast and warnings shortly before each weather-sensitive journey.`}
               </p>
             </section>
 
@@ -154,7 +198,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
                   <p className="text-gray-700">
                     {isNl
                       ? `De populairste tijd om ${cityName} te bezoeken. De temperaturen zijn aangenaam, er valt weinig regen en het weer is perfect voor sightseeing en buitenactiviteiten.`
-                      : `The most popular time to visit ${cityName}. Temperatures are comfortable, rainfall is minimal, and the weather is perfect for sightseeing and outdoor activities.`}
+                      : `Often a useful planning window in inland and Andaman destinations, but not a guarantee of dry or comfortable conditions. Gulf-coast patterns and local elevation can differ.`}
                   </p>
                 </div>
 
@@ -163,7 +207,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
                   <p className="text-gray-700">
                     {isNl
                       ? 'De warmste tijd van het jaar met temperaturen die regelmatig boven de 35°C uitkomen. Ideaal voor strandactiviteiten maar uitdagend voor uitgebreid sightseeing. Het Songkran Festival in april brengt feestelijke vieringen.'
-                      : 'The hottest time of year with temperatures often exceeding 35°C. Great for beach activities but can be challenging for extensive sightseeing. Songkran Festival in April brings festive celebrations.'}
+                      : 'Typically a hotter planning period. Schedule exposed sightseeing conservatively, carry water and sun protection, and use current heat guidance rather than assuming beach conditions are safe.'}
                   </p>
                 </div>
 
@@ -172,7 +216,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
                   <p className="text-gray-700">
                     {isNl
                       ? 'Gekenmerkt door middagbuien en af en toe hevige regenval. Ondanks de regen zijn er veel zonnige periodes. Minder toeristen betekent betere prijzen en minder drukke bezienswaardigheden.'
-                      : 'Characterized by afternoon showers and occasional heavy rainfall. Despite the rain, there are many sunny periods. Lower tourist numbers mean better prices and less crowded attractions.'}
+                      : 'A broad planning label rather than a daily forecast. Rain can be brief or disruptive, sea conditions can affect boats, and lower demand does not guarantee lower prices or fewer visitors.'}
                   </p>
                 </div>
               </div>
@@ -183,16 +227,16 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? `Beste Reistijd voor ${cityName}` : `Best Time to Visit ${cityName}`}</h2>
               <div className="space-y-4">
                 <div>
-                  <h3 className="font-semibold font-heading text-lg mb-2">{isNl ? 'Voor Perfect Weer:' : 'For Perfect Weather:'}</h3>
-                  <p className="text-gray-700">{isNl ? 'November tot februari - Koele temperaturen en minimale regenval' : 'November to February - Cool temperatures and minimal rainfall'}</p>
+                  <h3 className="font-semibold font-heading text-lg mb-2">{isNl ? 'Voor Perfect Weer:' : 'Start with the drier pattern:'}</h3>
+                  <p className="text-gray-700">{isNl ? 'November tot februari - Koele temperaturen en minimale regenval' : `${monthNames[driestMonth.month] || driestMonth.monthName} has the lowest rainfall value in this planning dataset; verify the current forecast.`}</p>
                 </div>
                 <div>
-                  <h3 className="font-semibold font-heading text-lg mb-2">{isNl ? 'Voor Minder Drukte:' : 'For Fewer Crowds:'}</h3>
-                  <p className="text-gray-700">{isNl ? 'Mei tot oktober - Het regenseizoen trekt minder toeristen' : 'May to October - Rainy season brings fewer tourists'}</p>
+                  <h3 className="font-semibold font-heading text-lg mb-2">{isNl ? 'Voor Minder Drukte:' : 'For a quieter trip:'}</h3>
+                  <p className="text-gray-700">{isNl ? 'Mei tot oktober - Het regenseizoen trekt minder toeristen' : 'Compare school holidays, Thai public holidays and local events as well as weather; rainfall alone does not predict crowds or prices.'}</p>
                 </div>
                 <div>
                   <h3 className="font-semibold font-heading text-lg mb-2">{isNl ? 'Voor Festivals:' : 'For Festivals:'}</h3>
-                  <p className="text-gray-700">{isNl ? 'April (Songkran) en november (Loy Krathong)' : 'April (Songkran) and November (Loy Krathong)'}</p>
+                  <p className="text-gray-700">{isNl ? 'April (Songkran) en november (Loy Krathong)' : 'Confirm local dates and programmes before building a trip around Songkran, Loy Krathong or a destination-specific event.'}</p>
                 </div>
               </div>
             </section>
@@ -204,7 +248,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             {/* City Weather Selector */}
             <div className="bg-white rounded-2xl shadow-md p-6">
               <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? 'Weer in Andere Steden' : 'Other Cities Weather'}</h3>
-              <select 
+              <select
                 className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red"
                 value={city.slug}
                 onChange={(e) => window.location.href = `/city/${e.target.value}/weather/`}
@@ -234,19 +278,19 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               <ul className="space-y-3 text-sm">
                 <li className="flex justify-between">
                   <span className="text-gray-600">{isNl ? 'Warmste Maand:' : 'Hottest Month:'}</span>
-                  <span className="font-medium">{isNl ? 'April' : 'April'}</span>
+                  <span className="font-medium">{monthNames[hottestMonth.month] || hottestMonth.monthName}</span>
                 </li>
                 <li className="flex justify-between">
                   <span className="text-gray-600">{isNl ? 'Koelste Maand:' : 'Coolest Month:'}</span>
-                  <span className="font-medium">December</span>
+                  <span className="font-medium">{monthNames[coolestMonth.month] || coolestMonth.monthName}</span>
                 </li>
                 <li className="flex justify-between">
                   <span className="text-gray-600">{isNl ? 'Natste Maand:' : 'Wettest Month:'}</span>
-                  <span className="font-medium">September</span>
+                  <span className="font-medium">{monthNames[wettestMonth.month] || wettestMonth.monthName}</span>
                 </li>
                 <li className="flex justify-between">
                   <span className="text-gray-600">{isNl ? 'Droogste Maand:' : 'Driest Month:'}</span>
-                  <span className="font-medium">{isNl ? 'Januari' : 'January'}</span>
+                  <span className="font-medium">{monthNames[driestMonth.month] || driestMonth.monthName}</span>
                 </li>
               </ul>
             </div>
@@ -266,7 +310,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${city.slug}/hotels`} className="text-thailand-red hover:text-thailand-blue">
+                  <Link href={`/best-hotels/${city.slug}/`} className="text-thailand-red hover:text-thailand-blue">
                     {isNl ? 'Waar Verblijven' : 'Where to Stay'}
                   </Link>
                 </li>
@@ -291,7 +335,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             <a
               href={trackAffiliate(TRIP_GENERIC, 'hotels')}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow sponsored"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors"
             >
               {isNl ? 'Boek Hotels' : 'Book Hotels'}
@@ -299,7 +343,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             <a
               href={trackAffiliate(TWELVEGO_GENERIC, 'transport')}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer nofollow sponsored"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl hover:bg-thailand-blue-600 font-semibold transition-colors"
             >
               {isNl ? 'Boek Transport' : 'Book Transport'}
@@ -309,7 +353,13 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             {isNl ? 'Affiliate links. We kunnen een kleine commissie verdienen zonder extra kosten voor jou.' : 'Affiliate links. We may earn a small commission at no extra cost to you.'}
           </p>
         </section>
-      </main>
+        {!isNl && (
+          <section className="mt-8 rounded-2xl border border-jade/10 bg-tonal p-6 text-sm leading-6 text-charcoal/65">
+            <h2 className="font-display text-2xl font-semibold text-jade">Data limits and current conditions</h2>
+            <p className="mt-3">The table is a trip-planning dataset, not a forecast for your travel dates. Conditions vary within a province and from year to year. Check the <a href="https://www.tmd.go.th/en" target="_blank" rel="noopener noreferrer" className="font-bold text-jade underline decoration-saffron/50 underline-offset-4">Thai Meteorological Department forecast and warnings</a> before boats, mountain journeys and other weather-sensitive plans.</p>
+          </section>
+        )}
+      </div>
     </div>
   );
 };
@@ -321,22 +371,38 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ params, locale }) => {
   const { slug } = params as { slug: string };
   const cityWeather = cityWeatherData as Record<string, any>;
-  
+
   const city = citiesData.find(c => c.slug === slug);
-  if (!city || !cityWeather[slug]) {
+  const weatherGuide = locale === 'nl' ? getNlWeatherGuide(slug) : getEnWeatherGuide(slug);
+  if (!city || (!cityWeather[slug] && !weatherGuide)) {
     return { notFound: true };
   }
 
   // Handle both data structures - some cities have nested monthly_weather, others don't
   const cityData = cityWeather[slug];
+  if (!cityData && weatherGuide) {
+    return {
+      props: {
+        city,
+        monthlyWeather: weatherGuide.months.map(month => ({
+          month: month.slug,
+          monthName: month.name,
+          temperature: { high: month.meanHigh, low: month.meanLow },
+          rainfall: month.rainfall,
+          description: month.travelLabel,
+        })),
+      },
+      revalidate: 604800,
+    };
+  }
   const monthlyData = cityData.monthly_weather || cityData;
 
   const monthlyWeather = Object.entries(monthNamesEN).map(([monthSlug, monthName]) => {
     const data = monthlyData[monthSlug];
-    
+
     // Handle different data structures
     let temperature, rainfall, description;
-    
+
     if (data.temperature) {
       // New structure (ayutthaya, chiang-rai, etc.)
       temperature = data.temperature;
@@ -348,7 +414,7 @@ export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ pa
       rainfall = data.rainfall_mm;
       description = data.description;
     }
-    
+
     return {
       month: monthSlug,
       monthName,

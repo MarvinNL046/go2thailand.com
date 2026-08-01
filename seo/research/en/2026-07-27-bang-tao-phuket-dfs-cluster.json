@@ -1,0 +1,1191 @@
+{
+  "captured_at": "2026-07-27T11:03:53.365Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "bang tao phuket",
+  "costs": {
+    "suggestions": 0.01884,
+    "related": 0.0168,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "bang tao phuket",
+    "bang tao beach hotels phuket",
+    "bang tao beach phuket hotels",
+    "hotels bang tao beach phuket",
+    "phuket hotels bang tao beach",
+    "hotels in bang tao phuket",
+    "bang tao beach resorts phuket",
+    "best western phuket bang tao beach",
+    "best western phuket bang tao",
+    "things to do in bang tao phuket",
+    "bang tao beach to phuket old town",
+    "bang tao phuket restaurants",
+    "bang tao phuket weather",
+    "best restaurants bang tao phuket",
+    "best restaurants in bang tao phuket",
+    "best western hotel phuket bang tao",
+    "hilton garden inn phuket bang tao reviews",
+    "laguna phuket bang tao beach",
+    "phuket bang tao beach webcam",
+    "villa rental bang tao phuket"
+  ],
+  "keywords": [
+    {
+      "keyword": "bang tao beach phuket",
+      "volume": 5400,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunwing bangtao beach",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "amora beach resort phuket",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao phuket",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach hotels",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach hotels phuket",
+      "volume": 260,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao beach phuket hotels",
+      "volume": 260,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels bang tao beach phuket",
+      "volume": 260,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket hotels bang tao beach",
+      "volume": 260,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao night market",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chivatara resort bang tao beach phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton garden inn phuket bang tao",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in bang tao phuket",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao hotel phuket",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao hotels phuket",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao phuket hotels",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach resorts phuket",
+      "volume": 110,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao beach club phuket",
+      "volume": 90,
+      "kd": 13,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao beach clubs",
+      "volume": 90,
+      "kd": 7,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach nightlife",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunwing bangtao beach reviews",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "amora phuket",
+      "volume": 70,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach restaurants",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao restaurants",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach to patong",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best western phuket bang tao beach",
+      "volume": 40,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "elephant jungle sanctuary phuket bang tao branch",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "amora beach resort phuket reviews",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach resorts",
+      "volume": 30,
+      "kd": 17,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao gym phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao resort phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in bang tao beach",
+      "volume": 30,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best western phuket bang tao",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sunwing bangtao beach photos",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach to phuket airport",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao to phuket airport",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in bang tao phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "amora beach resort phuket photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "amora beach resort phuket tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao airbnb",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach night market",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach to bangla road",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao beach to phuket old town",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao night market phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao phuket beach",
+      "volume": 10,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao phuket map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao phuket muay thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bang tao phuket restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao phuket weather",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bang tao to phuket town",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beach clubs in bang tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants bang tao phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best restaurants in bang tao phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best western hotel phuket bang tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "diamond resort phuket bang tao beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "elephant sanctuary phuket bang tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton garden inn phuket bang tao location",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton garden inn phuket bang tao photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton garden inn phuket bang tao reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton garden inn phuket bang tao tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hilton phuket bang tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels bang tao beach phuket tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "laguna phuket bang tao beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket airport to bang tao beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket bang tao beach map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket bang tao beach webcam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "saii laguna phuket bang tao beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sunwing bangtao beach location",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunwing bangtao beach map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunwing bangtao beach royal studio",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunwing bangtao beach tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sunwing bangtao beach tui",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "taxi from phuket airport to bang tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villa rental bang tao phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "webcam phuket bang tao beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in bang tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chivatara resort & spa bang tao beach phuket 3",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "outrigger bang tao phuket",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best restaurants near bang tao beach phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "getting around bang tao beach phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "laguna beach resort thailand phuket bang tao",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket town to bang tao beach",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sunwing kamala beach",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the residence bang tao beach phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villa phuket bang tao",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 1.8,
+      "keywordCount": 5,
+      "visibility": 4.6000000000000005,
+      "estimatedTraffic": 333.22015999999996
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 2.4,
+      "keywordCount": 5,
+      "visibility": 4.300000000000001,
+      "estimatedTraffic": 216.5692
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 5,
+      "visibility": 3,
+      "estimatedTraffic": 122.9388
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 5.4,
+      "keywordCount": 5,
+      "visibility": 3.1500000000000004,
+      "estimatedTraffic": 122.05768
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 11,
+      "keywordCount": 5,
+      "visibility": 1.6,
+      "estimatedTraffic": 35.54528
+    },
+    {
+      "domain": "www.onthebeach.co.uk",
+      "avgPosition": 13,
+      "keywordCount": 5,
+      "visibility": 1.6,
+      "estimatedTraffic": 30.146879999999996
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 13.4,
+      "keywordCount": 5,
+      "visibility": 0.55,
+      "estimatedTraffic": 18.79728
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 16.4,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 8.892479999999999
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 17,
+      "keywordCount": 5,
+      "visibility": 1,
+      "estimatedTraffic": 22.92032
+    },
+    {
+      "domain": "www.bangtaobeach.com",
+      "avgPosition": 6.5,
+      "keywordCount": 4,
+      "visibility": 1.7999999999999998,
+      "estimatedTraffic": 58.672
+    },
+    {
+      "domain": "www.loveholidays.com",
+      "avgPosition": 12.75,
+      "keywordCount": 4,
+      "visibility": 0.25,
+      "estimatedTraffic": 6.60472
+    },
+    {
+      "domain": "www.destination2.co.uk",
+      "avgPosition": 13,
+      "keywordCount": 4,
+      "visibility": 0.75,
+      "estimatedTraffic": 15.818079999999998
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 19.25,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.16944
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.8694399999999995
+    },
+    {
+      "domain": "www.hotelsofphuket.com",
+      "avgPosition": 27,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.19568
+    },
+    {
+      "domain": "boutiquehotel.me",
+      "avgPosition": 28,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.7679999999999993
+    },
+    {
+      "domain": "www.angsana.com",
+      "avgPosition": 8.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.8,
+      "estimatedTraffic": 16.369311999999997
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 45.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.72768
+    },
+    {
+      "domain": "theluxuryeditor.com",
+      "avgPosition": 33,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.33568
+    },
+    {
+      "domain": "www.bestwestern.co.uk",
+      "avgPosition": 15,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.6411999999999995
+    },
+    {
+      "domain": "www.firstchoice.co.uk",
+      "avgPosition": 16,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.282640000000001
+    },
+    {
+      "domain": "hotelsofphuket.net",
+      "avgPosition": 37.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.14368
+    },
+    {
+      "domain": "thailandtriptips.com",
+      "avgPosition": 43.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.14368
+    },
+    {
+      "domain": "www.mercuryholidays.co.uk",
+      "avgPosition": 24.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.974
+    },
+    {
+      "domain": "www.hotelinphuket.net",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5976799999999998
+    },
+    {
+      "domain": "www.hotelsphuketnow.com",
+      "avgPosition": 34.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.8496799999999998
+    },
+    {
+      "domain": "www.virtualtourist.com",
+      "avgPosition": 36.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.8496799999999998
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.65,
+      "estimatedTraffic": 10.934000000000001
+    },
+    {
+      "domain": "www.sunwingphuket.com",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 5.85
+    },
+    {
+      "domain": "movenpick.accor.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 4.084
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.4939999999999998
+    },
+    {
+      "domain": "www.hotelscombined.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.42592
+    },
+    {
+      "domain": "reserving.com",
+      "avgPosition": 26.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.30368
+    },
+    {
+      "domain": "www.wotif.com",
+      "avgPosition": 29.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.30368
+    },
+    {
+      "domain": "thaiest.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.30368
+    },
+    {
+      "domain": "www.holidaycheck.de",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.30368
+    },
+    {
+      "domain": "ohotel.uk",
+      "avgPosition": 57,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.8496799999999998
+    },
+    {
+      "domain": "www.saltwater-dreaming.com",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8399999999999999
+    },
+    {
+      "domain": "www.google.co.in",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.30368
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 22.752
+    },
+    {
+      "domain": "nerdnomads.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 77.76
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 51.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.302
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 9.226
+    },
+    {
+      "domain": "bangtaomuaythai.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 22.512
+    },
+    {
+      "domain": "indulgenteats.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 16.223999999999997
+    },
+    {
+      "domain": "www.thailandtravel.guide",
+      "avgPosition": 69.33333333333333,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5976799999999998
+    },
+    {
+      "domain": "thailandbeaches.org",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 9.456
+    },
+    {
+      "domain": "www.cassia.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.064
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.064
+    },
+    {
+      "domain": "diamondresortphuket.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.602
+    }
+  ]
+}

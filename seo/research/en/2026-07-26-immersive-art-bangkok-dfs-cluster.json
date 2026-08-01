@@ -1,0 +1,38 @@
+{
+  "captured_at": "2026-07-26T13:54:54.448Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "immersive art bangkok",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "immersive art bangkok"
+  ],
+  "keywords": [
+    {
+      "keyword": "immersive art bangkok tickets",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "immersive art bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

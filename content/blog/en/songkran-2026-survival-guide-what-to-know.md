@@ -6,7 +6,7 @@ author:
   name: "Marvin"
 category: "festivals"
 tags: ["songkran", "songkran-2026", "thai-new-year", "water-festival", "chiang-mai", "bangkok", "thailand-festivals", "travel-tips"]
-image: "/images/blog/songkran-2026-survival-guide.webp"
+image: "/images/redesign/editorial/songkran-2026-survival-guide-what-to-know-hero.webp"
 description: "Your complete Songkran 2026 survival guide — what to bring, where to celebrate, cultural tips, and practical advice for Thailand's famous water festival."
 featured: true
 readingTime: 8

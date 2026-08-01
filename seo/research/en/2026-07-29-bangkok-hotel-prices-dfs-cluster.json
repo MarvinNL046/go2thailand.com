@@ -1,0 +1,1642 @@
+{
+  "captured_at": "2026-07-29T01:17:53.301Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "bangkok hotel prices",
+  "costs": {
+    "suggestions": 0.02028,
+    "related": 0.02064,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "bangkok hotel prices",
+    "bangkok city hotel prices",
+    "bangkok thailand hotel prices",
+    "hotel prices bangkok",
+    "hotel prices in bangkok",
+    "shangri-la hotel bangkok prices",
+    "aira hotel bangkok prices",
+    "almas hotel bangkok prices",
+    "amara bangkok hotel prices",
+    "ambassador hotel bangkok prices",
+    "asia hotel bangkok prices",
+    "bangkok 4 star hotel prices",
+    "bangkok 4-star hotel prices",
+    "bangkok hotel prices per night",
+    "bangkok palace hotel prices",
+    "carlton hotel bangkok sukhumvit prices",
+    "centara life hotel bangkok phra nakhon prices",
+    "chatrium hotel riverside bangkok prices",
+    "convenient park bangkok hotel prices"
+  ],
+  "keywords": [
+    {
+      "keyword": "best hotels in bangkok",
+      "volume": 2400,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok",
+      "volume": 1600,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok hotels 5-star",
+      "volume": 1000,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok soi 11",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in sukhumvit bangkok",
+      "volume": 390,
+      "kd": 29,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "boutique hotels bangkok",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok hotels",
+      "volume": 140,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok city hotel prices",
+      "volume": 110,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok hotel prices",
+      "volume": 110,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand hotel prices",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for first time",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok for families",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel prices bangkok",
+      "volume": 110,
+      "kd": 14,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel prices in bangkok",
+      "volume": 110,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhumvit road bangkok",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotel to stay in bangkok",
+      "volume": 90,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok 5 star",
+      "volume": 90,
+      "kd": 20,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok sukhumvit",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in sukhumvit bangkok",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in bangkok",
+      "volume": 90,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "boutique hotels thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok map",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best boutique hotels bangkok",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in bangkok sukhumvit soi 11",
+      "volume": 70,
+      "kd": 25,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok nightlife",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in sukhumvit bangkok",
+      "volume": 50,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotel in bangkok sukhumvit",
+      "volume": 50,
+      "kd": 23,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in sukhumvit bangkok",
+      "volume": 50,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aira hotel bangkok reviews",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok with family",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in bangkok sukhumvit",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in sukhumvit bangkok",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit soi 11 nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for tourists",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best place to stay in bangkok for first timers",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok hotels5 star",
+      "volume": 30,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for couples",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok sukhumvit 11 reviews",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "shangri-la hotel bangkok prices",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 star hotel in bangkok",
+      "volume": 20,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for 2 nights",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for sightseeing",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok for couples",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "design hotels bangkok",
+      "volume": 20,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "3-star hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4 star hotels in bangkok city centre",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4 star hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4-star hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": 34,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in sukhumvit soi 11",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aira hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "almas hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "amara bangkok hotel prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ambassador hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "asia hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok 4 star hotel prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok 4-star hotel prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok hotel price in thai baht",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok hotel price per day",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok hotel prices per night",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok hotels 5 star luxury",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok palace hotel prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 4 star hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best affordable boutique hotel bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for shopping",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in bangkok for street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best budget hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotel in bangkok for tourist",
+      "volume": 10,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok city centre",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in bangkok reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "boutique hotel bangkok sukhumvit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "carlton hotel bangkok sukhumvit prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara life hotel bangkok phra nakhon prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chatrium hotel riverside bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotel in bangkok pratunam",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in bangkok sukhumvit soi 11",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in sukhumvit soi 11 bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "convenient park bangkok hotel prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "eleven hotel bangkok sukhumvit 11 prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "four seasons hotel bangkok at chao phraya river prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grace hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand 5 hotel & plaza sukhumvit bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel icon bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel nikko bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel once bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel prices in thailand bangkok",
+      "volume": 10,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel royal bangkok chinatown prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel royal bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel thomas bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in sukhumvit soi 13 bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jc kevin sathorn bangkok hotel prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury hotels in sukhumvit bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "maison hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "manhattan hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "montien hotel surawong bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "montien riverside hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mövenpick hotel sukhumvit 15 bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "muu bangkok hotel prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "night hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "novotel bangkok suvarnabhumi airport hotel prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok sukhumvit 11 address",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "nysa hotel bangkok sukhumvit 11 prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "picnic hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pullman bangkok hotel g prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "radisson blu plaza hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rama gardens hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rembrandt hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "royal orchid sheraton riverside hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "samala hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "siam kempinski hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "siam siam design hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sindhorn midtown hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sirocco hotel bangkok prices",
+      "volume": 10,
+      "kd": 49,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "skyview hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "skyview hotel bangkok sukhumvit 24 prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok directions",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok restaurants",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhumvit bangkok things to do",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the athenee hotel a luxury collection hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the atlanta hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the bazaar hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the four wings hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the salil hotel riverside bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the sukhothai bangkok hotel prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top rated bangkok hotels 5-star",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "valia hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vie hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where not to stay in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where to stay in bangkok for 3 nights",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "white palace hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "zayn hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "zenith sukhumvit hotel bangkok prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "grand president hotel bangkok prices",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nap hotel bangkok prices",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nishitetsu hotel croom bangkok silom prices",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pure eleven hotel bangkok prices",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok hotel booking with girl",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sirocco hotel bangkok room prices",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 1,
+      "keywordCount": 3,
+      "visibility": 3,
+      "estimatedTraffic": 109.44
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 3.3333333333333335,
+      "keywordCount": 3,
+      "visibility": 2.3,
+      "estimatedTraffic": 37.178
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 5.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.6,
+      "estimatedTraffic": 19.254
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 6,
+      "keywordCount": 3,
+      "visibility": 1.5,
+      "estimatedTraffic": 12.168
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 16.156
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 14,
+      "keywordCount": 3,
+      "visibility": 1.8,
+      "estimatedTraffic": 35.934
+    },
+    {
+      "domain": "www.laterooms.com",
+      "avgPosition": 14,
+      "keywordCount": 3,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 3.102
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 15,
+      "keywordCount": 3,
+      "visibility": 0.7,
+      "estimatedTraffic": 8.04
+    },
+    {
+      "domain": "www.momondo.co.uk",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.35,
+      "estimatedTraffic": 3.4619999999999997
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.35,
+      "estimatedTraffic": 3.11
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.416
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 19,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.768
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 15.861999999999998
+    },
+    {
+      "domain": "www.lastminute.com",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 4.827
+    },
+    {
+      "domain": "www.hotelscombined.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 3.3
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.8799999999999999
+    },
+    {
+      "domain": "www.opodo.co.uk",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.836
+    },
+    {
+      "domain": "www.hostelworld.com",
+      "avgPosition": 19,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.5940000000000001
+    },
+    {
+      "domain": "www.goibibo.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.605
+    },
+    {
+      "domain": "www.travelrepublic.co.uk",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.484
+    },
+    {
+      "domain": "www.traveloka.com",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9450000000000001
+    },
+    {
+      "domain": "www.edreams.co.uk",
+      "avgPosition": 30,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.budgetyourtrip.com",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.bangkokcityhotel.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 9.226
+    },
+    {
+      "domain": "ohotel.uk",
+      "avgPosition": 52.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "hotelschart.com",
+      "avgPosition": 54.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.46199999999999997
+    },
+    {
+      "domain": "www.hotelscombined.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.5819999999999999
+    },
+    {
+      "domain": "ar.trivago.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.274
+    },
+    {
+      "domain": "hotels.cloudbeds.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.05
+    },
+    {
+      "domain": "www.hotels.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.826
+    },
+    {
+      "domain": "www.shangri-la.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.616
+    },
+    {
+      "domain": "www.expedia.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.784
+    },
+    {
+      "domain": "www.travelonline.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.561
+    },
+    {
+      "domain": "www.amimir.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.602
+    },
+    {
+      "domain": "www.wegotravel.co.uk",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.473
+    },
+    {
+      "domain": "cityhotel.com-bangkok.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.33599999999999997
+    },
+    {
+      "domain": "www.kayak.co.in",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.24200000000000002
+    },
+    {
+      "domain": "www.expedia.co.th",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.308
+    },
+    {
+      "domain": "www.opodo.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.hotels.uk.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.hoteltonight.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.bharatfare.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "en.planetofhotels.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "gh.wego.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "bangkok-city-hotel.bangkok-hotels-now.com",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "hotelnights.com",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.makemytrip.global",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    }
+  ]
+}

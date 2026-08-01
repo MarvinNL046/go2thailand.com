@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "visama-explorer-nan-eco-glamping-tented-camp-2026",
+  "route": "/nl/blog/visama-explorer-nan-eco-glamping-tented-camp-2026/",
+  "cluster": "policy",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Visama Explorer Nan: onafhankelijke hotelcheck | Go2Thailand",
+    "description": "Past Visama Explorer Nan bij je route? Controleer ligging, transfers, tenttype, inbegrepen programma en actuele voorwaarden vóór je boekt.",
+    "primaryKeyword": "Visama Explorer Nan",
+    "secondaryKeywords": ["tented camp Nan", "glamping Bo Kluea", "hotel Bo Kluea"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/visama-explorer-nan-eco-glamping-tented-camp-2026/"
+  },
+  "hero": {
+    "eyebrow": "Bo Kluea · routecheck",
+    "title": "Visama Explorer Nan",
+    "accent": "Kies eerst de juiste basis",
+    "description": "Een tented camp buiten de stad vraagt een andere route dan een hotel in Nan-stad. Controleer bereikbaarheid, programma en voorwaarden voor jouw data.",
+    "image": "/images/redesign/editorial/visama-explorer-nan-eco-glamping-tented-camp-2026-hero.webp",
+    "imageAlt": "Tented camp in de groene bergen van Nan in Noord-Thailand",
+    "primaryCta": { "label": "Doe de routecheck", "href": "#keuze" },
+    "secondaryCta": { "label": "Boekingsvragen", "href": "#hotelcheck" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Visama Explorer Nan is vooral logisch als Bo Kluea zelf onderdeel van je route is. Controleer transfers, tenttype, activiteiten, toegankelijkheid en de actuele totaalprijs rechtstreeks voor jouw verblijf.",
+  "blocks": [
+    { "kind": "comparison", "id": "keuze", "title": "Past deze basis bij je reis?", "options": [
+      { "title": "Waarschijnlijk passend", "description": "Je reist langzaam door Nan, wilt bewust bij Bo Kluea verblijven en maakt ruimte voor de transfer.", "label": "Camp-ervaring" },
+      { "title": "Eerst vergelijken", "description": "Je wilt vooral Nan-stad of Pua zien, zelfstandig eten of snel doorreizen.", "label": "Andere basis" },
+      { "title": "Vooraf bevestigen", "description": "Mobiliteit, kinderen, dieet of buitenprogramma vragen concrete schriftelijke antwoorden.", "label": "Persoonlijke check" }
+    ] },
+    { "kind": "checklist", "id": "hotelcheck", "title": "Controleer vóór een niet-restitueerbare boeking", "items": ["Exact tenttype en slaapopstelling", "Transfer vanaf en naar je andere basis", "Inbegrepen maaltijden en activiteiten", "Toegankelijkheid van terrein en voorzieningen", "Alternatief bij uitval van buitenactiviteiten", "Actuele totaalprijs en annuleringsvoorwaarden"] },
+    { "kind": "callout", "id": "prijs", "tone": "jade", "title": "Alleen live prijzen", "description": "Vergelijk dezelfde data, hetzelfde tenttype en dezelfde inbegrepen onderdelen. Oude artikelen en vanafprijzen zijn niet leidend." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Ligt Visama Explorer Nan in Nan-stad?", "answer": "Nee. De officiële pagina plaatst het camp bij Bo Kluea. Behandel dit als een aparte basis en controleer je route." },
+      { "question": "Is vervoer inbegrepen?", "answer": "Dat kan per arrangement verschillen. Vraag voor jouw data, vertrekpunt en groepsgrootte om schriftelijke bevestiging." },
+      { "question": "Is dit een duurzaam hotel?", "answer": "De aanbieder presenteert duurzaamheids- en lokale samenwerkingsclaims. Vraag om concrete praktijken als dit je keuze bepaalt." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire controlepunten", "items": [
+      { "title": "Visama Explorer Nan", "publisher": "Visama Tented Camps", "url": "https://visamatentedcamps.com/en/nan/", "checkedAt": "2026-08-01", "note": "Actuele aanbiederinformatie; claims en voorwaarden rechtstreeks bevestigen." },
+      { "title": "Nan", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Nan/219", "checkedAt": "2026-08-01", "note": "Officiële bestemmingscontext." }
+    ] }
+  ]
+}

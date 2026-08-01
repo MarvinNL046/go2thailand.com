@@ -1,0 +1,831 @@
+{
+  "captured_at": "2026-07-26T00:37:58.639Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "massaman curry thailand",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.01776,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "massaman curry thailand",
+    "massaman curry recept",
+    "massaman curry pasta",
+    "massaman curry thailand recipe",
+    "massaman curry ah",
+    "massaman curry origineel recept",
+    "massaman curry recept kip",
+    "koh thai massaman curry",
+    "massaman curry jumbo",
+    "massaman curry vegetarisch",
+    "massaman curry groente",
+    "massaman curry pasta ah",
+    "massaman curry pasta jumbo",
+    "massaman curry recept rundvlees",
+    "massaman curry koh thai",
+    "massaman curry zoete aardappel",
+    "thaise massaman curry kruidenpasta",
+    "massaman curry aardappel",
+    "massaman curry fairtrade"
+  ],
+  "keywords": [
+    {
+      "keyword": "massaman curry thailand",
+      "volume": 8100,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recept",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry pasta",
+      "volume": 590,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry thailand recipe",
+      "volume": 390,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massaman curry paste",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry ah",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry origineel recept",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recept kip",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "curry rundvlees",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh thai massaman curry",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh thai massaman currypasta",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry jumbo",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "recept indiase curry met rundvlees",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "curry sperziebonen vegetarisch",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry vegetarisch",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai beef curry",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman currypasta recept",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef curry recept",
+      "volume": 30,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "indiase rundvlees stoofpot",
+      "volume": 30,
+      "kd": 46,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry groente",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry pasta ah",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry pasta jumbo",
+      "volume": 30,
+      "kd": 46,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recept rundvlees",
+      "volume": 30,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rundvlees curry garam masala",
+      "volume": 30,
+      "kd": 46,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry koh thai",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry zoete aardappel",
+      "volume": 20,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rode curry met rundvlees",
+      "volume": 20,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thaise gele curry met rundvlees recept",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thaise massaman curry kruidenpasta",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef vindaloo recept",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "curry rundvlees kokosmelk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "curry rundvlees slowcooker",
+      "volume": 10,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh thai massaman currypasta recept",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry aardappel",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry fairtrade",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry garnalen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry kopen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry lidl",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry met rundvlees",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry pasta kopen",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry pasta recept",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry project gezond",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry recept vegetarisch",
+      "volume": 10,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry rundvlees",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rundvlees curry recept",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste massaman curry paste",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "indiase massaman curry",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "massaman curry pasta plus",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vindaloo recept rundvlees",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "ohmyfoodness.nl",
+      "avgPosition": 7.25,
+      "keywordCount": 4,
+      "visibility": 1.55,
+      "estimatedTraffic": 309.47600000000006
+    },
+    {
+      "domain": "www.jumbo.com",
+      "avgPosition": 9,
+      "keywordCount": 4,
+      "visibility": 1.8,
+      "estimatedTraffic": 41.991
+    },
+    {
+      "domain": "www.eefkooktzo.nl",
+      "avgPosition": 9.5,
+      "keywordCount": 4,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 94.63199999999999
+    },
+    {
+      "domain": "www.leukerecepten.nl",
+      "avgPosition": 10.25,
+      "keywordCount": 4,
+      "visibility": 1.05,
+      "estimatedTraffic": 164.827
+    },
+    {
+      "domain": "www.kikkoman.nl",
+      "avgPosition": 13,
+      "keywordCount": 4,
+      "visibility": 1.5,
+      "estimatedTraffic": 85.99799999999999
+    },
+    {
+      "domain": "uitpaulineskeuken.nl",
+      "avgPosition": 16.25,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 7.390999999999999
+    },
+    {
+      "domain": "miljuschka.nl",
+      "avgPosition": 21.25,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 98.161
+    },
+    {
+      "domain": "www.ah.nl",
+      "avgPosition": 21.25,
+      "keywordCount": 4,
+      "visibility": 1,
+      "estimatedTraffic": 54.284
+    },
+    {
+      "domain": "www.kohthai.nl",
+      "avgPosition": 24.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.161
+    },
+    {
+      "domain": "www.culy.nl",
+      "avgPosition": 25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.3689999999999998
+    },
+    {
+      "domain": "bettyskitchen.nl",
+      "avgPosition": 8.666666666666666,
+      "keywordCount": 3,
+      "visibility": 1.35,
+      "estimatedTraffic": 23.207
+    },
+    {
+      "domain": "eviekookt.nl",
+      "avgPosition": 34.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.9609999999999994
+    },
+    {
+      "domain": "wahnamhong.nl",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.7,
+      "estimatedTraffic": 24.409
+    },
+    {
+      "domain": "thegoodspice.nl",
+      "avgPosition": 15,
+      "keywordCount": 3,
+      "visibility": 0.65,
+      "estimatedTraffic": 47.558
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.6439999999999997
+    },
+    {
+      "domain": "smaakmenutie.nl",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.3240000000000003
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.814
+    },
+    {
+      "domain": "www.fairtradeoriginal.nl",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 17.046
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 18.349
+    },
+    {
+      "domain": "www.tilda.com",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 10.073
+    },
+    {
+      "domain": "thaistafelen.nl",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.2540000000000004
+    },
+    {
+      "domain": "itsnotaboutcooking.nl",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.447
+    },
+    {
+      "domain": "deliciousmagazine.nl",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.0740000000000003
+    },
+    {
+      "domain": "15gram.be",
+      "avgPosition": 25,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.375
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 25.848
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.661
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 120.66
+    },
+    {
+      "domain": "www.bysam.nl",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.247
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 38,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.764
+    },
+    {
+      "domain": "foodpassie.com",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.457
+    },
+    {
+      "domain": "dagelijksekost.vrt.be",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.457
+    },
+    {
+      "domain": "njam.tv",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.247
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 41.5,
+      "keywordCount": 2,
+      "visibility": 0.9,
+      "estimatedTraffic": 65.28
+    },
+    {
+      "domain": "www.eetspiratie.nl",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.247
+    },
+    {
+      "domain": "www.thaisbestellen.nl",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.504
+    },
+    {
+      "domain": "tastesbetterfromscratch.com",
+      "avgPosition": 47.5,
+      "keywordCount": 2,
+      "visibility": 0.3,
+      "estimatedTraffic": 9.783
+    },
+    {
+      "domain": "domeaflavour.nl",
+      "avgPosition": 47.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.457
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 37.946999999999996
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 18.291
+    },
+    {
+      "domain": "chrislovesjulia.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 13.181999999999999
+    },
+    {
+      "domain": "receptfavoriter.se",
+      "avgPosition": 53,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.777
+    },
+    {
+      "domain": "www.favfamilyrecipes.com",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 9.984
+    },
+    {
+      "domain": "www.peasmaker.nl",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 25.6
+    },
+    {
+      "domain": "nl.openfoodfacts.org",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.05
+    },
+    {
+      "domain": "www.worldwideholland.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.9209999999999998
+    },
+    {
+      "domain": "alwaysusebutter.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.5490000000000004
+    },
+    {
+      "domain": "www.taste.com.au",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.925
+    },
+    {
+      "domain": "www.projectgezond.nl",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.5
+    },
+    {
+      "domain": "southsidekitchen.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.301
+    },
+    {
+      "domain": "lovetocookhealthy.nl",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.003
+    }
+  ]
+}

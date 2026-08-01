@@ -1,0 +1,79 @@
+import type { CityFoodGuideData } from '../types';
+
+export const chiangKhanCityFoodNl: CityFoodGuideData = {
+  locale: 'nl', city: 'Chiang Khan', slug: 'chiang-khan', pageUrl: 'https://go2-thailand.com/nl/city/chiang-khan/food/', updatedAt: '2026-07-30',
+  seo: { title: 'Eten in Chiang Khan: ontbijt, markt & Mekong', description: 'Plan eten in Chiang Khan via khao piak sen, khai krata, khao jee, Walking Street, Mekongtafel en Kaeng Khut Khu.' },
+  copy: {
+    formatDescription: 'Chiang Khan eet in tijdblokken. Begin met een hete Lao-Isaan-ontbijtkom, gebruik Walking Street alleen wanneer kramen werkelijk actief zijn en koppel één buitenstop aan Kaeng Khut Khu.',
+    formatIntro: 'Deze owner behandelt brede food-, ontbijt-, markt- en route-intentie. Actuele restaurants, reviewranglijsten, prijzen en openingstijden blijven bewust buiten de gids.',
+    districtEyebrow: 'Ochtendstad, avondstraat, buitenrivier', districtTitle: 'Vier foodzones met verschillende klokken', districtDescription: 'De oude stad is compact, maar ontbijtkeukens, avondstraat en rivierterrassen doen niet hetzelfde. Kaeng Khut Khu is een buitenroute, geen uiteinde van één foodmarkt.',
+    dishEyebrow: 'Wat eten in Chiang Khan', dishTitle: 'Zes richtingen van natte rijstnoedel naar gegrilde kleefrijst', dishDescription: 'TAT noemt khao piak sen, miang kham en khao jee. Pan-ei, Isaan-salade en volledig bereide vis maken de tafel compleet zonder één verplicht menu te verzinnen.', dishIntro: 'Vlees- of visbouillon, varken, ei, vissaus, gefermenteerde vis, schaaldier, pinda, soja, tarwe, kokos en gedeelde grill kunnen verborgen zijn. Controleer de bereiding.',
+    dayImage: '/images/redesign/chiang-khan-cycle-banner.webp', dayImageAlt: 'Langzame route langs Mekong en houten huizen van Chiang Khan', dayEyebrow: 'Soep bij dageraad, rivier bij schemer', dayTitle: 'Laat Chiang Khan de ruimte tussen zijn momenten vullen.',
+    affiliateEyebrow: 'Actuele ervaring of techniek thuis', affiliateTitle: 'Controleer een Chiang Khan-optie — of oefen Thaise techniek thuis', affiliateDescription: 'Een actuele activiteit, kookboek en granieten vijzel lossen verschillende taken op. Controleer route, editie, maat, verkoper, actuele prijs, voorraad en levering.', faqTitle: 'Veelgestelde vragen over eten in Chiang Khan',
+  },
+  hero: {
+    image: '/images/redesign/chiang-khan-food-mekong-dawn-nl.webp', imageAlt: 'Volledig bereide khao piak sen, pan-ei, gegrilde kleefrijst en thee bij de Mekong in Chiang Khan', eyebrow: 'Dageraadnoedels, houtskoolrijst, Mekongavond', titleLead: 'Eten in Chiang Khan,', titleAccent: 'van ontbijtkom naar rivierstraat.', subtitle: 'Een Lao-Isaan-tafel gelezen via het echte dagritme van de stad.', description: 'Kom terug van de ochtend voor khao piak sen of pan-ei, houd de rivierdag traag en laat Walking Street één avondlaag zijn in plaats van het hele foodverhaal.', sideEyebrow: 'De bruikbare volgorde', sideTitle: 'Ontbijt. Rivier. Avondstraat.', sideDescription: 'Drie foodmomenten die bij de houten Mekongstad passen zonder iedere kraam en buitenstop tot checklist te maken.',
+  },
+  formats: [
+    { title: 'Hete ontbijtkom', label: 'Beste na de vroege start', fit: 'Khao piak sen, khai krata of een ander vers bereid ontbijt past na Phu Thok of respectvol observeren van het ochtendritueel.', tradeoff: 'Bouillon, varken, ei, soja, tarwe en garnering variëren. Vraag naar de hele kom en maak geen oude zaak permanent.', icon: 'sun' },
+    { title: 'Walking Street-proefronde', label: 'Beste wanneer vendors actief zijn', fit: 'Enkele kleine volledig bereide snacks maken de houten straat tot avondroute en laten ruimte voor één zittend gerecht.', tradeoff: 'Vendor-mix, dagen en drukte veranderen. Bevestig de actuele markt en houd een alternatief.', icon: 'market' },
+    { title: 'Gedeelde Lao-Isaan-tafel', label: 'Beste voor regionale context', fit: 'Kleefrijst, som tam, volledig bereide vis of vlees, groente en dips vertellen meer dan een must-eatlijst.', tradeoff: 'Gefermenteerde vis, gedroogde garnaal, pinda, vissaus en gedeelde vijzel vragen expliciete controle.', icon: 'restaurant' },
+    { title: 'Foodstop aan de buitenrivier', label: 'Beste met Kaeng Khut Khu', fit: 'Een bevestigde maaltijd of lokale productstop ondersteunt de oostelijke wegroute zonder verkeerd terugrijden.', tradeoff: 'Veronderstel geen oude markt, rivierproduct, soort, prijs of kraam. Controleer route en retour eerst.', icon: 'clock' },
+  ],
+  districts: [
+    { name: 'Sri Chiang Khan Road en dagmarkt', signal: 'Ontbijt vóór de straat verandert', description: 'De blokken achter het water dragen het dagelijkse ontbijt: noedels, pan-ei, rijst, soep en ingrediënten.', timing: 'Vroege ochtend tot bruikbare daglaag', routeNote: 'Controleer shop en marktpositie, omloop, bouillon, vlees, ei en saus. Oude beschrijvingen bewijzen geen uren.', image: '/images/redesign/chiang-khan-food-mekong-dawn-nl.webp', imageAlt: 'Vers Chiang Khan-ontbijt bij de Mekong in het eerste licht', href: '/city/chiang-khan/' },
+    { name: 'Chai Khong Walking Street', signal: 'Avondsnacks tussen houten huizen', description: 'De oude straat voegt gegrilde kleefrijst, zoet, kleine spiesen, producten en casual keukens toe wanneer het avondritme actief is.', timing: 'Bevestig het actuele avondpatroon', routeNote: 'Loop eerst voor sfeer en kies alleen helder behandeld en bereid eten. Bevries geen oude vendorlijst.', image: '/images/redesign/chiang-khan-walking-street.webp', imageAlt: 'Foodkramen tussen houten huizen op Chiang Khan Walking Street', href: '/city/chiang-khan/attractions/' },
+    { name: 'Mekongpromenade en rivierterrassen', signal: 'Zitten wanneer uitzicht telt', description: 'Riviertafels passen bij een gedeelde Isaan-maaltijd of rustige koffie, maar niet iedere zaak serveert lokaal eten.', timing: 'Zachte middag of rustige avond', routeNote: 'Rivierzicht bewijst geen herkomst. Vraag vissoort, bereiding, portie en prijsbasis.', image: '/images/redesign/chiang-khan-blue-hour.webp', imageAlt: 'Rustige Mekongpromenade en houten rivierhuizen in Chiang Khan', href: '/city/chiang-khan/' },
+    { name: 'Kaeng Khut Khu en oostroute', signal: 'Kokosproduct en riviercontext', description: 'De buitenrivier kan een lokale product- of volledig bereide foodstop toevoegen wanneer keuken en route zijn bevestigd.', timing: 'Plan in het wegblok, niet als late omweg', routeNote: 'Waterstand en vendors veranderen. Veronderstel geen levende garnaal, beschermde soort, vangst of vaste prijs.', image: '/images/redesign/chiang-khan-kaeng-khut-khu.webp', imageAlt: 'Mekongrotsen bij Kaeng Khut Khu buiten Chiang Khan', href: '/city/chiang-khan/attractions/' },
+  ],
+  dishes: [
+    { title: 'Khao piak sen', thai: 'Lao-stijl natte rijstnoedels', description: 'Dikke zachte rijstnoedels in hete, uitgelegde bouillon vormen een praktisch ontbijt na een vroege start.', orderNote: 'Controleer bouillon, vlees, vissaus, soja, tarwe, ei, knoflook en volledige garing.', href: '/food/', image: '/images/redesign/chiang-khan-food-mekong-dawn-nl.webp', imageAlt: 'Dampende khao piak sen met volledig bereide toppings' },
+    { title: 'Khai krata', thai: 'Pan-ei met hartige toppings', description: 'Ei in een metalen pannetje kan met varkensgehakt, worst, lente-ui, peper en brood komen.', orderNote: 'Controleer eiergaring, varken, worst, soja, tarwe, zuivel, pan en brood of saus.', href: '/food/', image: '/images/redesign/chiang-khan-food-mekong-dawn-nl.webp', imageAlt: 'Volledig bereid pan-ei met varken en kruiden' },
+    { title: 'Khao jee', thai: 'Kleefrijst van de houtskoolgrill', description: 'Een rijstpatty met ei van de grill geeft de avondstraat een compacte Lao-Isaan-snack.', orderNote: 'Controleer ei, saus, vissaus, soja, tarwe, grillcontact en volledige garing van coating en kern.', href: '/food/', image: '/images/redesign/chiang-khan-food.webp', imageAlt: 'Goudbruin gegrilde kleefrijstpatty' },
+    { title: 'Pla pao', thai: 'Vis in zoutkorst', description: 'Een hele gegrilde vis kan de gedeelde tafel dragen wanneer soort, formaat, set en garing worden uitgelegd.', orderNote: 'Vraag soort, controleer garing en bevestig zoutbinder, saus, pinda, soja, tarwe en graten.', href: '/food/pla-pao/', image: '/images/redesign/pla-pao-salt-crusted-grilled-fish-hero.webp', imageAlt: 'Volledig bereide vis in zoutkorst met groente en saus' },
+    { title: 'Som tam', thai: 'Groene papajasalade', description: 'Een vers gestampte salade brengt crunch, zuur en verstelbare hitte bij kleefrijst en grill.', orderNote: 'Controleer chili, gefermenteerde vis, vissaus, garnaal, krab, pinda, suiker en gedeelde vijzel.', href: '/food/som-tam/', image: '/images/redesign/som-tam-dish-hero.webp', imageAlt: 'Groene papajasalade met limoen en pinda apart' },
+    { title: 'Miang kham', thai: 'Bladwrap met kleine toppings', description: 'Een zelf samengestelde bladwrap kan zoet, zuur, zout en kruidig combineren in één hap.', orderNote: 'Controleer blad, gedroogde garnaal, pinda, kokos, vissaus, suiker, limoen, chili en kruiscontact.', href: '/food/', image: '/images/redesign/chiang-khan-food.webp', imageAlt: 'Miang kham-bladwraps met toppings afzonderlijk' },
+  ],
+  dayPlan: [
+    { time: '06:45', title: 'Kom terug van het ochtendmoment', description: 'Kies na Phu Thok of respectvol observeren een vers bereid ontbijt in plaats van eten lang vast te houden.', icon: 'sun' },
+    { time: '10:30', title: 'Lees de werkende stad', description: 'Loop de dagmarkt, vind een ontbijtbackup en vraag vóór fotografie van bewoners of vendors.', icon: 'market' },
+    { time: '14:30', title: 'Kies rivier óf buitenroute', description: 'Fiets rustig of koppel Kaeng Khut Khu aan bevestigd vervoer; prop niet ieder uitzichtpunt in de dag.', icon: 'clock' },
+    { time: '17:30', title: 'Laat Walking Street avondeten worden', description: 'Proef één of twee bereide snacks en kies een zittende tafel wanneer allergenen meer controle vragen.', icon: 'moon' },
+  ],
+  practicalChecks: [
+    { title: 'Kies bereid en met omloop', description: 'Let op vers koken, bescherming, schoon gerei, veilig water of ijs en rauw-gaarscheiding.', icon: 'shield' },
+    { title: 'Vertaal de werkelijke beperking', description: 'Noem allergenen en vraag naar bouillon, saus, pla ra, schaaldier, grill, vijzel en olie.', icon: 'utensils' },
+    { title: 'Verifieer de straat vandaag', description: 'Behandel marktdag, uren, vendors, restaurants en prijzen als live details.', icon: 'market' },
+    { title: 'Respecteer het ochtendritueel', description: 'Blokkeer monniken of bewoners niet, volg lokale aanwijzingen en maak offers niet tot foodprop.', icon: 'sun' },
+  ],
+  phrases: [
+    { phrase: 'Ao suk suk', meaning: 'Graag volledig gaar', note: 'Gebruik voor ei, vlees, vis of garnaal en controleer het midden.' },
+    { phrase: 'Mai sai pla ra', meaning: 'Geen gefermenteerde vis toevoegen', note: 'Vraag ook naar vissaus, gedroogde garnaal, krab, bouillon en gedeelde vijzel.' },
+    { phrase: 'Mai phet', meaning: 'Niet pittig', note: 'Een voorkeur, geen bewijs dat vooraf gemaakte saus of bouillon geen chili bevat.' },
+    { phrase: 'Ao an-nee', meaning: 'Ik wil deze graag', note: 'Wijs het bereide product aan en bevestig portie, saus, prijs en dieetdetails.' },
+  ],
+  affiliate: { klookSubId: 'nl-chiang-khan-city-food-owner', products: [
+    { title: 'Thais kookboek', description: 'Voor geteste noedel-, ontbijt- en kleefrijsttechniek. Controleer editie, inhoud, verkoper en actuele prijs.', amazonSlug: 'simple-thai-food-cookbook', icon: 'chef' },
+    { title: 'Granieten vijzel', description: 'Voor som tam, miang kham en chilidip. Controleer binnenmaat, gewicht, verkoper, actuele prijs en levering.', amazonSlug: 'thai-granite-mortar-eight-inch', icon: 'bowl' },
+  ] },
+  faqs: [
+    { question: 'Hoe duur is eten in Thailand?', answer: 'Prijs verschilt per locatie, portie, ingrediënt en serviceniveau. Controleer het actuele menu en volledige totaal vóór bereiding; een oud bedrag is geen Chiang Khan-budget.' },
+    { question: 'Wat zijn lekkere gerechten in Chiang Khan?', answer: 'Begin met khao piak sen of khai krata bij ontbijt. Voeg khao jee, miang kham of een uitgelegde Lao-Isaan-tafel toe wanneer de actuele keuken ze bereidt.' },
+    { question: 'Kan je overal eten in Thailand?', answer: 'Niet ieder tijdstip, kraam of locatie past bij iedere reiziger. Controleer uren, hygiëne, ingrediënten en vervoer en houd een alternatief.' },
+    { question: 'Is 100 dollar per dag genoeg in Thailand?', answer: 'Dat hangt af van wisselkoers, verblijf, vervoer, alcohol, activiteiten en reisstijl. Bouw een actuele dagbegroting in baht en een buffer in.' },
+    { question: 'Hoeveel dagen heb je nodig voor Chiang Khan?', answer: 'Twee nachten geven één dageraad, ontbijt, oude stad en avondstraat. Drie nachten maken Kaeng Khut Khu of een verdere route mogelijk zonder het stadsritme te verliezen.' },
+    { question: 'Wat maakt Chiang Khan bijzonder?', answer: 'De houten Mekongstraat, Lao-Isaan-invloeden, het langzame rivierleven en duidelijke wissel tussen ochtendstad en avondmarkt. Respectvol gedrag rond religieuze praktijk hoort daarbij.' },
+  ],
+  sources: [
+    { title: 'Loei', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Destinations/Provinces/Loei/576', note: 'Primaire context voor Chiang Khan, Walking Street, khao piak sen, miang kham en khao jee; beschikbaarheid blijft actueel te verifiëren.' },
+    { title: 'Nothing But Chill in Chiang Khan, Loei', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Articles/nothing-but-chill-in-chiang-khan-loei', note: 'Historische primaire context voor houten stad, fietsen en ochtendritueel; deelname vereist actuele lokale begeleiding.' },
+    { title: 'Can’t-miss Restaurants in Loei', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-can-t-miss-restaurants-in-loei', note: 'Historische gerechtcontext voor khao piak sen en pan-ei; zaaknamen, uren en menu’s zijn niet als actueel overgenomen.' },
+    { title: 'Five keys to safer food', creator: 'World Health Organization', url: 'https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food', note: 'Primair raamwerk voor schoon, scheiding, garing, temperatuur en veilig water.' },
+  ],
+  related: [
+    { title: 'Chiang Khan-overzicht', description: 'Plaats ontbijt, Walking Street, Phu Thok en buitenrivier in het juiste dagritme.', href: '/city/chiang-khan/', image: '/images/redesign/chiang-khan-hero.webp', imageAlt: 'Houten Chiang Khan-huizen bij de Mekong' },
+    { title: 'Bezienswaardigheden in Chiang Khan', description: 'Scheid oude stad, Phu Thok en Kaeng Khut Khu vóór je foodstops plant.', href: '/city/chiang-khan/attractions/', image: '/images/redesign/chiang-khan-cycle-banner.webp', imageAlt: 'Langzame route langs Mekong en houten stad' },
+    { title: 'Waar verblijven in Chiang Khan?', description: 'Kies echte loopafstand tot ontbijt en avondstraat of een rustigere rivierzone en controleer de actuele prijs.', href: '/best-hotels/chiang-khan/', image: '/images/redesign/chiang-khan-blue-hour.webp', imageAlt: 'Rustige rivierfrontzone van Chiang Khan' },
+  ],
+  researchSummary: 'Gebouwd op creditzuinige hybride research: één Nederlandse DFS-cluster met één keywordrecord zonder competitor-domaintabel, één actuele Nederlandse DFS-SERP met tien organische resultaten en zes letterlijke PAA-vragen, drie rankingchecks en herbeoordeling van TAT en WHO. Alle drie owners hebben nul gevonden rankings. Algemene Thailand-budget- en gerechtenruis, restaurantlijsten, named venues en oude marktclaims zijn uitgesloten. Twee Amazon OneLink-producten gebruiken actuele-prijstaal; geen vaste restaurant-, markt-, vendor-, prijs-, vis-, vangst-, dieet- of veiligheidsgarantie is toegevoegd.',
+};

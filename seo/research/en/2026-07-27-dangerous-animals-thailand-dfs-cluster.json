@@ -1,0 +1,591 @@
+{
+  "captured_at": "2026-07-27T08:28:25.459Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "dangerous animals thailand",
+  "costs": {
+    "suggestions": 0.01416,
+    "related": 0.01296,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "dangerous animals thailand",
+    "dangerous animals in thailand",
+    "dangerous animals of thailand",
+    "thailand dangerous animals",
+    "most dangerous animals in thailand",
+    "what dangerous animals are in thailand",
+    "dangerous animals in phuket",
+    "top 10 most dangerous animals in thailand",
+    "koh samui dangerous animals",
+    "thailand most dangerous animals",
+    "top 10 dangerous animals in thailand",
+    "what dangerous animals live in thailand",
+    "dangerous animals in krabi thailand",
+    "dangerous animals in phuket thailand",
+    "dangerous animals in thailand sea",
+    "dangerous animals in thailand water",
+    "dangerous sea animals in thailand",
+    "most dangerous animals in bangkok",
+    "most dangerous animals thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "dangerous animals in thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dangerous animals of thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dangerous animals thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand dangerous animals",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "most dangerous animals in thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what dangerous animals are in thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dangerous animals in phuket",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand jungle animals",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 most dangerous animals in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui dangerous animals",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand most dangerous animals",
+      "volume": 20,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top 10 dangerous animals in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what dangerous animals live in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dangerous animals in krabi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dangerous animals in phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dangerous animals in thailand sea",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "dangerous animals in thailand water",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dangerous sea animals in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "most dangerous animals in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "most dangerous animals thailand",
+      "volume": 10,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand animals dangerous",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand dangerous animals for tourists",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 1.1666666666666667,
+      "keywordCount": 6,
+      "visibility": 5.9,
+      "estimatedTraffic": 564.16
+    },
+    {
+      "domain": "simbaseatrips.com",
+      "avgPosition": 1.8333333333333333,
+      "keywordCount": 6,
+      "visibility": 5.5,
+      "estimatedTraffic": 405.12
+    },
+    {
+      "domain": "islanders-properties.com",
+      "avgPosition": 3.1666666666666665,
+      "keywordCount": 6,
+      "visibility": 4.699999999999999,
+      "estimatedTraffic": 200.81400000000002
+    },
+    {
+      "domain": "www.gadventures.com",
+      "avgPosition": 5.166666666666667,
+      "keywordCount": 6,
+      "visibility": 3.5,
+      "estimatedTraffic": 98.943
+    },
+    {
+      "domain": "www.chiangmaidoctor.com",
+      "avgPosition": 6.166666666666667,
+      "keywordCount": 6,
+      "visibility": 2.9,
+      "estimatedTraffic": 71.75399999999999
+    },
+    {
+      "domain": "www.en.siam-info.de",
+      "avgPosition": 6.166666666666667,
+      "keywordCount": 6,
+      "visibility": 2.9,
+      "estimatedTraffic": 76.039
+    },
+    {
+      "domain": "homeinphuket.com",
+      "avgPosition": 9.666666666666666,
+      "keywordCount": 6,
+      "visibility": 1.15,
+      "estimatedTraffic": 32.422
+    },
+    {
+      "domain": "perfecthomes.co.th",
+      "avgPosition": 12.833333333333334,
+      "keywordCount": 6,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 18.931
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 15,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 11.304
+    },
+    {
+      "domain": "treasuresofthailand.com",
+      "avgPosition": 16.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 8.944
+    },
+    {
+      "domain": "theanimalmap.com",
+      "avgPosition": 19.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 8.134
+    },
+    {
+      "domain": "steemit.com",
+      "avgPosition": 4,
+      "keywordCount": 5,
+      "visibility": 3.5,
+      "estimatedTraffic": 97.89000000000001
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 9.4,
+      "keywordCount": 5,
+      "visibility": 1.35,
+      "estimatedTraffic": 32.658
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 10.6,
+      "keywordCount": 5,
+      "visibility": 0.45,
+      "estimatedTraffic": 14.551
+    },
+    {
+      "domain": "www.planetdeadly.com",
+      "avgPosition": 10.8,
+      "keywordCount": 5,
+      "visibility": 0.5499999999999999,
+      "estimatedTraffic": 15.854
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 26.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.45,
+      "estimatedTraffic": 15.89
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 15.4,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 11.774
+    },
+    {
+      "domain": "krabinature.com",
+      "avgPosition": 15.8,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 8.057
+    },
+    {
+      "domain": "www.ranker.com",
+      "avgPosition": 31.333333333333332,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.048
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 17.8,
+      "keywordCount": 5,
+      "visibility": 0.25,
+      "estimatedTraffic": 9.565999999999999
+    },
+    {
+      "domain": "a-z-animals.com",
+      "avgPosition": 19.4,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.3500000000000005
+    },
+    {
+      "domain": "nolimitdive.com",
+      "avgPosition": 20.2,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.854
+    },
+    {
+      "domain": "phuket-insider.com",
+      "avgPosition": 25.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.36
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 26.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.426
+    },
+    {
+      "domain": "www.learnaboutnature.com",
+      "avgPosition": 42,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.808000000000001
+    },
+    {
+      "domain": "lingualeo.com",
+      "avgPosition": 37.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.36
+    },
+    {
+      "domain": "royalvacationdmc.com",
+      "avgPosition": 22.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.2
+    },
+    {
+      "domain": "www.khaosok.com",
+      "avgPosition": 25.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.695
+    },
+    {
+      "domain": "discover.hubpages.com",
+      "avgPosition": 40.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.36
+    },
+    {
+      "domain": "animalvivid.com",
+      "avgPosition": 53.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.424
+    },
+    {
+      "domain": "www.linkedin.com",
+      "avgPosition": 32,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.129
+    },
+    {
+      "domain": "www.pattayaunlimited.com",
+      "avgPosition": 45.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.36
+    },
+    {
+      "domain": "www.bangkokpost.com",
+      "avgPosition": 48,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.36
+    },
+    {
+      "domain": "www.thewildlifediaries.com",
+      "avgPosition": 41.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.129
+    },
+    {
+      "domain": "thailandsnakes.com",
+      "avgPosition": 54.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.36
+    },
+    {
+      "domain": "phuket-tropic-tours.com",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.121
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 34,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 3.024
+    },
+    {
+      "domain": "coolwoodwildlifepark.com",
+      "avgPosition": 67,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.839
+    },
+    {
+      "domain": "thailandinfo.nu",
+      "avgPosition": 62.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.129
+    },
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 55.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.121
+    },
+    {
+      "domain": "lost-abroad.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.33599999999999997
+    },
+    {
+      "domain": "www.thailand-spezialisten.com",
+      "avgPosition": 67.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.129
+    },
+    {
+      "domain": "www.nomadicmatt.com",
+      "avgPosition": 35.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "www.voyagethailande.fr",
+      "avgPosition": 68,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.129
+    },
+    {
+      "domain": "www.aw.ac.th",
+      "avgPosition": 71.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.129
+    },
+    {
+      "domain": "www.bestrandoms.com",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.nomadays.fr",
+      "avgPosition": 65,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.121
+    },
+    {
+      "domain": "he01.tci-thaijo.org",
+      "avgPosition": 49,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "rainier-siam.com",
+      "avgPosition": 53,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.rawai.fr",
+      "avgPosition": 69.66666666666667,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.121
+    }
+  ]
+}

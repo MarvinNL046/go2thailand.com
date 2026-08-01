@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["HYROX Bangkok 2026", "Bangkok events March 2026", "fitness Thailand", "BITEC Bangkok", "Bangkok sports events", "things to do Bangkok 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/hyrox-bangkok-2026-fitness-racing-bitec-guide-hero.webp"
 description: "HYROX Bangkok 2026 drew over 17,500 athletes to BITEC from March 20-22. Here is everything you need to know about Southeast Asia's largest fitness racing event."
 featured: false
 readingTime: 3
@@ -36,7 +36,7 @@ Five competition categories were available: Singles, Singles Pro, Doubles, Doubl
 
 ## The Atmosphere Beyond the Race
 
-HYROX is not just for competitors. The event featured **HYROX House**, a festival-style area with curated food and beverage stalls, live DJ sets, brand activations and activities for families and spectators. Thai celebrity Chompoo Araya drew headlines by completing her HYROX debut in a strong showing, boosting the sport's visibility in Thailand. Bangkok's events calendar is packed — from [K-pop concerts](/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/) to [the Bangkok Art Biennale](/blog/bangkok-art-biennale-2026-angels-mara-guide/), making any visit worthwhile even if you are not racing.
+HYROX is not just for competitors. The event featured **HYROX House**, a festival-style area with curated food and beverage stalls, live DJ sets, brand activations and activities for families and spectators. Thai celebrity Chompoo Araya drew headlines by completing her HYROX debut in a strong showing, boosting the sport's visibility in Thailand. Bangkok's events calendar is packed — from the [BTS Bangkok 2026 concerts](/blog/bts-world-tour-bangkok-december-2026-tickets-guide/) to [the Bangkok Art Biennale](/blog/bangkok-art-biennale-2026-angels-mara-guide/) — but always check the individual event's current dates and venue.
 
 ## Getting to BITEC
 
@@ -50,4 +50,4 @@ For accommodation close to the event, check the [best hotels in Bangkok](/best-h
 
 If you missed the 2026 race, registration for the next Bangkok edition typically opens six to eight months in advance on the official HYROX website. Early-bird slots sell out fast — the 2026 race reached capacity well before event day. Keep an eye on the HYROX Thailand social channels for announcements.
 
-Whether you are a seasoned fitness competitor or just curious about the global racing craze sweeping Bangkok, HYROX is one of the most energising events on [Thailand's sports](/best-muay-thai-in-thailand/) calendar. Travelling to Bangkok for the race is also a great opportunity to explore one of Asia's most dynamic cities — from the [city's top attractions](/city/bangkok/attractions/) to the [vibrant street food scene](/blog/bangkok-street-food-beginners/). If you plan to extend your trip beyond Bangkok, [Phuket](/blog/is-phuket-worth-visiting-2026-honest-guide/) and [Thailand's islands](/blog/thailand-island-hopping-guide/) are just a short flight away, perfect for post-race recovery. For first-time visitors, the [Thailand first-timers guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [daily budget breakdown](/blog/thailand-budget-2026-daily-costs/) are essential starting points.
+Whether you are a seasoned fitness competitor or just curious about the global racing craze sweeping Bangkok, HYROX is one of the most energising events on [Thailand's sports](/best-muay-thai-in-thailand/) calendar. Travelling to Bangkok for the race is also a great opportunity to explore one of Asia's most dynamic cities — from the [city's top attractions](/city/bangkok/attractions/) to the [vibrant street food scene](/blog/best-street-food-markets-bangkok/). If you plan to extend your trip beyond Bangkok, [Phuket](/blog/is-phuket-worth-visiting-2026-honest-guide/) and [Thailand's islands](/blog/thailand-island-hopping-guide/) are just a short flight away, perfect for post-race recovery. For first-time visitors, the [Thailand first-timers guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [daily budget breakdown](/thailand-index/budget/) are essential starting points.

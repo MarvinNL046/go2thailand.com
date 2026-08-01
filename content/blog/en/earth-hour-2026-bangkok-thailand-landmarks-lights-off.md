@@ -1,16 +1,23 @@
 ---
-title: "Earth Hour 2026 in Bangkok: Which Landmarks Go Dark on March 28"
+title: "Earth Hour 2026 in Bangkok: March 28 Event Recap"
 slug: "earth-hour-2026-bangkok-thailand-landmarks-lights-off"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Earth Hour 2026 Thailand", "Bangkok events March 2026", "Earth Hour Bangkok landmarks", "sustainable travel Thailand", "WWF Earth Hour"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Bangkok joins the 20th anniversary of Earth Hour on March 28, 2026. Find out which landmarks switch off their lights and how travellers can take part."
+tags:
+  [
+    "Earth Hour 2026 Thailand",
+    "Bangkok events March 2026",
+    "Earth Hour Bangkok landmarks",
+    "sustainable travel Thailand",
+    "WWF Earth Hour",
+  ]
+image: "/images/redesign/editorial/earth-hour-2026-bangkok-thailand-landmarks-lights-off-hero.webp"
+description: "A recap of Bangkok's Earth Hour on March 28, 2026, including the global campaign context and evergreen ideas for lower-impact city travel."
 featured: false
 readingTime: 2
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Nation Thailand — Thailand invites public to join Earth Hour 2026 on March 28"
     url: "https://www.nationthailand.com/news/general/40064117"
@@ -21,6 +28,8 @@ sources:
   - name: "ASEAN NOW — Earth Hour: Bangkok Urges Residents to Dim Lights"
     url: "https://aseannow.com/topic/1389995-earth-hour-bangkok-urges-residents-to-dim-lights"
 ---
+
+> **Event status (updated 1 August 2026):** Earth Hour 2026 took place on 28 March. The date is confirmed by Earth Hour's official calendar; the visitor suggestions below now serve as a recap. Check [Earth Hour](https://www.earthhour.org/) for the next global date and local participation details.
 
 ## Bangkok Goes Dark for the 20th Anniversary
 
@@ -50,9 +59,9 @@ Earth Hour is not just about watching the lights go off. WWF encourages everyone
 
 The event is free, requires no tickets and lasts just sixty minutes. If you happen to be in Bangkok on March 28, it is a small but memorable way to experience the city differently. Planning a longer stay? Our [Bangkok neighbourhood guide for expats and long-term visitors](/blog/where-to-live-bangkok-neighborhood-guide-expats/) breaks down every district, and our [Thailand first-timers guide](/blog/thailand-first-time-visitors-essential-guide-2026/) covers everything else you need before you land.
 
-Before you travel, make sure you have [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/) in place — it is especially worth having if your trip spans multiple events and provinces. Also check the latest [Thailand visa requirements](/blog/thailand-visa-guide-2026/) to confirm your entry options.
+Before you travel, make sure you have [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/) in place — it is especially worth having if your trip spans multiple events and provinces. Also check the latest [Thailand visa requirements](/visa/) to confirm your entry options.
 
-Earth Hour takes place on the same evening as some of Bangkok's best [night markets](/blog/best-night-markets-bangkok-2026/), so you can combine the lights-off moment with a street-food crawl once the hour is over. For a broader look at what Bangkok's food scene offers after dark, see our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/) and the roundup of the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
+Earth Hour takes place on the same evening as some of Bangkok's best [night markets](/blog/best-night-markets-bangkok-2026/), so you can combine the lights-off moment with a street-food crawl once the hour is over. For a broader look at what Bangkok's food scene offers after dark, see our [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/) and the roundup of the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 
 If you want to make a full day of it, Bangkok has excellent [day trips](/blog/best-day-trips-from-bangkok/) that pair well with an evening Earth Hour event — Ayutthaya by train is a classic choice. And if you are new to visiting temples, brush up on [Thailand temple etiquette and dress codes](/blog/thailand-temple-etiquette-dress-code-guide-2026/) before heading to the Grand Palace area.
 

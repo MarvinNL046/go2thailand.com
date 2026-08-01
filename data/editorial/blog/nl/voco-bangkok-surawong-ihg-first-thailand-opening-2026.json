@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "voco-bangkok-surawong-ihg-first-thailand-opening-2026",
+  "route": "/nl/blog/voco-bangkok-surawong-ihg-first-thailand-opening-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "voco Bangkok Surawong: locatie, sfeer en live prijs",
+    "description": "voco Bangkok Surawong is geopend. Bekijk voor wie de ligging werkt, welke faciliteiten IHG bevestigt en controleer de actuele totaalprijs.",
+    "primaryKeyword": "voco Bangkok Surawong",
+    "secondaryKeywords": ["hotel Surawong Bangkok", "voco hotel Bangkok", "hotel bij Silom"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/voco-bangkok-surawong-ihg-first-thailand-opening-2026/"
+  },
+  "hero": {
+    "eyebrow": "Geopend aan Surawong Road",
+    "title": "voco Bangkok Surawong",
+    "accent": "Past deze plek bij jouw route?",
+    "description": "Een geopend upscale hotel tussen Silom, Bang Rak en de oude handelsbuurt. Vergelijk de locatie vóór je de kamer vergelijkt.",
+    "image": "/images/redesign/editorial/voco-bangkok-surawong-ihg-first-thailand-opening-2026-hero.webp",
+    "imageAlt": "Tropisch modern hotel met groen en zwembad in Bangkok",
+    "primaryCta": { "label": "Bekijk de afweging", "href": "#past-bij" },
+    "secondaryCta": { "label": "Vergelijk Bangkok", "href": "/nl/best-hotels/bangkok/" }
+  },
+  "layout": {
+    "kind": "hotel-guide",
+    "pricePolicy": "live-price-only",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "voco Bangkok Surawong is open en boekbaar. De locatie werkt vooral voor reizigers die Silom, Bang Rak, eten en avondleven combineren; controleer voor jouw data de kamer, totaalprijs en annuleringsvoorwaarden.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "past-bij",
+      "eyebrow": "Eerst de wijk",
+      "title": "Wanneer is dit een logische basis?",
+      "cards": [
+        { "title": "Silom en Bang Rak", "description": "Handig wanneer restaurants, avondleven en de rivierzijde belangrijker zijn dan direct bij de paleizen slapen.", "label": "Goede match" },
+        { "title": "Rustige resortdagen", "description": "Minder logisch wanneer je vooral stilte, strand of een afgesloten resortomgeving zoekt.", "label": "Kijk verder" },
+        { "title": "Eerste keer Bangkok", "description": "Werkbaar als je vooraf je BTS-, MRT- en taxiroutes naar de belangrijkste stops uitzet.", "label": "Plan vervoer" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "hotelcheck",
+      "title": "Controleer vóór betaling",
+      "items": [
+        "Exact kamertype en slaapopstelling",
+        "Totaalprijs inclusief belastingen en ontbijt",
+        "Annulerings- en betaalvoorwaarden",
+        "Looproute naar het vervoer dat jij gebruikt",
+        "Recente gastinformatie over geluid en faciliteiten"
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "live-prijs",
+      "provider": "trip.com",
+      "title": "Controleer de actuele prijs voor jouw data",
+      "description": "Hotelprijzen veranderen per datum en kamertype. Vergelijk de totaalprijs en voorwaarden op het moment dat je wilt boeken.",
+      "cta": { "label": "Bekijk actuele hotelprijzen", "href": "https://trip.tpo.lv/TmObooZ5", "external": true },
+      "placement": "voco-live-price",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is voco Bangkok Surawong geopend?", "answer": "Ja. IHG toont het hotel als geopend en boekbaar met kamers en faciliteiten op de officiële hotelpagina." },
+        { "question": "Heeft het hotel een zwembad en fitnessruimte?", "answer": "IHG vermeldt een buitenzwembad en een 24-uurs fitnessruimte; controleer beschikbaarheid tijdens jouw verblijf." },
+        { "question": "Is Surawong hetzelfde als Silom?", "answer": "Nee, maar de gebieden liggen naast elkaar. Kijk naar de exacte kaartpositie en je dagelijkse routes, niet alleen naar de wijknaam." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële hotelbronnen",
+      "items": [
+        { "title": "voco Bangkok Surawong hotel details", "publisher": "IHG Hotels & Resorts", "url": "https://www.ihg.com/voco/hotels/us/en/bangkok/bkkaa/hoteldetail", "checkedAt": "2026-08-01", "note": "Bevestigt geopende status, adres en faciliteiten." },
+        { "title": "voco Bangkok Surawong dining", "publisher": "IHG Hotels & Resorts", "url": "https://www.ihg.com/voco/hotels/us/en/bangkok/bkkaa/hoteldetail/dining", "checkedAt": "2026-08-01" },
+        { "title": "Opening announcement", "publisher": "IHG", "url": "https://www.ihgplc.com/en/news-and-media/news-releases/2026/voco-bangkok-surawong-opening-the-doors-to-somewhere-different", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "vergelijken",
+      "title": "Vergelijk op wijk en route",
+      "items": [
+        { "title": "Hotels in Bangkok", "description": "Vergelijk verblijfzones en reisstijlen.", "href": "/nl/best-hotels/bangkok/" },
+        { "title": "Bangkokse wijken", "description": "Kies eerst waar je wilt slapen.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
+        { "title": "Openbaar vervoer", "description": "Plan BTS, MRT en boot als één netwerk.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" }
+      ]
+    }
+  ]
+}

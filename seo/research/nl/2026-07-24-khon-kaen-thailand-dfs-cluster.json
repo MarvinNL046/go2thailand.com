@@ -1,0 +1,975 @@
+{
+  "captured_at": "2026-07-24T17:46:51.644Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "khon kaen thailand",
+  "costs": {
+    "suggestions": 0.01392,
+    "related": 0.01812,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "khon kaen thailand",
+    "mueang khon kaen khon kaen thailand",
+    "thailand khon kaen",
+    "khon kaen thailand hotels",
+    "khon kaen province thailand",
+    "amphoe mueang khon kaen",
+    "golf khon kaen thailand",
+    "mueang khon kaen",
+    "wat te doen in khon kaen",
+    "what to do in khon kaen thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "little v den haag",
+      "volume": 18100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "groepsrondreis japan",
+      "volume": 1300,
+      "kd": 22,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thais restaurant den haag",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mueang khon kaen khon kaen thailand",
+      "volume": 720,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai den haag",
+      "volume": 590,
+      "kd": 12,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai signature den haag",
+      "volume": 480,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "naga thai den haag",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phonsawan den haag",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simply thai den haag",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "songkhla den haag",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beste thaise restaurant den haag",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rakang thai den haag",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "songkhla thailand",
+      "volume": 210,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand",
+      "volume": 170,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant den haag centrum",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand khon kaen",
+      "volume": 170,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "niyom thai den haag",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "japan thailand",
+      "volume": 70,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani airport",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand hotels",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "op reis naar japan",
+      "volume": 40,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant rijswijk",
+      "volume": 40,
+      "kd": 47,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani beuningen",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "japan combineren met strandvakantie",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen province thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai restaurant den haag scheveningen",
+      "volume": 20,
+      "kd": 48,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thais afhaal den haag",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani weer",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "amphoe mueang khon kaen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ban fang khon kaen thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "brn thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golf khon kaen thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hat yai district",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai overstroming",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai thailand kaart",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hat yai weer",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "japan allies",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "japan invasion of thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen map thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen weer",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mueang khon kaen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rangsit thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "reviews voor songkhla",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "si chomphu khon kaen thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "songkhla menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand japan flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani airport arrivals",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani airport departures",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani airport destinations",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani airport flight schedule",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani airport map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "udon thani wiki",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat te doen in khon kaen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in khon kaen thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "japan combineren met",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khon kaen khon kaen thailand to bangkok bangkok thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand flower festival",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand house for sale",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khon kaen thailand to bangkok thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pme 44 2020 in khon kaen thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "waar ligt udon thani",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 4,
+      "keywordCount": 3,
+      "visibility": 2.1,
+      "estimatedTraffic": 76.583
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 5.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.6,
+      "estimatedTraffic": 33.660999999999994
+    },
+    {
+      "domain": "www.google.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 101.479
+    },
+    {
+      "domain": "www.britannica.com",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.25,
+      "estimatedTraffic": 8.267
+    },
+    {
+      "domain": "www.thailand-property.com",
+      "avgPosition": 11,
+      "keywordCount": 3,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 29.677
+    },
+    {
+      "domain": "en.khonkaen.go.th",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 7.375000000000001
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 15.818
+    },
+    {
+      "domain": "thailandisaan.nl",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.9529999999999998
+    },
+    {
+      "domain": "wanderlog.com",
+      "avgPosition": 33.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.0709999999999997
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 103.36
+    },
+    {
+      "domain": "www.bmair.nl",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 55.08
+    },
+    {
+      "domain": "kw.wego.com",
+      "avgPosition": 35,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.9529999999999998
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.9,
+      "estimatedTraffic": 10.097999999999999
+    },
+    {
+      "domain": "www.expedia.com",
+      "avgPosition": 38.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.7230000000000008
+    },
+    {
+      "domain": "www.thailandblog.nl",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 5.898999999999999
+    },
+    {
+      "domain": "thailandinfo.nu",
+      "avgPosition": 40.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.9529999999999998
+    },
+    {
+      "domain": "thailandtravel.nl",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.45,
+      "estimatedTraffic": 5.083
+    },
+    {
+      "domain": "snl.no",
+      "avgPosition": 41.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.9529999999999998
+    },
+    {
+      "domain": "www.inthailand.travel",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.819
+    },
+    {
+      "domain": "www.expedia.nl",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.8359999999999999
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 12.442
+    },
+    {
+      "domain": "matadornetwork.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.462
+    },
+    {
+      "domain": "khonkaen.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.2750000000000001
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 45,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.9529999999999998
+    },
+    {
+      "domain": "www.thailandtourismus.de",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 7.024
+    },
+    {
+      "domain": "packlightly.nl",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.867
+    },
+    {
+      "domain": "nl-be.facebook.com",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.833
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 21.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.765
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9179999999999999
+    },
+    {
+      "domain": "us.trip.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "propertyhub.in.th",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.9500000000000002
+    },
+    {
+      "domain": "www.thethailandlife.com",
+      "avgPosition": 30,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "thairanked.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.realtor.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 35,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.destinationsapart.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.vietnamparadisetravel.com",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 179.35999999999999
+    },
+    {
+      "domain": "www.latlong.net",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 38.881
+    },
+    {
+      "domain": "maps.apple.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 11.623
+    },
+    {
+      "domain": "www.reislogger.nl",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.5470000000000002
+    },
+    {
+      "domain": "app.gs.kku.ac.th",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.481
+    },
+    {
+      "domain": "mapcarta.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.537
+    },
+    {
+      "domain": "www.sitesatlas.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.537
+    },
+    {
+      "domain": "www.viamichelin.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.947
+    },
+    {
+      "domain": "www.shutterstock.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.416
+    },
+    {
+      "domain": "www.airbnb.nl",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.391
+    }
+  ]
+}

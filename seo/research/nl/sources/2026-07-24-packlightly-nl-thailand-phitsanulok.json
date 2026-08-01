@@ -1,0 +1,3913 @@
+{
+  "captured_at": "2026-07-24T15:20:03.655Z",
+  "locale": "nl",
+  "url": "https://packlightly.nl/thailand/phitsanulok/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "No destinations match your search.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Plan en bouw je route",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Volg live waar je bent",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Deel je reis met vrienden",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Ontmoet andere reizigers onderweg",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Home » Thailand » Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+          "url": "https://packlightly.nl/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/",
+              "anchor_text": "Home"
+            },
+            {
+              "url": "https://packlightly.nl/thailand/",
+              "anchor_text": "Thailand"
+            }
+          ]
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "TH Thailand",
+          "url": "https://packlightly.nl/thailand/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/thailand/",
+              "anchor_text": "TH\nThailand"
+            }
+          ]
+        },
+        {
+          "text": "VN Vietnam",
+          "url": "https://packlightly.nl/vietnam/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/vietnam/",
+              "anchor_text": "VN\nVietnam"
+            }
+          ]
+        },
+        {
+          "text": "ID Indonesië",
+          "url": "https://packlightly.nl/indonesie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/indonesie/",
+              "anchor_text": "ID\nIndonesië"
+            }
+          ]
+        },
+        {
+          "text": "JP Japan",
+          "url": "https://packlightly.nl/japan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/japan/",
+              "anchor_text": "JP\nJapan"
+            }
+          ]
+        },
+        {
+          "text": "PH Filipijnen",
+          "url": "https://packlightly.nl/filipijnen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/filipijnen/",
+              "anchor_text": "PH\nFilipijnen"
+            }
+          ]
+        },
+        {
+          "text": "MY Maleisië",
+          "url": "https://packlightly.nl/maleisie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/maleisie/",
+              "anchor_text": "MY\nMaleisië"
+            }
+          ]
+        },
+        {
+          "text": "KH Cambodja",
+          "url": "https://packlightly.nl/cambodja/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/cambodja/",
+              "anchor_text": "KH\nCambodja"
+            }
+          ]
+        },
+        {
+          "text": "LA Laos",
+          "url": "https://packlightly.nl/laos/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/laos/",
+              "anchor_text": "LA\nLaos"
+            }
+          ]
+        },
+        {
+          "text": "SG Singapore",
+          "url": "https://packlightly.nl/singapore/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/singapore/",
+              "anchor_text": "SG\nSingapore"
+            }
+          ]
+        },
+        {
+          "text": "BN Brunei",
+          "url": "https://packlightly.nl/brunei/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/brunei/",
+              "anchor_text": "BN\nBrunei"
+            }
+          ]
+        },
+        {
+          "text": "KR Zuid-Korea",
+          "url": "https://packlightly.nl/zuid-korea/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/zuid-korea/",
+              "anchor_text": "KR\nZuid-Korea"
+            }
+          ]
+        },
+        {
+          "text": "TW Taiwan",
+          "url": "https://packlightly.nl/taiwan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/taiwan/",
+              "anchor_text": "TW\nTaiwan"
+            }
+          ]
+        },
+        {
+          "text": "CN China",
+          "url": "https://packlightly.nl/china/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/china/",
+              "anchor_text": "CN\nChina"
+            }
+          ]
+        },
+        {
+          "text": "NP Nepal",
+          "url": "https://packlightly.nl/nepal/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/nepal/",
+              "anchor_text": "NP\nNepal"
+            }
+          ]
+        },
+        {
+          "text": "IN India",
+          "url": "https://packlightly.nl/india/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/india/",
+              "anchor_text": "IN\nIndia"
+            }
+          ]
+        },
+        {
+          "text": "BT Bhutan",
+          "url": "https://packlightly.nl/bhutan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bhutan/",
+              "anchor_text": "BT\nBhutan"
+            }
+          ]
+        },
+        {
+          "text": "MV Malediven",
+          "url": "https://packlightly.nl/malediven/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/malediven/",
+              "anchor_text": "MV\nMalediven"
+            }
+          ]
+        },
+        {
+          "text": "AE VAE",
+          "url": "https://packlightly.nl/verenigde-arabische-emiraten/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/verenigde-arabische-emiraten/",
+              "anchor_text": "AE\nVAE"
+            }
+          ]
+        },
+        {
+          "text": "JO Jordanië",
+          "url": "https://packlightly.nl/jordanie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/jordanie/",
+              "anchor_text": "JO\nJordanië"
+            }
+          ]
+        },
+        {
+          "text": "OM Oman",
+          "url": "https://packlightly.nl/oman/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/oman/",
+              "anchor_text": "OM\nOman"
+            }
+          ]
+        },
+        {
+          "text": "BH Bahrein",
+          "url": "https://packlightly.nl/bahrein/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bahrein/",
+              "anchor_text": "BH\nBahrein"
+            }
+          ]
+        },
+        {
+          "text": "KW Koeweit",
+          "url": "https://packlightly.nl/koeweit/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/koeweit/",
+              "anchor_text": "KW\nKoeweit"
+            }
+          ]
+        },
+        {
+          "text": "UZ Oezbekistan",
+          "url": "https://packlightly.nl/oezbekistan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/oezbekistan/",
+              "anchor_text": "UZ\nOezbekistan"
+            }
+          ]
+        },
+        {
+          "text": "KZ Kazachstan",
+          "url": "https://packlightly.nl/kazachstan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/kazachstan/",
+              "anchor_text": "KZ\nKazachstan"
+            }
+          ]
+        },
+        {
+          "text": "KG Kirgizië",
+          "url": "https://packlightly.nl/kirgizie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/kirgizie/",
+              "anchor_text": "KG\nKirgizië"
+            }
+          ]
+        },
+        {
+          "text": "GE Georgië",
+          "url": "https://packlightly.nl/georgie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/georgie/",
+              "anchor_text": "GE\nGeorgië"
+            }
+          ]
+        },
+        {
+          "text": "AM Armenië",
+          "url": "https://packlightly.nl/armenie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/armenie/",
+              "anchor_text": "AM\nArmenië"
+            }
+          ]
+        },
+        {
+          "text": "AZ Azerbeidzjan",
+          "url": "https://packlightly.nl/azerbeidzjan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/azerbeidzjan/",
+              "anchor_text": "AZ\nAzerbeidzjan"
+            }
+          ]
+        },
+        {
+          "text": "BS Bahamas",
+          "url": "https://packlightly.nl/bahamas/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bahamas/",
+              "anchor_text": "BS\nBahamas"
+            }
+          ]
+        },
+        {
+          "text": "PR Puerto Rico",
+          "url": "https://packlightly.nl/puerto-rico/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/puerto-rico/",
+              "anchor_text": "PR\nPuerto Rico"
+            }
+          ]
+        },
+        {
+          "text": "JM Jamaica",
+          "url": "https://packlightly.nl/jamaica/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/jamaica/",
+              "anchor_text": "JM\nJamaica"
+            }
+          ]
+        },
+        {
+          "text": "DO Dominicaanse Republiek",
+          "url": "https://packlightly.nl/dominicaanse-republiek/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/dominicaanse-republiek/",
+              "anchor_text": "DO\nDominicaanse Republiek"
+            }
+          ]
+        },
+        {
+          "text": "CU Cuba",
+          "url": "https://packlightly.nl/cuba/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/cuba/",
+              "anchor_text": "CU\nCuba"
+            }
+          ]
+        },
+        {
+          "text": "CW Curaçao",
+          "url": "https://packlightly.nl/curacao/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/curacao/",
+              "anchor_text": "CW\nCuraçao"
+            }
+          ]
+        },
+        {
+          "text": "BQ Bonaire",
+          "url": "https://packlightly.nl/bonaire/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bonaire/",
+              "anchor_text": "BQ\nBonaire"
+            }
+          ]
+        },
+        {
+          "text": "AW Aruba",
+          "url": "https://packlightly.nl/aruba/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/aruba/",
+              "anchor_text": "AW\nAruba"
+            }
+          ]
+        },
+        {
+          "text": "MF Sint-Maarten",
+          "url": "https://packlightly.nl/sint-maarten/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sint-maarten/",
+              "anchor_text": "MF\nSint-Maarten"
+            }
+          ]
+        },
+        {
+          "text": "LC Saint Lucia",
+          "url": "https://packlightly.nl/saint-lucia/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/saint-lucia/",
+              "anchor_text": "LC\nSaint Lucia"
+            }
+          ]
+        },
+        {
+          "text": "GD Grenada",
+          "url": "https://packlightly.nl/grenada/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/grenada/",
+              "anchor_text": "GD\nGrenada"
+            }
+          ]
+        },
+        {
+          "text": "MX Mexico",
+          "url": "https://packlightly.nl/mexico/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/mexico/",
+              "anchor_text": "MX\nMexico"
+            }
+          ]
+        },
+        {
+          "text": "BZ Belize",
+          "url": "https://packlightly.nl/belize/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/belize/",
+              "anchor_text": "BZ\nBelize"
+            }
+          ]
+        },
+        {
+          "text": "GT Guatemala",
+          "url": "https://packlightly.nl/guatemala/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/guatemala/",
+              "anchor_text": "GT\nGuatemala"
+            }
+          ]
+        },
+        {
+          "text": "SV El Salvador",
+          "url": "https://packlightly.nl/el-salvador/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/el-salvador/",
+              "anchor_text": "SV\nEl Salvador"
+            }
+          ]
+        },
+        {
+          "text": "HN Honduras",
+          "url": "https://packlightly.nl/honduras/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/honduras/",
+              "anchor_text": "HN\nHonduras"
+            }
+          ]
+        },
+        {
+          "text": "NI Nicaragua",
+          "url": "https://packlightly.nl/nicaragua/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/nicaragua/",
+              "anchor_text": "NI\nNicaragua"
+            }
+          ]
+        },
+        {
+          "text": "CR Costa Rica",
+          "url": "https://packlightly.nl/costa-rica/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/costa-rica/",
+              "anchor_text": "CR\nCosta Rica"
+            }
+          ]
+        },
+        {
+          "text": "PA Panama",
+          "url": "https://packlightly.nl/panama/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/panama/",
+              "anchor_text": "PA\nPanama"
+            }
+          ]
+        },
+        {
+          "text": "CO Colombia",
+          "url": "https://packlightly.nl/colombia/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/colombia/",
+              "anchor_text": "CO\nColombia"
+            }
+          ]
+        },
+        {
+          "text": "EC Ecuador",
+          "url": "https://packlightly.nl/ecuador/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/ecuador/",
+              "anchor_text": "EC\nEcuador"
+            }
+          ]
+        },
+        {
+          "text": "PE Peru",
+          "url": "https://packlightly.nl/peru/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/peru/",
+              "anchor_text": "PE\nPeru"
+            }
+          ]
+        },
+        {
+          "text": "BO Bolivia",
+          "url": "https://packlightly.nl/bolivia/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/bolivia/",
+              "anchor_text": "BO\nBolivia"
+            }
+          ]
+        },
+        {
+          "text": "CL Chili",
+          "url": "https://packlightly.nl/chili/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/chili/",
+              "anchor_text": "CL\nChili"
+            }
+          ]
+        },
+        {
+          "text": "AR Argentinië",
+          "url": "https://packlightly.nl/argentinie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/argentinie/",
+              "anchor_text": "AR\nArgentinië"
+            }
+          ]
+        },
+        {
+          "text": "PY Paraguay",
+          "url": "https://packlightly.nl/paraguay/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/paraguay/",
+              "anchor_text": "PY\nParaguay"
+            }
+          ]
+        },
+        {
+          "text": "UY Uruguay",
+          "url": "https://packlightly.nl/uruguay/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/uruguay/",
+              "anchor_text": "UY\nUruguay"
+            }
+          ]
+        },
+        {
+          "text": "BR Brazilië",
+          "url": "https://packlightly.nl/brazilie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/brazilie/",
+              "anchor_text": "BR\nBrazilië"
+            }
+          ]
+        },
+        {
+          "text": "SR Suriname",
+          "url": "https://packlightly.nl/suriname/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/suriname/",
+              "anchor_text": "SR\nSuriname"
+            }
+          ]
+        },
+        {
+          "text": "GF Frans-Guyana",
+          "url": "https://packlightly.nl/frans-guyana/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/frans-guyana/",
+              "anchor_text": "GF\nFrans-Guyana"
+            }
+          ]
+        },
+        {
+          "text": "AU Australië",
+          "url": "https://packlightly.nl/australie/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/australie/",
+              "anchor_text": "AU\nAustralië"
+            }
+          ]
+        },
+        {
+          "text": "NZ Nieuw-Zeeland",
+          "url": "https://packlightly.nl/nieuw-zeeland/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/nieuw-zeeland/",
+              "anchor_text": "NZ\nNieuw-Zeeland"
+            }
+          ]
+        },
+        {
+          "text": "Paklijst Generator Op maat per bestemming, seizoen en stijl",
+          "url": "https://packlightly.nl/tool/paklijst-generator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/paklijst-generator/",
+              "anchor_text": "Paklijst Generator\nOp maat per bestemming, seizoen en stijl"
+            }
+          ]
+        },
+        {
+          "text": "Budget Calculator Gedetailleerde kosten voor 146 landen",
+          "url": "https://packlightly.nl/tool/budget-calculator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/budget-calculator/",
+              "anchor_text": "Budget Calculator\nGedetailleerde kosten voor 146 landen"
+            }
+          ]
+        },
+        {
+          "text": "Beste Reistijd Kies een maand, vind het beste weer",
+          "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+              "anchor_text": "Beste Reistijd\nKies een maand, vind het beste weer"
+            }
+          ]
+        },
+        {
+          "text": "Interactieve Reiskaart Ontdek de mooiste plekken per land",
+          "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+              "anchor_text": "Interactieve Reiskaart\nOntdek de mooiste plekken per land"
+            }
+          ]
+        },
+        {
+          "text": "Landen Vergelijker Vergelijk maximaal 4 bestemmingen",
+          "url": "https://packlightly.nl/tool/landen-vergelijker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/landen-vergelijker/",
+              "anchor_text": "Landen Vergelijker\nVergelijk maximaal 4 bestemmingen"
+            }
+          ]
+        },
+        {
+          "text": "Lokaal Eten & Drinken Wat locals bestellen, per land",
+          "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+              "anchor_text": "Lokaal Eten & Drinken\nWat locals bestellen, per land"
+            }
+          ]
+        },
+        {
+          "text": "Vaccinatie Wereldkaart Vaccins, risico's en wat je meeneemt",
+          "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+              "anchor_text": "Vaccinatie Wereldkaart\nVaccins, risico's en wat je meeneemt"
+            }
+          ]
+        },
+        {
+          "text": "Mobiele Data Berekenen Hoeveel data heb je echt nodig",
+          "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+              "anchor_text": "Mobiele Data Berekenen\nHoeveel data heb je echt nodig"
+            }
+          ]
+        },
+        {
+          "text": "Reismarktplaats Vergelijk verblijven, tours en spullen op één plek",
+          "url": "https://packlightly.nl/tool/reis-marktplaats/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reis-marktplaats/",
+              "anchor_text": "Reismarktplaats\nVergelijk verblijven, tours en spullen op één plek"
+            }
+          ]
+        },
+        {
+          "text": "Dieren Wereldkaart Welke dieren leven waar",
+          "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+              "anchor_text": "Dieren Wereldkaart\nWelke dieren leven waar"
+            }
+          ]
+        },
+        {
+          "text": "Keuzehulp Land Kiezen Vind jouw volgende bestemming",
+          "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+              "anchor_text": "Keuzehulp Land Kiezen\nVind jouw volgende bestemming"
+            }
+          ]
+        },
+        {
+          "text": "Backpack Kiezer Vind de juiste rugzak voor je reis",
+          "url": "https://packlightly.nl/tool/backpack-kiezer/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/backpack-kiezer/",
+              "anchor_text": "Backpack Kiezer\nVind de juiste rugzak voor je reis"
+            }
+          ]
+        },
+        {
+          "text": "Hotel & Hostel Zoeker Vergelijk verblijven over boekingssites",
+          "url": "https://packlightly.nl/tool/hotel-hostel-zoeker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/hotel-hostel-zoeker/",
+              "anchor_text": "Hotel & Hostel Zoeker\nVergelijk verblijven over boekingssites"
+            }
+          ]
+        },
+        {
+          "text": "Reisverzekering Vergelijken Dekking afgestemd op reis en budget",
+          "url": "https://packlightly.nl/tool/reisverzekering-vergelijken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reisverzekering-vergelijken/",
+              "anchor_text": "Reisverzekering Vergelijken\nDekking afgestemd op reis en budget"
+            }
+          ]
+        },
+        {
+          "text": "Visum Checker Toegangsregels voor jouw paspoort",
+          "url": "https://packlightly.nl/tool/visum-checker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/visum-checker/",
+              "anchor_text": "Visum Checker\nToegangsregels voor jouw paspoort"
+            }
+          ]
+        },
+        {
+          "text": "Reisveiligheidskaart Risiconiveaus en waar je op moet letten",
+          "url": "https://packlightly.nl/tool/reisveiligheidskaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reisveiligheidskaart/",
+              "anchor_text": "Reisveiligheidskaart\nRisiconiveaus en waar je op moet letten"
+            }
+          ]
+        },
+        {
+          "text": "Activiteiten Marktplaats Tours, tickets en dagtripjes per land",
+          "url": "https://packlightly.nl/tool/activiteiten-marktplaats/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/activiteiten-marktplaats/",
+              "anchor_text": "Activiteiten Marktplaats\nTours, tickets en dagtripjes per land"
+            }
+          ]
+        },
+        {
+          "text": "Vervoer Vergelijken Vlieg, trein, bus of ferry naast elkaar",
+          "url": "https://packlightly.nl/tool/vervoer-vergelijken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/vervoer-vergelijken/",
+              "anchor_text": "Vervoer Vergelijken\nVlieg, trein, bus of ferry naast elkaar"
+            }
+          ]
+        },
+        {
+          "text": "Klimaatgericht, persona-gericht, met mening. Geen 'voor de zekerheid' chaos meer.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Stranden, tempels, verborgen plekken en uitzichtpunten: per land in kaart gebracht.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "https://packlightly.nl/sri-lanka/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sri-lanka/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Beste reistijd wereldkaart",
+          "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+              "anchor_text": "Beste reistijd wereldkaart"
+            }
+          ]
+        },
+        {
+          "text": "Budget calculator",
+          "url": "https://packlightly.nl/tool/budget-calculator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/budget-calculator/",
+              "anchor_text": "Budget calculator"
+            }
+          ]
+        },
+        {
+          "text": "Dieren wereldkaart",
+          "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+              "anchor_text": "Dieren wereldkaart"
+            }
+          ]
+        },
+        {
+          "text": "Keuzehulp land",
+          "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+              "anchor_text": "Keuzehulp land"
+            }
+          ]
+        },
+        {
+          "text": "Landen vergelijker",
+          "url": "https://packlightly.nl/tool/landen-vergelijker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/landen-vergelijker/",
+              "anchor_text": "Landen vergelijker"
+            }
+          ]
+        },
+        {
+          "text": "Lokaal eten en drinken",
+          "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+              "anchor_text": "Lokaal eten en drinken"
+            }
+          ]
+        },
+        {
+          "text": "Mobiele data berekenen",
+          "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+              "anchor_text": "Mobiele data berekenen"
+            }
+          ]
+        },
+        {
+          "text": "Paklijst generator",
+          "url": "https://packlightly.nl/tool/paklijst-generator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/paklijst-generator/",
+              "anchor_text": "Paklijst generator"
+            }
+          ]
+        },
+        {
+          "text": "Vaccinatie wereldkaart",
+          "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+              "anchor_text": "Vaccinatie wereldkaart"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Travel prepared, not overpacked.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Onafhankelijke reistools en eerlijke bestemmingsgidsen voor wie zijn reis zelf plant.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Cookies laten ons zien welke gidsen en tools reizigers echt gebruiken, zodat we ze beter kunnen maken. We tonen geen advertenties en verkopen je gegevens nooit. Jij bepaalt wat we mogen gebruiken. Lees ons cookiebeleid",
+          "url": "https://packlightly.nl/privacyverklaring/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/privacyverklaring/",
+              "anchor_text": "Lees ons cookiebeleid"
+            }
+          ]
+        },
+        {
+          "text": "Noodzakelijke cookies houden de site werkend en staan altijd aan. Zet de rest aan of uit en sla op. Je kunt dit op elk moment wijzigen.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Deze houden Pack Lightly werkend: ze onthouden je cookiekeuze en sturen je naar de juiste pagina. De site kan niet goed functioneren zonder deze cookies, daarom is hiervoor geen toestemming nodig.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Deze helpen ons zien welke tools en gidsen reizigers daadwerkelijk gebruiken, zodat we ze kunnen verbeteren. We gebruiken Google Analytics 4 en Microsoft Clarity. Geen advertenties, geen verkoop van je gegevens.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We tonen geen advertentiebanners op Pack Lightly. Klik je op een partnerlink voor een hotel, vlucht of activiteit, dan kan de partner een cookie plaatsen zodat wij krediet krijgen voor de verwijzing, zonder extra kosten voor jou. Zet dit uit om je af te melden.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Pack Lightly is een platform voor reisplanning. Onze eigen analytics zijn first-party en bevatten geen persoonlijke gegevens. Voor het volledige overzicht: lees de documenten hieronder. Wil je je toestemming later wijzigen of intrekken, open dan Cookie-instellingen via de knop onderaan elke pagina.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Sri Lanka",
+          "url": "https://packlightly.nl/sri-lanka/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sri-lanka/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Verenigd Koninkrijk",
+          "url": "https://packlightly.nl/verenigd-koninkrijk/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/verenigd-koninkrijk/",
+              "anchor_text": "Verenigd Koninkrijk"
+            }
+          ]
+        },
+        {
+          "text": "Verenigde Staten",
+          "url": "https://packlightly.nl/verenigde-staten/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/verenigde-staten/",
+              "anchor_text": "Verenigde Staten"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica",
+          "url": "https://packlightly.nl/costa-rica/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/costa-rica/",
+              "anchor_text": "Costa Rica"
+            }
+          ]
+        },
+        {
+          "text": "Dominicaanse Republiek",
+          "url": "https://packlightly.nl/dominicaanse-republiek/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/dominicaanse-republiek/",
+              "anchor_text": "Dominicaanse Republiek"
+            }
+          ]
+        },
+        {
+          "text": "Keuzehulp landen",
+          "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+              "anchor_text": "Keuzehulp landen"
+            }
+          ]
+        },
+        {
+          "text": "Landen vergelijken",
+          "url": "https://packlightly.nl/tool/landen-vergelijker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/landen-vergelijker/",
+              "anchor_text": "Landen vergelijken"
+            }
+          ]
+        },
+        {
+          "text": "Beste reistijd",
+          "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+              "anchor_text": "Beste reistijd"
+            }
+          ]
+        },
+        {
+          "text": "Vervoer vergelijken",
+          "url": "https://packlightly.nl/tool/vervoer-vergelijken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/vervoer-vergelijken/",
+              "anchor_text": "Vervoer vergelijken"
+            }
+          ]
+        },
+        {
+          "text": "Reisvaluta omrekenen",
+          "url": "https://packlightly.nl/tool/reisvaluta-omrekenen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reisvaluta-omrekenen/",
+              "anchor_text": "Reisvaluta omrekenen"
+            }
+          ]
+        },
+        {
+          "text": "Slimme vluchtsplitser",
+          "url": "https://packlightly.nl/tool/slimme-vluchtsplitser/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/slimme-vluchtsplitser/",
+              "anchor_text": "Slimme vluchtsplitser"
+            }
+          ]
+        },
+        {
+          "text": "Hotel- en hostelzoeker",
+          "url": "https://packlightly.nl/tool/hotel-hostel-zoeker/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/hotel-hostel-zoeker/",
+              "anchor_text": "Hotel- en hostelzoeker"
+            }
+          ]
+        },
+        {
+          "text": "Backpack kiezer",
+          "url": "https://packlightly.nl/tool/backpack-kiezer/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/backpack-kiezer/",
+              "anchor_text": "Backpack kiezer"
+            }
+          ]
+        },
+        {
+          "text": "Paklijst generator",
+          "url": "https://packlightly.nl/tool/paklijst-generator/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/paklijst-generator/",
+              "anchor_text": "Paklijst generator"
+            }
+          ]
+        },
+        {
+          "text": "Activiteiten marktplaats",
+          "url": "https://packlightly.nl/tool/activiteiten-marktplaats/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/activiteiten-marktplaats/",
+              "anchor_text": "Activiteiten marktplaats"
+            }
+          ]
+        },
+        {
+          "text": "Mobiele data en eSIM",
+          "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+              "anchor_text": "Mobiele data en eSIM"
+            }
+          ]
+        },
+        {
+          "text": "Reisverzekering vergelijken",
+          "url": "https://packlightly.nl/tool/reisverzekering-vergelijken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/reisverzekering-vergelijken/",
+              "anchor_text": "Reisverzekering vergelijken"
+            }
+          ]
+        },
+        {
+          "text": "Interactieve reiskaart",
+          "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+              "anchor_text": "Interactieve reiskaart"
+            }
+          ]
+        },
+        {
+          "text": "Lokaal eten en drinken",
+          "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+              "anchor_text": "Lokaal eten en drinken"
+            }
+          ]
+        },
+        {
+          "text": "Dieren wereldkaart",
+          "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+              "anchor_text": "Dieren wereldkaart"
+            }
+          ]
+        },
+        {
+          "text": "Over Pack Lightly",
+          "url": "https://packlightly.nl/over-pack-lightly/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/over-pack-lightly/",
+              "anchor_text": "Over Pack Lightly"
+            }
+          ]
+        },
+        {
+          "text": "Veelgestelde vragen",
+          "url": "https://packlightly.nl/veelgestelde-vragen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/veelgestelde-vragen/",
+              "anchor_text": "Veelgestelde vragen"
+            }
+          ]
+        },
+        {
+          "text": "Alle reistools",
+          "url": "https://packlightly.nl/tool/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/tool/",
+              "anchor_text": "Alle reistools"
+            }
+          ]
+        },
+        {
+          "text": "Reisplanner app",
+          "url": "https://app.pack-lightly.com/plan",
+          "urls": [
+            {
+              "url": "https://app.pack-lightly.com/plan",
+              "anchor_text": "Reisplanner app"
+            }
+          ]
+        },
+        {
+          "text": "Snorkelplekken Sri Lanka",
+          "url": "https://packlightly.nl/sri-lanka/snorkelen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sri-lanka/snorkelen/",
+              "anchor_text": "Snorkelplekken Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Wat te doen in Chongqing",
+          "url": "https://packlightly.nl/china/chongqing/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/china/chongqing/",
+              "anchor_text": "Wat te doen in Chongqing"
+            }
+          ]
+        },
+        {
+          "text": "Verkeer in de Filipijnen",
+          "url": "https://packlightly.nl/filipijnen/verkeer/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/filipijnen/verkeer/",
+              "anchor_text": "Verkeer in de Filipijnen"
+            }
+          ]
+        },
+        {
+          "text": "Reiskosten Kazachstan",
+          "url": "https://packlightly.nl/kazachstan/kosten/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/kazachstan/kosten/",
+              "anchor_text": "Reiskosten Kazachstan"
+            }
+          ]
+        },
+        {
+          "text": "Niet-toeristische plekken Indonesie",
+          "url": "https://packlightly.nl/indonesie/niet-toeristisch/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/indonesie/niet-toeristisch/",
+              "anchor_text": "Niet-toeristische plekken Indonesie"
+            }
+          ]
+        },
+        {
+          "text": "Oman eten en drinken",
+          "url": "https://packlightly.nl/oman/eten-drinken/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/oman/eten-drinken/",
+              "anchor_text": "Oman eten en drinken"
+            }
+          ]
+        },
+        {
+          "text": "Beste reistijd Sri Lanka",
+          "url": "https://packlightly.nl/sri-lanka/beste-reistijd/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/sri-lanka/beste-reistijd/",
+              "anchor_text": "Beste reistijd Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "De complete paklijst",
+          "url": "https://packlightly.nl/paklijst/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/paklijst/",
+              "anchor_text": "De complete paklijst"
+            }
+          ]
+        },
+        {
+          "text": "Wat kost reizen",
+          "url": "https://packlightly.nl/wat-kost-reizen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/wat-kost-reizen/",
+              "anchor_text": "Wat kost reizen"
+            }
+          ]
+        },
+        {
+          "text": "Beste reisbestemmingen per maand",
+          "url": "https://packlightly.nl/beste-reisbestemmingen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/beste-reisbestemmingen/",
+              "anchor_text": "Beste reisbestemmingen per maand"
+            }
+          ]
+        },
+        {
+          "text": "Dieren spotten wereldwijd",
+          "url": "https://packlightly.nl/dieren-spotten-wereldwijd/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/dieren-spotten-wereldwijd/",
+              "anchor_text": "Dieren spotten wereldwijd"
+            }
+          ]
+        },
+        {
+          "text": "Wat te eten wereldwijd",
+          "url": "https://packlightly.nl/wat-te-eten-wereldwijd/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/wat-te-eten-wereldwijd/",
+              "anchor_text": "Wat te eten wereldwijd"
+            }
+          ]
+        },
+        {
+          "text": "Mooiste plekken wereldwijd",
+          "url": "https://packlightly.nl/mooiste-plekken-wereldwijd/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/mooiste-plekken-wereldwijd/",
+              "anchor_text": "Mooiste plekken wereldwijd"
+            }
+          ]
+        },
+        {
+          "text": "Visum en toegangseisen",
+          "url": "https://packlightly.nl/visum-en-toegangseisen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/visum-en-toegangseisen/",
+              "anchor_text": "Visum en toegangseisen"
+            }
+          ]
+        },
+        {
+          "text": "Veilig reizen",
+          "url": "https://packlightly.nl/veilig-reizen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/veilig-reizen/",
+              "anchor_text": "Veilig reizen"
+            }
+          ]
+        },
+        {
+          "text": "Solo reizen",
+          "url": "https://packlightly.nl/solo-reizen/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/solo-reizen/",
+              "anchor_text": "Solo reizen"
+            }
+          ]
+        },
+        {
+          "text": "Reizen met gezin",
+          "url": "https://packlightly.nl/reizen-met-gezin/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/reizen-met-gezin/",
+              "anchor_text": "Reizen met gezin"
+            }
+          ]
+        },
+        {
+          "text": "Reizen met partner",
+          "url": "https://packlightly.nl/reizen-met-partner/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/reizen-met-partner/",
+              "anchor_text": "Reizen met partner"
+            }
+          ]
+        },
+        {
+          "text": "Reizen met vrienden",
+          "url": "https://packlightly.nl/reizen-met-vrienden/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/reizen-met-vrienden/",
+              "anchor_text": "Reizen met vrienden"
+            }
+          ]
+        },
+        {
+          "text": "Reizen 50-plus",
+          "url": "https://packlightly.nl/reizen-50-plus/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/reizen-50-plus/",
+              "anchor_text": "Reizen 50-plus"
+            }
+          ]
+        },
+        {
+          "text": "Zermatt vs St Moritz: Welke kies je voor een wintertrip?",
+          "url": "https://packlightly.nl/zermatt-vs-st-moritz/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/zermatt-vs-st-moritz/",
+              "anchor_text": "Zermatt vs St Moritz: Welke kies je voor een wintertrip?"
+            }
+          ]
+        },
+        {
+          "text": "Wroclaw vs Krakau: Welke past bij jouw reisplannen?",
+          "url": "https://packlightly.nl/wroclaw-vs-krakau/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/wroclaw-vs-krakau/",
+              "anchor_text": "Wroclaw vs Krakau: Welke past bij jouw reisplannen?"
+            }
+          ]
+        },
+        {
+          "text": "Vilnius vs Riga: Welke stad past het beste bij jouw weekend?",
+          "url": "https://packlightly.nl/vilnius-vs-riga/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/vilnius-vs-riga/",
+              "anchor_text": "Vilnius vs Riga: Welke stad past het beste bij jouw weekend?"
+            }
+          ]
+        },
+        {
+          "text": "San Sebastian versus Bilbao: Welke past het beste bij jouw reis?",
+          "url": "https://packlightly.nl/san-sebastian-vs-bilbao/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/san-sebastian-vs-bilbao/",
+              "anchor_text": "San Sebastian versus Bilbao: Welke past het beste bij jouw reis?"
+            }
+          ]
+        },
+        {
+          "text": "Parijs vs Milaan: Welke past het beste bij jou?",
+          "url": "https://packlightly.nl/parijs-vs-milaan/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/parijs-vs-milaan/",
+              "anchor_text": "Parijs vs Milaan: Welke past het beste bij jou?"
+            }
+          ]
+        },
+        {
+          "text": "Algemene voorwaarden",
+          "url": "https://packlightly.nl/algemene-voorwaarden/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/algemene-voorwaarden/",
+              "anchor_text": "Algemene voorwaarden"
+            }
+          ]
+        },
+        {
+          "text": "Affiliate referral cookies",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Algemene voorwaarden",
+          "url": "https://packlightly.nl/algemene-voorwaarden/",
+          "urls": [
+            {
+              "url": "https://packlightly.nl/algemene-voorwaarden/",
+              "anchor_text": "Algemene voorwaarden"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "De geur van versgebakken rijstkoekjes vult de lucht op de lokale markt in Phitsanulok.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Phitsanulok is een regionale rivierstad in het lagere noorden van Thailand, met een bevolking van ongeveer 80.000. Het is voornamelijk een tussenstop voor reizigers naar Sukhothai, maar biedt ook unieke culturele ervaringen. Bezoekers komen voor de indrukwekkende Wat Phra Si Rattana Mahathat, waar de beroemde Phra Buddha Chinnarat zich bevindt. Deze stad biedt een mix van geschiedenis, lokale markten en ambachtelijke tradities.",
+            "url": "https://packlightly.nl/thailand/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/",
+                "anchor_text": "Thailand"
+              },
+              {
+                "url": "https://packlightly.nl/thailand/sukhothai/",
+                "anchor_text": "Sukhothai"
+              }
+            ]
+          },
+          {
+            "text": "In Phitsanulok zijn de belangrijkste activiteiten het bezoeken van Wat Phra Si Rattana Mahathat en de lokale markten voor authentieke Thaise gerechten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Waarom Phitsanulok bezoeken",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Top things to do in Phitsanulok",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "24 hours in Phitsanulok",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Best time to visit Phitsanulok",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe kom je in Phitsanulok",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waar te verblijven in Phitsanulok",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waar te eten en drinken in Phitsanulok",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Daily budget for Phitsanulok",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Praktische tips voor Phitsanulok",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Veelgestelde vragen over Phitsanulok",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Belangrijkste punten",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Bezoek Wat Phra Si Rattana Mahathat, geopend van 08:00 tot 17:00.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Proef lokale gerechten op de Phitsanulok-markt, elke zaterdag.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De stad ligt 60 km van Sukhothai, ideaal voor een dagtrip.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Verken de lokale ambachten in de buurt van de rivier, gratis toegang.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Gemiddelde kosten voor een maaltijd: ~€3 in 2026.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waarom Phitsanulok bezoeken",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Phitsanulok onderscheidt zich van nabijgelegen bestemmingen zoals Sukhothai en Ayutthaya door zijn rijke geschiedenis en de beroemde Phra Buddha Chinnarat, een van de meest vereerde boeddha-afbeeldingen in Thailand. Deze regionale rivierstad biedt een authentieke ervaring van het lokale leven, met een mix van cultuur en religie. De stad fungeert als een transitpunt, maar heeft genoeg te bieden voor een diepere verkenning.",
+            "url": "https://packlightly.nl/thailand/ayutthaya/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/ayutthaya/",
+                "anchor_text": "Ayutthaya"
+              }
+            ]
+          },
+          {
+            "text": "Bezoek Wat Phra Si Rattana Mahathat voor de iconische Phra Buddha Chinnarat.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Verken de lokale markten zoals de Phitsanulok Night Market voor authentieke Thaise gerechten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Neem deel aan een traditionele Thaise kookles bij een lokale chef.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De stad is minder druk dan Sukhothai, ideaal voor een rustige verkenning.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Geschikt voor",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Cultuurliefhebbers en gezinnen die geïnteresseerd zijn in lokale tradities zullen Phitsanulok waarderen. Ook solo reizigers die de authentieke Thaise sfeer willen ervaren, vinden hier hun plek.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Top things to do in Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Phitsanulok biedt een unieke mix van cultuur en geschiedenis, met als hoogtepunt de indrukwekkende Wat Phra Si Rattana Mahathat. Deze activiteiten laten je de essentie van de stad ervaren, van lokale markten tot eeuwenoude tempels.",
+            "url": "https://packlightly.nl/thailand/tempel/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/tempel/",
+                "anchor_text": "tempels"
+              }
+            ]
+          },
+          {
+            "text": "De thuisbasis van de beroemde Phra Buddha Chinnarat, een van de meest vereerde boeddhabeelden in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bij deze tempel bewonder je niet alleen het beeld, maar ook de prachtige architectuur en de serene sfeer. Lokale monniken zijn vaak aanwezig voor een praatje, wat een authentieke ervaring biedt. Vergeet niet de details van de muurschilderingen te bekijken die het verhaal van de Boeddha vertellen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Geen enkele andere plek in Phitsanulok biedt zo’n diepgaande spirituele ervaring en culturele betekenis als deze tempel.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Vroeg in de ochtend, voor 09:00, om de drukte te vermijden en de rust van de tempel te ervaren.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: Free",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Duur: 1-2 uur",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: De tempel ligt op loopafstand van het stadscentrum, volg de Thanon Phra Si Rattana Mahathat.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een levendige markt waar je lokale gerechten en handwerk kunt proeven en kopen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De Night Bazaar is de perfecte plek om de lokale cultuur te proeven. Hier vind je kraampjes met streetfood, van gegrilde saté tot verse fruitsappen. De sfeer is bruisend, met locals die hun ambachten verkopen en muzikanten die voor entertainment zorgen.",
+            "url": "https://packlightly.nl/thailand/cultuur/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/cultuur/",
+                "anchor_text": "lokale cultuur"
+              }
+            ]
+          },
+          {
+            "text": "In tegenstelling tot andere markten in Thailand, biedt deze bazaar een authentieke ervaring zonder de toeristische drukte.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Elke avond, het beste tussen 18:00 en 21:00 voor de meeste activiteit.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: ~$5 voor een maaltijd",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Duur: 2-3 uur",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: Gelegen aan de Thanon Phitsanulok, makkelijk bereikbaar te voet vanuit het centrum.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een UNESCO-werelderfgoedlocatie met indrukwekkende ruïnes van de oude hoofdstad van Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Op slechts 60 km van Phitsanulok vind je deze historische site, waar je door de overblijfselen van tempels en beelden kunt wandelen. Huur een fiets om het park te verkennen en geniet van de serene omgeving, vooral bij zonsondergang.",
+            "url": "https://packlightly.nl/thailand/phuket/tempels/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/phuket/tempels/",
+                "anchor_text": "tempels"
+              }
+            ]
+          },
+          {
+            "text": "Dit is de beste plek om de geschiedenis van Thailand te begrijpen, met een rijke collectie van goed bewaarde ruïnes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Het beste in de vroege ochtend of late namiddag, vooral in de maanden november tot februari voor aangename temperaturen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: ~$10 voor toegang",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Duur: Half dag",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: Neem een bus of taxi vanaf Phitsanulok, de rit duurt ongeveer 1 uur.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een museum dat de geschiedenis en cultuur van de regio belicht.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit museum biedt een kijkje in de lokale geschiedenis, met tentoonstellingen over de kunst, cultuur en tradities van Phitsanulok. De informatieve displays en artefacten zijn goed gepresenteerd en bieden context over de regio.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het museum is minder bekend dan andere attracties, maar biedt waardevolle inzichten in de lokale cultuur.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Open van dinsdag tot zondag, het beste te bezoeken in de ochtend voor een rustige ervaring.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: ~$2",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: Gelegen aan de Thanon Phra Si Rattana Mahathat, bereikbaar met een korte wandeling vanuit het centrum.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een rustige tempel met een prachtig uitzicht op de Nan -rivier.",
+            "url": "https://packlightly.nl/thailand/nan/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/nan/",
+                "anchor_text": "Nan"
+              }
+            ]
+          },
+          {
+            "text": "Deze tempel is minder druk bezocht en biedt een vredige omgeving om te mediteren of gewoon te ontspannen. De architectuur is uniek en het uitzicht vanaf de heuvel is adembenemend, vooral bij zonsondergang.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In tegenstelling tot de drukkere tempels, biedt deze plek een kans om te ontsnappen aan de toeristische drukte.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Ideaal in de late namiddag, rond 17:00, voor het beste licht en minder bezoekers.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Duur: 1 uur",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: Neem een tuk-tuk of taxi vanaf het centrum, het is ongeveer 10 minuten rijden.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Leer de geheimen van de Thaise keuken van een lokale chef.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Deze kooklessen zijn een geweldige manier om de lokale cultuur te ervaren. Je leert niet alleen hoe je traditionele gerechten maakt, maar ook over de ingrediënten en technieken die essentieel zijn in de Thaise keuken. Vaak eindigt de les met een gezamenlijke maaltijd.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In plaats van alleen te eten, krijg je een hands-on ervaring die je meer inzicht geeft in de Thaise cultuur.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wanneer: Boek een les in de ochtend of vroege middag, meestal van 10:00 tot 14:00.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kosten: ~$30",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hoe te bereiken: De meeste kookscholen bieden vervoer aan vanuit het centrum, of je kunt er zelf naartoe lopen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "24 hours in Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Deze dagplanning is ideaal voor cultuurliefhebbers die de essentie van Phitsanulok willen ervaren, met een focus op lokale markten en historische bezienswaardigheden.",
+            "url": "https://packlightly.nl/thailand/mooiste-plekken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/mooiste-plekken/",
+                "anchor_text": "bezienswaardigheden"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Ochtend",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Begin de dag vroeg met een bezoek aan de Phitsanulok Markt rond 07:00. Hier proef je lokale lekkernijen zoals khao soi, een noedelsoep die perfect is voor het ontbijt. De ochtenddrukte biedt een levendige sfeer, met verkopers die hun verse producten aanbieden. Neem de tijd om rond te kijken en de lokale cultuur op te snuiven.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Middag",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Na de markt is het tijd om Wat Phra Si Rattana Mahathat te verkennen, een van de belangrijkste tempels van de stad, bekend om de indrukwekkende Phra Buddha Chinnarat. Plan je bezoek rond 12:00 om de drukte te vermijden. Geniet daarna van een lunch in een nabijgelegen restaurant waar je authentieke Thaise gerechten kunt proeven. Na de lunch is een rustige wandeling door de stad een goede manier om de sfeer van Phitsanulok verder te absorberen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Avond",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Rond 18:00 is het tijd om naar de Chao Phraya-rivier te gaan voor een prachtig uitzicht op de zonsondergang. Zoek een plekje aan de oever en geniet van de rust terwijl de lucht verandert in warme tinten. Voor het diner kun je terecht bij een lokaal restaurant dat bekend staat om zijn visgerechten, perfect om de dag af te sluiten met een smaakvolle maaltijd.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Als je een tweede dag hebt",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Als er een tweede dag is, bezoek dan het National Museum van Phitsanulok om meer te leren over de geschiedenis en cultuur van de regio. Een andere aanrader is een fietstocht door de omliggende dorpen om de lokale ambachten en levensstijl te ontdekken.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Best time to visit Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "In Phitsanulok zijn de maanden van november tot februari ideaal voor culturele activiteiten, met gemiddelde temperaturen tussen 68°F en 85°F. De hitte van maart tot mei kan de meeste buitenactiviteiten bemoeilijken, terwijl de regen van juni tot oktober de toegang tot sommige bezienswaardigheden kan beperken. De regenseizoenen kunnen ook leiden tot langere wachttijden bij populaire attracties. In de koelere maanden zijn de markten en festivals levendiger, waardoor je meer kunt leren over de lokale cultuur.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Weer per maand",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Aangenaam, ideaal voor verkenning",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Warm, perfect voor buitenactiviteiten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Heet, minder comfortabel buiten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Zeer heet, vermijd lange wandelingen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Warm en vochtig, kans op regen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Vochtig, regen kan activiteiten verstoren",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Koudere regenperiode, minder drukte",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Vochtig, kans op overstromingen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Zeer nat, beperkte buitenactiviteiten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Einde van het regenseizoen, koeler",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ideaal weer, perfect voor cultuur",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Koel en droog, drukke markten",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Vanaf de luchthaven",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "De beste optie is een taxi of Grab vanaf Phitsanulok Airport naar het centrum, kost ~€6-8 en duurt 15 minuten. Er is geen directe shuttlebus, dus taxi is sneller en handiger dan wachten op gedeelde minibusjes.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Rondkomen in Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "De meest gebruikte manier om je te verplaatsen is per tuk-tuk of motorfiets. Voor culturele reizigers die rustig willen reizen is een taxi of Grab de beste keuze: comfortabel, betaalbaar en makkelijk te regelen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Tuk-tuk: handig voor korte afstanden binnen de stad, kost ongeveer $1-$2 per rit (2026).",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Grab taxi: beter voor langere ritten en vaste prijzen, ongeveer $3-$5 binnen de stad.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Fiets huren: voor wie de stad op eigen tempo wil verkennen, daghuur rond $4-$6.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Motorfiets huren: alleen aan te raden bij ervaring, daghuur vanaf $7.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Sukhothai Historical Park",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "De ruïnes van de oude hoofdstad van Thailand met tempels en stadswallen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waarom: De rust en ruimte van Sukhothai bieden een andere ervaring dan het drukke Phitsanulok, met goed bewaarde historische monumenten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sla over als: Als je al veel tempels in Thailand hebt gezien en weinig tijd hebt.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Wat Phra Si Rattana Mahathat (Phitsanulok)",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Bezoek aan de beroemde Phra Buddha Chinnarat, een van de meest vereerde Boeddhabeelden van Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waarom: De combinatie van religieuze betekenis en lokale devotie maakt dit meer dan een toeristische attractie.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Phu Hin Rong Kla National Park",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Natuurwandeling en geschiedenis van het gebied tijdens de communistische opstand in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Waarom: Minder toeristisch, met unieke landschappen en een rauwe historische context die je elders in de regio minder vindt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sla over als: Als je geen interesse hebt in natuur of moderne Thaise geschiedenis.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waar te verblijven in Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Phitsanulok biedt verschillende wijken voor reizigers, afhankelijk van hun voorkeuren. De meeste bezoekers kiezen voor accommodaties in de buurt van het oude stadscentrum voor culturele bezienswaardigheden of nabij de rivier voor een rustigere sfeer.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Budget — Rondom de Phra Buddha Chinnarat tempel",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "$10-$20 per nacht, 2026 · Booking.com",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In deze prijsklasse vind je eenvoudige guesthouses en hostels die basisvoorzieningen bieden. Ze zijn ideaal voor reizigers die op zoek zijn naar een betaalbare plek om te overnachten zonder luxe.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: Vraag om een kamer aan de achterzijde voor minder straatgeluid.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Middenklasse — Langs de Nan-rivier",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "$30-$60 per nacht, 2026 · Airbnb",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hier vind je gezellige hotels en boutique accommodaties met meer comfort en voorzieningen. Deze opties zijn perfect voor reizigers die een goede balans zoeken tussen prijs en kwaliteit.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: Boek vroeg in het hoogseizoen voor betere tarieven en beschikbaarheid.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waar te eten en drinken in Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "De eetcultuur van Phitsanulok is sterk beïnvloed door lokale ingrediënten zoals de verse vis uit de Nan-rivier en traditionele kooktechnieken. De stad staat bekend om zijn markten waar authentieke Thaise gerechten worden geserveerd, vaak met een unieke regionale twist.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Khao Soi (Khao Soi)",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Een curry-noedelsoep met een rijke kokosmelkbasis, geserveerd met eiernoedels en vaak met kip of rundvlees.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: De beste tijd om Khao Soi te proeven is tijdens de lunch, wanneer het vers wordt bereid.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Lokale dranken",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Cha Yen (Thaise ijsthee) Verkrijgbaar bij de meeste cafés en eetstalletjes in de stad.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een zoete, romige ijsthee gemaakt van zwarte thee, gezoet met suiker en gecondenseerde melk.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nam Manao (Limoenwater) Te vinden bij lokale eetstalletjes en markten, ideaal om te combineren met pittige gerechten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Verfrissend limoenwater, vaak geserveerd met suiker en munt.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Daily budget for Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Phitsanulok is over het algemeen betaalbaar, maar kan iets duurder zijn door zijn rol als transitpunt naar Sukhothai. Verwacht redelijke prijzen voor accommodatie en eten, maar houd rekening met extra kosten voor populaire activiteiten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bare botten",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "lodging — eenvoudige hostels of guesthouses",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "food — lokale eetgelegenheden en straatvoedsel",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "transport — openbaar vervoer en fietsen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "activities — toegang tot tempels en lokale markten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "buffer — kleine uitgaven",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wat je inlevert: Bij dit budget is comfort beperkt en zijn de eet- en verblijfopties eenvoudig.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Comfort",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "lodging — middenklasse hotels of betere guesthouses",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "food — restaurants met lokale en internationale gerechten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "transport — taxi’s of scooters",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "activities — georganiseerde tours of toegang tot bezienswaardigheden",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "buffer — extra uitgaven",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wat je inlevert: Met dit budget krijg je meer comfort en betere eetervaringen, maar je moet nog steeds keuzes maken.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Luxe",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "lodging — luxe hotels of boutique accommodaties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "food — dineren in hoogwaardige restaurants",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "transport — privévervoer of huurauto",
+            "url": "https://packlightly.nl/thailand/verkeer/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/verkeer/",
+                "anchor_text": "huurauto"
+              }
+            ]
+          },
+          {
+            "text": "activities — exclusieve tours of culturele ervaringen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "buffer — extra uitgaven",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wat je inlevert: Bij dit niveau van uitgaven krijg je luxe en gemak, maar het kan snel oplopen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Veelgestelde vragen over Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Ja, Phitsanulok biedt een unieke combinatie van cultuur en toegankelijkheid. Terwijl Sukhothai beroemd is om zijn historische parken, is Phitsanulok een levendige stad met de indrukwekkende Phra Buddha Chinnarat en een authentieke lokale sfeer.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Twee dagen zijn ideaal. Gebruik de eerste dag voor het verkennen van Wat Phra Si Rattana Mahathat en de tweede dag voor een bezoek aan lokale markten en het verkennen van de stad.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het regenseizoen in Phitsanulok loopt van mei tot oktober, met de meeste neerslag in september. Verwacht zware buien, maar ook zonnige dagen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De dichtstbijzijnde luchthaven is Luchthaven Phitsanulok, op ongeveer 10 km van het stadscentrum. Er zijn dagelijkse binnenlandse vluchten vanuit Bangkok.",
+            "url": "https://packlightly.nl/thailand/binnenlandse-vluchten/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/binnenlandse-vluchten/",
+                "anchor_text": "binnenlandse vluchten"
+              }
+            ]
+          },
+          {
+            "text": "Ja, het is over het algemeen veilig om ’s nachts in Phitsanulok te wandelen. Blijf echter in drukke gebieden en vermijd afgelegen straten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De lokale keuken in Phitsanulok is divers, met specialiteiten zoals Khao Soi en verschillende rijstgerechten. Probeer de straatvoedselmarkten voor authentieke smaken.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Sla over als",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Reizigers die op zoek zijn naar bruisend nachtleven of uitgebreide toeristische voorzieningen kunnen beter naar Ayutthaya of Chiang Mai gaan.",
+            "url": "https://packlightly.nl/thailand/chiang-mai/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/chiang-mai/",
+                "anchor_text": "Chiang Mai"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Insider-tip: Als gesloten",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Bezoek de lokale foodcourt in het nabijgelegen winkelcentrum.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Insider-tip: Als gesloten",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Bezoek een lokaal restaurant en vraag naar een kookdemonstratie.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Boek tours en tickets",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Boeken via deze links steunt Pack Lightly zonder extra kosten voor jou.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Bekijk tours op GetYourGuide →",
+            "url": "https://www.getyourguide.com/s/?q=Phitsanulok%20Thailand&partner_id=DOAOTOV",
+            "urls": [
+              {
+                "url": "https://www.getyourguide.com/s/?q=Phitsanulok%20Thailand&partner_id=DOAOTOV",
+                "anchor_text": "Bekijk tours op GetYourGuide →"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Kort antwoord",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "De beste maanden om Phitsanulok te bezoeken zijn van november tot februari vanwege het aangename weer.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Beste maanden",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "November tot februari",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Maanden om te mijden",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Maart tot oktober vanwege de hitte en regen.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Gemiddelde temperatuur (°F)",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hoe kom je in Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dichtstbijzijnde luchthaven",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Phitsanulok Airport (PHS), 8 km / 15 minuten van het stadscentrum",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Andere manieren om er te komen",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Bangkok, trein, 5 tot 6 uur, $10-$15 (2026)",
+            "url": "https://packlightly.nl/thailand/bangkok/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/bangkok/",
+                "anchor_text": "Bangkok"
+              }
+            ]
+          },
+          {
+            "text": "Chiang Mai, bus, 6 tot 7 uur, $12-$18 (2026)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sukhothai, bus, 1,5 uur, $3-$5 (2026)",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Vermijden",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Vermijd het huren van een auto: de wegen in en rond Phitsanulok zijn vaak smal en druk, parkeren lastig.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dagtrips vanuit Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Phitsanulok is een praktisch startpunt voor dagtochten naar historische en culturele plekken in de regio.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Combineer Phitsanulok met",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Phitsanulok past goed in routes die Noord- en Centraal-Thailand verbinden, vooral voor reizigers die cultuur en geschiedenis willen combineren.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "7-daagse Noord-Centraal Thailand route Chiang Mai → Phitsanulok → Sukhothai → Bangkok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Deze route volgt een logische zuidelijke lijn en combineert bergcultuur met historische steden, waarbij Phitsanulok als transitpunt en culturele stop fungeert.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "10-daagse culturele trek door Thailand Bangkok → Ayutthaya → Phitsanulok → Sukhothai → Chiang Mai",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Start in Bangkok met oude hoofdsteden en vervolg via Phitsanulok naar het noorden voor diepere historische inzichten en regionale tradities.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waar je niet moet verblijven",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "De buurt rond het treinstation kan druk en minder aantrekkelijk zijn voor toeristen, vooral ’s nachts.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Vrouwen die alleen reizen",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Kies voor een hostel met een sterke sociale sfeer in de buurt van het oude stadscentrum, waar het ’s avonds goed verlicht is.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Boek je verblijf",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Boeken via deze links steunt Pack Lightly zonder extra kosten voor jou.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Gerechten die je moet proberen",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Pla Pao (Gegrilde vis)",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Gegrilde vis, vaak gevuld met kruiden en zout, geserveerd met een pittige dipsaus.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: Vraag om de vis van de dag voor de meest verse ervaring.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Nam Prik Noom (Groene chili dip)",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Een pittige dip gemaakt van geroosterde groene chili’s, knoflook en specerijen, vaak geserveerd met groenten en rijst.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Insider-tip: Combineer het met kleefrijst voor een authentieke ervaring.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hoe te eten als een local in Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Eten gebeurt vaak in de vroege avond, met veel locals die hun hoofdmaaltijd rond 18:00 uur nuttigen. Probeer de straatvoedselstalletjes voor een authentieke ervaring en bestel gerechten die vers zijn bereid.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bespaartip",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Koop je souvenirs bij lokale markten in plaats van toeristische winkels — de prijzen zijn vaak veel lager.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Luxe die het waard is",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Een bezoek aan Wat Phra Si Rattana Mahathat is de extra kosten waard, vooral voor de indrukwekkende Phra Buddha Chinnarat.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Sla over om te besparen",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Vermijd dure georganiseerde tours naar Sukhothai — het is goedkoper om met het openbaar vervoer te reizen en zelf de tempels te verkennen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Praktische tips voor Phitsanulok",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Geld",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Cash of kaart",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Contant geld is gebruikelijk, maar veel plaatsen accepteren ook creditcards.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Geldautomaten",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Er zijn voldoende geldautomaten in de stad die werken met buitenlandse kaarten, maar controleer op eventuele transactiekosten.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Fooi",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Een fooi van 10% is gebruikelijk in restaurants, maar controleer of de servicekosten al zijn inbegrepen.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Veiligheid",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Phitsanulok is over het algemeen veilig voor reizigers, maar het is altijd goed om alert te zijn, vooral in drukke gebieden.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Internet",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Mobiele data",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "De mobiele dekking is goed in Phitsanulok; AIS en TrueMove zijn aanbevolen lokale SIM-aanbieders.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Wi-Fi",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "De meeste cafés en accommodaties bieden gratis wifi, maar de snelheid kan variëren.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Taal",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Hoofdtaal",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Thai",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Engels-niveau",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Engels wordt beperkt gesproken, vooral buiten toeristische gebieden, maar basiscommunicatie is vaak mogelijk.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Culturele tips",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Bij het bezoeken van tempels is het belangrijk om gepaste kleding te dragen, met bedekte schouders en knieën.",
+                    "urls": [
+                      {
+                        "url": "https://packlightly.nl/thailand/kleding/",
+                        "anchor_text": "kleding"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Vraag altijd om toestemming voordat je foto’s maakt van mensen, vooral in traditionele situaties.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Alleen-reizende vrouwen",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Phitsanulok is over het algemeen veilig voor vrouwelijke solo-reizigers, maar het is verstandig om de gebruikelijke voorzorgsmaatregelen te nemen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Buurt",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Het centrum van Phitsanulok is levendig en veilig om te verkennen, vooral tijdens de dag.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Vervoer",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Gebruik taxi’s of ridesharing-apps voor veilig vervoer ’s nachts.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Mensen ontmoeten",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Bezoek lokale markten of cafés waar je andere reizigers kunt ontmoeten.",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Copyright © 2026 Pack Lightly",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Hoi, ik ben Wouter",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Oprichter van Pack Lightly",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ik reisde 11 maanden de wereld rond en liep steeds tegen reisinfo aan die verouderd was, ontbrak of gewoon niet klopte. Dus bouwde ik de gids die ik zelf wilde: praktisch, actueel en gratis.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Stranden, tempels en streetfood voor elk budget. Elke Thailand-pagina hier is gemaakt voor first-timers die toch de minder bekende plekken willen zien.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "606+ Thailand-pagina's, in detail Van Bangkok tot de zuidelijke eilanden: elke regio uitgediept, geen dunne samenvatting.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Geen betaalde rankings Keuzes komen uit onderzoek en reizen, niet uit wie betaalt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Elk seizoen bijgewerkt Elke gids heeft een datum, zo zie je dat het nog klopt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Gratis, geen account Geen betaalmuur en geen premium-versie die er later bij komt.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Visueel en interactief: tik, vergelijk en krijg snel een echt antwoord.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Budget calculator Kosten per dag in Thailand",
+            "url": "https://packlightly.nl/tool/budget-calculator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/budget-calculator/",
+                "anchor_text": "Budget calculatorKosten per dag in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Paklijst generator Op bestemming en seizoen",
+            "url": "https://packlightly.nl/tool/paklijst-generator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/paklijst-generator/",
+                "anchor_text": "Paklijst generatorOp bestemming en seizoen"
+              }
+            ]
+          },
+          {
+            "text": "Lokaal eten en drinken Typische gerechten van Thailand",
+            "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+                "anchor_text": "Lokaal eten en drinkenTypische gerechten van Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Dieren wereldkaart Olifanten, gibbons en meer",
+            "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+                "anchor_text": "Dieren wereldkaartOlifanten, gibbons en meer"
+              }
+            ]
+          },
+          {
+            "text": "Interactieve reiskaart Ontdek landen op een live kaart",
+            "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/interactieve-reiskaart-per-land/",
+                "anchor_text": "Interactieve reiskaartOntdek landen op een live kaart"
+              }
+            ]
+          },
+          {
+            "text": "Tours & dagtrips via Viator",
+            "url": "https://www.viator.com/?pid=P00246314&mcid=42383&medium=link",
+            "urls": [
+              {
+                "url": "https://www.viator.com/?pid=P00246314&mcid=42383&medium=link",
+                "anchor_text": "Tours & dagtripsvia Viator"
+              }
+            ]
+          },
+          {
+            "text": "Treinen, bussen & veerboten via 12Go",
+            "url": "https://12go.tpx.lv/hSe38fE8",
+            "urls": [
+              {
+                "url": "https://12go.tpx.lv/hSe38fE8",
+                "anchor_text": "Treinen, bussen & veerbotenvia 12Go"
+              }
+            ]
+          },
+          {
+            "text": "Vluchten naar Thailand via Aviasales",
+            "url": "https://aviasales.tpx.lv/F53r6yel",
+            "urls": [
+              {
+                "url": "https://aviasales.tpx.lv/F53r6yel",
+                "anchor_text": "Vluchten naar Thailandvia Aviasales"
+              }
+            ]
+          },
+          {
+            "text": "Hostels & guesthouses via Hostelworld",
+            "url": "https://tp.media/r?campaign_id=93&marker=619687&p=3518&trs=403649&u=https%3A%2F%2Fwww.hostelworld.com%2F",
+            "urls": [
+              {
+                "url": "https://tp.media/r?campaign_id=93&marker=619687&p=3518&trs=403649&u=https%3A%2F%2Fwww.hostelworld.com%2F",
+                "anchor_text": "Hostels & guesthousesvia Hostelworld"
+              }
+            ]
+          },
+          {
+            "text": "Thailand eSIM via Saily",
+            "url": "https://tp.media/r?campaign_id=629&marker=619687&p=8979&trs=403649&u=https%3A%2F%2Fsaily.com%2Fesim-thailand%2F",
+            "urls": [
+              {
+                "url": "https://tp.media/r?campaign_id=629&marker=619687&p=8979&trs=403649&u=https%3A%2F%2Fsaily.com%2Fesim-thailand%2F",
+                "anchor_text": "Thailand eSIMvia Saily"
+              }
+            ]
+          },
+          {
+            "text": "We verdienen mogelijk een commissie, zonder extra kosten voor jou.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dieren spotten",
+            "url": "https://packlightly.nl/thailand/wilde-dieren/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/wilde-dieren/",
+                "anchor_text": "Dieren spotten"
+              }
+            ]
+          },
+          {
+            "text": "Tempels & monumenten",
+            "url": "https://packlightly.nl/thailand/tempel/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/tempel/",
+                "anchor_text": "Tempels & monumenten"
+              }
+            ]
+          },
+          {
+            "text": "Nationale parken",
+            "url": "https://packlightly.nl/thailand/national-parken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/national-parken/",
+                "anchor_text": "Nationale parken"
+              }
+            ]
+          },
+          {
+            "text": "Mooiste eilanden",
+            "url": "https://packlightly.nl/thailand/eilanden/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/thailand/eilanden/",
+                "anchor_text": "Mooiste eilanden"
+              }
+            ]
+          },
+          {
+            "text": "Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/",
+                "anchor_text": "Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Beste reistijd wereldkaart",
+            "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+                "anchor_text": "Beste reistijd wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Budget calculator",
+            "url": "https://packlightly.nl/tool/budget-calculator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/budget-calculator/",
+                "anchor_text": "Budget calculator"
+              }
+            ]
+          },
+          {
+            "text": "Dieren wereldkaart",
+            "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+                "anchor_text": "Dieren wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Keuzehulp land",
+            "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+                "anchor_text": "Keuzehulp land"
+              }
+            ]
+          },
+          {
+            "text": "Landen vergelijker",
+            "url": "https://packlightly.nl/tool/landen-vergelijker/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/landen-vergelijker/",
+                "anchor_text": "Landen vergelijker"
+              }
+            ]
+          },
+          {
+            "text": "Lokaal eten en drinken",
+            "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+                "anchor_text": "Lokaal eten en drinken"
+              }
+            ]
+          },
+          {
+            "text": "Mobiele data berekenen",
+            "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+                "anchor_text": "Mobiele data berekenen"
+              }
+            ]
+          },
+          {
+            "text": "Paklijst generator",
+            "url": "https://packlightly.nl/tool/paklijst-generator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/paklijst-generator/",
+                "anchor_text": "Paklijst generator"
+              }
+            ]
+          },
+          {
+            "text": "Vaccinatie wereldkaart",
+            "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+                "anchor_text": "Vaccinatie wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/",
+                "anchor_text": "Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Beste reistijd wereldkaart",
+            "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+                "anchor_text": "Beste reistijd wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Budget calculator",
+            "url": "https://packlightly.nl/tool/budget-calculator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/budget-calculator/",
+                "anchor_text": "Budget calculator"
+              }
+            ]
+          },
+          {
+            "text": "Dieren wereldkaart",
+            "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/dieren-wereldkaart/",
+                "anchor_text": "Dieren wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Keuzehulp land",
+            "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/keuzehulp-land-kiezen/",
+                "anchor_text": "Keuzehulp land"
+              }
+            ]
+          },
+          {
+            "text": "Landen vergelijker",
+            "url": "https://packlightly.nl/tool/landen-vergelijker/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/landen-vergelijker/",
+                "anchor_text": "Landen vergelijker"
+              }
+            ]
+          },
+          {
+            "text": "Lokaal eten en drinken",
+            "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/lokaal-eten-en-drinken/",
+                "anchor_text": "Lokaal eten en drinken"
+              }
+            ]
+          },
+          {
+            "text": "Mobiele data berekenen",
+            "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/mobiele-data-berekenen/",
+                "anchor_text": "Mobiele data berekenen"
+              }
+            ]
+          },
+          {
+            "text": "Paklijst generator",
+            "url": "https://packlightly.nl/tool/paklijst-generator/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/paklijst-generator/",
+                "anchor_text": "Paklijst generator"
+              }
+            ]
+          },
+          {
+            "text": "Vaccinatie wereldkaart",
+            "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/vaccinatie-wereldkaart/",
+                "anchor_text": "Vaccinatie wereldkaart"
+              }
+            ]
+          },
+          {
+            "text": "Pack Lightly - Travel prepared, Not overpacked",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Opkomende landen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Verenigde Arabische Emiraten",
+            "url": "https://packlightly.nl/verenigde-arabische-emiraten/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/verenigde-arabische-emiraten/",
+                "anchor_text": "Verenigde Arabische Emiraten"
+              }
+            ]
+          },
+          {
+            "text": "Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/",
+                "anchor_text": "Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Alle bestemmingen",
+            "url": "https://packlightly.nl/bestemmingen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/bestemmingen/",
+                "anchor_text": "Alle bestemmingen"
+              }
+            ]
+          },
+          {
+            "text": "Snorkelplekken Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/snorkelen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/snorkelen/",
+                "anchor_text": "Snorkelplekken Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Veelgestelde vragen",
+            "url": "https://packlightly.nl/veelgestelde-vragen/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/veelgestelde-vragen/",
+                "anchor_text": "Veelgestelde vragen"
+              }
+            ]
+          },
+          {
+            "text": "Wat te doen in Chongqing",
+            "url": "https://packlightly.nl/china/chongqing/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/china/chongqing/",
+                "anchor_text": "Wat te doen in Chongqing"
+              }
+            ]
+          },
+          {
+            "text": "Verkeer in de Filipijnen",
+            "url": "https://packlightly.nl/filipijnen/verkeer/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/filipijnen/verkeer/",
+                "anchor_text": "Verkeer in de Filipijnen"
+              }
+            ]
+          },
+          {
+            "text": "Kazachstan kosten",
+            "url": "https://packlightly.nl/kazachstan/kosten/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/kazachstan/kosten/",
+                "anchor_text": "Kazachstan kosten"
+              }
+            ]
+          },
+          {
+            "text": "Wat te doen in Nialvelli Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/nilaveli/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/nilaveli/",
+                "anchor_text": "Wat te doen in Nialvelli Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Niet toeristische plekken Indonesië",
+            "url": "https://packlightly.nl/indonesie/niet-toeristisch/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/indonesie/niet-toeristisch/",
+                "anchor_text": "Niet toeristische plekken Indonesië"
+              }
+            ]
+          },
+          {
+            "text": "Matara Sri Lanka",
+            "url": "https://packlightly.nl/sri-lanka/matara/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/sri-lanka/matara/",
+                "anchor_text": "Matara Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Oman eten en drinken",
+            "url": "https://packlightly.nl/oman/eten-drinken/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/oman/eten-drinken/",
+                "anchor_text": "Oman eten en drinken"
+              }
+            ]
+          },
+          {
+            "text": "Beste Nederlandse karaoke nummers",
+            "url": "https://packlightly.nl/beste-nederlandse-karaoke-nummers/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/beste-nederlandse-karaoke-nummers/",
+                "anchor_text": "Beste Nederlandse karaoke nummers"
+              }
+            ]
+          },
+          {
+            "text": "Simkaart gegevens overzetten Samsung",
+            "url": "https://packlightly.nl/simkaart-plaatsen-en-gegevens-overzetten-op-je-samsung-smartphone/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/simkaart-plaatsen-en-gegevens-overzetten-op-je-samsung-smartphone/",
+                "anchor_text": "Simkaart gegevens overzetten Samsung"
+              }
+            ]
+          },
+          {
+            "text": "Huurscooter rijden Sri Lanka",
+            "url": "https://packlightly.nl/huurscooter-rijden-sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/huurscooter-rijden-sri-lanka/",
+                "anchor_text": "Huurscooter rijden Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Vergelijking Thailand vs Vietnam",
+            "url": "https://packlightly.nl/vergelijking-thailand-vietnam/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/vergelijking-thailand-vietnam/",
+                "anchor_text": "Vergelijking Thailand vs Vietnam"
+              }
+            ]
+          },
+          {
+            "text": "Beste duet karaoke nummers",
+            "url": "https://packlightly.nl/beste-duet-karaoke-nummers/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/beste-duet-karaoke-nummers/",
+                "anchor_text": "Beste duet karaoke nummers"
+              }
+            ]
+          },
+          {
+            "text": "Vergelijking Thailand vs Sri Lanka",
+            "url": "https://packlightly.nl/vergelijking-thailand-vs-sri-lanka/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/vergelijking-thailand-vs-sri-lanka/",
+                "anchor_text": "Vergelijking Thailand vs Sri Lanka"
+              }
+            ]
+          },
+          {
+            "text": "Algemene voorwaarden | Privacyverklaring | Cookie-instellingen",
+            "url": "https://packlightly.nl/algemene-voorwaarden/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/algemene-voorwaarden/",
+                "anchor_text": "Algemene voorwaarden"
+              },
+              {
+                "url": "https://packlightly.nl/privacyverklaring/",
+                "anchor_text": "Privacyverklaring"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Vind de beste reistijd",
+        "main_title": "Top 6 Things to do in Phitsanulok – Regional river city in the lower north, mostly a transit point for Sukhothai, known for Wat Phra Si Rattana Mahathat.",
+        "author": "Pack Lightly",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Klimaat-wereldkaart per maand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Vind de beste reistijd →",
+            "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+            "urls": [
+              {
+                "url": "https://packlightly.nl/tool/beste-reistijd-wereldkaart/",
+                "anchor_text": "Vind de beste reistijd →"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

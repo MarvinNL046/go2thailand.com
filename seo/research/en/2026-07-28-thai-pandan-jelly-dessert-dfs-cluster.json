@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-28T10:38:04.432Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai pandan jelly dessert",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thai pandan jelly dessert"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai pandan jelly dessert",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

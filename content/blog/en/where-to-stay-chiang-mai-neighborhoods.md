@@ -284,7 +284,7 @@ Chiang Mai is compact—you can cross the entire Old City on foot in 30 minutes.
 
 **Huay Kaew:** International restaurants, shopping mall food courts, and chain establishments. Convenient but lacking character. Prices range 100-400 THB depending on the restaurant.
 
-For a deeper dive into local cuisine, check our guide to [Khao Soi](https://go2-thailand.com/food/khao-soi/), Chiang Mai's signature dish.
+For a deeper dive into local cuisine, check our guide to [Khao Soi](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/), Chiang Mai's signature dish.
 
 ## 10. Practical Tips for Choosing Your Chiang Mai Neighborhood
 
@@ -394,7 +394,7 @@ During peak season (Nov-Feb), yes—book 2-3 weeks ahead. Off-season (May-Oct) o
 
 We recommend spending time in at least two neighborhoods during your stay. This gives you a fuller picture of the city and prevents the tunnel vision that comes from staying in one area. Our personal preference? A few nights in the Old City for temples and culture, then moving to Riverside or Nimman for modern amenities and dining.
 
-For more detailed planning, explore our [complete Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) and [things to do in Chiang Mai](https://go2-thailand.com/things-to-do/chiang-mai/). And if you're planning a broader Thailand trip, check out our [3-day Northern Thailand itinerary](https://go2-thailand.com/itineraries/3-days-northern/) for how Chiang Mai fits into a larger journey.
+For more detailed planning, explore our [complete Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) and [things to do in Chiang Mai](https://go2-thailand.com/city/chiang-mai/attractions/). And if you're planning a broader Thailand trip, check out our [3-day Northern Thailand itinerary](https://go2-thailand.com/itineraries/3-days-northern/) for how Chiang Mai fits into a larger journey.
 
 **Disclosure:** We may earn a small commission from bookings made through our affiliate links, at no extra cost to you. This helps us keep creating free travel guides for Thailand.
 

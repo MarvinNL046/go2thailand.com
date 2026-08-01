@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-07-26T03:13:39.414Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/hotel/tonsai-bay-resort/",
+  "cost": 0.01224,
+  "rankings": [
+    {
+      "keyword": "tonsai beach",
+      "position": 81,
+      "volume": 390,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/tonsai-bay-resort/"
+    },
+    {
+      "keyword": "tonsai bay resort krabi",
+      "position": 43,
+      "volume": 110,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/tonsai-bay-resort/"
+    }
+  ]
+}

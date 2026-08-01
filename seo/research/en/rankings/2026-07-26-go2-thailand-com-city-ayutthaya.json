@@ -1,0 +1,33 @@
+{
+  "captured_at": "2026-07-26T19:46:16.918Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/city/ayutthaya/",
+  "cost": 0.01236,
+  "rankings": [
+    {
+      "keyword": "ayutthaya",
+      "position": 73,
+      "volume": 5400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/ayutthaya/"
+    },
+    {
+      "keyword": "ayutthaya city",
+      "position": 89,
+      "volume": 5400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/ayutthaya/"
+    },
+    {
+      "keyword": "ayutthaya thailand",
+      "position": 85,
+      "volume": 5400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/ayutthaya/"
+    }
+  ]
+}

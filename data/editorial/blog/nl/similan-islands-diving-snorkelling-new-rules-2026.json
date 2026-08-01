@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "similan-islands-diving-snorkelling-new-rules-2026",
+  "route": "/nl/blog/similan-islands-diving-snorkelling-new-rules-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Similan-regels voor snorkelen en duiken | Go2Thailand",
+    "description": "Controleer actuele Similan-regels voor drijfmiddelen, camera’s, parkregistratie en operators voordat je een tour kiest.",
+    "primaryKeyword": "Similan eilanden regels",
+    "secondaryKeywords": ["Similan snorkelregels", "Similan duikregels", "Similan e-ticket"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/similan-islands-diving-snorkelling-new-rules-2026/"
+  },
+  "hero": {
+    "eyebrow": "Marien nationaal park · regelcheck",
+    "title": "Similan: eerst regels, dan tour",
+    "accent": "Parkstatus blijft leidend",
+    "description": "Drijfmiddelen, camera-ervaring, registratie en operatoruitvoering bepalen of je plan verantwoord en geldig is.",
+    "image": "/images/redesign/editorial/similan-islands-diving-snorkelling-new-rules-2026-hero.webp",
+    "imageAlt": "Snorkelaars met drijfmiddelen en een duiker op afstand van koraal bij granieten Similan-rotsen",
+    "primaryCta": { "label": "Bekijk de regels", "href": "#regels" },
+    "secondaryCta": { "label": "Operatorcheck", "href": "#operator" }
+  },
+  "layout": { "kind": "policy-guide", "policyStatus": "effective", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Controleer eerst of DNP het park officieel heeft geopend. Bevestig daarna regels voor drijfmiddelen, camera’s, e-ticketregistratie en jouw operator; oude seizoensdata zijn niet leidend.",
+  "blocks": [
+    { "kind": "card-grid", "id": "regels", "eyebrow": "Vier controles", "title": "Wat je vooraf bevestigt", "cards": [
+      { "title": "Parkstatus", "description": "Gebruik alleen een actuele DNP-publicatie voor opening, sluiting en tijdelijke toegang.", "label": "Eerst" },
+      { "title": "Drijfmiddel", "description": "Snorkelaars volgen de parkregel en dragen passend materiaal, tenzij een officiële uitzondering aantoonbaar geldt.", "label": "Snorkelen" },
+      { "title": "Camera-ervaring", "description": "Laat vooraf bevestigen welk brevet of duiklog voor onderwaterfotografie wordt geaccepteerd.", "label": "Scuba" },
+      { "title": "E-ticket", "description": "Controleer wie paspoortgegevens registreert, welk bewijs nodig is en hoe toegang wordt afgerekend.", "label": "Registratie" }
+    ] },
+    { "kind": "checklist", "id": "operator", "title": "Vergelijk de uitvoering", "items": [
+      "Vergunningen en exacte vertrekpier",
+      "Boot, schaduw en noodmiddelen",
+      "Gidsratio en talen van de briefing",
+      "Brevet-, medische en verzekeringsvoorwaarden",
+      "Alternatief wanneer de route niet uitvoerbaar is",
+      "Geen garantie op zicht, dieren of stops"
+    ] },
+    { "kind": "callout", "id": "kalender", "tone": "warning", "title": "Oude kalender is geen toegangsbewijs", "description": "De eerder gepubliceerde periode 2025–2026 is voorbij. Een volgende opening moet opnieuw door DNP worden bevestigd." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Moeten snorkelaars een zwemvest dragen?", "answer": "De mariene parkregels vragen in beginsel een drijfmiddel. Laat eventuele officiële uitzonderingen vooraf bevestigen." },
+      { "question": "Mag iedere duiker een camera meenemen?", "answer": "Niet zonder meer. Er gelden ervaringsvoorwaarden; vraag de operator welk bewijs wordt geaccepteerd." },
+      { "question": "Is de Similan-tour altijd uitvoerbaar?", "answer": "Nee. Parkbesluiten en omstandigheden kunnen toegang, route of stops wijzigen." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire controlepunten", "items": [
+      { "title": "Similan closure and e-ticket information", "publisher": "Department of National Parks", "url": "https://news.dnp.go.th/news/31853", "checkedAt": "2026-08-01", "note": "Bevestigt seizoensbeheer en registratie met paspoortgegevens." },
+      { "title": "DNP portal", "publisher": "Department of National Parks", "url": "https://portal.dnp.go.th/", "checkedAt": "2026-08-01", "note": "Leidend voor actuele parkmededelingen." },
+      { "title": "Mu Ko Similan National Park", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Attraction/mu-ko-similan-national-park", "checkedAt": "2026-08-01", "note": "Bestemmingscontext; DNP blijft leidend voor toegang." }
+    ] }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "captured_at": "2026-07-28T19:41:51.111Z",
+  "locale": "en",
+  "url": "https://anuraklodge.com/anurak-lodge/accommodation/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "About Anurak Lodge",
+          "url": "https://anuraklodge.com/anurak-lodge/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/anurak-lodge/",
+              "anchor_text": "About Anurak Lodge"
+            }
+          ]
+        },
+        {
+          "text": "Rooms & Amenities",
+          "url": "https://anuraklodge.com/anurak-lodge/accommodation/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/anurak-lodge/accommodation/",
+              "anchor_text": "Rooms & Amenities"
+            }
+          ]
+        },
+        {
+          "text": "Dining: Hornbill Restaurant",
+          "url": "https://anuraklodge.com/anurak-lodge/anurak-lodge-hornbill-restaurant/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/anurak-lodge/anurak-lodge-hornbill-restaurant/",
+              "anchor_text": "Dining: Hornbill Restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Khao Sok National Park",
+          "url": "https://anuraklodge.com/national-parks-and-sanctuaries/khao-sok-national-park/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/national-parks-and-sanctuaries/khao-sok-national-park/",
+              "anchor_text": "Khao Sok National Park"
+            }
+          ]
+        },
+        {
+          "text": "Cheow Lan Lake",
+          "url": "https://anuraklodge.com/national-parks-and-sanctuaries/cheow-lan-lake/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/national-parks-and-sanctuaries/cheow-lan-lake/",
+              "anchor_text": "Cheow Lan Lake"
+            }
+          ]
+        },
+        {
+          "text": "Wildlife & Nature",
+          "url": "https://anuraklodge.com/national-parks-and-sanctuaries/wildlife-nature/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/national-parks-and-sanctuaries/wildlife-nature/",
+              "anchor_text": "Wildlife & Nature"
+            }
+          ]
+        },
+        {
+          "text": "PACKAGES & SPECIALS",
+          "url": "https://anuraklodge.com/packages-specials/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/packages-specials/",
+              "anchor_text": "PACKAGES & SPECIALS"
+            }
+          ]
+        },
+        {
+          "text": "Rainforest Rising",
+          "url": "https://anuraklodge.com/sustainability/rainforest-rising/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/sustainability/rainforest-rising/",
+              "anchor_text": "Rainforest Rising"
+            }
+          ]
+        },
+        {
+          "text": "Book Now",
+          "url": "https://booking.hmpmaster.com/anuraklodge",
+          "urls": [
+            {
+              "url": "https://booking.hmpmaster.com/anuraklodge",
+              "anchor_text": "Book Now"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Privacy Policy | Terms & Conditions | Cookie Policy | Sitemap",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "COPYRIGHT 2025. ALL RIGHT RESERVED.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Username or Email Address",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "About Anurak Lodge",
+          "url": "https://anuraklodge.com/anurak-lodge/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/anurak-lodge/",
+              "anchor_text": "About Anurak Lodge"
+            }
+          ]
+        },
+        {
+          "text": "Rooms & Amenities",
+          "url": "https://anuraklodge.com/anurak-lodge/accommodation/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/anurak-lodge/accommodation/",
+              "anchor_text": "Rooms & Amenities"
+            }
+          ]
+        },
+        {
+          "text": "Dining: Hornbill Restaurant",
+          "url": "https://anuraklodge.com/anurak-lodge/anurak-lodge-hornbill-restaurant/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/anurak-lodge/anurak-lodge-hornbill-restaurant/",
+              "anchor_text": "Dining: Hornbill Restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Khao Sok National Park",
+          "url": "https://anuraklodge.com/national-parks-and-sanctuaries/khao-sok-national-park/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/national-parks-and-sanctuaries/khao-sok-national-park/",
+              "anchor_text": "Khao Sok National Park"
+            }
+          ]
+        },
+        {
+          "text": "Cheow Lan Lake",
+          "url": "https://anuraklodge.com/national-parks-and-sanctuaries/cheow-lan-lake/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/national-parks-and-sanctuaries/cheow-lan-lake/",
+              "anchor_text": "Cheow Lan Lake"
+            }
+          ]
+        },
+        {
+          "text": "Wildlife & Nature",
+          "url": "https://anuraklodge.com/national-parks-and-sanctuaries/wildlife-nature/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/national-parks-and-sanctuaries/wildlife-nature/",
+              "anchor_text": "Wildlife & Nature"
+            }
+          ]
+        },
+        {
+          "text": "PACKAGES & SPECIALS",
+          "url": "https://anuraklodge.com/packages-specials/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/packages-specials/",
+              "anchor_text": "PACKAGES & SPECIALS"
+            }
+          ]
+        },
+        {
+          "text": "Rainforest Rising",
+          "url": "https://anuraklodge.com/sustainability/rainforest-rising/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/sustainability/rainforest-rising/",
+              "anchor_text": "Rainforest Rising"
+            }
+          ]
+        },
+        {
+          "text": "About Anurak Lodge",
+          "url": "https://anuraklodge.com/anurak-lodge/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/anurak-lodge/",
+              "anchor_text": "About Anurak Lodge"
+            }
+          ]
+        },
+        {
+          "text": "Rooms & Amenities",
+          "url": "https://anuraklodge.com/anurak-lodge/accommodation/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/anurak-lodge/accommodation/",
+              "anchor_text": "Rooms & Amenities"
+            }
+          ]
+        },
+        {
+          "text": "Dining: Hornbill Restaurant",
+          "url": "https://anuraklodge.com/anurak-lodge/anurak-lodge-hornbill-restaurant/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/anurak-lodge/anurak-lodge-hornbill-restaurant/",
+              "anchor_text": "Dining: Hornbill Restaurant"
+            }
+          ]
+        },
+        {
+          "text": "Khao Sok National Park",
+          "url": "https://anuraklodge.com/national-parks-and-sanctuaries/khao-sok-national-park/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/national-parks-and-sanctuaries/khao-sok-national-park/",
+              "anchor_text": "Khao Sok National Park"
+            }
+          ]
+        },
+        {
+          "text": "Cheow Lan Lake",
+          "url": "https://anuraklodge.com/national-parks-and-sanctuaries/cheow-lan-lake/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/national-parks-and-sanctuaries/cheow-lan-lake/",
+              "anchor_text": "Cheow Lan Lake"
+            }
+          ]
+        },
+        {
+          "text": "Wildlife & Nature",
+          "url": "https://anuraklodge.com/national-parks-and-sanctuaries/wildlife-nature/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/national-parks-and-sanctuaries/wildlife-nature/",
+              "anchor_text": "Wildlife & Nature"
+            }
+          ]
+        },
+        {
+          "text": "PACKAGES & SPECIALS",
+          "url": "https://anuraklodge.com/packages-specials/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/packages-specials/",
+              "anchor_text": "PACKAGES & SPECIALS"
+            }
+          ]
+        },
+        {
+          "text": "Rainforest Rising",
+          "url": "https://anuraklodge.com/sustainability/rainforest-rising/",
+          "urls": [
+            {
+              "url": "https://anuraklodge.com/sustainability/rainforest-rising/",
+              "anchor_text": "Rainforest Rising"
+            }
+          ]
+        },
+        {
+          "text": "Anurak Lodge 14/1 Moo 4, Klong Sok, Phanom,",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Surat Thani, 84250 Thailand",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Phone : +6681 898 9271",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Reservations :",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Phone +6681 309 5477",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "VHG Hospitality Asia",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Remember Me",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Rooms & Amenities",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Escape to the jungle with your own secluded hideaway in the world’s oldest rainforest, Khao Sok National Park. Set in six hectares of lush tropical gardens right on the boundary of Khao Sok, Anurak Community Lodge offers 19 eco-friendly rooms across 12 beautifully appointed bungalows and one safari-style tent.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Tucked beneath a canopy of palm trees, all of our accommodations feature en suite bathrooms with rain showers and hot water, plus natural soap and shampoo in refillable containers, and are fitted with both air-conditioning and high-ceiling fans, as well as mosquito netting canopies above each bed. Large wrap-around balconies with chairs and a table provide you with your own private spot to take in the panoramic views of the surrounding jungle scenery.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Following eco-friendly practices to ensure we protect the surrounding rainforest and limit carbon emissions, you can be sure your stay at Anurak Community Lodge will be environmentally-friendly.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Deluxe Green Bungalow",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Overlooking our evergreen jungle gardens and the surrounding limestone karsts, our private Deluxe Green Bungalow features a comfortable king-sized bed with soft linen sheets and duvet. Ideally suited for couples looking for a peaceful jungle retreat, this 25-square meter bungalow provides you with ample space to add extra mattresses for children too.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Deluxe Eco Double Room",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Perfect for families or groups of friends, our Deluxe Eco Double Room features a large queen-sized bed with linen sheets and duvet, plus all of your creature comforts to provide you with a comfortable jungle hideaway. Fitted with interlocking doors, these rooms can be connected with the Deluxe Eco Twin Room upon request, so you can share in the experience with your loved ones.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Deluxe Eco Twin Room",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Situated just next door to our Deluxe Eco Double Room, our Deluxe Eco Twin Room is ideally suited for families or friends traveling together and offers two comfortable single beds with linen sheets and duvets, as well as all basic amenities. Featuring interlocking doors, these rooms may be connected with the neighboring Deluxe Eco Double Room upon request and converted into a large two-bedroom bungalow.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Superior Bungalow",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Offering expansive views of Khao Sok’s iconic limestone karsts, our charming fully-furnished safari-style tents are a sanctuary for the senses; allowing you to reconnect with nature while affording you all the comforts required to fully immerse yourself in the world’s oldest rainforest. Our Comfort Safari comfortably sleep two persons, but extra mattresses for children can be added upon request.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Lodge Guidelines",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Check-in from 2:00 P.M.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Early check-in subject to availability",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Minimum check-in age – 18",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Check-out before noon",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Express check-out",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Rooms & Amenities",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Amenities",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "En suite bathroom with rain shower",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "High-ceiling fan",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Refillable shower gel & shampoo",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Mosquito net canopy over each bed",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hot water",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Large wrap-around balcony with chairs and table",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Air-conditioning",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Scenic jungle views",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Wifi",
+        "main_title": "Rooms & Amenities",
+        "author": "Anurak Lodge",
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "+66818989271",
+        "+66813095477"
+      ],
+      "emails": null
+    }
+  }
+}

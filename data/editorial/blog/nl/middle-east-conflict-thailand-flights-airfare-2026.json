@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "middle-east-conflict-thailand-flights-airfare-2026",
+  "route": "/nl/blog/middle-east-conflict-thailand-flights-airfare-2026/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand-vlucht via Midden-Oosten: actuele check | Go2Thailand",
+    "description": "Controleer vluchtstatus, overstap, ticketvoorwaarden en reisadvies voor een Thailand-route via het Midden-Oosten, zonder prijsbelofte.",
+    "primaryKeyword": "Thailand vlucht via Midden-Oosten",
+    "secondaryKeywords": ["vluchtverstoring Thailand", "overstap Dubai Thailand", "vliegticket Thailand routecheck"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/middle-east-conflict-thailand-flights-airfare-2026/"
+  },
+  "hero": {
+    "eyebrow": "Bijgewerkt op 1 augustus 2026",
+    "title": "Controleer je eigen vlucht naar Thailand",
+    "accent": "Route en maatschappij zijn leidend",
+    "description": "Niet iedere vlucht is geraakt. Controleer uitvoering, transit en voorwaarden rechtstreeks voordat je een alternatief koopt.",
+    "image": "/images/redesign/editorial/middle-east-conflict-thailand-flights-airfare-2026-hero.webp",
+    "imageAlt": "Twee reizigers controleren hun telefoons bij een vertrekhal met een vliegtuig buiten",
+    "primaryCta": { "label": "Doe de vluchtcheck", "href": "#vluchtcheck" },
+    "secondaryCta": { "label": "Bij een wijziging", "href": "#verstoring" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "developing", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Midden-Oostenroutes kunnen per maatschappij en datum aangepast zijn. CAAT, KLM en NederlandWereldwijd adviseren reizigers de eigen vlucht en overstap rechtstreeks te controleren; er is geen betrouwbaar vast prijs- of annuleringspercentage voor alle Thailand-vluchten.",
+  "blocks": [
+    { "kind": "steps", "id": "vluchtcheck", "title": "Controleer vóór je betaalt", "steps": [
+      { "title": "Bekijk de uitvoerende maatschappij", "description": "Een verkooppartij en vluchtnummer vertellen niet altijd wie ieder segment uitvoert." },
+      { "title": "Controleer de transit", "description": "Lees actuele toegang, minimumtijd en bagagedoorlabeling voor de overstapluchthaven." },
+      { "title": "Lees de ticketvoorwaarden", "description": "Vergelijk wijziging, annulering, no-show en bescherming bij gemiste aansluiting." },
+      { "title": "Herhaal vlak voor vertrek", "description": "Gebruik actuele maatschappijmeldingen en officiële reisadviezen; statische data verouderen snel." }
+    ] },
+    { "kind": "comparison", "id": "routekeuze", "title": "Direct of met overstap", "options": [
+      { "title": "Directe vlucht", "description": "Minder overdrachten, maar niet automatisch goedkoper of vrij van verstoring.", "label": "Eén segment" },
+      { "title": "Eén doorgaand ticket", "description": "Een overstap kan praktisch zijn; controleer wie verantwoordelijk is bij een wijziging.", "label": "Verbonden reis" },
+      { "title": "Losse tickets", "description": "Meer eigen controle, maar vaak ook meer eigen risico bij vertraging en bagage.", "label": "Extra check" }
+    ] },
+    { "kind": "checklist", "id": "verstoring", "title": "Als je vlucht wordt aangepast", "items": ["Vraag eerst opties bij de maatschappij", "Boek niet direct zelf een vervanger", "Laat herboeking of terugbetaling schriftelijk bevestigen", "Controleer accommodatie en bagage", "Bel je verzekeraar vóór extra kosten", "Bewaar boekingscodes en contacten offline"] },
+    { "kind": "callout", "id": "prijsgrens", "tone": "warning", "title": "Geen vast prijspercentage", "description": "Tarieven hangen af van datum, route, capaciteit, brandstof, boekingsklasse en voorwaarden. Vergelijk de actuele totaalreis, niet een oude algemene stijgingsclaim." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Zijn alle vluchten naar Thailand geraakt?", "answer": "Nee. De impact verschilt per maatschappij, route en datum." },
+      { "question": "Worden tickets standaard duurder?", "answer": "Er is geen betrouwbaar vast percentage voor alle routes; vergelijk actuele totale kosten en voorwaarden." },
+      { "question": "Is direct vliegen altijd de veiligste keuze?", "answer": "Deze pagina rangschikt geen routeveiligheid. Autoriteiten en maatschappijen bepalen operationele routes." },
+      { "question": "Waar controleer ik mijn overstap?", "answer": "Begin bij de uitvoerende maatschappij en gebruik daarnaast officiële reisadviezen en je verzekeraar." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Actuele primaire en Nederlandse bronnen", "items": [
+      { "title": "Middle East flights gradually resume", "publisher": "Civil Aviation Authority of Thailand", "url": "https://www.caat.or.th/caat-media/199637/", "checkedAt": "2026-08-01", "note": "CAAT benadrukt routeverschillen en controle bij de maatschappij." },
+      { "title": "Travel alerts and disruptions", "publisher": "KLM", "url": "https://www.klm.nl/en/information/travel-alerts", "checkedAt": "2026-08-01", "note": "Dynamische maatschappijstatus; concrete data moeten live worden hercontroleerd." },
+      { "title": "Veelgestelde vragen over de situatie in het Midden-Oosten", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/crisis/midden-oosten", "checkedAt": "2026-08-01", "note": "Advies voor reizigers met een overstap naar of vanuit Azië." }
+    ] },
+    { "kind": "related", "id": "planning", "title": "Maak je reisplan robuuster", "items": [
+      { "title": "Reisverzekering Thailand", "description": "Controleer dekking, uitsluitingen en contactmoment vóór betaling.", "href": "/nl/blog/travel-insurance-thailand-guide/" },
+      { "title": "Eerste keer Thailand", "description": "Zet documenten, aankomst en vervoer in de juiste volgorde.", "href": "/nl/thailand-for-first-timers/" },
+      { "title": "Reisadvies Thailand", "description": "Lees actuele Nederlandse veiligheidsinformatie.", "href": "https://www.nederlandwereldwijd.nl/reisadvies/thailand" }
+    ] }
+  ]
+}

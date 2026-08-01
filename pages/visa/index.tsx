@@ -9,6 +9,8 @@ import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPa
 import { getAllVisas } from '../../lib/visas';
 import { useT } from '../../lib/i18n';
 import { strings as i18nStrings } from '../../lib/i18n/visa-index';
+import ThailandVisaGuide from '../../components/visa/ThailandVisaGuide';
+import ThailandVisaGuideEn from '../../components/visa/ThailandVisaGuideEn';
 
 interface Visa {
   id: number;
@@ -27,6 +29,15 @@ interface VisaPageProps {
 export default function VisaIndexPage({ visas }: VisaPageProps) {
   const t = useT(i18nStrings);
   const { locale } = useRouter();
+
+  if (locale === 'nl') {
+    return <ThailandVisaGuide />;
+  }
+
+  if (locale !== 'nl') {
+    return <ThailandVisaGuideEn />;
+  }
+
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
   const isNl = lang === 'nl';
@@ -444,7 +455,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
             </h2>
             <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-4">
               <Link
-                href="/travel-insurance-thailand/"
+                href="/travel-insurance/"
                 className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-5 group flex flex-col items-start gap-3"
               >
                 <span className="text-3xl"></span>
@@ -524,7 +535,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Travel Insurance', href: '/travel-insurance-thailand/', internal: true },
+            { label: 'Travel Insurance', href: '/travel-insurance/', internal: true },
             { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
             { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
             { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },

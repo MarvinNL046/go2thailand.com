@@ -1,0 +1,39 @@
+{
+  "captured_at": "2026-07-26T16:08:24.846Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "airalo vs saily thailand",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "airalo vs saily thailand",
+    "saily vs airalo thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "saily vs airalo thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "airalo vs saily thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

@@ -1,0 +1,1042 @@
+{
+  "captured_at": "2026-07-28T19:12:00.715Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "snorkeling koh tao",
+  "costs": {
+    "suggestions": 0.02064,
+    "related": 0.0126,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "snorkeling koh tao",
+    "koh tao snorkeling",
+    "koh tao snorkeling tour",
+    "koh tao snorkeling tours",
+    "koh tao thailand snorkeling",
+    "snorkeling in koh tao",
+    "snorkeling tour koh tao",
+    "snorkeling trip koh tao",
+    "snorkeling trips koh tao",
+    "koh tao shark bay snorkeling",
+    "shark bay koh tao snorkeling",
+    "shark bay snorkeling koh tao",
+    "snorkeling shark bay koh tao",
+    "best beaches in koh tao for snorkeling",
+    "best snorkeling beach koh tao",
+    "best snorkeling in koh tao",
+    "best snorkeling koh tao",
+    "best snorkeling on koh tao",
+    "best snorkeling spots koh tao"
+  ],
+  "keywords": [
+    {
+      "keyword": "koh tao snorkeling",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling tour",
+      "volume": 50,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling tours",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao thailand snorkeling",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling in koh tao",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling koh tao",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "snorkeling tour koh tao",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling trip koh tao",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling trips koh tao",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao shark bay snorkeling",
+      "volume": 20,
+      "kd": 39,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shark bay koh tao snorkeling",
+      "volume": 20,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shark bay snorkeling koh tao",
+      "volume": 20,
+      "kd": 39,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling shark bay koh tao",
+      "volume": 20,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beaches in koh tao for snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling beach koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling in koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best snorkeling on koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling spots koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling tour koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "diamond tour snorkeling koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "freedom beach koh tao snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "half day snorkeling koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao & koh nang yuan snorkeling tour",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao best snorkeling spots",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao private snorkeling tour",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling day trip",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling from koh phangan",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling from koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling spots",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling tour from koh phangan",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling tour from koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling tour half day",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling tour half-day",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling turtles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao turtle snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao whale shark snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mango bay koh tao snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "oxygen koh tao snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "oxygen snorkeling koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "oxygen snorkeling tour koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "private snorkeling koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "private snorkeling tour koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "shark island koh tao snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling koh tao from koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "snorkeling koh tao price",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling spots koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tanote bay koh tao snorkeling",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "we travel snorkeling koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "whale shark snorkeling koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling tour price",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling trip advisor",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "around island koh tao snorkeling trips",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place to stay in koh tao for snorkeling",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling from beach koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best snorkeling spots on koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "freedom beach snorkeling koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh nang yuan koh tao snorkeling tour",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui snorkeling trip to koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao kayaking snorkeling",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao shark snorkeling",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling reviews",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao snorkeling tripadvisor",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "night snorkeling koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling cruise koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling koh tao from koh phangan",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling mango bay koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "snorkeling trips from koh samui to koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.oxygentourskohtao.com",
+      "avgPosition": 3.2222222222222223,
+      "keywordCount": 6,
+      "visibility": 7.15,
+      "estimatedTraffic": 86.755
+    },
+    {
+      "domain": "www.unseentourskohtao.com",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 6,
+      "visibility": 2.8499999999999996,
+      "estimatedTraffic": 24.99
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 2,
+      "keywordCount": 7,
+      "visibility": 6.3,
+      "estimatedTraffic": 79.756
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2.7142857142857144,
+      "keywordCount": 7,
+      "visibility": 5.8,
+      "estimatedTraffic": 54.812000000000005
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 16.75,
+      "keywordCount": 7,
+      "visibility": 1.25,
+      "estimatedTraffic": 7.352
+    },
+    {
+      "domain": "www.vagabonddisposition.com",
+      "avgPosition": 6.428571428571429,
+      "keywordCount": 7,
+      "visibility": 3.7499999999999996,
+      "estimatedTraffic": 42.629999999999995
+    },
+    {
+      "domain": "www.blackturtledive.com",
+      "avgPosition": 8.428571428571429,
+      "keywordCount": 7,
+      "visibility": 2.25,
+      "estimatedTraffic": 9.46
+    },
+    {
+      "domain": "www.backpackerswanderlust.com",
+      "avgPosition": 8.714285714285714,
+      "keywordCount": 7,
+      "visibility": 3.4499999999999997,
+      "estimatedTraffic": 19.996
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 9.714285714285714,
+      "keywordCount": 7,
+      "visibility": 1.5499999999999998,
+      "estimatedTraffic": 7.379999999999999
+    },
+    {
+      "domain": "www.thefunkyturtle.com",
+      "avgPosition": 11,
+      "keywordCount": 7,
+      "visibility": 1.1500000000000001,
+      "estimatedTraffic": 4.884
+    },
+    {
+      "domain": "www.islandtravelkohtao.com",
+      "avgPosition": 15,
+      "keywordCount": 7,
+      "visibility": 2.25,
+      "estimatedTraffic": 9.064000000000002
+    },
+    {
+      "domain": "www.kohtaocompleteguide.com",
+      "avgPosition": 18.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.5,
+      "estimatedTraffic": 3.673
+    },
+    {
+      "domain": "www.weseektravel.com",
+      "avgPosition": 21,
+      "keywordCount": 7,
+      "visibility": 0.75,
+      "estimatedTraffic": 6.196999999999999
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 22.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.6290000000000002
+    },
+    {
+      "domain": "phanganist.com",
+      "avgPosition": 23.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.4020000000000001
+    },
+    {
+      "domain": "thelavendertravelers.com",
+      "avgPosition": 11.166666666666666,
+      "keywordCount": 6,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 4.38
+    },
+    {
+      "domain": "www.saireecottagediving.com",
+      "avgPosition": 25.428571428571427,
+      "keywordCount": 7,
+      "visibility": 1.1500000000000001,
+      "estimatedTraffic": 5.729
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 30.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.45,
+      "estimatedTraffic": 2.374
+    },
+    {
+      "domain": "sandinmysuitcase.com",
+      "avgPosition": 19.5,
+      "keywordCount": 6,
+      "visibility": 0.25,
+      "estimatedTraffic": 1.34
+    },
+    {
+      "domain": "dorisgonediving.com",
+      "avgPosition": 22.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.45,
+      "estimatedTraffic": 4.2940000000000005
+    },
+    {
+      "domain": "www.kohtaosnorkeling.com",
+      "avgPosition": 27,
+      "keywordCount": 6,
+      "visibility": 0.4,
+      "estimatedTraffic": 2.18
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 19,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.576
+    },
+    {
+      "domain": "theboldpassport.com",
+      "avgPosition": 10,
+      "keywordCount": 4,
+      "visibility": 2.5,
+      "estimatedTraffic": 50.825
+    },
+    {
+      "domain": "themanduls.com",
+      "avgPosition": 30.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.5449999999999999
+    },
+    {
+      "domain": "kohsamui.tours",
+      "avgPosition": 13.5,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.3
+    },
+    {
+      "domain": "thebackpackingfamily.com",
+      "avgPosition": 32.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "www.travelmag.com",
+      "avgPosition": 52.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "www.citrusreef.com",
+      "avgPosition": 48.5,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.861
+    },
+    {
+      "domain": "www.click2gothailand.com",
+      "avgPosition": 40.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 27,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.595
+    },
+    {
+      "domain": "onaplaneagain.com",
+      "avgPosition": 53.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 0.819
+    },
+    {
+      "domain": "southeastasiabackpacker.com",
+      "avgPosition": 31,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.425
+    },
+    {
+      "domain": "www.samuiislandexplorer.com",
+      "avgPosition": 32,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.48
+    },
+    {
+      "domain": "www.ticket2attraction.com",
+      "avgPosition": 47.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "wonderlandkohtao.com",
+      "avgPosition": 34.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.42
+    },
+    {
+      "domain": "mummyconstant.com",
+      "avgPosition": 14,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 2.135
+    },
+    {
+      "domain": "www.bambootravel.co.uk",
+      "avgPosition": 49.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "www.travelersuniverse.com",
+      "avgPosition": 50.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "silentdivers.com",
+      "avgPosition": 19.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "kohtaodiamondtour.com",
+      "avgPosition": 40.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.42
+    },
+    {
+      "domain": "www.budgetyourtrip.com",
+      "avgPosition": 41.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.42
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 41.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.637
+    },
+    {
+      "domain": "www.tripstorekrabi.com",
+      "avgPosition": 41.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.42
+    },
+    {
+      "domain": "www.tripoto.com",
+      "avgPosition": 33,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.315
+    },
+    {
+      "domain": "gotothailand.com",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.47
+    },
+    {
+      "domain": "nitrokohtao.com",
+      "avgPosition": 58.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.42
+    },
+    {
+      "domain": "goodtimethailand.com",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 4.970000000000001
+    },
+    {
+      "domain": "newheavendiveschool.com",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.235
+    },
+    {
+      "domain": "happytovisit.com",
+      "avgPosition": 47,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.504
+    },
+    {
+      "domain": "tourchecker.com",
+      "avgPosition": 61,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.42
+    }
+  ]
+}

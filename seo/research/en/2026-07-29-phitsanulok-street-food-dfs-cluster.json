@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T16:32:21.231Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "phitsanulok street food",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "phitsanulok street food"
+  ],
+  "keywords": [
+    {
+      "keyword": "phitsanulok street food",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

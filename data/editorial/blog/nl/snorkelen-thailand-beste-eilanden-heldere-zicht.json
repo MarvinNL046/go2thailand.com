@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "snorkelen-thailand-beste-eilanden-heldere-zicht",
+  "route": "/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/",
+  "cluster": "attractions",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Snorkelen Thailand: samengevoegde route | Go2Thailand",
+    "description": "Deze oude eilandenlijst is samengevoegd met de complete gids voor duiken en snorkelen in Thailand.",
+    "primaryKeyword": "snorkelen Thailand oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde snorkelkeuze",
+    "title": "Helder water is geen garantie",
+    "accent": "Kies op regio én condities",
+    "description": "De centrale snorkelgids vergelijkt kust, boottour en duiken zonder vaste zicht- of wildlifeclaims.",
+    "image": "/images/redesign/editorial/snorkelen-thailand-beste-eilanden-heldere-zicht-hero.webp",
+    "imageAlt": "Snorkelaar boven een tropisch rif in helder Thais kustwater",
+    "primaryCta": { "label": "Open de snorkelgids", "href": "/nl/travel-guides/diving-snorkeling-thailand/" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze oude lijst concurreert met de complete owner voor duiken en snorkelen. Gebruik die gids voor regio, seizoen, zwemniveau en veiligheidschecks.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Eén actuele snorkelowner", "description": "Zicht, stroming, parktoegang en tourstops veranderen. De centrale gids voorkomt dubbele lijstjes en maakt onzekerheid zichtbaar.", "cta": { "label": "Vergelijk snorkelopties", "href": "/nl/travel-guides/diving-snorkeling-thailand/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Veiligheids- en parkbronnen", "items": [
+      { "title": "Department of National Parks", "publisher": "DNP Thailand", "url": "https://www.dnp.go.th/", "checkedAt": "2026-08-01", "note": "Controlepunt voor parkstatus en lokale regels." },
+      { "title": "Snorkeling safety", "publisher": "Divers Alert Network", "url": "https://dan.org/alert-diver/article/snorkeling-safety/", "checkedAt": "2026-08-01", "note": "Algemene veiligheidsprincipes; lokale briefing blijft leidend." }
+    ] }
+  ]
+}

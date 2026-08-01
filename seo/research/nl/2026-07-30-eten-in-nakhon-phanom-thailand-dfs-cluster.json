@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-30T21:09:57.515Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "eten in nakhon phanom thailand",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "eten in nakhon phanom thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "eten in nakhon phanom thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

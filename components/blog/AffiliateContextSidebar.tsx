@@ -32,11 +32,11 @@ const HotelBlock = () => {
     <h3 className="text-xl font-bold font-heading mb-3">{t("s001_find_your_hotel")}</h3>
     <p className="text-sm text-gray-600 mb-4">{t("s002_compare_prices_across_thailand")}</p>
     <div className="space-y-3">
-      <a href="https://trip.tpo.lv/TmObooZ5?subid=blog-hotels" target="_blank" rel="noopener noreferrer"
+      <a href="https://trip.tpo.lv/TmObooZ5?subid=blog-hotels" target="_blank" rel="noopener noreferrer nofollow sponsored"
         className="block bg-thailand-blue text-white text-center px-4 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors">
         {t("s003_search_hotels_on_trip")}
       </a>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog-hotels" target="_blank" rel="noopener noreferrer"
+      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog-hotels" target="_blank" rel="noopener noreferrer nofollow sponsored"
         className="block bg-white text-thailand-blue text-center px-4 py-2.5 rounded-xl font-semibold border-2 border-thailand-blue hover:bg-thailand-blue hover:text-white transition-colors text-sm">
         Booking.com
       </a>
@@ -51,11 +51,11 @@ const TransportBlock = () => {
   <div className="bg-white rounded-2xl shadow-md p-6">
     <h3 className="text-xl font-bold font-heading mb-3">{t("s005_book_transport")}</h3>
     <p className="text-sm text-gray-600 mb-4">{t("s006_buses_trains_ferries_amp")}</p>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog-transport" target="_blank" rel="noopener noreferrer"
+    <a href="https://12go.tpo.lv/tNA80urD?subid=blog-transport" target="_blank" rel="noopener noreferrer nofollow sponsored"
       className="block bg-thailand-red text-white text-center px-4 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors mb-3">
       {t("s007_search_on_12go_asia")}
     </a>
-    <a href="https://trip.tpo.lv/TmObooZ5?subid=blog-transport" target="_blank" rel="noopener noreferrer"
+    <a href="https://trip.tpo.lv/TmObooZ5?subid=blog-transport" target="_blank" rel="noopener noreferrer nofollow sponsored"
       className="block bg-white text-thailand-blue text-center px-4 py-2.5 rounded-xl font-semibold border-2 border-thailand-blue hover:bg-thailand-blue hover:text-white transition-colors text-sm">
       {t("s008_trip_com_flights")}
     </a>
@@ -70,11 +70,11 @@ const FoodBlock = () => {
     <h3 className="text-xl font-bold font-heading mb-3">{t("s010_food_tours_amp_cooking")}</h3>
     <p className="text-sm text-gray-600 mb-4">{t("s011_experience_thai_cuisine_with")}</p>
     <div className="space-y-3">
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog-food" target="_blank" rel="noopener noreferrer"
+      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog-food" target="_blank" rel="noopener noreferrer nofollow sponsored"
         className="block bg-thailand-red text-white text-center px-4 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
         {t("s012_food_tours_on_klook")}
       </a>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog-food" target="_blank" rel="noopener noreferrer"
+      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog-food" target="_blank" rel="noopener noreferrer nofollow sponsored"
         className="block bg-white text-thailand-red text-center px-4 py-2.5 rounded-xl font-semibold border-2 border-thailand-red hover:bg-thailand-red hover:text-white transition-colors text-sm">
         {t("s013_getyourguide_tours")}
       </a>
@@ -94,14 +94,14 @@ const VisaBlock = () => {
     <div className="bg-surface-dark text-white rounded-2xl p-6">
       <h3 className="text-xl font-bold font-heading mb-2">{t("s016_travel_insurance")}</h3>
       <p className="text-sm opacity-90 mb-4">{t("s017_many_visas_require_travel")}</p>
-      <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
+      <Link href="/travel-insurance/" className="block bg-thailand-red text-white text-center px-4 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
         {t("s018_compare_insurance")}
       </Link>
     </div>
     <div className="bg-white rounded-2xl shadow-md p-6">
       <h3 className="text-xl font-bold font-heading mb-2">{t("s019_stay_secure_online")}</h3>
       <p className="text-sm text-gray-600 mb-4">{t("s020_protect_your_data_while")}</p>
-      <a href="https://nordvpn.tpo.lv/ekHF1i55?subid=blog-visa" target="_blank" rel="noopener noreferrer"
+      <a href="https://nordvpn.tpo.lv/ekHF1i55?subid=blog-visa" target="_blank" rel="noopener noreferrer nofollow sponsored"
         className="block bg-[#4687FF] text-white text-center px-4 py-2.5 rounded-xl font-semibold hover:opacity-90 transition-colors">
         NordVPN
       </a>
@@ -116,11 +116,11 @@ const BeachBlock = () => {
     <h3 className="text-xl font-bold font-heading mb-3">{t("s021_island_activities")}</h3>
     <p className="text-sm text-gray-600 mb-4">{t("s022_snorkeling_diving_island_hopping")}</p>
     <div className="space-y-3">
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog-beach" target="_blank" rel="noopener noreferrer"
+      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog-beach" target="_blank" rel="noopener noreferrer nofollow sponsored"
         className="block bg-thailand-blue text-white text-center px-4 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors">
         {t("s023_beach_activities_on_klook")}
       </a>
-      <a href="https://trip.tpo.lv/TmObooZ5?subid=blog-beach" target="_blank" rel="noopener noreferrer"
+      <a href="https://trip.tpo.lv/TmObooZ5?subid=blog-beach" target="_blank" rel="noopener noreferrer nofollow sponsored"
         className="block bg-white text-thailand-blue text-center px-4 py-2.5 rounded-xl font-semibold border-2 border-thailand-blue hover:bg-thailand-blue hover:text-white transition-colors text-sm">
         {t("s024_island_hotels_on_trip")}
       </a>
@@ -136,11 +136,11 @@ const DefaultBlock = () => {
     <div className="bg-white rounded-2xl shadow-md p-6">
       <h3 className="text-xl font-bold font-heading mb-3">{t("s026_book_hotels")}</h3>
       <div className="space-y-3">
-        <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer"
+        <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer nofollow sponsored"
           className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm">
           Booking.com
         </a>
-        <a href="https://trip.tpo.lv/TmObooZ5?subid=blog" target="_blank" rel="noopener noreferrer"
+        <a href="https://trip.tpo.lv/TmObooZ5?subid=blog" target="_blank" rel="noopener noreferrer nofollow sponsored"
           className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm">
           Trip.com
         </a>
@@ -150,11 +150,11 @@ const DefaultBlock = () => {
     <div className="bg-white rounded-2xl shadow-md p-6">
       <h3 className="text-xl font-bold font-heading mb-3">{t("s028_tours_amp_activities")}</h3>
       <div className="space-y-3">
-        <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer"
+        <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer nofollow sponsored"
           className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm">
           {t("s029_klook_activities")}
         </a>
-        <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer"
+        <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer nofollow sponsored"
           className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm">
           {t("s013_getyourguide_tours")}
         </a>
@@ -170,7 +170,7 @@ const EsimBlock = () => {
   <div className="bg-white rounded-2xl shadow-md p-6">
     <h3 className="text-xl font-bold font-heading mb-2">{t("s032_thailand_esim")}</h3>
     <p className="text-sm text-gray-600 mb-4">{t("s033_stay_connected_in_thailand")}</p>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer"
+    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer nofollow sponsored"
       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2">
       {t("s034_saily_esim")}
     </a>
@@ -202,11 +202,11 @@ export default function AffiliateContextSidebar({ slug, category, tags }: Affili
         <div className="bg-white rounded-2xl shadow-md p-6">
           <h3 className="text-xl font-bold font-heading mb-3">{t("s028_tours_amp_activities")}</h3>
           <div className="space-y-3">
-            <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer"
+            <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer nofollow sponsored"
               className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm">
               {t("s029_klook_activities")}
             </a>
-            <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer"
+            <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer nofollow sponsored"
               className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm">
               {t("s013_getyourguide_tours")}
             </a>
@@ -227,7 +227,7 @@ export default function AffiliateContextSidebar({ slug, category, tags }: Affili
       {intent !== 'transport' && (
         <div className="bg-white rounded-2xl shadow-md p-6">
           <h3 className="text-xl font-bold font-heading mb-3">Transport</h3>
-          <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer"
+          <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer nofollow sponsored"
             className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2">
             12Go Asia - Book Transport
           </a>

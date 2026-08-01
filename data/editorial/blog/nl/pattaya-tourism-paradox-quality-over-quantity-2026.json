@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "pattaya-tourism-paradox-quality-over-quantity-2026",
+  "route": "/nl/blog/pattaya-tourism-paradox-quality-over-quantity-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Pattaya kwaliteitstoerisme: wat weten we echt? | Go2Thailand",
+    "description": "De claim minder bezoekers en meer omzet is niet stevig onderbouwd. Bekijk wat officiële bronnen wel bevestigen over kwaliteitstoerisme.",
+    "primaryKeyword": "Pattaya toerisme 2026",
+    "secondaryKeywords": ["kwaliteitstoerisme Pattaya", "value over volume Thailand", "Pattaya bezoekers"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/pattaya-tourism-paradox-quality-over-quantity-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Broncheck in plaats van paradox",
+    "title": "Wat weten we echt over Pattaya?",
+    "accent": "Nationale cijfers zijn geen stadscijfers",
+    "description": "TAT bevestigt een strategie van kwaliteit boven volume. De oude claim over minder bezoekers en meer omzet is niet bewezen met vergelijkbare stadsdata.",
+    "image": "/images/redesign/editorial/pattaya-tourism-paradox-quality-over-quantity-2026-hero.webp",
+    "imageAlt": "Longtailboot aan het strand van Pattaya met de stad op de achtergrond",
+    "primaryCta": { "label": "Bekijk de broncheck", "href": "#broncheck" },
+    "secondaryCta": { "label": "Kies kwaliteit", "href": "#kwaliteit" }
+  },
+  "layout": {
+    "kind": "news-update",
+    "newsStatus": "archived",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "TAT stuurt op Value over Volume, maar de specifieke Pattaya-claim ‘minder bezoekers, meer inkomsten’ is zonder vergelijkbare actuele stadsdata niet bewezen.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "broncheck",
+      "tone": "warning",
+      "title": "Straatindruk is geen toerismestatistiek",
+      "description": "Nationale aankomsten, provinciale hotelgasten, dagbezoekers en Koh Larn-passagiers meten verschillende populaties en mogen niet als één Pattaya-totaal worden gebruikt."
+    },
+    {
+      "kind": "checklist",
+      "id": "kwaliteit",
+      "title": "Kies aantoonbare kwaliteit",
+      "items": [
+        "Concrete veiligheidsprocedure en actuele vergunning waar relevant",
+        "Transparante totaalprijs en annuleringsvoorwaarden",
+        "Groepsgrootte en weersbeleid bij bootactiviteiten",
+        "Recente locatiegerichte beoordelingen",
+        "Duidelijke omgang met natuur, afval en lokale gemeenschap"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Komen er minder toeristen naar Pattaya?", "answer": "Deze route heeft geen actuele officiële stadstotaaldata die dat hard bewijzen." },
+        { "question": "Verdient Pattaya meer met minder bezoekers?", "answer": "Niet bewezen met vergelijkbare openbare stadsdata over dezelfde periode en definitie." },
+        { "question": "Wat bedoelt TAT met Value over Volume?", "answer": "Een richting naar hogere waarde, vertrouwen, duurzaamheid, wellness en bredere lokale voordelen." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Strategie- en databronnen",
+      "items": [
+        { "title": "2026 tourism outlook recalibrated", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/04/tat-refocuses-on-value-over-volume-as-2026-tourism-outlook-is-recalibrated/", "checkedAt": "2026-08-01" },
+        { "title": "Quality-led growth at TTM+ 2026", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/06/thailand-tourism-update-at-ttm-2026-reinforces-quality-led-growth-direction/", "checkedAt": "2026-08-01" },
+        { "title": "Pattaya destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/pattaya/469", "checkedAt": "2026-08-01" },
+        { "title": "Koh Larn visitor dataset", "publisher": "Pattaya Data Platform", "url": "https://data.pattaya.go.th/dataset/172/resource/146d28bd-a346-413c-9e87-ef905cc011d1", "checkedAt": "2026-08-01", "note": "Afzonderlijke eilanddataset; niet gebruikt als totaal voor Pattaya." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "plan-pattaya",
+      "title": "Plan op basis van je eigen reis",
+      "items": [
+        { "title": "Pattaya-gids", "description": "Vergelijk stranden, wijken en activiteiten.", "href": "/nl/city/pattaya/" },
+        { "title": "Hotels in Pattaya", "description": "Controleer locatie en actuele voorwaarden.", "href": "/nl/best-hotels/pattaya/" },
+        { "title": "Veilig reizen", "description": "Gebruik een praktisch veiligheidskader.", "href": "/nl/is-thailand-safe/" }
+      ]
+    }
+  ]
+}

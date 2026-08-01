@@ -31,7 +31,7 @@ Een reis naar Thailand plannen en verward door de **Thailand visum** regels? Dat
 
 | Vraag | Kort Antwoord |
 |-------|---------------|
-| Hoe lang mag ik zonder visum blijven? | **Visumvrije toegang** geeft momenteel **60 dagen** voor 90+ nationaliteiten, maar wordt teruggebracht naar **30 dagen** (datum onbekend) -- [zie details](/visa/visa-free-entry/) |
+| Hoe lang mag ik zonder visum blijven? | **Visumvrije toegang** geeft voor Nederlandse paspoorthouders bij de actuele broncontrole maximaal **60 dagen**; een wijziging is aangekondigd maar nog niet formeel ingegaan -- [zie actuele status](/visa/) |
 | Kan ik mijn verblijf verlengen? | Ja, een **visumverlenging** van 30 dagen kost 1.900 THB bij elk immigratiekantoor -- [verlengingsgids](/visa/visa-extension/) |
 | Wat is het DTV-visum? | Het **Destination Thailand Visa** is een **digitale nomaden** visum voor 180 dagen per entry -- [volledige DTV-gids](/visa/digital-nomad-visa/) |
 | Welk visum voor een vakantie korter dan 90 dagen? | Gebruik **visumvrije toegang** (60 dagen) + 30 dagen verlenging, of vraag vooraf een **toeristenvisum** aan -- [toeristenvisum pagina](/visa/tourist-visa/) |
@@ -55,7 +55,7 @@ Sinds medio 2024 heeft Thailand de **visumvrije** verblijfsperiode verlengd van 
 - Bewijs van verdere reis (retourvlucht of ticket naar een ander land)
 - Voldoende financiele middelen (20.000 THB per persoon of 40.000 THB per gezin -- wordt zelden gecontroleerd maar is technisch gezien vereist)
 
-Je ontvangt bij aankomst een **stempel voor 60 dagen** op elke internationale luchthaven of landgrensovergang. Voor de volledige lijst met landen en voorwaarden, zie onze [visumvrije toegang pagina](/visa/visa-free-entry/).
+Je ontvangt als Nederlandse reiziger bij de actuele regels een **stempel voor maximaal 60 dagen**. Controleer voor vertrek de voorwaarden en aangekondigde wijziging in onze [actuele visumgids](/visa/).
 
 > **Pro Tip:** Als 60 dagen niet genoeg is, kun je je **visumvrije** verblijf met 30 dagen verlengen bij elk **immigratie** kantoor in Thailand voor 1.900 THB. Dat geeft je in totaal 90 dagen zonder dat je vooraf een visum hoeft aan te vragen. Lees onze [visumverlengingsgids](/visa/visa-extension/) voor een stap-voor-stap uitleg.
 
@@ -71,7 +71,7 @@ Als je weet dat je langer dan 60 dagen wilt blijven, vraag dan voor vertrek een 
 - Bankafschrift met minimaal equivalent van 20.000 THB
 - Kosten: varieert per land (doorgaans 35-40 EUR)
 
-Voor de meeste reizigers uit visumvrije landen is de [visumvrije 60-dagen-toegang](/visa/visa-free-entry/) ruim voldoende. Het **toeristenvisum** is vooral handig als je de zekerheid wilt van een vooraf goedgekeurd langer verblijf.
+Voor de meeste reizigers uit visumvrije landen is de [actuele visumvrije route](/visa/) ruim voldoende. Het **toeristenvisum** is vooral handig als je de zekerheid wilt van een vooraf goedgekeurd langer verblijf.
 
 ## 3. Multiple Entry Visa (MEV) — Tot 270 Dagen
 
@@ -93,7 +93,7 @@ Het **Multiple Entry Visa (MEV)** is een gloednieuwe optie in 2026 en is perfect
 
 **Kosten:** $150-250 USD afhankelijk van je land. Elke 30-dagenverlenging bij immigratie kost 1.900 THB.
 
-Het MEV is bijzonder aantrekkelijk nu de [visumvrije toegang](/visa/visa-free-entry/) wordt teruggebracht van 60 naar 30 dagen. Als je meerdere bezoeken plant binnen 6 maanden, biedt dit visum gegarandeerde 60-dagenbinnenkomsten zonder zorgen over weigering aan de grens.
+Het MEV kan aantrekkelijker worden wanneer de aangekondigde [wijziging van visumvrije toegang](/visa/) formeel ingaat. Als je meerdere bezoeken plant binnen zes maanden, geeft dit visum een vooraf beoordeelde multiple-entryroute; iedere binnenkomst blijft wel onder immigratiecontrole.
 
 > **Pro Tip:** Het MEV is een veel veiligere optie dan vertrouwen op opeenvolgende visumvrije binnenkomsten. Immigratieambtenaren kunnen frequente visumvrije binnenkomsten in twijfel trekken, maar een MEV toont aan dat je een legitiem meervoudig inreisvisum hebt.
 
@@ -169,7 +169,7 @@ Vertrekbelastingen zijn wereldwijd gebruikelijk. In combinatie met stijgende bra
 3. Vul het TM.7-formulier in (beschikbaar op het kantoor)
 4. Wacht op de verwerking (meestal 1-3 uur)
 
-De meeste **visumverlengingen** worden ter plekke toegekend. De 30-dagenverlenging geldt zowel voor [visumvrije binnenkomsten](/visa/visa-free-entry/) als voor [Toeristenvisa](/visa/tourist-visa/). Lees onze [visumverlengingsgids](/visa/visa-extension/) voor alle details.
+De meeste **visumverlengingen** worden ter plekke beoordeeld. De 30-dagenverlenging kan gelden voor zowel [visumvrije binnenkomsten](/visa/) als [toeristenvisa](/visa/tourist-visa/). Lees onze [visumverlengingsgids](/visa/visa-extension/) voor de actuele route en bewijsset.
 
 > **Pro Tip:** **Immigratie** kantoren in kleinere steden zoals [Chiang Mai](/city/chiang-mai/) of Hua Hin zijn veel minder druk dan Bangkok. Als je je verlenging kunt plannen rond een bezoek aan een van deze steden, bespaar je uren wachten. Combineer het met wat sightseeing -- bekijk onze [praktische info sectie](/practical-info/) voor tips over vervoer.
 
@@ -221,8 +221,8 @@ Zodra je door de **immigratie** bent, regel dan [vervoer vanaf de luchthaven](/t
 
 | Situatie | Aanbevolen Visum |
 |----------|-----------------|
-| Vakantie tot 30 dagen | [Visumvrije toegang](/visa/visa-free-entry/) (momenteel 60 dagen, wordt 30) |
-| Vakantie tot 60 dagen | [Visumvrij](/visa/visa-free-entry/) + [30-dagenverlenging](/visa/visa-extension/), of [MEV](/visa/tourist-visa/) |
+| Vakantie tot 30 dagen | [Visumvrije toegang](/visa/) zolang je paspoort en reisdoel aan de live voorwaarden voldoen |
+| Vakantie tot 60 dagen | Controleer de [actuele visumvrije termijn](/visa/); vergelijk anders een [toeristenvisum](/visa/tourist-visa/) |
 | Meerdere bezoeken binnen 6 maanden | [Multiple Entry Visa (MEV)](/visa/tourist-visa/) — 60 dagen per binnenkomst, onbeperkt |
 | Digitale nomade / remote werk | [DTV (180 dagen)](/visa/digital-nomad-visa/) |
 | Thai leren / Muay Thai | [Studievisum (ED)](/visa/education-visa/) |
@@ -234,4 +234,4 @@ Zodra je door de **immigratie** bent, regel dan [vervoer vanaf de luchthaven](/t
 
 Het Thaise **visum** systeem blijft zich ontwikkelen in 2026. Hoewel de **visumvrije toegang** wordt teruggebracht van 60 naar 30 dagen, biedt de introductie van het **Multiple Entry Visa (MEV)** reizigers een krachtige nieuwe optie voor langere verblijven. Voor de meeste kortetermijnbezoekers is de visumvrije toegang (plus een 30-dagenverlenging) nog steeds voldoende om het land te verkennen -- van de tempels van [Bangkok](/city/bangkok/) tot de stranden van [Koh Phi Phi](/islands/koh-phi-phi/) en de bergen van [Chiang Mai](/city/chiang-mai/). **Digitale nomaden** en langverblijvers doen er goed aan serieus naar het **DTV-visum** te kijken, dat een flexibiliteit biedt die een paar jaar geleden simpelweg niet bestond.
 
-Bekijk onze volledige [visumsectie](/visa/) voor landspecifieke gidsen, blader door onze [praktische reisinformatie](/practical-info/) ter voorbereiding op je aankomst, of begin je reisschema te plannen met onze [Thailand eilandhop-gids](/blog/thailand-island-hopping-guide/). Als je naar de eilanden gaat, helpt ons [compleet eilandenoverzicht](/islands/) je de perfecte bestemming te kiezen -- of het nu [Koh Samui](/islands/koh-samui/) is voor luxe resorts, [Koh Tao](/islands/koh-tao/) voor duiken, of [Koh Lanta](/islands/koh-lanta/) voor een relaxte sfeer.
+Bekijk onze volledige [visumsectie](/visa/) voor landspecifieke gidsen, blader door onze [praktische reisinformatie](/practical-info/) ter voorbereiding op je aankomst, of begin je reisschema te plannen met onze [Thailand eilandhop-gids](/blog/thailand-island-hopping-guide/). Als je naar de eilanden gaat, helpt ons [compleet eilandenoverzicht](/islands/) je de perfecte bestemming te kiezen -- of het nu [Koh Samui](/city/koh-samui/) is voor luxe resorts, [Koh Tao](/islands/koh-tao/) voor duiken, of [Koh Lanta](/islands/koh-lanta/) voor een relaxte sfeer.

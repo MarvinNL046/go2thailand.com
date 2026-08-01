@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "amazing-thailand-app-ai-mastercard-2026",
+  "route": "/nl/blog/amazing-thailand-app-ai-mastercard-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Amazing Thailand-app: wat kan TATAI en wat niet?",
+    "description": "De vernieuwde Amazing Thailand-app is beschikbaar. Lees wat TATAI, routes en Mastercard-aanbiedingen doen en wat je apart moet verifiëren.",
+    "primaryKeyword": "Amazing Thailand app",
+    "secondaryKeywords": ["TATAI Thailand", "Thailand reisapp", "Amazing Thailand Mastercard"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/amazing-thailand-app-ai-mastercard-2026/"
+  },
+  "hero": {
+    "eyebrow": "Officiële reisassistent",
+    "title": "Amazing Thailand in je telefoon",
+    "accent": "Handig als startpunt, niet als enige bron",
+    "description": "De TAT-app combineert inspiratie, planning, TATAI en aanbiedingen. Controleer openingstijden, vervoer en veiligheid altijd bij de eigenaar.",
+    "image": "/images/redesign/editorial/amazing-thailand-app-ai-mastercard-2026-hero.webp",
+    "imageAlt": "Reiziger gebruikt een route-app op een telefoon met Bangkok op de achtergrond",
+    "primaryCta": { "label": "Bekijk de functies", "href": "#functies" },
+    "secondaryCta": { "label": "Plan je eerste reis", "href": "/nl/thailand-for-first-timers/" }
+  },
+  "layout": {
+    "kind": "news-update",
+    "newsStatus": "confirmed",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "TAT lanceerde de vernieuwde Amazing Thailand-app voor iOS en Android op 15 maart 2026. De app biedt onder meer de AI-assistent TATAI, reisplanning, veiligheids- en btw-informatie en Mastercard Priceless-aanbiedingen. Beschikbaarheid en voorwaarden moet je per functie controleren.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "functies",
+      "eyebrow": "Wat de app samenbrengt",
+      "title": "Vier bruikbare functies",
+      "cards": [
+        { "title": "TATAI", "description": "AI-assistent voor inspiratie en praktische vragen, gevoed vanuit TAT-informatie.", "label": "Startpunt" },
+        { "title": "Reisplanning", "description": "Plaatsen, eten, verblijf, winkelen en evenementen in één routeomgeving.", "label": "Ordenen" },
+        { "title": "Praktische info", "description": "Ondersteuning rond veiligheid en btw-teruggave, naast bestemminginformatie.", "label": "Naslag" },
+        { "title": "Priceless", "description": "Mastercard-ervaringen en aanbiedingen met eigen beschikbaarheid en voorwaarden.", "label": "Voorwaarden checken" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "betrouwbaar-gebruik",
+      "title": "Gebruik een AI-reisassistent verstandig",
+      "items": [
+        "Controleer openingstijden bij de locatie zelf",
+        "Controleer vertrekpunt en dienstregeling bij de vervoerder",
+        "Gebruik officiële overheidsinformatie voor visa en veiligheid",
+        "Lees kaartvoorwaarden vóór een Mastercard-aanbieding",
+        "Sla essentiële adressen en noodinformatie ook offline op"
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "ai-grens",
+      "tone": "cream",
+      "title": "Een AI-antwoord kan verouderen",
+      "description": "Gebruik de app om opties te vinden. Laat een chatbot nooit de enige bron zijn voor een visumregel, medische keuze, weerswaarschuwing of gemiste aansluiting."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is de Amazing Thailand-app officieel?", "answer": "Ja. De vernieuwde app is door de Tourism Authority of Thailand gelanceerd, in samenwerking met Mastercard." },
+        { "question": "Is TATAI een boekingsgarantie?", "answer": "Nee. TATAI helpt zoeken en plannen; beschikbaarheid, prijs en uitvoerbaarheid bevestig je bij de aanbieder." },
+        { "question": "Heb ik een Mastercard nodig?", "answer": "Niet voor alle reisfuncties. Specifieke Priceless-ervaringen of aanbiedingen kunnen eigen kaart- en deelnamevoorwaarden hebben." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële TAT-bronnen",
+      "items": [
+        { "title": "TAT launches new Amazing Thailand app", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/amazing-th-x-master-card-en", "checkedAt": "2026-08-01", "note": "Bevestigt functies, samenwerking en releasedatum 15 maart 2026." },
+        { "title": "TATAI travel assistant", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/tatai", "checkedAt": "2026-08-01", "note": "Beschrijft de AI-assistent en aansluiting op de TAT-database." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "reisvoorbereiding",
+      "title": "Zet je digitale reisbasis klaar",
+      "items": [
+        { "title": "Eerste keer Thailand", "description": "Plan de belangrijkste beslissingen in de juiste volgorde.", "href": "/nl/thailand-for-first-timers/" },
+        { "title": "Thaise simkaart", "description": "Vergelijk bereik, eSIM en lokaal nummer.", "href": "/nl/travel-guides/sim-card-thailand/" },
+        { "title": "TDAC", "description": "Controleer de officiële digitale aankomststappen.", "href": "/nl/visa/digital-arrival-card/" }
+      ]
+    }
+  ]
+}

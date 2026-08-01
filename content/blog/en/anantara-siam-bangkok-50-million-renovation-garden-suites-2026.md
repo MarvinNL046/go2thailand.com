@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "hotels"
 tags: ["Anantara Siam Bangkok", "Bangkok luxury hotels 2026", "hotel renovation Bangkok", "garden suites", "Minor Hotels", "Rajadamri"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/anantara-siam-bangkok-50-million-renovation-garden-suites-2026-hero.webp"
 description: "Anantara Siam Bangkok is in the middle of a THB 1.6 billion renovation that will add private-pool garden suites, a redesigned lobby and a refreshed Spice Market restaurant. Here is what is changing."
 featured: false
 readingTime: 3
@@ -34,7 +34,7 @@ The first wave of work focused on the Montathip and Kannika Court guest rooms an
 
 ### Phase Two (May to September 2026)
 
-The second and more ambitious phase is now underway. It covers the Garden Pool Villas, Parichart Court guest rooms, the grand lobby, the ballroom and all remaining event spaces. Most notably, six brand-new Garden Suites will be introduced — each with private plunge pools, floor-to-ceiling windows and lush tropical landscaping. These suites are designed to deliver a resort-style experience in the centre of [Bangkok](/city/bangkok/top-10-hotels/).
+The second and more ambitious phase is now underway. It covers the Garden Pool Villas, Parichart Court guest rooms, the grand lobby, the ballroom and all remaining event spaces. Most notably, six brand-new Garden Suites will be introduced — each with private plunge pools, floor-to-ceiling windows and lush tropical landscaping. These suites are designed to deliver a resort-style experience in the centre of [Bangkok](/best-hotels/bangkok/).
 
 The iconic Spice Market restaurant, one of [Bangkok's longest-running Thai fine dining](/city/bangkok/top-10-restaurants/) venues, will also receive a complete redesign while retaining the spirit of the original.
 
@@ -46,6 +46,6 @@ Minor Hotels, which operates the Anantara brand, has stated that the renovation 
 
 During phase two (May through September 2026), some facilities will be temporarily closed or operating at reduced capacity. If you are planning a stay during this period, it is worth checking directly with the hotel about which areas are accessible.
 
-For travellers booking from late 2026 onward, the fully renovated Anantara Siam will offer something rare in [Bangkok's luxury market](/blog/thailand-hotel-boom-2026-record-pipeline-bangkok-luxury/): a heritage property with the feel of a city resort, complete with private-pool suites that most visitors would only expect to find at a [beach destination](/best-beaches-in-thailand/). Given the hotel's prime Rajadamri location — walkable to [Siam Paragon](/city/bangkok/attractions/siam-paragon/), Central World and the [BTS](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) — the refreshed product should compete strongly with [Bangkok's wave of new luxury openings](/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/).
+For travellers booking from late 2026 onward, the fully renovated Anantara Siam will offer something rare in [Bangkok's luxury market](/blog/thailand-hotel-boom-2026-record-pipeline-bangkok-luxury/): a heritage property with the feel of a city resort, complete with private-pool suites that most visitors would only expect to find at a [beach destination](/best-beaches-in-thailand/). Given the hotel's prime Rajadamri location — walkable to [Siam Paragon](/city/bangkok/attractions/), Central World and the [BTS](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) — the refreshed product should compete strongly with [Bangkok's wave of new luxury openings](/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/).
 
-If you're still deciding [where to stay in Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/), our neighbourhood guide covers the best areas for every type of traveller. The Rajadamri area puts you within easy reach of [Bangkok's top temples](/city/bangkok/attractions/), shopping and [street food](/blog/bangkok-street-food-beginners/).
+If you're still deciding [where to stay in Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/), our neighbourhood guide covers the best areas for every type of traveller. The Rajadamri area puts you within easy reach of [Bangkok's top temples](/city/bangkok/attractions/), shopping and [street food](/blog/best-street-food-markets-bangkok/).

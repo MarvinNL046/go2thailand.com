@@ -1,10 +1,11 @@
-import { GetStaticProps } from 'next';
+import { GetServerSideProps } from 'next';
 import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
+import NlSocialHub from '../components/editorial/NlSocialHub';
 
 interface SocialPost {
   id: string;
@@ -30,6 +31,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const [filter, setFilter] = useState<string>('all');
+  if (isNl) return <NlSocialHub />;
 
   const categories = [
     { id: 'all', label: 'All Posts', labelNl: 'Alle Berichten', emoji: '' },
@@ -41,8 +43,8 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
     { id: 'culture', label: 'Culture', labelNl: 'Cultuur', emoji: '' }
   ];
 
-  const filteredPosts = filter === 'all' 
-    ? recentPosts 
+  const filteredPosts = filter === 'all'
+    ? recentPosts
     : recentPosts.filter(post => post.type === filter);
 
   const getTypeColor = (type: string) => {
@@ -79,9 +81,9 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                 {isNl ? 'Dagelijkse inspiratie uit het Land van de Glimlach - eten, stranden, tempels en avonturen!' : 'Daily inspiration from the Land of Smiles - food, beaches, temples, and adventures!'}
               </p>
               <div className="flex flex-wrap justify-center gap-4">
-                <a 
-                  href="https://facebook.com/go2thailand" 
-                  target="_blank" 
+                <a
+                  href="https://facebook.com/go2thailand"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white text-thailand-blue px-6 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors flex items-center gap-2"
                 >
@@ -90,9 +92,9 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                   </svg>
                   Facebook
                 </a>
-                <a 
-                  href="https://instagram.com/go2thailand" 
-                  target="_blank" 
+                <a
+                  href="https://instagram.com/go2thailand"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white text-thailand-red px-6 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors flex items-center gap-2"
                 >
@@ -126,7 +128,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                 {isNl ? 'Uitgelichte Berichten' : 'Featured Posts'}
               </h2>
             </div>
-            
+
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-16">
               {featuredPosts.map((post) => (
                 <Link key={post.id} href={post.link} className="group">
@@ -251,9 +253,9 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                 <p className="text-gray-600 mb-4">
                   {isNl ? 'Dagelijkse reistips, live Q&A\'s en community discussies' : 'Daily travel tips, live Q&As, and community discussions'}
                 </p>
-                <a 
-                  href="https://facebook.com/go2thailand" 
-                  target="_blank" 
+                <a
+                  href="https://facebook.com/go2thailand"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block bg-thailand-blue text-white px-6 py-2 rounded-xl font-medium hover:bg-thailand-red transition-colors"
                 >
@@ -272,9 +274,9 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                 <p className="text-gray-600 mb-4">
                   {isNl ? 'Prachtige foto\'s, verhalen en reels uit heel Thailand' : 'Stunning photos, stories, and reels from around Thailand'}
                 </p>
-                <a 
-                  href="https://instagram.com/go2thailand" 
-                  target="_blank" 
+                <a
+                  href="https://instagram.com/go2thailand"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block bg-thailand-red text-white px-6 py-2 rounded-xl font-medium hover:bg-thailand-blue transition-colors"
                 >
@@ -329,10 +331,21 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getServerSideProps: GetServerSideProps = async ({ locale }) => {
+  if (locale === 'en') {
+    return {
+      redirect: {
+        destination: '/blog/',
+        permanent: true,
+      },
+    };
+  }
+  if (locale === 'nl') {
+    return { props: { featuredPosts: [], recentPosts: [] } };
+  }
   // TODO: Fetch real social media data from API or database
   // For now, using sample data
-  
+
   const featuredPosts: SocialPost[] = [
     {
       id: 'feat-1',
@@ -340,7 +353,7 @@ export const getStaticProps: GetStaticProps = async () => {
       title: 'Hidden Paradise: Secret Beach in Koh Phangan',
       excerpt: 'Discovered this untouched beach after a 30-minute jungle hike. Crystal clear water, no crowds, pure bliss!',
       imageUrl: '/images/homepageHero/railayBeach.webp',
-      link: '/city/krabi/attractions/railay-beach/',
+      link: '/city/krabi/attractions/',
       hashtags: ['#SecretBeach', '#KohPhangan', '#HiddenGems'],
       engagement: { likes: 1243, comments: 89, shares: 234 }
     },
@@ -360,7 +373,7 @@ export const getStaticProps: GetStaticProps = async () => {
       title: 'Sunrise at Doi Suthep - Worth the Early Wake Up',
       excerpt: 'Watching the sun rise over Chiang Mai from this sacred temple. The monks chanting added pure magic to the moment.',
       imageUrl: '/images/cities/chiangmai/chiang-mai-park.webp',
-      link: '/city/chiang-mai/attractions/doi-suthep/',
+      link: '/city/chiang-mai/attractions/',
       hashtags: ['#DoiSuthep', '#ChiangMai', '#TempleSunrise'],
       engagement: { likes: 3421, comments: 234, shares: 567 }
     }
@@ -393,7 +406,7 @@ export const getStaticProps: GetStaticProps = async () => {
       title: 'Phi Phi Islands Day Trip',
       excerpt: 'Maya Bay is finally open again and it\'s stunning!',
       imageUrl: '/images/homepageHero/lao-landing-beach.webp',
-      link: '/city/phuket/attractions/phi-phi-islands/',
+      link: '/phi-phi-island-tour/',
       hashtags: ['#PhiPhi', '#MayaBay'],
       engagement: { likes: 1432, comments: 78, shares: 234 }
     },
@@ -433,7 +446,7 @@ export const getStaticProps: GetStaticProps = async () => {
       title: 'White Temple Wonder',
       excerpt: 'Wat Rong Khun is even more impressive in person!',
       imageUrl: '/images/cities/chiang-rai/chiang-rai-temple-front.webp',
-      link: '/city/chiang-rai/attractions/white-temple/',
+      link: '/city/chiang-rai/attractions/',
       hashtags: ['#WhiteTemple', '#ChiangRai'],
       engagement: { likes: 1876, comments: 92, shares: 312 }
     },

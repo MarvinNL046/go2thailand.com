@@ -45,7 +45,7 @@ The **Grand Palace Bangkok** is Thailand's most iconic landmark—a shimmering c
 
 The **Grand Palace** isn't just a single building—it's a sprawling 218,400-square-meter compound housing the Temple of the Emerald Buddha (Wat Phra Kaew), royal residences, and dozens of ceremonial structures. Understanding its layout and rules before arrival will save you time, frustration, and potential embarrassment.
 
-When we visited during the cool season, the palace grounds were bustling but manageable. The compound is divided into three main zones: the Outer Court (open to the public), the Middle Court (partially accessible), and the Inner Court (closed to visitors). Most tourists spend their time in the Outer Court and around Wat Phra Kaew, where the Emerald Buddha—Thailand's most sacred religious object—is housed.
+The compound is divided into three main zones: the Outer Court (open to the public), the Middle Court (partially accessible), and the Inner Court (closed to visitors). Most tourists spend their time in the Outer Court and around Wat Phra Kaew, where the Emerald Buddha—Thailand's most sacred religious object—is housed.
 
 ### Entrance Fees & Hours
 
@@ -91,22 +91,6 @@ The Grand Palace is located in the heart of old Bangkok, in the Phra Nakhon dist
 
 **By Chao Phraya River Boat:** If you're staying near the river, express boats run along the Chao Phraya. Disembark at Tha Chang (Chang Pier), a 5-minute walk from the palace. Fares are 15–40 THB depending on distance—the cheapest and most scenic option.
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Parking & Accessibility
 
@@ -122,7 +106,7 @@ Wat Phra Kaew is the crown jewel of the Grand Palace complex and Thailand's most
 
 The Emerald Buddha (Phra Kaew Morakot) is not actually emerald—it's carved from jade and dates to at least the 15th century. Thai Buddhists believe it possesses protective powers over the kingdom. The Buddha is dressed in robes that change with the seasons: a gold robe in hot season, a jeweled robe in cool season, and a silver robe during the rainy season. This ritual, performed by the King himself, is one of Thailand's most important ceremonial duties.
 
-During our visit in February, the cool-season robes were displayed—a dazzling sight of gold and precious stones. The main temple hall is a masterpiece of Thai architecture: soaring ceilings, intricate murals depicting scenes from Buddhist texts, and a pervasive sense of reverence. Visitors are required to sit respectfully; standing during prayers or pointing your feet toward the Buddha is considered deeply disrespectful.
+The main temple hall is a masterpiece of Thai architecture: soaring ceilings, intricate murals depicting scenes from Buddhist texts, and a pervasive sense of reverence. Visitors are required to sit respectfully; standing during prayers or pointing your feet toward the Buddha is considered deeply disrespectful.
 
 ### What to See Inside Wat Phra Kaew
 
@@ -149,7 +133,7 @@ Beyond Wat Phra Kaew, the Grand Palace compound includes several royal buildings
 
 **Siwalai Gardens:** A peaceful courtyard with landscaped gardens, providing respite from the crowds. This area is less photographed but offers authentic glimpses of palace life and traditional Thai garden design.
 
-**Outer Court Pavilions:** Several smaller structures serve ceremonial purposes. During our visit, we observed staff preparing for a state function—a reminder that the palace remains an active, working royal residence despite its tourist status.
+**Outer Court Pavilions:** Several smaller structures serve ceremonial purposes.
 
 ### Photography Tips
 
@@ -157,22 +141,6 @@ Beyond Wat Phra Kaew, the Grand Palace compound includes several royal buildings
 - **Restricted areas:** No photography inside Wat Phra Kaew or in certain ceremonial halls. Respect these rules—security is strict.
 - **Drone photography:** Absolutely prohibited. Heavy fines apply.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -188,7 +156,7 @@ Beyond Wat Phra Kaew, the Grand Palace compound includes several royal buildings
 
 ### Guided Tours vs. Self-Guided
 
-**Self-Guided:** Free entry, flexibility, and the ability to linger where you wish. However, you'll miss historical context and may misinterpret architectural elements. Our experience: self-guided visits work well if you've read about the palace beforehand.
+**Self-Guided:** Free entry, flexibility, and the ability to linger where you wish. However, you'll miss historical context and may misinterpret architectural elements.
 
 **Guided Tours:** Professional guides (available at the entrance or pre-booked online) cost 200–400 THB per person and typically last 1.5–2 hours. They provide invaluable context about royal history, Buddhist symbolism, and architectural details. We recommend tours for first-time visitors to Thailand or those with limited time.
 
@@ -199,22 +167,6 @@ Beyond Wat Phra Kaew, the Grand Palace compound includes several royal buildings
 | **Private Guide** | Families, special interests | 2–3 hours | 1,500–2,500 | ⭐⭐⭐⭐⭐ |
 | **Audio Guide App** | Budget-conscious, independent | 2–3 hours | 100–200 | ⭐⭐⭐ |
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Accessibility & Facilities
 
@@ -241,7 +193,7 @@ Beyond Wat Phra Kaew, the Grand Palace compound includes several royal buildings
 - **Busiest times:** Weekend mornings, Chinese New Year (late January/early February), and Songkran (Thai New Year, mid-April).
 - **Royal ceremonies:** The palace occasionally closes for state functions (announced on the TAT website). Check before traveling.
 
-During our February visit, we arrived at 8:45 AM on a Wednesday and navigated comfortably. By 11 AM, tour groups had multiplied, making photography challenging.
+By 11 AM, tour groups had multiplied, making photography challenging.
 
 ---
 
@@ -359,22 +311,6 @@ The Grand Palace is part of Bangkok's historic Old City district, packed with te
 
 For more detailed itineraries, explore our [3-day Bangkok guide](https://go2-thailand.com/itineraries/3-days-bangkok/) and [5-day Bangkok & Central Thailand itinerary](https://go2-thailand.com/itineraries/5-days-bangkok-central/).
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -391,7 +327,7 @@ Boutique [hotels in the Old City offer character and convenience. Many are conve
 ### Luxury Options (3,000+ THB / USD 85+)
 Five-star hotels like the Mandarin Oriental and Peninsula offer world-class service, riverside locations, and easy access to the palace. These are pricier but include amenities like spas, fine dining, and concierge services.
 
-For detailed hotel recommendations, check our [Bangkok hotels travel guide](https://go2-thailand.com/city/bangkok/hotels/).
+For detailed hotel recommendations, check our [Bangkok hotels travel guide](https://go2-thailand.com/best-hotels/bangkok/).
 
 ---
 

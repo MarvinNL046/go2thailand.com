@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["World of Coffee", "Bangkok events", "specialty coffee Thailand", "BITEC Bangkok", "coffee 2026", "Thailand coffee"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/world-of-coffee-bangkok-2026-specialty-coffee-event-hero.webp"
 description: "World of Coffee Asia comes to Bangkok on May 7-9 2026 at BITEC, bringing world championships, Thai single-origin tastings and over 200 exhibitors. Here is everything visitors need to know."
 featured: false
 readingTime: 3

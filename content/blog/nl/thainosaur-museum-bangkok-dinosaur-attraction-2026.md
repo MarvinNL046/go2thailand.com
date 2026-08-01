@@ -1,46 +1,66 @@
 ---
-title: "THAINOSAUR Museum Bangkok: Prehistorisch Thailand komt tot leven in 2026"
+title: "THAINOSAUR Museum Bangkok: wat is officieel bevestigd?"
 slug: "thainosaur-museum-bangkok-dinosaur-attraction-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "attractions"
-tags: ["THAINOSAUR Museum", "Bangkok bezienswaardigheden 2026", "dinosaurus museum Bangkok", "Bangkok Spectacular 2026", "familie uitjes Bangkok", "SkyFlyers Garudapterus", "prehistorisch Thailand", "nieuwe attracties Bangkok", "familie vakantie Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Duik in het nieuwe THAINOSAUR Museum in Bangkok: een spannende dinosauruservaring met echte fossielen, een 30 meter hoge dino en de SkyFlyers schommelrit. Ontdek alles voor je familie vakantie in Thailand, inclusief tips voor een directe vlucht vanaf Schiphol."
+tags: ["THAINOSAUR Museum Bangkok", "dinosaurusmuseum Bangkok", "Asiatique met kinderen"]
+image: "/images/redesign/editorial/thainosaur-museum-bangkok-dinosaur-attraction-2026-hero.webp"
+description: "THAINOSAUR Museum bij Asiatique opende op 23 december 2025. Lees wat AWC bevestigt en welke praktische details je voor bezoek opnieuw controleert."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 5
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Asset World Corporation — AWC Launches Bangkok Spectacular 2026 with THAINOSAUR Museum"
+  - name: "Asset World Corporation — opening THAINOSAUR Museum"
     url: "https://www.assetworldcorp-th.com/en/newsroom/news-activities/1034/awc-launches-bangkok-spectacular-2026-with-the-auspicious-opening-of-thainosaur-museum-bringing-new-experience-of-art-culture-and-education-to-bangkok"
-  - name: "Travel And Tour World — Bangkok Spectacular 2026"
-    url: "https://www.travelandtourworld.com/news/article/bangkok-spectacular-2026-a-new-chapter-in-thailands-tourism-industry/"
-  - name: "Bangkok Post — Let's Get Prehistoric"
-    url: "https://www.bangkokpost.com/life/social-and-lifestyle/3174729/lets-get-prehistoric"
 ---
 
-## Een dinosaurusmuseum gebouwd rond echte Thaise fossielen
+> **Gearchiveerde doublure:** gebruik voor actuele bezoekinformatie onze hoofdgids over [Bangkok Spectacular en THAINOSAUR Museum](/nl/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/). Deze route blijft alleen als historische context beschikbaar.
 
-Bangkoks nieuwste edutainment-attractie draait niet om geïmporteerde replica's. Het THAINOSAUR Museum is een levendig museum dat gewijd is aan Thailands eigen paleontologische erfgoed, ontwikkeld in samenwerking met het Department of Mineral Resources en Mahasarakham University. Het opent begin 2026 als het middelpunt van de 'Bangkok Spectacular 2026'-campagne, gelanceerd door Asset World Corporation (AWC), de Tourism Authority of Thailand en de Bangkok Metropolitan Administration. Het museum past in [Bangkoks bredere streven om meer kwalitatief toerisme aan te trekken](/blog/bangkok-best-city-asia-2026-destinasian-award/) via culturele en educatieve ervaringen.
+**THAINOSAUR Museum opende op 23 december 2025** bij Asiatique The Riverfront in Bangkok. Daarmee is de oude formulering “opent begin 2026” achterhaald. Eigenaar Asset World Corporation (AWC) presenteert de attractie als een combinatie van Thaise paleontologie, kunst, educatie en entertainment.
 
-Het museum toont authentieke fossielenspecimens die op Thaise bodem zijn ontdekt, gepresenteerd door middel van ruimtelijke verhalenvertelling en begeleide wandelroutes die bezoekers meenemen van het Mesozoïcum tot hedendaags Thailand.
+## Wat is THAINOSAUR?
 
-## Wat kun je verwachten binnen
+Het museum legt de nadruk op dinosaurusvondsten en geologische kennis uit Thailand. AWC werkte voor de inhoud samen met het Department of Mineral Resources en Mahasarakham University. De officiële openingstekst noemt fossielen, modellen op ware grootte, interactieve onderdelen en verhalen over soorten die in Thailand zijn ontdekt.
 
-De ster van het THAINOSAUR Museum is de hoogste dinosaurusinstallatie in ASEAN, maar liefst 30 meter hoog. Er omheen vind je interactieve exposities die wetenschap mengen met kunst – creatieve interpretaties van Thaise kunstenaar Thaivijit Phungkasemsomboon verbinden paleontologie met de Thaise culturele identiteit op een frisse manier, zonder stoffig gevoel.
+Dat maakt THAINOSAUR vooral interessant voor gezinnen die een binnenactiviteit zoeken en voor bezoekers die meer willen dan algemene dinosaurusreplica’s. De presentatie is een commerciële edutainmentervaring, geen vervanging voor een natuurhistorische collectie of wetenschappelijke publicatie.
 
-Het museum bouwt voort op bestaande projecten zoals Fossil Park en Hatch Dome om een geïntegreerd leer-ecosysteem te creëren, recht in het hart van Bangkok. Het is dus een makkelijke toevoeging aan elke stadstour.
+## Wat is officieel bevestigd?
 
-## SkyFlyers: Vleugels van Garudapterus
+- De opening vond plaats op 23 december 2025.
+- De locatie is Asiatique The Riverfront Destination aan de Chao Phraya.
+- Thaise overheids- en universiteitspartners droegen inhoudelijke expertise bij.
+- SkyFlyers: Wings of Garudapterus werd tegelijk als aanvullende attractie geïntroduceerd.
 
-Net buiten het museum zorgt de [SkyFlyers schommelrit](/blog/skyflyers-garudapterus-asiatique-bangkok-tallest-swing-ride-2026/) voor een luchtig avontuur. Geïnspireerd op Garudapterus, een vliegende reptielensoort die voor het eerst in Thailand werd ontdekt, brengt deze rit bezoekers boven de rivieroever voor panoramische uitzichten over de Chao Phraya. Het is een mix van spanning en lesje wetenschap – perfect voor kinderen én volwassenen die liever geen vitrinekast passeert.
+Sterke claims uit oudere berichtgeving, zoals exacte hoogtes, aantallen “echte” fossielen of vaste bezoekduur, nemen we niet over zonder een actuele bezoekerspagina die ze specificeert.
 
-## Praktische info voor bezoekers
+## Plan je bezoek
 
-Het THAINOSAUR Museum ligt langs de Chao Phraya-rivieroever in Bangkok, in het AWC-ontwikkelingsgebied. De buurt is bereikbaar per river taxi en BTS – check onze [gids voor openbaar vervoer in Bangkok](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) voor de route. Het museum is geschikt voor alle leeftijden, maar families met kids van 5 tot 14 jaar zullen het meest profiteren van de interactieve exhibits. Het is een topper voor een [Bangkok familiereis](/blog/thailand-with-kids-family-travel-guide/).
+Controleer vóór vertrek de officiële kanalen van THAINOSAUR of Asiatique voor openingstijden, onderhoudsdagen, leeftijds- of lengteregels en actuele ticketvoorwaarden. Deze praktische gegevens kunnen veranderen en staan niet volledig in de oorspronkelijke openingsmededeling.
 
-Als je in 2026 naar Bangkok reist en op zoek bent naar iets anders dan tempels en shoppingmalls, is het THAINOSAUR Museum een van de origineelste nieuwe attracties die de stad toevoegt – en het zet Thailands eigen natuurgeschiedenis centraal. Combineer het met een bezoek aan het [One Bangkok shopping mall](/blog/one-bangkok-shopping-mall-tourist-guide-2026/) of de [Cave Fantasy immersieve kunsttentoonstelling in MBK Center](/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/) voor een volle dag uit.
+Asiatique ligt aan de rivier. Veel bezoekers combineren BTS tot Saphan Taksin met een bootverbinding, maar controleer de actuele dienstregeling en laatste afvaart. Een taxi of ride-hailing kan bij drukte eenvoudiger zijn, al varieert de reistijd sterk.
 
-Voor meer over Bangkoks culturele boom in 2026, lees over de [Bangkok Art Biennale 2026](/blog/bangkok-art-biennale-2026-angels-mara-guide/) en ons overzicht van [Bangkok Spectacular 2026](/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/).
----
+## Voor wie is het geschikt?
+
+Kies THAINOSAUR als je kinderen graag interactieve dinosauruswerelden zien of als je een activiteit uit de hitte of regen zoekt. Reken niet automatisch op rustige museumzalen: de locatie en vormgeving zijn gericht op entertainment en families.
+
+Bij prikkelgevoeligheid is het verstandig vooraf te vragen naar licht, geluid, bewegende modellen en rustige tijdvakken. Voor SkyFlyers kunnen aparte veiligheidsvoorwaarden gelden.
+
+## Combineer zonder te haasten
+
+Je kunt het museum combineren met een wandeling langs de rivier en eten bij Asiatique. Plan niet te strak met een aansluitende avondcruise: wachttijden en verkeer zijn variabel. Bekijk voor andere opties onze gids [Bangkok met kinderen](/nl/blog/bangkok-with-kids-family-guide/) en het overzicht van [bezienswaardigheden in Bangkok](/nl/bangkok/bezienswaardigheden/).
+
+## Veelgestelde vragen
+
+### Is THAINOSAUR al open?
+
+Ja. AWC kondigde de officiële opening aan op 23 december 2025.
+
+### Zijn tickets bij Asiatique inbegrepen?
+
+Asiatique zelf is een openbaar winkel- en uitgaansgebied; voor attracties kunnen eigen tickets en voorwaarden gelden. Controleer dit bij de officiële aanbieder.
+
+### Is het een wetenschappelijk museum?
+
+Het is een educatieve attractie met wetenschappelijke partners, maar de bezoekerservaring combineert onderwijs nadrukkelijk met entertainment.

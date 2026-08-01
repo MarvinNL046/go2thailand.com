@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "temples"
 tags: ["Chiang Mai temples", "Lanna temples 2026", "Chiang Mai walking tour", "Wat Pha Lat", "Wat Umong", "Wat Lok Moli", "hidden temples Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026-hero.webp"
 description: "Skip the crowds at Doi Suthep and walk Chiang Mai's lesser-known Lanna temple trail instead. Five hidden temples with ancient tunnels, forest paths and zero tour buses."
 featured: false
 readingTime: 3

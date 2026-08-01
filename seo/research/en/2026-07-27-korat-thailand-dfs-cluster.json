@@ -1,0 +1,1093 @@
+{
+  "captured_at": "2026-07-27T03:49:11.409Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "korat thailand",
+  "costs": {
+    "suggestions": 0.0204,
+    "related": 0.01416,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "korat thailand",
+    "korat cat thailand",
+    "korat city thailand",
+    "hotel in korat thailand",
+    "hotels in korat thailand",
+    "hotels korat thailand",
+    "korat thailand hotels",
+    "korat thailand weather",
+    "weather in korat thailand",
+    "where is korat in thailand",
+    "where is korat thailand",
+    "bars in korat thailand",
+    "best hotel in korat thailand",
+    "camp friendship korat thailand",
+    "cheap hotels in korat thailand",
+    "golf courses in korat thailand",
+    "korat news thailand",
+    "korat thailand cat",
+    "korat thailand news"
+  ],
+  "keywords": [
+    {
+      "keyword": "korat cat thailand",
+      "volume": 1300,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand",
+      "volume": 720,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "korat city thailand",
+      "volume": 170,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in korat thailand",
+      "volume": 70,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel korat thailand",
+      "volume": 70,
+      "kd": 9,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in korat thailand",
+      "volume": 70,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels korat thailand",
+      "volume": 70,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat hotel thailand",
+      "volume": 70,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand hotels",
+      "volume": 70,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "korat thailand weather",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in korat thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat map thailand",
+      "volume": 50,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand map",
+      "volume": 50,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "map of korat thailand",
+      "volume": 50,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand airport",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon ratchasima nightlife",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "centre point hotel terminal21 korat",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "houses for sale in korat thailand",
+      "volume": 20,
+      "kd": 42,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is korat in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is korat thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "aisana hotel korat",
+      "volume": 10,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bars in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotel in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "budget car rental korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "camp friendship korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cars for sale korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for rent in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condos for sale in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fortune hotel korat",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "golf courses in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "homes for sale in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "imperial hotel korat",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "imperial hotel korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat air force base thailand agent orange",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat city thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat mall thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat news thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand air base",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "korat thailand air force base",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand cat",
+      "volume": 10,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "korat thailand nearest airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "korat thailand news",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand nightlife",
+      "volume": 10,
+      "kd": 40,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand population",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "korat thailand shopping mall",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "korat thailand to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "korat thailand to bangkok distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "korat thailand tourism",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat to bangkok distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "land for sale korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massage in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nakhon ratchasima korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nearest airport to korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sima thani hotel korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand korat city",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in korat",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is korat thailand known for",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in korat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "distance from korat thailand to bangkok",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand biennale korat 2021",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "building a house in korat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cars for sale in korat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "downtown korat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "house builders korat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "immigration korat thailand phone number",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat air base thailand map",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat cat for sale thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand during vietnam war",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand food",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "korat thailand to pattaya",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "teaching jobs in korat thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 21,
+      "keywordCount": 4,
+      "visibility": 0.5,
+      "estimatedTraffic": 20.267
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 4.333333333333333,
+      "keywordCount": 3,
+      "visibility": 2,
+      "estimatedTraffic": 80.41499999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.35,
+      "estimatedTraffic": 12.594
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 16.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 3.199
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 14.687999999999999
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 270.56
+    },
+    {
+      "domain": "weather.metoffice.gov.uk",
+      "avgPosition": 1.5,
+      "keywordCount": 2,
+      "visibility": 1.9,
+      "estimatedTraffic": 32.620000000000005
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 1.5,
+      "keywordCount": 2,
+      "visibility": 1.9,
+      "estimatedTraffic": 32.620000000000005
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 2.5,
+      "keywordCount": 2,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 133.181
+    },
+    {
+      "domain": "www.accuweather.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 13.622
+    },
+    {
+      "domain": "www.tmd.go.th",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 9.226
+    },
+    {
+      "domain": "www.centarahotelsresorts.com",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 29.906
+    },
+    {
+      "domain": "www.britannica.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 32.309
+    },
+    {
+      "domain": "weather.com",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 5.075
+    },
+    {
+      "domain": "meteofor.com",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 4.731999999999999
+    },
+    {
+      "domain": "www.timeanddate.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 4.662
+    },
+    {
+      "domain": "weatherspark.com",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 2.4290000000000003
+    },
+    {
+      "domain": "www.xploreasia.org",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 10.056999999999999
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 10.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.428
+    },
+    {
+      "domain": "www.wunderground.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.204
+    },
+    {
+      "domain": "www.ventusky.com",
+      "avgPosition": 13.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.8820000000000001
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 13.5,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 34.142
+    },
+    {
+      "domain": "www.yr.no",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.686
+    },
+    {
+      "domain": "zoom.earth",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.462
+    },
+    {
+      "domain": "en.climate-data.org",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.44799999999999995
+    },
+    {
+      "domain": "www.predictwind.com",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.34299999999999997
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.407
+    },
+    {
+      "domain": "www.meteoblue.com",
+      "avgPosition": 22,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.308
+    },
+    {
+      "domain": "www.weather-forecast.com",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.301
+    },
+    {
+      "domain": "weather.yahoo.com",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "thailandweather.org",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.weathercrave.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.aqi.in",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "weather-and-climate.com",
+      "avgPosition": 35,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.yourweather.co.uk",
+      "avgPosition": 35,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.weather-atlas.com",
+      "avgPosition": 35,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "meteotrend.com",
+      "avgPosition": 35.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.weatherbug.com",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "meteobox.com",
+      "avgPosition": 44,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "meteodays.com",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "meteostate.com",
+      "avgPosition": 47,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 21.28
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 11.34
+    },
+    {
+      "domain": "www.travelweekly.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 6.811
+    },
+    {
+      "domain": "meteothailande.com",
+      "avgPosition": 52,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "live-less-ordinary.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 11.203
+    },
+    {
+      "domain": "www.kantaryhotel-korat.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 3.283
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 4.352
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 1.792
+    },
+    {
+      "domain": "maps-thailand.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 3.3489999999999998
+    }
+  ]
+}

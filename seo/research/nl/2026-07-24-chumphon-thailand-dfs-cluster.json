@@ -1,0 +1,542 @@
+{
+  "captured_at": "2026-07-24T12:32:53.601Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "chumphon thailand",
+  "costs": {
+    "suggestions": 0.0138,
+    "related": 0.01248,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "chumphon thailand",
+    "chumphon in thailand",
+    "chumphon province thailand",
+    "hotels chumphon thailand",
+    "hotels in chumphon thailand",
+    "wat te doen in chumphon",
+    "chumphon city thailand",
+    "chumphon thailand things to do",
+    "what to do in chumphon thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "chumphon in thailand",
+      "volume": 880,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon province thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel chumphon thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels chumphon thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in chumphon thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon naar bangkok",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chumphon naar koh tao",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wat te doen in chumphon",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ban ko tao chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon cabana beach resort thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon city thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to do in chumphon thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon thailand bezienswaardigheden",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chumphon tips thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "diving chumphon thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 267.52
+    },
+    {
+      "domain": "www.bmair.nl",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 142.56
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 85.624
+    },
+    {
+      "domain": "www.reislogger.nl",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 57.992
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 41.272
+    },
+    {
+      "domain": "toerisme-thailand.nl",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 29.743999999999996
+    },
+    {
+      "domain": "www.thailandblog.nl",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 22.528000000000002
+    },
+    {
+      "domain": "packlightly.nl",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 17.336
+    },
+    {
+      "domain": "thailandtravel.nl",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 13.2
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.008000000000001
+    },
+    {
+      "domain": "www.chumphon.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.192
+    },
+    {
+      "domain": "thailande-et-asie.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.784
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.784
+    },
+    {
+      "domain": "ww2.greenwoodtravel.nl",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.904
+    },
+    {
+      "domain": "thefittraveller.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.3760000000000003
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.1119999999999997
+    },
+    {
+      "domain": "www.polarsteps.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.024
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.9360000000000002
+    },
+    {
+      "domain": "www.inthailand.travel",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "pattayacitytourcoltd.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.expedia.be",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "thecoloursofthailand.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.jamiesphuketblog.com",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "homeiswhereyourbagis.com",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.bookaway.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.thailandtourismus.de",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.d-reizen.nl",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "evendo.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.thailand.org",
+      "avgPosition": 44,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "wordstowings.de",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "southeastasiabackpacker.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.thailand-spezialisten.com",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.frommers.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.expedia.nl",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.kupi.com",
+      "avgPosition": 56,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.beachatlas.com",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "chumphonplaces.blogspot.com",
+      "avgPosition": 58,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.voyagethailande.fr",
+      "avgPosition": 61,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 62,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "www.thailandkusten.com",
+      "avgPosition": 63,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "visit-thailand.net",
+      "avgPosition": 64,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    },
+    {
+      "domain": "turismothailandese.it",
+      "avgPosition": 65,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 1.8479999999999999
+    }
+  ]
+}

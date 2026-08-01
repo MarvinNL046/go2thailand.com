@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "transport"
 tags: ["Bangkok transport", "MRT Yellow Line", "MRT Pink Line", "monorail Bangkok", "Bangkok travel tips 2026", "Mangmoom Card"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-yellow-pink-line-monorail-tourist-guide-2026-hero.webp"
 description: "Bangkok's driverless Yellow and Pink Line monorails opened in 2023-2024 and make it easy to reach neighbourhoods tourists used to skip. Here is how to use them in 2026."
 featured: false
 readingTime: 3
@@ -38,7 +38,7 @@ The Yellow Line runs 30.4 kilometres across 23 stations, connecting the northern
 
 At 34.5 kilometres and 30 stations, the Pink Line is the longer of the two. It runs east-west through northern Bangkok, from Nonthaburi Civic Center in Pak Kret district to Min Buri in the east, following the Chaeng Watthana and Ram Inthra road corridor.
 
-**Why tourists should care:** The Pink Line stops near IMPACT Muang Thong Thani, a massive exhibition and entertainment complex that hosts concerts, trade fairs and sporting events. It also connects with the MRT Purple Line at Government Complex station. If you are heading to a [K-pop concert or large event in Bangkok](/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/), the Pink Line is likely the easiest way in and out.
+**Why tourists should care:** The Pink Line stops near IMPACT Muang Thong Thani, a massive exhibition and entertainment complex that hosts concerts, trade fairs and sporting events. It also connects with the MRT Purple Line at Government Complex station. Do not apply that route to every Bangkok venue: the [BTS Bangkok 2026 guide](/blog/bts-world-tour-bangkok-december-2026-tickets-guide/) explains why Rajamangala needs a separate event-day plan.
 
 ## Pay With the Mangmoom Card
 

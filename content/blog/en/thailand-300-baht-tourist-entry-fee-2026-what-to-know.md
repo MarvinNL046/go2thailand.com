@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Thailand entry fee", "300 baht tourist fee", "Thailand travel costs 2026", "eco-tourism fund", "Thailand visa"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-300-baht-tourist-entry-fee-2026-what-to-know-hero.webp"
 description: "Thailand is rolling out a 300 baht entry fee for international visitors in 2026. Here is what the fee covers, when it starts, and how it funds eco-tourism."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 Thailand is introducing a 300 baht (roughly 8 to 9 USD) entry fee for all foreign nationals arriving in the country. The charge applies regardless of whether you enter by air, land, or sea. Originally approved in principle by the Thai Cabinet in February 2023, the fee has been delayed several times and is now expected to go live in the second or third quarter of 2026.
 
-If you are [planning a trip to Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/) later this year, factor this small but notable addition into your [travel budget](/blog/thailand-budget-2026-daily-costs/).
+If you are [planning a trip to Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/) later this year, factor this small but notable addition into your [travel budget](/thailand-index/budget/).
 
 ## Where Does the Money Go?
 
@@ -38,16 +38,16 @@ The fee is not just a cash grab. The Thai government has earmarked the revenue f
 
 ## How Will It Be Collected?
 
-Details on the exact collection method are still being finalized. Earlier proposals suggested integrating the fee into airline ticket purchases or collecting it at immigration checkpoints. The government has hinted at a digital payment system to keep queues moving smoothly at airports like Suvarnabhumi and Don Mueang. You will likely need to complete the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) as part of the same entry process.
+Details on the exact collection method are still being finalized. Earlier proposals suggested integrating the fee into airline ticket purchases or collecting it at immigration checkpoints. The government has hinted at a digital payment system to keep queues moving smoothly at airports like Suvarnabhumi and Don Mueang. You will likely need to complete the [Thailand Digital Arrival Card (TDAC)](/visa/digital-arrival-card/) as part of the same entry process.
 
 ## Should You Be Worried?
 
-At around 8 to 9 USD, the fee is modest compared to similar charges in other countries. Bhutan charges a daily Sustainable Development Fee, and several Caribbean nations collect departure taxes that are far higher. For most visitors, this will barely register against the [cost of flights and accommodation](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+At around 8 to 9 USD, the fee is modest compared to similar charges in other countries. Bhutan charges a daily Sustainable Development Fee, and several Caribbean nations collect departure taxes that are far higher. For most visitors, this will barely register against the [cost of flights and accommodation](/thailand-index/budget/).
 
 ## The Bigger Picture
 
 The entry fee is part of Thailand's broader shift toward value-over-volume tourism. Rather than simply chasing visitor numbers, the government wants to ensure tourism revenue funds long-term sustainability. This connects directly to the [Amazing 5 Economy plan](/blog/thailand-3-trillion-baht-tourism-target-amazing-5-economy-2026/), TAT's overarching 2026 strategy targeting 3 trillion baht in revenue. With a target of 70 percent of tourism businesses achieving [STAR (Sustainable Tourism Acceleration Rating) accreditation](/blog/thailand-star-green-tourism-accreditation-2026/) by the end of 2026, the fee is one piece of a larger strategy to protect the destinations that millions come to enjoy.
 
-Also make sure your entry documents are in order: check the current [Thailand visa guide for 2026](/blog/thailand-visa-guide-2026/) and note that [visa-free stays have been trimmed from 60 to 30 days](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) for many nationalities.
+Also make sure your entry documents are in order: use the current [Thailand visa guide](/visa/) and check the [visa-exemption owner](/visa/visa-free-entry/) shortly before departure. At our 27 July 2026 official-source check, the ordinary British-passport route still states up to 60 days; the temporary policy can change without notice.
 
 Keep an eye on official TAT announcements for the exact rollout date, and [plan accordingly](/blog/thailand-itinerary-first-timers/).

@@ -1,0 +1,215 @@
+# DFS parsed source — https://islandhoppinginthephilippines.com/world/travel-updates/why-philippines-much-better-than-thailand/
+
+**Captured:** 2026-07-27T08:54:45.622Z
+**Cost:** 0.00015
+**HTTP status:** 200
+
+# Why the Philippines is so much better than Thailand
+## Rummy 600 (500) card game rules
+
+[Rummy 600 (500) card game rules](https://islandhoppinginthephilippines.com/world/travel-updates/rummy-600-card-game-rules/)
+
+I lived in Thailand for almost three years and in the Philippines for more than ten. Here is my take on both countries. [My wife and I](https://islandhoppinginthephilippines.com/world/travel-updates/mel-and-karel/) now offer tours in the Philippines. Feel free to write to us if you’d like help organizing your travels here.
+## Food and general perspective
+
+Sure, the food is awesome in Thailand, my favourite in the world. Followed by [Mexico](https://islandhoppinginthephilippines.com/travel-europe/mexico.trip/) and then [Turkish](https://islandhoppinginthephilippines.com/travel-europe/turkey-2/). I love spicy, full of flavour food, and I love cooking.
+
+So if that is your only benchmark, you’ll be happy in Thailand. But I lived there for more than two years and here is why I think the [Philippines](https://islandhoppinginthephilippines.com/history-and-interesting-facts-about-the-philippines/) is so much better.
+
+First of all, I’ve travelled extensively throughout [Thailand](https://islandhoppinginthephilippines.com/thai/) and the only place I could find worth settling at was Koh Phangan. I heard good reports about [Chiang Mai](https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101), full of expats thrown out of Goa, India in search of a new home to exercise their yoga tantra ways, but I’ve never been. In any case, it’s inland, and I’m a beach bug.
+
+Meanwhile, the Philippines has SEVEN THOUSAND beach paradise islands. It just never stops. You could pick some random corner of the country and bask the remainder of your life in paradise.
+
+Furthermore, the Filipinos are sincerely nice. Unlike the Thais, who are professionals with their genuine looking smiles, but if you live there long enough, you will learn it is all fake, and under their endless layers of supposed hospitality lives a deep and dark despise.
+
+Besides my own robust experiences, I overheard one bloke mention that you could live in the country for 26 years, be married with children, yet their family will never consider you one of their own.
+
+Meanwhile, English is an official language in the Philippines. If you venture off the beaten path in Thailand, you will be lost in the woods, hopelessly flailing your hands and arms in a desperate attempt at communication. Not in the Philippines, where almost everyone speaks English quite well.
+## Cons about the Philippines
+
+Now, to be fair, no place is perfect, is it? I can testify to this as someone who has travelled to more than fifty countries (yes, the Philippines is my favourite, and where I have decided to settle down, [marry](https://islandhoppinginthephilippines.com/goof/finally-getting-married/), and start a family).
+
+One con is that the 7,000+ islands makes it difficult and expensive to get around. Although one might argue this is a plus because it keeps micro regions isolated from invasion the likes of McD.
+
+This makes the country generally more expensive to traverse and explore than Thailand, which benefits from most of its terrain being mainland.
+
+I’ve already mentioned that the food is far from lackluster, although there are some on the internet who [rave about it](https://islandhoppinginthephilippines.com/palawan/v/best-food-in-the-philippines/).
+## Cons about Thailand
+
+Now, to list some of my negative experiences from Thailand. Note, I lived there for about 2.5 years, while I lived in Philippines (at the time of this writing) more than 9 years.
+
+Thais are vehemently proud that they managed to repel colonialism. Something I certainly support, but proud nevertheless. This nurtures a solid undercurrent of despise against foreigners, which some of them like to refer to as White Monkeys (and, to be truthful, based on their behaviour, I have to agree with this statement). Otherwise it has a very long and interesting history.
+
+On the island where I lived, there are many rampant stories of foreigners complaining about something or other but whose body parts were found floating in the ocean the next day. The local police couldn’t care less.
+
+I once met a journalist in Malaysia who told me a generally concealed story of the Muslims protesting in the southern part of the country. I drove through there and, while in search of a beer, I received the most horrid and disdainful looks. To squash such sentiment, the Thais went into a mosque, rounded up all of their holy male prayers, layered them on top of one another in a truck parked in the hot sun, and let them bake like crammed sardines in a can until they all died. Hey, I’m not impressed with my experience with Muslims in Asia either, but isn’t this a bit extreme?
+
+Everywhere I ventured in Thailand that was not a money grubbing tourist area but just normal locals was littered with garbage by the side of the road, and scattered everywhere. Generally, Filipinos have a much greater respect for nature, while Thais can’t see much farther than a buck.
+
+And lastly, after living in Thailand for more than two years, I found it the first country (of the more than 50 that I visited) I ever lived in longer term to have departed without a single, sincere, honest (local) friend.
+## How about the girls?
+
+If you’re into certain pleasure, although there are definitely plenty of girlie bars in the Philippines, they seem more abundant and common in Thailand. It is more accepted in their culture. In the Philippines, the hardcore Catholic country that it is, females are generally more concerned about maintaining an upright standing with their parents, while in Thailand the focus is more on how much she can contribute to the family coffers, means not important.
+
+In the Philippines it is more of a status to have a foreign partner where in Thailand the concern is how much money the foreigner is willing to spend on her. But it is not uncommon for a Filipino girl to ask for money so she can send it back to her family in the provinces. There are gold diggers here too, but I’d say in less of a professional manner.
+
+During my stay in Thailand, only a small part of my 15 years without a girlfriend when I was actively looking for a life partner, I actually did meet a girl I was considering as marriage material. She would frequent her Buddhist church, ran her own business, was very sharp, beautiful, but very conservative. I could only imagine how prim and proper I would have to look every time I am introduced to any of her relatives, and she liked to command her ways with a sharp whip. To a certain extent I thought it was sexy, and definitely a good partner to get things done in the country, but just not for me.
+
+In contrast to Filipino girls, who are sweet, loving, caring, submissive in a feminine way while expecting respect, basically the perfect wife material which would only boil the blood of your typical feminist in the west. And, as I already mentioned, my 15 year search was over after I arrived in the Philippines. I consider my wife my equal and partner in life.
+### Girly bars and ladyboys
+
+But beware, gents! In your search for a permanent or one night partner, you should take caution in SE Asia, with their petite frames and smooth faces, the guys can look rather deceptive!
+
+When I was traveling solo I’d often frequent the girly bars, because they were the best pool players and, why not enjoy attractive company? I was not interested in their offer of a massage in the back room with a “happy ending”, but just in a friendly flirt and sometimes buy them a more expensive drink so they could enjoy themselves too and earn a little bit for themselves.
+
+But these strips would often have nestled within them a ladyboy bar, and it can be hard to tell the difference. After several years of living here I learned to differentiate the subtle differences in how they walked and style of movement, and their fake, wispy, female sounding voice, but it’s something you might want to look out for.
+## Partying
+
+For the younger backpacker I’d say Thailand definitely scores way more points than the Philippines, although decent nightlife can be found in the bigger cities like [Manila](https://islandhoppinginthephilippines.com/manila/) and [Cebu](https://islandhoppinginthephilippines.com/visayas/explore/cebu-things-you-need-to-know/). If you’re into smoking doobies or molly dancing, they and others are much easier to get in Thailand, especially in renowned party spots like Koh Phangan, where I lived for several years and found it easy to get, even over the counter in some bars. This in spite the official stance it is illegal. In Philippines, following the six year reign of president Duterte, his extremely strict policies have stuck and best not even to ask, although trickles can be found here and there if you know the right people.
+
+Thailand is definitely more of the party joint while, as explained elsewhere on this page, the Philippines is better for clean family outings. Filipinos are very family oriented and love to organize big parties for their childrens’ birthdays, but obviously you must know them personally in order to be invited. However, Filipinos are very hospital and if you are nice and they know you only a short time, I am sure you will also be invited!
+## How about the costs?
+
+Drawn from the web and reflects my own experience:
+
+When comparing the cost of living and traveling in the Philippines and Thailand, it’s important to look at key factors such as accommodation, food, transportation, and activities. Both countries are relatively affordable for budget-conscious travelers and expats, but there are notable differences in certain areas.
+### Travel Costs:
+
+If flying within the country or booking flights to or from your own, you can use this widget to help you:
+
+Or this for accommodation:
+#### Accommodation:
+
+Philippines: Budget accommodations like hostels range from $10-$20 per night, while mid-range hotels typically cost $30-$60. Luxury resorts, particularly on islands like [Palawan](https://islandhoppinginthephilippines.com/palawan/) or [Boracay](https://islandhoppinginthephilippines.com/visayas/panay/boracay-guide/), can go up to $100 or more per night.
+
+Thailand: Thailand generally offers a wider range of accommodation. Hostels and budget guesthouses can be found for $7-$15 per night, while mid-range hotels typically range from $20-$50. Thailand’s luxury options, especially in touristy areas like Phuket or Chiang Mai, can start at around $70 per night and go upwards depending on location.
+#### Food:
+
+Philippines: [Local food](https://islandhoppinginthephilippines.com/palawan/v/best-food-in-the-philippines/) is affordable, with meals at casual eateries (carinderias) costing around $2-$5. Restaurants are pricier in tourist spots but still affordable, around $10-$20 per meal for two at mid-range restaurants.
+
+Thailand: Street food in Thailand is incredibly cheap and diverse, with meals costing as low as $1-$3. Dining at casual restaurants might cost around $5-$10, while more upscale dining options range from $15-$30 for a meal for two.
+#### Transportation:
+
+Philippines: Domestic flights between islands can add to travel costs. Ferry rides range from $10-$40 depending on the route. Local transport, such as jeepneys or tricycles, is very cheap, usually under $1 per ride.
+
+Thailand: Thailand’s transport network is more efficient, with affordable buses and trains for intercity travel. A bus ride costs around $1-$2, and tuk-tuk rides in tourist areas are usually around $3-$10. Domestic flights can be found for as low as $30.
+#### Activities:
+
+Philippines: [Island-hopping tours](https://islandhoppinginthephilippines.com/), [diving](https://islandhoppinginthephilippines.com/palawan/boat-tours/reefs-and-wrecks-in-coron/), and [adventure activities](https://islandhoppinginthephilippines.com/ph/philippines-private-adventure-tours-packages/) can cost between $20 and $50 per day. Entry to natural attractions (e.g., waterfalls, parks) ranges from $2-$10.
+
+Thailand: Activities like temple tours, trekking, and snorkeling are relatively inexpensive, ranging from $10-$40 for day trips. Entrance fees for temples and parks are usually less than $5.
+#### Rent:
+
+Philippines: Rent in major cities like [Manila](https://islandhoppinginthephilippines.com/manila/) or [Cebu](https://islandhoppinginthephilippines.com/visayas/explore/cebu-things-you-need-to-know/) is higher than in provincial areas. A one-bedroom apartment in a city center might cost between $300-$600 per month, while it’s around $150-$300 in rural areas.
+
+Thailand: Rent is slightly cheaper in Thailand, with one-bedroom apartments in city centers like Bangkok or Chiang Mai costing around $300-$500 per month. In smaller towns, rent can be as low as $150-$250.
+#### Groceries and Eating Out:
+
+Philippines: Monthly grocery bills are typically around $150-$250. Eating out at local restaurants is affordable, with meals costing around $3-$7. Imported goods are pricier.
+
+Thailand: Thailand’s grocery costs are similar, around $150-$200 per month. However, Thailand offers cheaper and more diverse street food options, making eating out more affordable for daily meals.
+#### Utilities and Internet:
+
+Philippines: Utilities (electricity, heating, cooling, water) average $80-$150 per month depending on consumption. Internet costs around $30-$50 per month.
+
+Thailand: Utilities in Thailand tend to be cheaper, ranging from $50-$100 per month. Internet costs around $15-$30 per month and tends to be faster and more reliable.
+#### Healthcare:
+
+Philippines: Healthcare can be expensive without insurance. Private hospitals are recommended for quality care, with consultations costing around $30-$60.
+
+Thailand: Thailand is known for affordable, high-quality healthcare. A visit to a private doctor may cost around $15-$40, and the medical tourism industry offers competitive rates for major treatments.
+### Overall:
+
+Philippines: Traveling and living in the Philippines can be slightly more expensive than Thailand due to the archipelago’s transportation logistics, especially between islands. Major cities like Manila can be pricey, but rural or provincial areas are much cheaper.
+
+Thailand: Thailand is generally considered more affordable, especially for long-term living. The country has more developed infrastructure for tourism, lower intercity travel costs, and a greater variety of low-cost options for food and accommodation.
+
+In conclusion, Thailand tends to be the cheaper option for both travelers and expats, especially when factoring in accommodation, food, and healthcare. The Philippines might offer more unique island experiences but at slightly higher travel costs due to its geography.
+## What about theft?
+
+Here in the Philippines the amount of theft or even being ripped off with a higher price was practically negligible over my last 10+ years living here. Then again, I’m a rather humble looking and jovial guy, and I’ve heard tales on expat forums indicating to the otherwise, but in most such cases the writer seemed on the arrogant side, naive, and even deserving.
+
+In Thailand, however, I’ve got quite a few stories I can tell:
+
+I once bought some electronics, went home, didn’t work, came back the next day and the owner of the shop said, “Well, you bought it, so.” Meanwhile, in the Philippines I noticed that everything you buy they persist in testing it in front of you, even if it is just a humble pen, or any lightbulb, for example.
+
+I was at a bar for a while, it was getting late, I presume I looked a bit tipsy, but my head was certainly clear enough to see that the bartender blatantly short changed me, as she spread out the smaller bills fan-like to make it look more than it actually was. Making a quick calculation in my head, I said the balance did not make any sense and it does not add up to anything. She just denied it, “Nooooo”, her voice oscillating in a singing fashion, her teeth showing from a smug grin.
+
+I heard of one guy staying in a bungalow who had his expensive Macbook laptop stolen from within his bungalow while he was out. He bought another and the same thing happened. A third until he finally left. Grant it, he must be a total moron to have stayed in the same place, not deducing that one of the staff or someone else had copies to his keys, and I’ve seen a lot of idiots visiting Koh Phangan that I can easily sympathise with the locals, but this just shows the level of cheekiness and disdain that you will not experience in the Philippines.
+
+I was once walking back early morning from a dance bar party when a fancy, shiny new pickup truck pulled over next to me and the passenger asked if he could give me 1,000 baht in exchange for 700. Grant it, it was a long night of partying, but still I had enough senses to observe what happened. I thought it odd but I was too tired to think about it much, so I opened my wallet. He responded, “That’s it”, helped me with the transaction and was on his way. When I got back to my bungalow I noticed my wallet was 2,000 baht shy. After reflecting on what transpired I deduced that with his nimble, two smallest fingers covered from view behind my own hand he managed to slip out those two notes during the transaction. Impressive, but again, cheeky. This level of blatant disrespect towards foreigners is practically non-existent in the Philippines.
+
+When going on my trip every three months out of the country in order to renew my visa, I’d often go to Penang, Malaysia. As usual I’d like to drink beer on the train, but at some point I had to wait from about 1am to 4am at a certain station, before transferring to another train. Was difficult to stay awake for this duration and once the train did not wake me up. It silently pulled away and later someone hurriedly woke me, exclaiming that the train had already departed and that the last remaining bus will soon leave. Still waking up I hurriedly followed him as he took me to the train ticket booth, exchanged my train ticket for half price, buy the bus ticket from him and on my way I was. But once on the bus and able to better collect my thoughts, it sure seemed like a routine operation, while in the Philippines I am sure the locals would care enough to wake me when the train arrived. Simply a different kind of people.
+
+Before coming to Thailand I heard warnings about youngsters opening up your backpack as you walk along on the sidewalk. This actually happened to me on one occasion. Nimble fingers again and I didn’t feel anything, but when I turned my head for a random check I noticed several of my zippers wide open with some items already half hanging out and ready to be rummaged and plundered, with three grinning teenagers in hot pursuit. In the Philippines we’d occasionally leave some of our things that weren’t working so well on the side of the major road above our house, to give away. But my wife would repeatedly stress that I should put a big sign “FREE” on it, otherwise locals will easily ignore it.
+
+Maybe unimportant, but I do not remember ever seeing ATMs so plainly visible near the entrance to a hospital or even present on its grounds. Maybe a bit telling?
+
+Otherwise, I generally did enjoy my time for more than two years in Thailand, almost exclusively with other foreigners, but the character of and disdain from the locals definitely becomes apparent after several years.
+## The final takeaway
+
+For travelers and backpackers looking for a wild adventure, Thailand is not only more affordable, the food fantastic, but it has an exotic and exciting feel to it, with generally lots to see and do.
+
+But for [families](https://islandhoppinginthephilippines.com/ph/family-vacation-holiday-destinations-philippines/) and [romantic couples](https://islandhoppinginthephilippines.com/palawan/boat-tours/all-inclusive-romantic-honeymoon-getaway-package/) seeking peace away from the loud tourist crowd and an appreciation of nature, or if you are ready to settle down and retire somewhere with bountiful little kritters running around you, the Philippines is definitely for you.
+
+After leaving Thailand I made my way around SE Asia for a while, through Malaysia, Indonesia and Bali, but once I arrived to the Philippines I knew I found my home for good. It has been a [great adventure in search of beach paradise](https://islandhoppinginthephilippines.com/palawan/hunt-for-beach-paradise/), and now together with my wife we organize [boat tours in and between El Nido and Coron](https://islandhoppinginthephilippines.com/). Would be happy to host you!
+
+Experience the thrill of
+
+[island hopping cruise expeditions in the Philippines](https://islandhoppinginthephilippines.com/)
+#### Is the Philippines safer for tourists than Thailand?
+
+Yes, many travelers report feeling safer in the Philippines, especially in remote island provinces like Palawan and Siargao. The locals are incredibly friendly, English is widely spoken, and scams targeting tourists are less frequent compared to major Thai cities like Bangkok or Pattaya.
+#### Is the Philippines more affordable than Thailand for travel?
+
+Yes—and no. While Thailand often seems cheaper upfront, total Philippine costs (like inter-island flights and ferries) can balance it out. Still, off-the-beaten-path destinations in the Philippines frequently offer excellent value in accommodation and food.
+#### Which country has better beaches, the Philippines or Thailand?
+
+The Philippines takes the lead with its over 7,600 islands, featuring pristine white sands and turquoise waters. Destinations like El Nido, Coron, Siargao, and Boracay are frequently ranked above those in Thailand for natural beauty and fewer crowds.
+#### Is transportation in the Philippines more challenging than in Thailand?
+
+Yes—the Philippines relies heavily on flights and ferries between islands and lacks Thailand’s integrated bus‑boat combo systems. Thailand’s network (buses, trains, ferries) offers more convenient, seamless travel across the country.
+#### Which country is safer in terms of road travel?
+
+Road safety is a concern in Thailand: it ranks highest for road-traffic fatalities in ASEAN (32.7 deaths per 100,000) compared to 12.3 in the Philippines. If you rent scooters or drive, keep extra caution in Thailand.
+#### Is English easier to use in the Philippines than in Thailand?
+
+Definitely—English is an official language in the Philippines and widely spoken, making navigation, communication, and independent travel much easier compared to Thailand.
+#### Are Filipino locals more welcoming than in Thailand?
+
+Many visitors say Filipinos stand out for their warmth, genuine smiles, and stronger community bonds. Some expats note closer, more meaningful social connections compared to experiences in Thailand.
+#### Which country is better for ecotourism and sustainable travel?
+
+Both are working on responsible tourism, but the Philippines has taken strong action—e.g., the Boracay rehabilitation (2018–2019) significantly improved sustainability and cleanliness. Thailand also promotes agro- and community-based tourism.
+#### Which country is friendlier to long‑term travelers or digital nomads?
+
+The Philippines is increasingly appealing: it offers coworking spaces, relaxed visa extensions, and widespread English use. Thailand has strong digital nomad enclaves too, but the language barrier and visa complexities are considerations.
+#### How do food experiences compare between the two countries?
+
+Thai food is world-famous and typically cheaper. Filipino cuisine is less spicy but varied and evolving. In city centers, Filipino local and Western food options can be pricier.
+#### Which destination would you choose for a more 'authentic' travel experience?
+
+If you're after raw adventure, unsung beaches, and personal cultural exchange, the Philippines wins. Thailand is more developed and streamlined, but that also means busier tourist hubs. Many travelers find the Philippines offers a more genuine and memorable immersion.
+#### What is the nightlife like in the Philippines vs. Thailand?
+
+Thailand is known for its party scenes, but the Philippines offers a more laid-back and authentic nightlife. Think beach bonfires, reggae bars, and live acoustic sessions by the sea. It’s perfect for those who prefer real connections over commercial nightlife.
+#### Where is the best place to live as a retiree in the country.
+
+I'm 61 but actually never want to retire. For advice like this I would recommend searching some Philippines expat forums on facebook, where other retirees exchange opinions. Personally I am not interested in living in any city, I fully enjoy my time with my family so I do not at all require the company of other expats, I'm fit and regularly exercise so I do not need to be surrounded by medical facilities or low mobility comfort and conveniences etc, so probably not the best person to ask for this advice but from reading such forums, Dumagete, Cebu and Malaki were often suggested. Iloilo is up and coming, lots of expats here and my wife even has a popular facebook group there. We live on a larger island with decent sized hospitals, which my wife demanded for our children. That's about it.
+#### What about theft?
+
+My take is explained above at https://islandhoppinginthephilippines.com/world/travel-updates/why-philippines-much-better-than-thailand/#What_about_theft
+## Other pages which might interest you
+
+What is the [weather like and forecast in the Philippines](https://islandhoppinginthephilippines.com/weather-forecast/) (not far off from Thailand)?
+
+[Best time to visit the Philippines](https://islandhoppinginthephilippines.com/ph/best-time-visit/)
+
+[Authentic Filipino culture](https://islandhoppinginthephilippines.com/ph/filipino-culture-tradition/)
+
+[Best diving sites in the Philippines](https://islandhoppinginthephilippines.com/ph/best-scuba-diving-sites/)
+
+[Getting visa extensions in Thailand](https://islandhoppinginthephilippines.com/thai/visa-extension-thailand.html)
+
+[Best places to visit in the Philippines](https://islandhoppinginthephilippines.com/ph/best-beautiful-places-to-visit-in-the-philippines-and-things-to-do/)
+

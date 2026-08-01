@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1, "locale": "nl", "slug": "is-thai-food-gluten-free", "route": "/nl/blog/is-thai-food-gluten-free/", "cluster": "food", "editorialStatus": "ready", "updatedAt": "2026-08-01",
+  "seo": { "title": "Is Thais eten glutenvrij? Controleer saus en keuken", "description": "Thais eten is niet automatisch glutenvrij. Controleer sauzen, noedels, premixen, frituurolie en kruiscontact met vijf gerichte vragen.", "primaryKeyword": "is Thais eten glutenvrij", "secondaryKeywords": ["glutenvrij eten Thailand", "coeliakie Thailand eten", "gluten in Thaise sauzen"], "searchIntent": "informational", "canonicalPath": "/nl/blog/is-thai-food-gluten-free/" },
+  "hero": { "eyebrow": "Ingrediënt én kruiscontact", "title": "Is Thais eten glutenvrij?", "accent": "Nooit op de gerechtnaam vertrouwen", "description": "Rijst kan van nature glutenvrij zijn, maar sauzen, noedels, premixen en gedeelde apparatuur veranderen het antwoord.", "image": "/images/redesign/editorial/is-thai-food-gluten-free-hero.webp", "imageAlt": "Thaise kok en reiziger vergelijken rijstnoedels, tarwenoedels en sausflessen", "primaryCta": { "label": "Bekijk de risico’s", "href": "#risicos" }, "secondaryCta": { "label": "Vijf vragen", "href": "#keukencheck" } },
+  "layout": { "kind": "food-guide", "foodMode": "overview", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Thais eten is niet automatisch glutenvrij. Controleer ieder concreet recept op sauzen, noedels, beslag, premixen en verwerkt vlees of vis, plus kruiscontact via wok, grill, gereedschap en frituurolie.",
+  "blocks": [
+    { "kind": "card-grid", "id": "risicos", "title": "Waar je per gerecht naar kijkt", "cards": [
+      { "title": "Sauzen en marinades", "description": "Sojasaus en samengestelde smaakmakers kunnen tarwe bevatten." },
+      { "title": "Noedels en beslag", "description": "Controleer samenstelling; de naam of het uiterlijk volstaat niet." },
+      { "title": "Premixen en verwerkt eten", "description": "Bouillon, currypoeder, worst en visballen vragen een etiketcheck." },
+      { "title": "Gedeelde apparatuur", "description": "Wok, grill, zeef, tang en frituurolie kunnen kruiscontact geven." }
+    ] },
+    { "kind": "checklist", "id": "keukencheck", "title": "Vijf vragen voor de keuken", "items": ["Welke sausmerken en premixen worden gebruikt?", "Bevat een ingrediënt tarwe, gerst, rogge of mout?", "Wordt dezelfde wok of grill voor tarweproducten gebruikt?", "Is de frituurolie gedeeld met gepaneerd eten?", "Kan vanaf het begin met schoon materiaal worden gewerkt?"] },
+    { "kind": "callout", "id": "medisch", "tone": "warning", "title": "Geen lijst met gegarandeerd veilige gerechten", "description": "Recept en keuken verschillen per zaak. Heb je coeliakie of een medisch dieet, volg dan je behandelteam voor je persoonlijke grens en voorbereiding." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Zijn rijstnoedels altijd glutenvrij?", "answer": "Niet automatisch. Controleer samenstelling, saus en kruiscontact van het bereide gerecht." },
+      { "question": "Is curry glutenvrij?", "answer": "Dat is niet uit de naam af te leiden. Currypasta, bouillon, sauzen en keukenpraktijk verschillen." },
+      { "question": "Is MSG gluten?", "answer": "Nee. Glutamaat en gluten zijn verschillende stoffen; controleer beide vragen apart." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Definities en voedingscontext", "items": [
+      { "title": "Gluten-Free Labeling of Foods", "publisher": "U.S. Food and Drug Administration", "url": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/gluten-free-labeling-foods", "checkedAt": "2026-08-01", "note": "Definitie en kruiscontactcontext; Amerikaanse regels zijn geen Thaise wet." },
+      { "title": "Eating, Diet, & Nutrition for Celiac Disease", "publisher": "National Institute of Diabetes and Digestive and Kidney Diseases", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/eating-diet-nutrition", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

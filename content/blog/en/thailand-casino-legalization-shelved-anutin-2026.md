@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand casino", "Anutin Charnvirakul", "Thailand gambling law", "entertainment complex bill", "Thailand tourism policy 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-casino-legalization-shelved-anutin-2026-hero.webp"
 description: "Prime Minister Anutin Charnvirakul has effectively killed Thailand's casino legalization plans. Here is what happened and what it means for tourism."
 featured: false
 readingTime: 3
@@ -38,7 +38,7 @@ His Bhumjaithai Party secured 191 seats in the February 2026 election and assemb
 
 The shelving removes one of the most talked-about potential shifts in [Thailand's tourism landscape](https://go2-thailand.com/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/). Proponents had argued that integrated resorts combining casinos, convention centers, [luxury hotels](https://go2-thailand.com/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/) and entertainment venues would diversify Thailand's tourism offerings and attract higher-spending visitors year-round.
 
-Without legal casinos, Thailand will continue to rely on its established strengths: [**beaches**](https://go2-thailand.com/best-beaches-in-thailand/), [temples](https://go2-thailand.com/blog/thailand-temple-etiquette-dress-code-guide-2026/), [street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/), [wellness retreats](https://go2-thailand.com/blog/best-wellness-retreats-thailand-2026/) and [nightlife](https://go2-thailand.com/blog/thailand-4am-closing-time-nightlife-law-2026/). The government has signaled that it will instead focus on [quality-over-quantity tourism](https://go2-thailand.com/blog/thailand-tourism-next-strategy-value-over-volume-2026/), [sustainable travel initiatives](https://go2-thailand.com/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/) and events such as the [IMF-World Bank Annual Meetings](https://go2-thailand.com/blog/thailand-imf-world-bank-annual-meetings-bangkok-2026/) coming to Bangkok in October 2026.
+Without legal casinos, Thailand will continue to rely on its established strengths: [**beaches**](https://go2-thailand.com/best-beaches-in-thailand/), [temples](https://go2-thailand.com/blog/thailand-temple-etiquette-dress-code-guide-2026/), [street food](https://go2-thailand.com/thailand-street-food/), [wellness retreats](https://go2-thailand.com/blog/best-wellness-retreats-thailand-2026/) and [nightlife](https://go2-thailand.com/blog/thailand-4am-closing-time-nightlife-law-2026/). The government has signaled that it will instead focus on [quality-over-quantity tourism](https://go2-thailand.com/blog/thailand-tourism-next-strategy-value-over-volume-2026/), [sustainable travel initiatives](https://go2-thailand.com/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/) and events such as the [IMF-World Bank Annual Meetings](https://go2-thailand.com/blog/thailand-imf-world-bank-annual-meetings-bangkok-2026/) coming to Bangkok in October 2026.
 
 ## Could It Come Back?
 

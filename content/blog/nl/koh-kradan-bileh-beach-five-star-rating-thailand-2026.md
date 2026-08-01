@@ -1,55 +1,63 @@
 ---
-title: "Koh Kradan en Bileh Beach eerste vijfsterren stranden van Thailand"
+title: "Koh Kradan en Bileh Beach: wat zegt de Beach Star-score?"
 slug: "koh-kradan-bileh-beach-five-star-rating-thailand-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
-category: "news"
-tags: ["Koh Kradan", "Bileh Beach", "Trang", "Krabi", "duurzaam toerisme", "beste stranden Thailand", "vijfsterren stranden", "Andaman eilanden", "Thailand reis tips"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Ontdek Koh Kradan in Trang en Bileh Beach in Krabi: de eerste stranden in Thailand met een perfecte vijfsterren Beach Star-beoordeling van de Pollution Control Department. Duurzaam genieten van topkwaliteit kust!"
+category: "nature"
+tags: ["Koh Kradan", "Bileh Beach", "Beach Star 2025", "stranden Thailand"]
+image: "/images/redesign/editorial/koh-kradan-bileh-beach-five-star-rating-thailand-2026-hero.webp"
+description: "Koh Kradan en Bileh Beach kregen vijf sterren in de Thaise Beach Star-beoordeling 2025. Lees wat die milieuscore wel en niet zegt voor je bezoek."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 6
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Bangkok Post - Islands win coveted 5 stars"
-    url: "https://www.bangkokpost.com/thailand/general/3218860/islands-win-coveted-5-stars"
-  - name: "Nation Thailand - Thai beach ratings name Koh Kradan, Bileh 5-star winners"
+  - name: "Pollution Control Department — Beach Star results 2025"
+    url: "https://epo16.pcd.go.th/th/view/?file=oJM3MRkjoF5aBKD2nGq4ZaN4oGq3AHjjoGqaBUD1nGq4ZKN5oGO3ARjloGIaZaDjnGW4YKNloGS3Zxj5oGIaA3D1nGO4A3N4oGI3A0jkoGyaZUD0nGW4AKNloGO3ZxjgoJIaoUEcnJM4Y3OyoJk3nHkzoF9aqKEcnGI4ZaNloF93MRkuoJ9aoUEjnKI4YjWewEb3QWewEb3Q&n=%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7+%E0%B8%9B%E0%B8%B5+68+22092025&t=GTMgq2qxqS9cMUug"
+  - name: "Nation Thailand — Beach Star winners"
     url: "https://www.nationthailand.com/news/tourism/40064030"
-  - name: "Travel And Tour World - Thailand Achieves Prestigious Five-Star Beach Star Ratings"
-    url: "https://www.travelandtourworld.com/news/article/thailand-achieves-prestigious-five-star-beach-star-ratings-in-2025-setting-new-standards-for-thai-islands-tourism-and-sustainable-coastal-experiences/"
 ---
 
-Twee Thaise stranden hebben geschiedenis geschreven door als eerste in het land een **perfecte vijfsterren Beach Star-beoordeling** te ontvangen van de Thaise Pollution Control Department. **Koh Kradan** in de [provincie Trang](/city/trang/) en **Bileh Beach op Koh Hong** in de [provincie Krabi](/city/krabi/) behaalden beiden de hoogste score in de recente beoordeling. Dit resultaat past in een bredere beweging voor [duurzame en gecertificeerde toeristische bestemmingen in heel Thailand](/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/).
+Koh Kradan in Trang en Bileh Beach op Koh Hong in Krabi kregen **vijf sterren** in de Thaise Beach Star-beoordeling over 2025. Het officiële resultatenoverzicht van de Pollution Control Department (PCD) zet Bileh Beach bovenaan en Koh Kradan als tweede. Dit is een gedateerde milieubeoordeling, geen garantie voor rustig water, leeg strand of perfecte omstandigheden op jouw bezoekdag.
 
-## Wat is de Beach Star-beoordeling?
+## Wat is beoordeeld?
 
-Het Beach Star-programma is het officiële Thaise systeem om de milieukwaliteit van toeristische stranden te evalueren. De Pollution Control Department beoordeelt stranden op vijf criteria:
+Het Beach Star-programma kijkt naar de milieukwaliteit en het beheer van toeristische stranden. De PCD-resultaten geven Bileh Beach een totaalscore van 98,57 en Koh Kradan 96,33. Andere beoordeelde stranden kregen viereneenhalve, vier of drieënhalve ster.
 
-1. **Fysieke kenmerken** — zandkwaliteit, helderheid van het water en natuurlijke schoonheid
-2. **Vervuilingsniveaus** — waterkwaliteit, afval en geluidsoverlast
-3. **Natuurlijke hulpbronnen** — biodiversiteit en ecosysteemgezondheid
-4. **Milieubeheer** — afvalverwerking en beschermingsinspanningen
-5. **Toerismebeheer** — bezoekerscapaciteit, veiligheid en faciliteiten
+Gebruik de score als signaal dat de stranden in die meetronde hoog presteerden. Verwar de uitkomst niet met een actuele zwemveiligheidsmeting, weersverwachting, bezoekerslimiet of internationale hotelclassificatie.
 
-In de laatste ronde werden 20 toeristische stranden beoordeeld. Tien haalden 4,5 sterren of meer, maar alleen Koh Kradan en Bileh Beach bereikten de volle vijf sterren.
+## Twee stranden, twee reisvormen
 
-## Koh Kradan: Een bekende winnaar
+**Koh Kradan** past in een Trang-route. Je kunt het eiland als dagtrip bezoeken of er overnachten, afhankelijk van seizoen, bootverbinding en beschikbaarheid. Controleer vertrekpier, bagage, parkstatus en terugvaart voordat je een accommodatie vastlegt. Onze [Trang-gids](/nl/city/trang/) helpt de kust, stad en eilanden in één route te plaatsen.
 
-Koh Kradan is geen onbekende als het gaat om internationale erkenning. In 2023 werd het uitgeroepen tot het **beste strand ter wereld** door de World Beach Guide. Het eiland ligt in de Andamanzee binnen het [Hat Chao Mai National Park](/city/trang/attractions/hat-chao-mai-national-park/) en staat bekend om zijn lange strook wit zand, omzoomd door jungle, met een koraalrif langs de oostkust. Het duikt regelmatig op in lijsten van de [beste stranden in Thailand](/best-beaches-in-thailand/).
+**Bileh Beach** ligt op Koh Hong in Krabi en wordt doorgaans als bootstop bezocht. De exacte route, landingsmogelijkheid en tijd aan het strand hangen af van parkbeheer, zeecondities en operator. Kies geen tour alleen omdat een verkooppagina “Hong Island” noemt; controleer de concrete stops en voorwaarden.
 
-Om bij Koh Kradan te komen, neem je een boot vanaf de pier op het vasteland bij **[Pak Meng](/city/trang/attractions/pak-meng-beach/)** of **Kuantungku** in [Trang](/city/trang/) — de overtocht duurt ongeveer 45 minuten. De accommodatie is beperkt tot een handvol kleine resorts, wat het eiland rustig houdt. Er geldt een entree voor het national park (400 baht voor buitenlandse bezoekers). Als je een bredere reis door Zuid-Thailand plant, biedt de [Trang hotels-pagina](/best-hotels/trang/) handige bases op het vasteland.
+## Wat moet je vlak voor vertrek controleren?
 
-## Bileh Beach: Krabi's verborgen lagune
+- actuele parkopening en toegankelijke zones;
+- weer, wind en zeecondities;
+- vertrekpier en terugvaart;
+- reddingsmiddelen en briefing van de operator;
+- inbegrepen parktoegang en overige kosten;
+- regels voor afval, koraal, dieren en drones;
+- annuleringsbeleid bij ongeschikte omstandigheden.
 
-Bileh Beach op Koh Hong is minder bekend, maar minstens even adembenemend. Het maakt deel uit van het **Than Bok Khorani National Park** in [Krabi](/city/krabi/), en het strand ligt in een dramatische kalksteenlagune met smaragdgroen water. De meeste bezoekers bereiken het per longtailboot vanuit **[Ao Nang](/city/krabi/attractions/ao-nang-beach/)** of **[Krabi Town](/city/krabi/top-10-attractions/)** als onderdeel van een [eilandhopping-dagtocht](/blog/thailand-island-hopping-guide/).
+Laat niets achter, neem geen zand, schelpen of koraal mee en raak onder water niets aan. Een hoge milieuscore blijft alleen betekenisvol als bezoekers en operators de plek zorgvuldig behandelen.
 
-Omdat het in een national park ligt, wordt het aantal bezoekers gecontroleerd, wat heeft bijgedragen aan de ongerepte condities die de vijfsterrenbeoordeling opleverden. Deze aanpak sluit aan bij conservatiemodellen elders, zoals de [nieuwe koraalherstel- en ecoduikregels op Koh Tao](/blog/koh-tao-coral-restoration-eco-diving-rules-2026/) en de [bijgewerkte snorkelbeperkingen bij de Similan-eilanden](/blog/similan-islands-diving-snorkelling-new-rules-2026/).
+## Veelgestelde vragen
 
-## Wat betekent dit voor bezoekers?
+### Zijn dit de eerste vijfsterrenstranden van Thailand?
 
-De vijfsterrenaanduiding geeft aan dat deze stranden voldoen aan de hoogste milieunormen in Thailand. Voor reizigers die waarde hechten aan goed beheerde, schone bestemmingen, is de Beach Star-beoordeling een betrouwbare indicator. Het past in Thailands bredere [Green Star-toerismeaccreditatieschema](/blog/thailand-star-green-tourism-accreditation-2026/) als onderdeel van de koers naar verantwoord reizen.
+Nee. Historische PCD-publicaties noemen ook in eerdere jaren vijfsterrenstranden. Formuleer de 2025-uitkomst daarom als de hoogste score van die beoordelingsronde, niet als een absolute primeur.
 
-In 2026 plant de Pollution Control Department het programma uit te breiden door lokale autoriteiten extra stranden te laten nomineren voor beoordeling. Toeristen worden ook uitgenodigd om deel te nemen aan evaluaties via een QR-codesysteem — een primeur voor het programma.
+### Is Koh Kradan altijd schoon en rustig?
 
-Als je een reis door Zuid-Thailand plant en de stranden op hun best wilt ervaren, dragen Koh Kradan en Bileh Beach nu het officiële keurmerk van de topkustbestemmingen van het land. Voor een volledig overzicht van must-visits, bekijk de [gids voor de beste stranden in Thailand](/blog/best-beaches-thailand/) en de [Krabi-reisgids](/blog/krabi-travel-guide/). En als je een vergelijkbaar rustig, niet-overvol eiland aan de oostkust zoekt, is [Koh Kood in de provincie Trat](/blog/koh-kood-quiet-island-guide-trat-2026/) een uitstekende aanvulling op een Andaman-itinerarium in het zuiden. Voor reisplanning benadrukt de [Thailand-huwelijksreisgids](/blog/thailand-honeymoon-guide-romantic-destinations/) beide regio's voor koppels die op zoek zijn naar ongerepte, rustige kustlijnen. Vanuit Nederland vlieg je direct vanaf Schiphol naar Krabi of Trang met KLM-partners, ideaal voor een zorgeloze vakantie in het droge seizoen.
+Nee. De score is een momentopname van een programma. Drukte, aanspoelsel en omstandigheden wisselen.
+
+### Kan ik Bileh Beach zelfstandig over land bereiken?
+
+Nee. Het strand ligt op Koh Hong en vraagt vervoer over water. Controleer een toegestane route bij park en operator.
+
+### Bewijst vijf sterren dat zwemmen veilig is?
+
+Nee. Volg actuele lokale waarschuwingen, weersinformatie en instructies van park en bootbemanning.

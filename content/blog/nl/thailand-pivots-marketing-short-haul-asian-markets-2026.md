@@ -1,45 +1,59 @@
 ---
-title: "Thailand richt toerismemarketing op korteafstand Aziatische markten"
+title: "Thailand richt marketing in 2026 sterker op korte reizen uit Azië"
 slug: "thailand-pivots-marketing-short-haul-asian-markets-2026"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Editorial"
 category: "news"
-tags: ["toerismestrategie", "Aziatische markten", "TAT", "toerisme 2026", "Midden-Oosten crisis", "Thailand vakantie 2026", "vluchten Thailand", "toerisme tips"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Door het Midden-Oosten conflict dalen langeafstand vluchten naar Thailand. Ontdek hoe TAT nu inzet op naburige Aziatische landen voor meer bezoekers. Tips voor je reis vanuit Nederland in 2026."
+tags: ["Thailand toerismemarketing 2026", "Aziatische markten", "TAT", "korte reizen Thailand"]
+image: "/images/redesign/editorial/thailand-pivots-marketing-short-haul-asian-markets-2026-hero.webp"
+description: "TAT stemt campagnes voor Aziatische markten af op korte stedentrips, eten, events en ontspanning. Dit is marketingstrategie, geen garantie op goedkope vluchten."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 6
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Travelmole - Thailand tourism redirects marketing initiatives to neighboring markets"
-    url: "https://www.travelmole.com/news/thailand-tourism-effect-gulf-war/"
-  - name: "Travel And Tour World - Thailand Faces a Severe 25% Decline as Iran War Triggers Air Travel Chaos"
-    url: "https://www.travelandtourworld.com/news/article/thailand-faces-a-severe-twenty-five-percent-decline-in-2026-tourism-as-iran-war-triggers-global-air-travel-chaos-severely-impacting-visitor-numbers-from-europe-the-middle-east-and-long-haul-markets/"
-  - name: "Travel And Tour World - Thailand's Tourism Recovery Amid Middle East Conflicts and Visitor Trends"
-    url: "https://www.travelandtourworld.com/news/article/thailands-tourism-recovery-amid-middle-east-conflicts-and-visitor-trends-from-china-malaysia-germany-uk-france-russia-and-israel-everything-travelers-should-know/"
+  - name: "TAT Newsroom — TAT en AirAsia MOVE"
+    url: "https://www.tatnews.org/2026/06/tourism-authority-of-thailand-and-airasia-move-partner-to-boost-travel-to-and-across-thailand/"
+  - name: "TAT Newsroom — Thailand Tourism Update TTM+ 2026"
+    url: "https://www.tatnews.org/2026/06/thailand-tourism-update-at-ttm-2026-reinforces-quality-led-growth-direction/"
+  - name: "TAT Newsroom — Asia Pacific travel intentions"
+    url: "https://www.tatnews.org/2026/07/thailand-ranks-among-asia-pacific-travellers-top-five-destinations-in-visa-study/"
 ---
 
-De Thaise toerismeautoriteiten voeren een grote omschakeling door in hun marketing, waarbij ze promotiebudgetten en campagnes verleggen naar korteafstand markten in Azië. Dit komt door het aanhoudende Midden-Oosten conflict dat vliegroutes ontregelt en langeafstand aankomsten sterk vermindert. Voor een breder beeld van hoe deze verstoringen uitpakken, lees onze coverage over de [impact van het Midden-Oosten conflict op Thailand vluchten en luchtvaartprijzen](/blog/middle-east-conflict-thailand-flights-airfare-2026/) en [hoe bezoekersaantallen in 2026 verschuiven](/blog/thailand-tourism-2026-middle-east-impact-visitor-numbers/).
+De Tourism Authority of Thailand richt een deel van haar marketing in 2026 nadrukkelijk op **korte reizen uit Aziatische markten**. In de officiële TTM+-update worden voor korteafstandmarkten vooral eten, entertainment, ontspanning en compacte trips genoemd.
 
-## Het probleem: Langeafstand reizen onder druk
+Dat is een marketingkeuze, geen aankondiging dat Thailand Europese reizigers minder welkom heet en ook geen garantie op lagere ticketprijzen.
 
-Aankomsten van Europese toeristen in Thailand daalden met **18 procent** in de eerste week van maart 2026, terwijl het aantal bezoekers uit het Midden-Oosten nog harder kelderde. Ontregelde vliegcorridors door de Golfregio dwingen luchtvaartmaatschappijen om routes om te leiden, wat uren en kosten toevoegt aan reizen tussen Europa en Zuidoost-Azië. Voor reizigers vanuit Nederland betekent dit hogere ticketprijzen en langere vluchten vanaf Schiphol. Thaise autoriteiten waarschuwen dat een langdurig conflict kan leiden tot een **25 procent daling** in totale buitenlandse aankomsten, wat het doel van 36,7 miljoen bezoekers voor dit jaar in gevaar brengt. De TAT heeft een speciale [crisismonitoringcentrum](/blog/thailand-tat-crisis-monitoring-centre-march-2026/) opgericht om ontwikkelingen in real time te volgen, en de regering stelt [korting op vliegtuigbrandstofbelasting](/blog/thailand-airlines-jet-fuel-tax-cut-proposal-march-2026/) voor om de impact op luchtvaartmaatschappijen op te vangen.
+## Wat is er daadwerkelijk veranderd?
 
-## De omschakeling: Focus op buren
+TAT werkt met digitale reisplatforms en regionale partners om campagnes gerichter te maken. Een driejarige samenwerking met AirAsia MOVE koppelt bestemmingspromotie aan inzichten uit reizigersgedrag. Daarbij ziet TAT mogelijkheden voor korte stedentrips, festivals en eventgedreven reizen.
 
-Als reactie heeft de Tourism Authority of Thailand (TAT) marketingmiddelen verlegd naar reizigers uit **China, Maleisië, India, Zuid-Korea, Japan en Australië** – markten die afhankelijk zijn van directe, korteafstand vluchten die niet geraakt worden door de Midden-Oosten verstoringen. Deze landen vormen al de grootste bronmarkten voor Thailand: China alleen al was verantwoordelijk voor het grootste aandeel internationale aankomsten begin 2026. Let op dat [de visumvrije verblijfsperiode in Thailand recent is verkort van 60 naar 30 dagen](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) voor veel nationaliteiten, een beleid dat het streven naar langere verblijven uit juist deze markten bemoeilijkt.
+## Waarom regionale markten belangrijk zijn
 
-De TAT heeft **gerichte stimuleringsmaatregelen** gelanceerd voor reizigers uit deze landen, inclusief promotiepakketten, speciale evenementen en samenwerking met regionale luchtvaartmaatschappijen om concurrerende tarieven te behouden op korteafstand routes. De campagne sluit nauw aan bij [AirAsia's 'Fly Your Feelings' promotie met LISA](/blog/airasia-tat-fly-your-feelings-free-flights-lisa-2026/) en de bredere [Amazing Thailand app en AI-partnerschap met Mastercard](/blog/amazing-thailand-app-ai-mastercard-2026/) die zich richt op digitaal ingestelde Aziatische reizigers.
+Reizigers uit nabijgelegen landen hebben vaak kortere vluchtverbindingen en kunnen makkelijker voor een compacte reis terugkeren. TAT probeert daarom verschillende boodschappen per markt te gebruiken:
 
-## Wat dit betekent voor bezoekers
+- korteafstand: toegankelijke breaks rond eten, entertainment en ontspanning;
+- langeafstand: meer nadruk op betekenisvolle reizen, cultuur en welzijn;
+- binnenlands: spreiding en lokale ervaringen.
 
-Voor reizigers uit Aziatische landen levert deze verschuiving tastbare voordelen op. Verwacht meer **Thailand-specifieke promoties** op regionale boekingsplatforms, meer directe vluchten en marketingcampagnes op maat van lokale voorkeuren. De TAT werkt samen met hotels en toerismebureaus aan pakketten die speciaal aansluiten bij korteafstand bezoekers, zoals weekenduitjes en korte break-reizen. Singapore Airlines voegt bijvoorbeeld [non-stop vluchten naar Chiang Mai toe in 2026](/blog/singapore-airlines-chiang-mai-nonstop-flights-2026/), terwijl een reeks [nieuwe luchtvaartroutes naar Thailand](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/) de verbindingen vanuit Aziatische hubs versterkt. Voor reizigers die zich afvragen waar naartoe, is onze [beste plekken om te bezoeken in Thailand](/best-places-to-visit-thailand/) pagina een goed startpunt.
+Dit zijn brede positioneringen. Ze voorspellen niet wat een individuele vlucht, hotelkamer of vakantie gaat kosten.
 
-## Een praktische reactie, geen permanente verandering
+## Wat betekent dit voor Nederlandse reizigers?
 
-Toerismeofficials benadrukken dat deze heroriëntatie een **praktische reactie** is op een specifieke geopolitieke situatie, en geen langdurige afscheid van Europese en langeafstand markten. Zodra vliegroutes normaliseren, wil Thailand terugkeren naar een evenwichtige aanpak. De bredere strategie – samengevat als ["Value is the New Volume"](/blog/thailand-tourism-next-strategy-value-over-volume-2026/) – richt zich op bezoekers met hogere uitgaven, ongeacht herkomst. Dit past bij de parallelle [quietcation trend](/blog/thailand-quietcation-trend-tranquil-travel-2026/), die precies het soort langverblijvende, hoogbestedende reiziger aantrekt dat de TAT nastreeft. Maar voorlopig ligt de nadruk op het op peil houden van bezoekersaantallen en inkomsten door in te zetten op markten die Thailand nog steeds zonder hinder kunnen bereiken.
+Voor je eigen reis verandert de basis niet: vergelijk actuele vluchten, voorwaarden en totale reistijd. De marketingfocus kan wel zorgen voor meer aandacht voor lokale evenementen en routes buiten de bekendste bestemmingen.
 
-## Vroege resultaten
+Laat een campagneclaim niet bepalen of een plek bij je past. Begin bij je beschikbare dagen, het regionale weer en de gewenste reisstijl. Onze [Thailand-route voor twee weken](/nl/blog/thailand-itinerary-2-weeks/) helpt bij een realistische verdeling.
 
-De strategie lijkt te werken. Ondanks de daling uit Europa en het Midden-Oosten registreerde Thailand nog steeds **7,49 miljoen internationale aankomsten** tussen januari en half maart 2026, met een opbrengst van 368 miljard baht – zoals gedetailleerd in ons [rapport over de 7-miljoen bezoekers mijlpaal](/blog/thailand-tourism-7-million-visitors-march-2026/). Korteafstand markten vangen veel van de terugval op, en aankomende feestperiodes in China, Zuid-Korea en Japan beloven extra impulsen. Om het volledige beeld te krijgen van waar het Thaise toerisme naartoe gaat, bekijk onze [toerisme outlook voor 2026](/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/) en de analyse van [stijgende kosten voor toeristen](/blog/thailand-rising-costs-tourists-middle-east-crisis-2026/) als gevolg van de lopende crisis.
+## Veelgestelde vragen
+
+### Richt Thailand zich niet meer op Europa?
+
+Nee. TAT beschrijft verschillende proposities voor korte- en langeafstandmarkten. Een sterkere regionale campagne sluit Europese marketing niet uit.
+
+### Worden vluchten binnen Azië hierdoor goedkoper?
+
+Dat volgt niet uit de strategie. Prijs en beschikbaarheid blijven afhankelijk van route, maatschappij, vraag en boekingsvoorwaarden.
+
+### Wat is het belangrijkste doel?
+
+Gerichtere promotie en reizen met meer lokale waarde, in plaats van één identieke boodschap voor iedere markt.

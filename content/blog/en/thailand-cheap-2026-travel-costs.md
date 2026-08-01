@@ -40,17 +40,17 @@ Sitting in a local noodle shop in [Bangkok](https://go2-thailand.com/city/bangko
 
 Thailand's economy has shifted noticeably since the pandemic recovery. The baht has strengthened against major currencies, and tourism demand has rebounded hard—especially in beach destinations and [Bangkok](https://go2-thailand.com/city/bangkok/). During our three years in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we watched a simple pad thai jump from 30 baht to 45-50 baht at tourist-friendly spots. But here's the reality: **Thailand is still dramatically cheaper than Europe, North America, or Australia**—you're just paying more than backpackers did in 2015.
 
-The cost increases have been uneven. Accommodation in popular tourist zones has spiked hardest. Local transport, street food, and services remain genuinely affordable if you know where to look. The key is understanding which costs are fixed (flights, visas) and which are flexible (where you sleep, what you eat, which activities you choose). For a quick overview of current daily spending by category, see our [Thailand budget 2026 daily costs](/blog/thailand-budget-2026-daily-costs/) guide.
+The cost increases have been uneven. Accommodation in popular tourist zones has spiked hardest. Local transport, street food, and services remain genuinely affordable if you know where to look. The key is understanding which costs are fixed (flights, visas) and which are flexible (where you sleep, what you eat, which activities you choose). For a quick overview of current daily spending by category, see our [Thailand budget 2026 daily costs](/thailand-index/budget/) guide.
 
 ### Where Prices Have Risen Most
 
-Accommodation is the biggest shock for returning travelers. A basic guesthouse room that cost 300-400 baht in 2020 now runs 500-700 baht in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and 800-1,200 baht in [Bangkok](https://go2-thailand.com/city/bangkok/). Mid-range hotels have climbed noticeably. Beachfront properties in [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/islands/phuket/) are now comparable to Southeast Asian resort destinations, not budget havens.
+Accommodation is the biggest shock for returning travelers. A basic guesthouse room that cost 300-400 baht in 2020 now runs 500-700 baht in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and 800-1,200 baht in [Bangkok](https://go2-thailand.com/city/bangkok/). Mid-range hotels have climbed noticeably. Beachfront properties in [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) are now comparable to Southeast Asian resort destinations, not budget havens.
 
 International flights to Thailand have risen since 2023, though prices remain reasonable compared to other long-haul routes. Domestic flights have also increased slightly, making buses and trains more competitive for budget travelers.
 
 ### What's Still Genuinely Cheap
 
-Street food remains Thailand's greatest value. A bowl of khao man gai (chicken and rice) costs 30-40 baht. A plate of pad thai from a street vendor runs 40-60 baht. A fresh mango smoothie: 20-30 baht. These prices haven't moved much in five years. Local markets, especially in provincial towns, offer meals for 50-80 baht that would cost 15-20 USD elsewhere. For a full breakdown of what to order and where to find it, our [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) has you covered.
+Street food remains Thailand's greatest value. A bowl of khao man gai (chicken and rice) costs 30-40 baht. A plate of pad thai from a street vendor runs 40-60 baht. A fresh mango smoothie: 20-30 baht. These prices haven't moved much in five years. Local markets, especially in provincial towns, offer meals for 50-80 baht that would cost 15-20 USD elsewhere. For a full breakdown of what to order and where to find it, our [Thai street food guide 2026](/thailand-street-food/) has you covered.
 
 > **Did You Know?** Thailand's street food culture is deeply embedded in daily life. A 2022 Rakuten Insight survey found that 36% of Thai respondents dine out several times per week, and 47% regularly buy from street food stalls. This intense competition among vendors keeps prices remarkably low—a full meal for under a dollar is common.
 >
@@ -107,7 +107,7 @@ Private room, mix of street food and casual restaurants, occasional paid activit
 
 **Monthly: 34,500-64,500 THB ($958-1,792 USD)**
 
-This is the sweet spot for most travelers. You sleep well, eat at decent restaurants, do activities you want, and don't stress every baht. This budget is sustainable in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/), and smaller islands. In [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/islands/phuket/), expect to add 300-500 baht daily. If you're planning two weeks, check our [2 weeks Thailand cost 2026 budget breakdown](/blog/how-much-2-weeks-thailand-cost-2026-budget/) for a detailed trip estimate.
+This is the sweet spot for most travelers. You sleep well, eat at decent restaurants, do activities you want, and don't stress every baht. This budget is sustainable in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/), and smaller islands. In [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/city/phuket/), expect to add 300-500 baht daily. If you're planning two weeks, check our [2 weeks Thailand cost 2026 budget breakdown](/thailand-index/budget/) for a detailed trip estimate.
 
 ### Comfort Traveler
 
@@ -192,7 +192,7 @@ The north attracts budget travelers for good reason. Accommodation is genuinely 
 
 ### Southern Thailand & Islands (Most Expensive)
 
-[Phuket](https://go2-thailand.com/islands/phuket/), [Koh Samui](https://go2-thailand.com/islands/koh-samui/), and [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) are Thailand's most expensive destinations. Prices rival mid-range Western beach towns.
+[Phuket](https://go2-thailand.com/city/phuket/), [Koh Samui](https://go2-thailand.com/islands/koh-samui/), and [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) are Thailand's most expensive destinations. Prices rival mid-range Western beach towns.
 
 **Sample costs:**
 - Guesthouse room: 800-1,500 THB
@@ -501,7 +501,7 @@ After years living and traveling in Thailand, we've learned specific strategies 
 
 ### Transport Hacks
 
-- **Get a [Thailand eSIM](https://go2-thailand.com/esim/):** Grab Maps works offline; you don't need data for navigation. A local SIM costs 50-100 baht for 8GB data. Our [best SIM card and eSIM guide for Thailand 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) compares all options.
+- **Get a [Thailand eSIM](https://go2-thailand.com/esim/):** Grab Maps works offline; you don't need data for navigation. A local SIM costs 50-100 baht for 8GB data. Our [best SIM card and eSIM guide for Thailand 2026](/travel-guides/sim-card-thailand/) compares all options.
 - **Use BTS/MRT in Bangkok:** Taxis are cheap but BTS is faster and cheaper for longer distances. See the full [Bangkok public transport guide 2026](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) for routes and fares.
 - **Night buses save accommodation:** Travel overnight, sleep on the bus, arrive refreshed. Saves a hotel night.
 - **Book buses at the station:** Booking agencies add 100-200 baht commission.
@@ -535,7 +535,7 @@ This is genuinely sustainable. We've done this for months. The key is staying in
 - Activities (snorkeling, cooking class, massage): 8,000 THB
 - **Monthly total: 50,500 THB ($1,403 USD)**
 
-This is the most common traveler profile. You sleep well, eat good food, do activities you want, and don't stress about money. This budget works across most of Thailand except [Phuket](https://go2-thailand.com/islands/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/).
+This is the most common traveler profile. You sleep well, eat good food, do activities you want, and don't stress about money. This budget works across most of Thailand except [Phuket](https://go2-thailand.com/city/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/).
 
 ### Scenario 3: Comfort Traveler, Bangkok + Beach (November)
 

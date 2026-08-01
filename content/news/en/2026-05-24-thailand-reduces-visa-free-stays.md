@@ -1,5 +1,5 @@
 ---
-title: "Thailand Cuts Visa-Free Stay to 30 Days for Over 90 Countries"
+title: "Thailand Visa-Free Cut Report: Current UK Rule Still 60 Days"
 slug: "2026-05-24-thailand-reduces-visa-free-stays"
 date: "2026-05-24"
 category: "tourism"
@@ -8,10 +8,13 @@ source:
   url: "https://www.cnn.com/2026/05/20/travel/thailand-visa-free-cut-intl-hnk"
   originalTitle: "Fed up with bad behavior, Thailand reduces visa-free length for over 90 countries, including the US"
 tags: ["visa", "thailand", "travel", "immigration"]
-description: "Thailand has reduced visa-free entry from 60 to 30 days for over 90 countries, citing visitor misconduct and overstaying concerns."
+description: "Historical report on a proposed Thailand visa-free cut, with the current official UK 60-day status checked on 27 July 2026."
+lastUpdated: "2026-07-27"
 ---
 
-Thailand has significantly tightened its visa-free entry policy, reducing the permitted stay from 60 days to 30 days for visitors from over 90 countries, including the United States. The move, according to [CNN](https://www.cnn.com/2026/05/20/travel/thailand-visa-free-cut-intl-hnk), reflects Thai authorities' frustration with problematic tourist behavior and repeated visa violations.
+> **Current-status correction — 27 July 2026:** The immediate 30-day change described in this report is not reflected in the current GOV.UK or Royal Thai Embassy London pages. Both still state up to 60 days for an ordinary British passport. Verify the temporary rule through the [visa-exemption owner](https://go2-thailand.com/visa/visa-free-entry/) before travel.
+
+The cited CNN report said Thailand had tightened its visa-free entry policy from 60 days to 30 days for visitors from over 90 countries. Subsequent official UK-facing entry pages checked on 27 July 2026 still state up to 60 days for an ordinary British passport, so the article below is historical reporting rather than a current entry instruction.
 
 ## Why Thailand Made the Change
 
@@ -39,4 +42,4 @@ This policy change signals Thailand's intent to take a firmer stance on immigrat
 
 Travelers planning trips to Thailand should verify current visa requirements well in advance of their departure. Immigration policies can change, and staying informed helps avoid complications at the border. For the most up-to-date information on entry requirements and visa options, consult official Thai embassy websites or Thailand's immigration authority before booking travel.
 
-The change takes effect immediately for new arrivals, so anyone planning a Thai holiday should factor the 30-day limit into their itinerary planning and consider whether they need to apply for an extended visa option based on their intended length of stay.
+Do not use the originally reported “immediate” implementation statement for a current itinerary. Check your passport-specific official source and the actual admitted-until stamp instead.

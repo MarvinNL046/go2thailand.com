@@ -1,0 +1,1804 @@
+{
+  "captured_at": "2026-07-27T22:54:45.507Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "pad thai thailand",
+  "costs": {
+    "suggestions": 0.01524,
+    "related": 0.02772,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "pad thai thailand",
+    "pad thai food",
+    "pad thai food recipes",
+    "pad thai recipe",
+    "pad thai recipe thailand",
+    "pad thai thailand recipe",
+    "thailand pad thai recipe",
+    "pad thai noodles",
+    "pad thai near me",
+    "what is pad thai",
+    "pad thai story",
+    "wagamama pad thai",
+    "chicken pad thai recipe",
+    "pad thai ingredients",
+    "pad thai sauce recipe",
+    "pad thai vegetables",
+    "authentic pad thai recipe",
+    "easy pad thai recipe",
+    "pad thai recipe uk",
+    "vegetarian pad thai recipe"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai restaurant near me",
+      "volume": 135000,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai food",
+      "volume": 49500,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai food recipes",
+      "volume": 22200,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recipe",
+      "volume": 22200,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recipe thailand",
+      "volume": 22200,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai thailand recipe",
+      "volume": 22200,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pad thai recipe",
+      "volume": 22200,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai noodles",
+      "volume": 8100,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai restaurant near me",
+      "volume": 2900,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai near me",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce",
+      "volume": 2900,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is pad thai",
+      "volume": 2400,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai story",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wagamama pad thai",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai recipe",
+      "volume": 1600,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai ingredients",
+      "volume": 1600,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce recipe",
+      "volume": 1300,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai vegetables",
+      "volume": 1300,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near me open now",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic pad thai recipe",
+      "volume": 880,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic pad thai recipe thailand",
+      "volume": 880,
+      "kd": 46,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy pad thai recipe",
+      "volume": 880,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai kit",
+      "volume": 720,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recipe uk",
+      "volume": 720,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian pad thai recipe",
+      "volume": 720,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "prawn pad thai recipe",
+      "volume": 590,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what noodles for pad thai",
+      "volume": 480,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai restaurant bath",
+      "volume": 390,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai healthy",
+      "volume": 390,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai noodles recipe",
+      "volume": 390,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai spicy",
+      "volume": 320,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai recipe",
+      "volume": 260,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai in london",
+      "volume": 210,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai paste",
+      "volume": 210,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai london",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce ingredients",
+      "volume": 170,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wagamama pad thai sauce",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recipe jamie oliver",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phat thai crystal palace",
+      "volume": 140,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wagamama pad thai kit",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai in thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai recipe uk",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai noodles tesco",
+      "volume": 110,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional thai restaurant near me",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic chicken pad thai recipe",
+      "volume": 90,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai recipe authentic",
+      "volume": 90,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy chicken pad thai recipe",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce tesco",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "prawn pad thai recipe uk",
+      "volume": 90,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near me within 1 mi",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai near me",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai noodles type",
+      "volume": 70,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce recipe easy",
+      "volume": 70,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near me menu",
+      "volume": 70,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near victoria station",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where is pad thai from",
+      "volume": 70,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai calories restaurant",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai ingredients chicken",
+      "volume": 50,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recipe wagamama",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai thailand",
+      "volume": 50,
+      "kd": 35,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand pad thai",
+      "volume": 50,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "veg pad thai noodles",
+      "volume": 50,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "blue dragon pad thai kit instructions",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai near me delivery",
+      "volume": 40,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai recipe peanut butter",
+      "volume": 40,
+      "kd": 51,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce asda",
+      "volume": 40,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tamarind sauce pad thai",
+      "volume": 40,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic pad thai sauce",
+      "volume": 30,
+      "kd": 59,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic pad thai sauce recipe",
+      "volume": 30,
+      "kd": 76,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic vegetarian pad thai recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best chicken pad thai recipe",
+      "volume": 30,
+      "kd": 57,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai recipe chicken",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is chicken pad thai healthy",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai sweet",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai from thailand",
+      "volume": 30,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai in thailand",
+      "volume": 30,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai noodles packet",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce recipe authentic",
+      "volume": 30,
+      "kd": 76,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce recipe without tamarind",
+      "volume": 30,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce with peanut butter",
+      "volume": 30,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai wagamama menu",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "prawn pad thai recipe jamie oliver",
+      "volume": 30,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simple vegetarian pad thai recipe",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian pad thai recipe authentic",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic prawn pad thai recipe",
+      "volume": 20,
+      "kd": 43,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai sauce recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai recipe jamie oliver",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai tesco",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy prawn pad thai recipe",
+      "volume": 20,
+      "kd": 45,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai chinese",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai from thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is pad thai high in calories",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "king prawn pad thai recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai chicken marinade",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce recipe uk",
+      "volume": 20,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce recipe without fish sauce",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pantai pad thai sauce",
+      "volume": 20,
+      "kd": 37,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "prawn pad thai wagamama",
+      "volume": 20,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian pad thai recipe jamie oliver",
+      "volume": 20,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian pad thai recipe uk",
+      "volume": 20,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wagamama pad thai stir fry sauce 120g",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4 ingredient pad thai sauce",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic pad thai recipe reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic pad thai recipe uk",
+      "volume": 10,
+      "kd": 55,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic pad thai recipe vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai in bangkok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best pad thai recipe uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai recipe vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best pad thai thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best prawn pad thai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best vegetarian pad thai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai recipe bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken pad thai recipe tamarind",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chinese pad thai near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do they eat pad thai in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is pad thai in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is chicken pad thai spicy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai good",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai healthy for weight loss",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai healthy reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is pad thai popular in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is pad thai vietnamese",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver pad thai reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver thai recipes",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver veggie pad thai video",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai calories in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai calories per 100g",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai in thailand language",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai near me menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai near me open now",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai paste how to use",
+      "volume": 10,
+      "kd": 51,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai paste sainsbury's",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai paste tesco",
+      "volume": 10,
+      "kd": 44,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai price in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai recipe from thailand",
+      "volume": 10,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai sauce morrisons",
+      "volume": 10,
+      "kd": 40,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pad thai street food thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai thailand street food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "prawn pad thai ingredients",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simple pad thai recipe uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tamarind sauce pad thai recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai kitchen pad thai sauce recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand street food pad thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand traditional food pad thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "traditional pad thai ingredients",
+      "volume": 10,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional pad thai noodles",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional pad thai sauce recipe easy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian pad thai recipe tamarind",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "veggie pad thai bbc good food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "wagamama pad thai ingredients",
+      "volume": 10,
+      "kd": 37,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what country is pad thai from",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is pad thai called in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thailand pad thai",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai eat in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pad thai thailand seafood",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tesco pad thai ready meal",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 11.8,
+      "keywordCount": 15,
+      "visibility": 9.3,
+      "estimatedTraffic": 12003.097
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12.4,
+      "keywordCount": 15,
+      "visibility": 3.3000000000000003,
+      "estimatedTraffic": 865.3910000000001
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 1.9166666666666667,
+      "keywordCount": 12,
+      "visibility": 10.9,
+      "estimatedTraffic": 24624.342000000008
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 5.75,
+      "keywordCount": 12,
+      "visibility": 9.000000000000002,
+      "estimatedTraffic": 13785.747000000003
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 7.7272727272727275,
+      "keywordCount": 11,
+      "visibility": 4.3500000000000005,
+      "estimatedTraffic": 3195.627
+    },
+    {
+      "domain": "www.delish.com",
+      "avgPosition": 19.5,
+      "keywordCount": 12,
+      "visibility": 0.6500000000000001,
+      "estimatedTraffic": 651.637
+    },
+    {
+      "domain": "tastesbetterfromscratch.com",
+      "avgPosition": 13,
+      "keywordCount": 11,
+      "visibility": 3.099999999999999,
+      "estimatedTraffic": 3650.9449999999993
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 18.636363636363637,
+      "keywordCount": 11,
+      "visibility": 1.5000000000000002,
+      "estimatedTraffic": 549.1139999999999
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 18.3,
+      "keywordCount": 10,
+      "visibility": 2.7,
+      "estimatedTraffic": 610.2570000000001
+    },
+    {
+      "domain": "twokooksinthekitchen.com",
+      "avgPosition": 21.11111111111111,
+      "keywordCount": 9,
+      "visibility": 1.1,
+      "estimatedTraffic": 1274.5219999999997
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 21.77777777777778,
+      "keywordCount": 9,
+      "visibility": 1.05,
+      "estimatedTraffic": 1008.0109999999999
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 12,
+      "keywordCount": 8,
+      "visibility": 2.25,
+      "estimatedTraffic": 1477.457
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 37.27272727272727,
+      "keywordCount": 11,
+      "visibility": 0.1,
+      "estimatedTraffic": 325.76700000000005
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 5.285714285714286,
+      "keywordCount": 7,
+      "visibility": 4,
+      "estimatedTraffic": 6582.335000000001
+    },
+    {
+      "domain": "donalskehan.com",
+      "avgPosition": 13.714285714285714,
+      "keywordCount": 7,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 415.99000000000007
+    },
+    {
+      "domain": "www.theguardian.com",
+      "avgPosition": 28,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 216.43500000000003
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 36.44444444444444,
+      "keywordCount": 9,
+      "visibility": 0.25,
+      "estimatedTraffic": 300.27000000000004
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 6,
+      "visibility": 3.4499999999999997,
+      "estimatedTraffic": 19258.27
+    },
+    {
+      "domain": "glebekitchen.com",
+      "avgPosition": 21.857142857142858,
+      "keywordCount": 7,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 466.524
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 21.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 181.04700000000003
+    },
+    {
+      "domain": "www.elmundoeats.com",
+      "avgPosition": 33.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 273.675
+    },
+    {
+      "domain": "realfood.tesco.com",
+      "avgPosition": 23.5,
+      "keywordCount": 6,
+      "visibility": 0.55,
+      "estimatedTraffic": 253.714
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 27.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 65.324
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 15,
+      "keywordCount": 5,
+      "visibility": 1.0499999999999998,
+      "estimatedTraffic": 195.87199999999999
+    },
+    {
+      "domain": "www.onceuponachef.com",
+      "avgPosition": 49.125,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 332.055
+    },
+    {
+      "domain": "www.arlafoods.co.uk",
+      "avgPosition": 32.5,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 193.20900000000003
+    },
+    {
+      "domain": "www.vegrecipesofindia.com",
+      "avgPosition": 24.2,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 129.06000000000003
+    },
+    {
+      "domain": "www.deliciousmagazine.co.uk",
+      "avgPosition": 24.8,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 184.17000000000002
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 6,
+      "keywordCount": 4,
+      "visibility": 2.35,
+      "estimatedTraffic": 1469.4900000000002
+    },
+    {
+      "domain": "www.gimmesomeoven.com",
+      "avgPosition": 25,
+      "keywordCount": 5,
+      "visibility": 1.05,
+      "estimatedTraffic": 472.918
+    },
+    {
+      "domain": "vjcooks.com",
+      "avgPosition": 29.6,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 79.06199999999998
+    },
+    {
+      "domain": "inquiringchef.com",
+      "avgPosition": 30.4,
+      "keywordCount": 5,
+      "visibility": 0.6,
+      "estimatedTraffic": 129.808
+    },
+    {
+      "domain": "baan-thitiya.com",
+      "avgPosition": 31.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 121.01699999999998
+    },
+    {
+      "domain": "cookpad.com",
+      "avgPosition": 53.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 164.97299999999998
+    },
+    {
+      "domain": "www.womanscribbles.net",
+      "avgPosition": 29.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 70.934
+    },
+    {
+      "domain": "lionbrand.com.au",
+      "avgPosition": 6.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.3,
+      "estimatedTraffic": 1154.25
+    },
+    {
+      "domain": "chaophraya.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 3,
+      "visibility": 1.25,
+      "estimatedTraffic": 658.356
+    },
+    {
+      "domain": "www.nisalocally.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 3,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 597.5840000000001
+    },
+    {
+      "domain": "www.noracooks.com",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 131.67
+    },
+    {
+      "domain": "www.langbein.com",
+      "avgPosition": 47,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 72.198
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 47.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 194.187
+    },
+    {
+      "domain": "www.foodnetwork.com",
+      "avgPosition": 38.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 54.702
+    },
+    {
+      "domain": "www.chaiyarestaurant.com",
+      "avgPosition": 19.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 313.98400000000004
+    },
+    {
+      "domain": "simplehomeedit.com",
+      "avgPosition": 24.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 10.664000000000001
+    },
+    {
+      "domain": "www.gousto.co.uk",
+      "avgPosition": 25,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 161.43
+    },
+    {
+      "domain": "www.mygfguide.com",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 22.217999999999996
+    },
+    {
+      "domain": "www.tasteofhome.com",
+      "avgPosition": 45.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 52.709999999999994
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 56.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 182.217
+    },
+    {
+      "domain": "cooking.nytimes.com",
+      "avgPosition": 27.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 7.938
+    },
+    {
+      "domain": "www.taste.com.au",
+      "avgPosition": 48.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 54.852
+    }
+  ]
+}

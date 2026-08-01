@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "destinations"
 tags: ["Khao Yai", "national parks Thailand", "day trip Bangkok", "wildlife Thailand", "UNESCO Thailand", "hiking Thailand 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/khao-yai-national-park-day-trip-guide-2026-hero.webp"
 description: "Everything you need to know about visiting Khao Yai National Park in 2026, from entrance fees and transport to the best trails, waterfalls and wildlife spotting tips."
 featured: false
 readingTime: 4
@@ -36,7 +36,7 @@ If you prefer convenience, many Bangkok tour operators run day trips that includ
 
 ## Entrance Fees and Hours
 
-The park is open daily from 06:00 to 18:00. Foreign visitors pay **400 baht per adult** and **200 baht per child**. Keep your ticket stub because rangers check it at multiple points inside the park. For a broader look at [Thailand travel costs in 2026](/blog/thailand-budget-2026-daily-costs/), including national park fees, our budget guide has you covered.
+The park is open daily from 06:00 to 18:00. Foreign visitors pay **400 baht per adult** and **200 baht per child**. Keep your ticket stub because rangers check it at multiple points inside the park. For a broader look at [Thailand travel costs in 2026](/thailand-index/budget/), including national park fees, our budget guide has you covered.
 
 ## Best Things to Do
 

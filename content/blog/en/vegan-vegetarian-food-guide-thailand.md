@@ -73,7 +73,7 @@ Thai cuisine's flavor foundation—garlic, chilies, lime, coconut milk, and herb
 
 ### Naturally Vegan Thai Dishes (No Modification Needed)
 
-**Som Tam** (green papaya salad) is the quintessential vegan Thai dish. Made from shredded unripe papaya, lime juice, chilies, garlic, and fish sauce (which you'll need to request removed or replaced with soy sauce), it's tangy, spicy, and deeply satisfying. When we visited Bangkok's Or Tor Kor Market, vendors prepared som tam fresh to order—you can watch them pound the ingredients in a mortar and pestle, ensuring no hidden animal products.
+**Som Tam** (green papaya salad) is the quintessential vegan Thai dish. Made from shredded unripe papaya, lime juice, chilies, garlic, and fish sauce (which you'll need to request removed or replaced with soy sauce), it's tangy, spicy, and deeply satisfying.
 
 **Pad Krapow** (holy basil stir-fry) is traditionally made with meat, but the vegetarian version—**Pad Krapow Tao Hu** (holy basil tofu stir-fry)—is equally authentic and widely available. The dish's signature is its fragrant holy basil and crispy edges from high-heat wok cooking. Served over jasmine rice with a fried egg on top (request no egg for vegan), it costs 40-80 THB at street stalls.
 
@@ -83,7 +83,7 @@ Thai cuisine's flavor foundation—garlic, chilies, lime, coconut milk, and herb
 
 **Green Curry** (Gaeng Keow Wan) traditionally contains chicken or shrimp. Request it with tofu or vegetables only, and confirm the curry paste contains no shrimp paste—most do, so ask for a vegetable-based paste. The coconut milk base is naturally vegan.
 
-**Tom Yum Goong** (hot and sour soup) is traditionally shrimp-based, but **Tom Yum Pak** (vegetable tom yum) is equally flavorful. The broth's sourness comes from lime and lemongrass, not the protein. Our team found that requesting tom yum with mushrooms and tofu yields a deeply satisfying soup for 50-100 THB.
+**Tom Yum Goong** (hot and sour soup) is traditionally shrimp-based, but **Tom Yum Pak** (vegetable tom yum) is equally flavorful. The broth's sourness comes from lime and lemongrass, not the protein.
 
 **Pad Thai** is often made with shrimp or chicken, but the noodle base (rice noodles, tamarind, lime, peanuts) is vegan-friendly. Order it with tofu and vegetables, and confirm no fish sauce or shrimp paste in the sauce.
 
@@ -104,7 +104,7 @@ Thai street food is where plant-based eating becomes effortless. Night markets (
 
 ### How to Navigate Night Markets Like a Local
 
-When we spent an evening at a Bangkok night market, we observed that the busiest stalls—those with long queues—are usually the safest bets for quality and hygiene. Point at what you want, say "jay" or "jay kae," and the vendor will prepare it accordingly. Most markets have 5-10 dedicated vegetarian stalls, identifiable by signage or by asking other vendors.
+Point at what you want, say "jay" or "jay kae," and the vendor will prepare it accordingly. Most markets have 5-10 dedicated vegetarian stalls, identifiable by signage or by asking other vendors.
 
 **Spring Rolls (Por Pia Tod)** are often vegetable-filled and naturally vegan when fried in oil. Cost: 20-40 THB for 5 pieces. Dip them in sweet chili sauce or tamarind sauce.
 
@@ -114,22 +114,6 @@ When we spent an evening at a Bangkok night market, we observed that the busiest
 
 **Sticky Rice with Mango** (Khao Giao Mamuang) is naturally vegan—sweet sticky rice paired with fresh mango. Cost: 50-80 THB. Available year-round, though mango season (April-June) offers the best quality.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Best Night Markets for Vegans
 
@@ -149,7 +133,7 @@ Thailand has two distinct vegan dining ecosystems: traditional **jay restaurants
 
 Jay restaurants are family-run establishments that have served vegetarian food for generations. They're found in every Thai city, often near temples or in residential neighborhoods. Menus are entirely plant-based, prices are incredibly cheap (50-150 THB per dish), and the food is authentic Thai—not adapted for Western palates.
 
-During our research in Chiang Mai's Old City, we discovered that many jay restaurants don't have English menus or signage. The solution: ask your [hotel](https://booking.tpo.lv/2PT1kR82?subid=blog) staff for recommendations, or use the Happy Cow app to locate nearby options. When you arrive, point at dishes in the display case or ask the owner to recommend their specialty.
+The solution: ask your [hotel](https://booking.tpo.lv/2PT1kR82?subid=blog) staff for recommendations, or use the Happy Cow app to locate nearby options. When you arrive, point at dishes in the display case or ask the owner to recommend their specialty.
 
 **Typical Jay Restaurant Menu:**
 - Pad Krapow Tao Hu (holy basil tofu): 50-80 THB
@@ -164,28 +148,12 @@ Bangkok and Chiang Mai now have upscale vegan restaurants serving plant-based ve
 
 **Best Neighborhoods for Vegan Dining:**
 
-**Bangkok's Sukhumvit area** has the highest concentration of vegan restaurants. Soi 38 and Soi 55 are particularly vegan-friendly, with options ranging from street food to upscale dining. When we explored Sukhumvit, we found that many restaurants have "vegan" clearly marked on their menus, and staff are trained to accommodate dietary restrictions.
+**Bangkok's Sukhumvit area** has the highest concentration of vegan restaurants. Soi 38 and Soi 55 are particularly vegan-friendly, with options ranging from street food to upscale dining.
 
 **Chiang Mai's Old City** (within the moat) has several established vegan restaurants frequented by both locals and long-term expats. The atmosphere is relaxed, prices are reasonable (100-250 THB), and the food quality is high.
 
 **Phuket's Patong area** caters heavily to Western tourists, so vegan options are abundant but sometimes overpriced. Expect to pay 250-400 THB for a main course that would cost 80 THB in a traditional jay restaurant.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -203,7 +171,7 @@ Cooking classes typically run 4-6 hours, cost 800-2,000 THB ($23-$57 USD), and i
 - **Meal:** Eat what you've cooked, often with the instructor and other students
 - **Takeaway:** Recipes and sometimes ingredient samples
 
-During our research, we found that booking directly with cooking schools (rather than through tour operators) often yields better prices and more personalized attention. Many schools will customize classes for vegan students if you request in advance.
+Many schools will customize classes for vegan students if you request in advance.
 
 ### Food Tours Focused on Plant-Based Eating
 
@@ -211,22 +179,6 @@ Food tours in Bangkok, Chiang Mai, and Phuket now include vegan-specific options
 
 **Best for:** Understanding neighborhood food culture, discovering hidden stalls, and tasting multiple dishes without committing to full meals.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -270,7 +222,7 @@ Thailand's regions offer distinct plant-based dishes shaped by local ingredients
 
 The north is the most vegan-friendly region, partly due to Buddhist influence and cooler weather that supports vegetable cultivation. **Khao Soi** (curry noodle soup) can be made entirely plant-based with tofu and vegetables. **Sai Oua** (northern sausage) has vegetarian versions made from mushrooms and herbs.
 
-**Chiang Mai's Old City** has the highest density of vegan restaurants in Thailand. Our team spent a week exploring the area and found that nearly every restaurant offers vegan options, and several are entirely plant-based. The atmosphere is relaxed, prices are low (80-200 THB), and English is widely spoken.
+**Chiang Mai's Old City** has the highest density of vegan restaurants in Thailand. The atmosphere is relaxed, prices are low (80-200 THB), and English is widely spoken.
 
 **Sticky Rice with Vegetables** is a northern staple—sticky rice served with raw vegetables (cabbage, long beans, eggplant) and dipping sauces. It's light, fresh, and costs 40-80 THB.
 
@@ -280,7 +232,6 @@ The Isaan region is known for bold, spicy flavors and sticky rice. **Som Tam** o
 
 **Sticky Rice** is the staple carbohydrate. Unlike jasmine rice in central Thailand, sticky rice is chewier and more filling—perfect for soaking up spicy dips.
 
-When we visited Khon Kaen (Isaan's largest city), we found that traditional restaurants were less accustomed to vegan requests than Bangkok or Chiang Mai, but the food itself—heavy on vegetables, herbs, and chilies—was naturally plant-based once we removed meat.
 
 ### Central Thailand (Bangkok, Ayutthaya)
 
@@ -390,28 +341,12 @@ Many guesthouses and hotels now offer vegan breakfast options. When booking, ema
 
 Thai culture values relationships and repeat customers. If you eat at the same street stall or restaurant multiple times, vendors will remember your preferences and may offer discounts or extra portions. This is especially true in smaller cities like Chiang Mai.
 
-During our time in Bangkok, we visited the same som tam stall three times in one week. By the third visit, the vendor greeted us by name and prepared our meal without being asked—and charged us less.
+By the third visit, the vendor greeted us by name and prepared our meal without being asked—and charged us less.
 
 ### Communicating Allergies and Restrictions
 
 If you have allergies beyond veganism, write them down in Thai or use a translation app. Show the note to vendors and restaurant staff. Thai people take allergies seriously, and this written communication eliminates misunderstandings.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -427,7 +362,7 @@ Thailand is genuinely vegan-friendly, especially compared to Western countries. 
 
 ### Can I eat street food safely as a vegan?
 
-Yes, if you choose busy stalls with high turnover and watch your food being prepared. Point at ingredients, confirm no fish sauce or shrimp paste, and observe the vendor's hygiene practices. Avoid stalls that look abandoned or have food sitting out for hours. Our team ate street food daily during research trips without issues.
+Yes, if you choose busy stalls with high turnover and watch your food being prepared. Point at ingredients, confirm no fish sauce or shrimp paste, and observe the vendor's hygiene practices. Avoid stalls that look abandoned or have food sitting out for hours.
 
 ### What's the best region in Thailand for vegan eating?
 

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-quietcation-trend-tranquil-travel-2026",
+  "route": "/nl/blog/thailand-quietcation-trend-tranquil-travel-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Quietcation in Thailand: plan een rustige reis",
+    "description": "Plan een quietcation in Thailand met minder wissels, rustigere regio's en slimme seizoenskeuzes, zonder stilte of leegte te beloven.",
+    "primaryKeyword": "quietcation Thailand",
+    "secondaryKeywords": ["rustige vakantie Thailand", "slow travel Thailand", "Thailand buiten de drukte"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-quietcation-trend-tranquil-travel-2026/"
+  },
+  "hero": {
+    "eyebrow": "Reizen op een lager tempo",
+    "title": "Jouw quietcation in Thailand",
+    "accent": "Minder plannen, meer ruimte",
+    "description": "Rust ontstaat niet door een afgelegen hotel alleen. Bouw je route rond weinig wissels, passende seizoenen en rustige dagdelen.",
+    "image": "/images/redesign/editorial/thailand-quietcation-trend-tranquil-travel-2026-hero.webp",
+    "imageAlt": "Reiziger op een houten veranda kijkt uit over rustige rijstvelden en heuvels in Noord-Thailand",
+    "primaryCta": { "label": "Kies je reisvorm", "href": "#reisvormen" },
+    "secondaryCta": { "label": "Bouw een rustig ritme", "href": "#ritme" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Een quietcation is een reis die bewust ruimte maakt voor stilte, herstel en weinig prikkels. In Thailand werkt dat het best met één of twee bases, natuur dichtbij, vroege dagdelen en een regio waarvan het seizoen bij je activiteiten past.",
+  "blocks": [
+    {
+      "kind": "prose",
+      "id": "betekenis",
+      "title": "Geen label, maar een ontwerpkeuze",
+      "markdown": "Hiltons wereldwijde trendonderzoek noemt de behoefte aan stilte ‘hushpitality’. TAT koppelt zijn 2026-richting aan welzijn, natuur en een rustiger groen seizoen. Dat maakt Thailand geschikt voor een quietcation, maar geen enkele bestemming is permanent stil. Schoolvakanties, festivals, bouw, verkeer en lokaal weer kunnen de sfeer per dag veranderen."
+    },
+    {
+      "kind": "comparison",
+      "id": "reisvormen",
+      "title": "Drie haalbare quietcation-vormen",
+      "options": [
+        { "title": "Noordelijke natuurbase", "description": "Kies een kleinschalige plek buiten het centrum en plan maximaal één activiteit per dag.", "label": "Bergen & groen" },
+        { "title": "Rustig eilandritme", "description": "Blijf op één eiland en kies een strand buiten de pier- en uitgaanszone.", "label": "Zee & herstel" },
+        { "title": "Stad zonder haast", "description": "Verblijf in een rustige wijk, bezoek highlights bij opening en reserveer middagen zonder programma.", "label": "Cultuur & comfort" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "ritme",
+      "title": "Ontwerp rust vóór je boekt",
+      "steps": [
+        { "title": "Halveer het aantal bases", "description": "Vier nachten op één plek geven doorgaans meer rust dan twee keer twee nachten met een transfer ertussen." },
+        { "title": "Controleer de omgeving", "description": "Lees recente reviews op woorden als weg, bar, bouw, bruiloft en haan; kijk ook op de kaart." },
+        { "title": "Plan met het seizoen", "description": "Groen seizoen kan rustiger en weelderig zijn, maar vraagt flexibiliteit bij boten, trails en zware buien." },
+        { "title": "Bescherm lege tijd", "description": "Zet niet iedere ochtend en middag vast. Rust is geen activiteit die je tussen twee tours propt." }
+      ]
+    },
+    {
+      "kind": "card-grid",
+      "id": "bestemmingen",
+      "eyebrow": "Kies op sfeer, niet op hype",
+      "title": "Regio's om verder te onderzoeken",
+      "cards": [
+        { "title": "Noord-Thailand", "description": "Vergelijk rustige bases zoals Nan binnen de bredere noordelijke regio; eigen vervoer maakt dagroutes eenvoudiger.", "href": "/nl/region/northern/" },
+        { "title": "Nakhon Phanom", "description": "Mekongpromenade en traag stadsritme; combineer niet automatisch met een volle Isaan-rondreis.", "href": "/nl/city/nakhon-phanom/" },
+        { "title": "Koh Yao Noi", "description": "Eilandbasis tussen Phuket en Krabi; controleer strandgetij en ligging vóór je boekt.", "href": "/nl/islands/koh-yao-noi/" },
+        { "title": "Khao Sok", "description": "Regenwoud en meer, maar logistiek en weersomstandigheden vragen ruimte in de planning.", "href": "/nl/city/khao-sok/" }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "verwachting",
+      "tone": "jade",
+      "title": "Rust is persoonlijk",
+      "description": "De één herstelt bij een stil strand, de ander bij een vertrouwd stadsritme. Kies op slaap, geluid, mobiliteit en gewenste sociale prikkels in plaats van op het woord retreat."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Welke plek in Thailand is altijd rustig?", "answer": "Geen enkele. Rust varieert met seizoen, weekend, festival, bouw en de precieze wijk of baai." },
+        { "question": "Is het regenseizoen geschikt voor een quietcation?", "answer": "Vaak wel als je flexibel bent. Het is groener en soms rustiger, maar buien, ruwe zee en tijdelijke sluitingen kunnen plannen veranderen." },
+        { "question": "Moet ik voor een quietcation naar een wellnessresort?", "answer": "Nee. Een rustige ligging, weinig transfers en vrije tijd hebben vaak meer effect dan een uitgebreid activiteitenmenu." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Trend- en seizoensbronnen",
+      "items": [
+        { "title": "Hilton 2026 Trends Report", "publisher": "Hilton", "url": "https://stories.hilton.com/emea/releases/2026-trends-release", "checkedAt": "2026-08-01" },
+        { "title": "Blooming and Bright Amazing Thailand", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/07/tat-invites-travellers-to-discover-blooming-and-bright-amazing-thailand/", "checkedAt": "2026-08-01" },
+        { "title": "Healing is the New Luxury in green season", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/06/healing-is-the-new-luxury-how-thailands-green-season-is-redefining-what-it-means-to-truly-escape/", "checkedAt": "2026-08-01" }
+      ]
+    }
+  ]
+}

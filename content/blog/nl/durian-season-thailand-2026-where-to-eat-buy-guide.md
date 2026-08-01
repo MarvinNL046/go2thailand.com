@@ -1,59 +1,91 @@
 ---
-title: "Durian Seizoen in Thailand 2026: Waar de Koning der Vruchten Eten"
+title: "Durian in Thailand: seizoen, soorten en waar proeven"
 slug: "durian-season-thailand-2026-where-to-eat-buy-guide"
 date: "2026-03-23"
 author:
-  name: "Go2Thailand Team"
-category: "food"
-tags: ["durian seizoen Thailand 2026", "durian seizoen Thailand", "beste durian Bangkok", "Chanthaburi durian festival", "Or Tor Kor Market durian", "koning der vruchten Thailand", "Thailand fruitfestival", "durian eten Bangkok", "beste tijd durian Thailand"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Het durian seizoen in Thailand loopt van mei tot augustus, met piek in juni. Ontdek waar je de beste durian proeft in Bangkok, Rayong en Chanthaburi in 2026 – ideaal voor je vakantie vanuit Nederland."
+  name: "Go2Thailand Editorial"
+category: "eten en drinken"
+tags: ["durian seizoen Thailand", "durian eten", "Chanthaburi fruit", "durian soorten"]
+image: "/images/redesign/editorial/durian-season-thailand-2026-where-to-eat-buy-guide-hero.webp"
+description: "Plan je eerste durianproeverij met regionale oogstcontext, cultivar- en rijpheidskeuze, koopchecks en actuele markt- of boomgaardvoorwaarden."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 9
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Michelin Guide — Thai Durian Guide: How To Choose, Where To Buy And More"
-    url: "https://guide.michelin.com/en/article/travel/thai-durian-guide-how-to-choose-where-to-buy-and-more"
-  - name: "Centara Hotels — Thai Durian Guide: Where to Eat and Where to Buy"
-    url: "https://www.centarahotelsresorts.com/journal/thai-durian-guide-where-to-eat-and-where-to-buy"
-  - name: "The Thaiger — Your Ultimate Guide to Durian in Thailand"
-    url: "https://thethaiger.com/guides/your-ultimate-guide-to-durian-in-thailand"
-  - name: "Year of the Durian — 10-Day Thailand Durian Tour 2026"
-    url: "https://www.yearofthedurian.com/product/thailand-durian-tour"
-  - name: "Food Ventures Abroad — Durian Season in Thailand: When and Where"
-    url: "https://foodventuresabroad.com/durian-season-thailand/"
+  - name: "Thailand Department of Agriculture — Eastern durian quality measures 2026"
+    url: "https://www.doa.go.th/th/news_release/106997/"
+  - name: "Tourism Authority of Thailand — Chanthaburi en Rayong"
+    url: "https://www.tourismthailand.org/Articles/chanthaburi-rayong"
+  - name: "Tourism Authority of Thailand — Rayong Fruit Festival 2026"
+    url: "https://thai.tourismthailand.org/Articles/fruits-festival-rayong-2026"
 ---
 
-## Wanneer Is het Durian Seizoen?
+Het durianseizoen heeft geen landelijke aan-uitknop. Oogst verschilt per provincie, cultivar, weer en jaar. Voor Chanthaburi en Rayong noemt de Tourism Authority of Thailand mei tot juli als sterke periode voor fruitboomgaarden. Dat is een bruikbaar vertrekpunt, geen garantie voor iedere kraam of reisdatum.
 
-Durian duikt rond maart op in Thaise markten, maar het echte seizoen loopt van mei tot en met augustus. Juni wordt algemeen gezien als het zoete middelpunt – woordgrapje bedoeld – wanneer de vrucht op z'n best rijp en smaakvol is. Als je een reis plant puur voor durian, mik dan op eind mei of juni voor de grootste keuze en beste prijzen. Gebruik onze [reisgids voor de beste reistijd naar Thailand](/blog/best-time-to-visit-thailand/) om je trip rond dit seizoen te plannen, vooral met het regenseizoen in gedachten voor Nederlandse reizigers.
+## Wanneer is het durianseizoen?
 
-Buiten het hoogseizoen vind je durian nog wel in supermarkten en bij speciale verkopers, maar de variatie en versheid halen het niet bij de zomerse overvloed. Een andere geliefde zomerse lekkernij is [mango sticky rice](/blog/mango-sticky-rice-season-thailand/), die rond dezelfde tijd piekt.
+Oost-Thailand is een belangrijke regio voor de oogst. In 2026 publiceerde het Department of Agriculture opnieuw maatregelen rond kwaliteit en rijpheid van oostelijke durian. Cultivars worden niet allemaal tegelijk geoogst; regen, temperatuur en bloei verschuiven de kalender.
 
-## Beste Plekken om Durian te Eten in Bangkok
+Gebruik voor een fruitreis daarom deze volgorde:
 
-Bangkok maakt het makkelijk om durian te proberen zonder de stad te verlaten.
+1. kies de provincie;
+2. controleer een officiële provinciale of TAT-update van jouw reisjaar;
+3. bevestig bij de boomgaard of verkoper wat die week rijp is;
+4. boek vervoer en verblijf pas nadat opening en proefformule duidelijk zijn.
 
-**Or Tor Kor Market** is dé bestemming voor topkwaliteit Thais fruit. Het ligt naast de [Chatuchak Weekendmarkt](/blog/chatuchak-market-bangkok-guide/) en is bereikbaar via BTS Mo Chit. Hier vind je premium durian-soorten netjes gepportionneerd en klaar om te eten. Prijzen liggen hoger dan bij straatverkopers, maar de kwaliteit is altijd uitstekend. Voor een breder overzicht van de eetgelegenheden in de buurt, check de [foodgids voor Chatuchakmarkt](/blog/chatuchak-weekend-market-food-guide/).
+Een festivaldatum uit 2026 mag je niet automatisch hergebruiken voor een volgende editie.
 
-**Chinatown (Yaowarat)** is een ander hot spot. Durian-verkopers staan langs de straten tot diep in de nacht, en prijzen zijn hier lager dan elders in Bangkok. Afdingen mag. Wil je meer van [Bangkoks streetfood](/blog/bangkok-street-food-beginners/) ontdekken, dan zijn de [Bangkok Lumpini hawker centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) en de [beste streetfoodmarkten in Bangkok](/blog/best-street-food-markets-bangkok/) geweldige alternatieven.
+## Begin met een kleine portie
 
-In het seizoen hebben vrijwel alle Bangkokse supermarkten – van Tops tot Big C – voorverpakte durian-stukken in de schappen. Handig als je het wilt proeven zonder een hele vrucht te kopen. Om deze plekken te bereiken, bekijk de [gids voor openbaar vervoer in Bangkok](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/).
+Wie voor het eerst durian eet, hoeft geen hele vrucht te kopen. Een kleine geopende portie laat je cultivar en rijpheid vergelijken zonder veel afval. Vraag de verkoper of de smaak mild en stevig, romig en zoet of rijper en krachtiger is.
 
-## Chanthaburi: de Durian Hoofdstad van Thailand
+Veelgenoemde cultivars zijn:
 
-De oostelijke provincie [Chanthaburi](/city/chanthaburi/) produceert meer durian dan welk ander deel van Thailand ook. Het jaarlijkse **Chanthaburi Fruit Festival**, meestal in mei, viert het agrarische erfgoed van de regio. Verwacht durian-prijzen die veel lager liggen dan in Bangkok, plus mangosteen, rambutan en ander tropisch fruit op z'n best. Terwijl je er bent, zijn de [Chanthaburi edelsteenmarkt en oude stad](/blog/chanthaburi-gem-market-old-town-eastern-thailand-guide-2026/) een must-see, en de [Chanthaburi fruitorchards](/city/chanthaburi/attractions/fruit-orchards/) liggen op korte rijafstand van de stad.
+- **Monthong:** vaak toegankelijk voor beginners door de relatief stevige textuur en mildere geur;
+- **Chanee:** kan zachter, zoeter en krachtiger worden naarmate de vrucht rijper is;
+- **Kanyao:** heeft een premiumreputatie, maar een hogere prijs garandeert niet dat jij hem lekkerder vindt.
 
-Chanthaburi ligt op zo'n drieënhalf uur rijden van Bangkok – perfect als [dagtrip vanuit Bangkok](/blog/best-day-trips-from-bangkok/). Je kunt ook een bus nemen vanaf Ekkamai Bus Terminal. Blijf je overnachten, check dan de [beste hotels in Chanthaburi](/best-hotels/chanthaburi/).
+Vergelijk cultivars op ongeveer dezelfde rijpheid. Anders vergelijk je vooral textuur en maturiteit, niet de variëteit zelf.
 
-## Rayong: de All-You-Can-Eat Ervaring
+## De koopcheck aan de kraam
 
-Voor een intensievere beleving ga je naar **Suan Supatra Land** in de [provincie Rayong](/best-hotels/rayong/). Deze orchard biedt een durian-buffet waar de vruchten geschild en onbeperkt te eten zijn. Het is een populaire dagtrip vanuit [Bangkok](/city/bangkok/) of [Pattaya](/best-hotels/pattaya/) en een van de beste manieren om meerdere durian-soorten naast elkaar te proeven.
+Vraag voordat een vrucht wordt geopend:
 
-## Variëteiten om op te Leten
+- welke cultivar je koopt;
+- uit welke provincie de vrucht komt;
+- welke rijpheid is afgesproken;
+- of de prijs per kilogram hele vrucht of per bakje vruchtvlees geldt;
+- wat het getoonde gewicht en totaal zijn;
+- wat er gebeurt als de geopende vrucht niet aan de afgesproken rijpheid voldoet.
 
-Thailand teelt tientallen durian-cultivars. De meest geliefde is **Monthong** ("gouden kussen"), met dik, romig vruchtvlees en een milde zoetheid die beginners aanspreekt. **Chanee** is sterker van geur en favoriet bij durian-liefhebbers. **Kanyao** (lang-stengel) is een premium soort uit de provincie Nonthaburi die prijzen tot duizenden baht per vrucht kan opbrengen. Voor andere seizoensspecialiteiten tijdens een foodgerichte reis, blader door de [Thaise streetfoodgids](/blog/thai-street-food-guide-2026/) en de [Thailand Michelin Gids 2026](/blog/thailand-michelin-guide-2026-new-stars-suhring/).
+Een los bedrag zonder eenheid is niet te vergelijken. De schil weegt mee bij een hele vrucht; een bakje bevat doorgaans alleen eetbaar vruchtvlees. Prijs hangt bovendien af van seizoen, kwaliteit, herkomst en verkooppunt. Daarom noemen we geen vaste richtprijs.
 
-## Regels om te Onthouden
+## Waar proeven?
 
-Durian is verboden in de meeste hotels, de BTS en MRT, en veel taxi's. De geur is intens en blijft hangen. Eet het buiten op de markt waar je het koopt, of in een park. Probeer niet stiekem mee te nemen naar je hotelkamer – het personeel ruikt het meteen. Ben je nieuw in Thaise eigenaardigheden en regels, lees dan onze [gids voor eerste bezoekers](/blog/thailand-first-time-visitors-essential-guide-2026/) en [reiswaarschuwingen voor Thailand](/blog/thailand-travel-scams-2026/) voordat je vertrekt vanaf Schiphol. En als je je afvraagt of durian MSG bevat – spoiler: het heeft het niet nodig – check [bevat Thais eten MSG](/blog/does-thai-food-have-msg/).
+In Bangkok bieden fruitmarkten, gespecialiseerde verkopers en supermarkten keuze zonder reis naar een boomgaard. Or Tor Kor, naast MRT Kamphaeng Phet, is een overzichtelijke plek om meerdere verkopers te vergelijken, maar niet automatisch de goedkoopste of beste.
+
+In Chanthaburi en Rayong geeft een boomgaard meer herkomstcontext. Bevestig vooraf of er die dag een tour, proeverij of buffet is, welke cultivars beschikbaar zijn en hoe je er komt. Gebruik onze [Chanthaburi-eetgids](/nl/city/chanthaburi/food/) voor lokale context.
+
+## Eten, bewaren en vervoeren
+
+Kies een schone werkplek en laat geopende durian niet onnodig warm staan. Eet de portie bij voorkeur kort na openen of volg de bewaaradviezen van een betrouwbare verkoper.
+
+Hotels, openbaar vervoer en luchtvaartmaatschappijen kunnen eigen geur- en bagageregels hanteren. Vraag vóór aankoop waar je de vrucht mag meenemen of opeten. Een goed afgesloten verpakking is geen automatische toestemming.
+
+## Veelgestelde vragen
+
+### Wanneer is durian het best verkrijgbaar in Thailand?
+
+Dat verschilt per regio. Voor Oost-Thailand is mei–juli een bruikbaar indicatief venster, maar controleer de oogst van jouw reisjaar.
+
+### Waar eet ik durian in Bangkok?
+
+Begin bij een fruitmarkt of gespecialiseerde verkoper waar cultivar, rijpheid, herkomst en eenheid duidelijk worden uitgelegd.
+
+### Welke cultivar is het beste voor beginners?
+
+Monthong wordt vaak als toegankelijk ervaren, maar rijpheid is minstens zo belangrijk. Koop een kleine portie en beschrijf je smaakvoorkeur.
+
+### Mag durian mee in het hotel of vervoer?
+
+Dat verschilt per accommodatie en vervoerder. Controleer hun actuele beleid vóór aankoop.

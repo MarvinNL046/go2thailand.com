@@ -20,7 +20,7 @@ sources:
 
 Imagine waking to turquoise waters lapping against white sand, your partner's hand in yours as you watch the sunset paint the sky in shades of pink and gold. **Thailand honeymoon destinations** offer exactly this kind of magic—and at a fraction of the cost of other tropical paradises. From secluded island hideaways to luxury beachfront resorts and cultural experiences that will bond you together, Thailand has become one of the world's top honeymoon choices for good reason.
 
-After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and island-hopping through the south, our team has experienced Thailand's most romantic corners firsthand. This guide reveals the 12 destinations we'd actually recommend for a honeymoon—not just the Instagram-famous ones—plus honest comparisons, real costs, and practical booking advice.
+This guide reveals the 12 destinations we'd actually recommend for a honeymoon—not just the Instagram-famous ones—plus honest comparisons, real costs, and practical booking advice.
 
 ## Key Takeaways
 
@@ -38,36 +38,20 @@ After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-ma
 
 ## 1. Koh Samui: Island Romance with Modern Luxury
 
-**Koh Samui** is Thailand's most developed island and the easiest entry point for honeymoon couples seeking comfort without sacrificing romance. When we visited during peak season, we found a perfect balance of upscale resorts, world-class dining, and still-quiet beaches if you venture beyond Chaweng.
+**Koh Samui** is Thailand's most developed island and the easiest entry point for honeymoon couples seeking comfort without sacrificing romance.
 
 The island offers everything from beachfront villas with private pools to five-star spa experiences. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) attracts couples who want luxury infrastructure—excellent restaurants, reliable electricity, and English-speaking staff—without the chaos of Bangkok. For getting there, check our guide on [Bangkok to Koh Samui](/blog/bangkok-to-koh-samui-guide/).
 
 ### Best Resorts & Experiences
 
-**Luxury Option:** The Four Seasons and Banyan Tree command ₿15,000-25,000+ per night but deliver impeccable service and private beach access. Our experience: worth the splurge for a special anniversary.
+**Luxury Option:** The Four Seasons and Banyan Tree command ₿15,000-25,000+ per night but deliver impeccable service and private beach access.
 
-**Mid-Range Sweet Spot:** Resorts like Centara Grand Beach [Resort](https://booking.tpo.lv/2PT1kR82) (₿4,000-7,000/night) offer beachfront locations, spa facilities, and romantic dinners without the ultra-luxury price tag. We found the service here genuinely warm and personalized.
+**Mid-Range Sweet Spot:** Resorts like Centara Grand Beach [Resort](https://booking.tpo.lv/2PT1kR82) (₿4,000-7,000/night) offer beachfront locations, spa facilities, and romantic dinners without the ultra-luxury price tag.
 
 - **Sunset Activity:** Book a private longtail boat for sunset cocktails off Taling Ngam Beach. Cost: ₿2,000-3,000 for 2 hours. Absolutely worth it for the photos alone.
 - **Dining Highlight:** Beachfront seafood at Fisherman's Village (Bophut) offers fresh catches and sunset views for ₿600-1,200 per person.
 - **Spa Day:** Traditional Thai massage couples' packages run ₿2,000-4,000 for 90 minutes. See our [Thai massage guide](/blog/thai-massage-guide-types-prices/) for what to expect and prices. The island has dozens of options; ask your resort for recommendations.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Honest Assessment
 
@@ -79,13 +63,13 @@ The island offers everything from beachfront villas with private pools to five-s
 
 ## 2. Koh Tao: Underwater Romance & Budget Luxury
 
-For couples who want adventure alongside romance, **[Koh Tao](https://go2-thailand.com/islands/koh-tao/)** is a revelation. This small island has transformed into a world-class diving destination while maintaining a laid-back, intimate atmosphere. During our week here, we found it far less crowded than Samui, with better value and genuine character.
+For couples who want adventure alongside romance, **[Koh Tao](https://go2-thailand.com/islands/koh-tao/)** is a revelation. This small island has transformed into a world-class diving destination while maintaining a laid-back, intimate atmosphere.
 
 The island is compact (21 sq km), making it easy to explore by scooter or boat. Dive shops line the main beach, but you don't need to be a diver to enjoy the island's charm.
 
 ### Diving & Water Activities
 
-**PADI Certification Courses:** Open Water certification costs ₿8,000-12,000 and takes 3-4 days. Doing this together as a couple creates a genuine bonding experience. We watched several honeymooners celebrate their first dive with champagne on the boat. Read more about [Koh Tao's diving scene and coral restoration efforts](/blog/koh-tao-coral-restoration-eco-diving-rules-2026/).
+**PADI Certification Courses:** Open Water certification costs ₿8,000-12,000 and takes 3-4 days. Doing this together as a couple creates a genuine bonding experience. Read more about [Koh Tao's diving scene and coral restoration efforts](/blog/koh-tao-coral-restoration-eco-diving-rules-2026/).
 
 **[Snorkeling](https://klook.tpo.lv/7Dt6WApj) Trips:** If diving isn't your thing, snorkel tours to nearby reefs cost ₿1,500-2,500 and depart daily. The coral is healthy, and you'll see turtles regularly.
 
@@ -93,22 +77,6 @@ The island is compact (21 sq km), making it easy to explore by scooter or boat. 
 - **Sunset Spot:** Climb to the viewpoint above Ao Leuk for free sunset views—bring a bottle of wine from 7-Eleven (₿200-400).
 - **Local Dining:** Avoid the tourist-trap restaurants on the main beach. Walk inland to find authentic Thai spots where locals eat. Pad Thai costs ₿40-60.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Accommodation Reality Check
 
@@ -130,7 +98,7 @@ The island is compact (21 sq km), making it easy to explore by scooter or boat. 
 
 **[Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/)** offers dramatic limestone cliffs, emerald lagoons, and a vibrant nightlife scene—perfect for couples who want romance with a pulse. The island's natural beauty is genuinely stunning, especially around Maya Bay and Monkey Beach.
 
-During our visit, we found that timing matters enormously here. Visit during shoulder season (April-May or September-October) to avoid the December-February crush.
+Visit during shoulder season (April-May or September-October) to avoid the December-February crush.
 
 ### Must-Do Experiences
 
@@ -165,29 +133,11 @@ During our visit, we found that timing matters enormously here. Visit during sho
 
 ## 4. Koh Lanta: Slow Travel & Hidden Beaches
 
-For couples seeking a quieter, more authentic experience, **[Koh Lanta](https://go2-thailand.com/islands/koh-lanta/)** is our top recommendation. This long, narrow island has resisted overdevelopment, maintaining a genuinely laid-back vibe. When we spent five days here, we barely saw another Western couple.
+For couples seeking a quieter, more authentic experience, **[Koh Lanta](https://go2-thailand.com/islands/koh-lanta/)** is our top recommendation. This long, narrow island has resisted overdevelopment, maintaining a genuinely laid-back vibe.
 
 The island stretches 27 km north to south, with different vibes at each end. The north is more developed; the south is genuinely remote.
 
 ### Why Koh Lanta Wins for Romance
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Fewer Tourists:** You'll have beaches almost to yourself, especially outside peak season. This solitude is rare in Thailand and genuinely romantic.
@@ -204,7 +154,7 @@ The island stretches 27 km north to south, with different vibes at each end. The
 
 **Beachfront Dining:** Restaurants like The Peppermint Cafe and Lanta Seafood offer fresh catches for ₿250-500 per dish. Many have tables right on the sand.
 
-- **Best Beach:** Kantiang Beach (south) is our favorite—long, quiet, and backed by coconut palms. Perfect for long walks at sunset.
+Perfect for long walks at sunset.
 - **Sunset Activity:** Rent a scooter (₿200/day) and explore the island. Stop at viewpoints and small villages. Total cost: ₿200 + petrol.
 - **Couples' Massage:** Traditional Thai massage for two costs ₿1,500-2,000 for 90 minutes at local spas.
 
@@ -218,7 +168,6 @@ The island stretches 27 km north to south, with different vibes at each end. The
 
 **[Krabi](https://go2-thailand.com/city/krabi/)** offers a unique advantage: dramatic limestone scenery, jungle trekking, and island access all from a single base. The town itself is charming, and the surrounding area is genuinely beautiful. Our full [Krabi travel guide](/blog/krabi-travel-guide/) covers all the key areas in detail.
 
-During our time in Krabi, we found it perfect for couples who want variety—a mix of beach days, adventure activities, and cultural experiences without constantly moving accommodations.
 
 ### Key Experiences
 
@@ -236,30 +185,14 @@ During our time in Krabi, we found it perfect for couples who want variety—a m
 
 Stay in Krabi Town (₿1,500-3,500/night) for better dining and access to activities, or choose a resort near Ao Nang Beach (₿2,500-6,000/night) for more beach time. Both are excellent for honeymooners.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
 ## 6. Phuket: Luxury Infrastructure with Beach Escape
 
-**[Phuket](https://go2-thailand.com/islands/phuket/)** is Thailand's largest island and most developed beach destination. While it has a reputation for being touristy, it remains excellent for honeymoons—especially if you choose the right area and book the right resort. See our [Phuket travel guide 2026](/blog/phuket-travel-guide-2026/) for a full breakdown.
+**[Phuket](https://go2-thailand.com/city/phuket/)** is Thailand's largest island and most developed beach destination. While it has a reputation for being touristy, it remains excellent for honeymoons—especially if you choose the right area and book the right resort. See our [Phuket travel guide 2026](/blog/phuket-travel-guide-2026/) for a full breakdown.
 
-During our visits, we found that most of Phuket's charm lies outside the main tourist zones. Patong Beach is crowded and commercial, but Kata, Karon, and Bang Tao beaches offer genuine romance.
+Patong Beach is crowded and commercial, but Kata, Karon, and Bang Tao beaches offer genuine romance.
 
 ### Best Areas for Honeymooners
 
@@ -291,7 +224,7 @@ During our visits, we found that most of Phuket's charm lies outside the main to
 
 **[Koh Chang](https://go2-thailand.com/islands/koh-chang/)**, Thailand's second-largest island, offers a compelling mix of jungle trekking, waterfall swimming, and beach relaxation. It's less developed than Samui or Phuket, making it ideal for couples who want nature-based romance. Read the full [Koh Chang guide](/blog/koh-chang-guide-thailand-eastern-island/) for what to expect.
 
-The island is mountainous and forested, creating a genuinely tropical atmosphere. When we visited, we felt like we'd discovered something the mainstream tourism industry hadn't fully commercialized yet.
+The island is mountainous and forested, creating a genuinely tropical atmosphere.
 
 ### Unique Experiences
 
@@ -320,24 +253,6 @@ The Old City is walkable, atmospheric, and filled with temples, markets, and loc
 ### Why Chiang Mai Works for Honeymoons
 
 
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 **Authentic Culture:** Chiang Mai is a genuine Thai city, not a tourist resort. You'll interact with locals, learn about traditions, and feel genuinely connected to the place.
 
 **Excellent Value:** Luxury resorts cost substantially less than beach destinations. A five-star hotel runs ₿3,000-5,000/night.
@@ -364,7 +279,6 @@ The Old City is walkable, atmospheric, and filled with temples, markets, and loc
 
 **[Koh Yao Noi](https://go2-thailand.com/islands/koh-yao-noi/)** is our secret recommendation for couples seeking genuine seclusion. Located between Phuket and Krabi, this small island has resisted mass tourism while maintaining excellent infrastructure.
 
-During our visit, we found it perfect for couples who want to disconnect—minimal nightlife, no party scene, just beaches, kayaking, and genuine relaxation.
 
 ### What Makes It Special
 
@@ -392,7 +306,7 @@ During our visit, we found it perfect for couples who want to disconnect—minim
 
 **[Hua Hin](https://go2-thailand.com/city/hua-hin/)** is Thailand's oldest beach resort, beloved by Thai royalty and offering a vintage, sophisticated atmosphere. It's less touristy than southern islands but more developed than remote spots. The upcoming [BARAI Hua Hin luxury resort](/blog/barai-hua-hin-hyatt-unbound-collection-2026/) opening in mid-2026 is set to elevate the destination even further.
 
-The town has character—colonial-era buildings, a working fishing pier, and a genuine sense of place. When we visited, we felt like we'd stepped back in time to an era of elegant beach holidays.
+The town has character—colonial-era buildings, a working fishing pier, and a genuine sense of place.
 
 ### Unique Appeal
 
@@ -414,22 +328,6 @@ The town has character—colonial-era buildings, a working fishing pier, and a g
 - **Accommodation:** Mid-range beachfront resorts cost ₿2,000-4,000/night.
 - **Train Journey:** The scenic railway from Bangkok to Hua Hin (₿150-300) is a romantic journey in itself.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -461,27 +359,9 @@ The island is small, walkable, and has excellent beaches without feeling overdev
 
 While not a beach destination, **Bangkok** deserves inclusion as a honeymoon stop. The city offers world-class dining, luxury shopping, cultural experiences, and genuine romance if you know where to look.
 
-During our time living in Bangkok, we discovered that the city's chaos masks genuine charm. Couples who embrace it find it intoxicating.
+Couples who embrace it find it intoxicating.
 
 ### Romantic Experiences in Bangkok
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Chao Phraya River Dinner Cruise:** Evening cruises depart nightly (₿1,500-3,000 per person) offering dinner, live music, and views of illuminated temples. Book in advance.
@@ -538,18 +418,6 @@ During our time living in Bangkok, we discovered that the city's chaos masks gen
 
 **Cost Range:** International flights from Asia: ₿4,000-8,000 ($110-220 USD) per person. From Europe/US: ₿8,000-15,000 ($220-410 USD).
 
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ### Step 4: Book Accommodation
 
@@ -612,7 +480,7 @@ Purchase comprehensive travel insurance covering medical emergencies, trip cance
 
 **Currency:** Thai Baht (฿). ATMs are everywhere. Withdraw cash in Bangkok for best exchange rates.
 
-**Packing:** Bring light clothing, swimwear, sunscreen, and a light rain jacket. See our [packing list](https://go2-thailand.com/practical-info/packing-list/) for details.
+**Packing:** Bring light clothing, swimwear, sunscreen, and a light rain jacket. See our [packing list](/travel-gear/) for details.
 
 ---
 
@@ -644,7 +512,7 @@ Thailand is generally safe for tourists. Use common sense with valuables, avoid 
 
 ### What should we pack for a Thailand honeymoon?
 
-Light, breathable clothing, swimwear, sunscreen (SPF 50+), a light rain jacket, comfortable walking shoes, and any medications you need. See our [packing list](https://go2-thailand.com/practical-info/packing-list/) for a complete guide.
+Light, breathable clothing, swimwear, sunscreen (SPF 50+), a light rain jacket, comfortable walking shoes, and any medications you need. See our [packing list](/travel-gear/) for a complete guide.
 
 ### What is the average cost of a Thailand honeymoon?
 
@@ -676,4 +544,4 @@ Ready to book? Start with our [itineraries section](https://go2-thailand.com/iti
 
 ---
 
-*Have questions about planning your Thailand honeymoon? Drop them in the comments below, and our team will respond with personalized recommendations based on our years of experience in Thailand.*
+*Have questions about planning your Thailand honeymoon?

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "budget"
 tags: ["thailand budget", "travel costs", "2 weeks itinerary", "backpacking thailand", "money saving tips"]
-image: "/images/blog/how-much-2-weeks-thailand-cost-2026-budget.webp"
+image: "/images/thailand-index/budget.webp"
 description: "Real 2-week Thailand costs in 2026: daily budgets from ฿800-3000, sample itineraries, and insider money-saving tips."
 featured: false
 readingTime: 9
@@ -114,7 +114,7 @@ Accommodation is often the largest expense, but Thailand offers incredible varie
 
 ### Luxury Accommodation Options
 
-**4-5 star hotels and resorts** range from **฿1,500–4,000+ per night**. Beachfront properties on [Phuket](https://go2-thailand.com/islands/phuket/) or [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) command premium prices, especially during November–February. Browse the [new luxury resorts opening in 2026](https://go2-thailand.com/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/) for the best high-end options.
+**4-5 star hotels and resorts** range from **฿1,500–4,000+ per night**. Beachfront properties on [Phuket](https://go2-thailand.com/city/phuket/) or [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) command premium prices, especially during November–February. Browse the [new luxury resorts opening in 2026](https://go2-thailand.com/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/) for the best high-end options.
 
 **Pro Tip:** Book accommodation 4–6 weeks in advance for peak season (November–February) to lock in better rates. During shoulder season (March–May, August–October), you'll find significant discounts on mid-range and luxury properties.
 
@@ -153,7 +153,7 @@ Food in Thailand is absurdly cheap if you eat where locals eat. During our time 
 </div>
 
 
-This is the backbone of Thai eating culture. A bowl of [pad thai](https://go2-thailand.com/food/pad-thai/) from a street cart costs ฿40–60. A plate of [larb](https://go2-thailand.com/food/larb/) (spicy minced meat salad) runs ฿50–80. [Tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup) at a local shop: ฿50–70. Read our full [Thai street food guide](https://go2-thailand.com/blog/thai-street-food-guide-2026/) to know what to order and where.
+This is the backbone of Thai eating culture. A bowl of [pad thai](https://go2-thailand.com/food/pad-thai/) from a street cart costs ฿40–60. A plate of [larb](https://go2-thailand.com/food/larb/) (spicy minced meat salad) runs ฿50–80. [Tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup) at a local shop: ฿50–70. Read our full [Thai street food guide](https://go2-thailand.com/thailand-street-food/) to know what to order and where.
 
 **Budget daily food cost:** ฿200–300 (breakfast, lunch, dinner + snacks)
 
@@ -385,7 +385,7 @@ After years navigating Thailand, we've learned where money disappears. Here are 
 
 ### Visa & Entry Fees
 
-Most nationalities get 60 days visa-free. If you need a visa, tourist visas cost around ฿2,000–3,000 depending on your nationality. Check [Thailand visa requirements](https://go2-thailand.com/visa/) before booking. See our [2026 visa guide](https://go2-thailand.com/blog/thailand-visa-guide-2026/) for the latest rules and the [Thailand digital arrival card (TDAC) guide](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/).
+Most nationalities get 60 days visa-free. If you need a visa, tourist visas cost around ฿2,000–3,000 depending on your nationality. Check [Thailand visa requirements](https://go2-thailand.com/visa/) before booking. See our [2026 visa guide](https://go2-thailand.com/visa/) for the latest rules and the [Thailand digital arrival card (TDAC) guide](https://go2-thailand.com/visa/digital-arrival-card/).
 
 ### Airport Transfers
 
@@ -437,7 +437,7 @@ Costs vary dramatically by location:
 - **Islands:** Mid-range (฿1,200–2,000/day mid-range)
 - **Isaan region:** Very cheap (฿600–1,200/day mid-range)
 
-Spend more time in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or the [northern region](https://go2-thailand.com/region/northern/) to stretch your budget. Our [budget vs. comfort travel comparison](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/) breaks down the real trade-offs.
+Spend more time in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or the [northern region](https://go2-thailand.com/region/northern/) to stretch your budget. Our [budget vs. comfort travel comparison](https://go2-thailand.com/thailand-index/budget/) breaks down the real trade-offs.
 
 ### Food Hacks
 
@@ -546,8 +546,8 @@ Before you book, use this checklist to estimate your real costs.
 - [ ] Notify your bank of travel dates
 - [ ] Book first 3–4 nights accommodation
 - [ ] Research [Thailand weather](https://go2-thailand.com/weather/) for your travel dates
-- [ ] Get an [eSIM or SIM card](https://go2-thailand.com/esim/) — see [best SIM card guide for 2026](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/)
-- [ ] Read about [Thailand travel scams to avoid](https://go2-thailand.com/blog/thailand-travel-scams-2026/)
+- [ ] Get an [eSIM or SIM card](https://go2-thailand.com/esim/) — see [best SIM card guide for 2026](/travel-guides/sim-card-thailand/)
+- [ ] Read about [Thailand travel scams to avoid](https://go2-thailand.com/practical-info/scams-safety/)
 - [ ] Download offline maps and translation apps
 - [ ] Check [vaccination requirements](https://go2-thailand.com/travel-guides/health-hospitals-thailand/)
 
@@ -591,7 +591,7 @@ Our advice? Don't obsess over budget. Spend money on 2–3 experiences that exci
 
 Ready to plan your trip? Start with our [7-day Thailand itineraries](https://go2-thailand.com/blog/thailand-7-days-itineraries/) or the [14-day Thailand itinerary](https://go2-thailand.com/blog/thailand-itinerary-2-weeks/) to see how to structure your time, then use this guide to budget accordingly. Also check the [10-day Thailand itinerary](https://go2-thailand.com/blog/thailand-10-day-itinerary/) if you want the sweet spot between depth and coverage. And remember: the best souvenirs from Thailand aren't things—they're memories and friendships made along the way.
 
-**Have questions about costs in specific cities?** Check out our [Bangkok budget guide](https://go2-thailand.com/city/bangkok/budget/), [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/), or the [Phuket travel guide 2026](https://go2-thailand.com/blog/phuket-travel-guide-2026/) for deeper dives into regional pricing. For the safest possible trip, read [is Thailand safe for tourists in 2026](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026/) before you depart.
+**Have questions about costs in specific cities?** Check out our [Bangkok budget guide](https://go2-thailand.com/city/bangkok/budget/), [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/), or the [Phuket travel guide 2026](https://go2-thailand.com/blog/phuket-travel-guide-2026/) for deeper dives into regional pricing. For the safest possible trip, read [is Thailand safe for tourists in 2026](https://go2-thailand.com/is-thailand-safe/) before you depart.
 
 ---
 

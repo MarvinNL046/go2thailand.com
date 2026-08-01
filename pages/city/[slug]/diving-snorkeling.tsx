@@ -382,7 +382,7 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
                     <p className="text-gray-600 text-sm">{t("s015_ethical_elephant_experiences")}</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                <Link href={`/best-hotels/${city.slug}/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Hotels</h4>
                     <p className="text-gray-600 text-sm">{t("s016_where_to_stay")}</p>

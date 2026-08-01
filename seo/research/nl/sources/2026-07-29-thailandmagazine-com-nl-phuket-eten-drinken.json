@@ -1,0 +1,1530 @@
+{
+  "captured_at": "2026-07-29T20:33:53.605Z",
+  "locale": "nl",
+  "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Koh Samui",
+          "url": "https://thailandmagazine.com/nl/koh-samui/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-samui/",
+              "anchor_text": "Koh Samui"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phangan",
+          "url": "https://thailandmagazine.com/nl/koh-phangan/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-phangan/",
+              "anchor_text": "Koh Phangan"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao",
+          "url": "https://thailandmagazine.com/nl/koh-tao/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-tao/",
+              "anchor_text": "Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phi Phi",
+          "url": "https://thailandmagazine.com/nl/koh-phi-phi/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-phi-phi/",
+              "anchor_text": "Koh Phi Phi"
+            }
+          ]
+        },
+        {
+          "text": "Koh Yao Yai",
+          "url": "https://thailandmagazine.com/nl/koh-yao-yai/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-yao-yai/",
+              "anchor_text": "Koh Yao Yai"
+            }
+          ]
+        },
+        {
+          "text": "Koh Yao Noi",
+          "url": "https://thailandmagazine.com/nl/koh-yao-noi/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-yao-noi/",
+              "anchor_text": "Koh Yao Noi"
+            }
+          ]
+        },
+        {
+          "text": "Koh Lanta",
+          "url": "https://thailandmagazine.com/nl/koh-lanta/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-lanta/",
+              "anchor_text": "Koh Lanta"
+            }
+          ]
+        },
+        {
+          "text": "Koh Larn",
+          "url": "https://thailandmagazine.com/nl/koh-larn/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-larn/",
+              "anchor_text": "Koh Larn"
+            }
+          ]
+        },
+        {
+          "text": "Koh Samet",
+          "url": "https://thailandmagazine.com/nl/koh-samet/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-samet/",
+              "anchor_text": "Koh Samet"
+            }
+          ]
+        },
+        {
+          "text": "Koh Chang",
+          "url": "https://thailandmagazine.com/nl/koh-chang/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-chang/",
+              "anchor_text": "Koh Chang"
+            }
+          ]
+        },
+        {
+          "text": "Koh Kood",
+          "url": "https://thailandmagazine.com/nl/koh-kood/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-kood/",
+              "anchor_text": "Koh Kood"
+            }
+          ]
+        },
+        {
+          "text": "Koh Mak",
+          "url": "https://thailandmagazine.com/nl/koh-mak/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-mak/",
+              "anchor_text": "Koh Mak"
+            }
+          ]
+        },
+        {
+          "text": "Koh Mook",
+          "url": "https://thailandmagazine.com/nl/koh-mook/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-mook/",
+              "anchor_text": "Koh Mook"
+            }
+          ]
+        },
+        {
+          "text": "Koh Kradan",
+          "url": "https://thailandmagazine.com/nl/koh-kradan/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-kradan/",
+              "anchor_text": "Koh Kradan"
+            }
+          ]
+        },
+        {
+          "text": "Koh Ngai",
+          "url": "https://thailandmagazine.com/nl/koh-ngai/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-ngai/",
+              "anchor_text": "Koh Ngai"
+            }
+          ]
+        },
+        {
+          "text": "Koh Libong",
+          "url": "https://thailandmagazine.com/nl/koh-libong/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-libong/",
+              "anchor_text": "Koh Libong"
+            }
+          ]
+        },
+        {
+          "text": "Surin Islands",
+          "url": "https://thailandmagazine.com/nl/surin-islands/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/surin-islands/",
+              "anchor_text": "Surin Islands"
+            }
+          ]
+        },
+        {
+          "text": "Similan Eilanden",
+          "url": "https://thailandmagazine.com/nl/similan-eilanden-tour/meerdaagse-tour-similan-eilanden/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/similan-eilanden-tour/meerdaagse-tour-similan-eilanden/",
+              "anchor_text": "Similan Eilanden"
+            }
+          ]
+        },
+        {
+          "text": "Koh Lipe",
+          "url": "https://thailandmagazine.com/nl/koh-lipe/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-lipe/",
+              "anchor_text": "Koh Lipe"
+            }
+          ]
+        },
+        {
+          "text": "Tarutao National Park",
+          "url": "https://thailandmagazine.com/nl/tarutao-national-park/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/tarutao-national-park/",
+              "anchor_text": "Tarutao National Park"
+            }
+          ]
+        },
+        {
+          "text": "Steden & Dorpen",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Khao Sok",
+          "url": "https://thailandmagazine.com/nl/khao-sok/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/khao-sok/",
+              "anchor_text": "Khao Sok"
+            }
+          ]
+        },
+        {
+          "text": "Chiang Mai",
+          "url": "https://thailandmagazine.com/nl/chiang-mai/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/chiang-mai/",
+              "anchor_text": "Chiang Mai"
+            }
+          ]
+        },
+        {
+          "text": "Chiang Rai",
+          "url": "https://thailandmagazine.com/nl/chiang-rai/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/chiang-rai/",
+              "anchor_text": "Chiang Rai"
+            }
+          ]
+        },
+        {
+          "text": "Mae Hong Son",
+          "url": "https://thailandmagazine.com/nl/mae-hong-son/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/mae-hong-son/",
+              "anchor_text": "Mae Hong Son"
+            }
+          ]
+        },
+        {
+          "text": "Sri Racha",
+          "url": "https://thailandmagazine.com/nl/sri-racha/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/sri-racha/",
+              "anchor_text": "Sri Racha"
+            }
+          ]
+        },
+        {
+          "text": "Khao Lak",
+          "url": "https://thailandmagazine.com/nl/khao-lak/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/khao-lak/",
+              "anchor_text": "Khao Lak"
+            }
+          ]
+        },
+        {
+          "text": "Phang Nga",
+          "url": "https://thailandmagazine.com/nl/phang-nga/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/phang-nga/",
+              "anchor_text": "Phang Nga"
+            }
+          ]
+        },
+        {
+          "text": "Hua Hin",
+          "url": "https://thailandmagazine.com/nl/hua-hin/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/hua-hin/",
+              "anchor_text": "Hua Hin"
+            }
+          ]
+        },
+        {
+          "text": "Rooftop Bars",
+          "url": "https://thailandmagazine.com/nl/bangkok/rooftop-bars/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bangkok/rooftop-bars/",
+              "anchor_text": "Rooftop Bars"
+            }
+          ]
+        },
+        {
+          "text": "Zien & Doen",
+          "url": "https://thailandmagazine.com/nl/bangkok/zien-doen/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bangkok/zien-doen/",
+              "anchor_text": "Zien & Doen"
+            }
+          ]
+        },
+        {
+          "text": "Shopping Malls",
+          "url": "https://thailandmagazine.com/nl/bangkok/shopping-malls/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bangkok/shopping-malls/",
+              "anchor_text": "Shopping Malls"
+            }
+          ]
+        },
+        {
+          "text": "Eten & Drinken",
+          "url": "https://thailandmagazine.com/nl/bangkok/eten-drinken/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bangkok/eten-drinken/",
+              "anchor_text": "Eten & Drinken"
+            }
+          ]
+        },
+        {
+          "text": "15 keer bijzonder en uniek slapen in Thailand",
+          "url": "https://thailandmagazine.com/nl/bijzonder-slapen-in-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bijzonder-slapen-in-thailand/",
+              "anchor_text": "15 keer bijzonder en uniek slapen in Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Chiang Mai",
+          "url": "https://thailandmagazine.com/nl/chiang-mai/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/chiang-mai/accommodaties/",
+              "anchor_text": "Chiang Mai"
+            }
+          ]
+        },
+        {
+          "text": "Koh Samui",
+          "url": "https://thailandmagazine.com/nl/koh-samui/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-samui/accommodaties/",
+              "anchor_text": "Koh Samui"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao",
+          "url": "https://thailandmagazine.com/nl/koh-tao/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-tao/accommodaties/",
+              "anchor_text": "Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Khao Sok",
+          "url": "https://thailandmagazine.com/nl/khao-sok/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/khao-sok/accommodaties/",
+              "anchor_text": "Khao Sok"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phangan",
+          "url": "https://thailandmagazine.com/nl/koh-phangan/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-phangan/accommodaties/",
+              "anchor_text": "Koh Phangan"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phi Phi",
+          "url": "https://thailandmagazine.com/nl/koh-phi-phi/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-phi-phi/accommodaties/",
+              "anchor_text": "Koh Phi Phi"
+            }
+          ]
+        },
+        {
+          "text": "Koh Lanta",
+          "url": "https://thailandmagazine.com/nl/koh-lanta/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-lanta/accommodaties/",
+              "anchor_text": "Koh Lanta"
+            }
+          ]
+        },
+        {
+          "text": "Koh Lipe",
+          "url": "https://thailandmagazine.com/nl/koh-lipe/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-lipe/accommodaties/",
+              "anchor_text": "Koh Lipe"
+            }
+          ]
+        },
+        {
+          "text": "Koh Chang",
+          "url": "https://thailandmagazine.com/nl/koh-chang/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-chang/accommodaties/",
+              "anchor_text": "Koh Chang"
+            }
+          ]
+        },
+        {
+          "text": "Dagtours per bestemming",
+          "url": "https://thailandmagazine.com/nl/tours-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/tours-thailand/",
+              "anchor_text": "Dagtours per bestemming"
+            }
+          ]
+        },
+        {
+          "text": "Georganiseerde Thailand rondreizen",
+          "url": "https://thailandmagazine.com/nl/georganiseerde-thailand-rondreizen/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/georganiseerde-thailand-rondreizen/",
+              "anchor_text": "Georganiseerde Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Reisroutes Thailand",
+          "url": "https://thailandmagazine.com/nl/reisroutes-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/reisroutes-thailand/",
+              "anchor_text": "Reisroutes Thailand"
+            }
+          ]
+        },
+        {
+          "text": "21 Dagen Thailand Reisroute",
+          "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/21-dagen-thailand-reisroute/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/21-dagen-thailand-reisroute/",
+              "anchor_text": "21 Dagen Thailand Reisroute"
+            }
+          ]
+        },
+        {
+          "text": "Je eigen reis regelen",
+          "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/zelf-reizen-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/zelf-reizen-thailand/",
+              "anchor_text": "Je eigen reis regelen"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Reis Checklist",
+          "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/",
+              "anchor_text": "Thailand Reis Checklist"
+            }
+          ]
+        },
+        {
+          "text": "Ontdek de Eilanden",
+          "url": "https://thailandmagazine.com/nl/eilanden/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/eilanden/",
+              "anchor_text": "Ontdek de Eilanden"
+            }
+          ]
+        },
+        {
+          "text": "Weer en Klimaat",
+          "url": "https://thailandmagazine.com/nl/weer-en-klimaat-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/weer-en-klimaat-thailand/",
+              "anchor_text": "Weer en Klimaat"
+            }
+          ]
+        },
+        {
+          "text": "Over ons",
+          "url": "https://thailandmagazine.com/nl/over-ons/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/over-ons/",
+              "anchor_text": "Over ons"
+            }
+          ]
+        },
+        {
+          "text": "Onze reisgidsen",
+          "url": "https://thailandmagazine.com/nl/thailand-reisgidsen/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/thailand-reisgidsen/",
+              "anchor_text": "Onze reisgidsen"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Over ons",
+          "url": "https://thailandmagazine.com/nl/over-ons/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/over-ons/",
+              "anchor_text": "Over ons"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Eten & Drinken, Phuket",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Het eten en drinken in Phuket is net zo levendig als de stranden. Van smakelijke streetfood op lokale nachtmarkten tot chique diners in restaurants aan het strand, er is voor ieder wat wils en voor elk budget. Geniet van authentieke Thaise gerechten zoals Pad Thai, Tom Yum Goong en verse zeevruchten rechtstreeks uit de Andamanse Zee. Mis ook zeker de zonsondergangcocktails niet bij rooftopbars of lokale strandtenten—Phuket combineert smaak, sfeer en onvergetelijke uitzichten in elke hap en slok.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Nai Yang Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Patong Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Layan Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kamala Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Mai Khao Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kamala Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kamala Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Patong Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Layan Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Patong Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nai Yang Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Patong Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kamala Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Mai Khao Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Patong Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nai Yang Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Patong Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Layan Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Mai Khao Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bang Tao Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kalim Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Layan Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Layan Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Mai Khao Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Layan Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Patong Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bang Tao Beach",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Nai Thon Beach",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "NY Beach Republic",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontspannen strandbar NY Beach Republic in Phuket met dj’s, happy hour, cocktails en relaxte sfeer vlakbij Dewa Phuket Resort. Perfect om te ontspannen of voor gezellige avonden.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "NY Beach Republic",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/ny-beach-republic/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/ny-beach-republic/",
+                "anchor_text": "NY Beach Republic"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "KUDO Beach Club",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontdek KUDO Beach Club, een stijlvol adults-only resort in Phuket met privéjacuzzi’s, live dj’s en heerlijke Napolitaanse en Thaise gerechten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "KUDO Beach Club",
+            "url": "https://thailandmagazine.com/nl/phuket/zien-doen/kudo-beach-club/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/zien-doen/kudo-beach-club/",
+                "anchor_text": "KUDO Beach Club"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Beach&Bubbles",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Beach&Bubbles is een stijlvolle beachbar aan Layan Beach, Phuket, met sprankelende drankjes en lekkere hapjes voor een perfecte toost aan zee.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Beach&Bubbles",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/beachbubbles/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/beachbubbles/",
+                "anchor_text": "Beach&Bubbles"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The Memory Cafe at Kamala",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "The Memory Cafe in Kamala, Phuket biedt sinds 2020 een gezellige sfeer, heerlijke koffie en zelfgemaakte lekkernijen zoals brownies en mangotaart.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The Memory Cafe at Kamala",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/the-memory-cafe-at-kamala/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/the-memory-cafe-at-kamala/",
+                "anchor_text": "The Memory Cafe at Kamala"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Cucina",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontdek authentieke Italiaanse keuken bij Cucina, JW Marriott Phuket. Geniet van klassieke gerechten en weekendbuffetten in een warme sfeer vlakbij Mai Khao Beach.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Cucina",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/cucina/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/cucina/",
+                "anchor_text": "Cucina"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Vanilla Sky Bar & Gastro Pub",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Stijlvolle rooftopbar in Phuket met gourmetdiners, moleculaire cocktails en adembenemend uitzicht op de Andamanse Zee vlak bij Kamala Beach.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Vanilla Sky Bar & Gastro Pub",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/vanilla-sky-bar-gastro-pub/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/vanilla-sky-bar-gastro-pub/",
+                "anchor_text": "Vanilla Sky Bar & Gastro Pub"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Talung Thai Restaurant",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Talung Thai Restaurant in Paresa Resort, Phuket biedt een prachtig zeezicht en voortreffelijke Thaise gerechten, bekroond met een Michelin Plate.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Talung Thai Restaurant",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/talung-thai-restaurant/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/talung-thai-restaurant/",
+                "anchor_text": "Talung Thai Restaurant"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "No.9 2nd Restaurant",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "No.9 2nd Restaurant in Patong, Phuket biedt Thaise en Europese gerechten, vegan opties, dagelijks geopend van 11:00-22:30, alleen contant, informeel dineren.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "No.9 2nd Restaurant",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/no-9-2nd-restaurant/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/no-9-2nd-restaurant/",
+                "anchor_text": "No.9 2nd Restaurant"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Interview Jim Ophorst",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontdek inzichten van Michelin-sterrenchef Jim Ophorst in Phuket, zijn passie voor duurzaam koken en de beste tips voor Thais eten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Interview Jim Ophorst",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/interview-jim-ophorst/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/interview-jim-ophorst/",
+                "anchor_text": "Interview Jim Ophorst"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Rim Talay Restaurant",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Rim Talay Restaurant in Amari Phuket biedt heerlijke Thaise en internationale gerechten met prachtig uitzicht op Patong Bay.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Rim Talay Restaurant",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/rim-talay-restaurant/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/rim-talay-restaurant/",
+                "anchor_text": "Rim Talay Restaurant"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The Naiyang Cafe",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Gezellig halal café vlakbij Phuket Airport met Thaise en westerse gerechten, verse smoothies en zelfgemaakte zoetigheden. Perfect voor een ontspannen maaltijd of een hapje voor je […]",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The Naiyang Cafe",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/the-naiyang-cafe/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/the-naiyang-cafe/",
+                "anchor_text": "The Naiyang Cafe"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "La Gritta",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "La Gritta in Amari Phuket biedt authentiek Italiaans fine dining met prachtig uitzicht op de Andamanse Zee en gastronomische gerechten, dagelijks geopend van 12:00 tot 23:00 uur.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "La Gritta",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/la-gritta/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/la-gritta/",
+                "anchor_text": "La Gritta"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Kokosnuss Restaurant",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Geniet van Duitse bratwurst, schnitzel en Thaise gerechten bij Kokosnuss Restaurant, slechts 10 minuten van Kamala Beach. Inclusief all-you-can-eat buffetten!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Kokosnuss Restaurant",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/kokosnuss-restaurant/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/kokosnuss-restaurant/",
+                "anchor_text": "Kokosnuss Restaurant"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Wagyu Steakhouse",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontdek Wagyu Steakhouse in Phuket: premium steaks, verse zeevruchten en creatieve cocktails vlak bij Surin Beach.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Wagyu Steakhouse",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/wagyu-steakhouse/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/wagyu-steakhouse/",
+                "anchor_text": "Wagyu Steakhouse"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "M Beach Club",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontdek M Beach Club in Phuket: stijlvolle strandvibes, zonsondergangcocktails en ontspannen ontbijtjes op Mai Khao Beach. Perfect voor elk moment.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "M Beach Club",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/m-beach-club/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/m-beach-club/",
+                "anchor_text": "M Beach Club"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The Coffee Club at Jungceylon",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontdek The Coffee Club in Jungceylon, Phuket – heerlijke koffie en smakelijk eten in een van de favoriete koffiezaken van Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The Coffee Club at Jungceylon",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/the-coffee-club-at-jungceylon/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/the-coffee-club-at-jungceylon/",
+                "anchor_text": "The Coffee Club at Jungceylon"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Phen’s Restaurant Bar & Coffee",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Phen’s Restaurant & Coffee in Phuket biedt heerlijke Thaise en Westerse gerechten direct aan het strand, perfect voor dineren bij zonsondergang met prachtig uitzicht.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Phen’s Restaurant Bar & Coffee",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/phens-restaurant-bar-coffee/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/phens-restaurant-bar-coffee/",
+                "anchor_text": "Phen’s Restaurant Bar & Coffee"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Baia del Sole",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Baia del Sole in Patong, Phuket: Italiaanse en Thaise gerechten met huisgemaakte pasta en verse zeevruchten in een ontspannen, vriendelijke omgeving.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Baia del Sole",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/baia-del-sole/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/baia-del-sole/",
+                "anchor_text": "Baia del Sole"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "360 Bar",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "360 Bar in Phuket biedt panoramisch uitzicht vanaf het dakterras, perfect voor drankjes en ontspannen avonden te midden van Layan’s weelderige omgeving.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "360 Bar",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/360-bar/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/360-bar/",
+                "anchor_text": "360 Bar"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "La Sala",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontdek La Sala in Phuket: authentieke Indiase en Thaise smaken, rijke curry’s, verse naan en elegant dineren bij Anantara Mai Khao Villas.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "La Sala",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/la-sala/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/la-sala/",
+                "anchor_text": "La Sala"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Xana Beach Club",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Xana Beach Club in Phuket biedt stijlvolle beach vibes, heerlijke cocktails en een dagelijkse Happy Hour aan Bang Tao Beach.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Xana Beach Club",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/xana-beach-club/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/xana-beach-club/",
+                "anchor_text": "Xana Beach Club"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Malika Sky Bar",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontdek Malika Sky Bar in Phuket: ontspannen sfeer, prachtig uitzicht op de Andamanse Zee en een gevarieerd menu met Thaise en Westerse favorieten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Malika Sky Bar",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/malika-sky-bar/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/malika-sky-bar/",
+                "anchor_text": "Malika Sky Bar"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Suvana",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Lees over Su Va Na Phuket, het beste onderwaterrestaurant ter wereld, waar luxe dineren samenkomt met een adembenemend marien decor in Central Phuket Floresta. Ervaar de unieke fus […]",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Suvana",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/suvana/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/suvana/",
+                "anchor_text": "Suvana"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Project Artisan",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Ontdek Project Artisan in Phuket: een warme, gastvrije plek voor heerlijke gerechten, drankjes en een ontspannen sfeer in het hart van Layan Beach.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Project Artisan",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/project-artisan/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/project-artisan/",
+                "anchor_text": "Project Artisan"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Zuma",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Zuma Phuket offers refined Japanese izakaya-style dining with beachfront views at Anantara Layan Phuket Resort.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Zuma",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/zuma/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/zuma/",
+                "anchor_text": "Zuma"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Kin Dee Restaurant",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Kin Dee Restaurant in Phuket biedt authentieke Thaise keuken in een rustige setting aan het meer, met vriendelijke service en heerlijke lokale gerechten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Kin Dee Restaurant",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/kin-dee-restaurant/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/kin-dee-restaurant/",
+                "anchor_text": "Kin Dee Restaurant"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Age",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Restaurant Age in Anantara Layan Phuket Resort biedt verfijnde Frans geïnspireerde gerechten, een elegante sfeer en wijnen van topkwaliteit.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Age",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/age/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/age/",
+                "anchor_text": "Age"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Amritsr",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Authentieke Noord-Indiase keuken in Phuket bij Amritsr. Geniet van butter chicken, dal makhani, paneer tikka en verse naan. Dagelijks geopend van 11:00 tot 02:00 uur.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Amritsr",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/amritsr/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/amritsr/",
+                "anchor_text": "Amritsr"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Don Vito Trattoria",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Open vanaf december 2025 – Geniet van authentieke Italiaanse gerechten en een prachtig uitzicht op het meer bij Don Vito Trattoria in Phuket. Reserveer op tijd voor de beste erva […]",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Don Vito Trattoria",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/don-vito-trattoria/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/don-vito-trattoria/",
+                "anchor_text": "Don Vito Trattoria"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Vero Trattoria & Wine Bar",
+        "main_title": "Eten & Drinken, Phuket",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Geniet van authentieke Italiaanse gerechten en fijne wijnen bij Vero Trattoria & Wine Bar in Phuket. Perfect voor een speciale avond uit met een echte smaak van Italië.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Vero Trattoria & Wine Bar",
+            "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/vero-trattoria-wine-bar/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/phuket/eten-drinken/vero-trattoria-wine-bar/",
+                "anchor_text": "Vero Trattoria & Wine Bar"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": null,
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "best-wellness-retreats-thailand-2026",
+  "route": "/nl/blog/best-wellness-retreats-thailand-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Wellness retreat in Thailand kiezen | Go2Thailand",
+    "description": "Vergelijk wellness retreats in Thailand op doel, locatie, begeleiding, programma, verblijf en voorwaarden — van yoga en mindfulness tot spa en herstel.",
+    "primaryKeyword": "wellness retreat thailand",
+    "secondaryKeywords": ["yoga retreat thailand", "detox retreat thailand", "wellness vakantie thailand"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/best-wellness-retreats-thailand-2026/"
+  },
+  "hero": {
+    "eyebrow": "Rust met een duidelijk doel",
+    "title": "Wellness retreats in Thailand",
+    "accent": "Zo kies je goed",
+    "description": "De mooiste omgeving is niet automatisch het beste programma. Vergelijk begeleiding, dagritme, inclusies en voorwaarden voordat je beslist.",
+    "image": "/images/redesign/editorial/best-wellness-retreats-thailand-2026-hero.webp",
+    "imageAlt": "Rustige wellnessruimte in Thailand met yogamatten, tropisch groen en zacht ochtendlicht",
+    "primaryCta": { "label": "Vergelijk retreattypen", "href": "#retreattypen" },
+    "secondaryCta": { "label": "Boekingschecklist", "href": "#boekingscheck" }
+  },
+  "layout": {
+    "kind": "hotel-guide",
+    "pricePolicy": "live-price-only",
+    "heroVariant": "editorial",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Kies eerst je doel — rust, yoga, spa of begeleid herstel — en pas daarna de locatie. Controleer wie het programma begeleidt, wat werkelijk inbegrepen is en welke gezondheidsclaims of annuleringsvoorwaarden gelden.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "retreattypen",
+      "title": "Welk type retreat past bij jou?",
+      "description": "De categorie zegt meer over het dagritme dan een luxe foto of resortlabel.",
+      "options": [
+        { "title": "Yoga en mindfulness", "description": "Past bij reizigers die structuur, beweging en stilte zoeken zonder medisch programma.", "label": "Dagritme", "note": "Vraag naar niveau, groepsgrootte en taal van de lessen." },
+        { "title": "Spa en ontspanning", "description": "Combineert verblijf met behandelingen, vrije tijd en vaak een ruimer activiteitenaanbod.", "label": "Comfort", "note": "Controleer hoeveel behandelingen echt inbegrepen zijn." },
+        { "title": "Begeleid herstel", "description": "Programma's rond slaap, stress, voeding of mobiliteit vragen extra aandacht voor kwalificaties en intake.", "label": "Begeleiding", "note": "Zie dit niet automatisch als vervanging voor medische zorg." }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "keuzeproces",
+      "title": "Van wens naar passende shortlist",
+      "steps": [
+        { "title": "Formuleer je doel", "description": "Schrijf op wat je aan het einde van het verblijf anders wilt voelen of kunnen." },
+        { "title": "Vergelijk het dagprogramma", "description": "Kijk naar verplichte onderdelen, vrije tijd, maaltijden, behandelingen en rustmomenten." },
+        { "title": "Controleer de aanbieder", "description": "Vraag naar begeleiders, intake, contra-indicaties, voorwaarden en bereikbaarheid vanaf de luchthaven." }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "boekingscheck",
+      "title": "Controleer vóór je betaalt",
+      "items": [
+        "Exacte kamercategorie, maaltijden, lessen en behandelingen in de prijs",
+        "Kwalificaties en rol van begeleiders bij gezondheidsgerichte programma's",
+        "Intake, dieetwensen, allergieën en relevante contra-indicaties",
+        "Annulerings-, wijzigings- en terugbetalingsvoorwaarden",
+        "Transferopties en totale reistijd vanaf je aankomstluchthaven",
+        "Recente ervaringen die inhoud en begeleiding beschrijven, niet alleen de locatie"
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "gezondheidsclaims",
+      "tone": "warning",
+      "title": "Wees kritisch op medische en detoxclaims",
+      "description": "Een retreat kan ontspanning en structuur bieden, maar spectaculaire gezondheidsclaims vragen betrouwbare onderbouwing. Bespreek ingrijpende vasten-, detox- of herstelprogramma's bij twijfel vooraf met een gekwalificeerde zorgverlener."
+    },
+    {
+      "kind": "affiliate",
+      "id": "verblijf-vergelijken",
+      "provider": "trip.com",
+      "title": "Vergelijk het verblijf rond je gekozen programma",
+      "description": "Controleer de actuele kamerprijs, ligging, inbegrepen maaltijden en annuleringsvoorwaarden rechtstreeks bij Trip.com. Een hotelboeking is niet automatisch een retreatprogramma.",
+      "cta": { "label": "Bekijk actuele verblijven", "href": "https://trip.tpo.lv/TmObooZ5", "external": true },
+      "placement": "wellness-retreat-stay",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over wellness retreats",
+      "items": [
+        { "question": "Wat is de beste plek voor een wellness retreat in Thailand?", "answer": "Dat hangt af van je doel. Noord-Thailand past vaak bij yoga en natuur, eilanden bij strand en resortwellness, en Bangkok of omgeving bij korte programma's en eenvoudige bereikbaarheid." },
+        { "question": "Zijn behandelingen altijd bij de retreatprijs inbegrepen?", "answer": "Nee. Vraag om een schriftelijke lijst met inbegrepen overnachtingen, maaltijden, lessen, consulten en behandelingen voordat je boekt." },
+        { "question": "Is een detoxretreat medisch verantwoord?", "answer": "Dat verschilt per programma en persoon. Controleer begeleiding en contra-indicaties en vraag bij medische klachten of medicatie eerst persoonlijk advies aan een gekwalificeerde zorgverlener." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bronnen en controlepunten",
+      "items": [
+        { "title": "Spa & Wellness", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Search-result/spa", "checkedAt": "2026-07-31", "note": "Officiële categorie- en bestemmingscontext." },
+        { "title": "Wellness Retreats Near Bangkok", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Promotions/115/wellness-retreats-near-bangkok-all-inclusive-detox-weight-loss-longevity", "checkedAt": "2026-07-31", "note": "Actueel voorbeeld van programma-inhoud, inclusies en voorwaarden; prijzen blijven aanbiedergebonden." },
+        { "title": "Thailand Tourism Awards: Health and Wellness", "publisher": "Tourism Authority of Thailand", "url": "https://tourismawards.tourismthailand.org/", "checkedAt": "2026-07-31", "note": "Context voor erkende wellnesscategorieën en kwaliteitsbeoordeling." }
+      ]
+    }
+  ]
+}

@@ -107,7 +107,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
           : `${cityName} weather ${monthName}, ${cityName} temperature ${monthName}, ${cityName} rainfall ${monthName}, ${cityName} climate ${monthName}, visit ${cityName} ${monthName}`} />
       </SEOHead>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-8">
@@ -274,7 +274,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             {/* City Weather Selector */}
             <div className="bg-white rounded-2xl shadow-md p-6">
               <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? 'Weer in Andere Steden' : 'Other Cities Weather'}</h3>
-              <select 
+              <select
                 className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red"
                 value={city.slug}
                 onChange={(e) => window.location.href = `/city/${e.target.value}/weather/${month}/`}
@@ -304,8 +304,8 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
               <div className="grid grid-cols-3 gap-2 text-sm">
                 {allMonths.map((m) => (
                   <Link key={m.slug} href={`/city/${city.slug}/weather/${m.slug}`} className={`text-center p-2 rounded ${
-                    m.slug === month 
-                      ? 'bg-thailand-red text-white' 
+                    m.slug === month
+                      ? 'bg-thailand-red text-white'
                       : 'bg-gray-100 hover:bg-gray-200 text-gray-700'
                   }`}>
                     {m.name.slice(0, 3)}
@@ -324,7 +324,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   </Link>
                 </li>
                 <li>
-                  <Link href={`/city/${city.slug}/hotels`} className="text-thailand-red hover:text-thailand-blue">
+                  <Link href={`/best-hotels/${city.slug}/`} className="text-thailand-red hover:text-thailand-blue">
                     {isNl ? 'Waar Verblijven' : 'Where to Stay'}
                   </Link>
                 </li>
@@ -344,7 +344,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             </div>
           </aside>
         </div>
-      </main>
+      </div>
     </div>
   );
 };
@@ -356,7 +356,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 export const getStaticProps: GetStaticProps<CityWeatherPageProps> = async ({ params, locale }) => {
   const { slug, month } = params as { slug: string; month: string };
   const cityWeather = cityWeatherData as Record<string, any>;
-  
+
   const city = citiesData.find(c => c.slug === slug);
   if (!city || !cityWeather[slug]) {
     return { notFound: true };
@@ -365,16 +365,16 @@ export const getStaticProps: GetStaticProps<CityWeatherPageProps> = async ({ par
   // Handle both data structures
   const cityData = cityWeather[slug];
   const monthlyData = cityData.monthly_weather || cityData;
-  
+
   if (!monthlyData[month]) {
     return { notFound: true };
   }
 
   const monthData = monthlyData[month];
-  
+
   // Convert data to consistent format
   let weatherData: WeatherData;
-  
+
   if (monthData.temperature) {
     // New structure
     weatherData = monthData;
@@ -395,12 +395,12 @@ export const getStaticProps: GetStaticProps<CityWeatherPageProps> = async ({ par
 
   const monthsArray = Object.keys(monthNamesEN);
   const currentIndex = monthsArray.indexOf(month);
-  
+
   const prevMonth = currentIndex > 0 ? {
     slug: monthsArray[currentIndex - 1],
     name: monthNamesEN[monthsArray[currentIndex - 1]]
   } : null;
-  
+
   const nextMonth = currentIndex < monthsArray.length - 1 ? {
     slug: monthsArray[currentIndex + 1],
     name: monthNamesEN[monthsArray[currentIndex + 1]]

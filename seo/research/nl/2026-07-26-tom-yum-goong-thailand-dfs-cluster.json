@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-26T00:37:56.589Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "tom yum goong thailand",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "tom yum goong thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "tom yum goong thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

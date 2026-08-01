@@ -206,7 +206,7 @@ While the TDAC itself is free, related travel costs include:
 - **[Travel insurance](/blog/travel-insurance-thailand-guide/)** (optional but recommended)
 - **Visa fees** (if required for your nationality)
 
-The TDAC is not a visa—it's simply an arrival notification system. Depending on your nationality and length of stay, you may still need a separate [Thailand visa](/visa/) or qualify for [visa-free entry](/visa/visa-free-entry/). See also our full [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for detailed requirements per nationality.
+The TDAC is not a visa—it's simply an arrival notification system. Depending on your nationality and length of stay, you may still need a separate [Thailand visa](/visa/) or qualify for [visa-free entry](/visa/visa-free-entry/). See also our full [Thailand visa guide 2026](/visa/) for detailed requirements per nationality.
 
 <div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -328,7 +328,7 @@ Email the Thailand Immigration Bureau through the official website if you're hav
 
 If all else fails, arrive early at immigration and explain the situation. Have your passport ready and be prepared to provide the details you submitted (arrival date, flight number, accommodation address). Immigration officers can look up your submission in the system.
 
-**Budget Option**: Don't pay third-party "recovery" services claiming they can retrieve your TDAC for a fee. The immigration system is free to access. For a broader rundown of scams targeting tourists, see our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/).
+**Budget Option**: Don't pay third-party "recovery" services claiming they can retrieve your TDAC for a fee. The immigration system is free to access. For a broader rundown of scams targeting tourists, see our [Thailand travel scams guide](/practical-info/scams-safety/).
 
 ---
 
@@ -514,7 +514,7 @@ The **Thailand Digital Arrival Card** is a straightforward requirement that make
 
 Remember the key points: submit early, use the official government website at https://tdac.immigration.go.th, ensure your information matches your passport exactly, and save your confirmation QR code. Whether you're heading to [Bangkok](/city/bangkok/) for city exploration, [Chiang Mai](/city/chiang-mai/) for cultural experiences, or the [southern islands](/islands/) for beach relaxation, your TDAC is your first step into Thailand.
 
-For more information about visas, entry requirements, and travel planning, visit our comprehensive [Thailand visa guide](/visa/). You may also want to read about the [Thailand eVisa overhaul 2026](/blog/thailand-evisa-overhaul-2026-simplified-categories/) and [whether the 60-day visa-free stay is being cut](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/). Safe travels!
+For more information about visas, entry requirements and travel planning, use our [Thailand visa finder](/visa/) and the dated [visa-exemption guide](/visa/visa-free-entry/). The London embassy describes the current exemption arrangement as temporary, so verify it again shortly before travel. Safe travels!
 
 Once you're in, Thailand's domestic travel scene is thriving — TAT is [pushing hard to get visitors beyond Bangkok](/blog/thailand-domestic-tourism-push-tat-festival-2026/) with subsidies and travel packages in 2026.
 

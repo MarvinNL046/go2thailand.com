@@ -180,7 +180,7 @@ export default function AreaPage({ data }: Props) {
           </div>
         </section>
 
-        <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats card */}
           {data.aiContent.quickStats && (
             <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
@@ -277,8 +277,8 @@ export default function AreaPage({ data }: Props) {
                       {h?.priceRange && <p className="text-xs text-gray-500 mt-0.5">{h.priceRange}</p>}
                       <p className="mt-2 text-sm text-gray-700">{s.why}</p>
                       {cta && (
-                        <a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="mt-3 inline-block text-sm font-semibold text-thailand-red hover:underline">
-                          {cta.specific ? 'Check rates →' : 'Search on Booking →'}
+                        <a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" aria-label={`Check the current total for ${h.name}`} className="mt-3 inline-block text-sm font-semibold text-thailand-red hover:underline">
+                          {cta.specific ? 'Check current total →' : 'Search live stays →'}
                         </a>
                       )}
                     </article>
@@ -352,7 +352,7 @@ export default function AreaPage({ data }: Props) {
               <Link href={`/city/${citySlug}/`} className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{cityName} travel guide</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
 
       {/* Sticky mobile CTA */}
@@ -374,7 +374,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
     for (const f of fs.readdirSync(dir).filter(f => f.endsWith('.json'))) {
       try {
         const data = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
-        if (data.citySlug && data.areaSlug) {
+        if (data.template === 'area-deep' && data.citySlug && data.areaSlug) {
           paths.push({ params: { city: data.citySlug, area: data.areaSlug } });
         }
       } catch { /* skip */ }
@@ -383,9 +383,17 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths, fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
+export const getStaticProps: GetStaticProps<Props> = async ({ params, locale }) => {
   const city = params?.city as string;
   const area = params?.area as string;
+  if (locale === 'nl') {
+    return {
+      redirect: {
+        destination: `/nl/best-hotels/${city}/`,
+        permanent: true,
+      },
+    };
+  }
   const file = path.join(process.cwd(), 'data', 'pseo', 'areas', `${city}-${area}.json`);
   if (!fs.existsSync(file)) return { notFound: true, revalidate: 60 };
   const data = JSON.parse(fs.readFileSync(file, 'utf8')) as PseoAreaData;

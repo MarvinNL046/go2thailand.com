@@ -1,0 +1,50 @@
+{
+  "captured_at": "2026-07-26T15:36:26.667Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai drinks non alcoholic",
+  "costs": {
+    "suggestions": 0.01236,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thai drinks non alcoholic",
+    "thai drinks recipes non alcoholic",
+    "thai non alcoholic drinks"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai drinks non alcoholic",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai drinks recipes non alcoholic",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai non alcoholic drinks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

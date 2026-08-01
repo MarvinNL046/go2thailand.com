@@ -143,7 +143,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
                         </Link>
                       )}
                       {city.hasCluster && (
-                        <Link href={`/destinations/${city.slug}/`} className="text-sm text-thailand-blue hover:underline">
+                        <Link href={`/city/${city.slug}/`} className="text-sm text-thailand-blue hover:underline">
                           {isNl ? 'Bestemmingshub' : 'Destination Hub'} &rarr;
                         </Link>
                       )}

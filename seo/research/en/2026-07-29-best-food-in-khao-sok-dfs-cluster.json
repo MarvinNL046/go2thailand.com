@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T09:45:11.602Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best food in khao sok",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "best food in khao sok"
+  ],
+  "keywords": [
+    {
+      "keyword": "best food in khao sok",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "attractions"
 tags: ["Harbor Island Bangkok", "Bangkok waterpark", "things to do Bangkok 2026", "family travel Thailand", "The Mall Bangkapi"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/harbor-island-bangkok-rooftop-waterpark-2026-hero.webp"
 description: "Harbor Island is Southeast Asia's largest rooftop waterpark — 10,000 square meters of slides, a lazy river, and a 100-meter zipline on top of a Bangkok shopping mall."
 featured: false
 readingTime: 3
@@ -62,4 +62,4 @@ Harbor Island sits on the 3rd floor of The Mall Lifestore, Bangkapi. The easiest
 
 If you are traveling with kids, Harbor Island is a strong half-day or full-day option that does not require leaving Bangkok. Even without children, the Sky Rider zipline and the bigger slides offer genuine thrills. And when you are done, you are already inside a full shopping mall with restaurants and air-conditioned retail therapy waiting downstairs — similar to the shopping experience at [One Bangkok](/blog/one-bangkok-shopping-mall-tourist-guide-2026/), Bangkok's newest mega-development.
 
-For more Bangkok activities, check out our guides to the [Bangkok Art Biennale 2026](/blog/bangkok-art-biennale-2026-angels-mara-guide/), [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/), and [Bangkok's new rooftop bars](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/). If you are also thinking about accommodation, browse our [best hotels in Bangkok](/best-hotels/bangkok/) or read our [Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) to find the right area to stay. Planning your full trip? Our [Thailand itinerary for first-timers](/blog/thailand-itinerary-first-timers/) and [how much 2 weeks in Thailand costs](/blog/how-much-2-weeks-thailand-cost-2026-budget/) are good starting points.
+For more Bangkok activities, check out our guides to the [Bangkok Art Biennale 2026](/blog/bangkok-art-biennale-2026-angels-mara-guide/), [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/), and [Bangkok's new rooftop bars](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/). If you are also thinking about accommodation, browse our [best hotels in Bangkok](/best-hotels/bangkok/) or read our [Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) to find the right area to stay. Planning your full trip? Our [Thailand itinerary for first-timers](/blog/thailand-itinerary-first-timers/) and [how much 2 weeks in Thailand costs](/thailand-index/budget/) are good starting points.

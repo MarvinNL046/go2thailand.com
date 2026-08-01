@@ -1,0 +1,1535 @@
+{
+  "captured_at": "2026-07-26T14:09:51.645Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "luxury resorts thailand",
+  "costs": {
+    "suggestions": 0.0198,
+    "related": 0.0198,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "luxury resorts thailand",
+    "luxury resorts in thailand",
+    "luxury thailand resorts",
+    "thailand luxury resorts",
+    "thailand resorts luxury",
+    "koh samui thailand luxury resorts",
+    "luxury resorts in koh samui thailand",
+    "luxury resorts koh samui thailand",
+    "luxury resorts thailand koh samui",
+    "thailand luxury resorts koh samui",
+    "luxury resorts in phuket thailand",
+    "luxury resorts in thailand phuket",
+    "luxury resorts phuket thailand",
+    "luxury resorts thailand phuket",
+    "phuket thailand luxury resorts",
+    "thailand phuket luxury resorts",
+    "krabi thailand luxury resorts",
+    "luxury beach resorts in thailand",
+    "luxury beach resorts thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "phuket hotels",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui hotels",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara phuket",
+      "volume": 2400,
+      "kd": 16,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in thailand bangkok",
+      "volume": 2400,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in thailand koh samui",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in thailand",
+      "volume": 880,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket orchid resort & spa",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in thailand phuket",
+      "volume": 720,
+      "kd": 22,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in thailand",
+      "volume": 590,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "splash beach resort phuket",
+      "volume": 590,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels thailand koh samui",
+      "volume": 480,
+      "kd": 14,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best resorts thailand",
+      "volume": 480,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui hotels on the beach",
+      "volume": 390,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beach resorts in thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best family resorts in thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best family resorts thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best resorts in thailand for families",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in thailand near bangkok",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "luxury resorts in thailand",
+      "volume": 260,
+      "kd": 14,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts thailand",
+      "volume": 260,
+      "kd": 20,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "luxury thailand resorts",
+      "volume": 260,
+      "kd": 39,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand luxury resorts",
+      "volume": 260,
+      "kd": 9,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand resorts luxury",
+      "volume": 260,
+      "kd": 18,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best family hotels thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotel in phuket on the beach",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in thailand for families",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best island in thailand for families",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui thailand luxury resorts",
+      "volume": 170,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts in koh samui thailand",
+      "volume": 170,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts koh samui thailand",
+      "volume": 170,
+      "kd": 16,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts thailand koh samui",
+      "volume": 170,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand luxury resorts koh samui",
+      "volume": 170,
+      "kd": 9,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5 star resort thailand",
+      "volume": 140,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best family places in thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket patong",
+      "volume": 140,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best resorts in thailand all inclusive",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best resorts thailand all inclusive",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "luxury resorts in phuket thailand",
+      "volume": 140,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts in thailand phuket",
+      "volume": 140,
+      "kd": 22,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts phuket thailand",
+      "volume": 140,
+      "kd": 14,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts thailand phuket",
+      "volume": 140,
+      "kd": 14,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand luxury resorts",
+      "volume": 140,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand phuket luxury resorts",
+      "volume": 140,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best family hotels bangkok",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui for families",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 5 star hotels in phuket",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand all inclusive with flight",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "all inclusive resorts thailand adults only",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best resorts in thailand for couples",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is it worth going all inclusive in thailand",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in phuket with private beach",
+      "volume": 50,
+      "kd": 53,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in thailand for families",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in koh samui chaweng beach",
+      "volume": 50,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand luxury resorts",
+      "volume": 50,
+      "kd": 43,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury beach resorts in thailand",
+      "volume": 50,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury beach resorts thailand",
+      "volume": 50,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts in krabi thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts krabi thailand",
+      "volume": 50,
+      "kd": 43,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury thailand beach resorts",
+      "volume": 50,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand family resorts all inclusive",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand luxury beach resorts",
+      "volume": 50,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top 5 beaches in thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beach resorts in thailand for families",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in thailand for couples",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury resort thailand",
+      "volume": 40,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury resorts in thailand",
+      "volume": 40,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury resorts thailand",
+      "volume": 40,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury thailand resorts",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand best resorts luxury",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top luxury resorts thailand",
+      "volume": 40,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best resorts in thailand for adults",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui 5-star hotels chaweng beach",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand family resorts with water slides",
+      "volume": 30,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand family trip itinerary",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 luxury hotels in thailand",
+      "volume": 30,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best boutique hotels thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in thailand for couples",
+      "volume": 20,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury family resort thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury family resorts thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury resorts in thailand for families",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury all inclusive resorts thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury family holidays to thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "luxury resorts hua hin thailand",
+      "volume": 20,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand all inclusive resorts 5 star",
+      "volume": 20,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand family trip itinerary 10 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 beaches in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotel in thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in phuket near beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "affordable luxury resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "all inclusive luxury resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "all-inclusive luxury resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beach resorts thailand luxury",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best family-friendly all inclusive resorts in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best luxury beach resorts in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury beach resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury resorts in phuket thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury resorts in thailand for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury thailand beach resorts",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best private beach resorts in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thailand luxury resorts",
+      "volume": 10,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best waterpark hotel thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheap luxury resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury dive resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury family resorts thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "luxury golf resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury honeymoon resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury island resorts in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury island resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury resorts in thailand islands",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury spa resorts in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury spa resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new luxury resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 5 star luxury resorts",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand all inclusive luxury resorts",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand best beaches less touristy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand hotels with waterslides",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand luxury family resorts",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand luxury honeymoon resorts",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand luxury island resorts",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand luxury resorts all inclusive",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top 10 luxury resorts in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top 10 luxury resorts thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury beach resorts in krabi thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top luxury beach resorts in thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury holiday resorts in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "northern thailand luxury resorts",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2.75,
+      "keywordCount": 8,
+      "visibility": 6.6,
+      "estimatedTraffic": 202.49221000000003
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 6.375,
+      "keywordCount": 8,
+      "visibility": 3.6999999999999997,
+      "estimatedTraffic": 42.203430000000004
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 10.625,
+      "keywordCount": 8,
+      "visibility": 1.8,
+      "estimatedTraffic": 25.62398
+    },
+    {
+      "domain": "www.mrandmrssmith.com",
+      "avgPosition": 11.25,
+      "keywordCount": 8,
+      "visibility": 2.8499999999999996,
+      "estimatedTraffic": 51.50014
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 11.625,
+      "keywordCount": 8,
+      "visibility": 2.9499999999999997,
+      "estimatedTraffic": 50.22278
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12.375,
+      "keywordCount": 8,
+      "visibility": 0.8000000000000002,
+      "estimatedTraffic": 12.693140000000001
+    },
+    {
+      "domain": "www.elegantresorts.co.uk",
+      "avgPosition": 4.428571428571429,
+      "keywordCount": 7,
+      "visibility": 4.6000000000000005,
+      "estimatedTraffic": 69.6062
+    },
+    {
+      "domain": "www.banyantree.com",
+      "avgPosition": 10.285714285714286,
+      "keywordCount": 7,
+      "visibility": 3.1999999999999993,
+      "estimatedTraffic": 112.57979999999998
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 23,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.69558
+    },
+    {
+      "domain": "slh.com",
+      "avgPosition": 12.142857142857142,
+      "keywordCount": 7,
+      "visibility": 0.8,
+      "estimatedTraffic": 8.5785
+    },
+    {
+      "domain": "www.fivestaralliance.com",
+      "avgPosition": 25.625,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.9025799999999995
+    },
+    {
+      "domain": "www.travelplusstyle.com",
+      "avgPosition": 17.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.3,
+      "estimatedTraffic": 4.80488
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 33.5,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.84254
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 12.5,
+      "keywordCount": 6,
+      "visibility": 0.8500000000000002,
+      "estimatedTraffic": 10.5245
+    },
+    {
+      "domain": "www.inspiringtravel.co.uk",
+      "avgPosition": 30.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.35158
+    },
+    {
+      "domain": "www.sixsenses.com",
+      "avgPosition": 9.8,
+      "keywordCount": 5,
+      "visibility": 2.65,
+      "estimatedTraffic": 90.52458
+    },
+    {
+      "domain": "theluxurytravelexpert.com",
+      "avgPosition": 18.4,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 3.175
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 19.2,
+      "keywordCount": 5,
+      "visibility": 0.6,
+      "estimatedTraffic": 12.430579999999997
+    },
+    {
+      "domain": "www.anantara.com",
+      "avgPosition": 2.75,
+      "keywordCount": 4,
+      "visibility": 3.3,
+      "estimatedTraffic": 133.984
+    },
+    {
+      "domain": "www.fourseasons.com",
+      "avgPosition": 5.75,
+      "keywordCount": 4,
+      "visibility": 2.1,
+      "estimatedTraffic": 48.963322
+    },
+    {
+      "domain": "theluxuryeditor.com",
+      "avgPosition": 39.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 2.30958
+    },
+    {
+      "domain": "www.oyster.com",
+      "avgPosition": 48.857142857142854,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 2.0365800000000003
+    },
+    {
+      "domain": "www.thaiholidayguide.com",
+      "avgPosition": 42.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.74258
+    },
+    {
+      "domain": "www.thehotelguru.com",
+      "avgPosition": 30.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.2119999999999997
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 18.25,
+      "keywordCount": 4,
+      "visibility": 0.45,
+      "estimatedTraffic": 2.705
+    },
+    {
+      "domain": "www.destination2.co.uk",
+      "avgPosition": 21.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.67052
+    },
+    {
+      "domain": "www.luxurylink.com",
+      "avgPosition": 27.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.7215799999999999
+    },
+    {
+      "domain": "www.asthebirdfliesblog.com",
+      "avgPosition": 5.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 19.376
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 26.57
+    },
+    {
+      "domain": "www.forbestravelguide.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 9.48192
+    },
+    {
+      "domain": "samui.intercontinental.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.7321799999999996
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.7788199999999996
+    },
+    {
+      "domain": "www.scottdunn.com",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.75,
+      "estimatedTraffic": 6.052
+    },
+    {
+      "domain": "www.americanexpress.com",
+      "avgPosition": 37.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.142
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 38.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.638
+    },
+    {
+      "domain": "www.tatlerasia.com",
+      "avgPosition": 21.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.16246
+    },
+    {
+      "domain": "www.hotels.com",
+      "avgPosition": 41.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.9869999999999999
+    },
+    {
+      "domain": "luxuryhotel.world",
+      "avgPosition": 43.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.7215799999999999
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 24.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.24756
+    },
+    {
+      "domain": "www.travelmyth.co.uk",
+      "avgPosition": 27,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.834
+    },
+    {
+      "domain": "en.tripadvisor.com.hk",
+      "avgPosition": 56.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.596
+    },
+    {
+      "domain": "www.glamourmagazine.co.uk",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "www.stay-in-koh-samui-region.com",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.04958
+    },
+    {
+      "domain": "travelnation.co.uk",
+      "avgPosition": 1.5,
+      "keywordCount": 2,
+      "visibility": 1.9,
+      "estimatedTraffic": 67.04
+    },
+    {
+      "domain": "www.myboutiquehotel.com",
+      "avgPosition": 34.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.9450000000000001
+    },
+    {
+      "domain": "theasiacollective.com",
+      "avgPosition": 51.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.7215799999999999
+    },
+    {
+      "domain": "www.tablethotels.com",
+      "avgPosition": 35.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.04958
+    },
+    {
+      "domain": "www.harpersbazaar.com",
+      "avgPosition": 37.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.04958
+    },
+    {
+      "domain": "www.keemala.com",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 5.684
+    },
+    {
+      "domain": "www.bestattravel.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 2,
+      "visibility": 1.05,
+      "estimatedTraffic": 12.302
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "captured_at": "2026-07-27T21:45:00.751Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "cost": 0.01224,
+  "requested_keywords": [
+    "bts bangkok 2026",
+    "bts world tour bangkok 2026",
+    "bts bangkok tickets",
+    "bts concert bangkok",
+    "bts thailand 2026",
+    "bts arirang world tour bangkok",
+    "bts bangkok december 2026",
+    "rajadangala stadium bts"
+  ],
+  "rows": [
+    {
+      "keyword": "bts bangkok tickets",
+      "volume": 50,
+      "difficulty": null,
+      "intent": "transactional",
+      "competition": "LOW",
+      "cpc": 1.69
+    },
+    {
+      "keyword": "bts thailand 2026",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    }
+  ]
+}

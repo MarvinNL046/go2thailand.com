@@ -1,0 +1,69 @@
+{
+  "captured_at": "2026-07-29T13:29:59.121Z",
+  "locale": "en",
+  "url": "https://www.eatingthaifood.com/restaurants/location/nakhon-si-thammarat/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": null,
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Enter your email below for food updates!",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": null,
+      "table_content": null
+    },
+    "main_topic": null,
+    "secondary_topic": [
+      {
+        "h_title": "Nakhon Si Thammarat",
+        "main_title": "Nakhon Si Thammarat",
+        "author": null,
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Thailand’s Best Coconut Milk BBQ Chicken in Nakhon Si Thammarat!",
+        "main_title": "Nakhon Si Thammarat",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Thailand’s Best Coconut Milk BBQ Chicken in Nakhon Si Thammarat!",
+            "url": "https://www.eatingthaifood.com/restaurants/best-thai-coconut-milk-bbq-chicken/",
+            "urls": [
+              {
+                "url": "https://www.eatingthaifood.com/restaurants/best-thai-coconut-milk-bbq-chicken/",
+                "anchor_text": "Thailand’s Best Coconut Milk BBQ Chicken in Nakhon Si Thammarat!"
+              }
+            ]
+          },
+          {
+            "text": "To eat Thailand’s best coconut milk BBQ chicken (ไก่กอและ), you have to go to the tiny town of Hua Sai…",
+            "url": "https://www.eatingthaifood.com/restaurants/best-thai-coconut-milk-bbq-chicken/",
+            "urls": [
+              {
+                "url": "https://www.eatingthaifood.com/restaurants/best-thai-coconut-milk-bbq-chicken/",
+                "anchor_text": "To eat Thailand’s best coconut milk BBQ chicken (ไก่กอและ), you have to go to the tiny town of Hua Sai…"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

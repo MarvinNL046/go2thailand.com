@@ -1,0 +1,1910 @@
+{
+  "captured_at": "2026-07-26T10:01:50.229Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand retirement visa",
+  "costs": {
+    "suggestions": 0.03036,
+    "related": 0.01488,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand retirement visa",
+    "retirement visa for thailand",
+    "retirement visa in thailand",
+    "retirement visa thailand",
+    "thailand visa retirement",
+    "retirement visa to thailand",
+    "requirements for retirement visa thailand",
+    "requirements for thailand retirement visa",
+    "retirement in thailand visa requirement",
+    "retirement visa in thailand requirements",
+    "retirement visa requirements thailand",
+    "retirement visa thailand requirements",
+    "thailand retirement visa requirements",
+    "thai retirement visa new rules",
+    "thai retirement visa requirements",
+    "thailand retirement visa uk",
+    "cost of retirement visa in thailand",
+    "retirement visa thailand cost",
+    "thailand retirement visa cost"
+  ],
+  "keywords": [
+    {
+      "keyword": "retirement visa for thailand",
+      "volume": 1300,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa in thailand",
+      "volume": 1300,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand",
+      "volume": 1300,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa",
+      "volume": 1300,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa retirement",
+      "volume": 1300,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa to thailand",
+      "volume": 260,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "21 reasons not to retire in thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "requirements for retirement visa thailand",
+      "volume": 170,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "requirements for thailand retirement visa",
+      "volume": 170,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement in thailand visa requirement",
+      "volume": 170,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa in thailand requirements",
+      "volume": 170,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa requirements thailand",
+      "volume": 170,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand requirements",
+      "volume": 170,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements",
+      "volume": 170,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai retirement visa new rules",
+      "volume": 110,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai retirement visa requirements",
+      "volume": 70,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa uk",
+      "volume": 70,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost of retirement visa in thailand",
+      "volume": 50,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand cost",
+      "volume": 50,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa cost",
+      "volume": 50,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "10 year retirement visa thailand",
+      "volume": 40,
+      "kd": 49,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "10-year retirement visa thailand",
+      "volume": 40,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to get a retirement visa for thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get a retirement visa in thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get retirement visa in thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai retirement visa no funds",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa 10 years",
+      "volume": 40,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is a retirement visa in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "problems retiring in thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand from uk",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa for uk citizens",
+      "volume": 30,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "health insurance for thai retirement visa",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how long will 100k last in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "non o retirement visa thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa for thailand from uk",
+      "volume": 20,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "single man retiring in thailand",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai retirement visa for married couple",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "21 reasons not to retire in thailand for foreigners",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 year retirement visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "5-year retirement visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "apply for retirement visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can you work on a retirement visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "documents for retirement visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "extension retirement visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "health insurance for retirement visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much does a retirement visa cost in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is retirement visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to apply for retirement visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to apply retirement visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "long term retirement visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "multiple entry retirement visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new retirement visa rules thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "oa retirement visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "over 50 retirement visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "renew retirement visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa cost in thailand",
+      "volume": 10,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa extension requirements thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa extension thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa for thailand from australia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa renewal thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 90 day reporting",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 90-day reporting",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand age",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand deutsch",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand extension",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand fee",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand form",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand health insurance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand immigration",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand insurance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand renewal",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand under 50",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retiring in thailand pros and cons",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai retirement visa new rules 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai retirement visa online",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand 5 year retirement visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand expat retirement visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand immigration retirement visa requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand long term retirement visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand long-term retirement visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand non o retirement visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand non o retirement visa requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa age",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa agent",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa application",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa application form",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa canada",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa changes",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa dependents",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa extension",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa extension requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa for singaporean",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa for us citizens",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa health insurance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa hong kong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa income requirement",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa insurance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa medical certificate",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa medical insurance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa multiple entry",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa multiple-entry",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa official website",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa online",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa renewal",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa renewal requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements for uk citizens",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa rules",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa spouse",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa under 50",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what are the requirements for a retirement visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is a retirement visa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to retire in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "why are expats leaving thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "health insurance for retirement visa thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "health insurance retirement visa thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new retirement visa rules thailand 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 2017",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 2018",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 2020",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 2021",
+      "volume": 0,
+      "kd": 55,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 2022",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand changes",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand documents",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand expats",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand medical insurance",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand requirements 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand verlängern",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa 2024",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa australia",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa for australian",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa for indian",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa forms",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements 2020",
+      "volume": 0,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements 2021",
+      "volume": 0,
+      "kd": 55,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements 2022",
+      "volume": 0,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements 2023",
+      "volume": 0,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements for us citizens",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa singapore",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "converting tourist visa to retirement visa in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "early retirement visa thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "elite retirement visa thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in thailand retirement visa",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new retirement visa rules thailand 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "requirements for renewing retirement visa in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa law firm thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa renewal form thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 2016",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 5 years",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand 90 day reporting online",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand covid",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand for indian",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand uk",
+      "volume": null,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "retirement visa thailand: covid",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa 2018",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa criminal record",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa news",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand retirement visa requirements 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "verlengen retirement visa thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "verlenging retirement visa thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.thaiembassy.com",
+      "avgPosition": 1.1,
+      "keywordCount": 10,
+      "visibility": 9.9,
+      "estimatedTraffic": 692.5000000000002
+    },
+    {
+      "domain": "www.siam-legal.com",
+      "avgPosition": 2.4,
+      "keywordCount": 10,
+      "visibility": 8.600000000000001,
+      "estimatedTraffic": 364.302
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 7.9,
+      "keywordCount": 10,
+      "visibility": 3.75,
+      "estimatedTraffic": 58.14000000000002
+    },
+    {
+      "domain": "wise.com",
+      "avgPosition": 8.2,
+      "keywordCount": 10,
+      "visibility": 3.45,
+      "estimatedTraffic": 37.435
+    },
+    {
+      "domain": "london.thaiembassy.org",
+      "avgPosition": 3.111111111111111,
+      "keywordCount": 9,
+      "visibility": 7.1,
+      "estimatedTraffic": 229.54600000000002
+    },
+    {
+      "domain": "www.thailandprivilege.co.th",
+      "avgPosition": 19.5,
+      "keywordCount": 10,
+      "visibility": 0.44999999999999996,
+      "estimatedTraffic": 6.412
+    },
+    {
+      "domain": "thailand-elite.com",
+      "avgPosition": 3.875,
+      "keywordCount": 8,
+      "visibility": 5.699999999999999,
+      "estimatedTraffic": 143.481
+    },
+    {
+      "domain": "www.banyangroupresidences.com",
+      "avgPosition": 4.375,
+      "keywordCount": 8,
+      "visibility": 5.3,
+      "estimatedTraffic": 104.575
+    },
+    {
+      "domain": "www.gov.uk",
+      "avgPosition": 5.5,
+      "keywordCount": 8,
+      "visibility": 4.4,
+      "estimatedTraffic": 98.54299999999999
+    },
+    {
+      "domain": "www.unbiased.co.uk",
+      "avgPosition": 10.75,
+      "keywordCount": 8,
+      "visibility": 1.25,
+      "estimatedTraffic": 21.551000000000002
+    },
+    {
+      "domain": "www.mfa.go.th",
+      "avgPosition": 12.875,
+      "keywordCount": 8,
+      "visibility": 1.1500000000000001,
+      "estimatedTraffic": 27.006999999999998
+    },
+    {
+      "domain": "www.samutprakanimmigration.go.th",
+      "avgPosition": 22.666666666666668,
+      "keywordCount": 9,
+      "visibility": 0.25,
+      "estimatedTraffic": 8.137
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 14.625,
+      "keywordCount": 8,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 12.469999999999999
+    },
+    {
+      "domain": "gam-legalalliance.com",
+      "avgPosition": 31.9,
+      "keywordCount": 10,
+      "visibility": 0,
+      "estimatedTraffic": 4.872000000000001
+    },
+    {
+      "domain": "thailandelitevisa.com",
+      "avgPosition": 17.625,
+      "keywordCount": 8,
+      "visibility": 0.4,
+      "estimatedTraffic": 6.792
+    },
+    {
+      "domain": "thai-visa.co.uk",
+      "avgPosition": 31.333333333333332,
+      "keywordCount": 9,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.469
+    },
+    {
+      "domain": "mahanakornpartners.com",
+      "avgPosition": 25.5,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.012000000000001
+    },
+    {
+      "domain": "royalvacationdmc.com",
+      "avgPosition": 34.666666666666664,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 4.683000000000001
+    },
+    {
+      "domain": "www.thai-elite.com",
+      "avgPosition": 31,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.049000000000001
+    },
+    {
+      "domain": "www.conciergepattaya.com",
+      "avgPosition": 21.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.402
+    },
+    {
+      "domain": "www.thaiembassyuk.co.uk",
+      "avgPosition": 41,
+      "keywordCount": 9,
+      "visibility": 0.65,
+      "estimatedTraffic": 6.195
+    },
+    {
+      "domain": "www.perfectlinkthailand.com",
+      "avgPosition": 44,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 4.641000000000001
+    },
+    {
+      "domain": "tvc.co.th",
+      "avgPosition": 40.75,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 4.284000000000001
+    },
+    {
+      "domain": "immigrationbangkok.com",
+      "avgPosition": 34.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 1.932
+    },
+    {
+      "domain": "asq.in.th",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.598999999999999
+    },
+    {
+      "domain": "www.legalink.net",
+      "avgPosition": 9.2,
+      "keywordCount": 5,
+      "visibility": 1.35,
+      "estimatedTraffic": 15.160999999999998
+    },
+    {
+      "domain": "www.tmtvisaservicephuket.com",
+      "avgPosition": 47,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 4.457000000000001
+    },
+    {
+      "domain": "thaivisaexpert.com",
+      "avgPosition": 53.22222222222222,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 4.515000000000001
+    },
+    {
+      "domain": "financialadvisers.co.uk",
+      "avgPosition": 19.4,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 6.957000000000001
+    },
+    {
+      "domain": "benoit-partners.com",
+      "avgPosition": 48.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 4.312
+    },
+    {
+      "domain": "www.thaivisaflow.com",
+      "avgPosition": 41,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 1.575
+    },
+    {
+      "domain": "www.renegadetravels.com",
+      "avgPosition": 30.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.885
+    },
+    {
+      "domain": "thailandguide.co.uk",
+      "avgPosition": 62.44444444444444,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 4.683000000000001
+    },
+    {
+      "domain": "attorilaw.com",
+      "avgPosition": 16.25,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.504
+    },
+    {
+      "domain": "huahinvisa.net",
+      "avgPosition": 63,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 4.515000000000001
+    },
+    {
+      "domain": "www.visasupply.com",
+      "avgPosition": 44.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.7379999999999995
+    },
+    {
+      "domain": "www.pacificprime.com",
+      "avgPosition": 35.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.323
+    },
+    {
+      "domain": "thaielite-express.com",
+      "avgPosition": 47.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.7379999999999995
+    },
+    {
+      "domain": "settleinabroad.com",
+      "avgPosition": 37.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.512
+    },
+    {
+      "domain": "thaivisa-express.com",
+      "avgPosition": 65.77777777777777,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 4.641000000000001
+    },
+    {
+      "domain": "thai-visa-swift.lovable.app",
+      "avgPosition": 39.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.596
+    },
+    {
+      "domain": "www.tratimmigration.com",
+      "avgPosition": 40,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.804
+    },
+    {
+      "domain": "www.thaireloservices.com",
+      "avgPosition": 50.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 4.074
+    },
+    {
+      "domain": "www.buch-dein-visum.de",
+      "avgPosition": 58.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 1.617
+    },
+    {
+      "domain": "www.premierthailawyers.com",
+      "avgPosition": 44,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.7589999999999995
+    },
+    {
+      "domain": "vera-visa.com",
+      "avgPosition": 30.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9239999999999999
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 32,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.871
+    },
+    {
+      "domain": "www.legal.co.th",
+      "avgPosition": 32.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.7769999999999997
+    },
+    {
+      "domain": "rumavi.com",
+      "avgPosition": 34,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 3.171
+    },
+    {
+      "domain": "unionspace.co.th",
+      "avgPosition": 13.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 7.87
+    }
+  ]
+}

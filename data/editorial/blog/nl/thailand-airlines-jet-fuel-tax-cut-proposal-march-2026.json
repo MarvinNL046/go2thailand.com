@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-airlines-jet-fuel-tax-cut-proposal-march-2026",
+  "route": "/nl/blog/thailand-airlines-jet-fuel-tax-cut-proposal-march-2026/",
+  "cluster": "policy",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Voorstel accijns vliegtuigbrandstof 2026 | Archief",
+    "description": "Dit Thaise luchtvaartvoorstel uit maart 2026 is gearchiveerd; een voorstel is geen effectieve belastingregel of garantie op lagere tickets.",
+    "primaryKeyword": "archief accijns vliegtuigbrandstof Thailand 2026",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-airlines-jet-fuel-tax-cut-proposal-march-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Beleidsarchief",
+    "title": "Voorstel voor lagere brandstofaccijns",
+    "accent": "Niet hetzelfde als ingevoerd beleid",
+    "description": "De sectorwens uit maart 2026 bood geen garantie op een lagere consumentenprijs.",
+    "image": "/images/redesign/editorial/thailand-airlines-jet-fuel-tax-cut-proposal-march-2026-hero.webp",
+    "imageAlt": "Grondmedewerker tankt een ongebrand passagiersvliegtuig bij zonsopkomst",
+    "primaryCta": { "label": "Lees de routecheck", "href": "/nl/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/" }
+  },
+  "layout": { "kind": "policy-guide", "policyStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze route is gearchiveerd: de vraag van een branchevereniging uit maart 2026 was geen ingevoerde belastingregel en bewees geen effect op individuele ticketprijzen.",
+  "blocks": [
+    { "kind": "callout", "id": "status", "tone": "warning", "title": "Voorstel is geen prijsbelofte", "description": "Zelfs een belastingwijziging hoeft niet één-op-één in jouw ticketprijs terug te komen. Controleer de live totaalprijs." },
+    { "kind": "related", "id": "verder", "title": "Plan met bevestigde informatie", "items": [{ "title": "Thai Airways Amsterdam–Bangkok", "description": "Bekijk route-status en een bruikbare prijscheck voor Nederlandse reizigers.", "href": "/nl/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/" }] },
+    { "kind": "sources", "id": "bronnen", "title": "Historische bron", "items": [{ "title": "Proposal Reduce Excise Tax — 17 March 2026", "publisher": "DAOL Securities", "url": "https://www.daolsecurities.co.th/assets/be27c619-04fc-42a5-aa50-2009112ea7ad/Proposal_Reduce_Excise_Tax_260317_NF_DAOL.pdf?quality=75", "checkedAt": "2026-08-01", "note": "Documenteert het branchevoorstel; niet een definitief overheidsbesluit." }] }
+  ]
+}

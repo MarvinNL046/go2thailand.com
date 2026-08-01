@@ -6,6 +6,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import { getAllPracticalInfo } from '../../lib/practical-info';
+import PracticalInfoHubGuide from '../../components/practical/PracticalInfoHubGuide';
 
 interface PracticalInfoItem {
   id: number;
@@ -23,6 +24,8 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
   const isNl = locale === 'nl';
+
+  if (isNl) return <PracticalInfoHubGuide />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -51,8 +54,8 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
   return (
     <>
       <SEOHead
-        title={`Thailand Travel Tips & Info 2026 | Go2Thailand`}
-        description="Essential Thailand travel info for 2026. Scam awareness, ATM & money tips, packing list, health & vaccinations, and Thai etiquette guide."
+        title="Thailand Travel Advice: Practical Planning Guides | Go2Thailand"
+        description="Plan Thailand with practical guides to safety, money, packing, travel health and etiquette, plus clear links to recheck changing official advice."
       >
         <meta name="keywords" content="Thailand travel tips, Thailand safety, Thailand money, Thailand packing list, Thailand vaccinations, Thai culture etiquette" />
         <script
@@ -103,7 +106,7 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
               {items.map(item => (
                 <Link
                   key={item.id}
-                  href={`/practical-info/${item.slug}/`}
+                  href={item.slug === 'packing-list' ? '/travel-gear/' : `/practical-info/${item.slug}/`}
                   className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-8 group text-center"
                 >
                   <div className="text-5xl mb-4">{item.icon}</div>
@@ -146,7 +149,7 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
+            { label: 'Insurance', href: '/travel-insurance/', internal: true },
             { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
             { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
             { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },

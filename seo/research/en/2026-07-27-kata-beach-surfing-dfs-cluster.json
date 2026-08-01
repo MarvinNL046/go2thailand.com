@@ -1,0 +1,545 @@
+{
+  "captured_at": "2026-07-27T12:35:59.616Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "kata beach surfing",
+  "costs": {
+    "suggestions": 0.01344,
+    "related": 0.01308,
+    "competitors": 0.01776
+  },
+  "competitorKeywords": [
+    "kata beach surfing",
+    "kata beach phuket surfing",
+    "surfing kata beach",
+    "kata beach surfing lessons",
+    "kata beach surfing season",
+    "kata beach surfing thailand",
+    "kata noi beach surfing",
+    "surfing kata beach thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "kata beach phuket surfing",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata beach surfing",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surfing kata beach",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surfing kata beach phuket",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata beach surfing lessons",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata beach surfing season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata beach surfing thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kata noi beach surfing",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "khao lak surf report",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "patong beach surf report",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket surf cam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket surf report",
+      "volume": 10,
+      "kd": 47,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surf camp phuket",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surfing kata beach thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "windguru kata beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kamala beach surfing",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kata beach surfing april",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kite surfing kata beach phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surf school phuket",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surfing kata noi beach",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.phuketsurfing.com",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 2.7,
+      "estimatedTraffic": 28.165
+    },
+    {
+      "domain": "www.katasurflimited.com",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 9.415
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 30.4
+    },
+    {
+      "domain": "www.phuket-cannacia.com",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 6.59
+    },
+    {
+      "domain": "www.surf-forecast.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 6.1450000000000005
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 4.6899999999999995
+    },
+    {
+      "domain": "www.surfline.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 9.084999999999999
+    },
+    {
+      "domain": "www.timeout.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.9,
+      "estimatedTraffic": 2.9699999999999998
+    },
+    {
+      "domain": "www.saltwater-dreaming.com",
+      "avgPosition": 9.5,
+      "keywordCount": 2,
+      "visibility": 0.30000000000000004,
+      "estimatedTraffic": 1.315
+    },
+    {
+      "domain": "phuketsurf.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 1.3599999999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 1.855
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.735
+    },
+    {
+      "domain": "www.tripspoint.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.59
+    },
+    {
+      "domain": "www.sugarmarinahotel.com",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.51
+    },
+    {
+      "domain": "www.lifeoutloudofficial.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.49
+    },
+    {
+      "domain": "easyflyfoil.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.38
+    },
+    {
+      "domain": "boathouse-phuket.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.32
+    },
+    {
+      "domain": "www.silqhaus.com",
+      "avgPosition": 21.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.22499999999999998
+    },
+    {
+      "domain": "www.sssphuket.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.215
+    },
+    {
+      "domain": "www.phuket101.net",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "whalesurfing.com",
+      "avgPosition": 25,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.worldbeachguide.com",
+      "avgPosition": 25.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "thesurfatlas.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.32
+    },
+    {
+      "domain": "www.seeksophie.com",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.excursionmania.com",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "surfing-story.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.katarocks.com",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.stormrider.surf",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.phuket-travel-secrets.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 44,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.24
+    },
+    {
+      "domain": "www.phuketemagazine.com",
+      "avgPosition": 44,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.luxe-villas.com",
+      "avgPosition": 49.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.phuketsurf.com",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 4.865
+    },
+    {
+      "domain": "phuketbuyvilla.com",
+      "avgPosition": 53.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "surfing-waves.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.215
+    },
+    {
+      "domain": "www.strikemission.app",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.135
+    },
+    {
+      "domain": "mindtrip.ai",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.12
+    },
+    {
+      "domain": "www.centremulti.qc.ca",
+      "avgPosition": 60.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.21
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 26,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "simbaseatrips.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "www.talaysurf.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "www.evephuket.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "www.pelago.com",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "www.adventureinyou.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "globalbeachguide.com",
+      "avgPosition": 70,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "communityschools.ymca.org.au",
+      "avgPosition": 78,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "captured_at": "2026-07-26T13:36:57.486Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "specialty coffee bangkok",
+  "costs": {
+    "suggestions": 0.01248,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "specialty coffee bangkok",
+    "bangkok specialty coffee",
+    "best specialty coffee bangkok",
+    "specialty coffee in bangkok"
+  ],
+  "keywords": [
+    {
+      "keyword": "bangkok specialty coffee",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best specialty coffee bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "specialty coffee bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "specialty coffee in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

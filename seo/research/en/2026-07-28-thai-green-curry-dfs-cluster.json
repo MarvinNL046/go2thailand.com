@@ -1,0 +1,3254 @@
+{
+  "captured_at": "2026-07-28T00:48:31.352Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai green curry",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.02748,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thai green curry",
+    "fresh thai green curry recipe",
+    "green curry recipe thai",
+    "green curry thai recipe",
+    "green thai curry recipe",
+    "recipe for thai green curry",
+    "recipe thai green curry",
+    "recipes for thai green curry",
+    "thai curry recipe green",
+    "thai food green curry recipe",
+    "thai food recipes green curry",
+    "thai green curry recipe",
+    "thai green curry recipes",
+    "thai recipes green curry",
+    "green curry in thai",
+    "green curry thai",
+    "thai curry green",
+    "thai green curry dish",
+    "thai green curry dishes"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai restaurant near me",
+      "volume": 135000,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fresh thai green curry recipe",
+      "volume": 33100,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green curry recipe thai",
+      "volume": 33100,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green curry thai recipe",
+      "volume": 33100,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry recipe",
+      "volume": 33100,
+      "kd": 32,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe for thai green curry",
+      "volume": 33100,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe thai green curry",
+      "volume": 33100,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipes for thai green curry",
+      "volume": 33100,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry recipe green",
+      "volume": 33100,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai food green curry recipe",
+      "volume": 33100,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai food recipes green curry",
+      "volume": 33100,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe",
+      "volume": 33100,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipes",
+      "volume": 33100,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai recipes green curry",
+      "volume": 33100,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green curry in thai",
+      "volume": 27100,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green curry thai",
+      "volume": 27100,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "panang curry",
+      "volume": 27100,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai curry green",
+      "volume": 27100,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry",
+      "volume": 27100,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry dish",
+      "volume": 27100,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry dishes",
+      "volume": 27100,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry in thai",
+      "volume": 27100,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fresh thai green curry",
+      "volume": 5400,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fresh thai green curry paste",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry",
+      "volume": 5400,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry paste",
+      "volume": 5400,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry green paste",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry paste green",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chicken thai green curry",
+      "volume": 4400,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai chicken curry",
+      "volume": 4400,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry vegan",
+      "volume": 4400,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry vegetables",
+      "volume": 4400,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry vegetarian",
+      "volume": 4400,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai veg curry",
+      "volume": 4400,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai vegetable curry",
+      "volume": 4400,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken curry green",
+      "volume": 4400,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green chicken curry",
+      "volume": 4400,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry chicken",
+      "volume": 4400,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry veg",
+      "volume": 4400,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry vegan",
+      "volume": 4400,
+      "kd": 16,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry vegetables",
+      "volume": 4400,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry vegetarian",
+      "volume": 4400,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry with chicken",
+      "volume": 4400,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry with vegetables",
+      "volume": 4400,
+      "kd": 5,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green veg curry",
+      "volume": 4400,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green vegetable curry",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai vegetable green curry",
+      "volume": 4400,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "veg green thai curry",
+      "volume": 4400,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "veg thai green curry",
+      "volume": 4400,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan green thai curry",
+      "volume": 4400,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan thai green curry",
+      "volume": 4400,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetable curry thai green",
+      "volume": 4400,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetable thai green curry",
+      "volume": 4400,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian green thai curry",
+      "volume": 4400,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian thai green curry",
+      "volume": 4400,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "veggie thai green curry",
+      "volume": 4400,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green curry paste recipe thai",
+      "volume": 3600,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry paste recipe",
+      "volume": 3600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "recipe for thai green curry paste",
+      "volume": 3600,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipes for thai green curry paste",
+      "volume": 3600,
+      "kd": 10,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipes with green thai curry paste",
+      "volume": 3600,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry green paste recipe",
+      "volume": 3600,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste recipe",
+      "volume": 3600,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste recipes",
+      "volume": 3600,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe paste",
+      "volume": 3600,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe using paste",
+      "volume": 3600,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe with paste",
+      "volume": 3600,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipes using paste",
+      "volume": 3600,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai restaurant near me",
+      "volume": 2900,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "green curry ingredients thai",
+      "volume": 2400,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry ingredients",
+      "volume": 2400,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ingredients for a thai green curry",
+      "volume": 2400,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ingredients for thai green curry",
+      "volume": 2400,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ingredients in thai green curry",
+      "volume": 2400,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ingredients of thai green curry",
+      "volume": 2400,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ingredients thai green curry",
+      "volume": 2400,
+      "kd": 37,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry ingredients",
+      "volume": 2400,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "green thai curry slow cooker",
+      "volume": 1900,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "slow cook thai green curry",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "slow cooker green thai curry",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "slow cooker thai green curry",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry crock pot",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry in slow cooker",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry slow cooker",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry recipe vegan",
+      "volume": 1600,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry recipe vegetarian",
+      "volume": 1600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry vegan recipe",
+      "volume": 1600,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry vegetarian recipe",
+      "volume": 1600,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai prawn curry",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae ploy curry paste",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "prawn green thai curry",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "prawn thai curry green",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "prawn thai green curry",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe for thai green curry vegetarian",
+      "volume": 1600,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe for thai green vegetable curry",
+      "volume": 1600,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe for vegetarian thai green curry",
+      "volume": 1600,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe thai green curry vegetarian",
+      "volume": 1600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry prawn",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry prawns",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe veg",
+      "volume": 1600,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe vegan",
+      "volume": 1600,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe vegetarian",
+      "volume": 1600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipes vegetarian",
+      "volume": 1600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry veg recipe",
+      "volume": 1600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry vegan recipe",
+      "volume": 1600,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry vegetables recipe",
+      "volume": 1600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry vegetarian recipe",
+      "volume": 1600,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry with prawns",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green prawn curry",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green veg curry recipe",
+      "volume": 1600,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green vegetable curry recipe",
+      "volume": 1600,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai prawn curry green",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai prawn green curry",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "veg green thai curry recipe",
+      "volume": 1600,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "veg thai green curry recipe",
+      "volume": 1600,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan green thai curry recipe",
+      "volume": 1600,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegan thai green curry recipe",
+      "volume": 1600,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetable thai green curry recipe",
+      "volume": 1600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian green thai curry recipe",
+      "volume": 1600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian thai green curry recipe",
+      "volume": 1600,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "veggie thai green curry recipe",
+      "volume": 1600,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green curry thai cafe",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai chicken curry jamie oliver",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai chicken curry recipe",
+      "volume": 1300,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "jamie oliver green thai curry",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "jamie oliver thai green chicken curry",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver thai green curry",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "recipe for thai green curry chicken",
+      "volume": 1300,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipe thai green curry chicken",
+      "volume": 1300,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "recipes for thai green curry chicken",
+      "volume": 1300,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken green curry recipe",
+      "volume": 1300,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green chicken curry jamie oliver",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green chicken curry recipe",
+      "volume": 1300,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry chicken recipe",
+      "volume": 1300,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry jamie oliver",
+      "volume": 1300,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe chicken",
+      "volume": 1300,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipes chicken",
+      "volume": 1300,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry with chicken recipe",
+      "volume": 1300,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry: jamie oliver",
+      "volume": 1300,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "difference between red and green thai curry",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "difference between thai red and green curry",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "jamie oliver chicken curry with coconut milk",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near me open now",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy green thai curry",
+      "volume": 880,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy thai green curry",
+      "volume": 880,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry tofu",
+      "volume": 880,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai tofu curry",
+      "volume": 880,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to make thai green curry",
+      "volume": 880,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae ploy green curry paste",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae ploy thai green curry paste",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "simple green thai curry",
+      "volume": 880,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry easy",
+      "volume": 880,
+      "kd": 17,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste mae ploy",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry simple",
+      "volume": 880,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry tofu",
+      "volume": 880,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry with tofu",
+      "volume": 880,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green tofu curry",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai tofu green curry",
+      "volume": 880,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tofu green thai curry",
+      "volume": 880,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tofu thai green curry",
+      "volume": 880,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bbc good food thai green curry",
+      "volume": 720,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chicken thai green curry recipe easy",
+      "volume": 720,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy chicken thai green curry recipe",
+      "volume": 720,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy green thai curry recipe",
+      "volume": 720,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy recipes for thai green curry",
+      "volume": 720,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy thai green chicken curry recipe",
+      "volume": 720,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy thai green curry chicken recipe",
+      "volume": 720,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy thai green curry recipe",
+      "volume": 720,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy thai green curry recipe chicken",
+      "volume": 720,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy thai green curry recipes",
+      "volume": 720,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "easy thai green curry recipes chicken",
+      "volume": 720,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fish green curry thai",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "fish thai green curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry recipe easy",
+      "volume": 720,
+      "kd": 10,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry salmon",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai curry tesco",
+      "volume": 720,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai fish curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "green thai salmon curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "quick thai green chicken curry recipe",
+      "volume": 720,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "salmon green thai curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "salmon thai curry green",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "salmon thai green curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "simple chicken thai green curry recipe",
+      "volume": 720,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "simple thai green chicken curry recipe",
+      "volume": 720,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "simple thai green curry recipe chicken",
+      "volume": 720,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "simple thai green curry recipes",
+      "volume": 720,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tesco green thai curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tesco thai green curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai curry paste recipe",
+      "volume": 720,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai fish curry green",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai fish green curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green chicken curry recipe easy",
+      "volume": 720,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry bbc good food",
+      "volume": 720,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry chicken recipe easy",
+      "volume": 720,
+      "kd": 30,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry easy recipe",
+      "volume": 720,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry easy recipe chicken",
+      "volume": 720,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry fish",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe easy",
+      "volume": 720,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe uk",
+      "volume": 720,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry salmon",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry tesco",
+      "volume": 720,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry with fish",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green curry with salmon",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green fish curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai green salmon curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai salmon curry green",
+      "volume": 720,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai salmon green curry",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai green curry recipe",
+      "volume": 590,
+      "kd": 17,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mary berry thai chicken tray bake",
+      "volume": 590,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bbc thai green curry",
+      "volume": 480,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "blue dragon thai green curry paste",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste tesco",
+      "volume": 480,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "which is hotter red or green thai curry",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aldi thai green curry kit",
+      "volume": 390,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thai red curry spicy",
+      "volume": 390,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mary berry chicken curry recipe",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry kit",
+      "volume": 390,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry kit aldi",
+      "volume": 390,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai green curry paste",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste ingredients",
+      "volume": 320,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mary berry chicken curry with coconut milk",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mary berry thai green chicken curry recipe",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry near me",
+      "volume": 260,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy thai green chicken curry recipe with coconut milk",
+      "volume": 210,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver thai green curry recipe",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste aldi",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste lidl",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste recipe uk",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe jamie oliver",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "asda thai green curry paste",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste asda",
+      "volume": 170,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste vegetarian",
+      "volume": 170,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetable thai green curry jamie oliver",
+      "volume": 170,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hairy bikers thai green curry",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry kit blue dragon",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste recipe authentic",
+      "volume": 140,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste sainsbury's",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional thai green curry paste recipe",
+      "volume": 140,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver thai green curry 30 minute meals",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mary berry quick thai chicken curry",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "spice tailor morrisons",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional thai restaurant near me",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai green curry paste uk",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to use thai green curry paste",
+      "volume": 90,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phakoon thai earlsfield",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste recipe jamie oliver",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry taste",
+      "volume": 90,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near me within 1 mi",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the green curry thai",
+      "volume": 90,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "asda thai red curry",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "blue dragon thai green curry recipe",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mary berry red thai chicken curry",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry powder",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near me menu",
+      "volume": 70,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai restaurant near victoria station",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aroy-d green curry paste",
+      "volume": 50,
+      "kd": 37,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai green curry paste",
+      "volume": 50,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "green curry thai cafe menu",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "green curry thai cafe reviews",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is green thai curry spicy",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lidl thai curry paste",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry kit tesco",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai green chicken curry recipe",
+      "volume": 40,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai green curry paste recipe",
+      "volume": 40,
+      "kd": 68,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste how to use",
+      "volume": 40,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste recipe chicken",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste recipe easy",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai green curry paste supermarket",
+      "volume": 30,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy thai green curry recipe uk",
+      "volume": 30,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver thai curry 30 minute meal",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lidl thai green curry kit",
+      "volume": 30,
+      "kd": 22,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional thai green curry ingredients",
+      "volume": 30,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional thai green curry recipe uk",
+      "volume": 30,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aldi thai green curry kit ingredients",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aldi thai green curry kit review",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "asda thai green curry sauce",
+      "volume": 20,
+      "kd": 42,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai green curry recipe uk",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "blue dragon thai green curry kit instructions",
+      "volume": 20,
+      "kd": 39,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "simple vegetarian thai green curry recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry kit asda",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry with chicken and vegetables",
+      "volume": 20,
+      "kd": 59,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian thai green curry recipe coconut milk",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "aldi thai green curry kit instructions",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "asda thai green curry recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai green curry recipe vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai green curry kit",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai green curry near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best vegetarian thai green curry recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "difference between red and green curry and panang curry",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy thai green chicken curry recipe bbc good food",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy thai green chicken curry recipe with coconut milk bbc",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "green curry restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "green curry thai restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "green curry vs red curry vs yellow",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lidl thai green curry paste review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lidl tikka curry paste",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green chicken curry indian recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry ingredients chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry kit lidl",
+      "volume": 10,
+      "kd": 22,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry kit morrisons",
+      "volume": 10,
+      "kd": 40,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry kit waitrose",
+      "volume": 10,
+      "kd": 44,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste brands",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry recipe for 1",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai red curry or green curry which is better",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional thai green curry paste recipe uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegetarian thai green curry recipe uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "blue dragon thai green curry kit calories",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "blue dragon thai green curry kit sainsbury's",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "blue dragon thai green curry kit tesco",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "jamie oliver thai green curry vegetarian",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lidl thai green curry paste price",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "lidl thai green curry recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry kit sainsbury's",
+      "volume": null,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry near london",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry near manchester",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai green curry paste tesco recipe",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 1,
+      "keywordCount": 6,
+      "visibility": 6,
+      "estimatedTraffic": 53078.4
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 2.3333333333333335,
+      "keywordCount": 6,
+      "visibility": 5.2,
+      "estimatedTraffic": 24390.260000000002
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 3.3333333333333335,
+      "keywordCount": 6,
+      "visibility": 4.6000000000000005,
+      "estimatedTraffic": 16388.93
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 6,
+      "visibility": 3.85,
+      "estimatedTraffic": 13499.830000000002
+    },
+    {
+      "domain": "www.loveandlemons.com",
+      "avgPosition": 7.5,
+      "keywordCount": 6,
+      "visibility": 2.1,
+      "estimatedTraffic": 4144.5599999999995
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 8.166666666666666,
+      "keywordCount": 6,
+      "visibility": 1.7000000000000004,
+      "estimatedTraffic": 4123.73
+    },
+    {
+      "domain": "www.jamieoliver.com",
+      "avgPosition": 9,
+      "keywordCount": 6,
+      "visibility": 1.65,
+      "estimatedTraffic": 3438.74
+    },
+    {
+      "domain": "www.allrecipes.com",
+      "avgPosition": 21,
+      "keywordCount": 6,
+      "visibility": 0.5,
+      "estimatedTraffic": 1064.33
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 21.5,
+      "keywordCount": 6,
+      "visibility": 1.6,
+      "estimatedTraffic": 3513.4700000000003
+    },
+    {
+      "domain": "chaophraya.co.uk",
+      "avgPosition": 8.2,
+      "keywordCount": 5,
+      "visibility": 2.4,
+      "estimatedTraffic": 5982.98
+    },
+    {
+      "domain": "www.lazycatkitchen.com",
+      "avgPosition": 9.8,
+      "keywordCount": 5,
+      "visibility": 1.15,
+      "estimatedTraffic": 3073.18
+    },
+    {
+      "domain": "cookieandkate.com",
+      "avgPosition": 13.2,
+      "keywordCount": 5,
+      "visibility": 1.1,
+      "estimatedTraffic": 2473.6800000000003
+    },
+    {
+      "domain": "www.averiecooks.com",
+      "avgPosition": 27,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 345.87
+    },
+    {
+      "domain": "rainbowplantlife.com",
+      "avgPosition": 9.25,
+      "keywordCount": 4,
+      "visibility": 0.75,
+      "estimatedTraffic": 1738.08
+    },
+    {
+      "domain": "www.kitchensanctuary.com",
+      "avgPosition": 18.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 523.49
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 20.5,
+      "keywordCount": 4,
+      "visibility": 0.45,
+      "estimatedTraffic": 992.67
+    },
+    {
+      "domain": "www.thekitchn.com",
+      "avgPosition": 23,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 275.12
+    },
+    {
+      "domain": "www.inspiredtaste.net",
+      "avgPosition": 23.25,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 330.52
+    },
+    {
+      "domain": "properfoodie.com",
+      "avgPosition": 27.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 368.68999999999994
+    },
+    {
+      "domain": "www.anediblemosaic.com",
+      "avgPosition": 29.25,
+      "keywordCount": 4,
+      "visibility": 0.25,
+      "estimatedTraffic": 701.7299999999999
+    },
+    {
+      "domain": "www.bluedragon.co.uk",
+      "avgPosition": 29.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 272.7
+    },
+    {
+      "domain": "greatcurryrecipes.net",
+      "avgPosition": 32.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 252.83999999999997
+    },
+    {
+      "domain": "www.deliaonline.com",
+      "avgPosition": 33.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 252.83999999999997
+    },
+    {
+      "domain": "www.mythaicurry.com",
+      "avgPosition": 35.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 252.83999999999997
+    },
+    {
+      "domain": "pinchofnom.com",
+      "avgPosition": 38.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 252.83999999999997
+    },
+    {
+      "domain": "www.thai-food-online.co.uk",
+      "avgPosition": 40.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 347.68999999999994
+    },
+    {
+      "domain": "vjcooks.com",
+      "avgPosition": 40.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 252.83999999999997
+    },
+    {
+      "domain": "www.johngregorysmith.com",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 330.5
+    },
+    {
+      "domain": "www.vegrecipesofindia.com",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 268.75
+    },
+    {
+      "domain": "www.thespruceeats.com",
+      "avgPosition": 43.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 252.83999999999997
+    },
+    {
+      "domain": "www.simplycook.com",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 321.7099999999999
+    },
+    {
+      "domain": "www.tilda.com",
+      "avgPosition": 44.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 252.83999999999997
+    },
+    {
+      "domain": "www.nikodouniko.com",
+      "avgPosition": 45.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 252.83999999999997
+    },
+    {
+      "domain": "www.dontgobaconmyheart.co.uk",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 195.92999999999998
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 195.92999999999998
+    },
+    {
+      "domain": "www.vzug.com",
+      "avgPosition": 30,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 345.92999999999995
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 36,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 195.92999999999998
+    },
+    {
+      "domain": "www.coopwholesale.co.uk",
+      "avgPosition": 36.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 292.92999999999995
+    },
+    {
+      "domain": "www.shemins.com",
+      "avgPosition": 41,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 195.92999999999998
+    },
+    {
+      "domain": "www.taste.com.au",
+      "avgPosition": 57,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 252.83999999999997
+    },
+    {
+      "domain": "onestopchillishop.co.uk",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 345.58000000000004
+    },
+    {
+      "domain": "everydaygourmet.tv",
+      "avgPosition": 58.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 255.54999999999998
+    },
+    {
+      "domain": "www.gigglingsquid.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 186.04
+    },
+    {
+      "domain": "cookpad.com",
+      "avgPosition": 48.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 264.63
+    },
+    {
+      "domain": "baan-thitiya.com",
+      "avgPosition": 48.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 183.32999999999998
+    },
+    {
+      "domain": "greenhealthycooking.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 139.01999999999998
+    },
+    {
+      "domain": "www.deanedwards.co.uk",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 305.15999999999997
+    },
+    {
+      "domain": "www.pressandjournal.co.uk",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 158.94
+    },
+    {
+      "domain": "realfood.tesco.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 126.41999999999999
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 126.41999999999999
+    }
+  ]
+}

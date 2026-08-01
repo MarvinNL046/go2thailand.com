@@ -1,16 +1,24 @@
 ---
-title: "Royal Ploughing Ceremony 2026: Bangkok's Ancient Rice Ritual at Sanam Luang"
+title: "Royal Ploughing Ceremony Bangkok 2026: Event Recap"
 slug: "royal-ploughing-ceremony-bangkok-may-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "culture"
-tags: ["Royal Ploughing Ceremony", "Bangkok events", "Thai culture", "Sanam Luang", "May 2026", "Thai festivals"]
-image: "/images/blog/thailand-news-default.webp"
-description: "The Royal Ploughing Ceremony takes place on 11 May 2026 at Sanam Luang in Bangkok. Learn about this ancient Buddhist-Brahmin ritual that marks the start of the rice-growing season."
+tags:
+  [
+    "Royal Ploughing Ceremony",
+    "Bangkok events",
+    "Thai culture",
+    "Sanam Luang",
+    "May 2026",
+    "Thai festivals",
+  ]
+image: "/images/redesign/editorial/royal-ploughing-ceremony-bangkok-may-2026-hero.webp"
+description: "A recap of Bangkok's Royal Ploughing Ceremony on May 11, 2026, and the enduring Buddhist-Brahmin ritual marking the rice-growing season."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Nation Thailand — Royal Ploughing Ceremony: A royal rite to mark the rice-growing season"
     url: "https://www.nationthailand.com/life/art-culture/40049738"
@@ -20,9 +28,11 @@ sources:
     url: "https://www.timeanddate.com/holidays/thailand/royal-ploughing-ceremony"
 ---
 
+> **Event status (updated 1 August 2026):** The 2026 ceremony has ended. This article documents that edition and its enduring cultural background; the date, public access and viewing arrangements for any future ceremony require a new official announcement.
+
 ## An Ancient Ritual Still Alive in 2026
 
-Every year around May, [Bangkok](/city/bangkok/) hosts one of Thailand's most unique royal ceremonies — the Royal Ploughing Ceremony, known in Thai as Phra Raek Na Khwan. In 2026, the ceremony falls on Monday, 11 May, at Sanam Luang, the historic open field in front of the [Grand Palace](/city/bangkok/attractions/grand-palace/).
+Every year around May, [Bangkok](/city/bangkok/) hosts one of Thailand's most unique royal ceremonies — the Royal Ploughing Ceremony, known in Thai as Phra Raek Na Khwan. In 2026, the ceremony falls on Monday, 11 May, at Sanam Luang, the historic open field in front of the [Grand Palace](/city/bangkok/attractions/).
 
 The event marks the official start of the rice-growing season. It has been performed for centuries, blending both Buddhist and Hindu Brahmin traditions into a single spectacular ritual. If you want to understand the broader religious calendar, see our guide to [Visakha Bucha Day 2026](/blog/visakha-bucha-day-2026-thailand-guide/), which falls just a few weeks before the ploughing ceremony.
 
@@ -42,6 +52,6 @@ Keep in mind that 11 May is a government holiday, so some government offices wil
 
 ## Why You Should Go
 
-The Royal Ploughing Ceremony is one of the few royal events tourists can witness up close. It is not a crowded festival with water fights or fireworks — it is a quiet, dignified ritual that connects modern Thailand to its agricultural roots. Combine it with visits to the nearby [Grand Palace](/city/bangkok/attractions/grand-palace/) and [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/) to make a full cultural day in old Bangkok. The [Temple of Dawn, Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/), is also just a short ferry ride across the Chao Phraya and worth adding to the same afternoon. For more ideas around the capital, browse the [best day trips from Bangkok](/blog/best-day-trips-from-bangkok/) or check out our [Bangkok top attractions guide](/city/bangkok/top-10-attractions/). You can also look into the [Bangkok Art Biennale 2026](/blog/bangkok-art-biennale-2026-angels-mara-guide/) running during the same period if you want to layer in contemporary culture. For accommodation near Sanam Luang, see the [best hotels in Bangkok](/best-hotels/bangkok/).
+The Royal Ploughing Ceremony is one of the few royal events tourists can witness up close. It is not a crowded festival with water fights or fireworks — it is a quiet, dignified ritual that connects modern Thailand to its agricultural roots. Combine it with visits to the nearby [Grand Palace](/city/bangkok/attractions/) and [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/) to make a full cultural day in old Bangkok. The [Temple of Dawn, Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/), is also just a short ferry ride across the Chao Phraya and worth adding to the same afternoon. For more ideas around the capital, browse the [best day trips from Bangkok](/blog/best-day-trips-from-bangkok/) or check out our [Bangkok top attractions guide](/city/bangkok/top-10-attractions/). You can also look into the [Bangkok Art Biennale 2026](/blog/bangkok-art-biennale-2026-angels-mara-guide/) running during the same period if you want to layer in contemporary culture. For accommodation near Sanam Luang, see the [best hotels in Bangkok](/best-hotels/bangkok/).
 
 If you are in Thailand in mid-May, this is one of those rare experiences that most tourists never hear about. Planning a longer stay? Read the [Red Lotus Sea guide](/blog/red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026/) if you are considering a northeast extension in early 2027, or explore the full [Thailand festivals calendar](/blog/best-time-to-visit-thailand/) to time your trip around multiple events.

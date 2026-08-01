@@ -1,512 +1,135 @@
-import { useT } from '../../../lib/i18n';
-import { strings as i18nStrings } from '../../../lib/i18n/city-slug-top-10-restaurants';
-import { GetStaticProps, GetStaticPaths } from 'next';
-import { useRouter } from 'next/router';
+import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
-import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
-import Breadcrumbs from '../../../components/Breadcrumbs';
-import SEOHead from '../../../components/SEOHead';
-import CityExploreMore from '../../../components/CityExploreMore';
-import InlineAd from '../../../components/ads/InlineAd';
 import fs from 'fs';
 import path from 'path';
+import SEOHead from '../../../components/SEOHead';
+import TopTenEditorialGuide, { TopTenGuideItem } from '../../../components/city/TopTenEditorialGuide';
+import { getCityBySlug } from '../../../lib/cities';
 
 interface City {
   id: number;
   slug: string;
-  name: { en: string; nl: string; };
+  name: { en: string; nl: string };
   region: string;
   province: string;
   image: string;
 }
 
-interface RestaurantItem {
-  rank: number;
-  name: string;
+interface Source {
+  title: string;
+  creator: string;
+  url: string;
   description?: string;
-  location?: string;
-  current_price?: string;
-  highlights?: string[];
-  current_info?: string;
-  story?: string;
-  insider_tips?: string[];
-  why_locals_love_it?: string;
-  price_reality?: string;
-  location_details?: string;
-  personal_moment?: string;
-  scraped?: {
-    source: 'tripadvisor' | 'google' | 'other';
-    cuisine?: string;
-    price_range?: string;
-    rating?: number;
-    review_count?: number;
-    address?: string;
-    highlights?: string[];
-    review_snippets?: string[];
-    scraped_at: string;
-  };
-  trip_affiliate_url?: string;
 }
 
-interface Top10RestaurantsData {
+interface RestaurantsData {
   title: string;
   meta_description: string;
   intro: string;
-  items: RestaurantItem[];
-  city_slug: string;
-  city_name: string;
-  category: string;
-  data_sources?: string[];
-  content_sources?: Array<{
-    title: string;
-    creator: string;
-    url: string;
-    description?: string;
-  }>;
+  items: TopTenGuideItem[];
+  content_sources?: Source[];
   last_perplexity_update?: string;
   last_scraped?: string;
   generated_at: string;
-  hybrid?: boolean;
-  scraped?: boolean;
 }
 
-interface Top10RestaurantsPageProps {
+interface Props {
   city: City;
-  restaurantsData: Top10RestaurantsData | null;
+  restaurantsData: RestaurantsData | null;
   editorial?: string;
 }
 
-export default function Top10RestaurantsPage({ city, restaurantsData, editorial }: Top10RestaurantsPageProps) {
-  const t = useT(i18nStrings);
-  const { locale } = useRouter();
-  const isNl = locale === 'nl';
+function evergreen(text: string) {
+  return text
+    .replace(/\s*\(?2026\)?/gi, '')
+    .replace(/\s*[—–-]\s*(local picks\s*&\s*)?prices/gi, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
 
-  if (!city) return <div>{t("s001_city_not_found")}</div>;
-
-  const breadcrumbs = [
-    ...generateBreadcrumbs(city),
-    { name: 'Top 10 Restaurants', href: `/city/${city.slug}/top-10-restaurants/` }
-  ];
-
-  // If no data, show coming soon
+export default function Top10RestaurantsPage({ city, restaurantsData, editorial }: Props) {
   if (!restaurantsData) {
     return (
-      <>
-        <SEOHead
-          title={`Best Restaurants ${city.name.en} 2026 — Local Picks & Prices`}
-          description={`The 10 best restaurants in ${city.name.en}, Thailand for 2026. Local favorites with real prices, what to order, and insider tips from frequent visitors.`}
-        >
+      <main className="min-h-screen bg-canvas px-5 py-24 text-center text-charcoal">
+        <SEOHead title={`Where to eat in ${city.name.en}`} description={`The ${city.name.en} restaurant guide is being reviewed.`}>
           <meta name="robots" content="noindex, follow" />
         </SEOHead>
-
-        <div className="bg-surface-cream min-h-screen">
-          <section className="bg-white shadow-sm">
-            <div className="container-custom py-8">
-              <Breadcrumbs items={breadcrumbs} />
-              <div className="text-center py-16">
-                <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                  Top 10 Restaurants in {city.name.en}
-                </h1>
-                <p className="text-xl text-gray-600 mb-8">
-                  Restaurant recommendations for {city.name.en} are being prepared with up-to-date pricing and local picks.
-                </p>
-                <Link href={`/city/${city.slug}/`} className="btn-primary">
-                  ← Back to {city.name.en}
-                </Link>
-              </div>
-            </div>
-          </section>
-        </div>
-      </>
+        <p className="eyebrow">Guide under review</p>
+        <h1 className="mx-auto mt-4 max-w-3xl font-display text-5xl font-semibold leading-none text-jade">Where to eat in {city.name.en}</h1>
+        <p className="mx-auto mt-5 max-w-xl text-sm leading-7 text-charcoal/65">We are checking recent venue information and source quality before publishing this shortlist.</p>
+        <Link href={`/city/${city.slug}/`} className="btn-primary mt-8">Back to {city.name.en}</Link>
+      </main>
     );
   }
 
+  const title = evergreen(restaurantsData.title);
+  const description = evergreen(restaurantsData.meta_description)
+    .replace(/real prices,?\s*/gi, 'neighbourhood and cuisine context, ')
+    .replace(/current prices,?\s*/gi, 'planning context, ');
   const reviewedDate = restaurantsData.last_perplexity_update || restaurantsData.last_scraped || restaurantsData.generated_at;
   const reviewedLabel = reviewedDate
-    ? new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' }).format(new Date(reviewedDate))
+    ? new Intl.DateTimeFormat('en-GB', { month: 'long', year: 'numeric' }).format(new Date(reviewedDate))
     : null;
-  const hasSources = !!restaurantsData.content_sources?.length;
+  const canonical = `https://go2-thailand.com/city/${city.slug}/top-10-restaurants/`;
 
   return (
     <>
-      <SEOHead
-        title={restaurantsData.title}
-        description={restaurantsData.meta_description}
-      >
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Article",
-              "headline": restaurantsData.title,
-              "description": restaurantsData.meta_description,
-              "author": {
-                "@type": "Organization",
-                "name": "Go2Thailand"
-              },
-              "publisher": {
-                "@type": "Organization",
-                "name": "Go2Thailand"
-              },
-              "datePublished": restaurantsData.generated_at,
-              "dateModified": restaurantsData.last_scraped || restaurantsData.last_perplexity_update || restaurantsData.generated_at
-            })
-          }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "ItemList",
-              "name": restaurantsData.title,
-              "description": restaurantsData.meta_description,
-              "numberOfItems": restaurantsData.items.length,
-              "itemListElement": restaurantsData.items.map((item: RestaurantItem) => ({
-                "@type": "ListItem",
-                "position": item.rank,
-                "name": item.name,
-                "url": `https://go2-thailand.com/city/${city.slug}/top-10-restaurants/#restaurant-${item.rank}`
-              }))
-            })
-          }}
-        />
+      <SEOHead title={title} description={description} ogImage={city.image}>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: title,
+          description,
+          image: city.image,
+          mainEntityOfPage: canonical,
+          author: { '@type': 'Organization', name: 'Go2Thailand' },
+          publisher: { '@type': 'Organization', name: 'Go2Thailand' },
+          datePublished: restaurantsData.generated_at,
+          dateModified: reviewedDate,
+        }) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'ItemList',
+          name: title,
+          numberOfItems: restaurantsData.items.length,
+          itemListElement: restaurantsData.items.map((item) => ({
+            '@type': 'ListItem', position: item.rank, name: item.name, url: `${canonical}#restaurant-${item.rank}`,
+          })),
+        }) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/' },
+            { '@type': 'ListItem', position: 2, name: city.name.en, item: `https://go2-thailand.com/city/${city.slug}/` },
+            { '@type': 'ListItem', position: 3, name: 'Restaurants', item: canonical },
+          ],
+        }) }} />
       </SEOHead>
-
-      <div className="bg-surface-cream min-h-screen">
-        {/* Header Section */}
-        <section className="bg-white shadow-sm">
-          <div className="container-custom py-8">
-            <Breadcrumbs items={breadcrumbs} />
-
-            <div className="text-center max-w-4xl mx-auto">
-              <span className="section-label">{t("s002_top_10_guide")}</span>
-              <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-6">
-                {restaurantsData.title}
-              </h1>
-              
-              <div className="text-lg text-gray-600 mb-8 leading-relaxed">
-                {restaurantsData.intro}
-              </div>
-
-              {/* Trust signals */}
-              {(hasSources || reviewedLabel) && (
-                <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-gray-500 mb-6">
-                  {hasSources && (
-                    <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                      {t("s003_primary_sources_linked_below")}
-                    </span>
-                  )}
-                  {reviewedLabel && (
-                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      Reviewed {reviewedLabel}
-                    </span>
-                  )}
-                </div>
-              )}
-            </div>
-
-            {/* Header Banner Ad */}
-            <div className="mt-8">
-            </div>
-          </div>
-        </section>
-
-        {/* Editorial Introduction */}
-        {editorial && (
-          <div className="max-w-4xl mx-auto px-4 py-6">
-            <p className="text-lg text-gray-700 leading-relaxed">{editorial}</p>
-          </div>
-        )}
-
-        {/* Main Content */}
-        <section className="section-padding">
-          <div className="container-custom">
-            <div className="lg:grid lg:grid-cols-12 lg:gap-8">
-
-              {/* Sidebar - Desktop */}
-              <aside className="hidden lg:block lg:col-span-3">
-                <div className="sticky top-4 space-y-6">
-                  {/* Sticky Sidebar Ad */}
-
-                  {/* Quick Navigation */}
-                  <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">{t("s004_quick_jump")}</h3>
-                    <div className="space-y-2">
-                      {restaurantsData.items.slice(0, 5).map((item) => (
-                        <a
-                          key={item.rank}
-                          href={`#restaurant-${item.rank}`}
-                          className="block text-sm text-gray-600 hover:text-thailand-blue transition-colors"
-                        >
-                          #{item.rank} {item.name}
-                        </a>
-                      ))}
-                    </div>
-                  </div>
-
-                  {/* City Info */}
-                  <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">{t("s005_explore_more")}</h3>
-                    <div className="space-y-3">
-                      <Link href={`/city/${city.slug}/`} className="block text-thailand-blue hover:underline">
-                        {city.name.en} Guide
-                      </Link>
-                      <Link href={`/city/${city.slug}/top-10-hotels/`} className="block text-thailand-blue hover:underline">
-                        {t("s006_top_10_hotels")}
-                      </Link>
-                      <Link href={`/city/${city.slug}/top-10-attractions/`} className="block text-thailand-blue hover:underline">
-                        {t("s007_top_10_attractions")}
-                      </Link>
-                    </div>
-                  </div>
-
-                  {/* Related Guides */}
-                  <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">{t("s008_related_guides")}</h3>
-                    <div className="space-y-3">
-                      <Link href="/food/" className="block text-thailand-blue hover:underline">
-                        {t("s009_thai_food_guide")}
-                      </Link>
-                      <Link href="/best-cooking-classes-in-thailand/" className="block text-thailand-blue hover:underline">
-                        {t("s010_cooking_classes")}
-                      </Link>
-                      <Link href="/drinks/" className="block text-thailand-blue hover:underline">
-                        {t("s011_thai_drinks_guide")}
-                      </Link>
-                    </div>
-                  </div>
-                </div>
-              </aside>
-
-              {/* Main Content */}
-              <main className="lg:col-span-9">
-                <div className="space-y-8">
-                  {restaurantsData.items.map((restaurant, index) => (
-                    <div key={restaurant.rank}>
-                      {/* Restaurant Item */}
-                      <article 
-                        id={`restaurant-${restaurant.rank}`}
-                        className="bg-white rounded-2xl shadow-md overflow-hidden"
-                      >
-                        <div className="p-6 lg:p-8">
-                          {/* Rank Badge */}
-                          <div className="flex items-start gap-4 mb-4">
-                            <div className="flex-shrink-0 w-12 h-12 bg-thailand-blue text-white rounded-xl flex items-center justify-center text-xl font-bold">
-                              {restaurant.rank}
-                            </div>
-                            <div className="flex-1">
-                              <h2 className="text-2xl lg:text-3xl font-bold font-heading text-gray-900 mb-2">
-                                {restaurant.name}
-                              </h2>
-                              {restaurant.current_price && (
-                                <div className="text-lg text-green-600 font-semibold mb-2">
-                                  {restaurant.current_price}
-                                </div>
-                              )}
-                              {restaurant.location && (
-                                <div className="text-gray-600 mb-2">
-                                  {restaurant.location}
-                                </div>
-                              )}
-                              <div className="flex flex-wrap items-center gap-3 mt-2">
-                                <a
-                                  href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.name + ' ' + city.name.en + ' Thailand')}`}
-                                  target="_blank"
-                                  rel="noopener noreferrer"
-                                  className="inline-flex items-center text-sm text-gray-500 hover:text-thailand-blue transition-colors"
-                                  title={t("s012_view_on_google_maps")}
-                                >
-                                  <svg className="w-4 h-4 mr-1" viewBox="0 0 24 24" fill="currentColor">
-                                    <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
-                                  </svg>
-                                  Maps
-                                </a>
-                              </div>
-                            </div>
-                          </div>
-
-                          {/* Description */}
-                          <div className="prose prose-lg max-w-none mb-6">
-                            <p>{restaurant.description}</p>
-                            {restaurant.story && (
-                              <div className="bg-surface-cream rounded-xl p-4 mt-4">
-                                <p className="italic">{restaurant.story}</p>
-                              </div>
-                            )}
-                          </div>
-
-                          {/* Highlights */}
-                          <div className="flex flex-wrap gap-2 mb-4">
-                            {(restaurant.highlights || restaurant.insider_tips || []).map((highlight, idx) => (
-                              <span
-                                key={idx}
-                                className="bg-thailand-blue/10 text-thailand-blue px-3 py-1 rounded-full text-sm font-medium"
-                              >
-                                {highlight}
-                              </span>
-                            ))}
-                          </div>
-
-                          {/* Current Info */}
-                          {restaurant.current_info && (
-                            <div className="bg-surface-cream border-l-4 border-thailand-red p-4 rounded-xl">
-                              <p className="text-gray-700 text-sm">
-                                <strong>{isNl ? 'Actuele Info:' : 'Current Info:'}</strong> {restaurant.current_info}
-                              </p>
-                            </div>
-                          )}
-                        </div>
-                      </article>
-
-                      {/* Ad Placements */}
-                      {index === 4 && (
-                        <InlineAd />
-                      )}
-
-                      {index === 7 && (
-                        <InlineAd />
-                      )}
-                    </div>
-                  ))}
-
-                  {/* Bottom Banner Ad */}
-                  <div className="mt-12">
-                  </div>
-
-                  {/* Call to Action */}
-                  <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                    <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                      Planning Your Trip to {city.name.en}?
-                    </h3>
-                    <p className="text-gray-600 mb-6">
-                      {t("s013_get_the_complete_guide")}
-                    </p>
-                    <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                      <Link href={`/city/${city.slug}/`} className="btn-primary">
-                        Complete {city.name.en} Guide
-                      </Link>
-                      <Link href={`/city/${city.slug}/top-10-hotels/`} className="btn-secondary">
-                        {t("s006_top_10_hotels")}
-                      </Link>
-                    </div>
-                  </div>
-
-                  {/* Related Guides */}
-                  <div className="bg-white rounded-2xl shadow-md p-8">
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
-                      {t("s015_explore_thai_food_amp")}
-                    </h3>
-                    <div className="grid sm:grid-cols-3 gap-4">
-                      <Link
-                        href="/food/"
-                        className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-shadow group"
-                      >
-                        <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                          {t("s009_thai_food_guide")}
-                        </h4>
-                        <p className="text-sm text-gray-500">{t("s017_dishes_flavours_amp_where")}</p>
-                      </Link>
-                      <Link
-                        href="/best-cooking-classes-in-thailand/"
-                        className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-shadow group"
-                      >
-                        <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                          {t("s010_cooking_classes")}
-                        </h4>
-                        <p className="text-sm text-gray-500">{t("s019_learn_to_cook_thai")}</p>
-                      </Link>
-                      <Link
-                        href="/drinks/"
-                        className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-shadow group"
-                      >
-                        <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                          {t("s011_thai_drinks_guide")}
-                        </h4>
-                        <p className="text-sm text-gray-500">{t("s021_what_to_drink_in")}</p>
-                      </Link>
-                    </div>
-                  </div>
-
-                  {restaurantsData.content_sources && restaurantsData.content_sources.length > 0 && (
-                    <div className="bg-white rounded-2xl shadow-md p-8">
-                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
-                        {t("s022_sources_amp_references")}
-                      </h3>
-                      <div className="space-y-3">
-                        {restaurantsData.content_sources.map((source, index) => (
-                          <a
-                            key={index}
-                            href={source.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="block rounded-xl border border-gray-100 p-4 hover:border-gray-300 transition-colors"
-                          >
-                            <div className="font-medium text-gray-900">{source.title}</div>
-                            <div className="text-sm text-gray-500">by {source.creator}</div>
-                            {source.description && (
-                              <div className="text-sm text-gray-600 mt-1">{source.description}</div>
-                            )}
-                          </a>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-                </div>
-              </main>
-            </div>
-          </div>
-        </section>
-
-        <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="top-10-restaurants" />
-      </div>
+      <TopTenEditorialGuide city={city} mode="restaurants" title={title} intro={evergreen(restaurantsData.intro)} items={restaurantsData.items} editorial={editorial} sources={restaurantsData.content_sources} reviewedLabel={reviewedLabel} />
     </>
   );
 }
 
-export const getStaticPaths: GetStaticPaths = async () => {
-  return { paths: [], fallback: 'blocking' };
-};
+export const getStaticPaths: GetStaticPaths = async () => ({ paths: [], fallback: 'blocking' });
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug, locale);
-
   if (!city) return { notFound: true };
+  if (locale === 'nl') return { redirect: { destination: `/nl/city/${slug}/food/`, permanent: true } };
 
-  // Try to load locale-specific top 10 restaurants data, fallback to English
-  let restaurantsData = null;
+  let restaurantsData: RestaurantsData | null = null;
   try {
-    const localePath = locale && locale !== 'en' ? path.join(process.cwd(), 'data', 'top10', locale, `${slug}-restaurants.json`) : '';
-    const defaultPath = path.join(process.cwd(), 'data', 'top10', `${slug}-restaurants.json`);
-    const dataPath = localePath && fs.existsSync(localePath) ? localePath : defaultPath;
-    if (fs.existsSync(dataPath)) {
-      const fileContent = fs.readFileSync(dataPath, 'utf8');
-      restaurantsData = JSON.parse(fileContent);
-    }
-  } catch (error) {
-    // No top 10 restaurants data found for this city
-  }
+    const dataPath = path.join(process.cwd(), 'data', 'top10', `${slug}-restaurants.json`);
+    if (fs.existsSync(dataPath)) restaurantsData = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+  } catch {}
 
   let editorial = '';
   try {
     const editorialsPath = path.join(process.cwd(), 'data', 'top10-editorials.json');
-    if (fs.existsSync(editorialsPath)) {
-      const editorials = JSON.parse(fs.readFileSync(editorialsPath, 'utf8'));
-      const key = `${slug}-restaurants`;
-      if (editorials[key]?.en) {
-        editorial = editorials[key].en;
-      }
-    }
+    if (fs.existsSync(editorialsPath)) editorial = JSON.parse(fs.readFileSync(editorialsPath, 'utf8'))[`${slug}-restaurants`]?.en || '';
   } catch {}
 
-  return {
-    props: {
-      city,
-      restaurantsData,
-      editorial,
-    },
-    revalidate: 604800 // Revalidate daily
-  };
+  return { props: { city, restaurantsData, editorial }, revalidate: 604800 };
 };

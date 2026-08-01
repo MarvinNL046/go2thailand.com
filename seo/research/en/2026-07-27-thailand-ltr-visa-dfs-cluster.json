@@ -1,0 +1,745 @@
+{
+  "captured_at": "2026-07-27T15:16:22.301Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand ltr visa",
+  "costs": {
+    "suggestions": 0.01644,
+    "related": 0.01284,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand ltr visa",
+    "ltr visa thailand",
+    "thailand ltr visa requirements",
+    "ltr visa thailand requirements",
+    "10 year ltr visa thailand",
+    "boi thailand ltr visa",
+    "how to get ltr visa thailand",
+    "ltr visa thailand application",
+    "ltr visa thailand boi",
+    "ltr visa thailand cost",
+    "ltr visa thailand reddit",
+    "ltr visa thailand tax",
+    "ltr visa thailand tax exemption",
+    "new ltr visa thailand",
+    "thailand board of investment ltr visa",
+    "thailand long term resident ltr visa",
+    "thailand ltr visa application",
+    "thailand ltr visa changes",
+    "thailand ltr visa cost"
+  ],
+  "keywords": [
+    {
+      "keyword": "ltr visa thailand",
+      "volume": 140,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa",
+      "volume": 50,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa requirements",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ltr visa thailand requirements",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand long term visa cost",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "10 year ltr visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "boi thailand ltr visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get ltr visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "long term resident ltr visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ltr visa thailand application",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ltr visa thailand boi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ltr visa thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ltr visa thailand digital nomad",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ltr visa thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ltr visa thailand tax",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ltr visa thailand tax exemption",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ltr visa thailand wealthy pensioner",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "new ltr visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 10-year visa requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand board of investment ltr visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand boi ltr visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand long term resident ltr visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr 10 year visa",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa application",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa changes",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa for wealthy global citizens",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa for wealthy pensioners",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa official website",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa official website boi",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa program requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa requirements 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa requirements 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa tax",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa tax exemption",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr wealthy pensioner visa requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa ltr thailand",
+      "volume": 10,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is ltr visa thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ltr visa program update",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "ltr.boi.go.th",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 57.760000000000005
+    },
+    {
+      "domain": "www.thaiembassy.com",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 30.78
+    },
+    {
+      "domain": "london.thaiembassy.org",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 18.487000000000002
+    },
+    {
+      "domain": "www.siam-legal.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 8.027
+    },
+    {
+      "domain": "www.hlbthai.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 10.506
+    },
+    {
+      "domain": "kpmg.com",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 5.103
+    },
+    {
+      "domain": "www.legalink.net",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 7.316
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 3.085
+    },
+    {
+      "domain": "www.ltr.center",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.147
+    },
+    {
+      "domain": "image.mfa.go.th",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.281
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 2.068
+    },
+    {
+      "domain": "www.swisshelpingpoint.com",
+      "avgPosition": 14.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.439
+    },
+    {
+      "domain": "www.thaireloservices.com",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.837
+    },
+    {
+      "domain": "dudigitalglobal.com",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8240000000000001
+    },
+    {
+      "domain": "silklegal.com",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.429
+    },
+    {
+      "domain": "www.thaiembassy.ch",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "harveylawcorporation.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "gam-legalalliance.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "svbl.co.th",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "division5.immigration.go.th",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "ltr.in.th",
+      "avgPosition": 38.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.409
+    },
+    {
+      "domain": "www.pacificprime.co.th",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "franklegaltax.com",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "www.globalcitizensolutions.com",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "aimbangkok.com",
+      "avgPosition": 48,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "www.investasian.com",
+      "avgPosition": 51,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "ltrvisathailand.co.uk",
+      "avgPosition": 57,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "www.thaiembassyjakarta.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.215
+    },
+    {
+      "domain": "khonsulegal.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.12
+    },
+    {
+      "domain": "silqlaw.com",
+      "avgPosition": 62,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "tvc.co.th",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "legal.co.th",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "benoit-partners.com",
+      "avgPosition": 63.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "anglosiamlegal.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "iglu.net",
+      "avgPosition": 31,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "asq.in.th",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.blsthailandvisa.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "www.businesstraveller.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "dct.or.th",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.thailandlaw.org",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "thailand.acclime.com",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "belaws.com",
+      "avgPosition": 70.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.39899999999999997
+    },
+    {
+      "domain": "thai-evisa.info",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "emerhub.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "magnacarta.co.th",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "thailand-immigration.weebly.com",
+      "avgPosition": 48,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.105
+    },
+    {
+      "domain": "www.thethailandlife.com",
+      "avgPosition": 49,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "asterlion.com",
+      "avgPosition": 50,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "hawryluklegal.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "closer.law",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    }
+  ]
+}

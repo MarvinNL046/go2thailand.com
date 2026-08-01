@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand costs", "cost of living", "electricity", "expat thailand", "thailand 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-electricity-tariff-cut-2026-cost-of-living-hero.webp"
 description: "Thailand reduced its electricity tariff to 3.88 baht per unit for January–April 2026. Here's what it means for tourists, digital nomads, and expats."
 featured: false
 readingTime: 3
@@ -20,7 +20,7 @@ sources:
     url: "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2773175-thailand-floats-lower-2026-green-utility-tariff-rate"
 ---
 
-Good news for anyone living in or visiting [Thailand](/thailand-travel-guide/) on a longer stay: the government has **cut the electricity tariff to 3.88 baht per unit** for the January–April 2026 billing period, down from 3.94 baht in the previous cycle. It's a modest reduction, but it signals the government's ongoing effort to keep energy costs manageable — part of a broader picture that makes Thailand [one of Southeast Asia's cheapest destinations in 2026](/blog/thailand-cheap-2026-travel-costs/).
+Good news for anyone living in or visiting [Thailand](/thailand-travel-guide/) on a longer stay: the government has **cut the electricity tariff to 3.88 baht per unit** for the January–April 2026 billing period, down from 3.94 baht in the previous cycle. It's a modest reduction, but it signals the government's ongoing effort to keep energy costs manageable — part of a broader picture that makes Thailand [one of Southeast Asia's cheapest destinations in 2026](/thailand-index/budget/).
 
 ## Why the Cut?
 
@@ -54,8 +54,8 @@ This means hotels and resorts that source renewable energy can do so at a lower 
 
 ## The Bigger Picture
 
-Thailand remains one of Southeast Asia's most affordable destinations for long-term stays. Combined with the **3.88 baht electricity rate**, low fuel prices, and stable food costs, the cost of living continues to favor budget-conscious travelers and remote workers. For a full picture of what to expect, see our [Thailand budget 2026 daily costs breakdown](/blog/thailand-budget-2026-daily-costs/) and the [2-week Thailand cost guide](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+Thailand remains one of Southeast Asia's most affordable destinations for long-term stays. Combined with the **3.88 baht electricity rate**, low fuel prices, and stable food costs, the cost of living continues to favor budget-conscious travelers and remote workers. For a full picture of what to expect, see our [Thailand budget 2026 daily costs breakdown](/thailand-index/budget/) and the [2-week Thailand cost guide](/thailand-index/budget/).
 
-Long-stay visitors should also be aware of recent [visa changes in 2026](/blog/thailand-visa-guide-2026/) — including the [reduction of visa-free stays from 60 to 30 days](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) and new options under the [Digital Nomad (DTV) Visa](/visa/digital-nomad-visa/) for remote workers who want to stay longer legally. The [expat long-stay guide](/travel-guides/expat-long-stay-thailand/) covers everything from housing to healthcare costs.
+Long-stay visitors should compare the current [Thailand visa routes](/visa/) rather than rely on repeated tourist entries. At our 27 July 2026 official-source check, the ordinary British-passport exemption still states up to 60 days; verify the temporary rule in the [visa-exemption guide](/visa/visa-free-entry/). Eligible remote workers can separately assess the [Destination Thailand Visa](/visa/digital-nomad-visa/), while the [expat long-stay guide](/travel-guides/expat-long-stay-thailand/) covers housing and healthcare costs.
 
 Whether the government can maintain these energy rates through the second half of 2026 will depend largely on how the Middle East energy situation evolves — and it's worth noting that the [IMF and World Bank Annual Meetings coming to Bangkok in October 2026](/blog/thailand-imf-world-bank-annual-meetings-bangkok-2026/) will place global economic policy squarely in the spotlight, with energy and fiscal stability high on the agenda.

@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PhuketAreaHotelsHubNl from '../../../../components/hotels/PhuketAreaHotelsHubNl';
 
 interface Partner { partnerUrl: string; label: string; }
 interface Partners { trip_pillar: Partner; trip_hotels: Partner; trip_novotel: Partner; trip_sunwing: Partner; trip_sunprime: Partner; }
@@ -19,6 +20,7 @@ export default function KamalaHotelsHub({ partners, lastUpdated, hotels }: Props
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+  if (isNl) return <PhuketAreaHotelsHubNl area="kamala" tripUrl={partners.trip_hotels.partnerUrl} />;
   const placement = (p: string) => `${subId}-pseo-phuket-kamala-hotels-${p}`;
 
   const breadcrumbs = [
@@ -90,7 +92,7 @@ export default function KamalaHotelsHub({ partners, lastUpdated, hotels }: Props
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           <section>
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? '8 Kamala Beach hotels vergeleken' : '8 Kamala Beach hotels compared'}</h2>
             <p className="text-gray-600 mb-6">{isNl ? 'Klik om live tarieven of onze diepgaande review te zien.' : 'Click for live rates or our in-depth review.'}</p>
@@ -161,7 +163,7 @@ export default function KamalaHotelsHub({ partners, lastUpdated, hotels }: Props
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

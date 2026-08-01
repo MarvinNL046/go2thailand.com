@@ -34,7 +34,7 @@ De makkelijkste manier voor de meeste bezoekers is het kopen van een prepaid toe
 
 **AIS** is de grootste mobiele netwerkoperator van Thailand en biedt de breedste dekking door het hele land. Als je van plan bent om plattelandsgebieden of [eilanden](/blog/thailand-island-hopping-guide/) buiten Bangkok te verkennen, is AIS de veiligste keuze. True en DTAC hebben hun activiteiten in 2024 samengevoegd, dus hun gecombineerde netwerk is ook sterk in stedelijke gebieden.
 
-Typische toeristen-SIM-pakketten kosten tussen de 300 en 600 baht (ruwweg €8 tot €16) voor 7 tot 15 dagen met 15 tot 50 GB data, plus een lokaal Thais telefoonnummer voor gesprekken en sms. Bekijk onze [Thailand budget gids](/blog/thailand-budget-2026-daily-costs/) voor hoe dit past in je totale vakantiekosten.
+Typische toeristen-SIM-pakketten kosten tussen de 300 en 600 baht (ruwweg €8 tot €16) voor 7 tot 15 dagen met 15 tot 50 GB data, plus een lokaal Thais telefoonnummer voor gesprekken en sms. Bekijk onze [Thailand budget gids](/nl/thailand-index/budget/) voor hoe dit past in je totale vakantiekosten.
 
 ## Optie 2: eSIM — Installeer voor je vertrekt
 

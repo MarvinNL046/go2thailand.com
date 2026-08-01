@@ -1,0 +1,758 @@
+{
+  "captured_at": "2026-07-28T13:08:43.575Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels in hua hin",
+  "costs": {
+    "suggestions": 0.0126,
+    "related": 0.01728,
+    "competitors": 0.01716
+  },
+  "competitorKeywords": [
+    "best hotels in hua hin",
+    "best hotels in hua hin thailand",
+    "best 5 star hotels in hua hin",
+    "best hotels in hua hin beach"
+  ],
+  "keywords": [
+    {
+      "keyword": "anantara hua hin",
+      "volume": 1300,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency hua hin",
+      "volume": 720,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin by train",
+      "volume": 590,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin",
+      "volume": 320,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in hua hin",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in hua hin thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin hotels on the beachfront",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin bus",
+      "volume": 170,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin flight",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "v villas hua hin",
+      "volume": 90,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin distance",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin beach resort",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin luxury hotels",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin villa with private pool",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin resort reviews",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin by car",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency hua hin reviews",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin resort photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin train timetable",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin transfer",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency hua hin photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency hua hin tripadvisor",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin all inclusive",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin resort location",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin shuttle bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara hua hin wedding",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to hua hin flight time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 5 star hotels in hua hin",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in hua hin beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hua hin hotels on the beachfront cheap",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin resort bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hua hin resorts 5-star",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency hua hin club lounge",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency hua hin prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hyatt regency hua hin spa",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin agoda",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin location",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin resort by ihg photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin reviews",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "intercontinental hua hin train",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "v villas hua hin restaurant",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "v villas hua hin reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best value hotels in hua hin",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "v villas hua hin menu",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 127.67999999999999
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 68.04
+    },
+    {
+      "domain": "slh.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 40.866
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 19.698
+    },
+    {
+      "domain": "thehoteljournal.com",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 17.976
+    },
+    {
+      "domain": "www.mrandmrssmith.com",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 14.195999999999998
+    },
+    {
+      "domain": "www.nomadicnotes.com",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 17.976
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 10.752
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 5.061
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 4.388999999999999
+    },
+    {
+      "domain": "theluxuryeditor.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.15
+    },
+    {
+      "domain": "thewayfaringsoul.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.352
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.1420000000000003
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.596
+    },
+    {
+      "domain": "www.thehotelguru.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.806
+    },
+    {
+      "domain": "www.myboutiquehotel.com",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.26
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.008
+    },
+    {
+      "domain": "boutiquehotel.me",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.903
+    },
+    {
+      "domain": "www.thailandholidaygroup.com",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "roamandthrive.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.fivestaralliance.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "manoravillage.com",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.oyster.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.vvillashuahin.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "luxuryhotel.world",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "en.itravelblog.net",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.top25hotels.com",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "hotelierschoice.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.hua-hinhotels.com",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "gohuahinhotels.com",
+      "avgPosition": 41.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.thaiholidayguide.com",
+      "avgPosition": 43,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "www.prestigeonline.com",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.8819999999999999
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.911
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.2389999999999999
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.903
+    },
+    {
+      "domain": "www.travelbag.co.uk",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.483
+    },
+    {
+      "domain": "eezystay.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.462
+    },
+    {
+      "domain": "www.travelandleisure.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.tripadvisor.in",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "huahintravel.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "wluxuryhotels.com",
+      "avgPosition": 48,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    }
+  ]
+}

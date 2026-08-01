@@ -6,6 +6,9 @@ import { useRouter } from 'next/router';
 import { useMemo } from 'react';
 import type { ThailandIndex, BilingualText, IndexCity } from '../../lib/thailand-index';
 import { MonthMatrix } from '../../components/index';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 interface BestTimePageProps {
   data: ThailandIndex;
@@ -145,6 +148,7 @@ export default function BestTimePage({ data }: BestTimePageProps) {
     })),
   };
 
+  if (locale !== 'nl') return <StaticTravelGuideOwnerEn owner="best-time" />;
   return (
     <>
       <SEOHead
@@ -303,7 +307,9 @@ export default function BestTimePage({ data }: BestTimePageProps) {
               {allCitiesSorted.map((city) => (
                 <Link
                   key={city.slug}
-                  href={`/city/${city.slug}/best-time-to-visit/`}
+                  href={lang === 'nl'
+                    ? normalizeNlInternalHref(`/city/${city.slug}/best-time-to-visit/`)
+                    : normalizeEnInternalHref(`/city/${city.slug}/best-time-to-visit/`)}
                   className="bg-white rounded-xl px-4 py-3 text-sm font-medium text-thailand-blue hover:text-thailand-red hover:shadow-md transition-all text-center border border-gray-100"
                 >
                   {t(city.name, lang)}

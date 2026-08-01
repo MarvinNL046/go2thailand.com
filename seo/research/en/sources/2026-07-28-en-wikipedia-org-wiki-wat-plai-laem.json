@@ -1,0 +1,804 @@
+{
+  "captured_at": "2026-07-28T20:40:33.731Z",
+  "locale": "en",
+  "url": "https://en.wikipedia.org/wiki/Wat_Plai_Laem",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Main menu",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Main page",
+          "url": "https://en.wikipedia.org/wiki/Main_Page",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Main_Page",
+              "anchor_text": "Main page"
+            }
+          ]
+        },
+        {
+          "text": "Current events",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+              "anchor_text": "Current events"
+            }
+          ]
+        },
+        {
+          "text": "Random article",
+          "url": "https://en.wikipedia.org/wiki/Special:Random",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Special:Random",
+              "anchor_text": "Random article"
+            }
+          ]
+        },
+        {
+          "text": "About Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+              "anchor_text": "About Wikipedia"
+            }
+          ]
+        },
+        {
+          "text": "Contact us",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+              "anchor_text": "Contact us"
+            }
+          ]
+        },
+        {
+          "text": "Learn to edit",
+          "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+              "anchor_text": "Learn to edit"
+            }
+          ]
+        },
+        {
+          "text": "Community portal",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+              "anchor_text": "Community portal"
+            }
+          ]
+        },
+        {
+          "text": "Recent changes",
+          "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+              "anchor_text": "Recent changes"
+            }
+          ]
+        },
+        {
+          "text": "Upload file",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+              "anchor_text": "Upload file"
+            }
+          ]
+        },
+        {
+          "text": "Special pages",
+          "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+              "anchor_text": "Special pages"
+            }
+          ]
+        },
+        {
+          "text": "Create account",
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wat+Plai+Laem",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wat+Plai+Laem",
+              "anchor_text": "Create account"
+            }
+          ]
+        },
+        {
+          "text": "Log in",
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Wat+Plai+Laem",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Wat+Plai+Laem",
+              "anchor_text": "Log in"
+            }
+          ]
+        },
+        {
+          "text": "Create account",
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wat+Plai+Laem",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wat+Plai+Laem",
+              "anchor_text": "Create account"
+            }
+          ]
+        },
+        {
+          "text": "Log in",
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Wat+Plai+Laem",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Wat+Plai+Laem",
+              "anchor_text": "Log in"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "This page was last edited on 28 October 2025, at 09:14 (UTC).",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Page was rendered with Parsoid.",
+          "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+          "urls": [
+            {
+              "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+              "anchor_text": "Parsoid"
+            }
+          ]
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;\nadditional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+              "anchor_text": "Creative Commons Attribution-ShareAlike 4.0 License"
+            },
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+              "anchor_text": "Terms of Use"
+            },
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+              "anchor_text": "Privacy Policy"
+            },
+            {
+              "url": "https://wikimediafoundation.org/",
+              "anchor_text": "Wikimedia Foundation, Inc."
+            }
+          ]
+        },
+        {
+          "text": "Privacy policy",
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+          "urls": [
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+              "anchor_text": "Privacy policy"
+            }
+          ]
+        },
+        {
+          "text": "About Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+              "anchor_text": "About Wikipedia"
+            }
+          ]
+        },
+        {
+          "text": "Contact Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+              "anchor_text": "Contact Wikipedia"
+            }
+          ]
+        },
+        {
+          "text": "Legal & safety contacts",
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+          "urls": [
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+              "anchor_text": "Legal & safety contacts"
+            }
+          ]
+        },
+        {
+          "text": "Code of Conduct",
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+          "urls": [
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+              "anchor_text": "Code of Conduct"
+            }
+          ]
+        },
+        {
+          "text": "Cookie statement",
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+          "urls": [
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+              "anchor_text": "Cookie statement"
+            }
+          ]
+        },
+        {
+          "text": "Mobile view",
+          "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&mobileaction=toggle_view_mobile",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&mobileaction=toggle_view_mobile",
+              "anchor_text": "Mobile view"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Wat Plai Laem",
+        "main_title": "Wat Plai Laem",
+        "author": "Contributors to Wikimedia projects",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "From Wikipedia, the free encyclopedia",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wat Plai Laem ( Thai : วัดปลายแหลม ) is a wat on the resort island of Ko Samui, Thailand. Like the nearby Wat Phra Yai or \"Big Buddha Temple\", it is a modern Buddhist temple. The temple's design incorporates elements of Chinese and Thai traditions and was in part designed by distinguished Thai artist Jarit Phumdonming. Its main statue, which is in Chinese style, is not of Gautama Buddha. It is a form of the bodhisattva of compassion and mercy, Avalokiteśvara, called Cundi. This form of the deity is known in Chinese as \" Guanyin with eighteen arms\".",
+            "url": "https://en.wikipedia.org/wiki/Thai_language",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Thai_language",
+                "anchor_text": "Thai"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Wat",
+                "anchor_text": "wat"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Ko_Samui",
+                "anchor_text": "Ko Samui"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Thailand",
+                "anchor_text": "Thailand"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Wat_Phra_Yai",
+                "anchor_text": "Wat Phra Yai"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Buddhist_temple",
+                "anchor_text": "Buddhist temple"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Thai_art",
+                "anchor_text": "Thai artist"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+                "anchor_text": "Gautama Buddha"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Bodhisattva",
+                "anchor_text": "bodhisattva"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Avalokite%C5%9Bvara",
+                "anchor_text": "Avalokiteśvara"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Cundi_(Buddhism)",
+                "anchor_text": "Cundi"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Guanyin",
+                "anchor_text": "Guanyin"
+              }
+            ]
+          },
+          {
+            "text": "In addition to the main statue, there is also a white statue of Budai and smaller shrines dedicated to Ganesha, Vishnu, Shiva and Sakka. [ 1 ] [ 2 ]",
+            "url": "https://en.wikipedia.org/wiki/Budai",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Budai",
+                "anchor_text": "Budai"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Ganesha",
+                "anchor_text": "Ganesha"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Vishnu",
+                "anchor_text": "Vishnu"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Shiva",
+                "anchor_text": "Shiva"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/%C5%9Aakra_(Buddhism)",
+                "anchor_text": "Sakka"
+              }
+            ]
+          },
+          {
+            "text": "Although it is an open-air image, it is located within an elaborate ubosot on a platform-pavilion surrounded by a temple lake.",
+            "url": "https://en.wikipedia.org/wiki/Ubosot",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Ubosot",
+                "anchor_text": "ubosot"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "View history",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&action=history",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&action=history",
+                "anchor_text": "View history"
+              }
+            ]
+          },
+          {
+            "text": "View history",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&action=history",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&action=history",
+                "anchor_text": "View history"
+              }
+            ]
+          },
+          {
+            "text": "What links here",
+            "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Wat_Plai_Laem",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Wat_Plai_Laem",
+                "anchor_text": "What links here"
+              }
+            ]
+          },
+          {
+            "text": "Related changes",
+            "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Wat_Plai_Laem",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Wat_Plai_Laem",
+                "anchor_text": "Related changes"
+              }
+            ]
+          },
+          {
+            "text": "Upload file",
+            "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+                "anchor_text": "Upload file"
+              }
+            ]
+          },
+          {
+            "text": "Permanent link",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&oldid=1319188960",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&oldid=1319188960",
+                "anchor_text": "Permanent link"
+              }
+            ]
+          },
+          {
+            "text": "Page information",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&action=info",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&action=info",
+                "anchor_text": "Page information"
+              }
+            ]
+          },
+          {
+            "text": "Cite this page",
+            "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Wat_Plai_Laem&id=1319188960&wpFormIdentifier=titleform",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Wat_Plai_Laem&id=1319188960&wpFormIdentifier=titleform",
+                "anchor_text": "Cite this page"
+              }
+            ]
+          },
+          {
+            "text": "Get shortened URL",
+            "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWat_Plai_Laem",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWat_Plai_Laem",
+                "anchor_text": "Get shortened URL"
+              }
+            ]
+          },
+          {
+            "text": "Switch to legacy parser",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&useparsoid=0",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&useparsoid=0",
+                "anchor_text": "Switch to legacy parser"
+              }
+            ]
+          },
+          {
+            "text": "Download as PDF",
+            "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Wat_Plai_Laem&action=show-download-screen",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Wat_Plai_Laem&action=show-download-screen",
+                "anchor_text": "Download as PDF"
+              }
+            ]
+          },
+          {
+            "text": "Printable version",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&printable=yes",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&printable=yes",
+                "anchor_text": "Printable version"
+              }
+            ]
+          },
+          {
+            "text": "In other projects",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/Category:Wat_Plai_Laem,_Ko_Samui,_Surat_Thani",
+            "urls": [
+              {
+                "url": "https://commons.wikimedia.org/wiki/Category:Wat_Plai_Laem,_Ko_Samui,_Surat_Thani",
+                "anchor_text": "Wikimedia Commons"
+              }
+            ]
+          },
+          {
+            "text": "Wikidata item",
+            "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q15980279",
+            "urls": [
+              {
+                "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q15980279",
+                "anchor_text": "Wikidata item"
+              }
+            ]
+          },
+          {
+            "text": "Tourist attractions in Surat Thani province",
+            "url": "https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Surat_Thani_province",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Tourist_attractions_in_Surat_Thani_province",
+                "anchor_text": "Tourist attractions in Surat Thani province"
+              }
+            ]
+          },
+          {
+            "text": "Buddhist temples in Surat Thani province",
+            "url": "https://en.wikipedia.org/wiki/Category:Buddhist_temples_in_Surat_Thani_province",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Buddhist_temples_in_Surat_Thani_province",
+                "anchor_text": "Buddhist temples in Surat Thani province"
+              }
+            ]
+          },
+          {
+            "text": "Thai Buddhist temple stubs",
+            "url": "https://en.wikipedia.org/wiki/Category:Thai_Buddhist_temple_stubs",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Thai_Buddhist_temple_stubs",
+                "anchor_text": "Thai Buddhist temple stubs"
+              }
+            ]
+          },
+          {
+            "text": "Articles with short description",
+            "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+                "anchor_text": "Articles with short description"
+              }
+            ]
+          },
+          {
+            "text": "Short description is different from Wikidata",
+            "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+                "anchor_text": "Short description is different from Wikidata"
+              }
+            ]
+          },
+          {
+            "text": "Use dmy dates from July 2019",
+            "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_July_2019",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_July_2019",
+                "anchor_text": "Use dmy dates from July 2019"
+              }
+            ]
+          },
+          {
+            "text": "Articles containing Thai-language text",
+            "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text",
+                "anchor_text": "Articles containing Thai-language text"
+              }
+            ]
+          },
+          {
+            "text": "Pages using gadget WikiMiniAtlas",
+            "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+                "anchor_text": "Pages using gadget WikiMiniAtlas"
+              }
+            ]
+          },
+          {
+            "text": "Coordinates on Wikidata",
+            "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+                "anchor_text": "Coordinates on Wikidata"
+              }
+            ]
+          },
+          {
+            "text": "All stub articles",
+            "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:All_stub_articles",
+                "anchor_text": "All stub articles"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "References",
+        "main_title": "Wat Plai Laem",
+        "author": "Contributors to Wikimedia projects",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "This article about a Buddhist place of worship in Thailand is a stub. You can help Wikipedia by adding missing information.",
+            "url": "https://en.wikipedia.org/wiki/Buddhist",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Buddhist",
+                "anchor_text": "Buddhist"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Thailand",
+                "anchor_text": "Thailand"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+                "anchor_text": "stub"
+              },
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&action=edit",
+                "anchor_text": "adding missing information"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "↑ \"Wat Plai Laem in Samui\". www.kosamui.com. Asia Web Direct. Retrieved 31 July 2013.",
+            "url": "http://www.kosamui.com/attractions/wat-plai-laem.htm",
+            "urls": [
+              {
+                "url": "http://www.kosamui.com/attractions/wat-plai-laem.htm",
+                "anchor_text": "\"Wat Plai Laem in Samui\""
+              }
+            ]
+          },
+          {
+            "text": "↑ \"Wat Plai Laem\".",
+            "url": "https://www.travelfish.org/sight_profile/thailand/southern_thailand/surat_thani/ko_samui/3025",
+            "urls": [
+              {
+                "url": "https://www.travelfish.org/sight_profile/thailand/southern_thailand/surat_thani/ko_samui/3025",
+                "anchor_text": "\"Wat Plai Laem\""
+              }
+            ]
+          },
+          {
+            "text": "9°34′18″N 100°04′00″E ﻿ / ﻿ 9.5716°N 100.0666°E",
+            "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Plai_Laem&params=9.5716_N_100.0666_E_source:wikidata-and-enwiki-cat-tree_region:TH",
+            "urls": [
+              {
+                "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Plai_Laem&params=9.5716_N_100.0666_E_source:wikidata-and-enwiki-cat-tree_region:TH",
+                "anchor_text": "9°34′18″N 100°04′00″E﻿ / ﻿9.5716°N 100.0666°E﻿ / 9.5716; 100.0666"
+              },
+              {
+                "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Plai_Laem&params=9.5716_N_100.0666_E_source:wikidata-and-enwiki-cat-tree_region:TH",
+                "anchor_text": "100°04′00″E"
+              },
+              {
+                "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Plai_Laem&params=9.5716_N_100.0666_E_source:wikidata-and-enwiki-cat-tree_region:TH",
+                "anchor_text": "﻿ / ﻿"
+              },
+              {
+                "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Plai_Laem&params=9.5716_N_100.0666_E_source:wikidata-and-enwiki-cat-tree_region:TH",
+                "anchor_text": "9.5716°N 100.0666°E"
+              }
+            ]
+          }
+        ],
+        "table_content": [
+          {
+            "header": null,
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/File:Chiang_Mai_Wat_Buppharam_Great_Viharn.JPG",
+                        "anchor_text": ""
+                      }
+                    ],
+                    "is_header": false
+                  },
+                  {
+                    "text": "This article about a Buddhist place of worship in Thailand is a stub. You can help Wikipedia by adding missing information.",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Buddhist",
+                        "anchor_text": "Buddhist"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Thailand",
+                        "anchor_text": "Thailand"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Wikipedia:Stub",
+                        "anchor_text": "stub"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/w/index.php?title=Wat_Plai_Laem&action=edit",
+                        "anchor_text": "adding missing information"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "See also",
+        "main_title": "Wat Plai Laem",
+        "author": "Contributors to Wikimedia projects",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "List of Buddhist temples in Thailand",
+            "url": "https://en.wikipedia.org/wiki/List_of_Buddhist_temples_in_Thailand",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/List_of_Buddhist_temples_in_Thailand",
+                "anchor_text": "List of Buddhist temples in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Wat Phra Yai",
+            "url": "https://en.wikipedia.org/wiki/Wat_Phra_Yai",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Wat_Phra_Yai",
+                "anchor_text": "Wat Phra Yai"
+              }
+            ]
+          },
+          {
+            "text": "Wat Khunaram",
+            "url": "https://en.wikipedia.org/wiki/Wat_Khunaram",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Wat_Khunaram",
+                "anchor_text": "Wat Khunaram"
+              }
+            ]
+          },
+          {
+            "text": "Wat Lamai",
+            "url": "https://en.wikipedia.org/wiki/Wat_Lamai",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Wat_Lamai",
+                "anchor_text": "Wat Lamai"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

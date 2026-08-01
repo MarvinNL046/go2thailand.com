@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-7-days-itineraries",
+  "route": "/nl/blog/thailand-7-days-itineraries/",
+  "cluster": "planning",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Thailand in 7 dagen: 3 haalbare routes | Go2Thailand", "description": "Kies uit drie haalbare routes voor 7 dagen Thailand, met maximaal twee bases en ruimte voor transfers.", "primaryKeyword": "Thailand 7 dagen", "secondaryKeywords": ["Thailand reisroute 7 dagen", "week Thailand", "rondreis Thailand 1 week"], "searchIntent": "informational", "canonicalPath": "/nl/blog/thailand-7-days-itineraries/" },
+  "hero": { "eyebrow": "Minder wisselen, meer beleven", "title": "Thailand in 7 dagen", "accent": "Drie routes die wél haalbaar zijn", "description": "Kies Bangkok plus één richting en behandel iedere binnenlandse verplaatsing als een echte reisdag.", "image": "/images/redesign/editorial/thailand-7-days-itineraries-hero.webp", "imageAlt": "Reisroute door Thailand met Bangkok, noordelijke tempels en een zuidelijke kust", "primaryCta": { "label": "Vergelijk routes", "href": "#routes" }, "secondaryCta": { "label": "Vertrekcheck", "href": "#checklist" } },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Voor zeven dagen kies je het best maximaal twee bases: Bangkok met Chiang Mai, één zuidelijke kustbasis of Centraal-Thailand. Zo gaat je week niet grotendeels op aan transfers.",
+  "blocks": [
+    { "kind": "comparison", "id": "routes", "title": "Welke weekroute past bij jou?", "options": [{ "title": "Bangkok + Chiang Mai", "description": "Voor tempels, markten en Noord-Thaise cultuur met één binnenlandse verplaatsing.", "label": "Stad en noorden" }, { "title": "Bangkok + Krabi of Phuket", "description": "Voor een stadsintroductie en één kustbasis met flexibele strand- of bootdagen.", "label": "Stad en strand" }, { "title": "Bangkok + centraal", "description": "Voor minder afstand en een rustiger combinatie met Ayutthaya of Kanchanaburi.", "label": "Compact" }] },
+    { "kind": "steps", "id": "planning", "title": "Bouw je weekroute", "steps": [{ "title": "Kies twee bases", "description": "Laat een derde regio weg en maak vanuit je bases dagkeuzes." }, { "title": "Tel transfers volledig mee", "description": "Neem uitchecken, vervoer naar station of airport en opnieuw inchecken mee." }, { "title": "Bescherm je vertrek", "description": "Houd de laatste nacht ruim voor je internationale vlucht." }] },
+    { "kind": "checklist", "id": "checklist", "title": "Voor vertrek geregeld", "items": ["Eerste accommodatie en aankomstroute", "Officiële TDAC-instructies gecontroleerd", "Tijdkritische verbinding met actuele voorwaarden", "Plan B voor een weersgevoelige dag", "Geen losse kwetsbare aansluiting voor de terugvlucht"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Is zeven dagen genoeg voor Thailand?", "answer": "Ja, voor één of twee regio's. Niet voor Bangkok, het noorden en meerdere eilanden tegelijk." }, { "question": "Kies ik Krabi of Phuket?", "answer": "Krabi past bij een compactere basis en kalksteenlandschap; Phuket bij meer wijken en voorzieningen." }, { "question": "Moet ik alles vooraf boeken?", "answer": "Leg tijdkritische onderdelen vast en behoud flexibiliteit voor weer en energie." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële planbronnen", "items": [{ "title": "Trip Planner", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner", "checkedAt": "2026-08-01" }, { "title": "D-Ticket", "publisher": "State Railway of Thailand", "url": "https://dticket.railway.co.th/DTicketPublicWeb/home/", "checkedAt": "2026-08-01", "note": "Actuele treinplanning en beschikbaarheid." }, { "title": "TDAC manual", "publisher": "Thailand Immigration Bureau", "url": "https://tdac.immigration.go.th/manual/en/", "checkedAt": "2026-08-01" }] }
+  ]
+}

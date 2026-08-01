@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-07-29T20:08:26.380Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/city/bangkok/",
+  "cost": 0.0126,
+  "rankings": [
+    {
+      "keyword": "bangkok",
+      "position": 105,
+      "volume": 33100,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/bangkok/"
+    },
+    {
+      "keyword": "thailand bangkok",
+      "position": 98,
+      "volume": 720,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/bangkok/"
+    },
+    {
+      "keyword": "tip bangkok",
+      "position": 100,
+      "volume": 140,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/city/bangkok/"
+    },
+    {
+      "keyword": "tips bangkok",
+      "position": 103,
+      "volume": 140,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/city/bangkok/"
+    },
+    {
+      "keyword": "banglamphu",
+      "position": 69,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/bangkok/"
+    }
+  ]
+}

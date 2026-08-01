@@ -1,20 +1,27 @@
 ---
 title: "Michelin Guide Thailand 2026: Sühring Earns Third Star in Historic First"
 date: "2026-03-22"
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 description: "The Michelin Guide Thailand 2026 awards 10 new stars, with Sühring becoming only the second restaurant in Thailand to hold three Michelin stars."
 category: "news"
 tags: ["michelin guide", "bangkok", "restaurants", "fine dining", "street food", "2026"]
 author:
   name: "Go2Thailand Team"
 reading_time: 4
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-michelin-guide-2026-new-stars-suhring-hero.webp"
 draft: false
+sources:
+  - name: "MICHELIN Guide — Thailand 2026 selection"
+    url: "https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-thailand-2026"
+  - name: "MICHELIN Guide — Full list for Thailand 2026"
+    url: "https://guide.michelin.com/ph/en/article/michelin-guide-ceremony/full-list-michelin-stars-michelin-guide-thailand-2026"
+  - name: "Tourism Authority of Thailand — 2026 MICHELIN Guide seminar"
+    url: "https://www.tatnews.org/2026/04/tat-hosts-michelin-guide-seminar-advancing-thai-culinary-tourism/"
 ---
 
 ## Sühring Makes History as Thailand's Second Three-Star Restaurant
 
-The **Michelin Guide Thailand 2026** has been released, and it is the most significant edition yet. German twin chefs Thomas and Mathias Sühring saw their [Bangkok](/city/bangkok/) restaurant **Sühring** elevated to **three Michelin stars** — making it only the second restaurant in Thailand to achieve that distinction, after Le Du received the honour in 2024.
+The **Michelin Guide Thailand 2026** has been released. German twin chefs Thomas and Mathias Sühring saw their [Bangkok](/city/bangkok/) restaurant **Sühring** elevated to **three Michelin stars** — making it Thailand's second three-star restaurant, alongside Sorn, which became the country's first in the 2025 edition.
 
 Sühring first appeared in the inaugural 2018 Thailand edition with one star, earned its second star the following year, and held that rating for seven consecutive years before this historic promotion.
 
@@ -40,13 +47,13 @@ At the one-star level, **Gaggan** — the legendary progressive Indian restauran
 
 ### Street Food Still Thrives
 
-Bangkok remains one of the few cities where Michelin inspectors actively evaluate street food. The legendary **Raan Jay Fai** retains her one Michelin star, continuing to draw food lovers to her famous crab omelette and yellow curry prawns. For a deeper dive into [Bangkok's street food scene](/blog/bangkok-street-food-beginners/), from hawker stalls to night markets, our beginner's guide covers where to start.
+Bangkok remains one of the few cities where Michelin inspectors actively evaluate street food. The guide continues to represent Thailand's mix of formal restaurants and casual dining. Because distinctions and opening details can change between editions, check each venue's live MICHELIN listing and its own channels before making a special journey. For a deeper dive into [Bangkok's street food scene](/blog/best-street-food-markets-bangkok/), from hawker stalls to night markets, our beginner's guide covers where to start.
 
 Most of Bangkok's celebrated street food stalls appear in the **Bib Gourmand** category, which recognises great food at moderate prices. The 13 new Bib Gourmand entries for 2026 show that Thailand's affordable dining scene continues to evolve. The [Banthat Thong Road food street](/blog/banthat-thong-road-bangkok-food-street-guide-2026/) and the [Bangkok Lumpini hawker centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) are both excellent starting points for budget-friendly bites in the capital.
 
 ### What This Means for Visitors
 
-Thailand's growing Michelin presence reflects a dining scene that spans every budget. You can eat a Michelin-recognised plate of pad thai for under 100 baht, then splurge on a three-star tasting menu — sometimes within the same neighbourhood. For background on what makes Thai cuisine so distinctive, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/) and our [what is Thai food guide](/blog/what-is-thai-food-cuisine-guide/).
+Thailand's growing Michelin presence reflects a dining scene that spans a wide range of budgets. Visitors can move from inexpensive MICHELIN-listed local food to multi-course fine dining, sometimes within the same neighbourhood. Menu prices, service charges and availability change, so check the restaurant's current menu before booking. For background on what makes Thai cuisine so distinctive, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/) and our [what is Thai food guide](/travel-guides/thai-cuisine-food-guide/).
 
 For travellers planning a food-focused trip, the 2026 guide covers restaurants in **[Bangkok](/city/bangkok/), [Chiang Mai](/city/chiang-mai/), [Phuket](/city/phuket/), Phang-Nga, [Krabi](/city/krabi/), [Koh Samui](/city/koh-samui/), [Ayutthaya](/city/ayutthaya/), and the Northeastern Isan region**. The geographic spread means great dining is no longer limited to the capital.
 
@@ -54,4 +61,4 @@ If you want to experience the starred restaurants hands-on, consider combining y
 
 Also see: [Thailand's tourism stimulus measures for 2026](/blog/thailand-low-season-tourism-stimulus-tax-breaks-2026/), which include tax incentives for dining and entertainment venues — good news for anyone planning a food trip during the low season.
 
-**Source:** [Michelin Guide — Thailand 2026](https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-thailand-2026)
+**Sources and freshness:** This article reflects the MICHELIN Guide Thailand 2026 edition. Cross-check the [official selection announcement](https://guide.michelin.com/en/article/michelin-guide-ceremony/michelin-guide-thailand-2026), the [official full list](https://guide.michelin.com/ph/en/article/michelin-guide-ceremony/full-list-michelin-stars-michelin-guide-thailand-2026), and the [Tourism Authority of Thailand's industry update](https://www.tatnews.org/2026/04/tat-hosts-michelin-guide-seminar-advancing-thai-culinary-tourism/). Restaurant status, menus, prices and opening hours can change after publication.

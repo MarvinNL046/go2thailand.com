@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-good-travel-certification-41-sustainable-destinations-2026",
+  "route": "/nl/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand Good Travel-keurmerk: zo controleer je het",
+    "description": "Wat zegt het Thailand Good Travel-keurmerk werkelijk? Leer labels onderscheiden en controleer hotels, tours en bestemmingen vóór je boekt.",
+    "primaryKeyword": "Thailand Good Travel keurmerk",
+    "secondaryKeywords": ["duurzaam reizen Thailand", "duurzaamheidskeurmerk Thailand", "Thailand Green Tourism Plan 2030"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/"
+  },
+  "hero": {
+    "eyebrow": "Bewuster kiezen",
+    "title": "Thailand Good Travel",
+    "accent": "Een keurmerk is het begin",
+    "description": "Herken het nationale duurzaamheidsprogramma, controleer wie echt is beoordeeld en kijk verder dan een groen logo.",
+    "image": "/images/redesign/editorial/thailand-good-travel-certification-41-sustainable-destinations-2026-hero.webp",
+    "imageAlt": "Lokale gidsen ontvangen reizigers bij een mangrovegemeenschap in Thailand",
+    "primaryCta": { "label": "Controleer het keurmerk", "href": "#controleren" },
+    "secondaryCta": { "label": "Vergelijk de labels", "href": "#labels" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "learn", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Thailand Good Travel is een nationaal programma voor bestemmingen en toerismebedrijven. De oorspronkelijke claim dat 41 bestemmingen gecertificeerd waren, klopt niet: die 41 sloeg op een gemengde groep deelnemers. Controleer altijd de actuele deelnemerslijst en de precieze categorie.",
+  "blocks": [
+    {
+      "kind": "prose",
+      "id": "betekenis",
+      "title": "Wat het keurmerk wel zegt",
+      "markdown": "Het Department of Tourism lanceerde Thailand Good Travel binnen het Green Tourism Plan 2030. Het programma beoordeelt **bestemmingen, community-based tourism, kleine accommodaties en touroperators**. De criteria kijken naar milieu, samenleving, cultuur en economie. Dat is nuttiger dan een losse duurzaamheidsbelofte, maar het is geen garantie dat iedere activiteit van een deelnemer automatisch impactarm is."
+    },
+    {
+      "kind": "comparison",
+      "id": "labels",
+      "title": "Drie namen die je niet moet verwarren",
+      "options": [
+        { "title": "Thailand Good Travel", "description": "Nationaal programma voor meerdere typen bestemmingen en toerismebedrijven.", "label": "Programma" },
+        { "title": "STGs STAR", "description": "TAT-rating voor ondernemingen die bijdragen aan de Sustainable Tourism Goals.", "label": "Rating" },
+        { "title": "Green Destinations", "description": "Internationaal programma met afzonderlijke awards en certificering voor bestemmingsbeheer.", "label": "Internationale beoordeling" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "controleren",
+      "title": "Zo verifieer je een duurzame claim",
+      "steps": [
+        { "title": "Zoek de officiële vermelding", "description": "Controleer naam, locatie en categorie op de actuele programmasite; een logo op de eigen website is niet genoeg." },
+        { "title": "Bekijk wat is beoordeeld", "description": "Een bestemming, hotel en touroperator hebben een andere scope. Trek geen bredere conclusie dan de beoordeling toelaat." },
+        { "title": "Stel concrete vragen", "description": "Vraag naar afval, water, vervoer, dierenwelzijn, lokale inkoop en hoe bewoners delen in de opbrengst." },
+        { "title": "Controleer opnieuw vóór boeken", "description": "Deelnemerslijsten en statussen kunnen veranderen. Gebruik altijd de nieuwste officiële registratie." }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "correctie",
+      "tone": "warning",
+      "title": "Correctie op de oude kop",
+      "description": "De eerdere tekst noemde 41 gecertificeerde bestemmingen. Openbare stukken beschrijven 41 deelnemers verdeeld over meerdere categorieën; daarom gebruiken we dat aantal niet langer als bestemmingsclaim."
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan een reis met minder impact",
+      "items": [
+        { "title": "Verborgen plekken", "description": "Spreid je route buiten de drukste klassiekers.", "href": "/nl/travel-guides/hidden-gems-off-beaten-path-thailand/" },
+        { "title": "Beste reistijd", "description": "Kies regio en seizoen vóór je vervoer vastlegt.", "href": "/nl/weather/" },
+        { "title": "Ethische olifantenopvang", "description": "Herken ervaringen zonder rijden, shows of gedwongen contact.", "href": "/nl/best-elephant-sanctuaries-in-thailand/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Zijn er 41 gecertificeerde duurzame bestemmingen?", "answer": "Nee, dat is een te brede lezing. Het genoemde totaal omvatte verschillende categorieën, waaronder ondernemingen en community-initiatieven." },
+        { "question": "Is Thailand Good Travel hetzelfde als GSTC-certificering?", "answer": "Nee. Het programma verwijst naar GSTC-criteria en internationale expertise, maar dat maakt niet iedere deelnemer automatisch GSTC-gecertificeerd." },
+        { "question": "Is een gecertificeerd hotel altijd de duurzaamste keuze?", "answer": "Niet automatisch. Het label is een bruikbaar signaal; vergelijk daarnaast locatie, vervoer, watergebruik, lokale inkoop en transparantie." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Gecontroleerde programmabronnen",
+      "items": [
+        { "title": "Thailand Green Tourism Plan 2030", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2025/10/thailand-green-tourism-plan-2030-advances-sustainable-future/", "checkedAt": "2026-08-01" },
+        { "title": "Green Destinations success at ITB Berlin 2026", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/03/ko-lanta-and-chiang-khan-drive-thailands-green-destinations-success-at-itb-berlin-2026/", "checkedAt": "2026-08-01" },
+        { "title": "Thailand Good Travel at ITB Berlin", "publisher": "Green Destinations", "url": "https://www.greendestinations.org/good-travel-event-at-itb-berlin/", "checkedAt": "2026-08-01" }
+      ]
+    }
+  ]
+}

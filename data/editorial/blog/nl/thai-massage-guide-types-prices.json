@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thai-massage-guide-types-prices",
+  "route": "/nl/blog/thai-massage-guide-types-prices/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Thaise massage: soorten, consent en prijscheck | Go2Thailand", "description": "Vergelijk traditionele Thai, olie, voet en kruidenkompres. Controleer aanbieder, actuele prijs, kleding, grenzen en gezondheid vóór je boekt.", "primaryKeyword": "Thaise massage Thailand", "secondaryKeywords": ["Thaise massage soorten", "Thaise massage prijs", "massage etiquette Thailand"], "searchIntent": "commercial-investigation", "canonicalPath": "/nl/blog/thai-massage-guide-types-prices/" },
+  "hero": { "eyebrow": "Wellness met zeggenschap", "title": "Thaise massage kiezen", "accent": "Druk is bespreekbaar", "description": "Kies eerst het type, controleer de aanbieder en spreek kleding, grenzen en relevante gezondheidssituaties vooraf door.", "image": "/images/redesign/editorial/thai-massage-guide-types-prices-hero.webp", "imageAlt": "Professionele Thaise massageruimte met behandelaar en voorbereide mat", "primaryCta": { "label": "Vergelijk de soorten", "href": "#soorten" }, "secondaryCta": { "label": "Veiligheidscheck", "href": "#veiligheid" } },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Traditionele Thaise massage is meestal gekleed en actiever; olie-, voet- en kompresbehandelingen verschillen in bedekking, druk en warmte. Consent blijft tijdens de hele sessie gelden en medische geschiktheid vraagt zo nodig professioneel advies.",
+  "blocks": [
+    { "kind": "comparison", "id": "soorten", "title": "Veelvoorkomende keuzes", "options": [{ "title": "Traditioneel Thai", "description": "Gekleed, zonder olie en vaak met druk plus ondersteunde rek." }, { "title": "Oliemassage", "description": "Meer huidcontact en draping; bespreek bedekking en druk vooraf." }, { "title": "Voetmassage", "description": "Lokale focus; vraag welke technieken en producten worden gebruikt." }, { "title": "Kruidenkompres", "description": "Warmte als aanvulling; samenstelling en temperatuur moeten bespreekbaar zijn." }] },
+    { "kind": "callout", "id": "veiligheid", "tone": "warning", "title": "Massage vervangt geen medische zorg", "description": "Vraag passend medisch advies bij zwangerschap, bloedverdunners, recente operatie of breuk, koorts, ernstige osteoporose of onverklaarde klachten. Stop bij pijn of een onveilig gevoel." },
+    { "kind": "affiliate", "id": "boeken", "provider": "klook", "title": "Vergelijk een concrete sessie", "description": "Controleer vergunning, type, duur, actuele prijs, recente informatie, intake en annulering. Een vermelding is geen medische aanbeveling.", "cta": { "label": "Bekijk actuele opties", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true }, "placement": "thai-massage-live-compare", "disclosure": "Affiliate-link: Go2Thailand kan commissie ontvangen zonder extra kosten voor jou." },
+    { "kind": "sources", "id": "bronnen", "title": "Erfgoed- en gezondheidsbronnen", "items": [{ "title": "Nuad Thai", "publisher": "UNESCO Intangible Cultural Heritage", "url": "https://ich.unesco.org/en/RL/nuad-thai-traditional-thai-massage-01384", "checkedAt": "2026-08-01", "note": "Culturele context; geen bewijs voor een medische behandelingclaim." }, { "title": "Massage Therapy: What You Need To Know", "publisher": "NCCIH", "url": "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know", "checkedAt": "2026-08-01", "note": "Genuanceerde veiligheidsinformatie." }, { "title": "Plan your visit", "publisher": "Wat Pho", "url": "https://watpho.com/index.php/en/contact/plan", "checkedAt": "2026-08-01", "note": "Live menukaart als controlebron, niet als landelijk prijsanker." }] }
+  ]
+}

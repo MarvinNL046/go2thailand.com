@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand travel costs", "rising prices", "middle east crisis", "airfare 2026", "budget travel thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-rising-costs-tourists-middle-east-crisis-2026-hero.webp"
 description: "The Middle East conflict is pushing up fuel, food, and airfare costs across Thailand in 2026. Here's how it affects your travel budget and what you can do about it."
 featured: false
 readingTime: 4
@@ -22,7 +22,7 @@ sources:
     url: "https://www.thailandnews.co/2026/03/rising-fuel-costs-in-thailand-threaten-to-push-grocery-prices-higher/"
 ---
 
-If you are planning a trip to Thailand in 2026, you may have noticed that some costs are creeping up. The ongoing **Middle East conflict** is having a ripple effect across Southeast Asia, and Thailand is not immune. Here is a practical breakdown of what is changing and how to plan around it. For context on how this compares to normal travel costs, see our [Thailand budget guide for 2026](/blog/thailand-budget-2026-daily-costs/).
+If you are planning a trip to Thailand in 2026, you may have noticed that some costs are creeping up. The ongoing **Middle East conflict** is having a ripple effect across Southeast Asia, and Thailand is not immune. Here is a practical breakdown of what is changing and how to plan around it. For context on how this compares to normal travel costs, see our [Thailand budget guide for 2026](/thailand-index/budget/).
 
 ## Airfare: 10–15% Higher Than Last Year
 
@@ -42,7 +42,7 @@ For tourists, this means:
 - **Restaurant meals** may see modest increases of 5–10% at mid-range and upscale venues
 - **Supermarket and convenience store prices** for imported goods are already slightly higher
 
-**What you can do:** Eat where locals eat. Street food and local market stalls absorb cost increases more slowly than tourist-facing restaurants. Thailand's food scene is still one of the best values in Asia — our [Thai street food guide](/blog/thai-street-food-guide-2026/) shows you where to find the best cheap eats in [Bangkok](/blog/bangkok-street-food-beginners/), [Chiang Mai](/city/chiang-mai/food/) and beyond.
+**What you can do:** Eat where locals eat. Street food and local market stalls absorb cost increases more slowly than tourist-facing restaurants. Thailand's food scene is still one of the best values in Asia — our [Thai street food guide](/thailand-street-food/) shows you where to find the best cheap eats in [Bangkok](/blog/best-street-food-markets-bangkok/), [Chiang Mai](/city/chiang-mai/food/) and beyond.
 
 ## Fuel and Transport
 

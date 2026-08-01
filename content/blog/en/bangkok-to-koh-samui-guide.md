@@ -28,7 +28,7 @@ sources:
     url: "https://www.directferries.com/koh_samui_island.htm"
 ---
 
-Getting from **Bangkok to Koh Samui** is one of the most common journeys travelers make in Thailand — and one that comes with more options (and price traps) than you might expect. Whether you want to be lounging on [Chaweng Beach](https://go2-thailand.com/city/koh-samui/attractions/chaweng-beach/) by lunchtime or prefer to save your baht for beachfront cocktails, there is a route that fits your budget and travel style.
+Getting from **Bangkok to Koh Samui** is one of the most common journeys travelers make in Thailand — and one that comes with more options (and price traps) than you might expect. Whether you want to be lounging on [Chaweng Beach](https://go2-thailand.com/city/koh-samui/attractions/) by lunchtime or prefer to save your baht for beachfront cocktails, there is a route that fits your budget and travel style.
 
 This guide breaks down every way to reach Koh Samui from Bangkok in 2026, with real prices, travel times, and practical tips so you can choose the best option for your trip.
 
@@ -82,7 +82,7 @@ Lomprayah offers airport-to-island transfers from Surat Thani Airport for 600 TH
 
 ## Option 2: Bus + Ferry (Budget Choice)
 
-The combined bus and ferry ticket is the classic backpacker route from Bangkok to Koh Samui. It is the cheapest option and requires zero planning beyond booking a single ticket. This same overnight strategy is used by budget travelers heading to [Krabi](https://go2-thailand.com/city/krabi/) or [Phuket](https://go2-thailand.com/islands/phuket/) too.
+The combined bus and ferry ticket is the classic backpacker route from Bangkok to Koh Samui. It is the cheapest option and requires zero planning beyond booking a single ticket. This same overnight strategy is used by budget travelers heading to [Krabi](https://go2-thailand.com/city/krabi/) or [Phuket](https://go2-thailand.com/city/phuket/) too.
 
 ### How It Works
 
@@ -91,7 +91,7 @@ You board an overnight bus in Bangkok, sleep through the long drive south, arriv
 ### Departure Points in Bangkok
 
 - **Southern Bus Terminal (Sai Tai Mai)** — the main government bus station for southbound routes
-- **[Khao San Road](https://go2-thailand.com/city/bangkok/attractions/khao-san-road/)** — several private operators offer direct pickup from this backpacker hub
+- **[Khao San Road](https://go2-thailand.com/city/bangkok/attractions/)** — several private operators offer direct pickup from this backpacker hub
 - **Various pickup points** — companies like Lomprayah offer hotel-area pickups
 
 ### Prices (2026)
@@ -214,7 +214,7 @@ Shared minivans are also available for **100–200 THB** per person to major bea
 
 ### From Ferry Piers
 
-If you arrive at **Nathon pier** (Lomprayah, Seatran) or another pier, you will find songthaew (shared pickup trucks) waiting. Fares are typically **100–200 THB** per person to popular beaches like Chaweng or [Lamai](https://go2-thailand.com/city/koh-samui/attractions/lamai-beach/). Agree on the price before getting in.
+If you arrive at **Nathon pier** (Lomprayah, Seatran) or another pier, you will find songthaew (shared pickup trucks) waiting. Fares are typically **100–200 THB** per person to popular beaches like Chaweng or [Lamai](https://go2-thailand.com/city/koh-samui/attractions/). Agree on the price before getting in.
 
 ### Getting Around the Island
 

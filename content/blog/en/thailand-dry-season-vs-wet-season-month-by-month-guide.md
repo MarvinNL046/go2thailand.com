@@ -35,7 +35,7 @@ Imagine stepping off a plane in Bangkok under a clear blue sky, ready to explore
 | **How do I get there?** | Fly into Suvarnabhumi Airport (BKK) for Bangkok or Phuket International (HKT) for the south; domestic [flights](https://trip.tpo.lv/TmObooZ5?subid=blog) via [Flights To Bangkok](https://go2-thailand.com/flights-to-bangkok/) or [Flights To Chiang Mai](https://go2-thailand.com/flights-to-chiang-mai/) connect easily. |
 | **Is it safe?** | Generally safe year-round, but wet season brings slippery roads and flooding risks in low-lying areas like Bangkok; dry season has higher theft in crowded spots. |
 | **What should I book in advance?** | [Accommodations](https://booking.tpo.lv/2PT1kR82?subid=blog) and flights during dry season peaks (December-February); ferries to islands in wet season to avoid cancellations. |
-| **What to pack?** | Lightweight clothes and sunscreen for dry; rain gear and quick-dry fabrics for wet—check our [Packing List](https://go2-thailand.com/practical-info/packing-list/). |
+| **What to pack?** | Lightweight clothes and sunscreen for dry; rain gear and quick-dry fabrics for wet—check our [Packing List](/travel-gear/). |
 | **Crowd levels?** | Dry season sees peak crowds at beaches like Phuket; wet season offers quieter experiences in Chiang Mai temples. |
 
 ## 1. Understanding Thailand's Climate Basics
@@ -94,34 +94,18 @@ Loi Krathong floats light up Chiang Mai rivers around the full moon. Yi Peng rel
 
 These months define the **Thailand dry season**, with low humidity, 25-32°C (77-90°F) days, and rare rain. It's high season for a reason—perfect for beaches and cities alike. During our December sweeps in Phuket, the clear waters were unbeatable for [snorkeling](https://klook.tpo.lv/7Dt6WApj?subid=blog).
 
-Crowds peak around Christmas and New Year, so advance booking is essential. Explore our [Best Time To Visit travel guide](https://go2-thailand.com/city/phuket/best-time-to-visit/) for island specifics.
+Crowds peak around Christmas and New Year, so advance booking is essential. Use our [Phuket weather-by-month guide](/city/phuket/weather/) for the island-specific rainfall and sea-state decision.
 
 ### Ideal Destinations
 
 Head south to Phuket or Koh Samui for sun-soaked shores; north to Chiang Mai for temples. Our team preferred February's slightly fewer crowds for exploring Ayutthaya ruins without lines.
 
-Phuket's beaches shine here—see [Phuket island guide](https://go2-thailand.com/islands/phuket/).
+Phuket's beaches shine here—see [Phuket island guide](https://go2-thailand.com/city/phuket/).
 
 ### Travel Tips for Peaks
 
 [Book flights and hotels 3-6 months ahead; prices surge 20-50%. Use domestic transport](https://12go.tpo.lv/tNA80urD?subid=blog) like overnight trains to save time.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 | Season | Best For | Cost (per night, mid-range) | Rating |
 |--------|----------|-----------------------------|--------|
@@ -153,22 +137,6 @@ Stay hydrated and visit indoor sites like museums. Northern hills provide relief
 >
 > *Source: [Lonely Planet Thailand Festivals](https://www.lonelyplanet.com/thailand/practical-information/things-to-know/a/nar/8b0e5e5e-0b0a-4e0e-9e0e-0b0e5e5e0b0a/355614)*
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 5. June: Entering the Wet Season Rhythm
 
@@ -180,7 +148,7 @@ Fewer tourists mean better deals, ideal for off-peak exploration. See [Southern 
 
 Focus on indoor cultural spots or covered markets. In Bangkok, we enjoyed riverside dining during light rains.
 
-Link to [Things To Do in Bangkok](https://go2-thailand.com/things-to-do/bangkok/) for wet-weather ideas.
+Link to [Things To Do in Bangkok](https://go2-thailand.com/city/bangkok/attractions/) for wet-weather ideas.
 
 ### Island Hopping Adjustments
 
@@ -210,22 +178,6 @@ Roads may close in floods; avoid low areas. Our team rerouted from southern ferr
 >
 > *Source: [Thailand Blog Weather](https://thailandblog.nl/en/thailand-weather/)*
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 7. October: Wet to Dry Transition
 
@@ -243,22 +195,6 @@ Book [Phuket Tours](https://go2-thailand.com/phuket-tours/) for guided experienc
 
 Accommodations fill as dry nears; reserve islands early. Domestic flights are affordable now.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 8. Comparing Costs and Crowds Across Seasons
 
@@ -292,22 +228,6 @@ Stay connected with eSIM for weather alerts. Safety is solid, but wet roads dema
 
 Don't ignore rain forecasts in wet season; tourist traps like overpriced island tours spike in dry. We may earn a small commission from bookings made through our links, at no extra cost to you. This helps us keep creating free travel guides.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## Frequently Asked Questions
 

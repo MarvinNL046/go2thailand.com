@@ -1,0 +1,849 @@
+{
+  "captured_at": "2026-07-29T21:06:21.326Z",
+  "locale": "nl",
+  "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Koh Samui",
+          "url": "https://thailandmagazine.com/nl/koh-samui/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-samui/",
+              "anchor_text": "Koh Samui"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phangan",
+          "url": "https://thailandmagazine.com/nl/koh-phangan/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-phangan/",
+              "anchor_text": "Koh Phangan"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao",
+          "url": "https://thailandmagazine.com/nl/koh-tao/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-tao/",
+              "anchor_text": "Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phi Phi",
+          "url": "https://thailandmagazine.com/nl/koh-phi-phi/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-phi-phi/",
+              "anchor_text": "Koh Phi Phi"
+            }
+          ]
+        },
+        {
+          "text": "Koh Yao Yai",
+          "url": "https://thailandmagazine.com/nl/koh-yao-yai/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-yao-yai/",
+              "anchor_text": "Koh Yao Yai"
+            }
+          ]
+        },
+        {
+          "text": "Koh Yao Noi",
+          "url": "https://thailandmagazine.com/nl/koh-yao-noi/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-yao-noi/",
+              "anchor_text": "Koh Yao Noi"
+            }
+          ]
+        },
+        {
+          "text": "Koh Lanta",
+          "url": "https://thailandmagazine.com/nl/koh-lanta/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-lanta/",
+              "anchor_text": "Koh Lanta"
+            }
+          ]
+        },
+        {
+          "text": "Koh Larn",
+          "url": "https://thailandmagazine.com/nl/koh-larn/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-larn/",
+              "anchor_text": "Koh Larn"
+            }
+          ]
+        },
+        {
+          "text": "Koh Samet",
+          "url": "https://thailandmagazine.com/nl/koh-samet/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-samet/",
+              "anchor_text": "Koh Samet"
+            }
+          ]
+        },
+        {
+          "text": "Koh Chang",
+          "url": "https://thailandmagazine.com/nl/koh-chang/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-chang/",
+              "anchor_text": "Koh Chang"
+            }
+          ]
+        },
+        {
+          "text": "Koh Kood",
+          "url": "https://thailandmagazine.com/nl/koh-kood/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-kood/",
+              "anchor_text": "Koh Kood"
+            }
+          ]
+        },
+        {
+          "text": "Koh Mak",
+          "url": "https://thailandmagazine.com/nl/koh-mak/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-mak/",
+              "anchor_text": "Koh Mak"
+            }
+          ]
+        },
+        {
+          "text": "Koh Mook",
+          "url": "https://thailandmagazine.com/nl/koh-mook/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-mook/",
+              "anchor_text": "Koh Mook"
+            }
+          ]
+        },
+        {
+          "text": "Koh Kradan",
+          "url": "https://thailandmagazine.com/nl/koh-kradan/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-kradan/",
+              "anchor_text": "Koh Kradan"
+            }
+          ]
+        },
+        {
+          "text": "Koh Ngai",
+          "url": "https://thailandmagazine.com/nl/koh-ngai/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-ngai/",
+              "anchor_text": "Koh Ngai"
+            }
+          ]
+        },
+        {
+          "text": "Koh Libong",
+          "url": "https://thailandmagazine.com/nl/koh-libong/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-libong/",
+              "anchor_text": "Koh Libong"
+            }
+          ]
+        },
+        {
+          "text": "Surin Islands",
+          "url": "https://thailandmagazine.com/nl/surin-islands/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/surin-islands/",
+              "anchor_text": "Surin Islands"
+            }
+          ]
+        },
+        {
+          "text": "Similan Eilanden",
+          "url": "https://thailandmagazine.com/nl/similan-eilanden-tour/meerdaagse-tour-similan-eilanden/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/similan-eilanden-tour/meerdaagse-tour-similan-eilanden/",
+              "anchor_text": "Similan Eilanden"
+            }
+          ]
+        },
+        {
+          "text": "Koh Lipe",
+          "url": "https://thailandmagazine.com/nl/koh-lipe/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-lipe/",
+              "anchor_text": "Koh Lipe"
+            }
+          ]
+        },
+        {
+          "text": "Tarutao National Park",
+          "url": "https://thailandmagazine.com/nl/tarutao-national-park/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/tarutao-national-park/",
+              "anchor_text": "Tarutao National Park"
+            }
+          ]
+        },
+        {
+          "text": "Steden & Dorpen",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Khao Sok",
+          "url": "https://thailandmagazine.com/nl/khao-sok/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/khao-sok/",
+              "anchor_text": "Khao Sok"
+            }
+          ]
+        },
+        {
+          "text": "Chiang Mai",
+          "url": "https://thailandmagazine.com/nl/chiang-mai/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/chiang-mai/",
+              "anchor_text": "Chiang Mai"
+            }
+          ]
+        },
+        {
+          "text": "Chiang Rai",
+          "url": "https://thailandmagazine.com/nl/chiang-rai/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/chiang-rai/",
+              "anchor_text": "Chiang Rai"
+            }
+          ]
+        },
+        {
+          "text": "Mae Hong Son",
+          "url": "https://thailandmagazine.com/nl/mae-hong-son/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/mae-hong-son/",
+              "anchor_text": "Mae Hong Son"
+            }
+          ]
+        },
+        {
+          "text": "Sri Racha",
+          "url": "https://thailandmagazine.com/nl/sri-racha/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/sri-racha/",
+              "anchor_text": "Sri Racha"
+            }
+          ]
+        },
+        {
+          "text": "Khao Lak",
+          "url": "https://thailandmagazine.com/nl/khao-lak/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/khao-lak/",
+              "anchor_text": "Khao Lak"
+            }
+          ]
+        },
+        {
+          "text": "Phang Nga",
+          "url": "https://thailandmagazine.com/nl/phang-nga/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/phang-nga/",
+              "anchor_text": "Phang Nga"
+            }
+          ]
+        },
+        {
+          "text": "Hua Hin",
+          "url": "https://thailandmagazine.com/nl/hua-hin/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/hua-hin/",
+              "anchor_text": "Hua Hin"
+            }
+          ]
+        },
+        {
+          "text": "Rooftop Bars",
+          "url": "https://thailandmagazine.com/nl/bangkok/rooftop-bars/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bangkok/rooftop-bars/",
+              "anchor_text": "Rooftop Bars"
+            }
+          ]
+        },
+        {
+          "text": "Zien & Doen",
+          "url": "https://thailandmagazine.com/nl/bangkok/zien-doen/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bangkok/zien-doen/",
+              "anchor_text": "Zien & Doen"
+            }
+          ]
+        },
+        {
+          "text": "Shopping Malls",
+          "url": "https://thailandmagazine.com/nl/bangkok/shopping-malls/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bangkok/shopping-malls/",
+              "anchor_text": "Shopping Malls"
+            }
+          ]
+        },
+        {
+          "text": "Eten & Drinken",
+          "url": "https://thailandmagazine.com/nl/bangkok/eten-drinken/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bangkok/eten-drinken/",
+              "anchor_text": "Eten & Drinken"
+            }
+          ]
+        },
+        {
+          "text": "15 keer bijzonder en uniek slapen in Thailand",
+          "url": "https://thailandmagazine.com/nl/bijzonder-slapen-in-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/bijzonder-slapen-in-thailand/",
+              "anchor_text": "15 keer bijzonder en uniek slapen in Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Chiang Mai",
+          "url": "https://thailandmagazine.com/nl/chiang-mai/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/chiang-mai/accommodaties/",
+              "anchor_text": "Chiang Mai"
+            }
+          ]
+        },
+        {
+          "text": "Koh Samui",
+          "url": "https://thailandmagazine.com/nl/koh-samui/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-samui/accommodaties/",
+              "anchor_text": "Koh Samui"
+            }
+          ]
+        },
+        {
+          "text": "Koh Tao",
+          "url": "https://thailandmagazine.com/nl/koh-tao/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-tao/accommodaties/",
+              "anchor_text": "Koh Tao"
+            }
+          ]
+        },
+        {
+          "text": "Khao Sok",
+          "url": "https://thailandmagazine.com/nl/khao-sok/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/khao-sok/accommodaties/",
+              "anchor_text": "Khao Sok"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phangan",
+          "url": "https://thailandmagazine.com/nl/koh-phangan/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-phangan/accommodaties/",
+              "anchor_text": "Koh Phangan"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phi Phi",
+          "url": "https://thailandmagazine.com/nl/koh-phi-phi/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-phi-phi/accommodaties/",
+              "anchor_text": "Koh Phi Phi"
+            }
+          ]
+        },
+        {
+          "text": "Koh Lanta",
+          "url": "https://thailandmagazine.com/nl/koh-lanta/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-lanta/accommodaties/",
+              "anchor_text": "Koh Lanta"
+            }
+          ]
+        },
+        {
+          "text": "Koh Lipe",
+          "url": "https://thailandmagazine.com/nl/koh-lipe/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-lipe/accommodaties/",
+              "anchor_text": "Koh Lipe"
+            }
+          ]
+        },
+        {
+          "text": "Koh Chang",
+          "url": "https://thailandmagazine.com/nl/koh-chang/accommodaties/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/koh-chang/accommodaties/",
+              "anchor_text": "Koh Chang"
+            }
+          ]
+        },
+        {
+          "text": "Dagtours per bestemming",
+          "url": "https://thailandmagazine.com/nl/tours-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/tours-thailand/",
+              "anchor_text": "Dagtours per bestemming"
+            }
+          ]
+        },
+        {
+          "text": "Georganiseerde Thailand rondreizen",
+          "url": "https://thailandmagazine.com/nl/georganiseerde-thailand-rondreizen/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/georganiseerde-thailand-rondreizen/",
+              "anchor_text": "Georganiseerde Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Reisroutes Thailand",
+          "url": "https://thailandmagazine.com/nl/reisroutes-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/reisroutes-thailand/",
+              "anchor_text": "Reisroutes Thailand"
+            }
+          ]
+        },
+        {
+          "text": "21 Dagen Thailand Reisroute",
+          "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/21-dagen-thailand-reisroute/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/21-dagen-thailand-reisroute/",
+              "anchor_text": "21 Dagen Thailand Reisroute"
+            }
+          ]
+        },
+        {
+          "text": "Je eigen reis regelen",
+          "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/zelf-reizen-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/zelf-reizen-thailand/",
+              "anchor_text": "Je eigen reis regelen"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Reis Checklist",
+          "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/thailand-reis-checklist/",
+              "anchor_text": "Thailand Reis Checklist"
+            }
+          ]
+        },
+        {
+          "text": "Ontdek de Eilanden",
+          "url": "https://thailandmagazine.com/nl/eilanden/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/eilanden/",
+              "anchor_text": "Ontdek de Eilanden"
+            }
+          ]
+        },
+        {
+          "text": "Weer en Klimaat",
+          "url": "https://thailandmagazine.com/nl/weer-en-klimaat-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/weer-en-klimaat-thailand/",
+              "anchor_text": "Weer en Klimaat"
+            }
+          ]
+        },
+        {
+          "text": "Over ons",
+          "url": "https://thailandmagazine.com/nl/over-ons/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/over-ons/",
+              "anchor_text": "Over ons"
+            }
+          ]
+        },
+        {
+          "text": "Onze reisgidsen",
+          "url": "https://thailandmagazine.com/nl/thailand-reisgidsen/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/thailand-reisgidsen/",
+              "anchor_text": "Onze reisgidsen"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Over ons",
+          "url": "https://thailandmagazine.com/nl/over-ons/",
+          "urls": [
+            {
+              "url": "https://thailandmagazine.com/nl/over-ons/",
+              "anchor_text": "Over ons"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Eten & Drinken, Pattaya",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Pattaya heeft een bruisende food- en drinks-scene met voor ieder wat wils. Van lokale streetfood tot stijlvolle restaurants en sfeervolle skybars – het is er allemaal. Geniet van verse zeevruchten aan het strand, authentieke Thaise gerechten op nachtmarkten of internationale keukens in moderne settings. Wij hebben de beste steak in lange tijd gegeten bij T55 New York Grill, gelegen in het Mövenpick Siam Hotel in Na Jomtien Pattaya. Pattaya combineert smaak, sfeer en prachtige uitzichten tot een onvergetelijke culinaire ervaring aan zee.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "The Oxygen Beachfront Oasis",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Geniet van heerlijke Thaise en internationale gerechten met een prachtig uitzicht op de oceaan bij The Oxygen Beachfront Oasis, Pattaya’s stijlvolle en ontspannen hotspot.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The Oxygen Beachfront Oasis",
+            "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-oxygen-beachfront-oasis/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-oxygen-beachfront-oasis/",
+                "anchor_text": "The Oxygen Beachfront Oasis"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "ORB Café and Meal",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Stijlvol café in Pattaya met Thaise, Japanse en internationale gerechten. Uitstekende service, creatieve drankjes en een gezellige sfeer vlakbij Terminal 21.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "ORB Café and Meal",
+            "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/orb-cafe-and-meal/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/orb-cafe-and-meal/",
+                "anchor_text": "ORB Café and Meal"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Horizon Rooftop Bar & Restaurant",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Geniet van adembenemende zonsondergang, bekroonde cocktails en een luxe sfeer bij Horizon Rooftop Bar & Restaurant in het Hilton Hotel van Pattaya.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Horizon Rooftop Bar & Restaurant",
+            "url": "https://thailandmagazine.com/nl/pattaya/zien-doen/horizon-rooftop-bar-restaurant/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/zien-doen/horizon-rooftop-bar-restaurant/",
+                "anchor_text": "Horizon Rooftop Bar & Restaurant"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Moonwhale",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Moonwhale Pattaya biedt een prachtig uitzicht vanaf het dak, creatieve cocktails en een levendig menu in het hart van Royal Garden Plaza in Pattaya.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Moonwhale",
+            "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/moonwhale/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/moonwhale/",
+                "anchor_text": "Moonwhale"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Siam at Siam Sky Bar",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Trendy rooftopbar in Pattaya met zwembad, zonsondergang uitzicht, DJ-avonden, cocktails en snacks. Toegangsprijs kan worden gebruikt voor eten en drinken.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Siam at Siam Sky Bar",
+            "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/siam-at-siam-sky-bar/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/siam-at-siam-sky-bar/",
+                "anchor_text": "Siam at Siam Sky Bar"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The Forest by the Sky",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Beleef The Forest by the Sky in Pattaya: junglegeïnspireerd design, prachtige zonsondergang, heerlijk Thais eten en signature cocktails.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The Forest by the Sky",
+            "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-forest-by-the-sky/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-forest-by-the-sky/",
+                "anchor_text": "The Forest by the Sky"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Virgin Rooftop",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Virgin Rooftop Pattaya biedt knusse luxe, panoramisch uitzicht op het strand, neonlichten en een levendige DJ—perfect voor ontspannen avonden boven de stadsdrukte.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Virgin Rooftop",
+            "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/virgin-rooftop/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/virgin-rooftop/",
+                "anchor_text": "Virgin Rooftop"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The Lunar Beach House",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Geniet van prachtige zonsondergangen, heerlijk eten en een ontspannen sfeer bij The Lunar Beach House—Pattaya’s strandbestemming voor lekker eten, drinken en uitzicht.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The Lunar Beach House",
+            "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-lunar-beach-house/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-lunar-beach-house/",
+                "anchor_text": "The Lunar Beach House"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The Sky Gallery",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Geniet van prachtig zeezicht, heerlijk eten en een ontspannen sfeer bij The Sky Gallery Pattaya—perfect voor elke maaltijd, met vriendelijke service en mooie zonsondergangen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The Sky Gallery",
+            "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-sky-gallery/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-sky-gallery/",
+                "anchor_text": "The Sky Gallery"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "The Sky 32",
+        "main_title": "Eten & Drinken, Pattaya",
+        "author": null,
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Geniet van een romantisch diner op het dak bij The Sky 32, Grande Centre Point Pattaya. Gezinsvriendelijk, prachtig uitzicht—geen alcohol, perfecte plek voor zonsondergang.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The Sky 32",
+            "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-sky-32/",
+            "urls": [
+              {
+                "url": "https://thailandmagazine.com/nl/pattaya/eten-drinken/the-sky-32/",
+                "anchor_text": "The Sky 32"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": null,
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

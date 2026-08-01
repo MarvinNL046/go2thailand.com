@@ -1,0 +1,961 @@
+{
+  "captured_at": "2026-07-28T18:43:30.394Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "scuba diving koh tao",
+  "costs": {
+    "suggestions": 0.018,
+    "related": 0.01416,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "scuba diving koh tao",
+    "koh tao scuba diving thailand",
+    "koh tao thailand scuba diving",
+    "scuba diving in koh tao",
+    "koh tao scuba diving",
+    "koh tao scuba diving course",
+    "scuba diving course koh tao",
+    "scuba diving courses koh tao",
+    "koh tao scuba diving price",
+    "koh tao scuba diving prices",
+    "scuba diving in koh tao prices",
+    "scuba diving koh tao price",
+    "best scuba diving in koh tao",
+    "best scuba diving koh tao",
+    "cheapest scuba diving koh tao",
+    "discover scuba diving koh tao",
+    "diving koh tao scuba birds reviews",
+    "koh tao scuba diving certification",
+    "koh tao scuba diving license"
+  ],
+  "keywords": [
+    {
+      "keyword": "koh tao scuba diving thailand",
+      "volume": 880,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao thailand scuba diving",
+      "volume": 880,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving in koh tao",
+      "volume": 880,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving koh tao",
+      "volume": 880,
+      "kd": 22,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "scuba diving thailand koh tao",
+      "volume": 880,
+      "kd": 22,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving",
+      "volume": 210,
+      "kd": 25,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving course",
+      "volume": 210,
+      "kd": 26,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving course koh tao",
+      "volume": 210,
+      "kd": 35,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving courses koh tao",
+      "volume": 210,
+      "kd": 36,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "big blue diving koh tao",
+      "volume": 140,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba club",
+      "volume": 90,
+      "kd": 21,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dpm diving koh tao",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao diving prices",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving price",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving prices",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving in koh tao prices",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving koh tao price",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best scuba diving in koh tao",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best scuba diving koh tao",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "diving koh tao scuba birds padi dive center",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "big blue diving accommodation",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "big blue diving koh tao reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "big blue diving resort",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheapest scuba diving koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "discover scuba diving koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "diving koh tao scuba birds reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao diving package",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba club accommodation",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba club reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving beginners",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving certification",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving for beginners",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving license",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving padi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nava scuba diving koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "one day scuba diving koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving certification koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving course thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "scuba diving courses in koh tao",
+      "volume": 10,
+      "kd": 32,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving in koh tao island thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving koh tao reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving koh tao reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving koh tao tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving license koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving on koh tao",
+      "volume": 10,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "siam scuba diving koh tao",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao divers scuba diving center thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "lbd la bombona diving scuba diving center koh tao thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving koh tao without certification",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "1 day scuba diving koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best dive school koh tao",
+      "volume": null,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best diving school koh tao",
+      "volume": null,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui scuba diving vs koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao best scuba diving",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving death",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving package",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao scuba diving tripadvisor",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving course in koh tao",
+      "volume": null,
+      "kd": 32,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving koh tao august",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "scuba diving koh tao padi",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "try scuba diving koh tao",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.roctopusdive.com",
+      "avgPosition": 2.8,
+      "keywordCount": 3,
+      "visibility": 4.1,
+      "estimatedTraffic": 213.35
+    },
+    {
+      "domain": "www.kohtaoscubaclub.com",
+      "avgPosition": 8.4,
+      "keywordCount": 3,
+      "visibility": 1.8500000000000003,
+      "estimatedTraffic": 64.14
+    },
+    {
+      "domain": "www.scubabirds.com",
+      "avgPosition": 17.5,
+      "keywordCount": 3,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 23.415
+    },
+    {
+      "domain": "www.bigbluediving.com",
+      "avgPosition": 2.3333333333333335,
+      "keywordCount": 3,
+      "visibility": 2.6,
+      "estimatedTraffic": 197.013
+    },
+    {
+      "domain": "www.blackturtledive.com",
+      "avgPosition": 5,
+      "keywordCount": 3,
+      "visibility": 1.8,
+      "estimatedTraffic": 88.27399999999999
+    },
+    {
+      "domain": "www.scubashackkohtao.com",
+      "avgPosition": 6,
+      "keywordCount": 3,
+      "visibility": 1.5,
+      "estimatedTraffic": 39.475
+    },
+    {
+      "domain": "kohtaodivers.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 54.270999999999994
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 8.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 36.358999999999995
+    },
+    {
+      "domain": "goodtimethailand.com",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 15.32
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 13.719999999999999
+    },
+    {
+      "domain": "www.crystaldive.com",
+      "avgPosition": 13,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 8.709
+    },
+    {
+      "domain": "www.midnightblueelephant.com",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.25,
+      "estimatedTraffic": 15.216
+    },
+    {
+      "domain": "stingynomads.com",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.45,
+      "estimatedTraffic": 8.193000000000001
+    },
+    {
+      "domain": "www.saireecottagediving.com",
+      "avgPosition": 18.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.959999999999999
+    },
+    {
+      "domain": "idckohtao.com",
+      "avgPosition": 25.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "divingkohtao.eu",
+      "avgPosition": 27.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.818
+    },
+    {
+      "domain": "www.fiftysixdive.com",
+      "avgPosition": 33,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "www.padi.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 331.35999999999996
+    },
+    {
+      "domain": "simplelifedivers.com",
+      "avgPosition": 34,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.36
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 106.05699999999999
+    },
+    {
+      "domain": "godivingkohtao.com",
+      "avgPosition": 36.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "justynjen.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 7.5649999999999995
+    },
+    {
+      "domain": "echodiverskohtao.com",
+      "avgPosition": 41,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "nitrokohtao.com",
+      "avgPosition": 42.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 43.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "www.scubago.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.495
+    },
+    {
+      "domain": "www.buddhaviewdivecentre.com",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.352
+    },
+    {
+      "domain": "www.puravidatailandia.com",
+      "avgPosition": 49,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 49.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "siamscuba.com",
+      "avgPosition": 27.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.31
+    },
+    {
+      "domain": "lbdivingkohtao.com",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.bansdivingresort.com",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 52,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "kohtaoscubaclub-th.com",
+      "avgPosition": 52,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "www.kohtaocompleteguide.com",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.kohtaotacodiving.com",
+      "avgPosition": 41.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.divepoint-kohtao.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.enterprisediving.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.islandtravelkohtao.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.352
+    },
+    {
+      "domain": "dpmdiving.com",
+      "avgPosition": 62.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.7299999999999995
+    },
+    {
+      "domain": "www.kohtaotecdivers.com",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.thailandroutes.com",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.scubadookohtao.com",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.kohtaodivers.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 34.02
+    },
+    {
+      "domain": "travel.padi.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 34.02
+    },
+    {
+      "domain": "chalokreefdivers.com",
+      "avgPosition": 51.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "divingatkohtao.com",
+      "avgPosition": 57,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    },
+    {
+      "domain": "www.phoenixdiverskohtao.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.176
+    },
+    {
+      "domain": "www.assavadiveresort.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.784
+    },
+    {
+      "domain": "www.deepdivecenterthailand.com",
+      "avgPosition": 58,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.2889999999999997
+    }
+  ]
+}

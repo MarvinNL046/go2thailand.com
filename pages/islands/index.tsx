@@ -6,6 +6,9 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import IslandCard from '../../components/IslandCard';
 import { getAllIslands } from '../../lib/islands';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
+import ThailandIslandsDirectoryNl from '../../components/islands/ThailandIslandsDirectoryNl';
 
 interface Island {
   id: number;
@@ -49,6 +52,8 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
   const [selectedRegion, setSelectedRegion] = useState<string>('all');
+
+  if (isNl) return <ThailandIslandsDirectoryNl islands={islands} />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -240,7 +245,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
                       <td className="px-4 py-3 text-gray-700">{island.region}</td>
                       <td className="px-4 py-3 text-gray-700">{island.highlights.slice(0, 2).join(', ')}</td>
                       <td className="px-4 py-3">
-                        <Link href={`/islands/${island.slug}/`} className="text-thailand-blue hover:underline">
+                        <Link href={isNl ? normalizeNlInternalHref(`/islands/${island.slug}/`) : normalizeEnInternalHref(`/islands/${island.slug}/`)} className="text-thailand-blue hover:underline">
                           {isNl ? 'Lees gids' : 'Read guide'}
                         </Link>
                       </td>

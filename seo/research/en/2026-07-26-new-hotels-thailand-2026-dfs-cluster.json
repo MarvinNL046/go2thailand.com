@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-26T14:09:49.484Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "new hotels thailand 2026",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "new hotels thailand 2026"
+  ],
+  "keywords": [
+    {
+      "keyword": "new hotels thailand 2026",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

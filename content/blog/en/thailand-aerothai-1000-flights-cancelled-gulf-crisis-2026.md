@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["flight cancellations", "gulf crisis", "middle east conflict", "thailand flights", "travel disruptions 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-aerothai-1000-flights-cancelled-gulf-crisis-2026-hero.webp"
 description: "Thailand's air traffic authority AeroThai confirms over 1,000 flight cancellations due to the Gulf crisis, with Suvarnabhumi and Phuket airports hardest hit. What travelers need to know."
 featured: false
 readingTime: 3
@@ -65,4 +65,4 @@ If you are planning a trip to Thailand in the coming weeks:
 
 While long-haul arrivals are declining, Thailand is seeing **stable or growing numbers** from short-haul markets like China, India, Malaysia, and South Korea. This means popular destinations are not emptying out, but the traveler mix is shifting. Budget travelers from regional markets may push demand at mid-range hotels and attractions. See our breakdown of [Thailand pivoting its marketing to short-haul Asian markets](/blog/thailand-pivots-marketing-short-haul-asian-markets-2026/) for more context.
 
-Thailand's tourism authorities are confident the country can weather this disruption — the government's [14 billion baht tourism relief package](/blog/fetta-14-billion-baht-relief-package-thailand-tourism-2026/) is one indicator of that confidence. But for travelers flying via the Middle East, advance planning is essential right now. If you are still firming up your itinerary, our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/) and [budget breakdown](/blog/how-much-2-weeks-thailand-cost-2026-budget/) can help you plan around the disruption.
+Thailand's tourism authorities are confident the country can weather this disruption — the government's [14 billion baht tourism relief package](/blog/fetta-14-billion-baht-relief-package-thailand-tourism-2026/) is one indicator of that confidence. But for travelers flying via the Middle East, advance planning is essential right now. If you are still firming up your itinerary, our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/) and [budget breakdown](/thailand-index/budget/) can help you plan around the disruption.

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["AirAsia", "TAT", "Lisa Blackpink", "free flights Thailand", "flight deals 2026", "domestic flights", "Fly Your Feelings"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/airasia-tat-fly-your-feelings-free-flights-lisa-2026-hero.webp"
 description: "AirAsia partners with the Tourism Authority of Thailand for the Fly Your Feelings campaign, offering 15% off flights to 8 provinces and a chance to win free flights for a year."
 featured: false
 readingTime: 3
@@ -42,4 +42,4 @@ The Fly Your Feelings campaign arrives on top of broader airline cooperation for
 
 If you are already planning to hop between Thai provinces in 2026, this promotion is a no-brainer. Fifteen percent off adds up fast when you are booking multiple legs — say, [Bangkok](/blog/best-day-trips-from-bangkok/) to [Chiang Mai](/city/chiang-mai/), then Chiang Mai to [Krabi](/city/krabi/), then Krabi to [Udon Thani](/city/udon-thani/). The free-flights-for-a-year prize is a long shot, but even without winning, the savings alone make the promo code worth entering at checkout. One of the Lisa-effect highlights is [Udon Thani's Red Lotus Sea](/blog/red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026/), which saw record visitor numbers after her campaign — a perfect example of where these flights can take you.
 
-Download the AirAsia MOVE app, enter **TATXLISA**, and start mapping your route. For help planning which provinces to hit, see our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) or the [Thailand visa guide](/blog/thailand-visa-guide-2026/) if you still need to sort your entry paperwork.
+Download the AirAsia MOVE app, enter **TATXLISA**, and start mapping your route. For help planning which provinces to hit, see our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) or the [Thailand visa guide](/visa/) if you still need to sort your entry paperwork.

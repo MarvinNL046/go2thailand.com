@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "transport"
 tags: ["Thailand flights 2026", "flydubai Thailand", "Norse Atlantic Thailand", "Scoot Chiang Rai", "new flights Bangkok", "Thailand aviation 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai-hero.webp"
 description: "Multiple international carriers are launching new routes to Thailand in 2026, including flydubai, Norse Atlantic Airways and Scoot with direct flights to Chiang Rai."
 featured: false
 readingTime: 3
@@ -22,7 +22,7 @@ sources:
 
 ## Thailand's Aviation Boom
 
-Thailand's Civil Aviation Authority has designated 2026 as the "peak recovery year" for the country's aviation sector. After years of reduced capacity following the pandemic, airlines are now racing to add routes and frequencies to Thai airports. The result is more choice and stronger competition on fares for travellers heading to [Thailand](/thailand-first-time-visitors-essential-guide-2026/).
+Thailand's Civil Aviation Authority has designated 2026 as the "peak recovery year" for the country's aviation sector. After years of reduced capacity following the pandemic, airlines are now racing to add routes and frequencies to Thai airports. The result is more choice and stronger competition on fares for travellers heading to [Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/).
 
 The timing matters: [fare hikes from Thai carriers](/blog/thai-airways-fare-hike-10-15-percent-fuel-costs-2026/) and the broader [Middle East conflict's impact on airfare](/blog/middle-east-conflict-thailand-flights-airfare-2026/) have pushed many travellers to seek alternative carriers and routing options. New entrants help absorb that demand.
 

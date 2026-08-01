@@ -1,0 +1,97 @@
+import type { ThailandSnorkelingGuideData } from '../thailand-types';
+
+export const thailandSnorkelingGuideEn: ThailandSnorkelingGuideData = {
+  pageTitle: 'Snorkeling in Thailand: where & when to go',
+  pageDescription: 'Choose the best Thailand coast and snorkelling base for your month. Compare Koh Tao, Koh Lipe, Phuket, Krabi, the Similan-Surin area and Koh Chang, plus shore, boat and gear decisions.',
+  pageUrl: 'https://go2-thailand.com/best-diving-snorkeling-in-thailand/',
+  dateModified: '2026-07-29',
+  hero: {
+    image: '/images/redesign/thailand-snorkeling-hero.webp',
+    imageAlt: 'Snorkeller above a shallow reef in a calm Thai bay with a longtail boat and limestone islands',
+    eyebrow: 'Choose a coast, not a promise',
+    title: 'Snorkeling',
+    accent: 'in Thailand',
+    subtitle: 'The right coast for your month beats a permanent top ten.',
+    description: 'Thailand has an Andaman coast, northern Gulf and eastern Gulf with different weather rhythms. First match the region to your travel window; then let same-day wind, waves, access and water confidence choose the exact bay or boat.',
+  },
+  quickAnswer: {
+    title: 'Thailand is excellent for snorkelling, but not everywhere at once',
+    description: 'For an Andaman trip, compare Koh Lipe, Phuket and Krabi or the seasonal Similan-Surin boat corridor. Koh Tao offers the broadest shore-and-boat mix in the northern Gulf. Koh Chang and Koh Rang create a different eastern-Gulf route. None is the universal winner: access, sea state and the group matter more than a copied visibility number.',
+    stats: [
+      { label: 'First decision', value: 'Coast + month', icon: 'compass' },
+      { label: 'Second decision', value: 'Shore or boat', icon: 'ship' },
+      { label: 'Final check', value: 'Same morning', icon: 'wind' },
+    ],
+  },
+  coastWindows: [
+    { id: 'andaman', icon: 'sun', name: 'Andaman coast', places: 'Phuket · Krabi · Khao Lak · Koh Lipe', planningWindow: 'Often easiest to plan from November into April', decision: 'Strong for island day trips and a north-to-south choice of bases.', caveat: 'Park access, ferries and sea conditions are live checks. A broad seasonal window is not a sailing guarantee.' },
+    { id: 'northern-gulf', icon: 'waves', name: 'Northern Gulf', places: 'Koh Tao · Koh Samui · Koh Phangan', planningWindow: 'A useful alternative outside the Andaman peak', decision: 'Koh Tao stands out when shore bays and a route-flexible boat day both matter.', caveat: 'Do not copy the Andaman calendar. Monsoon timing and local exposure differ between coasts and bays.' },
+    { id: 'eastern-gulf', icon: 'wind', name: 'Eastern Gulf', places: 'Koh Chang · Koh Rang · Koh Kood', planningWindow: 'Often paired with the drier eastern-Gulf months', decision: 'A separate island route for travellers who do not need Phuket, Krabi or Koh Tao.', caveat: 'The eastern Gulf has its own weather rhythm and longer route commitment. Check boats before locking accommodation.' },
+  ],
+  morningSignals: [
+    { icon: 'wind', title: 'Wind & warnings', check: 'Which side is sheltered, and is there an official marine or local warning?', response: 'Change coast, stop or postpone before trying to rescue a fixed itinerary.' },
+    { icon: 'waves', title: 'Waves & current', check: 'Can every swimmer enter, orientate and return without fighting the water?', response: 'Use a calmer bay, closer guide or flotation; do not swim farther to compensate.' },
+    { icon: 'eye', title: 'Useful visibility', check: 'Has runoff, sand, swell or boat traffic reduced safe orientation?', response: 'Visibility is never guaranteed. Move, shorten the session or choose another day.' },
+    { icon: 'footprints', title: 'Entry & exit', check: 'Is access currently open, and can you leave without standing on reef?', response: 'Confirm land access, tide, pickup and the exit before entering the water.' },
+  ],
+  destinations: [
+    { slug: 'koh-tao', name: 'Koh Tao', region: 'Northern Gulf', access: 'Shore bays + island boats', bestFor: 'The broadest mix of self-paced shore sessions and guided bay switching.', planningWindow: 'Match the northern Gulf to your trip dates', decision: 'Choose when you want several island sides available and can decide bay by bay.', tradeoff: 'Famous bay names do not remove wind, access or boat-lane decisions.', href: '/islands/koh-tao/snorkeling/', image: '/images/redesign/koh-tao-snorkeling-hero.webp', imageAlt: 'Snorkellers in a calm granite bay near Koh Tao' },
+    { slug: 'koh-lipe', name: 'Koh Lipe & Tarutao', region: 'Southern Andaman', access: 'Beach entries + longtail trips', bestFor: 'Combining an island stay with beach access and smaller offshore stops.', planningWindow: 'Plan around the Andaman operating season', decision: 'Choose when a remote island stay is part of the trip, not only a day excursion.', tradeoff: 'The ferry commitment and current park or access rules matter as much as the reef.', href: '/islands/koh-lipe/', image: '/images/redesign/thailand-island-hopping-hero-v2.webp', imageAlt: 'Longtail boat approaching a clear-water island beach in southern Thailand' },
+    { slug: 'similan-surin', name: 'Similan & Surin corridor', region: 'Northern Andaman', access: 'Seasonal boat or liveaboard access', bestFor: 'A boat-led marine-park day from a suitable mainland base such as Khao Lak.', planningWindow: 'Only when current park and operator access align', decision: 'Choose after checking the live DNP status, departure logistics and the group’s boat tolerance.', tradeoff: 'Remote access, a long boat day and changing park rules make this a poor spontaneous beach plan.', href: '/blog/similan-islands-diving-snorkelling-new-rules-2026/', image: '/images/redesign/experience-snorkelling.webp', imageAlt: 'Small boat crossing clear blue water near forested Thai islands' },
+    { slug: 'phuket-racha', name: 'Phuket & Racha', region: 'Central Andaman', access: 'Day boats from a large travel hub', bestFor: 'Travellers who want broad hotel, airport and operator choice around one boat day.', planningWindow: 'Use the Andaman window, then verify the exact departure', decision: 'Choose when easy arrival logistics matter more than sleeping beside the reef.', tradeoff: 'Transfers and group format can dominate the day; compare actual water time, not only stop count.', href: '/city/phuket/attractions/', image: '/images/redesign/phuket-attraction-phang-nga.webp', imageAlt: 'Boat travelling between limestone islands from Phuket' },
+    { slug: 'krabi-phi-phi', name: 'Krabi & Phi Phi', region: 'Central Andaman', access: 'Tour-heavy island routes', bestFor: 'Pairing limestone scenery with one managed snorkelling stop or island circuit.', planningWindow: 'Use the Andaman window and keep the route flexible', decision: 'Choose when the above-water landscape is part of the value and crowds are an accepted trade-off.', tradeoff: 'A longer stop list can mean less calm water time. Ask about group size and rerouting.', href: '/city/krabi/attractions/', image: '/images/redesign/krabi-destination-hero.webp', imageAlt: 'Longtail boats beneath limestone cliffs near Krabi' },
+    { slug: 'koh-chang-rang', name: 'Koh Chang & Koh Rang', region: 'Eastern Gulf', access: 'Island base + boat excursion', bestFor: 'An eastern route with a dedicated island stay and less dependence on southern hubs.', planningWindow: 'Match the eastern-Gulf rhythm to your dates', decision: 'Choose when Trat-side islands already fit the wider Thailand route.', tradeoff: 'Do not add it as a quick detour from the south; transfers and seasonal boats deserve their own plan.', href: '/islands/koh-chang/', image: '/images/redesign/koh-tao-destination-hero.webp', imageAlt: 'Forested Thai island bay with calm sea and a small boat' },
+  ],
+  accessChoices: [
+    { icon: 'footprints', title: 'Snorkel from shore', bestFor: 'One sheltered bay, independent timing and a clear land base.', advantages: ['Fit equipment without boat pressure', 'Stop whenever energy drops', 'Spend time reading one bay'], tradeoff: 'You depend on current land access, a safe entry and one exposed coast. Never turn it into an unsupported swim around a headland.' },
+    { icon: 'ship', title: 'Use a boat or tour', bestFor: 'Switching island sides, adding guidance or reaching protected offshore stops.', advantages: ['Route may move with conditions', 'Several coast options', 'Flotation and guide support'], tradeoff: 'Confirm actual water time, group size, equipment sizes, rerouting policy and how the operator prevents reef or wildlife crowding.' },
+  ],
+  beginnerChecks: [
+    { icon: 'shield', title: 'Water confidence', description: 'Tell the guide honestly about swimming ability. Choose closer supervision and suitable flotation before entering.' },
+    { icon: 'eye', title: 'Mask fit', description: 'Test the seal while dry. A comfortable mask is more useful than an expensive bundle that leaks.' },
+    { icon: 'waves', title: 'Buddy & boundary', description: 'Stay with a buddy, agree the turning point and keep enough energy for the return rather than following a distant group.' },
+    { icon: 'sun', title: 'Heat & recovery', description: 'Build in shade, water and rest. Boat exposure and motion can make a short swim more tiring than expected.' },
+  ],
+  responsibleRules: [
+    { title: 'Float, never stand', description: 'Keep fins, feet and hands away from living reef, including while adjusting equipment.' },
+    { title: 'Leave wildlife a route', description: 'Never chase, feed, touch or form a ring around a turtle, shark or ray.' },
+    { title: 'Choose the operator too', description: 'Avoid tours that sell guaranteed wildlife, feeding or touching as part of the experience.' },
+    { title: 'Check the live rules', description: 'Marine-park access, closures and conduct rules can change; use DNP or the current operator briefing.' },
+  ],
+  gear: [
+    { icon: 'eye', title: 'Mask that actually fits', description: 'Rent or bring one only after checking the seal and comfort. This guide does not recommend an untested snorkel set.' },
+    { icon: 'shield', title: 'Waterproof drybag', description: 'Separates a phone, documents and dry layer from spray during a longtail or tour transfer.', amazonLabel: 'Check the current drybag price at Amazon', amazonSlug: 'earth-pak-dry-bag' },
+    { icon: 'footprints', title: 'Water shoes', description: 'Useful for an appropriate rough or slippery entry; they never make walking on coral acceptable.', amazonLabel: 'Check current water-shoe options at Amazon', amazonSlug: 'simari-water-shoes' },
+    { icon: 'leaf', title: 'Quick-dry towel', description: 'Compact for a boat day and easier to reuse while moving between islands.', amazonLabel: 'Check the current travel-towel price at Amazon', amazonSlug: 'rainleaf-travel-towel' },
+  ],
+  diveBoundary: [
+    { title: 'Snorkelling decision', description: 'Coast, surface conditions, shore or boat access, water confidence and a safe return.' },
+    { title: 'Try-dive decision', description: 'Instructor supervision, medical screening, equipment, depth, current and what the operator includes.' },
+    { title: 'Certification decision', description: 'Training agency, course standards, confined-water practice, instructor ratio and post-dive travel planning.' },
+  ],
+  faqs: [
+    { question: 'Where is the best snorkeling in Thailand?', answer: 'There is no single year-round winner. Koh Tao offers a strong shore-and-boat mix in the northern Gulf; Koh Lipe, Phuket, Krabi and the Similan-Surin corridor suit different Andaman trips; Koh Chang and Koh Rang form an eastern-Gulf alternative. Match the coast to your month, then choose the sheltered place on the day.' },
+    { question: 'What is the best island in Thailand for snorkeling?', answer: 'Koh Tao is often the most practical all-round island because several shores and boat routes can be compared. Koh Lipe can suit travellers who want beach access within a remote island stay. The better choice depends on travel month, route, swimming confidence and whether you prefer shore independence or a guided boat.' },
+    { question: 'What is the best time to go snorkeling in Thailand?', answer: 'Thailand has several coast rhythms rather than one national snorkelling season. The Andaman side is often easiest to plan from November into April, while the northern and eastern Gulf need separate checks. Use those as planning windows only, then verify current warnings, boats, access and sea state.' },
+    { question: 'Can you snorkel from the beach in Thailand?', answer: 'Yes, including at suitable bays on islands such as Koh Tao and Koh Lipe. Beach access does not guarantee a safe entry or unrestricted swimming. Confirm current access, tide, boat lanes, reef position and how every swimmer will exit without standing on coral.' },
+    { question: 'Is snorkeling in Thailand safe for beginners?', answer: 'It can be with calm suitable water, honest swimming assessment, a well-fitting mask, buddy support and appropriate guidance or flotation. Beginners should not enter because a beach looks calm from a distance. The entry, current, visibility, boat traffic and return all need to match the group.' },
+    { question: 'Is snorkeling better in Phuket or Koh Tao?', answer: 'Phuket is the easier major arrival hub and supports many Andaman day boats; Koh Tao offers more island-based shore and boat choices in the northern Gulf. Your travel month and wider route should decide first. Compare actual water time, group size and transfer burden instead of treating either place as permanently clearer.' },
+    { question: 'Is snorkeling better in Krabi or Phuket?', answer: 'Krabi puts limestone scenery and island circuits at the centre of the day; Phuket offers a larger transport and operator hub for routes including the Racha area. Both depend on Andaman conditions. Choose by departure logistics, route flexibility, group format and time in the water, not by a universal ranking.' },
+    { question: 'Do I need to book a snorkeling tour in Thailand?', answer: 'Not always. A managed shore bay can suit confident swimmers when access and conditions are clear. A boat or guided tour helps when several coasts are needed, the site is offshore, water confidence is limited or local navigation matters. Ask what changes when the planned stop is unsuitable.' },
+    { question: 'What should I bring for snorkeling in Thailand?', answer: 'Prioritise a well-fitting mask, suitable flotation or fins, sun protection based on current local rules, drinking water and a dry layer. A drybag, water shoes for an appropriate shore entry and a quick-dry towel can be useful, but product ownership never replaces local condition checks or supervision.' },
+    { question: 'Is it safe to snorkel alone in Thailand?', answer: 'Solo snorkelling removes immediate help when equipment, current, cramp, fatigue or boat traffic becomes a problem. Use a buddy or guided arrangement, tell someone the plan and keep the route within the least-confident swimmer’s ability. Do not use online visibility claims as a safety assessment.' },
+  ],
+  relatedGuides: [
+    { title: 'Koh Tao snorkelling', description: 'Compare named bays using wind, entry, access and shore-versus-boat trade-offs.', href: '/islands/koh-tao/snorkeling/', image: '/images/redesign/koh-tao-snorkeling-hero.webp', imageAlt: 'Snorkellers in a calm bay on Koh Tao' },
+    { title: 'Thailand island hopping', description: 'Build a route that respects ferry links instead of collecting islands on a map.', href: '/thailand-islands/', image: '/images/redesign/thailand-island-hopping-hero-v2.webp', imageAlt: 'Longtail boat between tropical Thai islands' },
+    { title: 'Thailand weather', description: 'Choose a coast and keep enough flexibility for the day that actually arrives.', href: '/weather/', image: '/images/redesign/thailand-weather-hub-hero.webp', imageAlt: 'Changing weather above a Thai tropical bay' },
+  ],
+  sources: [
+    { title: 'National park news and current access', creator: 'Department of National Parks Thailand', url: 'https://www.dnp.go.th/', note: 'Primary source for live marine-park announcements and rules. We do not preserve a closure calendar as a permanent promise.' },
+    { title: 'Marine and coastal resources', creator: 'Department of Marine and Coastal Resources', url: 'https://www.dmcr.go.th/', note: 'Primary environmental source for current coastal notices and responsible marine conduct.' },
+    { title: 'Ko Tao destination profile', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361', note: 'First-party destination context for the northern-Gulf island and its water-based travel appeal.' },
+    { title: 'Snorkeling in Thailand', creator: 'PADI Travel', url: 'https://travel.padi.com/s/snorkeling/thailand/', note: 'Industry source used to separate snorkelling inventory from scuba-training decisions; no wildlife, price or condition promise was adopted.' },
+    { title: 'Best places to snorkel in Thailand', creator: 'Heather on her travels', url: 'https://www.heatheronhertravels.com/best-places-to-snorkel-thailand/', note: 'Current competitor parse used to test destination and logistics coverage. Rankings and personal experience remain attributed and were not copied.' },
+    { title: 'Snorkeling Thailand destination guide', creator: 'Snorkeling Report', url: 'https://www.snorkeling-report.com/destination/snorkeling-thailand/', note: 'Current competitor parse used to test regional completeness and shore-access expectations; fixed visibility and wildlife claims were excluded.' },
+  ],
+};

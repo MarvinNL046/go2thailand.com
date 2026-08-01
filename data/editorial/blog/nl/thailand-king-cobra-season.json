@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-king-cobra-season",
+  "route": "/nl/blog/thailand-king-cobra-season/",
+  "cluster": "planning",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koningscobra's in Thailand: veilig handelen | Go2Thailand",
+    "description": "Is er een koningscobra-seizoen in Thailand? Lees hoe je een ontmoeting voorkomt en wat je bij een mogelijke slangenbeet doet.",
+    "primaryKeyword": "koningscobra Thailand",
+    "secondaryKeywords": ["slangen Thailand", "koningscobra seizoen", "slangenbeet Thailand"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-king-cobra-season/"
+  },
+  "hero": {
+    "eyebrow": "Wildlife met respect",
+    "title": "Koningscobra's in Thailand",
+    "accent": "Afstand is je beste keuze",
+    "description": "Er is geen betrouwbare landelijke cobra-kalender. Bereid je voor op veilig gedrag, niet op een gegarandeerde ontmoeting.",
+    "image": "/images/redesign/editorial/thailand-king-cobra-season-hero.webp",
+    "imageAlt": "Koningscobra in een groen Thais leefgebied, vanaf veilige afstand gefotografeerd",
+    "primaryCta": { "label": "Wat te doen", "href": "#ontmoeting" },
+    "secondaryCta": { "label": "Eerste hulp", "href": "#slangenbeet" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "learn", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Er bestaat geen officiële, landelijke periode waarin reizigers gegarandeerd koningscobra's zien. Houd afstand, zoek wilde slangen niet op en schakel bij een mogelijke beet onmiddellijk professionele medische hulp in.",
+  "blocks": [
+    { "kind": "callout", "id": "geen-seizoen", "tone": "warning", "title": "Geen gegarandeerd cobra-seizoen", "description": "Activiteit verschilt per leefgebied en lokale omstandigheden. Een maand of tour kan een veilige ontmoeting nooit garanderen." },
+    { "kind": "checklist", "id": "voorkomen", "title": "Verklein de kans op een ontmoeting", "items": ["Blijf op gemarkeerde paden", "Draag gesloten schoenen en gebruik in het donker een lamp", "Steek geen handen in holen, struiken of houtstapels", "Volg aanwijzingen van parkmedewerkers", "Laat wilde dieren altijd een vrije uitweg"] },
+    { "kind": "steps", "id": "ontmoeting", "title": "Wanneer je een slang ziet", "steps": [{ "title": "Stop", "description": "Blijf op ruime afstand en voorkom plotselinge bewegingen." }, { "title": "Ga rustig terug", "description": "Beweeg langs dezelfde veilige route en houd anderen weg." }, { "title": "Waarschuw personeel", "description": "Laat accommodatie- of parkmedewerkers de situatie beoordelen; vang de slang nooit zelf." }] },
+    { "kind": "callout", "id": "slangenbeet", "tone": "warning", "title": "Een mogelijke beet is een medisch spoedgeval", "description": "Houd de persoon stil, immobiliseer het lichaamsdeel en regel direct medische hulp. Niet snijden, uitzuigen, koelen of een strakke tourniquet aanleggen." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Wanneer is het koningscobra-seizoen in Thailand?", "answer": "Daarvoor bestaat geen betrouwbare landelijke maand. Lokale omstandigheden bepalen de activiteit." }, { "question": "Moet ik de slang na een beet vangen?", "answer": "Nee. Breng niemand opnieuw in gevaar en zoek direct medische hulp." }, { "question": "Kan ik veilig slangen fotograferen?", "answer": "Alleen vanaf ruime afstand en zonder het dier te benaderen of te laten bewegen." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Medische en officiële bronnen", "items": [{ "title": "Queen Saovabha Memorial Institute", "publisher": "Thai Red Cross Society", "url": "https://www.saovabha.com/", "checkedAt": "2026-08-01", "note": "Officiële Thaise informatie over slangen en antigif." }, { "title": "Snakebite envenoming strategy", "publisher": "World Health Organization", "url": "https://www.who.int/publications-detail-redirect/9789241515641", "checkedAt": "2026-08-01", "note": "Internationale context voor slangenbeten en zorg." }, { "title": "Basic Emergency Care", "publisher": "WHO en ICRC", "url": "https://hlh.who.int/docs/librariesprovider4/hlh-documents/who-icrc-basic-emergency-care.pdf", "checkedAt": "2026-08-01", "note": "Eerste-hulprichtlijnen bij mogelijke slangenbeet." }] }
+  ]
+}

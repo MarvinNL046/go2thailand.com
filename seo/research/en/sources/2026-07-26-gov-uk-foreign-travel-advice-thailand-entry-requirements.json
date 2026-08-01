@@ -1,0 +1,1011 @@
+{
+  "captured_at": "2026-07-26T16:59:53.923Z",
+  "locale": "en",
+  "url": "https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "We use some essential cookies to make this website work.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We also use cookies set by other sites to help us deliver content from their services.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "You have accepted additional cookies. You can change your cookie settings at any time.",
+          "url": "https://www.gov.uk/help/cookies",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/cookies",
+              "anchor_text": "change your cookie settings"
+            }
+          ]
+        },
+        {
+          "text": "You have rejected additional cookies. You can change your cookie settings at any time.",
+          "url": "https://www.gov.uk/help/cookies",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/cookies",
+              "anchor_text": "change your cookie settings"
+            }
+          ]
+        },
+        {
+          "text": "Departments, agencies and public bodies",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "News stories, speeches, letters and notices",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Detailed guidance, regulations and rules",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Reports, analysis and official statistics",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Data, Freedom of Information releases and corporate reports",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Births, death, marriages and care",
+          "url": "https://www.gov.uk/browse/births-deaths-marriages",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/births-deaths-marriages",
+              "anchor_text": "Births, death, marriages and care"
+            }
+          ]
+        },
+        {
+          "text": "Business and self-employed",
+          "url": "https://www.gov.uk/browse/business",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/business",
+              "anchor_text": "Business and self-employed"
+            }
+          ]
+        },
+        {
+          "text": "Childcare and parenting",
+          "url": "https://www.gov.uk/browse/childcare-parenting",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/childcare-parenting",
+              "anchor_text": "Childcare and parenting"
+            }
+          ]
+        },
+        {
+          "text": "Citizenship and living in the UK",
+          "url": "https://www.gov.uk/browse/citizenship",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/citizenship",
+              "anchor_text": "Citizenship and living in the UK"
+            }
+          ]
+        },
+        {
+          "text": "Crime, justice and the law",
+          "url": "https://www.gov.uk/browse/justice",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/justice",
+              "anchor_text": "Crime, justice and the law"
+            }
+          ]
+        },
+        {
+          "text": "Disabled people",
+          "url": "https://www.gov.uk/browse/disabilities",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/disabilities",
+              "anchor_text": "Disabled people"
+            }
+          ]
+        },
+        {
+          "text": "Driving and transport",
+          "url": "https://www.gov.uk/browse/driving",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/driving",
+              "anchor_text": "Driving and transport"
+            }
+          ]
+        },
+        {
+          "text": "Education and learning",
+          "url": "https://www.gov.uk/browse/education",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/education",
+              "anchor_text": "Education and learning"
+            }
+          ]
+        },
+        {
+          "text": "Employing people",
+          "url": "https://www.gov.uk/browse/employing-people",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/employing-people",
+              "anchor_text": "Employing people"
+            }
+          ]
+        },
+        {
+          "text": "Environment and countryside",
+          "url": "https://www.gov.uk/browse/environment-countryside",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/environment-countryside",
+              "anchor_text": "Environment and countryside"
+            }
+          ]
+        },
+        {
+          "text": "Housing and local services",
+          "url": "https://www.gov.uk/browse/housing-local-services",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/housing-local-services",
+              "anchor_text": "Housing and local services"
+            }
+          ]
+        },
+        {
+          "text": "Money and tax",
+          "url": "https://www.gov.uk/browse/tax",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/tax",
+              "anchor_text": "Money and tax"
+            }
+          ]
+        },
+        {
+          "text": "Passports, travel and living abroad",
+          "url": "https://www.gov.uk/browse/abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad",
+              "anchor_text": "Passports, travel and living abroad"
+            }
+          ]
+        },
+        {
+          "text": "Visas and immigration",
+          "url": "https://www.gov.uk/browse/visas-immigration",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/visas-immigration",
+              "anchor_text": "Visas and immigration"
+            }
+          ]
+        },
+        {
+          "text": "Working, jobs and pensions",
+          "url": "https://www.gov.uk/browse/working",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/working",
+              "anchor_text": "Working, jobs and pensions"
+            }
+          ]
+        },
+        {
+          "text": "Consultations and strategy",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Passports, travel and living abroad",
+          "url": "https://www.gov.uk/browse/abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad",
+              "anchor_text": "Passports, travel and living abroad"
+            }
+          ]
+        },
+        {
+          "text": "Travel abroad",
+          "url": "https://www.gov.uk/browse/abroad/travel-abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad/travel-abroad",
+              "anchor_text": "Travel abroad"
+            }
+          ]
+        },
+        {
+          "text": "Foreign travel advice",
+          "url": "https://www.gov.uk/foreign-travel-advice",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/foreign-travel-advice",
+              "anchor_text": "Foreign travel advice"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Births, death, marriages and care",
+          "url": "https://www.gov.uk/browse/births-deaths-marriages",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/births-deaths-marriages",
+              "anchor_text": "Births, death, marriages and care"
+            }
+          ]
+        },
+        {
+          "text": "Business and self-employed",
+          "url": "https://www.gov.uk/browse/business",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/business",
+              "anchor_text": "Business and self-employed"
+            }
+          ]
+        },
+        {
+          "text": "Childcare and parenting",
+          "url": "https://www.gov.uk/browse/childcare-parenting",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/childcare-parenting",
+              "anchor_text": "Childcare and parenting"
+            }
+          ]
+        },
+        {
+          "text": "Citizenship and living in the UK",
+          "url": "https://www.gov.uk/browse/citizenship",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/citizenship",
+              "anchor_text": "Citizenship and living in the UK"
+            }
+          ]
+        },
+        {
+          "text": "Crime, justice and the law",
+          "url": "https://www.gov.uk/browse/justice",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/justice",
+              "anchor_text": "Crime, justice and the law"
+            }
+          ]
+        },
+        {
+          "text": "Disabled people",
+          "url": "https://www.gov.uk/browse/disabilities",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/disabilities",
+              "anchor_text": "Disabled people"
+            }
+          ]
+        },
+        {
+          "text": "Driving and transport",
+          "url": "https://www.gov.uk/browse/driving",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/driving",
+              "anchor_text": "Driving and transport"
+            }
+          ]
+        },
+        {
+          "text": "Education and learning",
+          "url": "https://www.gov.uk/browse/education",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/education",
+              "anchor_text": "Education and learning"
+            }
+          ]
+        },
+        {
+          "text": "Employing people",
+          "url": "https://www.gov.uk/browse/employing-people",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/employing-people",
+              "anchor_text": "Employing people"
+            }
+          ]
+        },
+        {
+          "text": "Environment and countryside",
+          "url": "https://www.gov.uk/browse/environment-countryside",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/environment-countryside",
+              "anchor_text": "Environment and countryside"
+            }
+          ]
+        },
+        {
+          "text": "Housing and local services",
+          "url": "https://www.gov.uk/browse/housing-local-services",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/housing-local-services",
+              "anchor_text": "Housing and local services"
+            }
+          ]
+        },
+        {
+          "text": "Money and tax",
+          "url": "https://www.gov.uk/browse/tax",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/tax",
+              "anchor_text": "Money and tax"
+            }
+          ]
+        },
+        {
+          "text": "Passports, travel and living abroad",
+          "url": "https://www.gov.uk/browse/abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad",
+              "anchor_text": "Passports, travel and living abroad"
+            }
+          ]
+        },
+        {
+          "text": "Visas and immigration",
+          "url": "https://www.gov.uk/browse/visas-immigration",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/visas-immigration",
+              "anchor_text": "Visas and immigration"
+            }
+          ]
+        },
+        {
+          "text": "Working, jobs and pensions",
+          "url": "https://www.gov.uk/browse/working",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/working",
+              "anchor_text": "Working, jobs and pensions"
+            }
+          ]
+        },
+        {
+          "text": "Guidance and regulation",
+          "url": "https://www.gov.uk/search/guidance-and-regulation",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/search/guidance-and-regulation",
+              "anchor_text": "Guidance and regulation"
+            }
+          ]
+        },
+        {
+          "text": "Research and statistics",
+          "url": "https://www.gov.uk/search/research-and-statistics",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/search/research-and-statistics",
+              "anchor_text": "Research and statistics"
+            }
+          ]
+        },
+        {
+          "text": "Policy papers and consultations",
+          "url": "https://www.gov.uk/search/policy-papers-and-consultations",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/search/policy-papers-and-consultations",
+              "anchor_text": "Policy papers and consultations"
+            }
+          ]
+        },
+        {
+          "text": "How government works",
+          "url": "https://www.gov.uk/government/how-government-works",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/government/how-government-works",
+              "anchor_text": "How government works"
+            }
+          ]
+        },
+        {
+          "text": "Get involved",
+          "url": "https://www.gov.uk/government/get-involved",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/government/get-involved",
+              "anchor_text": "Get involved"
+            }
+          ]
+        },
+        {
+          "text": "Accessibility statement",
+          "url": "https://www.gov.uk/help/accessibility-statement",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/accessibility-statement",
+              "anchor_text": "Accessibility statement"
+            }
+          ]
+        },
+        {
+          "text": "Terms and conditions",
+          "url": "https://www.gov.uk/help/terms-conditions",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/terms-conditions",
+              "anchor_text": "Terms and conditions"
+            }
+          ]
+        },
+        {
+          "text": "Rhestr o Wasanaethau Cymraeg",
+          "url": "https://www.gov.uk/cymraeg",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/cymraeg",
+              "anchor_text": "Rhestr o Wasanaethau Cymraeg"
+            }
+          ]
+        },
+        {
+          "text": "Government Digital Service",
+          "url": "https://www.gov.uk/government/organisations/government-digital-service",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/government/organisations/government-digital-service",
+              "anchor_text": "Government Digital Service"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Entry requirements",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "This information is for people travelling on a full ‘British citizen’ passport from the UK. It is based on the UK government’s understanding of the current rules for the most common types of travel.",
+            "url": "https://www.gov.uk/types-of-british-nationality",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/types-of-british-nationality",
+                "anchor_text": "‘British citizen’ passport"
+              }
+            ]
+          },
+          {
+            "text": "The authorities in Thailand set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the Thai Embassy in the UK.",
+            "url": "https://london.thaiembassy.org/en/index",
+            "urls": [
+              {
+                "url": "https://london.thaiembassy.org/en/index",
+                "anchor_text": "Thai Embassy in the UK"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Passport validity requirements",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "To enter Thailand, your passport must have an ‘expiry date’ at least 6 months after the date you arrive and have at least 1 blank page.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Check with your travel provider that your passport and other travel documents meet requirements. Renew your passport if you need to.",
+            "url": "https://www.gov.uk/renew-adult-passport/renew",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/renew-adult-passport/renew",
+                "anchor_text": "Renew your passport"
+              }
+            ]
+          },
+          {
+            "text": "You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Dual nationals",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "If you’re a dual national, it is best to leave Thailand on the same passport you used to enter – this will avoid problems at immigration.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "When returning to the UK, British citizens must carry a valid British passport or certificate of entitlement. See Dual citizenship.",
+            "url": "https://www.gov.uk/browse/abroad/passports",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/browse/abroad/passports",
+                "anchor_text": "British passport"
+              },
+              {
+                "url": "https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement",
+                "anchor_text": "certificate of entitlement"
+              },
+              {
+                "url": "https://www.gov.uk/dual-citizenship",
+                "anchor_text": "Dual citizenship"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Visa requirements",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "You can visit Thailand for a period of 60 days for the purpose of tourism, business engagements, and urgent or ad-hoc work. This visa category can be extended for another period not exceeding 30 days.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "You can also apply in advance for a multiple-entry visa for up to 60 days.",
+            "url": "https://london.thaiembassy.org/en/page/tourist-multiple-entries-visa",
+            "urls": [
+              {
+                "url": "https://london.thaiembassy.org/en/page/tourist-multiple-entries-visa",
+                "anchor_text": "multiple-entry visa for up to 60 days"
+              }
+            ]
+          },
+          {
+            "text": "For work, study or other reasons, you need a visa before you travel.",
+            "url": "https://www.thaievisa.go.th/",
+            "urls": [
+              {
+                "url": "https://www.thaievisa.go.th/",
+                "anchor_text": "visa before you travel"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Digital Arrival Card",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "From 1 May 2025, all foreign nationals entering Thailand, whether by air, land or sea must complete a digital arrival card online before arrival. Travellers can register for an arrival card within 3 days before they arrive.",
+            "url": "https://tdac.immigration.go.th/",
+            "urls": [
+              {
+                "url": "https://tdac.immigration.go.th/",
+                "anchor_text": "register for an arrival card"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Overstaying your visa",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "If you overstay the period of your visa, you will get a fine of 500 Thai baht a day up to a maximum of 20,000 baht. You risk being:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "deported at your own expense",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "banned from re-entering Thailand for up to 10 years",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Conditions in detention centres can be harsh.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "held in detention",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Vaccine requirements",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "To enter Thailand, you must have a certificate to prove you’ve had a yellow fever vaccination if you’re coming from a country listed as a transmission risk.",
+            "url": "https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission",
+            "urls": [
+              {
+                "url": "https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission",
+                "anchor_text": "country listed as a transmission risk"
+              }
+            ]
+          },
+          {
+            "text": "For full details about medical entry requirements and recommended vaccinations, see TravelHealthPro’s Thailand guide.",
+            "url": "https://travelhealthpro.org.uk/country/221/thailand",
+            "urls": [
+              {
+                "url": "https://travelhealthpro.org.uk/country/221/thailand",
+                "anchor_text": "TravelHealthPro’s Thailand guide"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Taking cigarettes into Thailand",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "It is illegal to take more than 200 cigarettes per person into Thailand. This is enforced at customs on arrival. If you go over the limit, you could be fined 10 times the value. Your cigarettes will likely be confiscated.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Thailand",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Warnings and insurance",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand",
+                "anchor_text": "Warnings and insurance"
+              }
+            ]
+          },
+          {
+            "text": "Entry requirements",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Safety and security",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+                "anchor_text": "Safety and security"
+              }
+            ]
+          },
+          {
+            "text": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/regional-risks",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/regional-risks",
+                "anchor_text": "Regional risks"
+              }
+            ]
+          },
+          {
+            "text": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/getting-help",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/getting-help",
+                "anchor_text": "Getting help"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Subscriptions",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Get email alerts",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/email-signup",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/email-signup",
+                "anchor_text": "Get email alerts"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Ebola",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "As a public health measure, Thailand has introduced health screening for travellers arriving from affected regions. Travellers are subject to a mandatory quarantine or self-isolation period of at least 21 days.",
+            "url": "https://x.com/prdthailand/status/2059480037406191802?s=46",
+            "urls": [
+              {
+                "url": "https://x.com/prdthailand/status/2059480037406191802?s=46",
+                "anchor_text": "Travellers are subject to a mandatory quarantine or self-isolation period of at least 21 days"
+              }
+            ]
+          },
+          {
+            "text": "The World Health Organisation (WHO) has declared this a Public Health Emergency of International Concern.",
+            "url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+            "urls": [
+              {
+                "url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+                "anchor_text": "declared this a Public Health Emergency of International Concern"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Customs rules",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "There are strict rules about goods you can take into or out of Thailand. You must declare anything that may be prohibited or subject to tax or duty.",
+            "url": "https://www.customs.go.th/list_strc_simple_neted.php?ini_content=individual_160503_03_160905_01&lang=en&left_menu=menu_individual_submenu_01_160421_01",
+            "urls": [
+              {
+                "url": "https://www.customs.go.th/list_strc_simple_neted.php?ini_content=individual_160503_03_160905_01&lang=en&left_menu=menu_individual_submenu_01_160421_01",
+                "anchor_text": "goods you can take into or out of Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Related content",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "About Foreign, Commonwealth & Development Office travel advice",
+            "url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                "anchor_text": "About Foreign, Commonwealth & Development Office travel advice"
+              }
+            ]
+          },
+          {
+            "text": "Support for British nationals abroad",
+            "url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                "anchor_text": "Support for British nationals abroad"
+              }
+            ]
+          },
+          {
+            "text": "Foreign travel checklist",
+            "url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                "anchor_text": "Foreign travel checklist"
+              }
+            ]
+          },
+          {
+            "text": "UK help and services in Thailand",
+            "url": "https://www.gov.uk/world/thailand",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/world/thailand",
+                "anchor_text": "UK help and services in Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Entry requirements",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Yes this page is useful",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "No this page is not useful",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thank you for your feedback",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Do not include personal or financial information like your National Insurance number or credit card details.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "To help us improve GOV.UK, we’d like to know more about your visit today. Please fill in this survey (opens in a new tab and requires JavaScript ).",
+            "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+            "urls": [
+              {
+                "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+                "anchor_text": "Please fill in this survey (opens in a new tab and requires JavaScript)"
+              },
+              {
+                "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+                "anchor_text": "and requires JavaScript"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Explore the topic",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Living in Thailand",
+            "url": "https://www.gov.uk/world/living-in-thailand",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/world/living-in-thailand",
+                "anchor_text": "Living in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Travelling to Thailand",
+            "url": "https://www.gov.uk/world/travelling-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/world/travelling-to-thailand",
+                "anchor_text": "Travelling to Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

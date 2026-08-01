@@ -7,6 +7,7 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, TIQETS_GENERIC, KLOOK_GENERIC, TWELVEGO_GENERIC } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import PhuketCarRentalGuideNl, { CarRentalOwner } from '../../components/car-rental/PhuketCarRentalGuideNl';
 
 type SpokeSlug = 'airport' | 'long-term' | 'automatic';
 
@@ -516,6 +517,11 @@ export default function CarRentalSpokePage({ spoke, primaryPartnerUrl, secondary
   // call-site stable in case future SubID logic depends on router state).
   // For these spoke pages we want explicit placement-tagged SubIDs.
   useSubId();
+
+  if (isNl) {
+    return <PhuketCarRentalGuideNl owner={spoke.slug as CarRentalOwner} primaryUrl={primaryPartnerUrl} secondaryUrl={secondaryPartnerUrl} />;
+  }
+
   const placement = `pseo-car-rental-phuket-${spoke.slug}`;
   const heroPrimarySub = `${placement}-hero-primary`;
   const heroSecondarySub = `${placement}-hero-secondary`;
@@ -595,7 +601,7 @@ export default function CarRentalSpokePage({ spoke, primaryPartnerUrl, secondary
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{c.statsTitle}</h2>
@@ -727,7 +733,7 @@ export default function CarRentalSpokePage({ spoke, primaryPartnerUrl, secondary
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{c.methodologyTitle}</h2>
             <p>{c.methodologyBody}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -736,7 +742,9 @@ export default function CarRentalSpokePage({ spoke, primaryPartnerUrl, secondary
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'car-rental', 'phuket-spokes.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = (data.spokes as SpokeMeta[]).map(s => ({ params: { spoke: s.slug } }));
+  const paths = (data.spokes as SpokeMeta[]).flatMap(s =>
+    ['en', 'nl'].map(locale => ({ params: { spoke: s.slug }, locale })),
+  );
   return { paths, fallback: false };
 };
 

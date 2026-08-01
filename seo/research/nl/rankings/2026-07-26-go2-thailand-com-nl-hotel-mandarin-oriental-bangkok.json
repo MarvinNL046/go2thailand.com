@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-07-26T03:13:37.392Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/",
+  "cost": 0.0126,
+  "rankings": [
+    {
+      "keyword": "mandarin oriental bangkok",
+      "position": 57,
+      "volume": 590,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/"
+    },
+    {
+      "keyword": "mandarin oriental hotel bangkok",
+      "position": 59,
+      "volume": 590,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/"
+    },
+    {
+      "keyword": "mandarin bangkok",
+      "position": 64,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/"
+    },
+    {
+      "keyword": "mandarin hotel bangkok",
+      "position": 67,
+      "volume": 110,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/"
+    },
+    {
+      "keyword": "oriental hotel bangkok",
+      "position": 61,
+      "volume": 110,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/hotel/mandarin-oriental-bangkok/"
+    }
+  ]
+}

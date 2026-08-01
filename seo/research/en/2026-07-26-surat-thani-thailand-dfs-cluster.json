@@ -1,0 +1,1411 @@
+{
+  "captured_at": "2026-07-26T23:01:40.096Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "surat thani thailand",
+  "costs": {
+    "suggestions": 0.01788,
+    "related": 0.02028,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "surat thani thailand",
+    "ko samui surat thani thailand",
+    "koh samui surat thani thailand",
+    "koh tao surat thani thailand",
+    "ko pha ngan surat thani thailand",
+    "koh phangan surat thani thailand",
+    "surat thani to koh samui",
+    "surat thani in thailand",
+    "lamai beach surat thani thailand",
+    "ko samui ko samui district surat thani thailand",
+    "surat thani province thailand",
+    "surat thani to bangkok",
+    "hotels in surat thani thailand",
+    "surat thani thailand hotels",
+    "surat thani to krabi",
+    "things to do in surat thani thailand",
+    "surat thani thailand beach",
+    "surat thani thailand weather",
+    "samui ko samui district surat thani thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "ko samui surat thani thailand",
+      "volume": 49500,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui surat thani thailand",
+      "volume": 49500,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh tao surat thani thailand",
+      "volume": 18100,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ko pha ngan surat thani thailand",
+      "volume": 12100,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh phangan surat thani thailand",
+      "volume": 12100,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui weather",
+      "volume": 6600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "anantara lawana koh samui resort koh samui surat thani thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in koh samui",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather december",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather november",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather january",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to koh samui",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather by month",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani in thailand",
+      "volume": 480,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand",
+      "volume": 480,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "lamai beach surat thani thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ko samui ko samui district surat thani thailand",
+      "volume": 210,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui weather 14 days",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani province thailand",
+      "volume": 210,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani to koh samui ferry",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui nightlife chaweng",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to bangkok",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather forecast 30 days",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in surat thani thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui weather 15 days",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand hotels",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to krabi",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in surat thani thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani airport to koh samui",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to bangkok train",
+      "volume": 90,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand weather",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best nightlife in koh samui",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to surat thani thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "samui ko samui district surat thani thailand",
+      "volume": 50,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather bbc",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather december",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand map",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand things to do",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife for singles",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in surat thani thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather by month",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather january",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani night market",
+      "volume": 30,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani nightlife",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand nightlife",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "where is surat thani thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather 14 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui nightlife area",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to koh samui: flight",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to krabi bus",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bars in surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bbc weather surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best bars in koh samui chaweng",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best nightlife in koh samui for singles",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chang wat surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap flights to surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flight from bangkok to surat thani thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "four seasons resort koh samui surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels near surat thani airport",
+      "volume": 10,
+      "kd": 15,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is surat thani safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ko tao ko pha ngan district surat thani thailand",
+      "volume": 10,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather forecast 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather warning",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui nightlife street",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui surat thani 84140 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui surat thani 84320 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "melati beach resort & spa ko samui surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "samui elephant haven koh samui surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sandalwood luxury villas koh samui surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "silavadee resort ko samui district surat thani thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani 84140 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani 84280 thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani bars",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani hospital thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani hotels near ferry",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani in thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani map thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani national park thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani nightlife reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani red light district",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani religion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand to koh samui",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani to bangkok bus",
+      "volume": 10,
+      "kd": 30,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to bangkok bus time",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to bangkok distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to bangkok ferry",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to bangkok flight time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to koh samui distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to koh samui ferry ticket",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to koh samui ferry timetable",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to koh samui speed boat",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to krabi bus timetable",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to krabi distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to krabi ferry",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to krabi flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to krabi taxi",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani to krabi train",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani weather 14 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand sleeper train bangkok to surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vipassana thailand surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in surat thani 10 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where is surat thani airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where is surat thani in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh phangan weather hourly",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "samui ko samui district surat thani thailand weather",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani province thailand hotels",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new heaven dive school koh tao surat thani thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sairee cottage diving surat thani 84360 thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "surat thani girl bars",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "surat thani thailand raft house",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 7,
+      "keywordCount": 11,
+      "visibility": 7.300000000000001,
+      "estimatedTraffic": 8064.164999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 18.916666666666664,
+      "keywordCount": 12,
+      "visibility": 0.9000000000000001,
+      "estimatedTraffic": 407.182
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 6.111111111111111,
+      "keywordCount": 9,
+      "visibility": 5.700000000000001,
+      "estimatedTraffic": 3413.5640000000003
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 8,
+      "keywordCount": 9,
+      "visibility": 3.3500000000000005,
+      "estimatedTraffic": 925.698
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 19.3,
+      "keywordCount": 10,
+      "visibility": 1.15,
+      "estimatedTraffic": 1244.146
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 5.125,
+      "keywordCount": 8,
+      "visibility": 7,
+      "estimatedTraffic": 22535.751000000004
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 27.3,
+      "keywordCount": 10,
+      "visibility": 0.55,
+      "estimatedTraffic": 186.01899999999998
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 7.333333333333333,
+      "keywordCount": 6,
+      "visibility": 2.65,
+      "estimatedTraffic": 370.701
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 11,
+      "keywordCount": 6,
+      "visibility": 3,
+      "estimatedTraffic": 86.786
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 12.833333333333334,
+      "keywordCount": 6,
+      "visibility": 0.55,
+      "estimatedTraffic": 277.065
+    },
+    {
+      "domain": "www.rome2rio.com",
+      "avgPosition": 5,
+      "keywordCount": 5,
+      "visibility": 3,
+      "estimatedTraffic": 4190.2429999999995
+    },
+    {
+      "domain": "www.google.com",
+      "avgPosition": 6.8,
+      "keywordCount": 5,
+      "visibility": 2.45,
+      "estimatedTraffic": 927.0409999999999
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 9,
+      "keywordCount": 5,
+      "visibility": 2,
+      "estimatedTraffic": 217.725
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 29.5,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 240.95299999999995
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 15.8,
+      "keywordCount": 5,
+      "visibility": 1.2,
+      "estimatedTraffic": 574.782
+    },
+    {
+      "domain": "www.suratthaniairporthotels.com",
+      "avgPosition": 16.6,
+      "keywordCount": 5,
+      "visibility": 0.7,
+      "estimatedTraffic": 137.767
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 31,
+      "keywordCount": 6,
+      "visibility": 1.2999999999999998,
+      "estimatedTraffic": 52.964
+    },
+    {
+      "domain": "www.thailandtrains.com",
+      "avgPosition": 7.5,
+      "keywordCount": 4,
+      "visibility": 1.6500000000000001,
+      "estimatedTraffic": 946.5010000000001
+    },
+    {
+      "domain": "maps.apple.com",
+      "avgPosition": 12.75,
+      "keywordCount": 4,
+      "visibility": 0.6500000000000001,
+      "estimatedTraffic": 127.407
+    },
+    {
+      "domain": "bluebaytravel.co.uk",
+      "avgPosition": 17,
+      "keywordCount": 4,
+      "visibility": 2.0999999999999996,
+      "estimatedTraffic": 68.42300000000002
+    },
+    {
+      "domain": "www.thailandholidaygroup.com",
+      "avgPosition": 17,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 33.244
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 45,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 154.79099999999997
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 17.75,
+      "keywordCount": 4,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 43.982000000000006
+    },
+    {
+      "domain": "12go.asia",
+      "avgPosition": 18.75,
+      "keywordCount": 4,
+      "visibility": 2.8,
+      "estimatedTraffic": 290.09
+    },
+    {
+      "domain": "www.busonlineticket.co.th",
+      "avgPosition": 21.25,
+      "keywordCount": 4,
+      "visibility": 0.7000000000000001,
+      "estimatedTraffic": 134.849
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 23.75,
+      "keywordCount": 4,
+      "visibility": 0.25,
+      "estimatedTraffic": 132.513
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 39.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 129.71699999999998
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 25,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 26.330999999999996
+    },
+    {
+      "domain": "www.hotels.com",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 803.7919999999999
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 7,
+      "keywordCount": 3,
+      "visibility": 1.45,
+      "estimatedTraffic": 39.22899999999999
+    },
+    {
+      "domain": "www.kkday.com",
+      "avgPosition": 32.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 153.76899999999998
+    },
+    {
+      "domain": "www.sawadiscovery.com",
+      "avgPosition": 33.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.667
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 13,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 68.91000000000001
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.25,
+      "estimatedTraffic": 4.654
+    },
+    {
+      "domain": "wikitravel.org",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 9.209999999999999
+    },
+    {
+      "domain": "www.vietjetair.com",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.023
+    },
+    {
+      "domain": "www.polarsteps.com",
+      "avgPosition": 18.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.220000000000001
+    },
+    {
+      "domain": "www.krabiprivatetour.com",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.91
+    },
+    {
+      "domain": "www.holidify.com",
+      "avgPosition": 41,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 2.667
+    },
+    {
+      "domain": "www.ohhappybear.com",
+      "avgPosition": 22.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 128.541
+    },
+    {
+      "domain": "www.phuketferry.com",
+      "avgPosition": 25.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 128.905
+    },
+    {
+      "domain": "www.bookaway.com",
+      "avgPosition": 26,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 261.948
+    },
+    {
+      "domain": "www.thaiholidayguide.com",
+      "avgPosition": 44.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 129.213
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 27.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.342
+    },
+    {
+      "domain": "silvias-trips.com",
+      "avgPosition": 28.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 1549.4510000000002
+    },
+    {
+      "domain": "siamtickets.com",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.2409999999999997
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 32.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.directferries.co.uk",
+      "avgPosition": 1.5,
+      "keywordCount": 2,
+      "visibility": 1.9,
+      "estimatedTraffic": 9980.36
+    },
+    {
+      "domain": "guide.planetofhotels.com",
+      "avgPosition": 34.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.121
+    },
+    {
+      "domain": "elephantjunglesanctuary.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 25.234
+    }
+  ]
+}

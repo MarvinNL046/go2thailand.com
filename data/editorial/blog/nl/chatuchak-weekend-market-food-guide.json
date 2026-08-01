@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "chatuchak-weekend-market-food-guide",
+  "route": "/nl/blog/chatuchak-weekend-market-food-guide/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Eten op Chatuchak | Go2Thailand",
+    "description": "Een foodroute door de weekendmarkt met aandacht voor hitte, allergenen, hygiëne en porties die je echt kunt delen.",
+    "primaryKeyword": "chatuchak market eten",
+    "secondaryKeywords": [
+      "chatuchak market eten bezoeken",
+      "chatuchak market eten tips"
+    ],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/chatuchak-weekend-market-food-guide/"
+  },
+  "hero": {
+    "eyebrow": "Specialistische eigenaar",
+    "title": "Eten op Chatuchak",
+    "accent": "Kies vers en veilig",
+    "description": "Een foodroute door de weekendmarkt met aandacht voor hitte, allergenen, hygiëne en porties die je echt kunt delen.",
+    "image": "/images/redesign/editorial/chatuchak-weekend-market-food-guide-hero.webp",
+    "imageAlt": "Vers bereide Thaise gerechten bij een eetkraam op Chatuchak Weekend Market",
+    "primaryCta": {
+      "label": "Plan je bezoek",
+      "href": "#keuzes"
+    },
+    "secondaryCta": {
+      "label": "Actuele checks",
+      "href": "#actueel"
+    }
+  },
+  "layout": {
+    "kind": "food-guide",
+    "foodMode": "market",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Proef kleine porties, kies drukke kramen waar eten zichtbaar vers wordt bereid en vraag bij allergieën expliciet naar ingrediënten.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "keuzes",
+      "eyebrow": "Routekeuze",
+      "title": "Drie ankers voor je bezoek",
+      "cards": [
+        {
+          "title": "Begin hartig",
+          "description": "Maak vooraf één duidelijke keuze en laat actuele informatie leidend zijn.",
+          "label": "Stap 1"
+        },
+        {
+          "title": "Deel porties",
+          "description": "Bouw rust en respect in; een volle checklist maakt de ervaring niet beter.",
+          "label": "Stap 2"
+        },
+        {
+          "title": "Koel en hydrateer",
+          "description": "Koppel alleen een logisch vervolg en vermijd onnodig heen-en-weer reizen.",
+          "label": "Stap 3"
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "actueel",
+      "title": "Controleer vlak voor vertrek",
+      "items": [
+        "Officiële opening of locatie op de bezoekdag",
+        "Kleding, toegang en lokale gedragsregels",
+        "Heen- en terugroute met voldoende marge",
+        "Weer, hitte en persoonlijke belastbaarheid"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Eten op Chatuchak",
+      "items": [
+        {
+          "question": "Hoe plan je Eten op Chatuchak het best?",
+          "answer": "Kies één hoofddoel, controleer officiële bezoekersinformatie en combineer alleen locaties die geografisch logisch bij elkaar liggen."
+        },
+        {
+          "question": "Welke informatie moet je opnieuw controleren?",
+          "answer": "Opening, toegang, vervoer en tijdelijke maatregelen kunnen wijzigen. De gelinkte primaire bron blijft leidend."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire bron voor actuele details",
+      "items": [
+        {
+          "title": "Chatuchak Food specialist owner",
+          "publisher": "Go2Thailand",
+          "url": "https://go2-thailand.com/nl/blog/chatuchak-weekend-market-food-guide/",
+          "checkedAt": "2026-08-01",
+          "note": "Owner- en actualiteitscontrole voor deze route."
+        }
+      ]
+    }
+  ]
+}

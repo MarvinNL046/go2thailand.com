@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-07-29T05:40:43.736Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/phuket/old-town/night-market/",
+  "cost": 0.0126,
+  "rankings": [
+    {
+      "keyword": "phuket old town market",
+      "position": 69,
+      "volume": 260,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/phuket/old-town/night-market/"
+    },
+    {
+      "keyword": "phuket walking street market",
+      "position": 62,
+      "volume": 260,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/phuket/old-town/night-market/"
+    },
+    {
+      "keyword": "old phuket town night market",
+      "position": 60,
+      "volume": 170,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/phuket/old-town/night-market/"
+    },
+    {
+      "keyword": "phuket old town night market",
+      "position": 60,
+      "volume": 170,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/phuket/old-town/night-market/"
+    },
+    {
+      "keyword": "sunday night market phuket",
+      "position": 68,
+      "volume": 50,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/phuket/old-town/night-market/"
+    }
+  ]
+}

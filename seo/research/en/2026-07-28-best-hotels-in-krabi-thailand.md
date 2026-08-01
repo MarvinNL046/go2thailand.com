@@ -1,0 +1,38 @@
+# best hotels in krabi thailand — SERP research
+
+**Date:** 2026-07-28
+**Locale:** en
+**Market:** United Kingdom
+**SERP features:** hotels_pack, organic, people_also_ask, related_searches
+
+## Top organic results
+
+2. [The best hotels in Krabi, Thailand](https://www.cntraveller.com/gallery/best-hotels-in-krabi-thailand) — www.cntraveller.com
+   - 23 Jul 2024 — The best hotels in Krabi, Thailand · Phulay Bay, a Ritz-Carlton Reserve · Banyan Tree Krabi · Rayavadee · Pimalai Resort & Spa. Guests return to ... Read more
+3. [Luxury Thailand away from the crowds: where to stay in Krabi](https://travelnation.co.uk/blog/luxury-thailand-away-from-the-crowds-where-to-stay-in-krabi) — travelnation.co.uk
+   - The Tubkaak Krabi is a great example of what boutique hotels in Thailand are about; situated right on the beach with picturesque views over to Phi Phi Island. Read more
+4. [The best five-star hotels in Krabi Province, Thailand](https://www.booking.com/fivestars/region/th/krabi.en-gb.html) — www.booking.com
+   - Dusit Thani Krabi Beach Resort, Phulay Bay, a Ritz-Carlton Reserve and Rayavadee are some popular five-star hotels in Krabi Province.
+
+## People Also Ask — verbatim
+
+- Which is the best part of Krabi to stay in?
+- Which hotel is best in Krabi area?
+- Where do celebrities stay in Krabi?
+- How many days in Krabi is enough?
+- When to avoid Krabi?
+- Which is nicer, Krabi or Phuket?
+
+## Related searches
+
+- None captured.
+
+## Manual analysis required before drafting
+
+- [ ] Confirm dominant intent and page format.
+- [ ] Read the top three pages fully and record their heading trees.
+- [ ] Record word count per top-three page and set the ±20% target.
+- [ ] Mark topics covered by all three competitors.
+- [ ] Add one or two evidence-backed information-gain angles.
+- [ ] Research and cite every selected PAA answer.
+- [ ] Run locale-specific cannibalisation check.

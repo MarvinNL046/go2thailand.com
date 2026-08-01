@@ -1,0 +1,489 @@
+{
+  "captured_at": "2026-07-24T18:57:29.772Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "mae hong son thailand",
+  "costs": {
+    "suggestions": 0.01284,
+    "related": 0.01272,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "mae hong son thailand",
+    "mae hong son loop thailand",
+    "thailand mae hong son",
+    "mae hong son loop 3 op reis",
+    "mae hong son loop hoeveel dagen",
+    "mae hong son loop nederlands",
+    "mae hong son trekking",
+    "tips thailand mae hong son",
+    "trekking mae hong son thailand",
+    "van pai naar mae hong son"
+  ],
+  "keywords": [
+    {
+      "keyword": "pai mae hong son thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand mae hong son",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mae hong son thailand",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop 3 op reis",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop hoeveel dagen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son loop nederlands",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "mae hong son trekking",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tips thailand mae hong son",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trekking mae hong son thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "van pai naar mae hong son",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "trekking thailand mae hong son",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "rondreis.nl",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 33.44
+    },
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 17.82
+    },
+    {
+      "domain": "tipsthailand.nl",
+      "avgPosition": 3,
+      "keywordCount": 1,
+      "visibility": 0.8,
+      "estimatedTraffic": 10.703
+    },
+    {
+      "domain": "www.sawadee.nl",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 7.249
+    },
+    {
+      "domain": "www.asiadirect.nl",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 5.159
+    },
+    {
+      "domain": "www.mytravelsecret.nl",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 3.7179999999999995
+    },
+    {
+      "domain": "www.azie.nl",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 2.8160000000000003
+    },
+    {
+      "domain": "betterplaces.nl",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 2.167
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.65
+    },
+    {
+      "domain": "www.riksjatravel.nl",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.2429999999999999
+    },
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.0010000000000001
+    },
+    {
+      "domain": "www.tourcompass.nl",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.825
+    },
+    {
+      "domain": "www.27vakantiedagen.nl",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.649
+    },
+    {
+      "domain": "toerisme-thailand.nl",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.616
+    },
+    {
+      "domain": "ikwilmeerreizen.nl",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.561
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.473
+    },
+    {
+      "domain": "www.komoot.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.473
+    },
+    {
+      "domain": "www.pangeatravel.nl",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.363
+    },
+    {
+      "domain": "thailandtravel.nl",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.29700000000000004
+    },
+    {
+      "domain": "www.wearetravellers.nl",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.26399999999999996
+    },
+    {
+      "domain": "www.vamonos.nl",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.253
+    },
+    {
+      "domain": "www.dim-sum.nl",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.24200000000000002
+    },
+    {
+      "domain": "verrassendthailand.nl",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.reis-expert.nl",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.thailandhilltribeholidays.com",
+      "avgPosition": 25,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "nl.wikiloc.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.bnnvara.nl",
+      "avgPosition": 29,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "backpackfever.nl",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.alltrails.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.travelvalley.nl",
+      "avgPosition": 36,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.333travel.nl",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "yvonnereistverder.nl",
+      "avgPosition": 40,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.insightguides.com",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.globehopper.nl",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "jetsettingduo.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.thailandblog.nl",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.backpackcentrale.nl",
+      "avgPosition": 48,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "maehongsonthailand.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.merapi.nl",
+      "avgPosition": 53,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "en.wikivoyage.org",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.thailandtourismus.de",
+      "avgPosition": 55,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "thisremotecorner.com",
+      "avgPosition": 56,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "daymaker.travel",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "live-less-ordinary.com",
+      "avgPosition": 58,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "www.inthailand.travel",
+      "avgPosition": 61,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    },
+    {
+      "domain": "thailandreizenspecialist.nl",
+      "avgPosition": 62,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.23099999999999998
+    }
+  ]
+}

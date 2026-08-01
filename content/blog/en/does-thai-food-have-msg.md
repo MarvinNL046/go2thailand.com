@@ -39,7 +39,7 @@ sources:
 
 Walk through any Thai market and you will see **Ajinomoto** brand MSG on nearly every vendor's seasoning tray, right next to the fish sauce, sugar, and chili flakes. Thai cooks use MSG the same way Western cooks use salt: as a basic flavor enhancer that rounds out a dish.
 
-MSG is added to soups (like **[tom yum](/blog/tom-yum-goong-guide/)** and **tom kha**), stir-fries, fried rice, [curry pastes](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), noodle dishes, and even some dipping sauces. It is not hidden or controversial in Thailand -- it is simply part of the cooking culture. The Thai name **phong chu rot** is used openly and without stigma.
+MSG is added to soups (like **[tom yum](/food/tom-yum-goong/)** and **tom kha**), stir-fries, fried rice, [curry pastes](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), noodle dishes, and even some dipping sauces. It is not hidden or controversial in Thailand -- it is simply part of the cooking culture. The Thai name **phong chu rot** is used openly and without stigma.
 
 That said, not every cook uses it. Higher-end restaurants frequently advertise "no MSG," and health-conscious vendors in cities like [Chiang Mai](/city/chiang-mai/) and [Bangkok](/city/bangkok/) sometimes skip it as well.
 
@@ -71,7 +71,7 @@ That said, a small number of people may be sensitive to large amounts of MSG con
 
 ### How to Ask for No MSG in Thailand
 
-If you prefer to skip MSG, Thai vendors are used to this request -- especially at [Bangkok street food](/blog/bangkok-street-food-beginners/) stalls and [night markets](/blog/best-night-markets-bangkok-2026/). Here is the phrase you need:
+If you prefer to skip MSG, Thai vendors are used to this request -- especially at [Bangkok street food](/blog/best-street-food-markets-bangkok/) stalls and [night markets](/blog/best-night-markets-bangkok-2026/). Here is the phrase you need:
 
 | Thai Script | Pronunciation | Meaning |
 |-------------|---------------|---------|
@@ -85,7 +85,7 @@ This phrase works at street food stalls, restaurants, and food courts. Most cook
 
 ### Natural MSG in Thai Cooking
 
-One reason [Thai food](/blog/what-is-thai-food-cuisine-guide/) tastes so deeply savory is that many traditional ingredients are naturally rich in glutamate -- the same compound found in MSG:
+One reason [Thai food](/travel-guides/thai-cuisine-food-guide/) tastes so deeply savory is that many traditional ingredients are naturally rich in glutamate -- the same compound found in MSG:
 
 - **Nam pla (fish sauce)** -- Fermented fish sauce is packed with natural glutamate. It is the backbone of Thai seasoning and delivers intense umami without adding MSG powder.
 - **Oyster sauce** -- Another glutamate-rich condiment used in stir-fries and sauces.
@@ -93,7 +93,7 @@ One reason [Thai food](/blog/what-is-thai-food-cuisine-guide/) tastes so deeply 
 - **Fermented soybeans (tao jiew)** -- A salty, savory paste used in northern and central Thai cooking.
 - **Mushrooms** -- Shiitake and straw mushrooms contribute natural glutamate, especially in [jay (vegan) cooking](/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/).
 
-Even if a Thai dish is made without added MSG, it is likely still rich in umami from these natural sources. For a full overview of ingredients and seasoning, see our [Thai street food guide](/blog/thai-street-food-guide-2026/).
+Even if a Thai dish is made without added MSG, it is likely still rich in umami from these natural sources. For a full overview of ingredients and seasoning, see our [Thai street food guide](/thailand-street-food/).
 
 ---
 
@@ -124,8 +124,8 @@ No. While MSG is common in street food stalls and local restaurants, many higher
 
 ### Is fish sauce the same as MSG?
 
-Fish sauce is not MSG, but it is naturally rich in **glutamate**, the same amino acid compound found in MSG. This is why [Thai food tastes so deeply savory](/blog/what-makes-thai-food-spicy/) even without added MSG powder. Other glutamate-rich Thai ingredients include oyster sauce, shrimp paste, and fermented soybeans. See also our [som tam regional variations guide](/blog/som-tam-regional-variations-thailand/) for how these flavors differ across Thailand.
+Fish sauce is not MSG, but it is naturally rich in **glutamate**, the same amino acid compound found in MSG. This is why [Thai food tastes so deeply savory](/blog/what-makes-thai-food-spicy/) even without added MSG powder. Other glutamate-rich Thai ingredients include oyster sauce, shrimp paste, and fermented soybeans. See also our [som tam regional variations guide](/food/som-tam/) for how these flavors differ across Thailand.
 
 ### Can you taste MSG in food?
 
-Most people cannot identify MSG as a distinct flavor. It enhances the overall **umami** (savory) quality of a dish rather than adding its own recognizable taste. Foods with MSG tend to taste richer, deeper, and more satisfying, but the effect is subtle and blends with other flavors. If you want to explore the spice and flavor profile of Thai dishes in depth, read [is Thai food spicy](/blog/is-thai-food-spicy-guide/) and our [pad thai street food vs restaurant guide](/blog/pad-thai-street-food-vs-restaurant-homemade/).
+Most people cannot identify MSG as a distinct flavor. It enhances the overall **umami** (savory) quality of a dish rather than adding its own recognizable taste. Foods with MSG tend to taste richer, deeper, and more satisfying, but the effect is subtle and blends with other flavors. If you want to explore the spice and flavor profile of Thai dishes in depth, read [is Thai food spicy](/blog/is-thai-food-spicy-guide/) and our [pad thai street food vs restaurant guide](/food/pad-thai/).

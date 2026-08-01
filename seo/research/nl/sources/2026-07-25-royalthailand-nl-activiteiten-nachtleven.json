@@ -1,0 +1,694 @@
+{
+  "captured_at": "2026-07-25T22:16:15.990Z",
+  "locale": "nl",
+  "url": "https://royalthailand.nl/activiteiten/nachtleven",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Zoek & Boek",
+          "url": "https://royalthailand.nl/aanbiedingen",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/aanbiedingen",
+              "anchor_text": "Zoek & Boek"
+            }
+          ]
+        },
+        {
+          "text": "Over Royal",
+          "url": "https://royalthailand.nl/over",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/over",
+              "anchor_text": "Over Royal"
+            }
+          ]
+        },
+        {
+          "text": "Andere bestemmingen",
+          "url": "https://royalthailand.nl/alle-sites",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/alle-sites",
+              "anchor_text": "Andere bestemmingen"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Royal Thailand gebruikt slechts één cookie ( RS ; noodzakelijk voor het functioneren van deze website, verloopt na uw sessie). Wij verzamelen geen statistieken en delen geen bezoekersgegevens met derden. Sluiten",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Privacy Beach Resort",
+          "url": "https://royalthailand.nl/hotel/privacy-beach-resort",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/privacy-beach-resort",
+              "anchor_text": "Privacy Beach Resort"
+            }
+          ]
+        },
+        {
+          "text": "Beyond Resort Kata",
+          "url": "https://royalthailand.nl/hotel/kata-beach-resort",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/kata-beach-resort",
+              "anchor_text": "Beyond Resort Kata"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Orchidacea Resort",
+          "url": "https://royalthailand.nl/hotel/orchidacea-resort",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/orchidacea-resort",
+              "anchor_text": "Hotel Orchidacea Resort"
+            }
+          ]
+        },
+        {
+          "text": "Montien Riverside",
+          "url": "https://royalthailand.nl/hotel/montien-riverside",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/montien-riverside",
+              "anchor_text": "Montien Riverside"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Sheraton Hua Hin Resort & Spa",
+          "url": "https://royalthailand.nl/hotel/sheraton-hua-hin-resort-spa",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/sheraton-hua-hin-resort-spa",
+              "anchor_text": "Hotel Sheraton Hua Hin Resort & Spa"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Six Senses Hideaway Samui",
+          "url": "https://royalthailand.nl/hotel/six-senses-hideaway-samui",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/six-senses-hideaway-samui",
+              "anchor_text": "Hotel Six Senses Hideaway Samui"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Long Beach",
+          "url": "https://royalthailand.nl/hotel/long-beach",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/long-beach",
+              "anchor_text": "Hotel Long Beach"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Sarita Chalet & Spa",
+          "url": "https://royalthailand.nl/hotel/sarita-chalet-spa",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/sarita-chalet-spa",
+              "anchor_text": "Hotel Sarita Chalet & Spa"
+            }
+          ]
+        },
+        {
+          "text": "Krabi La Playa Resort",
+          "url": "https://royalthailand.nl/hotel/krabi-la-playa-resort",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/krabi-la-playa-resort",
+              "anchor_text": "Krabi La Playa Resort"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Phuket Graceland Resort & Spa",
+          "url": "https://royalthailand.nl/hotel/phuket-graceland-resort-spa",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/phuket-graceland-resort-spa",
+              "anchor_text": "Hotel Phuket Graceland Resort & Spa"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Royal.nl",
+          "url": "https://royalthailand.nl/royal",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/royal",
+              "anchor_text": "Thailand Royal.nl"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Travel Store",
+          "url": "https://royalthailand.nl/traveltroef",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/traveltroef",
+              "anchor_text": "Thailand Travel Store"
+            }
+          ]
+        },
+        {
+          "text": "Thailand De Jong Intra",
+          "url": "https://royalthailand.nl/de-jong-intra",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/de-jong-intra",
+              "anchor_text": "Thailand De Jong Intra"
+            }
+          ]
+        },
+        {
+          "text": "Booking.com Thailand",
+          "url": "https://royalthailand.nl/booking",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/booking",
+              "anchor_text": "Booking.com Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Rustig Thailand",
+          "url": "https://royalthailand.nl/rustig",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/rustig",
+              "anchor_text": "Rustig Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Populair",
+          "url": "https://royalthailand.nl/populair",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/populair",
+              "anchor_text": "Thailand Populair"
+            }
+          ]
+        },
+        {
+          "text": "4 sterren Thailand",
+          "url": "https://royalthailand.nl/4-sterren",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/4-sterren",
+              "anchor_text": "4 sterren Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Aparthotel Thailand",
+          "url": "https://royalthailand.nl/aparthotel",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/aparthotel",
+              "anchor_text": "Aparthotel Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Sofitel Thailand",
+          "url": "https://royalthailand.nl/sofitel",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/sofitel",
+              "anchor_text": "Sofitel Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Sheraton Thailand",
+          "url": "https://royalthailand.nl/sheraton",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/sheraton",
+              "anchor_text": "Sheraton Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Mövenpick",
+          "url": "https://royalthailand.nl/movenpick",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/movenpick",
+              "anchor_text": "Thailand Mövenpick"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Ibis",
+          "url": "https://royalthailand.nl/ibis",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/ibis",
+              "anchor_text": "Thailand Ibis"
+            }
+          ]
+        },
+        {
+          "text": "Pranburi Beach",
+          "url": "https://royalthailand.nl/pranburi-beach",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/pranburi-beach",
+              "anchor_text": "Pranburi Beach"
+            }
+          ]
+        },
+        {
+          "text": "Patong Beach",
+          "url": "https://royalthailand.nl/patong-beach",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/patong-beach",
+              "anchor_text": "Patong Beach"
+            }
+          ]
+        },
+        {
+          "text": "Ibis Hua Hin",
+          "url": "https://royalthailand.nl/hotel/ibis-hua-hin",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/ibis-hua-hin",
+              "anchor_text": "Ibis Hua Hin"
+            }
+          ]
+        },
+        {
+          "text": "Dusit Thani",
+          "url": "https://royalthailand.nl/hotel/dusit-thani",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/dusit-thani",
+              "anchor_text": "Dusit Thani"
+            }
+          ]
+        },
+        {
+          "text": "DoubleTree by Hilton Phuket Banthai Resort",
+          "url": "https://royalthailand.nl/hotel/banthai-beach-resort",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/banthai-beach-resort",
+              "anchor_text": "DoubleTree by Hilton Phuket Banthai Resort"
+            }
+          ]
+        },
+        {
+          "text": "Hotel The Cha Am Methavalai",
+          "url": "https://royalthailand.nl/hotel/the-cha-am-methavalai",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/the-cha-am-methavalai",
+              "anchor_text": "Hotel The Cha Am Methavalai"
+            }
+          ]
+        },
+        {
+          "text": "Grand Mercure Fortune",
+          "url": "https://royalthailand.nl/hotel/grand-mercure-fortune",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/grand-mercure-fortune",
+              "anchor_text": "Grand Mercure Fortune"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Deevana Plaza Phuket",
+          "url": "https://royalthailand.nl/hotel/mercure-patong-phuket",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/mercure-patong-phuket",
+              "anchor_text": "Hotel Deevana Plaza Phuket"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Centara Grand at Central Plaza Ladprao Bangkok",
+          "url": "https://royalthailand.nl/hotel/sofitel-centara-grand-bangkok",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/sofitel-centara-grand-bangkok",
+              "anchor_text": "Hotel Centara Grand at Central Plaza Ladprao Bangkok"
+            }
+          ]
+        },
+        {
+          "text": "Springfield at Sea Resort & Spa",
+          "url": "https://royalthailand.nl/hotel/springfield-at-sea-resort-spa",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/springfield-at-sea-resort-spa",
+              "anchor_text": "Springfield at Sea Resort & Spa"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Mövenpick Asara Hua Hin Resort & Spa",
+          "url": "https://royalthailand.nl/hotel/asara-villa-suite",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/asara-villa-suite",
+              "anchor_text": "Hotel Mövenpick Asara Hua Hin Resort & Spa"
+            }
+          ]
+        },
+        {
+          "text": "Thai House Beach Resort",
+          "url": "https://royalthailand.nl/hotel/thai-house-beach-resort",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/hotel/thai-house-beach-resort",
+              "anchor_text": "Thai House Beach Resort"
+            }
+          ]
+        },
+        {
+          "text": "Privacyrichtlijnen & Disclaimer - ANVR & SGR - © Royal Thailand 2010–2026 - Eindelijk, vakantie!",
+          "url": "https://royalthailand.nl/privacyrichtlijnen-en-disclaimer",
+          "urls": [
+            {
+              "url": "https://royalthailand.nl/privacyrichtlijnen-en-disclaimer",
+              "anchor_text": "Privacyrichtlijnen & Disclaimer"
+            },
+            {
+              "url": "https://royalthailand.nl/anvr-sgr",
+              "anchor_text": "ANVR & SGR"
+            },
+            {
+              "url": "https://royalthailand.nl/over",
+              "anchor_text": "Royal Thailand"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Nachtleven in Thailand",
+        "main_title": "Nachtleven in Thailand",
+        "author": null,
+        "language": "nl",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Thailand kent in de grote steden en toeristencentra een bruisend uitgaansleven. In de talloze nachtclubs, bars en disco's vindt iedereen wel iets van zijn gading en gaat het feestvieren door tot sluitingstijd.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Uitgaansleven",
+        "main_title": "Nachtleven in Thailand",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bron: Gelicenseerd door Royal Vakanties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Alle grote plaatsen en toeristencentra in Thailand kennen een bruisend uitgaansleven, maar de bijzondere (soms smoezelige) sfeer in het centrum van Bangkok spant de kroon. Diverse grote nachtclubs, discotheken en Redlight etablissementen met Go-Go danseressen, travestieten en prostituees proberen via grote neonreclames de aandacht van de toeristen te trekken. Naast deze etablissementen die de stad Bangkok zijn slechte naam hebben bezorgd is ook wel degelijk kwaliteit te vinden. Daarvoor zorgen de trendy jazzclubs, muziekcafés en discotheken met moderne lasertechnieken, megabioscopen en trendy gelegenheden die men eerder in Westerse hoofdsteden zou verwachten. Bars en clubs in heel Thailand moeten echter om 1 uur 's nachts de deuren sluiten. Alleen in bepaalde uitgaanscentra mogen ze tot 2 uur openblijven. In de toeristencentra zoeken de buitenlandse toeristen elkaar graag op. De nachtclubs van de grote hotels bieden de gasten in een verzorgde ambiance vaak livemuziek, jazz, pop of romantische evergreenmuziek aan. Vooral in de bars van Pattaya, Phuket, Chiang Mai en Chiang Rai wordt veel geëngageerde livemuziek gespeeld.",
+            "url": "https://royalthailand.nl/plaatsen/bangkok",
+            "urls": [
+              {
+                "url": "https://royalthailand.nl/plaatsen/bangkok",
+                "anchor_text": "Bangkok"
+              },
+              {
+                "url": "https://royalthailand.nl/plaatsen/pattaya",
+                "anchor_text": "Pattaya"
+              },
+              {
+                "url": "https://royalthailand.nl/plaatsen/phuket",
+                "anchor_text": "Phuket"
+              },
+              {
+                "url": "https://royalthailand.nl/plaatsen/chiang-mai",
+                "anchor_text": "Chiang Mai"
+              },
+              {
+                "url": "https://royalthailand.nl/plaatsen/chiang-rai",
+                "anchor_text": "Chiang Rai"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Nachtclubs",
+        "main_title": "Nachtleven in Thailand",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bron: Gelicenseerd door Royal Vakanties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De tot ver over de landsgrenzen bekende wijken PatPong en Soi Cowboy in Bangkok herbergen meer dan 200 bars, disco's, nachtclubs en cocktaillounges. De nachtclubs van de Kings Group staan goed bekend en de meest bekende clubs zijn: Kings Castle en Queens Castle. De ( Expats ) buitenlanders in Bangkok, maken meestal gebruik van de minder opdringende nachtclubs en Bars in Soi Cowboy zoals Neil's Tavern, Old German Beerhouse, Tokyo Joe's Blues Bar en Woodstock Pub.",
+            "url": "https://royalthailand.nl/plaatsen/bangkok",
+            "urls": [
+              {
+                "url": "https://royalthailand.nl/plaatsen/bangkok",
+                "anchor_text": "Bangkok"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Discotheken",
+        "main_title": "Nachtleven in Thailand",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bron: Gelicenseerd door Royal Vakanties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bangkok kent een grote verscheidenheid aan discotheken en trendy bars. In het centrum van Bangkok zijn de meest bekende: Concept CM, Forte, Phoebus Amphitheater Complex, Riva's en de Homo/Lesbische discotheken Richard's, Guys On Display en Kings Corner.",
+            "url": "https://royalthailand.nl/plaatsen/bangkok",
+            "urls": [
+              {
+                "url": "https://royalthailand.nl/plaatsen/bangkok",
+                "anchor_text": "Bangkok"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hotelbars en Cocktaillounges",
+        "main_title": "Nachtleven in Thailand",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bron: Gelicenseerd door Royal Vakanties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Distil is de hoogstgelegen openluchtbar in de wereld en bevindt zich op de 64e verdieping van de State Tower in Bangkok. De bezoeker zweeft hier spectaculair boven de glinsterende lichtzee van de metropool en heeft een adembenemend uitzicht over de verlichte stad.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hu'u Bar",
+        "main_title": "Nachtleven in Thailand",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bron: Gelicenseerd door Royal Vakanties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Alleen al het interieur met antiek en hedendaagse kunst uit Zuidoost Azië is een bezoek aan deze bar in het Ascot Hotel meer dan waard. De bar is vooral geliefd bij zakenlui uit de gehele wereld. De DJ's mixen een beschaafde loungemuziek uit jazz en rhythm and blues.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Casino",
+        "main_title": "Nachtleven in Thailand",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bron: Gelicenseerd door Royal Vakanties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Er zijn geen wettelijke casino's in Thailand en officieel is gokken in Thailand verboden. Een uitzondering hierop vormt de grensplaats Aranya Prathet in de provincie Sa Kaew, een bekende grensovergang met Cambodja. Doordat hier verschillende vergunningen voor gokken zijn uitgegeven is er de laatste jaren in dit plaatsje een aantal casino's gebouwd.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bars en cafés",
+        "main_title": "Nachtleven in Thailand",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bron: Gelicenseerd door Royal Vakanties",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Verschillende generaties en nationaliteiten ontmoeten elkaar in de vele bars en cafés in de uitgaanscentra van Thailand. De meeste bars gaan laat in de middag open en cafés zijn meestal de hele dag open. Het sluitingsuur voor bars en cafés is 1 uur 's-nachts. In Bangkok zijn de meest bekende: Fabb, Foreign Correspondents Club, Brown Sugar, Hard Rock Cafe en Radio City. De populaire stranden in Thailand hebben allemaal een of meer Beachbars waar het vaak Happy Hour is en liveoptredens worden gegeven.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Andere activiteiten",
+        "main_title": "Nachtleven in Thailand",
+        "author": null,
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Meer activiteiten in Thailand:",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Entertainment in Thailand",
+            "url": "https://royalthailand.nl/activiteiten/entertainment",
+            "urls": [
+              {
+                "url": "https://royalthailand.nl/activiteiten/entertainment",
+                "anchor_text": "Entertainment in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Ontspanning in Thailand",
+            "url": "https://royalthailand.nl/activiteiten/ontspanning",
+            "urls": [
+              {
+                "url": "https://royalthailand.nl/activiteiten/ontspanning",
+                "anchor_text": "Ontspanning in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Sport in Thailand",
+            "url": "https://royalthailand.nl/activiteiten/sport",
+            "urls": [
+              {
+                "url": "https://royalthailand.nl/activiteiten/sport",
+                "anchor_text": "Sport in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Excursies in Thailand",
+            "url": "https://royalthailand.nl/activiteiten/excursies",
+            "urls": [
+              {
+                "url": "https://royalthailand.nl/activiteiten/excursies",
+                "anchor_text": "Excursies in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Evenementen in Thailand",
+            "url": "https://royalthailand.nl/activiteiten/evenementen",
+            "urls": [
+              {
+                "url": "https://royalthailand.nl/activiteiten/evenementen",
+                "anchor_text": "Evenementen in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Stranden in Thailand",
+            "url": "https://royalthailand.nl/activiteiten/stranden",
+            "urls": [
+              {
+                "url": "https://royalthailand.nl/activiteiten/stranden",
+                "anchor_text": "Stranden in Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

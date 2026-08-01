@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["bangkok hotels", "luxury hotel", "the langham", "chao phraya river", "bangkok 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-langham-custom-house-bangkok-luxury-hotel-2026-hero.webp"
 description: "The Langham, Custom House, Bangkok will open in late 2026 as a 5-star riverside hotel inside a restored 1888 heritage building on the Chao Phraya River."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ Bangkok is getting a major new luxury hotel. **The Langham, Custom House, Bangko
 
 ## A Historic Building Reborn
 
-At the heart of the project is Bangkok's **Old Custom House**, a neo-Palladian building designed by Italian architect Joachim Grassi and erected in 1888. Located in the Bang Rak district, the building once served as the kingdom's central customs office and is considered one of Bangkok's most significant heritage structures. It sits near [Wat Arun](/city/bangkok/attractions/wat-arun/), the Temple of Dawn, which is visible from the riverside.
+At the heart of the project is Bangkok's **Old Custom House**, a neo-Palladian building designed by Italian architect Joachim Grassi and erected in 1888. Located in the Bang Rak district, the building once served as the kingdom's central customs office and is considered one of Bangkok's most significant heritage structures. It sits near [Wat Arun](/city/bangkok/attractions/), the Temple of Dawn, which is visible from the riverside.
 
 The restoration aims to bring the building back to its former glory while integrating it into a modern luxury hotel complex. The site also includes the **former post office**, which will be reimagined to house dining and wellness amenities.
 
@@ -40,7 +40,7 @@ The total investment for the project is reported at **6 billion THB** (approxima
 
 ## Location and Access
 
-The hotel sits in **Bang Rak**, one of Bangkok's oldest and most culturally rich neighborhoods. The district is known for its [street food](/blog/bangkok-street-food-beginners/), Chinatown proximity, and the famous [Asiatique](https://go2thailand.com) night market along the river. The area is also close to [Banthat Thong Road](/blog/banthat-thong-road-bangkok-food-street-guide-2026/), one of Bangkok's most rewarding food streets.
+The hotel sits in **Bang Rak**, one of Bangkok's oldest and most culturally rich neighborhoods. The district is known for its [street food](/blog/best-street-food-markets-bangkok/), Chinatown proximity, and the famous [Asiatique](https://go2thailand.com) night market along the river. The area is also close to [Banthat Thong Road](/blog/banthat-thong-road-bangkok-food-street-guide-2026/), one of Bangkok's most rewarding food streets.
 
 Travelers can reach the area via:
 - **BTS Saphan Taksin station** (Silom Line), connecting to Chao Phraya express boats. See our full [Bangkok public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) for route planning tips.
@@ -57,4 +57,4 @@ The Chao Phraya riverside has seen a wave of luxury hotel development in recent 
 
 The hotel is expected to open in **late 2026**. Official booking dates have not yet been announced. Keep an eye on [The Langham's website](https://www.langhamhotels.com/en/the-langham/bangkok/) for updates.
 
-In the meantime, Bangkok offers a wealth of top-tier accommodation options. Browse our [Bangkok best hotels guide](/city/bangkok/top-10-hotels/), check [where to stay in Bangkok by neighbourhood](/blog/where-to-stay-bangkok-neighborhood-guide/), or compare [the cheapest vs most expensive hotels in Bangkok](/blog/cheapest-vs-most-expensive-hotel-bangkok/) to find the right fit for your trip. Wellness-focused travellers may also be interested in [Bangkok's best wellness retreats](/blog/best-wellness-retreats-thailand-2026/) while waiting for Chuan Spa to open. For a broader picture of what Bangkok has to offer in 2026, our [Bangkok spectacular AWC guide](/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/) covers riverfront attractions including those along the Chao Phraya near the Custom House site.
+In the meantime, Bangkok offers a wide range of established stays. Use our [Bangkok hotel guide](/best-hotels/bangkok/) to compare verified choices by area, transport consequence and traveller fit, or open the [Bangkok neighbourhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) when the district decision comes first. Wellness-focused travellers may also be interested in [Bangkok's best wellness retreats](/blog/best-wellness-retreats-thailand-2026/) while waiting for Chuan Spa to open. For a broader picture of what Bangkok has to offer in 2026, our [Bangkok spectacular AWC guide](/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/) covers riverfront attractions including those along the Chao Phraya near the Custom House site.

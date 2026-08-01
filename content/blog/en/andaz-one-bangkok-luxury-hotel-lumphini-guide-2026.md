@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "hotels"
 tags: ["Andaz One Bangkok", "One Bangkok", "luxury hotel Bangkok 2026", "Lumphini Park", "Hyatt Bangkok", "Wireless Road", "Bangkok hotels"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026-hero.webp"
 description: "The Andaz One Bangkok opened in late 2025 as part of Thailand's biggest mixed-use development. Here is what to expect from the rooms, restaurants, rooftop pool and surrounding neighbourhood."
 featured: false
 readingTime: 3
@@ -26,7 +26,7 @@ sources:
 
 ## A New Landmark on Wireless Road
 
-The Andaz One Bangkok opened in late 2025 as the second Andaz property in [Thailand](/best-places-to-visit-thailand/), sitting inside the massive [One Bangkok](/blog/one-bangkok-shopping-mall-tourist-guide-2026/) mixed-use development on Wireless Road. The complex itself is hard to miss — a cluster of towers combining offices, retail, galleries and green space that has reshaped this stretch of central [Bangkok](/city/bangkok/). For tourists, the hotel's biggest selling point is its location: directly connected to **MRT Lumphini station** and steps from the lush greenery of [Lumphini Park](/city/bangkok/attractions/lumpini-park/).
+The Andaz One Bangkok opened in late 2025 as the second Andaz property in [Thailand](/best-places-to-visit-thailand/), sitting inside the massive [One Bangkok](/blog/one-bangkok-shopping-mall-tourist-guide-2026/) mixed-use development on Wireless Road. The complex itself is hard to miss — a cluster of towers combining offices, retail, galleries and green space that has reshaped this stretch of central [Bangkok](/city/bangkok/). For tourists, the hotel's biggest selling point is its location: directly connected to **MRT Lumphini station** and steps from the lush greenery of [Lumphini Park](/city/bangkok/attractions/).
 
 ## Rooms and Suites
 
@@ -36,7 +36,7 @@ The hotel has 244 rooms and suites ranging from a comfortable 38 square metres u
 
 Three distinct restaurants mean you rarely need to leave the building for a good meal:
 
-- **Andaz Terrace** — An all-day dining spot with alfresco seating overlooking the park. The breakfast spread includes [Thai staples](/blog/what-is-thai-food-cuisine-guide/) like XO Thai omelette and fish congee alongside international options.
+- **Andaz Terrace** — An all-day dining spot with alfresco seating overlooking the park. The breakfast spread includes [Thai staples](/travel-guides/thai-cuisine-food-guide/) like XO Thai omelette and fish congee alongside international options.
 - **Jǐng** — A modern Chinese restaurant focusing on Cantonese and Sichuan dishes. The dim sum is a highlight.
 - **Piscari** — A Mediterranean seafood grill on the 23rd floor with an open kitchen, a resident DJ and a terrace made for sunset drinks.
 
@@ -48,7 +48,7 @@ The **infinity pool** on an upper floor offers panoramic views of the Bangkok sk
 
 ## What to Do Nearby
 
-Lumphini Park is right on the doorstep, perfect for a morning jog, a swan-boat ride on the lake or simply watching monitor lizards bask in the sun. The **One Bangkok retail precinct** downstairs houses international fashion brands, galleries and a supermarket. Thanks to the direct [MRT connection](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/), Chinatown is about 20 minutes away by train, and the riverside attractions around [Wat Arun](/city/bangkok/attractions/wat-arun/) and [Wat Pho](/city/bangkok/attractions/wat-pho/) are an easy commute.
+Lumphini Park is right on the doorstep, perfect for a morning jog, a swan-boat ride on the lake or simply watching monitor lizards bask in the sun. The **One Bangkok retail precinct** downstairs houses international fashion brands, galleries and a supermarket. Thanks to the direct [MRT connection](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/), Chinatown is about 20 minutes away by train, and the riverside attractions around [Wat Arun](/city/bangkok/attractions/) and [Wat Pho](/city/bangkok/attractions/) are an easy commute.
 
 ## Who Is It For?
 

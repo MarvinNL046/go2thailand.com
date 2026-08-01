@@ -1,0 +1,471 @@
+{
+  "captured_at": "2026-07-25T19:07:33.396Z",
+  "locale": "nl",
+  "url": "https://braveroasters.com/pages/locations",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "All coffee",
+          "url": "https://braveroasters.com/collections/coffee",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/coffee",
+              "anchor_text": "All coffee"
+            }
+          ]
+        },
+        {
+          "text": "Local Coffee",
+          "url": "https://braveroasters.com/collections/thai",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/thai",
+              "anchor_text": "Local Coffee"
+            }
+          ]
+        },
+        {
+          "text": "Single Origins",
+          "url": "https://braveroasters.com/collections/single-origins",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/single-origins",
+              "anchor_text": "Single Origins"
+            }
+          ]
+        },
+        {
+          "text": "Concentrate / Cold Brew",
+          "url": "https://braveroasters.com/collections/concentrate",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/concentrate",
+              "anchor_text": "Concentrate / Cold Brew"
+            }
+          ]
+        },
+        {
+          "text": "Competition / Premium Coffee",
+          "url": "https://braveroasters.com/collections/competition-grades",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/competition-grades",
+              "anchor_text": "Competition / Premium Coffee"
+            }
+          ]
+        },
+        {
+          "text": "Wholesale / Kilo Bags",
+          "url": "https://braveroasters.com/collections/wholesale",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/wholesale",
+              "anchor_text": "Wholesale / Kilo Bags"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://braveroasters.com/pages/brave",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/pages/brave",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Local Coffee",
+          "url": "https://braveroasters.com/collections/thai",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/thai",
+              "anchor_text": "Local Coffee"
+            }
+          ]
+        },
+        {
+          "text": "Single Origins",
+          "url": "https://braveroasters.com/collections/single-origins",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/single-origins",
+              "anchor_text": "Single Origins"
+            }
+          ]
+        },
+        {
+          "text": "Concentrate / Cold Brew",
+          "url": "https://braveroasters.com/collections/concentrate",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/concentrate",
+              "anchor_text": "Concentrate / Cold Brew"
+            }
+          ]
+        },
+        {
+          "text": "Competition / Premium Coffee",
+          "url": "https://braveroasters.com/collections/competition-grades",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/competition-grades",
+              "anchor_text": "Competition / Premium Coffee"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://braveroasters.com/pages/brave",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/pages/brave",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Log in",
+          "url": "https://braveroasters.com/account/login",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/account/login",
+              "anchor_text": "Log in"
+            }
+          ]
+        },
+        {
+          "text": "Create account",
+          "url": "https://braveroasters.com/account/register",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/account/register",
+              "anchor_text": "Create account"
+            }
+          ]
+        },
+        {
+          "text": "All coffee",
+          "url": "https://braveroasters.com/collections/coffee",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/coffee",
+              "anchor_text": "All coffee"
+            }
+          ]
+        },
+        {
+          "text": "Local Coffee",
+          "url": "https://braveroasters.com/collections/thai",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/thai",
+              "anchor_text": "Local Coffee"
+            }
+          ]
+        },
+        {
+          "text": "Single Origins",
+          "url": "https://braveroasters.com/collections/single-origins",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/single-origins",
+              "anchor_text": "Single Origins"
+            }
+          ]
+        },
+        {
+          "text": "Concentrate / Cold Brew",
+          "url": "https://braveroasters.com/collections/concentrate",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/concentrate",
+              "anchor_text": "Concentrate / Cold Brew"
+            }
+          ]
+        },
+        {
+          "text": "Competition / Premium Coffee",
+          "url": "https://braveroasters.com/collections/competition-grades",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/competition-grades",
+              "anchor_text": "Competition / Premium Coffee"
+            }
+          ]
+        },
+        {
+          "text": "Wholesale / Kilo Bags",
+          "url": "https://braveroasters.com/collections/wholesale",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/wholesale",
+              "anchor_text": "Wholesale / Kilo Bags"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://braveroasters.com/pages/brave",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/pages/brave",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Log in",
+          "url": "https://braveroasters.com/account/login",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/account/login",
+              "anchor_text": "Log in"
+            }
+          ]
+        },
+        {
+          "text": "Create account",
+          "url": "https://braveroasters.com/account/register",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/account/register",
+              "anchor_text": "Create account"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Brave Beverages Co., Ltd",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Choosing a selection results in a full page refresh.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Press the space key then arrow keys to make a selection.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Shipping & Returns",
+          "url": "https://braveroasters.com/pages/shippingandreturns",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/pages/shippingandreturns",
+              "anchor_text": "Shipping & Returns"
+            }
+          ]
+        },
+        {
+          "text": "Our Locations",
+          "url": "https://braveroasters.com/pages/locations",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/pages/locations",
+              "anchor_text": "Our Locations"
+            }
+          ]
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://braveroasters.com/pages/privacy-policy-cookie-restriction-mode",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/pages/privacy-policy-cookie-restriction-mode",
+              "anchor_text": "Privacy Policy"
+            }
+          ]
+        },
+        {
+          "text": "Franchise Portal",
+          "url": "https://braveroasters.com/collections/inventory",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/inventory",
+              "anchor_text": "Franchise Portal"
+            }
+          ]
+        },
+        {
+          "text": "Production Portal",
+          "url": "https://braveroasters.com/collections/production",
+          "urls": [
+            {
+              "url": "https://braveroasters.com/collections/production",
+              "anchor_text": "Production Portal"
+            }
+          ]
+        },
+        {
+          "text": "ยอดรวมใหม่:\n฿ 0.00 THB",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Siam",
+        "main_title": "Siam",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "BRAVE ROASTERS : SIAM DISCOVERY",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Siam Discovery Department Store",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "3rd Floor, O.D.S Zone",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "989 Rama I Road, Pathumwan, Bangkok 10330, Thailand",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "BTS National Stadium Exit 4",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Service Time : Mon - Sun : 10.00 - 18.30",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "BTS Siam Exit 1",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Tel. 095-947-2813",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Brave Roasters : The PARQ",
+        "main_title": "Siam",
+        "author": null,
+        "language": "th",
+        "level": 5,
+        "primary_content": [
+          {
+            "text": "Grand Step Floor, The PARQ 88 Ratchadapisek Rd.,",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Klong Teoi, Klong Toei, Bangkok 10110",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "อาคาร The PARQ ชั้น Q Steps เลขที่ 88 ถ. รัชดาภิเษก แขวงคลองเตย เขตคลองเตย กรุงเทพมหานคร 10110",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Mon-Fri : 8.00 - 20.00",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Sat-Sun and Holidays : 10.00 - 17.00",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "BRAVE ROASTERS : Sathorn",
+        "main_title": "Siam",
+        "author": null,
+        "language": "th",
+        "level": 5,
+        "primary_content": [
+          {
+            "text": "201 Sathon Soi 12 Alley, Khwaeng Silom, Khet Bang Rak, Krung Thep Maha Nakhon 10500",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "201 ซอยสาทร 12 แขวงสีลม เขตบางรัก กทม. 10500",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Service Time : Mon - Sun : 8.00 - 17.00",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Tel. 088 985 4288",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "The Parq",
+        "main_title": "Siam",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Sathorn12",
+        "main_title": "Siam",
+        "author": null,
+        "language": "th",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

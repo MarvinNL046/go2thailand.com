@@ -1,0 +1,60 @@
+{
+  "id": 34,
+  "slug": "khao-sok",
+  "name": {
+    "en": "Khao Sok",
+    "nl": "Khao Sok"
+  },
+  "region": "Southern",
+  "province": "Surat Thani",
+  "description": {
+    "en": "Rainforest destination in Surat Thani with limestone karsts, jungle trails and boat journeys on Cheow Lan Lake.",
+    "nl": "Regenwoudbestemming in Surat Thani met kalksteenkarst, junglepaden en boottochten over Cheow Lan Lake."
+  },
+  "population": 0,
+  "population_label": "Protected nature area",
+  "population_note": "Khao Sok is a national park and travel area, not a city boundary.",
+  "highlights": [
+    "Khao Sok National Park",
+    "Cheow Lan Lake",
+    "Khlong Sok",
+    "Rajjaprabha Pier"
+  ],
+  "location": {
+    "lat": 8.9105,
+    "lng": 98.5306
+  },
+  "image": "/images/redesign/khao-sok-destination-hero.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Sok National Park Travel Guide | Go2Thailand",
+      "nl": "Khao Sok National Park: route, meer & jungle"
+    },
+    "metaDescription": {
+      "en": "Plan Khao Sok with a clear split between the jungle village and Cheow Lan Lake, plus route, stays, tours and practical travel advice.",
+      "nl": "Plan Khao Sok slim: kies jungledorp, Cheow Lan Lake of beide. Met route, tours, drijvende bungalows, vervoer en praktische tips."
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Food and local meals around Khao Sok",
+      "nl": "Eten en lokale maaltijden rond Khao Sok"
+    },
+    "hotels": {
+      "en": "Where to stay in Khao Sok",
+      "nl": "Waar verblijven in Khao Sok"
+    },
+    "attractions": {
+      "en": "Things to do in Khao Sok National Park",
+      "nl": "Wat te doen in Khao Sok National Park"
+    }
+  },
+  "tags": [
+    "khao sok",
+    "khao sok national park",
+    "cheow lan lake",
+    "surat thani",
+    "southern thailand",
+    "rainforest"
+  ]
+}

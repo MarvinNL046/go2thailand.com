@@ -1,0 +1,50 @@
+{
+  "captured_at": "2026-07-27T19:48:39.616Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "what not to bring to thailand",
+  "costs": {
+    "suggestions": 0.01236,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "what not to bring to thailand",
+    "what are you not allowed to bring into thailand",
+    "what can you not bring to thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "what are you not allowed to bring into thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what can you not bring to thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what not to bring to thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

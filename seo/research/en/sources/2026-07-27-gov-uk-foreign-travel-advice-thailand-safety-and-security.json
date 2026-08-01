@@ -1,0 +1,1658 @@
+{
+  "captured_at": "2026-07-27T21:02:34.484Z",
+  "locale": "en",
+  "url": "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "We use some essential cookies to make this website work.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "We also use cookies set by other sites to help us deliver content from their services.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "You have accepted additional cookies. You can change your cookie settings at any time.",
+          "url": "https://www.gov.uk/help/cookies",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/cookies",
+              "anchor_text": "change your cookie settings"
+            }
+          ]
+        },
+        {
+          "text": "You have rejected additional cookies. You can change your cookie settings at any time.",
+          "url": "https://www.gov.uk/help/cookies",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/cookies",
+              "anchor_text": "change your cookie settings"
+            }
+          ]
+        },
+        {
+          "text": "Departments, agencies and public bodies",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "News stories, speeches, letters and notices",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Detailed guidance, regulations and rules",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Reports, analysis and official statistics",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Data, Freedom of Information releases and corporate reports",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Births, death, marriages and care",
+          "url": "https://www.gov.uk/browse/births-deaths-marriages",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/births-deaths-marriages",
+              "anchor_text": "Births, death, marriages and care"
+            }
+          ]
+        },
+        {
+          "text": "Business and self-employed",
+          "url": "https://www.gov.uk/browse/business",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/business",
+              "anchor_text": "Business and self-employed"
+            }
+          ]
+        },
+        {
+          "text": "Childcare and parenting",
+          "url": "https://www.gov.uk/browse/childcare-parenting",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/childcare-parenting",
+              "anchor_text": "Childcare and parenting"
+            }
+          ]
+        },
+        {
+          "text": "Citizenship and living in the UK",
+          "url": "https://www.gov.uk/browse/citizenship",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/citizenship",
+              "anchor_text": "Citizenship and living in the UK"
+            }
+          ]
+        },
+        {
+          "text": "Crime, justice and the law",
+          "url": "https://www.gov.uk/browse/justice",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/justice",
+              "anchor_text": "Crime, justice and the law"
+            }
+          ]
+        },
+        {
+          "text": "Disabled people",
+          "url": "https://www.gov.uk/browse/disabilities",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/disabilities",
+              "anchor_text": "Disabled people"
+            }
+          ]
+        },
+        {
+          "text": "Driving and transport",
+          "url": "https://www.gov.uk/browse/driving",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/driving",
+              "anchor_text": "Driving and transport"
+            }
+          ]
+        },
+        {
+          "text": "Education and learning",
+          "url": "https://www.gov.uk/browse/education",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/education",
+              "anchor_text": "Education and learning"
+            }
+          ]
+        },
+        {
+          "text": "Employing people",
+          "url": "https://www.gov.uk/browse/employing-people",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/employing-people",
+              "anchor_text": "Employing people"
+            }
+          ]
+        },
+        {
+          "text": "Environment and countryside",
+          "url": "https://www.gov.uk/browse/environment-countryside",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/environment-countryside",
+              "anchor_text": "Environment and countryside"
+            }
+          ]
+        },
+        {
+          "text": "Housing and local services",
+          "url": "https://www.gov.uk/browse/housing-local-services",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/housing-local-services",
+              "anchor_text": "Housing and local services"
+            }
+          ]
+        },
+        {
+          "text": "Money and tax",
+          "url": "https://www.gov.uk/browse/tax",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/tax",
+              "anchor_text": "Money and tax"
+            }
+          ]
+        },
+        {
+          "text": "Passports, travel and living abroad",
+          "url": "https://www.gov.uk/browse/abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad",
+              "anchor_text": "Passports, travel and living abroad"
+            }
+          ]
+        },
+        {
+          "text": "Visas and immigration",
+          "url": "https://www.gov.uk/browse/visas-immigration",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/visas-immigration",
+              "anchor_text": "Visas and immigration"
+            }
+          ]
+        },
+        {
+          "text": "Working, jobs and pensions",
+          "url": "https://www.gov.uk/browse/working",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/working",
+              "anchor_text": "Working, jobs and pensions"
+            }
+          ]
+        },
+        {
+          "text": "Consultations and strategy",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Passports, travel and living abroad",
+          "url": "https://www.gov.uk/browse/abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad",
+              "anchor_text": "Passports, travel and living abroad"
+            }
+          ]
+        },
+        {
+          "text": "Travel abroad",
+          "url": "https://www.gov.uk/browse/abroad/travel-abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad/travel-abroad",
+              "anchor_text": "Travel abroad"
+            }
+          ]
+        },
+        {
+          "text": "Foreign travel advice",
+          "url": "https://www.gov.uk/foreign-travel-advice",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/foreign-travel-advice",
+              "anchor_text": "Foreign travel advice"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Births, death, marriages and care",
+          "url": "https://www.gov.uk/browse/births-deaths-marriages",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/births-deaths-marriages",
+              "anchor_text": "Births, death, marriages and care"
+            }
+          ]
+        },
+        {
+          "text": "Business and self-employed",
+          "url": "https://www.gov.uk/browse/business",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/business",
+              "anchor_text": "Business and self-employed"
+            }
+          ]
+        },
+        {
+          "text": "Childcare and parenting",
+          "url": "https://www.gov.uk/browse/childcare-parenting",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/childcare-parenting",
+              "anchor_text": "Childcare and parenting"
+            }
+          ]
+        },
+        {
+          "text": "Citizenship and living in the UK",
+          "url": "https://www.gov.uk/browse/citizenship",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/citizenship",
+              "anchor_text": "Citizenship and living in the UK"
+            }
+          ]
+        },
+        {
+          "text": "Crime, justice and the law",
+          "url": "https://www.gov.uk/browse/justice",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/justice",
+              "anchor_text": "Crime, justice and the law"
+            }
+          ]
+        },
+        {
+          "text": "Disabled people",
+          "url": "https://www.gov.uk/browse/disabilities",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/disabilities",
+              "anchor_text": "Disabled people"
+            }
+          ]
+        },
+        {
+          "text": "Driving and transport",
+          "url": "https://www.gov.uk/browse/driving",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/driving",
+              "anchor_text": "Driving and transport"
+            }
+          ]
+        },
+        {
+          "text": "Education and learning",
+          "url": "https://www.gov.uk/browse/education",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/education",
+              "anchor_text": "Education and learning"
+            }
+          ]
+        },
+        {
+          "text": "Employing people",
+          "url": "https://www.gov.uk/browse/employing-people",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/employing-people",
+              "anchor_text": "Employing people"
+            }
+          ]
+        },
+        {
+          "text": "Environment and countryside",
+          "url": "https://www.gov.uk/browse/environment-countryside",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/environment-countryside",
+              "anchor_text": "Environment and countryside"
+            }
+          ]
+        },
+        {
+          "text": "Housing and local services",
+          "url": "https://www.gov.uk/browse/housing-local-services",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/housing-local-services",
+              "anchor_text": "Housing and local services"
+            }
+          ]
+        },
+        {
+          "text": "Money and tax",
+          "url": "https://www.gov.uk/browse/tax",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/tax",
+              "anchor_text": "Money and tax"
+            }
+          ]
+        },
+        {
+          "text": "Passports, travel and living abroad",
+          "url": "https://www.gov.uk/browse/abroad",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/abroad",
+              "anchor_text": "Passports, travel and living abroad"
+            }
+          ]
+        },
+        {
+          "text": "Visas and immigration",
+          "url": "https://www.gov.uk/browse/visas-immigration",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/visas-immigration",
+              "anchor_text": "Visas and immigration"
+            }
+          ]
+        },
+        {
+          "text": "Working, jobs and pensions",
+          "url": "https://www.gov.uk/browse/working",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/browse/working",
+              "anchor_text": "Working, jobs and pensions"
+            }
+          ]
+        },
+        {
+          "text": "Guidance and regulation",
+          "url": "https://www.gov.uk/search/guidance-and-regulation",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/search/guidance-and-regulation",
+              "anchor_text": "Guidance and regulation"
+            }
+          ]
+        },
+        {
+          "text": "Research and statistics",
+          "url": "https://www.gov.uk/search/research-and-statistics",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/search/research-and-statistics",
+              "anchor_text": "Research and statistics"
+            }
+          ]
+        },
+        {
+          "text": "Policy papers and consultations",
+          "url": "https://www.gov.uk/search/policy-papers-and-consultations",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/search/policy-papers-and-consultations",
+              "anchor_text": "Policy papers and consultations"
+            }
+          ]
+        },
+        {
+          "text": "How government works",
+          "url": "https://www.gov.uk/government/how-government-works",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/government/how-government-works",
+              "anchor_text": "How government works"
+            }
+          ]
+        },
+        {
+          "text": "Get involved",
+          "url": "https://www.gov.uk/government/get-involved",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/government/get-involved",
+              "anchor_text": "Get involved"
+            }
+          ]
+        },
+        {
+          "text": "Accessibility statement",
+          "url": "https://www.gov.uk/help/accessibility-statement",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/accessibility-statement",
+              "anchor_text": "Accessibility statement"
+            }
+          ]
+        },
+        {
+          "text": "Terms and conditions",
+          "url": "https://www.gov.uk/help/terms-conditions",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/help/terms-conditions",
+              "anchor_text": "Terms and conditions"
+            }
+          ]
+        },
+        {
+          "text": "Rhestr o Wasanaethau Cymraeg",
+          "url": "https://www.gov.uk/cymraeg",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/cymraeg",
+              "anchor_text": "Rhestr o Wasanaethau Cymraeg"
+            }
+          ]
+        },
+        {
+          "text": "Government Digital Service",
+          "url": "https://www.gov.uk/government/organisations/government-digital-service",
+          "urls": [
+            {
+              "url": "https://www.gov.uk/government/organisations/government-digital-service",
+              "anchor_text": "Government Digital Service"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Terrorism",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. Stay aware of your surroundings at all times.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "UK Counter Terrorism Policing has information and advice on staying safe abroad and what to do in the event of a terrorist attack. Find out how to reduce your risk from terrorism while abroad.",
+            "url": "https://www.counterterrorism.police.uk/staysafe/",
+            "urls": [
+              {
+                "url": "https://www.counterterrorism.police.uk/staysafe/",
+                "anchor_text": "staying safe abroad"
+              },
+              {
+                "url": "https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad",
+                "anchor_text": "how to reduce your risk from terrorism while abroad"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Terrorism in Thailand",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Terrorists are likely to try to carry out attacks in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "There are regular terrorist attacks in the 4 provinces in the southern tip of Thailand by the border with Malaysia. The Foreign, Commonwealth & Development Office ( FCDO ) advises against all but essential travel to these provinces.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Martial law is in place in most areas in these provinces, which means security forces have greater security enforcement and investigative powers. See Regional risks.",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/regional-risks",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/regional-risks",
+                "anchor_text": "Regional risks"
+              }
+            ]
+          },
+          {
+            "text": "However, terrorist attacks could take place anywhere in Thailand. Attacks could be indiscriminate, including in tourist destinations. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "locations popular with tourists and foreigners",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Targets might include:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "security forces",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "government offices",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "shops and supermarkets",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "transport infrastructure",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Political situation",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The political situation can be unpredictable and has led to periods of civil and political unrest. Avoid protests, political gatherings, demonstrations and marches.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Protecting yourself and your belongings",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "To reduce your personal risk:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "carry your valuables and cash securely to guard against pickpocketing",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "beware of bag-snatchers, especially on motorbikes",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "take care when travelling in open transport like tuk-tuks",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "avoid sleeping on buses and trains – people have had items taken from bags while asleep",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Do not hand your passport over as a guarantee, for example to motorcycle or jet-ski rental businesses. Companies may hold on to passports against claimed damage.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Violent crime",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Violent crime, including gun crime, rarely involves tourists. However, several foreign nationals were victims of gun violence in Bangkok in 2018. Take care when travelling in unfamiliar areas and avoid walking through isolated areas alone, especially at night.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Sexual assault",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Violent sexual assaults and unprovoked attacks can happen in tourist areas across Thailand. Attacks are most common during full moon parties or similar events, and near bars late at night.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Drink spiking, alcohol and assaults",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Drink spiking and drug-assisted sexual assault does happen in tourist areas around Thailand, with male and female victims. Do not leave your drinks unattended or accept drinks from strangers. Pre-arrange your transport home so you do not have to accept lifts in unlicensed vehicles.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Drinks served in bars are often stronger than those in the UK. Alcohol and drugs can make you less alert and more vulnerable to accidents, injuries, robbery and assaults.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Methanol poisoning",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See Travel Aware Spiking and methanol poisoning for information about how to reduce the risks.",
+            "url": "https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/",
+            "urls": [
+              {
+                "url": "https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/",
+                "anchor_text": "Travel Aware Spiking and methanol poisoning"
+              }
+            ]
+          },
+          {
+            "text": "Seek urgent medical attention if you or someone you are travelling with show the signs of methanol poisoning after drinking.",
+            "url": "https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/",
+            "urls": [
+              {
+                "url": "https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/",
+                "anchor_text": "signs of methanol poisoning"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bank card fraud",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Be aware of card fraud. Do not lose sight of your card during transactions. There have been incidents of ATM skimming. Use an ATM in a bank and always protect your PIN.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Job scams",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Be wary of job offers that appear too good to be true. People have arrived in Thailand and been illegally transported to neighbouring countries on the promise of high-paying jobs, which turn out to be scams. When you re-enter Thailand you may then be detained while your immigration status is validated.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "There have been incidents of:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "passports confiscated by scammers",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "victims being held in poor living conditions",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "coercion into undertaking wider online scamming activity",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "pressure to make large payments to be released from sham jobs",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Laws and cultural differences",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The British Embassy in Bangkok’s video talks about what to be aware of when living or travelling in Thailand:",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Facebook – visiting Thailand video",
+            "url": "https://www.facebook.com/ukinthailand/videos/2132346856805703/",
+            "urls": [
+              {
+                "url": "https://www.facebook.com/ukinthailand/videos/2132346856805703/",
+                "anchor_text": "Facebook – visiting Thailand video"
+              }
+            ]
+          },
+          {
+            "text": "X – visiting Thailand video",
+            "url": "https://x.com/ukinthailand/status/1002378124200329216",
+            "urls": [
+              {
+                "url": "https://x.com/ukinthailand/status/1002378124200329216",
+                "anchor_text": "X – visiting Thailand video"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Criticising the Thai monarchy",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Criticising the Thai monarchy (‘lèse-majesté’) is illegal. The law can be interpreted broadly and carries a long prison sentence. British and Thai journalists, human rights defenders and members of the public have faced charges for making political comments or sharing articles online that could be interpreted as being negative towards the institution of the Thai monarchy. The law also covers any accusations about members of the Thai Royal Family, past and present.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Images on social media",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Posting images of people drinking alcohol or wearing clothing considered inappropriate can be illegal. Both the person who uploaded the images and the people in them could be fined or imprisoned.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Buying property in Thailand",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Buying property in Thailand is not straightforward. Make sure you understand local laws and consult a lawyer before making financial commitments. British people have been victims of property scams.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Drones",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "It is illegal to fly a drone in Thailand if it is not registered. You must register your drone with Thailand’s National Broadcasting and Telecommunications Commission (NBTC) within 30 days of entering Thailand or purchasing a drone in Thailand even if you do not intend to fly it.",
+            "url": "https://anyregis.nbtc.go.th/home_member/",
+            "urls": [
+              {
+                "url": "https://anyregis.nbtc.go.th/home_member/",
+                "anchor_text": "register your drone"
+              }
+            ]
+          },
+          {
+            "text": "The regulations apply to all drones, including those for recreational use. The fine for an unregistered drone with the NBTC is 100,000 baht or five years imprisonment or both.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Gambling – playing cards",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Thailand has strict laws on gambling. Under the Playing Cards Act (1943) it is illegal to carry over one hundred and twenty playing cards. Violation of the Act could lead to prosecution, a fine, or even imprisonment.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Personal ID",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Police may ask to check your passport. If you do not have it with you, you could be asked to produce it within 24 hours at a police station. Usually, a copy of the photo page of your passport will be sufficient.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Smoking and e-cigarette bans",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "It’s illegal to smoke in public with a fine of up to 5,000 Thai baht. It is illegal to possess or use any vape, e-cigarette, pod, e-liquid, or heat-not-burn device in Thailand. Offences can lead to confiscation, heavy fines (typically 5,000–30,000 Thai bhat), detention, and court proceedings. You may be required to remain in Thailand until the case has been finalised. There are no exceptions for tourists or for personal use.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Alcohol sale restrictions",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "The sale of alcohol is restricted between midnight and 11am. This does not apply to licensed hotels, international airport terminals or authorised entertainment venues. Exercise caution when purchasing or consuming alcohol in public places during restricted hours and check with venue owners or shop sellers. Failure to comply could result in a fine.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Illegal drugs and prison sentences",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Thailand has strict laws against drug use, possession and trafficking. Possessing small quantities of illegal substances can lead to heavy fines or imprisonment. Possessing Class A drugs can lead to the death penalty.",
+            "url": "https://www.siam-legal.com/litigation/criminal-defence-drug-offences-in-thailand.php",
+            "urls": [
+              {
+                "url": "https://www.siam-legal.com/litigation/criminal-defence-drug-offences-in-thailand.php",
+                "anchor_text": "Class A drugs"
+              }
+            ]
+          },
+          {
+            "text": "Conditions in prisons and other detention facilities in Thailand are harsh, with limited access to healthcare. Detainees have died in custody.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Some British nationals have suffered severe psychiatric problems because of drug use, sometimes leading to suicide.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Cannabis",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Cannabis laws in Thailand are strictly enforced and have changed in recent years. You must follow local regulations on possession, use and export.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Cannabis use in Thailand is restricted to medical purposes only. You must not buy, possess or use it without a Thai-issued medical prescription, which is limited to a 30-day supply. Recreational use remains illegal.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "It is illegal to take cannabis out of Thailand without the appropriate export permission from the authorities.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Attempting to take cannabis out of Thailand will result in penalties, including fines starting at 30,000 Thai baht per kilogram (about £684 per kg). If you do not pay, you will be detained or imprisoned. You will also be placed on an immigration watchlist affecting future travel to Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Cannabis is illegal in many countries. If you carry it when arriving in, or transiting through, another country, you risk arrest and serious penalties, including long prison sentences.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "LGBT+ travellers",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Thailand is generally a safe place for LGBT+ travellers. Thailand legalised same-sex marriage in January 2025. Read more advice for LGBT+ travellers.",
+            "url": "https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice",
+                "anchor_text": "advice for LGBT+ travellers"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Elephant treks",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Elephant treks can be dangerous, especially if elephants are mistreated or not handled properly. Use a reliable, licensed tour guide. British nationals have been seriously injured and killed because handlers have lost control of the elephant.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Swimming safety",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Take care when swimming off coastal areas, especially during monsoon season. People have drowned in strong riptides. Thailand has lifeguards on duty at designated beaches and operates a flag system for safe swimming. Follow all warning signs, especially red flags.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Jellyfish can swim close to the shore, particularly during the rainy season from May to October. Jellyfish stings can be fatal. Take local advice from your hotel and dive centres.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Take care when swimming, diving, kayaking or white water rafting in rivers or close to waterfalls, particularly in the rainy season. Currents can be extremely strong.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "See ⁠ watersports safety advice from the Royal Society for the Prevention of Accidents (ROSPA).",
+            "url": "https://www.rospa.com/leisure-water-safety/water/advice/watersports-abroad",
+            "urls": [
+              {
+                "url": "https://www.rospa.com/leisure-water-safety/water/advice/watersports-abroad",
+                "anchor_text": "watersports safety advice"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "See water safety on holiday from the Royal Life Saving Society.",
+            "url": "https://www.rlss.org.uk/safety-on-holiday",
+            "urls": [
+              {
+                "url": "https://www.rlss.org.uk/safety-on-holiday",
+                "anchor_text": "water safety on holiday"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Scuba diving",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Diving schools may have limited resources and do not always observe safety and maintenance standards. Always:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ask to see a dive operator’s credentials",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "check the conditions on your insurance policy – some policies require dive instructors to have certain qualifications",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "make sure safety equipment looks to be in good condition",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "make sure oxygen is available on the boat",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "ask about safety precautions, including the ability to transfer divers to a hyperbaric chamber",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you have not had any previous diving experience, check what to do if something goes wrong, including how to call for help while at sea.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Road travel",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Thailand has a high number of road traffic accidents, particularly with motorcycles. The World Health Organisation (WHO) ranks Thailand as one of the world’s deadliest countries for fatalities on motorcycles.",
+            "url": "https://www.who.int/health-topics/road-safety",
+            "urls": [
+              {
+                "url": "https://www.who.int/health-topics/road-safety",
+                "anchor_text": "fatalities on motorcycles"
+              }
+            ]
+          },
+          {
+            "text": "If you are planning to drive in Thailand, see information on driving abroad. You’ll need to carry both the 1968 version of the international driving permit ( IDP ) and your UK driving licence while driving. You cannot buy an IDP outside the UK, so get one before you travel.",
+            "url": "https://www.gov.uk/driving-abroad",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/driving-abroad",
+                "anchor_text": "information on driving abroad"
+              },
+              {
+                "url": "https://www.gov.uk/driving-abroad/international-driving-permit",
+                "anchor_text": "1968 version of the international driving permit (IDP)"
+              },
+              {
+                "url": "https://www.gov.uk/driving-abroad/international-driving-permit",
+                "anchor_text": "IDP"
+              }
+            ]
+          },
+          {
+            "text": "If you live in Thailand, you can apply for a Thai driving licence using your UK driving licence.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Car and motorcycle hire",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Motorcycles and scooters for hire in tourist areas are often unregistered and cannot be used legally on a public road. Before you hire a vehicle, make sure your travel insurance covers you and check the small print of the lease agreement, paying particular attention to any limits on engine size and necessary licenses. Many travel insurance policies expect you to hold the correct UK licence for the type of car, motorbike or scooter you intend to drive abroad. This means that if you wouldn’t be legally permitted to drive it in the UK, your insurer may not cover you for driving it in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "By law, you must wear a helmet when riding a motorcycle.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you drive a car or ride a motorcycle in Thailand without a valid licence, it could invalidate your travel insurance and you’ll be unable to claim if you have an accident or injury.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Air safety",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Nok Air has been suspended from operating international flights due to safety concerns by Thailand’s Civil Aviation Authority, though still operates domestically within Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Sea travel",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "There are many passenger boat services operating between the mainland and islands. Boats can sink or collide, which has led to fatalities, including of British nationals. Accidents are usually due to:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "rough seas, particularly during monsoon season",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "poor maintenance",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Extreme weather and natural disasters",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Find out what you can do to prepare for and respond to extreme weather and natural hazards.",
+            "url": "https://www.gov.uk/guidance/tropical-cyclones",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/guidance/tropical-cyclones",
+                "anchor_text": "extreme weather and natural hazards"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Rainy season",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "The rainy season is generally from May to October. In Koh Samui and the south-east of Thailand it is from November to March. However, the rainy season has been more unpredictable recently.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Heavy storms cause disruption including flooding and landslides. Lakes, caves and waterfalls are particularly at risk of dangerous flash flooding.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Follow the Thai Meteorological Department for weather warnings.",
+            "url": "https://www.tmd.go.th/en/",
+            "urls": [
+              {
+                "url": "https://www.tmd.go.th/en/",
+                "anchor_text": "Thai Meteorological Department"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Thailand",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Warnings and insurance",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand",
+                "anchor_text": "Warnings and insurance"
+              }
+            ]
+          },
+          {
+            "text": "Entry requirements",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/entry-requirements",
+                "anchor_text": "Entry requirements"
+              }
+            ]
+          },
+          {
+            "text": "Safety and security",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Regional risks",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/regional-risks",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/regional-risks",
+                "anchor_text": "Regional risks"
+              }
+            ]
+          },
+          {
+            "text": "Getting help",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/getting-help",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/getting-help",
+                "anchor_text": "Getting help"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Subscriptions",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Get email alerts",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/email-signup",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/email-signup",
+                "anchor_text": "Get email alerts"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Safety and security",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "This guide also has safety advice for regions of Thailand.",
+            "url": "https://www.gov.uk/foreign-travel-advice/thailand/regional-risks",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/foreign-travel-advice/thailand/regional-risks",
+                "anchor_text": "regions of Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Crime",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Wildlife, animal products and souvenirs",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "It’s illegal to buy, sell, kill or capture any protected wild animal or trade its parts without a licence.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Outdoor activities and adventure tourism",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Transport risks",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Earthquakes",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Earthquakes and tremors are a risk in northern Thailand. Earthquake Track lists recent activity.",
+            "url": "https://earthquaketrack.com/",
+            "urls": [
+              {
+                "url": "https://earthquaketrack.com/",
+                "anchor_text": "Earthquake Track"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "The US Federal Emergency Management Agency website has advice about what to do before, during and after an earthquake.",
+            "url": "https://www.ready.gov/earthquakes",
+            "urls": [
+              {
+                "url": "https://www.ready.gov/earthquakes",
+                "anchor_text": "what to do before, during and after an earthquake"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Related content",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "About Foreign, Commonwealth & Development Office travel advice",
+            "url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                "anchor_text": "About Foreign, Commonwealth & Development Office travel advice"
+              }
+            ]
+          },
+          {
+            "text": "Support for British nationals abroad",
+            "url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                "anchor_text": "Support for British nationals abroad"
+              }
+            ]
+          },
+          {
+            "text": "Foreign travel checklist",
+            "url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                "anchor_text": "Foreign travel checklist"
+              }
+            ]
+          },
+          {
+            "text": "UK help and services in Thailand",
+            "url": "https://www.gov.uk/world/thailand",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/world/thailand",
+                "anchor_text": "UK help and services in Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Explore the topic",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Living in Thailand",
+            "url": "https://www.gov.uk/world/living-in-thailand",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/world/living-in-thailand",
+                "anchor_text": "Living in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Travelling to Thailand",
+            "url": "https://www.gov.uk/world/travelling-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.gov.uk/world/travelling-to-thailand",
+                "anchor_text": "Travelling to Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Safety and security",
+        "main_title": "Thailand",
+        "author": "Foreign, Commonwealth & Development Office",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Yes this page is useful",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "No this page is not useful",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thank you for your feedback",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Do not include personal or financial information like your National Insurance number or credit card details.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "To help us improve GOV.UK, we’d like to know more about your visit today. Please fill in this survey (opens in a new tab and requires JavaScript ).",
+            "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+            "urls": [
+              {
+                "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+                "anchor_text": "Please fill in this survey (opens in a new tab and requires JavaScript)"
+              },
+              {
+                "url": "https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=no-js",
+                "anchor_text": "and requires JavaScript"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

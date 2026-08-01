@@ -5,6 +5,12 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlPhuketHotelDetailGuide } from '../../../../data/hotel-details/nl-phuket';
+import { getNlPatongHotelDetailGuideA } from '../../../../data/hotel-details/nl-patong-a';
+import { getNlPatongBHotelDetailGuide } from '../../../../data/hotel-details/nl-patong-b';
+import { getNlPatongCHotelDetailGuide } from '../../../../data/hotel-details/nl-patong-c';
+import type { HotelDetailGuideData } from '../../../../data/hotel-details/types';
 import { withSubId, TRIP_GENERIC } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
 
@@ -31,6 +37,7 @@ interface Sibling { slug: string; name: string; }
 
 interface Props {
   hotel: Hotel;
+  nlGuide: HotelDetailGuideData | null;
   tripPartnerUrl: string;
   siblings: Sibling[];
   hotelsHubTripUrl: string;
@@ -113,11 +120,20 @@ const FAQS_NL: Record<string, { q: string; a: string }[]> = {
   ],
 };
 
-export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings, hotelsHubTripUrl, lastUpdated }: Props) {
+export default function PatongHotelReviewPage({ hotel, nlGuide, tripPartnerUrl, siblings, hotelsHubTripUrl, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
   const sub = (placement: string) => `${subId}-pseo-phuket-patong-hotel-${hotel.slug}-${placement}`;
+
+  if (isNl && nlGuide) {
+    return (
+      <HotelDetailGuideTemplate
+        data={nlGuide}
+        tripHref={withSubId(tripPartnerUrl || TRIP_GENERIC, sub('hotel-detail'))}
+      />
+    );
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -227,7 +243,7 @@ export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings,
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
@@ -318,7 +334,7 @@ export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings,
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -326,7 +342,10 @@ export default function PatongHotelReviewPage({ hotel, tripPartnerUrl, siblings,
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const hotelsData = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'data/pseo/areas/patong-hotels.json'), 'utf8'));
-  const paths = hotelsData.hotels.map((h: Hotel) => ({ params: { hotel: h.slug } }));
+  const paths = hotelsData.hotels.flatMap((h: Hotel) => [
+    { params: { hotel: h.slug }, locale: 'en' },
+    { params: { hotel: h.slug }, locale: 'nl' },
+  ]);
   return { paths, fallback: false };
 };
 
@@ -342,6 +361,12 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   return {
     props: {
       hotel,
+      nlGuide:
+        getNlPhuketHotelDetailGuide(slug) ||
+        getNlPatongHotelDetailGuideA(slug) ||
+        getNlPatongBHotelDetailGuide(slug) ||
+        getNlPatongCHotelDetailGuide(slug) ||
+        null,
       tripPartnerUrl,
       siblings,
       hotelsHubTripUrl: partnersData.partners.trip_patong_hotels_hub.partnerUrl,

@@ -1,0 +1,981 @@
+{
+  "captured_at": "2026-07-24T10:30:51.392Z",
+  "locale": "nl",
+  "url": "https://en.wikipedia.org/wiki/Wat_Rong_Suea_Ten",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Main menu",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Main page",
+          "url": "https://en.wikipedia.org/wiki/Main_Page",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Main_Page",
+              "anchor_text": "Main page"
+            }
+          ]
+        },
+        {
+          "text": "Current events",
+          "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Portal:Current_events",
+              "anchor_text": "Current events"
+            }
+          ]
+        },
+        {
+          "text": "Random article",
+          "url": "https://en.wikipedia.org/wiki/Special:Random",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Special:Random",
+              "anchor_text": "Random article"
+            }
+          ]
+        },
+        {
+          "text": "About Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+              "anchor_text": "About Wikipedia"
+            }
+          ]
+        },
+        {
+          "text": "Contact us",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+              "anchor_text": "Contact us"
+            }
+          ]
+        },
+        {
+          "text": "Learn to edit",
+          "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Help:Introduction",
+              "anchor_text": "Learn to edit"
+            }
+          ]
+        },
+        {
+          "text": "Community portal",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+              "anchor_text": "Community portal"
+            }
+          ]
+        },
+        {
+          "text": "Recent changes",
+          "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+              "anchor_text": "Recent changes"
+            }
+          ]
+        },
+        {
+          "text": "Upload file",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+              "anchor_text": "Upload file"
+            }
+          ]
+        },
+        {
+          "text": "Special pages",
+          "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+              "anchor_text": "Special pages"
+            }
+          ]
+        },
+        {
+          "text": "Create account",
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wat+Rong+Suea+Ten",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wat+Rong+Suea+Ten",
+              "anchor_text": "Create account"
+            }
+          ]
+        },
+        {
+          "text": "Log in",
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Wat+Rong+Suea+Ten",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Wat+Rong+Suea+Ten",
+              "anchor_text": "Log in"
+            }
+          ]
+        },
+        {
+          "text": "Create account",
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wat+Rong+Suea+Ten",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Wat+Rong+Suea+Ten",
+              "anchor_text": "Create account"
+            }
+          ]
+        },
+        {
+          "text": "Log in",
+          "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Wat+Rong+Suea+Ten",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Wat+Rong+Suea+Ten",
+              "anchor_text": "Log in"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "This page was last edited on 9 July 2026, at 12:55 (UTC).",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Page was rendered with Parsoid.",
+          "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+          "urls": [
+            {
+              "url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid",
+              "anchor_text": "Parsoid"
+            }
+          ]
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;\nadditional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+              "anchor_text": "Creative Commons Attribution-ShareAlike 4.0 License"
+            },
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
+              "anchor_text": "Terms of Use"
+            },
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+              "anchor_text": "Privacy Policy"
+            },
+            {
+              "url": "https://wikimediafoundation.org/",
+              "anchor_text": "Wikimedia Foundation, Inc."
+            }
+          ]
+        },
+        {
+          "text": "Privacy policy",
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+          "urls": [
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy",
+              "anchor_text": "Privacy policy"
+            }
+          ]
+        },
+        {
+          "text": "About Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+              "anchor_text": "About Wikipedia"
+            }
+          ]
+        },
+        {
+          "text": "Contact Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+              "anchor_text": "Contact Wikipedia"
+            }
+          ]
+        },
+        {
+          "text": "Legal & safety contacts",
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+          "urls": [
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information",
+              "anchor_text": "Legal & safety contacts"
+            }
+          ]
+        },
+        {
+          "text": "Code of Conduct",
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+          "urls": [
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct",
+              "anchor_text": "Code of Conduct"
+            }
+          ]
+        },
+        {
+          "text": "Cookie statement",
+          "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+          "urls": [
+            {
+              "url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement",
+              "anchor_text": "Cookie statement"
+            }
+          ]
+        },
+        {
+          "text": "Mobile view",
+          "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&mobileaction=toggle_view_mobile",
+          "urls": [
+            {
+              "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&mobileaction=toggle_view_mobile",
+              "anchor_text": "Mobile view"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Wat Rong Suea Ten",
+        "main_title": "Wat Rong Suea Ten",
+        "author": "Contributors to Wikimedia projects",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "From Wikipedia, the free encyclopedia",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Interactive map of Wat Rong Suea Ten",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wat Rong Suea Ten ( Thai : วัดร่องเสือเต้น ), better known as the Blue Temple, is a Buddhist temple in Chiang Rai, Thailand, known for its striking modern artistic design.",
+            "url": "https://en.wikipedia.org/wiki/Thai_language",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Thai_language",
+                "anchor_text": "Thai"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Buddhist_temple",
+                "anchor_text": "Buddhist temple"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Chiang_Rai",
+                "anchor_text": "Chiang Rai"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Thailand",
+                "anchor_text": "Thailand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "View history",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&action=history",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&action=history",
+                "anchor_text": "View history"
+              }
+            ]
+          },
+          {
+            "text": "View history",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&action=history",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&action=history",
+                "anchor_text": "View history"
+              }
+            ]
+          },
+          {
+            "text": "What links here",
+            "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Wat_Rong_Suea_Ten",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/Wat_Rong_Suea_Ten",
+                "anchor_text": "What links here"
+              }
+            ]
+          },
+          {
+            "text": "Related changes",
+            "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Wat_Rong_Suea_Ten",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Wat_Rong_Suea_Ten",
+                "anchor_text": "Related changes"
+              }
+            ]
+          },
+          {
+            "text": "Upload file",
+            "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard",
+                "anchor_text": "Upload file"
+              }
+            ]
+          },
+          {
+            "text": "Permanent link",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&oldid=1363317038",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&oldid=1363317038",
+                "anchor_text": "Permanent link"
+              }
+            ]
+          },
+          {
+            "text": "Page information",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&action=info",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&action=info",
+                "anchor_text": "Page information"
+              }
+            ]
+          },
+          {
+            "text": "Cite this page",
+            "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Wat_Rong_Suea_Ten&id=1363317038&wpFormIdentifier=titleform",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Wat_Rong_Suea_Ten&id=1363317038&wpFormIdentifier=titleform",
+                "anchor_text": "Cite this page"
+              }
+            ]
+          },
+          {
+            "text": "Get shortened URL",
+            "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWat_Rong_Suea_Ten",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWat_Rong_Suea_Ten",
+                "anchor_text": "Get shortened URL"
+              }
+            ]
+          },
+          {
+            "text": "Switch to legacy parser",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&useparsoid=0",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&useparsoid=0",
+                "anchor_text": "Switch to legacy parser"
+              }
+            ]
+          },
+          {
+            "text": "Download as PDF",
+            "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Wat_Rong_Suea_Ten&action=show-download-screen",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Wat_Rong_Suea_Ten&action=show-download-screen",
+                "anchor_text": "Download as PDF"
+              }
+            ]
+          },
+          {
+            "text": "Printable version",
+            "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&printable=yes",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/w/index.php?title=Wat_Rong_Suea_Ten&printable=yes",
+                "anchor_text": "Printable version"
+              }
+            ]
+          },
+          {
+            "text": "In other projects",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/Category:Wat_Rong_Suea_Ten",
+            "urls": [
+              {
+                "url": "https://commons.wikimedia.org/wiki/Category:Wat_Rong_Suea_Ten",
+                "anchor_text": "Wikimedia Commons"
+              }
+            ]
+          },
+          {
+            "text": "Wikidata item",
+            "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q81648240",
+            "urls": [
+              {
+                "url": "https://www.wikidata.org/wiki/Special:EntityPage/Q81648240",
+                "anchor_text": "Wikidata item"
+              }
+            ]
+          },
+          {
+            "text": "Thai Modern Architecture",
+            "url": "https://en.wikipedia.org/wiki/Architecture_of_Thailand",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Architecture_of_Thailand",
+                "anchor_text": "Thai Modern Architecture"
+              }
+            ]
+          },
+          {
+            "text": "Neotraditional Thai art",
+            "url": "https://en.wikipedia.org/wiki/Neotraditional_Thai_art?action=edit&redlink=1",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Neotraditional_Thai_art?action=edit&redlink=1",
+                "anchor_text": "Neotraditional Thai art"
+              }
+            ]
+          },
+          {
+            "text": "Buddhist temples in Chiang Rai province",
+            "url": "https://en.wikipedia.org/wiki/Category:Buddhist_temples_in_Chiang_Rai_province",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Buddhist_temples_in_Chiang_Rai_province",
+                "anchor_text": "Buddhist temples in Chiang Rai province"
+              }
+            ]
+          },
+          {
+            "text": "Neotraditional Thai art",
+            "url": "https://en.wikipedia.org/wiki/Category:Neotraditional_Thai_art",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Neotraditional_Thai_art",
+                "anchor_text": "Neotraditional Thai art"
+              }
+            ]
+          },
+          {
+            "text": "Articles with short description",
+            "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+                "anchor_text": "Articles with short description"
+              }
+            ]
+          },
+          {
+            "text": "Short description matches Wikidata",
+            "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+                "anchor_text": "Short description matches Wikidata"
+              }
+            ]
+          },
+          {
+            "text": "Pages using infobox mapframe without shape links in Wikidata",
+            "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+                "anchor_text": "Pages using infobox mapframe without shape links in Wikidata"
+              }
+            ]
+          },
+          {
+            "text": "Infobox religious building with unknown affiliation",
+            "url": "https://en.wikipedia.org/wiki/Category:Infobox_religious_building_with_unknown_affiliation",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Infobox_religious_building_with_unknown_affiliation",
+                "anchor_text": "Infobox religious building with unknown affiliation"
+              }
+            ]
+          },
+          {
+            "text": "Articles containing Thai-language text",
+            "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Articles_containing_Thai-language_text",
+                "anchor_text": "Articles containing Thai-language text"
+              }
+            ]
+          },
+          {
+            "text": "CS1 Thai-language sources (th)",
+            "url": "https://en.wikipedia.org/wiki/Category:CS1_Thai-language_sources_(th)",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:CS1_Thai-language_sources_(th)",
+                "anchor_text": "CS1 Thai-language sources (th)"
+              }
+            ]
+          },
+          {
+            "text": "Pages using gadget WikiMiniAtlas",
+            "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Pages_using_gadget_WikiMiniAtlas",
+                "anchor_text": "Pages using gadget WikiMiniAtlas"
+              }
+            ]
+          },
+          {
+            "text": "Coordinates on Wikidata",
+            "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata",
+                "anchor_text": "Coordinates on Wikidata"
+              }
+            ]
+          },
+          {
+            "text": "Pages using the Kartographer extension",
+            "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Kartographer_extension",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Category:Pages_using_the_Kartographer_extension",
+                "anchor_text": "Pages using the Kartographer extension"
+              }
+            ]
+          }
+        ],
+        "table_content": [
+          {
+            "header": [
+              {
+                "row_cells": [
+                  {
+                    "text": "Wat Rong Suea Ten",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              }
+            ],
+            "body": [
+              {
+                "row_cells": [
+                  {
+                    "text": "วัดร่องเสือเต้น",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/File:Chiang_Rai_Blue_Temple_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99.jpg",
+                        "anchor_text": ""
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Religion",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Affiliation",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/List_of_religions_and_spiritual_traditions",
+                        "anchor_text": "Affiliation"
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "text": "Maha Nikaya Buddhism",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Maha_Nikaya",
+                        "anchor_text": "Maha Nikaya"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Buddhism",
+                        "anchor_text": "Buddhism"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Province",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Chiang Rai",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Chiang_Rai",
+                        "anchor_text": "Chiang Rai"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Location",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Location",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "Rimkok Subdistrict, Mueang District, Chiang Rai, Thailand",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Rimkok_Subdistrict?action=edit&redlink=1",
+                        "anchor_text": "Rimkok Subdistrict"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Mueang_Chiang_Rai_District",
+                        "anchor_text": "Mueang District"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Chiang_Rai_Province",
+                        "anchor_text": "Chiang Rai"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Thailand",
+                        "anchor_text": "Thailand"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Interactive map of Wat Rong Suea Ten",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Architecture",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Architect",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Architect",
+                        "anchor_text": "Architect"
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "text": "Phuttha Kabkaew",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Phuttha_Kabkaew?action=edit&redlink=1",
+                        "anchor_text": "Phuttha Kabkaew"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Style",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Architectural_style",
+                        "anchor_text": "Style"
+                      }
+                    ],
+                    "is_header": true
+                  },
+                  {
+                    "text": "Thai Modern Architecture\nNeotraditional Thai art",
+                    "urls": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Architecture_of_Thailand",
+                        "anchor_text": "Thai Modern Architecture"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Neotraditional_Thai_art?action=edit&redlink=1",
+                        "anchor_text": "Neotraditional Thai art"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Completed",
+                    "urls": null,
+                    "is_header": true
+                  },
+                  {
+                    "text": "2016",
+                    "urls": null,
+                    "is_header": false
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "Website",
+                    "urls": null,
+                    "is_header": true
+                  }
+                ]
+              },
+              {
+                "row_cells": [
+                  {
+                    "text": "www.tourismthailand.org /Attraction /wat-rong-suea-ten",
+                    "urls": [
+                      {
+                        "url": "https://www.tourismthailand.org/Attraction/wat-rong-suea-ten",
+                        "anchor_text": "www.tourismthailand.org/Attraction/wat-rong-suea-ten"
+                      }
+                    ],
+                    "is_header": false
+                  }
+                ]
+              }
+            ],
+            "footer": null
+          }
+        ]
+      },
+      {
+        "h_title": "History",
+        "main_title": "Wat Rong Suea Ten",
+        "author": "Contributors to Wikimedia projects",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "An abandoned temple with ancient brick remains stood previously on the same site. The temple's replacement was initiated by the local community in 1996, but construction started on 27 October 2005. Its final design was realized by Chiang Rai folk artist Mr. Phuttha Kabkaew ( พุทธา กาบแก้ว ) ( a.k.a. Sala Nok, สล่านก, sala is a northern Thai title for an artisan). He gained skills and learned from Chalermchai Kositpipat while working on his famous Wat Rong Khun, just outside the city. Wat Rong Suea Ten's main building was completed on 22 January 2016. It took 11 years to complete the construction. The architecture is the unconventional \"neotraditional Thai art\" style of Buddhism pioneered by Chalermchai, employing lavishly ornamented sculptures and psychedelic visual imagery. [ 1 ] [ 2 ] [ 3 ]",
+            "url": "https://en.wikipedia.org/wiki/Chalermchai_Kositpipat",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Chalermchai_Kositpipat",
+                "anchor_text": "Chalermchai Kositpipat"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Wat_Rong_Khun",
+                "anchor_text": "Wat Rong Khun"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Structures and symbolism",
+        "main_title": "Wat Rong Suea Ten",
+        "author": "Contributors to Wikimedia projects",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "The highlight of the temple is the vihāra of Wat Rong Suea Ten. Built and designed by Mr. Phuttha Kabkaew. The temple is 13 meters wide and 48 meters long. The temple has a blue with gold trim. In front of the temple are two large Nāgas side by side. The artwork style of Ajarn Thawan Duchanee was applied. Inside is the pearl white Buddha image named Phra Buddha Ratchamongkol Bodi Trilokanat. The lap width is 5 meters and the height is 6.5 meters. There are 88,000 Phra Rod Lamphun statues and many silver and gold rings buried under this Buddha statue. The area around the head includes relics of Lord Buddha. Behind the temple is a large stupa which contrasts with the blue, gold and sky.",
+            "url": "https://en.wikipedia.org/wiki/Vih%C4%81ra",
+            "urls": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Vih%C4%81ra",
+                "anchor_text": "vihāra"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/N%C4%81ga",
+                "anchor_text": "Nāgas"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Buddha_image",
+                "anchor_text": "Buddha image"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Stupa",
+                "anchor_text": "stupa"
+              }
+            ]
+          },
+          {
+            "text": "The temple contains the Buddha's relics from the patriarch Krom Luang Wachirayansangworn (Charoen Suwatthana).",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "References",
+        "main_title": "Wat Rong Suea Ten",
+        "author": "Contributors to Wikimedia projects",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "↑ \"วัดร่องเสือเต้น ศิลปะวัดสีน้ำเงินแห่งเดียวในเชียงราย\". Chiangrai Focus (in Thai). 16 November 2021. Retrieved 28 August 2023.",
+            "url": "https://www.chiangraifocus.com/1472/",
+            "urls": [
+              {
+                "url": "https://www.chiangraifocus.com/1472/",
+                "anchor_text": "\"วัดร่องเสือเต้น ศิลปะวัดสีน้ำเงินแห่งเดียวในเชียงราย\""
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "↑ Silberling, Amanda (24 April 2019). \"Reimagining Abandoned Buddhist Temples as Unconventional Art Spaces\". Hyperallergic. Retrieved 28 August 2023.",
+            "url": "https://hyperallergic.com/496492/reimagining-abandoned-buddhist-temples-as-unconventional-art-spaces/",
+            "urls": [
+              {
+                "url": "https://hyperallergic.com/496492/reimagining-abandoned-buddhist-temples-as-unconventional-art-spaces/",
+                "anchor_text": "\"Reimagining Abandoned Buddhist Temples as Unconventional Art Spaces\""
+              }
+            ]
+          },
+          {
+            "text": "↑ \"พุทธศิลป์เบ่งบาน! ศิษย์ \"เฉลิมชัย\" ผสมแนวคิด \"อ.ถวัลย์\" ผุดวัดสุดวิจิตร\". Manager Online (in Thai). 17 December 2015. Retrieved 28 August 2023.",
+            "url": "https://mgronline.com/local/detail/9580000138216",
+            "urls": [
+              {
+                "url": "https://mgronline.com/local/detail/9580000138216",
+                "anchor_text": "\"พุทธศิลป์เบ่งบาน! ศิษย์ \"เฉลิมชัย\" ผสมแนวคิด \"อ.ถวัลย์\" ผุดวัดสุดวิจิตร\""
+              }
+            ]
+          },
+          {
+            "text": "19°55′24″N 99°50′30″E ﻿ / ﻿ 19.92338°N 99.84171°E",
+            "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Rong_Suea_Ten&params=19.92338_N_99.84171_E_type:landmark_region:TH",
+            "urls": [
+              {
+                "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Rong_Suea_Ten&params=19.92338_N_99.84171_E_type:landmark_region:TH",
+                "anchor_text": "19°55′24″N 99°50′30″E﻿ / ﻿19.92338°N 99.84171°E﻿ / 19.92338; 99.84171"
+              },
+              {
+                "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Rong_Suea_Ten&params=19.92338_N_99.84171_E_type:landmark_region:TH",
+                "anchor_text": "99°50′30″E"
+              },
+              {
+                "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Rong_Suea_Ten&params=19.92338_N_99.84171_E_type:landmark_region:TH",
+                "anchor_text": "﻿ / ﻿"
+              },
+              {
+                "url": "https://geohack.toolforge.org/geohack.php?pagename=Wat_Rong_Suea_Ten&params=19.92338_N_99.84171_E_type:landmark_region:TH",
+                "anchor_text": "19.92338°N 99.84171°E"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Gallery",
+        "main_title": "Wat Rong Suea Ten",
+        "author": "Contributors to Wikimedia projects",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

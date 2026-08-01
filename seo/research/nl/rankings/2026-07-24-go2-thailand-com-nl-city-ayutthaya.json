@@ -1,0 +1,40 @@
+{
+  "captured_at": "2026-07-24T11:18:39.651Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/city/ayutthaya/",
+  "cost": 0.01248,
+  "rankings": [
+    {
+      "keyword": "ayutthaya",
+      "position": 88,
+      "volume": 4400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/ayutthaya/"
+    },
+    {
+      "keyword": "thailand ayutthaya",
+      "position": 24,
+      "volume": 4400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/ayutthaya/"
+    },
+    {
+      "keyword": "hoofdstad van thailand",
+      "position": 87,
+      "volume": 2400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/ayutthaya/"
+    },
+    {
+      "keyword": "oude hoofdstad thailand",
+      "position": 77,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/ayutthaya/"
+    }
+  ]
+}

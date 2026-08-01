@@ -1,16 +1,24 @@
 ---
-title: "Kraftwerk's First-Ever Thailand Concert: Multimedia Tour Hits Bangkok in May 2026"
+title: "Kraftwerk Bangkok 2026: First Thailand Concert Recap"
 slug: "kraftwerk-multimedia-tour-bangkok-may-2026-concert-guide"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Kraftwerk Bangkok 2026", "concerts Bangkok 2026", "QSNCC events", "electronic music Thailand", "Bangkok events May 2026", "Multimedia Tour"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Kraftwerk bring their legendary Multimedia Tour to Bangkok on May 10, 2026 — marking the electronic pioneers' first-ever performance in Thailand. Here is everything you need to know about tickets, venue, and the show."
+tags:
+  [
+    "Kraftwerk Bangkok 2026",
+    "concerts Bangkok 2026",
+    "QSNCC events",
+    "electronic music Thailand",
+    "Bangkok events May 2026",
+    "Multimedia Tour",
+  ]
+image: "/images/redesign/editorial/kraftwerk-multimedia-tour-bangkok-may-2026-concert-guide-hero.webp"
+description: "A historical guide to Kraftwerk's first Thailand concert, held at QSNCC Bangkok on May 10, 2026, with confirmed venue and ticket details."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "More Than Good Hooks — Kraftwerk Live in Thailand, May 2026"
     url: "https://morethangoodhooks.com/2025/11/24/kraftwerk-live-in-thailand-may-2026/"
@@ -21,6 +29,8 @@ sources:
   - name: "Time Out Bangkok — Bangkok's Top Concerts of 2026"
     url: "https://www.timeout.com/bangkok/things-to-do/bangkoks-top-16-concerts-of-2026"
 ---
+
+> **Event status (updated 1 August 2026):** This concert took place on 10 May 2026. ThaiTicketMajor still provides the official historical listing; the prices and entry details below do not apply to any future Kraftwerk show.
 
 ## Electronic Music Legends Come to Bangkok
 
@@ -36,7 +46,7 @@ The setlist typically draws from more than four decades of material, including t
 
 ## Tickets and Prices
 
-Tickets are available through Thai Ticket Major. Three pricing tiers have been announced. For a full picture of what concerts are coming to Bangkok in 2026, see our [K-pop concerts Bangkok 2026 guide](https://go2-thailand.com/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/) and the [BTS World Tour Bangkok December 2026 guide](https://go2-thailand.com/blog/bts-world-tour-bangkok-december-2026-tickets-guide/).
+Tickets are available through Thai Ticket Major. Three pricing tiers have been announced. For a separately researched later event, see the [BTS Bangkok December 2026 concert guide](/blog/bts-world-tour-bangkok-december-2026-tickets-guide/) with its dated official status and Rajamangala travel plan.
 
 - **Standard:** 3,300 baht
 - **Premium:** 3,800 baht

@@ -1,18 +1,17 @@
 import Head from 'next/head';
 import { useRouter } from 'next/router';
+import unpairedRoutes from '../seo/inventory/unpaired-routes.json';
 
 const SITE_URL = 'https://go2-thailand.com';
-const CANONICAL_PATH_MAP: Record<string, string> = {
-  '/travel-insurance': '/travel-insurance-thailand',
-  '/travel-insurance/': '/travel-insurance-thailand',
-  '/travel-insurance-thailand/': '/travel-insurance-thailand',
-};
-
 // Map Next.js locale codes to hreflang language codes
 const LOCALE_TO_HREFLANG: Record<string, string> = {
   en: 'en',
   nl: 'nl',
 };
+
+// Semantically equivalent owners with different locale paths can be added
+// explicitly. Keep this empty until both URLs are true translation equivalents.
+const CROSS_LOCALE_ALTERNATES: Record<string, Partial<Record<'en' | 'nl', string>>> = {};
 
 export default function Hreflang() {
   const { asPath, locales, locale: currentLocale } = useRouter();
@@ -21,29 +20,52 @@ export default function Hreflang() {
 
   // Remove query string and hash from path
   const cleanPath = asPath.split('?')[0].split('#')[0];
-  const seoPath = CANONICAL_PATH_MAP[cleanPath] || cleanPath;
+  const seoPath = cleanPath;
+  const registryPath = seoPath === '/' || seoPath.endsWith('/') ? seoPath : `${seoPath}/`;
+  const crossLocaleAlternates = CROSS_LOCALE_ALTERNATES[registryPath];
 
   // All pages use EN + NL only
   const isTransportRoute = seoPath.startsWith('/transport/') && seoPath !== '/transport/';
 
   let activeLocales = locales;
-  if (isTransportRoute) {
+  if (crossLocaleAlternates) {
+    activeLocales = locales.filter(locale => Boolean(crossLocaleAlternates[locale as 'en' | 'nl']));
+  } else if (isTransportRoute) {
     activeLocales = locales?.filter(l => l === 'en');
+  } else if (unpairedRoutes.enOnly.includes(registryPath)) {
+    activeLocales = locales.filter(locale => locale === 'en');
+  } else if (unpairedRoutes.nlOnly.includes(registryPath)) {
+    activeLocales = locales.filter(locale => locale === 'nl');
   }
 
+  const canonicalLocale = crossLocaleAlternates
+    ? currentLocale
+    : unpairedRoutes.enOnly.includes(registryPath)
+    ? 'en'
+    : unpairedRoutes.nlOnly.includes(registryPath)
+      ? 'nl'
+      : currentLocale;
+
+  const canonicalPath = crossLocaleAlternates?.[canonicalLocale as 'en' | 'nl'] || seoPath;
   const canonicalUrl =
-    currentLocale === 'en'
-      ? `${SITE_URL}${seoPath}`
-      : `${SITE_URL}/${currentLocale}${seoPath}`;
+    canonicalLocale === 'en'
+      ? `${SITE_URL}${canonicalPath}`
+      : `${SITE_URL}/${canonicalLocale}${canonicalPath}`;
+  const defaultUrl = crossLocaleAlternates?.en
+    ? `${SITE_URL}${crossLocaleAlternates.en}`
+    : unpairedRoutes.nlOnly.includes(registryPath)
+    ? `${SITE_URL}/nl${seoPath}`
+    : `${SITE_URL}${seoPath}`;
 
   return (
     <Head>
       {activeLocales.map((locale) => {
         const hreflang = LOCALE_TO_HREFLANG[locale] || locale;
+        const alternatePath = crossLocaleAlternates?.[locale as 'en' | 'nl'] || seoPath;
         const href =
           locale === 'en'
-            ? `${SITE_URL}${seoPath}`
-            : `${SITE_URL}/${locale}${seoPath}`;
+            ? `${SITE_URL}${alternatePath}`
+            : `${SITE_URL}/${locale}${alternatePath}`;
 
         return (
           <link
@@ -55,7 +77,7 @@ export default function Hreflang() {
         );
       })}
       {/* x-default points to the English (default) version */}
-      <link rel="alternate" hrefLang="x-default" href={`${SITE_URL}${seoPath}`} />
+      <link rel="alternate" hrefLang="x-default" href={defaultUrl} />
       {/* Canonical always points to current locale version */}
       <link key="canonical" rel="canonical" href={canonicalUrl} />
       {/* Open Graph defaults - page components provide their own image tags via SEOHead */}

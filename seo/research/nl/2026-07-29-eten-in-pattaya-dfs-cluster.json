@@ -1,0 +1,38 @@
+{
+  "captured_at": "2026-07-29T21:04:11.978Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "eten in pattaya",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "eten in pattaya"
+  ],
+  "keywords": [
+    {
+      "keyword": "eten in pattaya",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat kost eten in pattaya",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

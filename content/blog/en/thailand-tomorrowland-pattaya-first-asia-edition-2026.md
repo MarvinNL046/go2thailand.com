@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["tomorrowland", "pattaya", "music festival", "thailand events", "thailand 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tomorrowland-pattaya-first-asia-edition-2026-hero.webp"
 description: "Tomorrowland is heading to Pattaya, Thailand in December 2026 for its first-ever Asia edition. All 150,000 tickets sold out in under an hour."
 featured: false
 readingTime: 4
@@ -50,7 +50,7 @@ Tickets ranged from **5,100 to 20,200 THB** (approximately $145–$575 USD):
 
 The VIP Comfort Pass includes fast-lane entry, elevated viewing platforms, private bars and restrooms, bottle service, and lockers.
 
-**All tickets are currently sold out.** The festival sold approximately 150,000 tickets within the first hour of the worldwide general sale on March 7, 2026. A waitlist and potential resale options may become available closer to the event — check [Tomorrowland's official site](https://www.tomorrowland.com/) for updates. For other major concerts coming to Thailand, see the [K-pop concerts guide for Bangkok 2026](/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/) and the [BTS World Tour Bangkok guide](/blog/bts-world-tour-bangkok-december-2026-tickets-guide/).
+**All tickets are currently sold out.** The festival sold approximately 150,000 tickets within the first hour of the worldwide general sale on March 7, 2026. A waitlist and potential resale options may become available closer to the event — check [Tomorrowland's official site](https://www.tomorrowland.com/) for updates. For another major event, use the [BTS Bangkok 2026 concert guide](/blog/bts-world-tour-bangkok-december-2026-tickets-guide/) to check its separately dated official status and travel plan.
 
 ## Why Pattaya?
 

@@ -2,6 +2,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
 import { useTranslation } from '../hooks/useTranslation';
+import { normalizeNlInternalHref } from '../lib/nl-route-owners';
+import { normalizeEnInternalHref } from '../lib/en-route-owners';
 
 interface Island {
   id: number;
@@ -23,6 +25,9 @@ interface IslandCardProps {
 const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
   const { t } = useTranslation('common');
   const { locale } = useRouter();
+  const islandHref = locale === 'nl'
+    ? normalizeNlInternalHref(`/islands/${island.slug}/`)
+    : normalizeEnInternalHref(`/islands/${island.slug}/`);
 
   const regionColor = island.region === 'Gulf of Thailand'
     ? 'bg-thailand-blue'
@@ -30,7 +35,7 @@ const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
 
   return (
     <div className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
-      <Link href={`/islands/${island.slug}/`}>
+      <Link href={islandHref}>
         <div className="relative h-48 w-full">
           <Image
             src={island.image}
@@ -48,7 +53,7 @@ const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
       </Link>
 
       <div className="p-4">
-        <Link href={`/islands/${island.slug}/`}>
+        <Link href={islandHref}>
           <h3 className="text-xl font-heading font-bold text-gray-900 mb-2 hover:text-thailand-blue transition-colors">
             {island.name[(locale as keyof typeof island.name)] || island.name.en}
           </h3>
@@ -74,7 +79,7 @@ const IslandCard: React.FC<IslandCardProps> = ({ island }) => {
         )}
 
         <Link
-          href={`/islands/${island.slug}/`}
+          href={islandHref}
           className="block w-full bg-thailand-blue text-white text-center py-2 px-4 rounded-xl hover:bg-thailand-red transition-colors text-sm font-medium"
         >
           {t('buttons.exploreCity') || 'Explore Island'}

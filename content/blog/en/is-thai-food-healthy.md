@@ -178,7 +178,7 @@ Curries are delicious but calorie-dense. Instead of pouring a large serving over
 
 ### 6. Drink Water Instead of Sweet Drinks
 
-Thai iced tea, iced coffee, fruit shakes with condensed milk, and sugary sodas can add **200-400 calories per drink**. Stick to water, unsweetened tea, or fresh [coconut water](/drinks/coconut-water/). For more food and drink tips, browse our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) and [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
+Thai iced tea, iced coffee, fruit shakes with condensed milk, and sugary sodas can add **200-400 calories per drink**. Stick to water, unsweetened tea, or fresh [coconut water](/drinks/coconut-water/). For more food and drink tips, browse our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) and [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 
 ### 7. Eat Where the Locals Eat
 

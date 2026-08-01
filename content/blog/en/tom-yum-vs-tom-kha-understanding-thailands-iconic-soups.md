@@ -46,7 +46,7 @@ The evolution of these soups highlights Thailand's position as a cultural crossr
 
 ### Historical Influences
 
-During the Sukhothai period, early forms of sour soups used wild herbs foraged from forests, laying the groundwork for **Tom Yum**'s tangy profile. Chinese immigrants in the 19th century introduced coconut milk techniques, which softened into Tom Kha's creamy base. Our visits to historical sites in [Ayutthaya](https://go2-thailand.com/destinations/ayutthaya/) revealed how these fusions created resilient, flavorful dishes suited to Thailand's climate.
+During the Sukhothai period, early forms of sour soups used wild herbs foraged from forests, laying the groundwork for **Tom Yum**'s tangy profile. Chinese immigrants in the 19th century introduced coconut milk techniques, which softened into Tom Kha's creamy base. Our visits to historical sites in [Ayutthaya](https://go2-thailand.com/city/ayutthaya/) revealed how these fusions created resilient, flavorful dishes suited to Thailand's climate.
 
 In central Thailand, royal courts refined these recipes, incorporating lemongrass and galangal for medicinal benefits. This heritage persists, with soups symbolizing hospitality in homes and street eateries alike.
 
@@ -121,22 +121,6 @@ Serve hot with sticky rice, ideal for dipping. In northern Thailand, it's often 
 >
 > *Source: [Official Thailand Tourism](https://www.tourismthailand.org/Articles/i-understand-tom-yum-gung-and-tom-kha-gai)*
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & [Activities](https://getyourguide.tpo.lv/GuAFfGGK?subid=blog)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 4. Key Ingredients: What Makes Them Tick
 
@@ -166,7 +150,7 @@ These dishes appear in festivals and rituals, symbolizing abundance. In Buddhist
 
 ### Role in Daily Meals
 
-Soups kick off lunches, balancing heavier curries. In central Thailand, Tom Kha comforts after labor. We experienced this in [Kanchanaburi](https://go2-thailand.com/destinations/kanchanaburi/), where riverside eateries serve them fresh.
+Soups kick off lunches, balancing heavier curries. In central Thailand, Tom Kha comforts after labor. We experienced this in [Kanchanaburi](https://go2-thailand.com/city/kanchanaburi/), where riverside eateries serve them fresh.
 
 They're versatile—light for snacks or hearty with rice.
 
@@ -181,22 +165,6 @@ During Loy Krathong, floating soups in baskets honor waters. May's Visakha Bucha
 
 For etiquette details, see our [etiquette culture guide](https://go2-thailand.com/practical-info/etiquette-culture/).
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 6. Regional Variations Across Thailand
 
@@ -223,22 +191,6 @@ Phuket's Tom Yum brims with squid and tamarind sourness. Tom Kha might add pinea
 >
 > *Source: [Wikipedia Tom Yum](https://en.wikipedia.org/wiki/Tom_yum)*
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 7. Where to Find the Best Versions
 
@@ -264,22 +216,6 @@ Chiang Mai's night bazaar features herbal Tom Kha from hill tribe vendors. In Ka
 
 We may earn a small commission from bookings made through our links, at no extra cost to you. This helps us keep creating free travel guides.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">[Book Your Stay](https://booking.tpo.lv/2PT1kR82?subid=blog)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 8. How to Order Like a Local
 
@@ -329,7 +265,7 @@ Tom Yum energizes, Tom Kha comforts—choices depend on weather and craving.
 | **Gaeng Jued** | Light, brothy starters | 40-80 THB ($1.20-2.40 USD) | ⭐⭐⭐⭐ |
 | **Boat Noodles** | Hearty, dark broth enthusiasts | 50-100 THB ($1.50-3 USD) | ⭐⭐⭐⭐ |
 
-For Khao Soi details, see our [Khao Soi food guide](https://go2-thailand.com/food/khao-soi/). Boat noodles in [boat noodles food guide](https://go2-thailand.com/food/boat-noodles/).
+For Khao Soi details, see our [Khao Soi food guide](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/). Boat noodles in [boat noodles food guide](https://go2-thailand.com/food/boat-noodles/).
 
 ## 10. Bringing It Home: Recipes and Classes
 

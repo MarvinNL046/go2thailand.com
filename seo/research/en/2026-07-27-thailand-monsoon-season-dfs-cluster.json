@@ -1,0 +1,1113 @@
+{
+  "captured_at": "2026-07-27T19:09:30.418Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand monsoon season",
+  "costs": {
+    "suggestions": 0.01824,
+    "related": 0.01584,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand monsoon season",
+    "monsoon season in thailand",
+    "monsoon season thailand",
+    "monsoon thailand season",
+    "when is monsoon season in thailand",
+    "when is monsoon season thailand",
+    "when is thailand monsoon season",
+    "when is the monsoon season in thailand",
+    "how bad is monsoon season in thailand",
+    "monsoon season thailand phuket",
+    "thailand monsoon season 2026",
+    "thailand monsoon season 2025",
+    "monsoon season thailand 2026",
+    "when does monsoon season end in thailand",
+    "when does monsoon season start in thailand",
+    "monsoon season thailand 2025",
+    "what is monsoon season in thailand",
+    "does thailand have monsoon season",
+    "how long does monsoon season last in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "holidays to phuket",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "monsoon season in thailand",
+      "volume": 4400,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand",
+      "volume": 4400,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon thailand season",
+      "volume": 4400,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season",
+      "volume": 4400,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "when is monsoon season in thailand",
+      "volume": 2400,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is monsoon season thailand",
+      "volume": 2400,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is thailand monsoon season",
+      "volume": 2400,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is the monsoon season in thailand",
+      "volume": 2400,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to go to thailand phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month",
+      "volume": 720,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season thailand phuket",
+      "volume": 720,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok weather by month",
+      "volume": 590,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "koh samui weather by month",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit thailand",
+      "volume": 480,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how bad is monsoon season in thailand",
+      "volume": 70,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand phuket",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "worst time to visit malaysia",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "worst time to visit phuket",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2026",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "weather in thailand in august 2026",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2025",
+      "volume": 40,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather in january 2026",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket and krabi",
+      "volume": 30,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is november rainy season in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand 2026",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "when does monsoon season end in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when does monsoon season start in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is march a good time to visit phuket",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand 2025",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather 30 days",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rain in phuket by month",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand weather in october 2026",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is monsoon season in thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok rainy season 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket august",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket october",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best time to visit phuket september",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "does thailand have monsoon season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long does monsoon season last in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long is monsoon season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how long is the monsoon season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is november monsoon season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is september monsoon season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season gulf of thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season in phuket thailand",
+      "volume": 10,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season in thailand 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season in thailand 2026",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand 2018",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand 2024",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month october",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phuket weather by month rainfall",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rainy season in bangkok 2026",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand during monsoon season",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2017",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2018",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2023",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season by region",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "when is monsoon season in thailand bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "when is rainy season in thailand koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "when monsoon season in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "worst time to visit bangkok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "monsoon season in thailand 2023",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand 2021",
+      "volume": 0,
+      "kd": 60,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand 2022",
+      "volume": 0,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand 2023",
+      "volume": 0,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2019",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2020",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2021",
+      "volume": 0,
+      "kd": 60,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2022",
+      "volume": 0,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand monsoon season 2024",
+      "volume": 0,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best shoes for monsoon season thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang mai thailand monsoon season",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand 2020",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand august",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "monsoon season thailand september",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phuket thailand monsoon season 2019",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.adventure-life.com",
+      "avgPosition": 7.428571428571429,
+      "keywordCount": 7,
+      "visibility": 4.15,
+      "estimatedTraffic": 4025.554
+    },
+    {
+      "domain": "www.selectiveasia.com",
+      "avgPosition": 12.857142857142858,
+      "keywordCount": 7,
+      "visibility": 2.25,
+      "estimatedTraffic": 747.1959999999998
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 2.3333333333333335,
+      "keywordCount": 6,
+      "visibility": 5.199999999999999,
+      "estimatedTraffic": 2935.1670000000004
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 18.142857142857142,
+      "keywordCount": 7,
+      "visibility": 1.25,
+      "estimatedTraffic": 33.312999999999995
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 18.714285714285715,
+      "keywordCount": 7,
+      "visibility": 1.3000000000000003,
+      "estimatedTraffic": 186.121
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 10.333333333333334,
+      "keywordCount": 6,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 993.6120000000001
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 27.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.55,
+      "estimatedTraffic": 35.76800000000001
+    },
+    {
+      "domain": "www.gadventures.com",
+      "avgPosition": 16.5,
+      "keywordCount": 6,
+      "visibility": 0.4,
+      "estimatedTraffic": 127.685
+    },
+    {
+      "domain": "www.bambootravel.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 5,
+      "visibility": 3,
+      "estimatedTraffic": 566.964
+    },
+    {
+      "domain": "www.odynovotours.com",
+      "avgPosition": 6,
+      "keywordCount": 5,
+      "visibility": 2.5,
+      "estimatedTraffic": 409.862
+    },
+    {
+      "domain": "www.experiencetravelgroup.com",
+      "avgPosition": 7.4,
+      "keywordCount": 5,
+      "visibility": 2.1499999999999995,
+      "estimatedTraffic": 739.897
+    },
+    {
+      "domain": "freedomdestinations.co.uk",
+      "avgPosition": 10,
+      "keywordCount": 5,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 338.21299999999997
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 28.5,
+      "keywordCount": 6,
+      "visibility": 1.05,
+      "estimatedTraffic": 55.711000000000006
+    },
+    {
+      "domain": "www.tourcompass.co.uk",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 44.298
+    },
+    {
+      "domain": "www.101holidays.co.uk",
+      "avgPosition": 15,
+      "keywordCount": 5,
+      "visibility": 1.1,
+      "estimatedTraffic": 71.384
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 15.2,
+      "keywordCount": 5,
+      "visibility": 0.35000000000000003,
+      "estimatedTraffic": 117.414
+    },
+    {
+      "domain": "www.responsibletravel.com",
+      "avgPosition": 18.6,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 89.759
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 19.2,
+      "keywordCount": 5,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 61.681
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 40.518
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 6.5,
+      "keywordCount": 4,
+      "visibility": 1.8,
+      "estimatedTraffic": 473.999
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 11.75,
+      "keywordCount": 4,
+      "visibility": 1.1500000000000001,
+      "estimatedTraffic": 340.57199999999995
+    },
+    {
+      "domain": "www.bluelabeldiving.com",
+      "avgPosition": 14,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 53.608000000000004
+    },
+    {
+      "domain": "www.intrepidtravel.com",
+      "avgPosition": 16.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 78.448
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 19.75,
+      "keywordCount": 4,
+      "visibility": 0.55,
+      "estimatedTraffic": 29.758999999999997
+    },
+    {
+      "domain": "www.enchantingtravels.com",
+      "avgPosition": 20,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 32.7
+    },
+    {
+      "domain": "www.travelfika.com",
+      "avgPosition": 37.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 27.950999999999997
+    },
+    {
+      "domain": "www.pacificprime.co.th",
+      "avgPosition": 22.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 29.731999999999996
+    },
+    {
+      "domain": "northabroad.com",
+      "avgPosition": 38.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 27.950999999999997
+    },
+    {
+      "domain": "www.bestpricetravel.com",
+      "avgPosition": 24.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 27.881
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 32.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 28.946999999999996
+    },
+    {
+      "domain": "tripwis.com",
+      "avgPosition": 13.666666666666666,
+      "keywordCount": 3,
+      "visibility": 1.2,
+      "estimatedTraffic": 17.95
+    },
+    {
+      "domain": "www.thailandhighlights.com",
+      "avgPosition": 35.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.026
+    },
+    {
+      "domain": "www.climatestotravel.com",
+      "avgPosition": 36.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 27.951
+    },
+    {
+      "domain": "www.inthailand.travel",
+      "avgPosition": 37.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 28.427999999999997
+    },
+    {
+      "domain": "www.indietraveller.co",
+      "avgPosition": 38.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 27.866999999999997
+    },
+    {
+      "domain": "www.independent.co.uk",
+      "avgPosition": 39.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 27.866999999999997
+    },
+    {
+      "domain": "www.audleytravel.com",
+      "avgPosition": 40.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 27.804
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 40.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 27.866999999999997
+    },
+    {
+      "domain": "www1.ldd.go.th",
+      "avgPosition": 22.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 35.82
+    },
+    {
+      "domain": "www.tripoto.com",
+      "avgPosition": 31.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 27.72
+    },
+    {
+      "domain": "face.meei.harvard.edu",
+      "avgPosition": 31.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 11.571
+    },
+    {
+      "domain": "www.expatinsure.com",
+      "avgPosition": 32,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 37.047
+    },
+    {
+      "domain": "www.tripcrafters.com",
+      "avgPosition": 32.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.546
+    },
+    {
+      "domain": "www.tourismthailand.my",
+      "avgPosition": 34,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 27.72
+    },
+    {
+      "domain": "seasonsyear.com",
+      "avgPosition": 34.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 16.526999999999997
+    },
+    {
+      "domain": "www.tourradar.com",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 14.58
+    },
+    {
+      "domain": "www.andamandaphuket.com",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 7.175
+    },
+    {
+      "domain": "asoulwindow.com",
+      "avgPosition": 52.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 27.866999999999997
+    },
+    {
+      "domain": "www.tmd.go.th",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 5.6530000000000005
+    },
+    {
+      "domain": "www.phuket.net",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.9,
+      "estimatedTraffic": 16.86
+    }
+  ]
+}

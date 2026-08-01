@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "culture"
 tags: ["Thailand temple etiquette", "Thai temple dress code", "wat etiquette Thailand", "Thailand culture tips 2026", "visiting temples Thailand", "Grand Palace dress code"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-temple-etiquette-dress-code-guide-2026-hero.webp"
 description: "Planning to visit a Thai temple? Here is everything you need to know about dress codes, respectful behavior, photography rules and monk etiquette in Thailand in 2026."
 featured: false
 readingTime: 3
@@ -34,7 +34,7 @@ Here is a practical guide to getting it right in 2026.
 
 The rule is simple: **cover your shoulders and cover your knees**. This applies to men and women equally.
 
-At major royal temples such as [Wat Phra Kaew inside the Grand Palace](/city/bangkok/attractions/grand-palace/), the code is stricter. Men should wear long trousers, women a below-the-knee skirt, dress or trousers. Avoid clothing with prints that reference sex, violence, religion or drugs.
+At major royal temples such as [Wat Phra Kaew inside the Grand Palace](/city/bangkok/attractions/), the code is stricter. Men should wear long trousers, women a below-the-knee skirt, dress or trousers. Avoid clothing with prints that reference sex, violence, religion or drugs.
 
 **Pro tip:** Pack a lightweight sarong. It weighs almost nothing and can be wrapped around your waist or shoulders for any unplanned temple visit during the day. This is especially useful if you are doing a [day trip to Ayutthaya](/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/), where you will visit multiple temple ruins back to back.
 
@@ -50,7 +50,7 @@ Watch out for the raised wooden threshold at temple doorways. Thai people believ
 
 - **Never touch anyone's head.** The head is the most sacred part of the body in Thai culture.
 - **Never point your feet at a Buddha image or a monk.** Sit with your legs tucked underneath you or to the side.
-- **Do not touch, climb or sit on Buddha statues**, even ruined ones at historical sites like [Ayutthaya](/city/ayutthaya/attractions/ayutthaya-historical-park/) or [Sukhothai](/city/sukhothai/attractions/sukhothai-historical-park/). All Buddha images are considered sacred regardless of their condition.
+- **Do not touch, climb or sit on Buddha statues**, even ruined ones at historical sites like [Ayutthaya](/city/ayutthaya/attractions/ayutthaya-historical-park/) or [Sukhothai](/city/sukhothai/attractions/). All Buddha images are considered sacred regardless of their condition.
 - **Keep public displays of affection to a minimum.** Holding hands or kissing is frowned upon in temple grounds.
 
 ## Interacting with Monks
@@ -73,7 +73,7 @@ For a deeper temple experience outside the capital, the [Lanna walking trail in 
 
 ## Temples at Historical Parks
 
-If you want to see Thailand's ancient temple ruins, the [Sukhothai Historical Park](/city/sukhothai/attractions/sukhothai-historical-park/) and [Ayutthaya Historical Park](/city/ayutthaya/attractions/ayutthaya-historical-park/) are the two most impressive. Both are UNESCO World Heritage sites. Remember that the same dress code applies at open-air ruins as inside active temples — the statues and chedis are still considered sacred.
+If you want to see Thailand's ancient temple ruins, the [Sukhothai Historical Park](/city/sukhothai/attractions/) and [Ayutthaya Historical Park](/city/ayutthaya/attractions/ayutthaya-historical-park/) are the two most impressive. Both are UNESCO World Heritage sites. Remember that the same dress code applies at open-air ruins as inside active temples — the statues and chedis are still considered sacred.
 
 You can reach Ayutthaya easily from Bangkok: see our [Ayutthaya day trip guide](/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/) for full details on trains, timings and tickets.
 
@@ -81,9 +81,9 @@ You can reach Ayutthaya easily from Bangkok: see our [Ayutthaya day trip guide](
 
 Before you go, make sure you have sorted out the basics:
 
-- [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) — who needs a visa and how to apply
-- [Thailand travel scams to avoid](/blog/thailand-travel-scams-2026/) — staying safe as a tourist
-- [Is Thailand safe for tourists in 2026?](/blog/is-thailand-safe-tourists-2026/) — an honest overview
+- [Thailand visa guide 2026](/visa/) — who needs a visa and how to apply
+- [Thailand travel scams to avoid](/practical-info/scams-safety/) — staying safe as a tourist
+- [Is Thailand safe for tourists in 2026?](/is-thailand-safe/) — an honest overview
 - [Best time to visit Thailand](/blog/best-time-to-visit-thailand/) — seasons, weather and festivals
 - [Best day trips from Bangkok](/blog/best-day-trips-from-bangkok/) — temples, parks and towns within easy reach
 

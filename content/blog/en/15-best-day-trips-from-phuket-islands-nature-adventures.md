@@ -23,7 +23,7 @@ sources:
   - name: "Phang Nga Bay Official Site"
     url: "https://www.phangngabay.com/"
 ---
-Imagine waking up to Phuket's turquoise waters, then hopping on a speedboat for a **[day trip](https://klook.tpo.lv/7Dt6WApj?subid=blog) from Phuket** that uncovers hidden lagoons and limestone karsts rivaling paradise postcards. During our years island-hopping the Andaman Sea, we've chased sunsets from remote beaches and snorkeled with turtles just 30 minutes offshore—these escapes beat staying put every time.
+Imagine waking up to Phuket's turquoise waters, then hopping on a speedboat for a **[day trip](https://klook.tpo.lv/7Dt6WApj?subid=blog) from Phuket** that uncovers hidden lagoons and limestone karsts rivaling paradise postcards.
 
 ## Key Takeaways
 
@@ -31,28 +31,12 @@ Imagine waking up to Phuket's turquoise waters, then hopping on a speedboat for 
 |----------|--------|
 | **What is the best time to visit?** | **Day trips from Phuket** shine in the dry season (**November to April**), with calm seas and low rain—perfect for speedboats. |
 | **How much does it cost?** | Expect 1,000-3,000 THB ($30-90 USD) per person for group tours including lunch and gear; private charters run 10,000+ THB ($300+ USD). |
-| **How do I get there?** | Speedboats from Chalong, Rawai, or Patong piers (15-90 mins); [book ferries via [12Go](https://go2-thailand.com/transport](https://12go.tpo.lv/tNA80urD?subid=blog)/) for longer hops. |
+| **How do I get there?** | Speedboats leave from Chalong, Rawai, or Patong piers (15–90 minutes); compare longer connections in our [Thailand transport guide](/transport/). |
 | **Is it safe?** | Generally yes for organized trips, but rough seas in green season (May-Oct) cancel outings—check forecasts and stick to reputable operators. |
 | **What should I book in advance?** | Popular spots like Phi Phi or Similans during peak season; ethical elephant experiences too. |
 | **Best base in Phuket?** | Southern beaches like [Where To Stay Phuket Beaches Areas Budget](https://go2-thailand.com/blog/where-to-stay-phuket-beaches-areas-budget/) for quick pier access. |
 | **Family-friendly?** | Yes, Coral Island or Rang Yai for calm waters; avoid James Bond if prone to seasickness. |
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 1. Why **Day Trips from Phuket** Are a Must
 
@@ -110,22 +94,6 @@ Coral gardens teem with clownfish; visibility hits 20m in dry months.
 
 Link to our full [Koh Phi Phi island guide](https://go2-thailand.com/islands/koh-phi-phi/) for overnights.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 3. Phang Nga Bay: James Bond Island Magic
 
@@ -175,22 +143,6 @@ Check [Best Diving Snorkeling In Thailand](https://go2-thailand.com/best-diving-
 >
 > *Source: [Lonely Planet Thailand](https://www.lonelyplanet.com/thailand)*
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 5. Coral and Raya Islands: Easy Beach Days
 
@@ -212,7 +164,7 @@ Stay tuned via [Phuket weather travel guide](https://go2-thailand.com/city/phuke
 
 ## 6. Nature Immersions: Elephant Sanctuaries and Jungles
 
-Ethical **elephant sanctuaries** around Phuket emphasize observation, not rides—a shift we've seen since our first southern visits. Trekking pairs with bathing sessions ethically.
+Trekking pairs with bathing sessions ethically.
 
 Khao Sok snippets via day tours (2 hours away). 
 
@@ -229,22 +181,6 @@ Waterfalls and viewpoints.
 
 See [Best Elephant Sanctuaries In Thailand](https://go2-thailand.com/best-elephant-sanctuaries-in-thailand/).
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 7. Krabi and Railay: Mainland Cliffs
 
@@ -308,22 +244,6 @@ Base in [Phuket best hotels](https://go2-thailand.com/best-hotels/phuket/).
 >
 > *Source: [Phang Nga Bay Official Site](https://www.phangngabay.com/)*
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## Frequently Asked Questions
 
@@ -350,4 +270,4 @@ Focus on sanctuaries offering observation/bathing—no rides. Half-days from Phu
 
 We may earn a small commission from bookings made through our links, at no extra cost to you. This helps us keep creating free travel guides.
 
-These **15 best day trips from Phuket** transform your island base into an adventure hub—from Phi Phi's drama to Similans' depths. Whether chasing waves or kayaks, they've fueled our southern explorations. Ready to book? Dive into our [Phuket travel guide](https://go2-thailand.com/city/phuket/) or snag tours now—trust us, these escapes define Andaman bliss. As locals who've navigated every pier, we vouch: go early, go ethical.
+These **15 best day trips from Phuket** transform your island base into an adventure hub—from Phi Phi's drama to Similans' depths. Whether chasing waves or kayaks, they've fueled our southern explorations. Ready to book?

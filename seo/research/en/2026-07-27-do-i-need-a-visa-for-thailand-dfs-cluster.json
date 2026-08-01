@@ -1,0 +1,934 @@
+{
+  "captured_at": "2026-07-27T18:32:03.605Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "do i need a visa for thailand",
+  "costs": {
+    "suggestions": 0.01488,
+    "related": 0.01692,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "do i need a visa for thailand",
+    "do i need a visa for thailand from uk",
+    "do i need a visa for thailand uk",
+    "do i need a tourist visa for thailand",
+    "do i need a visa for thailand from india",
+    "do i need a visa for thailand from australia",
+    "do i need a visa for thailand from south africa",
+    "do i need a visa for thailand from ireland",
+    "do i need a visa for thailand us citizen",
+    "do i need a holiday visa for thailand",
+    "do i need a business visa for thailand",
+    "do i need a transit visa for thailand",
+    "do i need a visa for thailand from canada",
+    "do i need a visa for thailand from europe",
+    "do i need a visa for thailand from france",
+    "do i need a visa for thailand from germany",
+    "do i need a visa for thailand from italy",
+    "do i need a visa for thailand from philippines",
+    "do i need a visa for thailand from poland"
+  ],
+  "keywords": [
+    {
+      "keyword": "do i need a visa for thailand from uk",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand uk",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai visa uk",
+      "volume": 2900,
+      "kd": 15,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist visa uk",
+      "volume": 2900,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa uk",
+      "volume": 2900,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa thailand uk",
+      "volume": 2900,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand",
+      "volume": 2400,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival",
+      "volume": 1600,
+      "kd": 44,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai e visa",
+      "volume": 1300,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "90-day visa for thailand from uk",
+      "volume": 320,
+      "kd": 20,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a tourist visa for thailand",
+      "volume": 320,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "new thailand entry requirements",
+      "volume": 210,
+      "kd": 21,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "60-day tourist visa thailand uk",
+      "volume": 170,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "90-day tourist visa thailand",
+      "volume": 170,
+      "kd": 29,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai e visa official website",
+      "volume": 170,
+      "kd": 31,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa on arrival uk",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from india",
+      "volume": 140,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gov uk thailand visa",
+      "volume": 140,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa application form online",
+      "volume": 110,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "6 month tourist visa thailand",
+      "volume": 90,
+      "kd": 25,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand digital arrival card uk",
+      "volume": 90,
+      "kd": 17,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what do i need to enter thailand from uk",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "60-day tourist visa thailand",
+      "volume": 70,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "long stay visa thailand",
+      "volume": 70,
+      "kd": 34,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand visa for uk brp holders",
+      "volume": 70,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from australia",
+      "volume": 50,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from south africa",
+      "volume": 50,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand entry requirements 2026",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from ireland",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand us citizen",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "non immigrant o visa thailand uk",
+      "volume": 30,
+      "kd": 59,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai 90-day visa online",
+      "volume": 30,
+      "kd": 38,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai e visa check online",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand 90-day visa application form",
+      "volume": 30,
+      "kd": 42,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "visa-free thailand for indian",
+      "volume": 30,
+      "kd": 31,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "90-day non immigrant visa thailand",
+      "volume": 20,
+      "kd": 53,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "90-day tourist visa thailand cost",
+      "volume": 20,
+      "kd": 55,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a holiday visa for thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "metv visa thailand uk",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand e visa for indian",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "90-day thai visa requirements",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a business visa for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a transit visa for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from canada",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from europe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from france",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from germany",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from italy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from philippines",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from poland",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from portugal",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from uk 2025",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand from usa",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for thailand on a cruise",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to fill thailand visa application form",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "non immigrant o visa thai spouse",
+      "volume": 10,
+      "kd": 57,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "one year non-immigrant visa thailand",
+      "volume": 10,
+      "kd": 59,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand e visa fees for indian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand entry requirements official website",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "do i need a visa for business travel to thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.gov.uk",
+      "avgPosition": 2.25,
+      "keywordCount": 4,
+      "visibility": 3.5,
+      "estimatedTraffic": 2495.166
+    },
+    {
+      "domain": "www.thaiembassy.com",
+      "avgPosition": 4.5,
+      "keywordCount": 4,
+      "visibility": 2.6,
+      "estimatedTraffic": 723.879
+    },
+    {
+      "domain": "cibtvisas.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 4,
+      "visibility": 2.4,
+      "estimatedTraffic": 446.94300000000004
+    },
+    {
+      "domain": "apply.joinsherpa.com",
+      "avgPosition": 5.75,
+      "keywordCount": 4,
+      "visibility": 2.1,
+      "estimatedTraffic": 230.88
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 7.25,
+      "keywordCount": 4,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 467.9069999999999
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 13,
+      "keywordCount": 4,
+      "visibility": 0.35,
+      "estimatedTraffic": 87.25800000000001
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 13.5,
+      "keywordCount": 4,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 97.03399999999999
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 13.5,
+      "keywordCount": 4,
+      "visibility": 0.9,
+      "estimatedTraffic": 41.911
+    },
+    {
+      "domain": "travel.state.gov",
+      "avgPosition": 14.5,
+      "keywordCount": 4,
+      "visibility": 0.7,
+      "estimatedTraffic": 132.00099999999998
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 15.75,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 36.903
+    },
+    {
+      "domain": "asq.in.th",
+      "avgPosition": 26.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 18.011
+    },
+    {
+      "domain": "london.thaiembassy.org",
+      "avgPosition": 3.3333333333333335,
+      "keywordCount": 3,
+      "visibility": 2.3,
+      "estimatedTraffic": 1020.72
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 8.666666666666666,
+      "keywordCount": 3,
+      "visibility": 1.05,
+      "estimatedTraffic": 223.69
+    },
+    {
+      "domain": "wise.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.5,
+      "estimatedTraffic": 117.01999999999998
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 72.85
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 28.52
+    },
+    {
+      "domain": "thebucketlistcompany.co.uk",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 17.22
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 27,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 17.939999999999998
+    },
+    {
+      "domain": "www.visagenie.co.uk",
+      "avgPosition": 29.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 17.22
+    },
+    {
+      "domain": "thailandinsiderguide.com",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 17.22
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 35.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 17.22
+    },
+    {
+      "domain": "www.dookinternational.com",
+      "avgPosition": 40,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 17.22
+    },
+    {
+      "domain": "www.kayak.co.uk",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 43.5
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 34.22
+    },
+    {
+      "domain": "thailand-visa.co.uk",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 13.629999999999999
+    },
+    {
+      "domain": "visapanic.com",
+      "avgPosition": 47.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 17.22
+    },
+    {
+      "domain": "www.thaiembassy.ch",
+      "avgPosition": 63.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 17.367
+    },
+    {
+      "domain": "evisas.io",
+      "avgPosition": 28,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 12.18
+    },
+    {
+      "domain": "image.mfa.go.th",
+      "avgPosition": 53,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 17.22
+    },
+    {
+      "domain": "www.onthegotours.com",
+      "avgPosition": 31.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 6.391
+    },
+    {
+      "domain": "www.issacompass.com",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 12.18
+    },
+    {
+      "domain": "www.doyouneedvisa.com",
+      "avgPosition": 33.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 12.18
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 11.129999999999999
+    },
+    {
+      "domain": "embassies.net",
+      "avgPosition": 49.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 12.18
+    },
+    {
+      "domain": "pretoria.thaiembassy.org",
+      "avgPosition": 1,
+      "keywordCount": 1,
+      "visibility": 1,
+      "estimatedTraffic": 21.28
+    },
+    {
+      "domain": "www.thaievisa.go.th",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 388.8
+    },
+    {
+      "domain": "south-africa.siam-legal.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 4.613
+    },
+    {
+      "domain": "visaline.co.za",
+      "avgPosition": 7,
+      "keywordCount": 1,
+      "visibility": 0.4,
+      "estimatedTraffic": 1.792
+    },
+    {
+      "domain": "thaiest.com",
+      "avgPosition": 54,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 12.18
+    },
+    {
+      "domain": "www.fragomen.com",
+      "avgPosition": 9,
+      "keywordCount": 1,
+      "visibility": 0.2,
+      "estimatedTraffic": 36
+    },
+    {
+      "domain": "www.gbnews.com",
+      "avgPosition": 55,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 11.129999999999999
+    },
+    {
+      "domain": "www.legendtravelgroup.com",
+      "avgPosition": 11,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.637
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 12,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.525
+    },
+    {
+      "domain": "visa-fees.homeoffice.gov.uk",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 16.24
+    },
+    {
+      "domain": "visasunlimited.co.za",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.392
+    },
+    {
+      "domain": "www.crystaltravel.co.uk",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 12.47
+    },
+    {
+      "domain": "www.backpackingtours.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 10.32
+    },
+    {
+      "domain": "www.visahq.co.uk",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 6.380000000000001
+    },
+    {
+      "domain": "www.eda.admin.ch",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 5.28
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    }
+  ]
+}

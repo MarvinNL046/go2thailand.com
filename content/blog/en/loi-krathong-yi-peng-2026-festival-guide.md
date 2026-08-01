@@ -39,7 +39,7 @@ Imagine thousands of glowing lanterns rising simultaneously into a starlit sky, 
 
 **Loi Krathong** and **Yi Peng** are often mentioned together, but they're distinct celebrations that happen simultaneously in November. Understanding the difference is crucial for planning your trip.
 
-**Loi Krathong** (meaning "float a basket") is celebrated nationwide across Thailand. It honors the water goddess by floating decorated baskets—traditionally made from banana leaves, bread, or styrofoam—down rivers, canals, and waterways. Each krathong carries a candle, incense, and flowers, symbolizing the release of negativity and bad luck. When we visited during Loi Krathong in [Sukhothai](/city/sukhothai/), the entire historical park glowed with candlelight reflecting off water, creating an ethereal atmosphere that felt timeless.
+**Loi Krathong** (meaning "float a basket") is celebrated nationwide across Thailand. It honors the water goddess by floating decorated baskets—traditionally made from banana leaves, bread, or styrofoam—down rivers, canals, and waterways. Each krathong carries a candle, incense, and flowers, symbolizing the release of negativity and bad luck.
 
 **Yi Peng**, unique to northern Thailand, is the sky lantern festival where thousands of paper lanterns are released into the night sky. The sight of these glowing orbs ascending together is unforgettable. However, it's important to note that Yi Peng's scale and organization vary by location—some events are officially organized, while others are more spontaneous community celebrations.
 
@@ -53,7 +53,7 @@ Both festivals are deeply rooted in Buddhist and animist traditions. Loi Krathon
 
 ### When Exactly Do They Happen in 2026?
 
-In 2026, **Loi Krathong and Yi Peng will occur around November 10-12**, depending on the lunar calendar. The exact dates are confirmed annually by the Thai government. During our time in [Chiang Mai](/city/chiang-mai/), we learned that the festival period typically extends 3-5 days, with the main celebration on the full moon night. Some venues begin festivities earlier, so arriving a few days before the peak night gives you options and less crowded experiences.
+In 2026, **Loi Krathong and Yi Peng will occur around November 10-12**, depending on the lunar calendar. The exact dates are confirmed annually by the Thai government. Some venues begin festivities earlier, so arriving a few days before the peak night gives you options and less crowded experiences.
 
 ---
 
@@ -72,7 +72,7 @@ Thailand offers multiple stunning venues for these festivals, each with distinct
 - **Atmosphere:** Blend of spiritual reverence and celebratory energy
 - **Accessibility:** Direct flights from Bangkok; excellent accommodation options
 
-During our three years based in [Chiang Mai](/city/chiang-mai/), we experienced Yi Peng multiple times. The sight of lanterns ascending en masse—creating a second sky of lights—never loses its magic. However, expect significant crowds; the main venue can draw 100,000+ visitors.
+The sight of lanterns ascending en masse—creating a second sky of lights—never loses its magic. However, expect significant crowds; the main venue can draw 100,000+ visitors.
 
 ### Sukhothai: The Loi Krathong Masterpiece
 
@@ -85,7 +85,7 @@ During our three years based in [Chiang Mai](/city/chiang-mai/), we experienced 
 - **Cultural Depth:** Nightly performances and traditional ceremonies
 - **Photography:** Unparalleled opportunities for stunning images
 
-In our experience, Sukhothai offers the most authentic Loi Krathong experience. The festival respects the spiritual essence while remaining accessible to visitors. Accommodation fills quickly, so booking 2-3 months ahead is essential.
+The festival respects the spiritual essence while remaining accessible to visitors. Accommodation fills quickly, so booking 2-3 months ahead is essential.
 
 ### Bangkok: Urban Celebration
 
@@ -116,27 +116,9 @@ In our experience, Sukhothai offers the most authentic Loi Krathong experience. 
 
 ## 3. Planning Your Festival Trip: Timeline & Booking Strategy
 
-Timing is everything when planning a **Loi Krathong and Yi Peng** trip. The festivals attract visitors from around the world, and accommodation fills months in advance. Our experience managing travel during peak seasons has taught us the optimal booking timeline.
+Timing is everything when planning a **Loi Krathong and Yi Peng** trip. The festivals attract visitors from around the world, and accommodation fills months in advance.
 
 ### The 90-Day Booking Window
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Book 90 days (3 months) before the festival.** This is the sweet spot where prices are still reasonable but availability remains good. For November 2026 festivals, this means booking by August 2026. Here's why this timing matters:
@@ -175,28 +157,12 @@ Timing is everything when planning a **Loi Krathong and Yi Peng** trip. The fest
 
 Most visitors to Thailand qualify for visa-free entry for 30 days. Check the [Thailand visa guide](https://go2-thailand.com/visa/) for your nationality. If staying longer, consider a [Tourist Visa](https://go2-thailand.com/visa/tourist-visa/). Remember to complete the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) at least 3 days before arrival.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
 ## 4. Accommodation: Where to Stay During the Festivals
 
-Finding accommodation during **Loi Krathong and Yi Peng** is challenging but manageable with advance planning. We've stayed in various options across festival locations, and each has trade-offs.
+Finding accommodation during **Loi Krathong and Yi Peng** is challenging but manageable with advance planning.
 
 ### Chiang Mai Accommodation Strategy
 
@@ -228,7 +194,7 @@ Sukhothai is smaller than Chiang Mai, so accommodation options are more limited.
 - **Central Sukhothai town:** Better restaurant selection; 10-minute drive to park
 - **Nearby Si Satchanalai:** Quieter alternative; 45 minutes from main park
 
-**Booking Reality:** During our Sukhothai visit, we found that booking 90+ days ahead was non-negotiable. Properties were fully booked 60 days before the festival. Browse [hotels in Sukhothai](/best-hotels/sukhothai/) early, or consider staying in nearby Tak or [Phitsanulok](/best-hotels/phitsanulok/) and day-tripping if Sukhothai is fully booked.
+Properties were fully booked 60 days before the festival. Browse [hotels in Sukhothai](/best-hotels/sukhothai/) early, or consider staying in nearby Tak or [Phitsanulok](/best-hotels/phitsanulok/) and day-tripping if Sukhothai is fully booked.
 
 <div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
@@ -258,7 +224,7 @@ The moment you release a lantern or float a krathong is profoundly moving. Under
 - Gently place the krathong on the water
 - Watch it float away, often with tears of emotion
 
-During our time in Sukhothai, we watched locals and visitors release krathongs in near-silence, broken only by the gentle lapping of water. The spiritual energy was palpable—people weren't taking selfies; they were genuinely connecting with something deeper.
+The spiritual energy was palpable—people weren't taking selfies; they were genuinely connecting with something deeper.
 
 **Important note:** Environmental concerns have led to restrictions on krathong materials in some areas. Sukhothai and other venues now encourage biodegradable materials (banana leaves, bread) over styrofoam. Always check local guidelines.
 
@@ -273,7 +239,7 @@ During our time in Sukhothai, we watched locals and visitors release krathongs i
 - Release it simultaneously with thousands of others
 - Watch the sky transform into a sea of floating lights
 
-The sight of 10,000+ lanterns ascending together is genuinely transcendent. In our experience, even cynical travelers find themselves moved by the spectacle.
+The sight of 10,000+ lanterns ascending together is genuinely transcendent.
 
 **Safety & Environmental Considerations:**
 - Only release lanterns at official venues or with local permission
@@ -291,24 +257,6 @@ The sight of 10,000+ lanterns ascending together is genuinely transcendent. In o
 - Pros: Authentic local experience, flexibility, budget-friendly
 - Cons: Navigation challenges, potential language barriers, less organized
 
-In our experience, first-time visitors benefit from organized tours, while repeat visitors prefer independent participation for authenticity.
-
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -317,24 +265,6 @@ In our experience, first-time visitors benefit from organized tours, while repea
 Festival season brings logistical challenges—roads are congested, public transport is packed, and normal routes may be disrupted. Planning transportation carefully prevents frustration.
 
 ### Getting to Festival Locations
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **To Chiang Mai:**
@@ -370,28 +300,12 @@ Festival season brings logistical challenges—roads are congested, public trans
 - Wear comfortable shoes; you'll be standing for hours
 - Stay aware of surroundings in crowded areas
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
 ## 7. Staying Safe & Avoiding Common Pitfalls
 
-Thailand's festivals are generally safe, but crowds and unfamiliar environments create opportunities for petty crime and tourist traps. Our years navigating Thai festivals have taught us how to stay safe and avoid common mistakes.
+Thailand's festivals are generally safe, but crowds and unfamiliar environments create opportunities for petty crime and tourist traps.
 
 ### Safety Essentials
 
@@ -435,7 +349,7 @@ Thailand's festivals are generally safe, but crowds and unfamiliar environments 
 - Check that lanterns are properly constructed before release
 
 **Scams Targeting Tourists:**
-- Gem and jewelry scams (common in all Thai cities) — see our full [Thailand travel scams guide](/blog/thailand-travel-scams-2026/)
+- Gem and jewelry scams (common in all Thai cities) — see our full [Thailand travel scams guide](/practical-info/scams-safety/)
 - Fake tour operators offering "exclusive" lantern experiences
 - Overcharging for transport or services
 
@@ -448,7 +362,7 @@ Thailand's festivals are generally safe, but crowds and unfamiliar environments 
 
 ## 8. Photography Tips: Capturing the Magic
 
-The visual spectacle of **Loi Krathong and Yi Peng** demands documentation. However, chasing the perfect photo can distract from the actual experience. We've learned to balance both.
+The visual spectacle of **Loi Krathong and Yi Peng** demands documentation. However, chasing the perfect photo can distract from the actual experience.
 
 ### Essential Camera Settings for Night Photography
 
@@ -492,62 +406,28 @@ While **Loi Krathong and Yi Peng** are the main attractions, you'll likely spend
 ### In Chiang Mai
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 - **Temple visits:** [Wat Chedi Luang](/city/chiang-mai/attractions/wat-chedi-luang/), [Wat Phra Singh](/city/chiang-mai/attractions/wat-phra-singh/), Wat Chiang Man (free or 20 THB donation)
 - **[Cooking classes](/blog/thai-cooking-classes-chiang-mai/):** Learn to make Thai curry and pad thai (800-1,500 THB)
 - **Elephant sanctuaries:** [Ethical wildlife experiences](/blog/ethical-elephant-sanctuaries-thailand-2026-guide/) (2,000-3,500 THB)
 - **[Old City exploration](/city/chiang-mai/attractions/old-city-chiang-mai/):** Wander ancient streets, visit local markets
-- **Chiang Mai food scene:** [Night bazaar](/city/chiang-mai/attractions/night-bazaar/), local restaurants, [Thai street food](/blog/thai-street-food-guide-2026/) (50-300 THB per meal)
+- **Chiang Mai food scene:** [Night bazaar](/city/chiang-mai/attractions/night-bazaar/), local restaurants, [Thai street food](/thailand-street-food/) (50-300 THB per meal)
 
 ### In Sukhothai
 
-- **[Historical Park exploration](/city/sukhothai/attractions/sukhothai-historical-park/):** Spend a full day wandering temples and ruins (100 THB entry)
+- **[Historical Park exploration](/city/sukhothai/attractions/):** Spend a full day wandering temples and ruins (100 THB entry)
 - **Cycling tours:** Rent bikes and explore at your own pace (100-200 THB/day)
-- **[Local markets](/city/sukhothai/attractions/sukhothai-night-market/):** Sukhothai night market for authentic local food
-- **[Day trip to Si Satchanalai](/city/sukhothai/attractions/si-satchanalai-historical-park/):** Sister historical park 45 minutes away
-- **[Riverside walks](/city/sukhothai/attractions/yom-river/):** Peaceful exploration of the Yom River
+- **[Local markets](/city/sukhothai/attractions/):** Sukhothai night market for authentic local food
+- **[Day trip to Si Satchanalai](/city/sukhothai/attractions/):** Sister historical park 45 minutes away
+- **[Riverside walks](/city/sukhothai/attractions/):** Peaceful exploration of the Yom River
 
 ### In Bangkok (if arriving early)
 
-- **[Grand Palace and Temple of the Emerald Buddha](/city/bangkok/attractions/grand-palace/):** Bangkok's most iconic sites (500 THB)
+- **[Grand Palace and Temple of the Emerald Buddha](/city/bangkok/attractions/):** Bangkok's most iconic sites (500 THB)
 - **[Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/):** Temple of Dawn with stunning riverside views (100 THB)
 - **[Floating markets](/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/):** Damnoen Saduak or Amphawa (free to visit; food costs 30-100 THB)
 - **Street food tours:** Explore [Bangkok's food scene](/city/bangkok/food/) (200-500 THB per tour)
 - **Muay Thai:** Watch or take classes at local gyms (500-2,000 THB)
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -584,22 +464,6 @@ Understanding costs helps you budget accurately and avoid surprises. Here's what
 - **Keep small bills:** Vendors often claim they have no change
 - **Avoid exchanging at hotels:** Rates are typically poor
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -653,10 +517,10 @@ Absolutely. The festivals offer cultural experiences, temple visits, local food,
 
 The key to a successful festival trip is advance planning. Book accommodation 90 days ahead, arrange transportation early, and arrive with realistic expectations about crowds. The festivals are crowded—that's part of the experience—but with proper planning, you'll navigate them comfortably and create lasting memories.
 
-For more inspiration on planning your Thailand trip, explore our [Thailand First Time Visitors Essential Guide 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) or check out our [Ultimate Thailand Itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) for a complete festival-focused journey. Thailand's [Amazing Thailand Ambassador Lisa](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/) is helping shine a spotlight on the very destinations you'll visit during the festival — and her campaign is drawing new visitors to secondary cities like Chiang Mai and Sukhothai. Make sure you also have [travel insurance](/blog/travel-insurance-thailand-guide/) and check the [Thailand Digital Arrival Card requirements](/blog/thailand-digital-arrival-card-tdac-guide/) before you fly.
+For more inspiration on planning your Thailand trip, explore our [Thailand First Time Visitors Essential Guide 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) or check out our [Ultimate Thailand Itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) for a complete festival-focused journey. Thailand's [Amazing Thailand Ambassador Lisa](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/) is helping shine a spotlight on the very destinations you'll visit during the festival — and her campaign is drawing new visitors to secondary cities like Chiang Mai and Sukhothai. Make sure you also have [travel insurance](/blog/travel-insurance-thailand-guide/) and check the [Thailand Digital Arrival Card requirements](/visa/digital-arrival-card/) before you fly.
 
 **Ready to experience the magic?** Start planning your **Loi Krathong and Yi Peng 2026** adventure today. The festivals await.
 
 ---
 
-*The Go2Thailand Team has lived and traveled throughout Thailand for over 15 years. We've experienced these festivals multiple times across different locations and seasons. This guide reflects our genuine experiences and practical knowledge. For the most current festival dates and official information, always consult the [Tourism Authority of Thailand](https://www.tourismthailand.org/).*
+*The Go2Thailand Team has lived and traveled throughout Thailand for over 15 years. This guide reflects our genuine experiences and practical knowledge. For the most current festival dates and official information, always consult the [Tourism Authority of Thailand](https://www.tourismthailand.org/).*

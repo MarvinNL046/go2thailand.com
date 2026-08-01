@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "chiang-dao-stargazing-eco-lodges-mountain-retreat-2026",
+  "route": "/nl/blog/chiang-dao-stargazing-eco-lodges-mountain-retreat-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Sterrenkijken in Chiang Dao: verblijf en planning | Go2Thailand",
+    "description": "Plan een sterrennacht in Chiang Dao met officiële dark-sky-locaties, nuchtere verblijfstips, seizoenkeuze en vervoer vanuit Chiang Mai.",
+    "primaryKeyword": "sterrenkijken Chiang Dao",
+    "secondaryKeywords": ["Chiang Dao dark sky", "eco lodge Chiang Dao", "overnachten Chiang Dao"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/chiang-dao-stargazing-eco-lodges-mountain-retreat-2026/"
+  },
+  "hero": {
+    "eyebrow": "Noord-Thailand na zonsondergang",
+    "title": "Sterrenkijken in Chiang Dao",
+    "accent": "Kies donkerte boven decor",
+    "description": "Een open horizon, weinig strooilicht en een maanarme nacht tellen meer dan een mooie lodgefoto. Zo plan je beide zonder te overdrijven.",
+    "image": "/images/redesign/editorial/chiang-dao-stargazing-eco-lodges-mountain-retreat-2026-hero.webp",
+    "imageAlt": "Sterrenhemel boven een kleine lodge en de bergsilhouetten van Chiang Dao",
+    "primaryCta": { "label": "Kies je sterrenplek", "href": "#dark-sky" },
+    "secondaryCta": { "label": "Plan twee nachten", "href": "#verblijfsplan" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Chiang Dao heeft door NARIT geregistreerde dark-sky-locaties, waaronder Daraga Chiang Dao en Chagerpor. Kies een heldere, maanarme nacht, bevestig de activiteit rechtstreeks en verblijf liefst twee nachten voor weersflexibiliteit.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "dark-sky",
+      "eyebrow": "Officieel geregistreerd",
+      "title": "Twee concrete dark-sky-opties",
+      "cards": [
+        { "title": "Daraga Chiang Dao", "description": "NARIT beschrijft een kleinschalig verblijf met kamers, kampeerterrein en twee observatievelden. Bevestig programma en beschikbaarheid rechtstreeks." },
+        { "title": "Chagerpor Chiang Dao", "description": "Een open observatieterrein met kamers en enkele tenten; volgens NARIT geschikt voor sterrenkijken en meteorenregens." }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "verblijfsplan",
+      "title": "Zo bouw je een realistisch verblijf",
+      "steps": [
+        { "title": "Kijk naar maan en wolken", "description": "Een donkere maanfase helpt, maar actuele bewolking blijft beslissend." },
+        { "title": "Boek twee nachten", "description": "Extra tijd geeft meer kans wanneer één avond bewolkt is." },
+        { "title": "Regel vervoer vóór donker", "description": "Aankomen bij daglicht maakt landelijke toegangswegen en inchecken eenvoudiger." },
+        { "title": "Bescherm je nachtzicht", "description": "Gebruik gedimd rood licht en vermijd felle telefoonschermen op het observatieterrein." }
+      ]
+    },
+    {
+      "kind": "comparison",
+      "id": "verblijf-kiezen",
+      "title": "Lodge of tent?",
+      "options": [
+        { "title": "Kamer of lodge", "description": "Meer comfort en eenvoud bij koele nachten; controleer lichtgebruik en vrij zicht vanaf het terrein.", "label": "Comfort" },
+        { "title": "Kamperen", "description": "Dichter bij de nachtbeleving, maar gevoeliger voor kou, dauw en geluid. Bevestig sanitair en materiaal.", "label": "Buiten" }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "bergcontext",
+      "tone": "warning",
+      "title": "Een sterrenverblijf is geen toestemming voor een bergtocht",
+      "description": "Toegang tot natuurgebieden en routes op Doi Luang Chiang Dao kan apart gereguleerd of seizoensgebonden zijn. Controleer dat bij de bevoegde parkautoriteit; ga niet uit van toegang via je accommodatie."
+    },
+    {
+      "kind": "affiliate",
+      "id": "live-verblijf",
+      "provider": "trip.com",
+      "title": "Vergelijk actuele verblijven in de regio",
+      "description": "Controleer voor jouw data de ligging, totaalprijs en voorwaarden. Bevestig sterrenactiviteiten altijd rechtstreeks bij de locatie.",
+      "cta": { "label": "Bekijk actuele verblijfopties", "href": "https://trip.tpo.lv/TmObooZ5", "external": true },
+      "placement": "chiang-dao-dark-sky-live-stay-check",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer."
+    },
+    {
+      "kind": "related",
+      "id": "noorden",
+      "title": "Combineer met Noord-Thailand",
+      "items": [
+        { "title": "Chiang Mai", "description": "Gebruik de stad als praktische aankomstbasis.", "href": "/nl/city/chiang-mai/" },
+        { "title": "Beste reistijd Chiang Mai", "description": "Vergelijk warmte, regen en luchtkwaliteit.", "href": "/nl/city/chiang-mai/weather/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is Chiang Dao officieel een dark-skybestemming?", "answer": "NARIT registreert meerdere afzonderlijke dark-skylocaties in het district. Dat betekent niet dat elke accommodatie dezelfde kwaliteit of begeleiding biedt." },
+        { "question": "Wanneer zie ik de meeste sterren?", "answer": "Kies een heldere nacht met weinig maanlicht. Wolken, nevel en lokale verlichting kunnen het zicht alsnog beperken." },
+        { "question": "Heb ik een telescoop nodig?", "answer": "Nee. Een donkere hemel is al waardevol met het blote oog; een verrekijker kan een toegankelijke aanvulling zijn."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire dark-skybronnen",
+      "items": [
+        { "title": "Amazing Dark Sky in Thailand", "publisher": "National Astronomical Research Institute of Thailand", "url": "https://www.narit.or.th/en/public-outreach/dark-sky", "checkedAt": "2026-08-01" },
+        { "title": "Daraga Chiang Dao", "publisher": "NARIT Dark Sky", "url": "https://darksky.narit.or.th/darksky/north/daraga-chiang-dao/", "checkedAt": "2026-08-01" },
+        { "title": "Chagerpor Chiang Dao", "publisher": "NARIT Dark Sky", "url": "https://darksky.narit.or.th/darksky/north/chagerporchiangdao/", "checkedAt": "2026-08-01" }
+      ]
+    }
+  ]
+}

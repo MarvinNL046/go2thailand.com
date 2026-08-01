@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "rava-beach-club-phuket-bangtao-longest-beach-club-2026",
+  "route": "/nl/blog/rava-beach-club-phuket-bangtao-longest-beach-club-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "RAVA Beach Club Phuket: zones, sfeer en dagpas",
+    "description": "Bepaal of RAVA Beach Club aan Bang Tao bij je past. Vergelijk zones, dagpas, sfeer, kleding en actuele reserveringsvoorwaarden.",
+    "primaryKeyword": "RAVA Beach Club Phuket",
+    "secondaryKeywords": ["beach club Bang Tao", "strandclub Phuket", "RAVA Banyan Tree"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/rava-beach-club-phuket-bangtao-longest-beach-club-2026/"
+  },
+  "hero": {
+    "eyebrow": "Bang Tao · kies je zone",
+    "title": "RAVA Beach Club Phuket",
+    "accent": "Past de sfeer bij jouw stranddag?",
+    "description": "Een grote beachclub met verschillende zones, drie infinitypools en live-fire dining. Controleer vóór vertrek de actuele dagpas, toegang en huisregels.",
+    "image": "/images/redesign/editorial/rava-beach-club-phuket-bangtao-longest-beach-club-2026-hero.webp",
+    "imageAlt": "Ruime strandclub met meerdere infinitypools aan de Andamanzee bij zonsondergang",
+    "primaryCta": { "label": "Vergelijk de zones", "href": "#zones" },
+    "secondaryCta": { "label": "Doe de dagcheck", "href": "#dagcheck" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "RAVA ligt bij Banyan Tree Phuket aan Bang Tao Beach en combineert een levendige poolzone, live-fire restaurant en exclusievere lounge. Toegang en besteding zijn product- en datumgebonden: controleer de officiële dagpas vóór vertrek.",
+  "blocks": [
+    { "kind": "card-grid", "id": "zones", "eyebrow": "Drie ervaringen", "title": "Kies op sfeer, niet op de superlatief", "cards": [
+      { "title": "Young & Fun", "description": "De levendigste zone met DJ, sociale zitplaatsen en poolenergie.", "label": "Energie" },
+      { "title": "Master Grill", "description": "De eetgerichte keuze rond open vuur, vlees, zeevruchten en gedeelde tafels.", "label": "Lunch of diner" },
+      { "title": "Prestige", "description": "Een exclusievere lounge voor specifieke gasten en leden; verifieer toegang vooraf.", "label": "Beperkte toegang" }
+    ]},
+    { "kind": "callout", "id": "claim", "tone": "cream", "title": "‘Langste beachclub’ is een exploitantclaim", "description": "Banyan Tree beschrijft RAVA als 150 meter langs de kust en als Thailand's langste beachclub. Gebruik dat als positionering van de aanbieder, niet als onafhankelijk record." },
+    { "kind": "checklist", "id": "dagcheck", "title": "Controleer op de officiële pagina", "items": ["Dagpas of reserveringsproduct voor jouw datum", "Inbegrepen food-and-beverage-tegoed", "Toegang voor kinderen en gekozen zone", "Dresscode en gedrag rond het zwembad", "Weers- of evenementwijzigingen", "Veilige taxi terug na alcohol"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Moet je reserveren voor RAVA?", "answer": "De officiële site biedt verschillende boekbare ervaringen en dagpassen. Controleer beschikbaarheid en voorwaarden voor jouw datum." },
+      { "question": "Is RAVA alleen voor feestgangers?", "answer": "Nee. De zones verschillen in energie; Young & Fun is levendiger, Master Grill draait om eten en Prestige heeft een exclusiever toegangsmodel." },
+      { "question": "Is het echt de langste beachclub van Thailand?", "answer": "Dat is de expliciete positionering van Banyan Tree op basis van 150 meter kustlijn. We presenteren het niet als onafhankelijk gecertificeerd record." }
+    ]},
+    { "kind": "related", "id": "verder", "title": "Bouw je Phuket-dag", "items": [
+      { "title": "Phuket", "description": "Plan stranden, vervoer en buurten samen.", "href": "/nl/city/phuket/" },
+      { "title": "Beste hotels in Phuket", "description": "Vergelijk Bang Tao met andere uitvalsbases.", "href": "/nl/best-hotels/phuket/" },
+      { "title": "Beste stranden", "description": "Kies de kust die bij je reisritme past.", "href": "/nl/best-beaches-in-thailand/" }
+    ]},
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen en live controle", "items": [
+      { "title": "RAVA Beach Club", "publisher": "Banyan Tree Phuket", "url": "https://www.banyantree.com/thailand/phuket/dining/rava-beach-club", "checkedAt": "2026-08-01", "note": "Officiële zones, ligging, omvang en huidige boekopties." },
+      { "title": "RAVA Beach Club menu", "publisher": "Banyan Tree", "url": "https://www.taste.banyantree.com/bt-phuket-eng-rava-beach-club", "checkedAt": "2026-08-01", "note": "Actuele menustructuur; prijzen worden niet op deze pagina vastgezet." }
+    ]}
+  ]
+}

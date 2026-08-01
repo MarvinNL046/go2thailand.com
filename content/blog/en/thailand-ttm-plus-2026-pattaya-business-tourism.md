@@ -1,27 +1,32 @@
 ---
 title: "Thailand Travel Mart Plus 2026 Heads to Pattaya: What It Means for Tourism"
 date: "2026-03-21"
-lastUpdated: "2026-03-29"
-description: "TTM Plus 2026, Thailand's flagship B2B tourism platform, moves to Pattaya in June with 400 sellers and 400 international buyers from over 50 countries."
+lastUpdated: "2026-08-01"
+description: "A post-event recap of TTM+ 2026 in Pattaya and the Tourism Authority of Thailand's wellness- and sustainability-led tourism direction."
 category: "news"
 tags: ["pattaya", "ttm plus", "business tourism", "mice", "tat", "2026"]
 author:
   name: "Go2Thailand Team"
 reading_time: 4
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-ttm-plus-2026-pattaya-business-tourism-hero.webp"
 draft: false
+sources:
+  - name: "TAT Newsroom: TTM+ 2026 opens in Pattaya"
+    url: "https://www.tatnews.org/2026/06/ttm-2026-opens-in-pattaya-advancing-sustainable-and-wellness-led-tourism/"
+  - name: "TAT Newsroom: regional cooperation through TTM+ 2026"
+    url: "https://www.tatnews.org/2026/06/tat-promotes-regional-tourism-cooperation-and-connectivity-through-ttm-2026/"
 ---
 
 ## Thailand's Biggest Tourism Trade Event Moves to Pattaya
 
-**Thailand Travel Mart Plus (TTM+) 2026**, Thailand's flagship B2B tourism platform, will take place from **June 10-12, 2026**, at the NICE Pattaya Convention and Exhibition Center in Chon Buri province. Now in its 23rd edition, the event marks a significant shift by moving outside [Bangkok](/city/bangkok/) for the first time in recent years. Explore what [Pattaya](/city/pattaya/) has to offer as a growing MICE and leisure destination.
+**Thailand Travel Mart Plus (TTM+) 2026**, Thailand's flagship B2B tourism platform, took place from **June 10-12, 2026**, at the NICE Pattaya Convention and Exhibition Center in Chon Buri province. This page is now a dated recap rather than an attendance guide. Explore what [Pattaya](/city/pattaya/) offers as a MICE and leisure destination.
 
 ### Scale and Ambition
 
 The numbers behind TTM+ 2026 are impressive:
 
-- **400+ Thai sellers** showcasing tourism products and services
-- **400 international buyers** from more than **50 countries**
+- **428 Thai sellers** showcased tourism products and services
+- **429 international buyers** attended, according to the TAT post-event release
 - Over **11,000 pre-scheduled business appointments**
 - Expected to generate **3 billion Thai baht** (approximately US$95 million) in economic impact
 
@@ -56,7 +61,7 @@ While TTM+ is a trade event rather than a public festival, its outcomes directly
 
 For those planning a trip to Pattaya in June, expect increased hotel occupancy around the convention center area during the event dates. Check our [best hotels in Pattaya](/best-hotels/pattaya/) guide and consider a day trip to [Koh Larn island](/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/) while you're in the area. The [Pattaya Walking Street reinvention 2026](/blog/pattaya-walking-street-reinvention-2026/) is also worth following if you're curious about the city's evolving nightlife scene. June visitors may also want to check out the [Pattaya Pride Circuit Festival](/blog/pattaya-pride-circuit-festival-asia-lgbtq-june-2026/) happening around the same time.
 
-For first-time visitors planning around the event, our [Thailand first-timers essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) are essential reading before you go.
+For first-time visitors planning around the event, our [Thailand first-timers essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and [Thailand travel scams guide](/practical-info/scams-safety/) are essential reading before you go.
 
 **Sources:**
 - [Pattaya Mail - Thailand Travel Mart Plus 2026 heads to Pattaya](https://www.pattayamail.com/latestnews/news/thailand-travel-mart-plus-2026-heads-to-pattaya-in-june-540081)

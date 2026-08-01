@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "adventure"
 tags: ["Similan Islands", "Thailand diving 2026", "snorkelling Thailand", "Similan Islands rules", "Phuket diving", "Thailand marine parks"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/similan-islands-diving-snorkelling-new-rules-2026-hero.webp"
 description: "Thailand has introduced strict new rules for diving and snorkelling at the Similan Islands in the 2025-2026 season. Here is what visitors must know before booking a trip."
 featured: false
 readingTime: 3
@@ -56,4 +56,4 @@ Most visitors depart from Khao Lak, about a 90-minute drive north of [Phuket Air
 
 ## Plan Your Visit
 
-With the park closing on May 15, the window for the current season is narrowing. If the Similans are on your list, book soon — the combination of visitor caps and peak-season demand means last-minute spots are hard to find. Make sure you have [travel insurance](/blog/travel-insurance-thailand-guide/) in place before departure, and check the [Thailand Digital Arrival Card requirements](/blog/thailand-digital-arrival-card-tdac-guide/) if you are flying in from abroad. A solid [eSIM or local SIM card](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) will also keep you connected for last-minute bookings while on the road. For those flying into the region from Singapore, it is also worth noting that [Singapore Airlines is exploring a new nonstop route to northern Thailand](/blog/singapore-airlines-chiang-mai-nonstop-flights-2026/) which could simplify connections for travellers routing through Changi.
+With the park closing on May 15, the window for the current season is narrowing. If the Similans are on your list, book soon — the combination of visitor caps and peak-season demand means last-minute spots are hard to find. Make sure you have [travel insurance](/blog/travel-insurance-thailand-guide/) in place before departure, and check the [Thailand Digital Arrival Card requirements](/visa/digital-arrival-card/) if you are flying in from abroad. A solid [eSIM or local SIM card](/travel-guides/sim-card-thailand/) will also keep you connected for last-minute bookings while on the road. For those flying into the region from Singapore, it is also worth noting that [Singapore Airlines is exploring a new nonstop route to northern Thailand](/blog/singapore-airlines-chiang-mai-nonstop-flights-2026/) which could simplify connections for travellers routing through Changi.

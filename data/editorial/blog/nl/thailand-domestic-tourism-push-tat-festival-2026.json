@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-domestic-tourism-push-tat-festival-2026",
+  "route": "/nl/blog/thailand-domestic-tourism-push-tat-festival-2026/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand Tourism Festival maart 2026 | Archief",
+    "description": "Het Thailand Tourism Festival van 25–29 maart 2026 is afgelopen; deze historische TAT-update is geen actuele evenementengids.",
+    "primaryKeyword": "archief Thailand Tourism Festival 2026",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-domestic-tourism-push-tat-festival-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Afgelopen evenement",
+    "title": "Thailand Tourism Festival 2026",
+    "accent": "25–29 maart is voorbij",
+    "description": "Gebruik deze route alleen als archiefcontext en controleer een nieuwe editie bij TAT.",
+    "image": "/images/redesign/editorial/thailand-domestic-tourism-push-tat-festival-2026-hero.webp",
+    "imageAlt": "Bezoekers lopen langs Thaise ambachts- en foodstands in een moderne beurshal",
+    "primaryCta": { "label": "Bekijk actuele TAT-updates", "href": "https://www.tatnews.org/", "external": true }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-03-25", "endsOn": "2026-03-29", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Het 44e Thailand Tourism Festival van 25–29 maart 2026 is afgelopen. De pagina staat op noindex; raadpleeg TAT voor een volgende editie en nieuwe evenementdata.",
+  "blocks": [
+    { "kind": "callout", "id": "archief", "tone": "warning", "title": "Niet meer in je agenda zetten", "description": "De genoemde festivaldata zijn verstreken. Een nieuwe editie, locatie of campagne moet afzonderlijk worden bevestigd." },
+    { "kind": "related", "id": "plannen", "title": "Plan zonder verlopen campagne", "items": [
+      { "title": "Bestemmingen", "description": "Kies een bestemming op reisstijl en actuele praktische informatie.", "href": "/nl/city/" },
+      { "title": "Reisroutes", "description": "Bouw een route die niet afhankelijk is van één tijdelijk evenement.", "href": "/nl/itineraries/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Actueel TAT-kanaal", "items": [{ "title": "TAT Newsroom", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/", "checkedAt": "2026-08-01", "note": "Officiële nieuwsbron voor nieuwe evenementen en actuele campagnes." }] }
+  ]
+}

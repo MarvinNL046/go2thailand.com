@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1, "locale": "nl", "slug": "doi-inthanon-national-park-thailand-highest-peak", "route": "/nl/blog/doi-inthanon-national-park-thailand-highest-peak/", "cluster": "attractions", "editorialStatus": "ready", "updatedAt": "2026-08-01",
+  "seo": { "title": "Doi Inthanon vanuit Chiang Mai | Go2Thailand", "description": "Plan Doi Inthanon vanuit Chiang Mai: kies vervoer, stops en wandelroute en controleer parkregels, padstatus, weer en gidsvereisten.", "primaryKeyword": "doi inthanon", "secondaryKeywords": ["doi inthanon dagtrip", "doi inthanon vanuit chiang mai", "hoogste berg thailand"], "searchIntent": "commercial-investigation", "canonicalPath": "/nl/blog/doi-inthanon-national-park-thailand-highest-peak/" },
+  "hero": { "eyebrow": "Koele bergdag", "title": "Doi Inthanon", "accent": "Kies minder stops", "description": "De top is bereikbaar over de weg; de echte keuze gaat over wandelroute, vervoer en hoeveel tijd je het nevelwoud geeft.", "image": "/images/redesign/editorial/doi-inthanon-national-park-thailand-highest-peak-hero.webp", "imageAlt": "Nevelwoud en berglandschap in Doi Inthanon National Park", "primaryCta": { "label": "Kies je vervoer", "href": "#vervoer" }, "secondaryCta": { "label": "Parkchecklist", "href": "#parkcheck" } },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Doi Inthanon werkt als dagtrip vanuit Chiang Mai als je vervoer vooraf regelt, één hoofdwandeling kiest en padstatus en weer dezelfde dag controleert.",
+  "blocks": [
+    { "kind": "comparison", "id": "vervoer", "title": "Hoe wil je de bergdag reizen?", "options": [
+      { "title": "Tour", "description": "Vervoer en route zijn geregeld; controleer stops, gids en inbegrepen entree.", "label": "Eenvoud" },
+      { "title": "Auto", "description": "Meer vrijheid, maar de bestuurder krijgt bochten, mist en een lange afdaling.", "label": "Vrijheid" },
+      { "title": "Scooter", "description": "Alleen voor ervaren, correct bevoegde en verzekerde bestuurders; kou en regen vergroten het risico.", "label": "Meer risico" }
+    ] },
+    { "kind": "steps", "id": "route", "title": "Een bergdag zonder afvinkstress", "steps": [
+      { "title": "Controleer het park", "description": "Vraag naar opening, weer, padstatus en gidsvereisten." },
+      { "title": "Kies één wandeling", "description": "Laat conditie, ondergrond en resterende tijd de route bepalen." },
+      { "title": "Voeg één stop toe", "description": "Combineer met de top, een waterval of pagodes; niet automatisch alles." }
+    ] },
+    { "kind": "checklist", "id": "parkcheck", "title": "Neem dit serieus op hoogte", "items": ["Warme laag en regenbescherming", "Schoenen met profiel en voldoende water", "Actuele pad- en gidsregels", "Rustige afdaling vóór donker", "Geen wildlife voeren of pad verlaten"] },
+    { "kind": "affiliate", "id": "tour", "provider": "klook", "title": "Controleer een actuele Doi Inthanon-tour", "description": "Vergelijk route, groepsgrootte, gids, entree en annuleringsvoorwaarden voordat je boekt.", "cta": { "label": "Bekijk actuele tours", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true }, "placement": "doi-inthanon-daytour", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen over Doi Inthanon", "items": [
+      { "question": "Is Doi Inthanon een zware bergbeklimming?", "answer": "Nee, de top is over de weg bereikbaar. Wandelroutes verschillen wel in lengte, ondergrond en eventuele gidsvereiste." },
+      { "question": "Kun je Doi Inthanon als dagtrip doen?", "answer": "Ja, met vooraf geregeld vervoer en een compacte selectie van wandeling, top en één extra stop." },
+      { "question": "Is het koud op Doi Inthanon?", "answer": "Door de hoogte kan het veel koeler, natter en mistiger zijn dan in Chiang Mai. Neem een warme laag en regenkleding mee." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire informatie voor de bergdag", "items": [
+      { "title": "Doi Inthanon National Park", "publisher": "Department of National Parks", "url": "https://npv-app.dnp.go.th/front/other/83/23?lang=en", "checkedAt": "2026-08-01", "note": "Officiële parkidentiteit en actuele bezoekersinformatie." },
+      { "title": "Doi Inthanon", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Attraction/doi-inthanon-national-park", "checkedAt": "2026-08-01", "note": "Bestemmingscontext en belangrijkste bezoekerspunten." }
+    ] }
+  ]
+}

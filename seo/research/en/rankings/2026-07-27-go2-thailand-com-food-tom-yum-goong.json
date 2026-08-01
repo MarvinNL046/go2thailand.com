@@ -1,0 +1,54 @@
+{
+  "captured_at": "2026-07-27T23:19:53.450Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/food/tom-yum-goong/",
+  "cost": 0.01272,
+  "rankings": [
+    {
+      "keyword": "tom yum goong",
+      "position": 71,
+      "volume": 1300,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/food/tom-yum-goong/"
+    },
+    {
+      "keyword": "tom yum goong thai",
+      "position": 63,
+      "volume": 1300,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/food/tom-yum-goong/"
+    },
+    {
+      "keyword": "tom yum goong thailand",
+      "position": 62,
+      "volume": 1300,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/food/tom-yum-goong/"
+    },
+    {
+      "keyword": "tom yum gum",
+      "position": 68,
+      "volume": 1300,
+      "intent": "transactional",
+      "url": "https://go2-thailand.com/food/tom-yum-goong/"
+    },
+    {
+      "keyword": "yum goong",
+      "position": 86,
+      "volume": 1300,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/food/tom-yum-goong/"
+    },
+    {
+      "keyword": "tom yum kung",
+      "position": 77,
+      "volume": 480,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/food/tom-yum-goong/"
+    }
+  ]
+}

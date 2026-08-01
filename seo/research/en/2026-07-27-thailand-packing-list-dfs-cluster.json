@@ -1,0 +1,980 @@
+{
+  "captured_at": "2026-07-27T19:48:35.086Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thailand packing list",
+  "costs": {
+    "suggestions": 0.01956,
+    "related": 0.01296,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thailand packing list",
+    "packing list for thailand",
+    "packing list thailand",
+    "male packing list thailand",
+    "thailand packing list male",
+    "backpacking in thailand packing list",
+    "backpacking thailand packing list",
+    "packing list backpacking thailand",
+    "packing list for backpacking thailand",
+    "packing list thailand backpacking",
+    "thailand backpacking packing list",
+    "thailand travel packing list",
+    "thailand trip packing list",
+    "travel packing list thailand",
+    "packing for thailand list",
+    "packing list for 2 weeks in thailand",
+    "packing list for thailand holiday",
+    "packing list for thailand in april",
+    "packing list for thailand in december"
+  ],
+  "keywords": [
+    {
+      "keyword": "packing list for thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand packing list",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand packing list female",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "male packing list thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand packing list male",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "backpacking in thailand packing list",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "backpacking thailand packing list",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list backpacking thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for backpacking thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list thailand backpacking",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand backpacking packing list",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel packing list",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand trip packing list",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel packing list thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing for thailand list",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for 2 weeks in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand female",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand holiday",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand in april",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand in december",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand in february",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand in january",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand in july",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand in march",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand in november",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand in october",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand male",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list thailand 2 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "packing list thailand women",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list to thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 2 week packing list",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand honeymoon packing list",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand packing list 2 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand packing list female 2 weeks",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand packing list pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand packing list reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand rainy season packing list",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel to thailand packing list",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what to pack for 2 weeks in thailand male",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to pack for thailand in november",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "women's packing list for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand vacation",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list thailand lonely planet",
+      "volume": 0,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand packing list blog",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ttp www chaseforadventure com thailand packing list",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "camp thailand packing list",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "contiki thailand packing list",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "female packing list thailand",
+      "volume": null,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hefy thailand packing list",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "men's thailand packing list",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "minimalist packing list thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "moving to thailand packing list",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for bangkok thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for camp thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for moving to thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for teaching in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand and bali",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand and vietnam",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list for thailand pdf",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "packing list thailand 1 month",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "printable thailand packing list",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "study abroad thailand packing list",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand clothes packing list",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "traveling thailand packing list",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.cabinzero.com",
+      "avgPosition": 1.3333333333333333,
+      "keywordCount": 3,
+      "visibility": 2.9,
+      "estimatedTraffic": 202.66
+    },
+    {
+      "domain": "www.thegayglobetrotter.com",
+      "avgPosition": 1.6666666666666667,
+      "keywordCount": 3,
+      "visibility": 2.8,
+      "estimatedTraffic": 118.88000000000001
+    },
+    {
+      "domain": "www.travelite.com",
+      "avgPosition": 4.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.9000000000000001,
+      "estimatedTraffic": 42.305
+    },
+    {
+      "domain": "www.gadventures.com",
+      "avgPosition": 6.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.4500000000000002,
+      "estimatedTraffic": 46.519
+    },
+    {
+      "domain": "under30experiences.com",
+      "avgPosition": 7.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.1,
+      "estimatedTraffic": 15.776
+    },
+    {
+      "domain": "www.no1currency.com",
+      "avgPosition": 8.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.85,
+      "estimatedTraffic": 18.157999999999998
+    },
+    {
+      "domain": "weareglobaltravellers.com",
+      "avgPosition": 9.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.55,
+      "estimatedTraffic": 8.697
+    },
+    {
+      "domain": "customasiatravel.com",
+      "avgPosition": 10.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.95,
+      "estimatedTraffic": 19.143
+    },
+    {
+      "domain": "www.thekohsamuiguide.com",
+      "avgPosition": 14.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.709
+    },
+    {
+      "domain": "www.takemetour.com",
+      "avgPosition": 15,
+      "keywordCount": 3,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 25.993000000000002
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 16.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.7119999999999997
+    },
+    {
+      "domain": "www.wendywutours.com.au",
+      "avgPosition": 17,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.59
+    },
+    {
+      "domain": "www.travelandleisure.com",
+      "avgPosition": 23.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.665
+    },
+    {
+      "domain": "theroamingrenegades.com",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.569
+    },
+    {
+      "domain": "www.eminent.com",
+      "avgPosition": 25.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.2409999999999997
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 22.778000000000002
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 3.9669999999999996
+    },
+    {
+      "domain": "backpackbob.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.023
+    },
+    {
+      "domain": "travelhappy.info",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.897
+    },
+    {
+      "domain": "feelfreetravel.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.9929999999999999
+    },
+    {
+      "domain": "wwwnc.cdc.gov",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.5,
+      "estimatedTraffic": 10.921
+    },
+    {
+      "domain": "www.dreambigtravelfarblog.com",
+      "avgPosition": 22,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8869999999999999
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 22.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.4809999999999999
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 23.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.greenoidadventure.co.uk",
+      "avgPosition": 49,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.1529999999999996
+    },
+    {
+      "domain": "www.tog24.com",
+      "avgPosition": 25,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9669999999999999
+    },
+    {
+      "domain": "www.traveltomtom.net",
+      "avgPosition": 25,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.4809999999999999
+    },
+    {
+      "domain": "www.whatshomeforyou.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.728
+    },
+    {
+      "domain": "www.tourcompass.co.uk",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "hxp.org",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.liveawilderlife.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7869999999999999
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "asherfergusson.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "saily.com",
+      "avgPosition": 38.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.pinterest.com",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.gintravels.com",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 42,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.bigworldsmallpockets.com",
+      "avgPosition": 42.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.travelfashiongirl.com",
+      "avgPosition": 42.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.contiki.com",
+      "avgPosition": 50.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "rootsabroadtravel.com",
+      "avgPosition": 52,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.geekyexplorer.com",
+      "avgPosition": 5,
+      "keywordCount": 1,
+      "visibility": 0.6,
+      "estimatedTraffic": 2.3449999999999998
+    },
+    {
+      "domain": "plantrip.io",
+      "avgPosition": 57,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "blog.tortugabackpacks.com",
+      "avgPosition": 57.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "test.tourcompass.co.uk",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.6320000000000001
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.215
+    },
+    {
+      "domain": "breathingtravel.com",
+      "avgPosition": 59,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.7769999999999999
+    },
+    {
+      "domain": "www.wanderlustchloe.com",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.12
+    },
+    {
+      "domain": "hoponworld.com",
+      "avgPosition": 22,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.7040000000000001
+    }
+  ]
+}

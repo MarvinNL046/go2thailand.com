@@ -1,0 +1,50 @@
+{
+  "captured_at": "2026-07-28T06:14:40.969Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai tamarind prawns",
+  "costs": {
+    "suggestions": 0.01236,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "thai tamarind prawns",
+    "tamarind prawns thai",
+    "thai tamarind prawns recipe"
+  ],
+  "keywords": [
+    {
+      "keyword": "tamarind prawns thai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai tamarind prawns",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai tamarind prawns recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

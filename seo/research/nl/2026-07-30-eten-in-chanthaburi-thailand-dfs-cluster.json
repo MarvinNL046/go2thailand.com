@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-30T20:26:00.297Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "eten in chanthaburi thailand",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "eten in chanthaburi thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "eten in chanthaburi thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-public-transport-bts-mrt-tourist-guide-2026",
+  "route": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Openbaar vervoer Bangkok: BTS en MRT uitgelegd",
+    "description": "Gebruik BTS, MRT, Airport Rail Link en monorails in Bangkok zonder ticketsystemen te verwarren. Met overstap- en betaalstrategie.",
+    "primaryKeyword": "openbaar vervoer Bangkok",
+    "secondaryKeywords": ["BTS Bangkok", "MRT Bangkok", "Bangkok metro betalen", "Rabbit Card Bangkok"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Van lijnkleur naar logische route",
+    "title": "BTS en MRT in Bangkok",
+    "accent": "Eén netwerk, meerdere ticketsystemen.",
+    "description": "Plan eerst de lijn en overstap, kies daarna pas het betaalmiddel. Zo voorkom je dat een kaartnaam belangrijker wordt dan je echte route.",
+    "image": "/images/redesign/editorial/bangkok-public-transport-bts-mrt-tourist-guide-2026-hero.webp",
+    "imageAlt": "Verhoogde stadstrein en voetgangersverbinding tussen stations in Bangkok",
+    "primaryCta": { "label": "Kies je systeem", "href": "#systemen" },
+    "secondaryCta": { "label": "Plan een overstap", "href": "#overstappen" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Gebruik BTS voor veel verhoogde stadscorridors, MRT voor ondergrondse en aanvullende lijnen, Airport Rail Link voor Suvarnabhumi en een boot of taxi voor gaten in het netwerk. Reken niet op één kaart voor alles.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "systemen",
+      "title": "Welk systeem lost welk deel op?",
+      "cards": [
+        { "title": "BTS Skytrain", "description": "Sterk langs Sukhumvit en Silom; single-journey tickets en Rabbit zijn systeemgebonden.", "label": "Verhoogd" },
+        { "title": "MRT", "description": "Blue en Purple hebben hun eigen betaalomgeving; MRTA-lijnen zijn vanaf juni 2026 breder met EMV contactloos verbonden.", "label": "Metro" },
+        { "title": "Airport Rail Link", "description": "De vaste spoorverbinding tussen Suvarnabhumi en de stad; controleer de laatste kilometer naar je hotel.", "label": "Luchthaven" },
+        { "title": "Yellow en Pink Line", "description": "Monorails voor buitenste stadsdelen en overstappen; controleer stationsnamen en aansluitingen per rit.", "label": "Aanvullend" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "overstappen",
+      "title": "Zo plan je een overstap",
+      "steps": [
+        { "title": "Zoek lijn én richting", "description": "Een stationsnaam zonder eindrichting voorkomt niet dat je op het verkeerde perron belandt." },
+        { "title": "Controleer of je uitcheckt", "description": "Een overstap tussen exploitanten kan een wandeling en een nieuw ticket vereisen." },
+        { "title": "Plan de laatste kilometer", "description": "Bekijk uitgangsnummer, hitte, bagage en loopafstand voordat je de rit als ‘klaar’ beschouwt." }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "betalen",
+      "tone": "saffron",
+      "title": "Koop geen kaart voordat je route vaststaat",
+      "description": "Rabbit is nuttig op BTS en gekoppelde systemen, maar niet automatisch de universele kaart voor iedere Bangkokse railrit. Een losse rit blijft vaak de eenvoudigste toeristenkeuze."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Bangkok OV",
+      "items": [
+        { "question": "Werkt Rabbit Card op alle MRT-lijnen?", "answer": "Nee. Ticketacceptatie verschilt per exploitant en lijn. Controleer de actuele betaaliconen bij het station." },
+        { "question": "Kun je contactloos betalen in de MRT?", "answer": "MRTA kondigde volledige EMV-contactloze ondersteuning op vier lijnen onder haar toezicht aan vanaf 1 juni 2026. Controleer ter plaatse welke kaarttypes geaccepteerd worden." },
+        { "question": "Wat is beter: BTS of MRT?", "answer": "Het systeem dat het dichtst bij je vertrek- en eindpunt komt. Een langere railrit is vaak prettiger dan een korte rit met een lange warme wandeling." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële vervoersbronnen",
+      "items": [
+        { "title": "Ticketing System", "publisher": "BTS Skytrain", "url": "https://www.bts.co.th/eng/library/system-tickets.html", "checkedAt": "2026-08-01", "note": "BTS-tickettypes en automaten." },
+        { "title": "Rabbit Card issuing", "publisher": "BTS Skytrain", "url": "https://www.bts.co.th/eng/tickets/ticket-rabbit-issuing.html", "checkedAt": "2026-08-01", "note": "Uitgifte, tegoed en voorwaarden." },
+        { "title": "EMV Contactless from 1 June 2026", "publisher": "Mass Rapid Transit Authority of Thailand", "url": "https://www.mrta.co.th/en/news-release/33436", "checkedAt": "2026-08-01", "note": "Officiële uitleg over de contactloze upgrade op vier MRTA-lijnen." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Gebruik het netwerk voor je dag",
+      "items": [
+        { "title": "Bangkok overzicht", "description": "Kies wijken en dagclusters vóór je ritten plant.", "href": "/nl/city/bangkok/" },
+        { "title": "Jodd Fairs Ratchada", "description": "Een concrete MRT-route naar de avondmarkt.", "href": "/nl/blog/jodd-fairs-bangkok-night-market-guide/" },
+        { "title": "Chatuchak foodgids", "description": "Plan markt, station en foodzones als één bezoek.", "href": "/nl/blog/chatuchak-weekend-market-food-guide/" }
+      ]
+    }
+  ]
+}

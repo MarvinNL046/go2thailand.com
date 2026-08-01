@@ -18,7 +18,7 @@ sources:
     url: "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html"
 ---
 
-After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and island-hopping through the south, our team has encountered nearly every **Thailand travel scam** in the book—and helped countless travelers avoid them. While Thailand remains one of the world's safest and most welcoming destinations, petty scams targeting tourists are real, systematic, and evolving in 2026. Our broader guide on [is Thailand safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/) covers the full picture beyond scams.
+After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and island-hopping through the south, our team has encountered nearly every **Thailand travel scam** in the book—and helped countless travelers avoid them. While Thailand remains one of the world's safest and most welcoming destinations, petty scams targeting tourists are real, systematic, and evolving in 2026. Our broader guide on [is Thailand safe for tourists in 2026](/is-thailand-safe/) covers the full picture beyond scams.
 
 The good news? Armed with knowledge, you can sidestep nearly all of them.
 
@@ -28,7 +28,7 @@ The good news? Armed with knowledge, you can sidestep nearly all of them.
 |----------|--------|
 | **What are the most common Thailand scams?** | Gem/jewelry fraud, overpriced taxis, closed temple scams, and gem shop schemes are the top four. |
 | **How much money can I lose?** | Gem scams range from THB 5,000–50,000+ ($140–1,400+); taxi overcharges typically THB 100–500 ($3–15). |
-| **Which cities have the most scams?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and tourist hotspots like [Phuket](https://go2-thailand.com/islands/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/). |
+| **Which cities have the most scams?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and tourist hotspots like [Phuket](https://go2-thailand.com/city/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/). |
 | **How do I report a scam?** | Contact the Tourist Police at 1155 (toll-free) or visit the nearest Tourist Police office. |
 | **What's the best prevention?** | Use official taxis (Grab app), book tours through reputable operators, and trust your instincts. |
 | **Should I carry cash?** | Yes, but in small amounts. Use ATMs at banks or malls, not street machines. |
@@ -121,7 +121,7 @@ Tourists trust local advice and feel grateful for the "help." The scammer builds
 
 ### How to Verify Before You Go
 
-**Check opening hours on Google Maps or your hotel's information sheet before leaving.** Major temples in [Bangkok](https://go2-thailand.com/city/bangkok/) like the [Grand Palace](/city/bangkok/attractions/grand-palace/) and [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/) are open daily (with rare exceptions) and rarely close unexpectedly. If someone tells you a major attraction is closed, politely thank them and continue—or verify with your hotel. Book tours through reputable operators rather than accepting street recommendations. If you do hire a tuk-tuk, specify your exact destination and agree on a price beforehand.
+**Check opening hours on Google Maps or your hotel's information sheet before leaving.** Major temples in [Bangkok](https://go2-thailand.com/city/bangkok/) like the [Grand Palace](/city/bangkok/attractions/) and [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/) are open daily (with rare exceptions) and rarely close unexpectedly. If someone tells you a major attraction is closed, politely thank them and continue—or verify with your hotel. Book tours through reputable operators rather than accepting street recommendations. If you do hire a tuk-tuk, specify your exact destination and agree on a price beforehand.
 
 <div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -144,7 +144,7 @@ Tourists trust local advice and feel grateful for the "help." The scammer builds
 
 ## 4. Overpriced Tours and "Special Deals"
 
-Street touts offering "amazing tour deals" are ubiquitous in [Bangkok](https://go2-thailand.com/city/bangkok/), [Phuket](https://go2-thailand.com/islands/phuket/), and island destinations. The pitch is always similar: "Today only, special price for you—island tour, snorkeling, sunset cruise, only THB 500–800 ($14–23)."
+Street touts offering "amazing tour deals" are ubiquitous in [Bangkok](https://go2-thailand.com/city/bangkok/), [Phuket](https://go2-thailand.com/city/phuket/), and island destinations. The pitch is always similar: "Today only, special price for you—island tour, snorkeling, sunset cruise, only THB 500–800 ($14–23)."
 
 The reality? You're paying for a low-quality, overcrowded experience with hidden costs. The boat is packed with 50+ people. Snorkeling sites are mediocre. Lunch is minimal. And at the end, you're taken to a shop where you're pressured to buy overpriced souvenirs or upgrades. The "special price" was a loss leader to get you on the tour.
 
@@ -229,7 +229,7 @@ ATM skimming is rarer but more serious. Scammers install card readers on ATMs to
 
 ### Safe Currency Practices
 
-**Withdraw cash from ATMs inside banks or shopping malls**, not street machines. Major banks (Bangkok Bank, Kasikornbank, Krungsri) have secure ATMs. Avoid money changers; use your bank's ATM or official exchange counters at airports and major malls. Check your bank balance regularly and report unauthorized transactions immediately. Consider using a travel-friendly card (Wise, Revolut) that offers fair exchange rates without ATM fees. See our full [Thailand budget and daily costs guide](/blog/thailand-budget-2026-daily-costs/) for managing money on the road.
+**Withdraw cash from ATMs inside banks or shopping malls**, not street machines. Major banks (Bangkok Bank, Kasikornbank, Krungsri) have secure ATMs. Avoid money changers; use your bank's ATM or official exchange counters at airports and major malls. Check your bank balance regularly and report unauthorized transactions immediately. Consider using a travel-friendly card (Wise, Revolut) that offers fair exchange rates without ATM fees. See our full [Thailand budget and daily costs guide](/thailand-index/budget/) for managing money on the road.
 
 ---
 
@@ -272,7 +272,7 @@ Once you send money, they disappear. If you're in Thailand and meet someone in p
 </div>
 
 
-**Never send money to someone you've only met online.** If they ask for money, they're scamming you. Be cautious of people who quickly profess love or suggest meeting in expensive bars. Stick to reputable dating apps with verification. If you meet someone in person, go to neutral venues (cafes, restaurants) rather than bars where you might be trapped into paying inflated bills. For solo travelers, see our [solo female travel safety tips for Thailand](/blog/solo-female-travel-thailand-safety-tips/).
+**Never send money to someone you've only met online.** If they ask for money, they're scamming you. Be cautious of people who quickly profess love or suggest meeting in expensive bars. Stick to reputable dating apps with verification. If you meet someone in person, go to neutral venues (cafes, restaurants) rather than bars where you might be trapped into paying inflated bills. For solo travelers, see our [solo female travel safety tips for Thailand](/travel-guides/solo-female-travel-thailand/).
 
 ---
 
@@ -338,7 +338,7 @@ Yes, Booking.com, Agoda, Klook, GetYourGuide, and Viator are legitimate, regulat
 
 ### What's the best way to [stay connected](https://saily.tpo.lv/rf9lidnE) and safe online in Thailand?
 
-Use a reputable [Thailand eSIM](https://go2-thailand.com/esim/) or local SIM card from major providers (AIS, Dtac, True Move). Our [best SIM card and eSIM guide for Thailand](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) compares the top options for 2026. Avoid public WiFi for sensitive transactions; use a [VPN like NordVPN](https://nordvpn.tpo.lv/ekHF1i55) if you must access banking or personal accounts on public networks. Keep your phone and laptop updated with the latest security patches.
+Use a reputable [Thailand eSIM](https://go2-thailand.com/esim/) or local SIM card from major providers (AIS, Dtac, True Move). Our [best SIM card and eSIM guide for Thailand](/travel-guides/sim-card-thailand/) compares the top options for 2026. Avoid public WiFi for sensitive transactions; use a [VPN like NordVPN](https://nordvpn.tpo.lv/ekHF1i55) if you must access banking or personal accounts on public networks. Keep your phone and laptop updated with the latest security patches.
 
 ---
 
@@ -348,7 +348,7 @@ Use a reputable [Thailand eSIM](https://go2-thailand.com/esim/) or local SIM car
 
 Our three years in Thailand taught us that locals are genuinely warm and helpful—but a small minority exploit tourists' trust. The key is discernment: Say yes to authentic cultural experiences, local recommendations from hotel staff, and verified operators. Say no to street pitches, aggressive salespeople, and deals that seem too good to be true.
 
-For more practical safety information, visit our [Scams & Safety guide](https://go2-thailand.com/practical-info/scams-safety/) or check the [Tourism Authority of Thailand](https://www.tourismthailand.org/) for the latest travel advisories. You may also want to read our [10 biggest Thailand travel mistakes](/blog/10-biggest-thailand-travel-mistakes/) and our guide to [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/) before you go. For first-time visitors, our [Thailand first-timers essential guide 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) covers everything from visas to transport. Before entering the country, make sure you understand the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) requirement.
+For more practical safety information, visit our [Scams & Safety guide](https://go2-thailand.com/practical-info/scams-safety/) or check the [Tourism Authority of Thailand](https://www.tourismthailand.org/) for the latest travel advisories. You may also want to read our [10 biggest Thailand travel mistakes](/blog/10-biggest-thailand-travel-mistakes/) and our guide to [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/) before you go. For first-time visitors, our [Thailand first-timers essential guide 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) covers everything from visas to transport. Before entering the country, make sure you understand the [Thailand Digital Arrival Card (TDAC)](/visa/digital-arrival-card/) requirement.
 
 **Trust your instincts. If something feels off, it probably is.** Safe travels.
 

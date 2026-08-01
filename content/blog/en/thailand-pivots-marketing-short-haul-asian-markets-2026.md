@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["tourism strategy", "Asian markets", "TAT", "tourism 2026", "Middle East crisis"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-pivots-marketing-short-haul-asian-markets-2026-hero.webp"
 description: "With long-haul arrivals disrupted by Middle East conflicts, Thailand is shifting its tourism marketing focus to neighboring Asian countries and short-haul travelers."
 featured: false
 readingTime: 3
@@ -28,7 +28,7 @@ European tourist arrivals to Thailand dropped by **18 percent** in the first wee
 
 ## The Pivot: Focus on Neighbors
 
-In response, the Tourism Authority of Thailand (TAT) has shifted marketing resources toward travelers from **China, Malaysia, India, South Korea, Japan, and Australia** — markets that rely on direct, short-haul flights unaffected by the Middle East disruptions. These countries already represent some of Thailand's largest source markets: China alone accounted for the single biggest share of international arrivals in early 2026. It is worth noting that [Thailand's visa-free stay period was recently cut from 60 to 30 days](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/) for many nationalities, a policy that complicates the push for longer stays from these very markets.
+In response, the Tourism Authority of Thailand (TAT) has shifted marketing resources toward travelers from **China, Malaysia, India, South Korea, Japan, and Australia** — markets that rely on direct, short-haul flights unaffected by the Middle East disruptions. These countries already represent some of Thailand's largest source markets: China alone accounted for the single biggest share of international arrivals in early 2026. Visa-exemption conditions differ by passport and remain changeable; use the [current visa finder](/visa/) rather than applying one market's rule to all of these countries.
 
 TAT has launched **targeted stimulus measures** for travelers from these countries, including promotional packages, special event tie-ins, and cooperation with regional airlines to maintain competitive airfares on short-haul routes. The campaign ties in closely with [AirAsia's "Fly Your Feelings" promotion featuring LISA](/blog/airasia-tat-fly-your-feelings-free-flights-lisa-2026/) and the broader [Amazing Thailand app and AI partnership with Mastercard](/blog/amazing-thailand-app-ai-mastercard-2026/) targeting digital-savvy Asian travelers.
 

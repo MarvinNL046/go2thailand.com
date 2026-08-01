@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "koh-samui-airport-international-hub-bangkok-airways-2026",
+  "route": "/nl/blog/koh-samui-airport-international-hub-bangkok-airways-2026/",
+  "cluster": "transport",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koh Samui Airport hubclaim: route gearchiveerd | Go2Thailand",
+    "description": "De oude claim over een tweede internationale hub is gearchiveerd. Plan de actuele route naar Koh Samui via de complete vervoersowner.",
+    "primaryKeyword": "Koh Samui Airport hubclaim oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/koh-samui-airport-international-hub-bangkok-airways-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Claim gecorrigeerd",
+    "title": "Samui Airport is een gateway, geen bewezen ‘tweede hub’",
+    "accent": "Plan op actuele vluchten",
+    "description": "Officiële bronnen ondersteunen groei en capaciteit, maar niet de oude reeks onbevestigde 2026-routes. De praktische reisowner is daarom leidend.",
+    "image": "/images/redesign/editorial/koh-samui-airport-international-hub-bangkok-airways-2026-hero.webp",
+    "imageAlt": "Tropische openluchtterminal en een ongebrand vliegtuig op Koh Samui Airport",
+    "primaryCta": { "label": "Plan Bangkok naar Koh Samui", "href": "/nl/blog/bangkok-to-koh-samui-guide/" }
+  },
+  "layout": {
+    "kind": "news-update",
+    "newsStatus": "archived",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "split",
+    "navigation": "none",
+    "density": "standard"
+  },
+  "quickAnswer": "Bangkok Airways noemt Samui Airport een gateway en investeert in toekomstige groei; CAAT publiceert capaciteitsvoorwaarden. We vonden geen primaire bevestiging voor de oude claim dat Samui in 2026 Thailands ‘tweede internationale hub’ wordt met directe routes naar Abu Dhabi, Dubai en Shanghai.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "correctie",
+      "tone": "warning",
+      "title": "Een routeplan is pas echt wanneer de airline het verkoopt",
+      "description": "Gebruik de actuele Bangkok–Koh Samui-owner en controleer de uitvoerende maatschappij, luchthavencode, bagage en vluchtstatus voor jouw datum.",
+      "cta": { "label": "Vergelijk de complete reis", "href": "/nl/blog/bangkok-to-koh-samui-guide/" }
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire correctiebronnen",
+      "items": [
+        {
+          "title": "Samui Airport: A Green Gateway to the Future",
+          "publisher": "Bangkok Airways",
+          "url": "https://www.bangkokair.com/press-release/view/samui-airport-37-years",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële investerings- en groeicontext zonder bevestiging van de oude genoemde hubroutes."
+        },
+        {
+          "title": "Notice of Airport Capacity S26",
+          "publisher": "Civil Aviation Authority of Thailand",
+          "url": "https://www.caat.or.th/wp-content/uploads/2025/12/USM_NAC_S26_Rev.02_15DEC25-SRD.pdf",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële capaciteitsvoorwaarden voor Samui Airport; capaciteit is geen routebevestiging."
+        }
+      ]
+    }
+  ]
+}

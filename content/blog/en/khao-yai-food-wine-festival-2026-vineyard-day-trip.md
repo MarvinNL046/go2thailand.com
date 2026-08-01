@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "things-to-do"
 tags: ["Khao Yai wine 2026", "Thailand vineyard", "PB Valley winery", "GranMonte estate", "Bangkok day trip wine tasting"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/khao-yai-food-wine-festival-2026-vineyard-day-trip-hero.webp"
 description: "The Khao Yai Food & Wine Festival 2026 puts Thailand's vineyard country in the spotlight. Learn about the wineries, Korat GI products and how to plan a day trip from Bangkok."
 featured: false
 readingTime: 3
@@ -28,7 +28,7 @@ Most visitors do not associate Thailand with wine, but roughly 160 kilometres no
 
 ### PB Valley Khao Yai Winery
 
-PB Valley is the birthplace of the Khao Yai wine region. The estate sprawls across more than 800 acres at the edge of [Khao Yai National Park](/city/nakhon-ratchasima/attractions/khao-yai-national-park/), sitting between 300 and 380 metres above sea level. Shiraz, Tempranillo and Chenin Blanc are among its best-known varieties. Visitors can hop on a tram tour through the vineyards, learn about the production process and finish with a guided tasting. For a deeper look at what else the park offers, read our dedicated [Khao Yai National Park day trip guide](/blog/khao-yai-national-park-day-trip-guide-2026/).
+PB Valley is the birthplace of the Khao Yai wine region. The estate sprawls across more than 800 acres at the edge of [Khao Yai National Park](/city/nakhon-ratchasima/attractions/), sitting between 300 and 380 metres above sea level. Shiraz, Tempranillo and Chenin Blanc are among its best-known varieties. Visitors can hop on a tram tour through the vineyards, learn about the production process and finish with a guided tasting. For a deeper look at what else the park offers, read our dedicated [Khao Yai National Park day trip guide](/blog/khao-yai-national-park-day-trip-guide-2026/).
 
 ### GranMonte Estate
 
@@ -36,7 +36,7 @@ Located in the Asoke Valley adjacent to the national park, GranMonte was establi
 
 ## Korat GI Products
 
-The 2026 festival goes beyond wine by showcasing products that carry a Geographical Indication label from the [Nakhon Ratchasima](/destinations/nakhon-ratchasima/) area. GI certification means the product's quality or reputation is linked to its place of origin, similar to Champagne in France or Parma ham in Italy. Expect local cheeses, honey, dried fruits and artisanal sauces alongside the wines. Thailand's culinary identity runs deep — the [Thailand Tourism Festival culinary guide](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/) explores regional food traditions across every corner of the country.
+The 2026 festival goes beyond wine by showcasing products that carry a Geographical Indication label from the [Nakhon Ratchasima](/city/nakhon-ratchasima/) area. GI certification means the product's quality or reputation is linked to its place of origin, similar to Champagne in France or Parma ham in Italy. Expect local cheeses, honey, dried fruits and artisanal sauces alongside the wines. Thailand's culinary identity runs deep — the [Thailand Tourism Festival culinary guide](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/) explores regional food traditions across every corner of the country.
 
 ## Best Time to Visit the Vineyards
 
@@ -53,8 +53,8 @@ Grape harvest season in Khao Yai typically runs from February to March, making r
 - **Do not drive after tasting.** If you plan to sample wines at multiple estates, arrange a designated driver or book a tour.
 - **Combine with the national park.** Khao Yai National Park is a UNESCO World Heritage Site with waterfalls, hiking trails and wild elephants. A two-day trip covering both the park and the vineyards is ideal. The park is also home to [ethical wildlife encounters](/blog/ethical-elephant-sanctuaries-thailand-2026-guide/) worth knowing about.
 - **Book winery visits in advance.** Guided tours and tasting sessions sometimes require reservations, especially during festival weekends.
-- **Check your visa status.** Make sure you have the right entry permit sorted before travelling — the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) covers all current categories.
+- **Check your visa status.** Make sure you have the right entry permit sorted before travelling — the [Thailand visa guide 2026](/visa/) covers all current categories.
 
-Khao Yai proves that Thailand's food scene extends far beyond [street food](/blog/thai-street-food-guide-2026/) and [curries](/blog/thai-curry-guide-green-red-yellow-massaman-panang/). A vineyard day trip is a refreshing change of pace — and the wines might genuinely surprise you. If you are building a longer itinerary, the [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/) and the [first-timers itinerary](/blog/thailand-itinerary-first-timers/) both have space for a Khao Yai stop.
+Khao Yai proves that Thailand's food scene extends far beyond [street food](/thailand-street-food/) and [curries](/blog/thai-curry-guide-green-red-yellow-massaman-panang/). A vineyard day trip is a refreshing change of pace — and the wines might genuinely surprise you. If you are building a longer itinerary, the [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/) and the [first-timers itinerary](/blog/thailand-itinerary-first-timers/) both have space for a Khao Yai stop.
 
 For a completely different kind of nature escape, the [Khao Sok floating bungalows on Cheow Lan Lake](/blog/khao-sok-floating-bungalows-cheow-lan-lake-glamping-guide-2026/) offer jungle glamping on the other side of the country — just as unexpected, just as memorable.

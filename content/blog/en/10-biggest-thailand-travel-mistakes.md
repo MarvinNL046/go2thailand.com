@@ -20,7 +20,7 @@ sources:
     url: "https://www.immigration.go.th/"
 ---
 
-After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and countless trips [island-hopping](/blog/thailand-island-hopping-guide/) through the south, our team has seen nearly every **Thailand travel mistake** in the book. We've watched first-time visitors overpay by 300%, miss their trains, fall for [scams](/blog/thailand-travel-scams-2026/), and leave Thailand frustrated—when a few simple precautions would have changed everything. This guide distills a decade of collective [experience](https://getyourguide.tpo.lv/GuAFfGGK) into 10 critical mistakes you absolutely must avoid.
+This guide distills a decade of collective [experience](https://getyourguide.tpo.lv/GuAFfGGK) into 10 critical mistakes you absolutely must avoid.
 
 ## Key Takeaways
 
@@ -38,13 +38,13 @@ After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-ma
 
 ## 1. Ignoring the Visa Requirements and Arrival Card Process
 
-**Thailand visa rules** are straightforward but easy to misunderstand, and mistakes here can mean denied entry or fines. Many travelers assume they can "figure it out at the airport," only to discover their passport validity is insufficient or they haven't completed required documentation. Check our [Thailand Digital Arrival Card guide](/blog/thailand-digital-arrival-card-tdac-guide/) before you fly.
+**Thailand visa rules** are straightforward but easy to misunderstand, and mistakes here can mean denied entry or fines. Many travelers assume they can "figure it out at the airport," only to discover their passport validity is insufficient or they haven't completed required documentation. Check our [Thailand Digital Arrival Card guide](/visa/digital-arrival-card/) before you fly.
 
 Thailand's **Digital Arrival Card** (TM.6) is now mandatory and must be submitted **3 days before arrival**. This isn't optional—it's a legal requirement under the Immigration Act, B.E. 2522. You can submit it free at [https://tdac.immigration.go.th/arrival-card/#/home](https://tdac.immigration.go.th/arrival-card/#/home). Processing takes minutes, but skipping this step can result in delays, fines, or even deportation.
 
 ### Visa-Free vs. Tourist Visa: Know Your Options
 
-Most Western nationalities (US, UK, EU, Australia, Canada) get **30-60 days visa-free** on arrival, depending on your passport. This sounds generous, but there's a catch: your passport must be valid for **at least 6 months beyond your stay**. We've seen travelers turned away at immigration because their passport expired in 8 months—not enough buffer.
+Most Western nationalities (US, UK, EU, Australia, Canada) get **30-60 days visa-free** on arrival, depending on your passport. This sounds generous, but there's a catch: your passport must be valid for **at least 6 months beyond your stay**.
 
 If you're staying longer than 30-60 days, you need a **Tourist Visa** (60 days, extendable to 90 days). Cost is approximately 2,000 THB (~$57 USD) through a Thai embassy abroad. Processing takes 3-5 working days. Alternatively, some travelers use the **[visa run](/blog/thailand-visa-run-era-ending-2026-expat-guide/)** method—leaving Thailand every 90 days and re-entering—but this is increasingly scrutinized by immigration.
 
@@ -56,7 +56,7 @@ If you're staying longer than 30-60 days, you need a **Tourist Visa** (60 days, 
 
 ## 2. Underestimating Costs and Blowing Your Budget in Week One
 
-Thailand is cheap—but only if you know where to eat and stay. We've watched travelers spend 3,000 THB ($85 USD) per night on a mid-range hotel, eat at tourist restaurants charging 400 THB for [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), and burn through their budget by day 5.
+Thailand is cheap—but only if you know where to eat and stay.
 
 **The reality:** Thailand costs vary wildly depending on where you go and what you do. [Bangkok](https://go2-thailand.com/city/bangkok/) is significantly more expensive than [Chiang Mai](https://go2-thailand.com/city/chiang-mai/). Tourist zones cost 3-5x more than local areas. A meal at a street stall costs 40-60 THB; the same dish at a tourist restaurant costs 250 THB.
 
@@ -69,28 +69,12 @@ Thailand is cheap—but only if you know where to eat and stay. We've watched tr
 | **Mid-range (hotel, mix of dining)** | 2,000-3,500 | $57-100 | Bangkok, Phuket, Koh Samui |
 | **Luxury (resort, fine dining)** | 5,000+ | $143+ | Premium zones |
 
-The mistake: arriving with a fixed budget and spending it all in [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/islands/phuket/), then having nothing left for the rest of Thailand.
+The mistake: arriving with a fixed budget and spending it all in [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/city/phuket/), then having nothing left for the rest of Thailand.
 
 ### How to Avoid Overspending
 
-**Spend your first 2-3 days in a cheap city** ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or a smaller town) to calibrate your spending. Eat where locals eat—look for shops with no English menu and a queue of Thai workers. Stay in a guesthouse (800-1,200 THB/night) before splurging on resorts. See our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) for detailed cost breakdowns. Use the ATM to withdraw cash in 2,000-5,000 THB increments; you'll spend less than if you carry large amounts.
+**Spend your first 2-3 days in a cheap city** ([Chiang Mai](https://go2-thailand.com/city/chiang-mai/) or a smaller town) to calibrate your spending. Eat where locals eat—look for shops with no English menu and a queue of Thai workers. Stay in a guesthouse (800-1,200 THB/night) before splurging on resorts. See our [Thailand budget guide](/thailand-index/budget/) for detailed cost breakdowns. Use the ATM to withdraw cash in 2,000-5,000 THB increments; you'll spend less than if you carry large amounts.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -98,27 +82,9 @@ The mistake: arriving with a fixed budget and spending it all in [Bangkok](https
 
 This is the #1 mistake we see during peak season (November-February). Travelers assume they'll "find something when they arrive," only to discover hotels are fully booked and prices have doubled.
 
-During high season, popular guesthouses in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/) fill 2-4 weeks in advance. This is especially true during [Songkran](/blog/songkran-festival-2026-guide/) and the Christmas-New Year period. Prices spike significantly as availability shrinks. We've seen travelers paying 3,500 THB for a room that costs 2,000 THB in low season—simply because they waited.
+During high season, popular guesthouses in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/) fill 2-4 weeks in advance. This is especially true during [Songkran](/blog/songkran-festival-2026-guide/) and the Christmas-New Year period. Prices spike significantly as availability shrinks.
 
 ### When to Book (Timeline)
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 - **Peak season (Nov-Feb):** Book 4-6 weeks ahead
@@ -141,22 +107,6 @@ In [Bangkok](https://go2-thailand.com/city/bangkok/), a metered taxi from the ai
 
 For longer distances between cities, use registered bus services or trains. A [bus](/transport/bangkok-to-chiang-mai/) from [Bangkok](https://go2-thailand.com/city/bangkok/) to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) costs 400-800 THB; an unregistered "VIP coach" might quote 1,500 THB and take you to a gem shop instead of your hotel.
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -178,29 +128,11 @@ Avoid airport exchanges entirely. If you must exchange money, do it at a bank in
 
 ## 6. Traveling During Peak Season Without Booking Transport Ahead
 
-Overnight trains and long-distance buses fill up weeks in advance during holidays. We've watched travelers arrive in [Bangkok](https://go2-thailand.com/city/bangkok/) on December 20th expecting to catch a [train to](https://trip.tpo.lv/gNIdNBmi) [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) that evening—only to find everything sold out until January 5th.
+Overnight trains and long-distance buses fill up weeks in advance during holidays.
 
-The State Railway of Thailand operates overnight trains on popular routes. These are comfortable, cheap (400-1,500 THB for a sleeper), and book out fast. Long-distance buses are similar—VIP buses to [Phuket](https://go2-thailand.com/islands/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/) fill weeks ahead during holidays.
+The State Railway of Thailand operates overnight trains on popular routes. These are comfortable, cheap (400-1,500 THB for a sleeper), and book out fast. Long-distance buses are similar—VIP buses to [Phuket](https://go2-thailand.com/city/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/) fill weeks ahead during holidays.
 
 ### Transport Booking Timeline
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 - **[Overnight trains](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/):** Book 2-4 weeks ahead (especially Dec-Feb)
@@ -226,7 +158,7 @@ The Thai people are incredibly welcoming, but there are non-negotiable cultural 
 - **Never step on currency** (it has the king's image).
 - **Respect monks:** women shouldn't touch them; don't sit higher than them.
 
-When we visited temples in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we saw tourists in bikinis and shorts being politely turned away. Show respect, and you'll be welcomed everywhere. Disrespect, and you'll face serious consequences.
+Show respect, and you'll be welcomed everywhere. Disrespect, and you'll face serious consequences.
 
 > **Did You Know?** Thailand has strict laws protecting the monarchy, with penalties up to 15 years imprisonment for serious violations.
 >
@@ -253,29 +185,11 @@ Thailand's hospitals are excellent—Bangkok Hospital and Bumrungrad Internation
 
 ## 9. Underestimating the Heat and Not Staying Hydrated
 
-April and May are brutal—temperatures exceed 40°C (104°F) with humidity. Dehydration, heat exhaustion, and heat stroke are real risks. We've seen travelers collapse after a morning of sightseeing because they underestimated the heat and didn't drink enough water.
+April and May are brutal—temperatures exceed 40°C (104°F) with humidity. Dehydration, heat exhaustion, and heat stroke are real risks.
 
 Thai people adapt to heat over years; tourists don't. Your body is working harder in heat and humidity, and you lose fluids faster than you realize.
 
 ### Heat Safety Rules
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 - **Drink 3-4 liters of water daily** (more if you're active)
@@ -287,22 +201,6 @@ Thai people adapt to heat over years; tourists don't. Your body is working harde
 
 Visit during [cool season](https://go2-thailand.com/thailand-in/november/) (November-February) if you're heat-sensitive. If you're here during hot season, adjust your schedule—sleep in, explore [temples](/blog/thailand-temple-etiquette-dress-code-guide-2026/) and markets in the morning, rest during midday, then explore again at 4 PM.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -314,7 +212,7 @@ The mistake: buying a SIM with too little data, then running out halfway through
 
 ### Best SIM Card Strategy
 
-**Buy a local [SIM card](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) at the airport or in any 7-Eleven.** You'll need your passport. Popular providers are AIS, Dtac, and True Move. A 7-day plan with 4G data costs 200-300 THB (~$6-9 USD). A 30-day plan costs 500-800 THB (~$14-23 USD).
+**Buy a local [SIM card](/travel-guides/sim-card-thailand/) at the airport or in any 7-Eleven.** You'll need your passport. Popular providers are AIS, Dtac, and True Move. A 7-day plan with 4G data costs 200-300 THB (~$6-9 USD). A 30-day plan costs 500-800 THB (~$14-23 USD).
 
 Alternatively, use an **eSIM** before you arrive. Services like Saily offer Thailand data plans (typically $15-25 USD for 2 weeks) with no physical card. This works if your phone supports eSIM (most modern phones do).
 
@@ -330,7 +228,7 @@ Check our [Thailand eSIM guide](https://go2-thailand.com/esim/) for detailed com
 
 ## Bonus Mistake: Not Planning an Itinerary (or Over-Planning)
 
-The sweet spot is loose planning. Know which cities you want to visit and roughly how many days in each, but leave flexibility for spontaneous discoveries. We've seen two extremes:
+The sweet spot is loose planning. Know which cities you want to visit and roughly how many days in each, but leave flexibility for spontaneous discoveries.
 
 **Over-planners** book every activity weeks ahead, then feel stressed when things don't go perfectly. **No-planners** waste days figuring out where to go next and miss out on popular experiences that book out.
 
@@ -338,22 +236,6 @@ Our approach: book accommodation 1-2 weeks ahead, book transport 2-3 weeks ahead
 
 For inspiration, check our [Thailand itineraries](https://go2-thailand.com/itineraries/) for 3-day, 5-day, 7-day, and 10-day options.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -369,7 +251,7 @@ Yes, but use common sense. Avoid walking alone at night in unfamiliar areas, use
 
 ### How much should I budget for a 2-week trip?
 
-Budget 1,200-1,800 THB ($34-51 USD) daily for a comfortable budget trip, or 2,000-3,500 THB ($57-100 USD) for mid-range. This includes accommodation, food, and activities. See our [cost guide](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget/) for detailed breakdowns.
+Budget 1,200-1,800 THB ($34-51 USD) daily for a comfortable budget trip, or 2,000-3,500 THB ($57-100 USD) for mid-range. This includes accommodation, food, and activities. See our [cost guide](https://go2-thailand.com/thailand-index/budget/) for detailed breakdowns.
 
 ### When should I visit Thailand?
 
@@ -389,7 +271,7 @@ The difference between a frustrating trip and an amazing one often comes down to
 
 Ready to plan your Thailand adventure? Start with our [Thailand travel guide](https://go2-thailand.com/thailand-travel-guide/) or explore [itineraries by duration](https://go2-thailand.com/itineraries/). For lesser-known spots beyond the tourist trail, see our guide to [hidden gems in Thailand](/blog/15-hidden-gems-thailand-tourists-miss/). And if you have questions, our [practical info section](https://go2-thailand.com/practical-info/) covers everything from [etiquette](https://go2-thailand.com/practical-info/etiquette-culture/) to [health](https://go2-thailand.com/practical-info/health-vaccinations/).
 
-**Trust us:** a little planning now saves you stress, money, and regret later. Thailand is waiting.
+Thailand is waiting.
 
 ---
 

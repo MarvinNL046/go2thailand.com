@@ -74,11 +74,11 @@ export default function PushBanner() {
   if (!show) return null;
 
   return (
-    <div className="bg-surface-dark text-white text-xs sm:text-sm flex items-center justify-center gap-3 px-4 py-1.5">
+    <section aria-label={locale === 'nl' ? 'Melding over Thailand-reistips' : 'Thailand travel tips notification'} className="bg-surface-dark text-white text-xs sm:text-sm flex items-center justify-center gap-3 px-4 py-1.5">
       <span>{t.text}</span>
       <button
         onClick={handleAllow}
-        className="px-2.5 py-0.5 bg-thailand-red text-white rounded text-xs font-medium hover:bg-thailand-red-600 transition-colors"
+        className="rounded bg-thailand-red-700 px-2.5 py-0.5 text-xs font-medium text-white transition-colors hover:bg-thailand-red-800"
       >
         {t.allow}
       </button>
@@ -91,6 +91,6 @@ export default function PushBanner() {
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
         </svg>
       </button>
-    </div>
+    </section>
   );
 }

@@ -34,10 +34,10 @@ Thailand has been the **budget backpacker** gateway to Southeast Asia for decade
 |----------|------------|
 | How much does backpacking Thailand cost per day? | A **budget backpacker** spends **1,200-1,800 THB ($33-50) per day** on [accommodation](/city/bangkok/), [food](/food/), and [transport](/transport/) |
 | What is the cheapest accommodation? | **Hostels** cost 200-500 THB/night; the best deals are in [Chiang Mai](/city/chiang-mai/) at 200-350 THB |
-| How much does street food cost? | **Thai street food** runs 30-70 THB per meal -- see our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for top dishes |
+| How much does street food cost? | **Thai street food** runs 30-70 THB per meal -- see our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) for top dishes |
 | What about ATM fees and money? | **ATM withdrawals** cost 220 THB per transaction; use a Wise card to reduce fees -- read our [ATM & money guide](/practical-info/atm-money/) |
 | When is the cheapest time to visit? | **Shoulder season** (May-June, Sep-Oct) offers the lowest prices on everything -- check our [weather guide](/weather/) for details |
-| Do I need travel insurance? | Yes, **[travel insurance](/travel-insurance-thailand/)** is essential and costs far less than a single hospital visit in Thailand |
+| Do I need travel insurance? | Yes, **[travel insurance](/travel-insurance/)** is essential and costs far less than a single hospital visit in Thailand |
 | How do I get around cheaply? | **Trains and buses** are the cheapest intercity options; see our [transport guide](/transport/) for routes like [Bangkok to Chiang Mai](/transport/bangkok-to-chiang-mai/) |
 
 ## 1. Daily Budget Overview
@@ -99,7 +99,7 @@ Air-conditioned rooms with an ensuite bathroom. Found everywhere on Booking.com 
 
 ### Lunch (30-70 THB)
 - **Khao man gai** (chicken rice): 40-50 THB
-- **[Pad Thai](/blog/pad-thai-street-food-vs-restaurant-homemade/)** from a street stall: 40-60 THB — our guide explains why street vendors beat restaurants on flavour
+- **[Pad Thai](/food/pad-thai/)** from a street stall — use our dish guide to compare ingredients, heat and street-versus-restaurant trade-offs
 - Rice with 1-2 curry toppings from a "kao gaeng" stall: 30-50 THB — see the [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) to know which curries are mildest
 
 ### Dinner (40-100 THB)
@@ -121,7 +121,7 @@ Air-conditioned rooms with an ensuite bathroom. Found everywhere on Booking.com 
 - Visit local markets in the late afternoon when vendors discount unsold **street food**.
 - On the [islands](/islands/), food is more expensive -- stock up on snacks at convenience stores.
 
-Read our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for dish-by-dish recommendations, and browse our complete [Thai food guide](/food/) for must-try dishes across the country. The [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) covers all 15 essential dishes with real prices. And if spice is a concern, the [is Thai food spicy guide](/blog/is-thai-food-spicy-guide/) will help you order safely.
+Read our [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) for dish-by-dish recommendations, and browse our complete [Thai food guide](/food/) for must-try dishes across the country. The [Thai street food guide 2026](/thailand-street-food/) covers all 15 essential dishes with real prices. And if spice is a concern, the [is Thai food spicy guide](/blog/is-thai-food-spicy-guide/) will help you order safely.
 
 ## 4. Transport: Getting Around Cheap
 
@@ -147,7 +147,7 @@ Read our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for d
 - **Songthaew (shared truck):** 20-30 THB per ride in [Chiang Mai](/city/chiang-mai/)
 - **Motorbike taxi:** 20-50 THB for short hops in Bangkok
 - **Grab (ride-hailing app):** Often cheaper than tuk-tuks. A 10-minute ride is typically 50-100 THB.
-- **Scooter rental:** 200-300 THB/day on [islands](/islands/) and in [Chiang Mai](/city/chiang-mai/). Only if you are experienced -- Thai traffic is not forgiving. Make sure your [travel insurance](/travel-insurance-thailand/) covers **scooter rental** accidents.
+- **Scooter rental:** 200-300 THB/day on [islands](/islands/) and in [Chiang Mai](/city/chiang-mai/). Only if you are experienced -- Thai traffic is not forgiving. Make sure your [travel insurance](/travel-insurance/) covers **scooter rental** accidents.
 
 > **Pro Tip:** Never take a tuk-tuk without agreeing on the price first. In [Bangkok](/city/bangkok/), tuk-tuks are often more expensive than a Grab car. They are fun for the experience, but not for your budget. Read our [scams & safety guide](/practical-info/scams-safety/) so you know the common **tourist traps** to avoid.
 
@@ -219,7 +219,7 @@ Here is what a realistic 2-week **backpacking Thailand** trip costs:
 
 This works out to about **1,480 THB ($41) per day**, which is a comfortable **budget backpacker** pace. You could go lower by sticking to shoestring accommodation and cooking some meals, or higher by adding diving courses on [Koh Tao](/islands/koh-tao/) and nicer hotels.
 
-Note: This does not include international flights or **[travel insurance](/travel-insurance-thailand/)**, which you should absolutely have. A good **travel insurance** policy costs around $30-50 for a month and covers medical emergencies, theft, and trip cancellations. [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) works well for backpackers with its monthly subscription model, and [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) has budget plans from ~$14 for shorter trips. Do not skip it.
+Note: This does not include international flights or **[travel insurance](/travel-insurance/)**, which you should absolutely have. A good **travel insurance** policy costs around $30-50 for a month and covers medical emergencies, theft, and trip cancellations. [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) works well for backpackers with its monthly subscription model, and [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) has budget plans from ~$14 for shorter trips. Do not skip it.
 
 ## 9. Top Money-Saving Tips
 
@@ -236,7 +236,7 @@ Note: This does not include international flights or **[travel insurance](/trave
 
 ## 10. Suggested Budget Itinerary (2 Weeks)
 
-- **Days 1-3:** [Bangkok](/city/bangkok/) -- temples, [street food](/blog/bangkok-street-food-beginners/), Chinatown, canal boats. Try [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/) and [som tam](/blog/som-tam-regional-variations-thailand/) from street stalls.
+- **Days 1-3:** [Bangkok](/city/bangkok/) -- temples, [street food](/blog/best-street-food-markets-bangkok/), Chinatown, canal boats. Try [pad thai](/food/pad-thai/) and [som tam](/food/som-tam/) from street stalls.
 - **Days 4-6:** Overnight train to [Chiang Mai](/city/chiang-mai/) -- Old City temples, night market, [cooking class](/blog/thai-cooking-classes-chiang-mai/). Must eat: [khao soi](/blog/khao-soi-chiang-mai-guide/).
 - **Days 7-8:** Day trip to Doi Suthep, [White Temple in Chiang Rai](/blog/chiang-rai-white-temple-entrance-fee-doubles-2026/)
 - **Day 9:** Fly to Surat Thani (budget airline), ferry to [Koh Tao](/islands/koh-tao/)
@@ -250,13 +250,13 @@ Want to extend to the Andaman side? Add [Koh Lanta](/islands/koh-lanta/) or [Koh
 Thailand remains one of the best-value travel destinations on the planet. With a **daily budget** of 1,000-1,500 THB, you can eat incredibly well, sleep in clean **hostels**, move around the country on affordable [transport](/transport/), and experience world-class beaches, temples, and culture. The key is eating local [Thai food](/food/), using public transport, and being thoughtful about where your money goes.
 
 Before you go, make sure you have:
-- A valid **[visa](/blog/thailand-visa-guide-2026/)** sorted out (most nationalities get 60 days visa-free)
-- **[Travel insurance](/travel-insurance-thailand/)** that covers medical emergencies and **scooter rental**
+- A valid **[visa](/visa/)** sorted out (most nationalities get 60 days visa-free)
+- **[Travel insurance](/travel-insurance/)** that covers medical emergencies and **scooter rental**
 - An **[eSIM](/esim/)** or SIM card plan for staying connected
 - A basic understanding of [Thai money and ATMs](/practical-info/atm-money/)
 - Knowledge of [common scams](/practical-info/scams-safety/) to watch out for
 
-Check our [visa guide](/blog/thailand-visa-guide-2026/) to make sure you can stay long enough to enjoy it all. For food planning, bookmark the [Thai street food guide](/blog/thai-street-food-guide-2026/), the [mango sticky rice season guide](/blog/mango-sticky-rice-season-thailand/) (peak April–May), and the [som tam regional guide](/blog/som-tam-regional-variations-thailand/) to eat smart everywhere you go.
+Check our [visa guide](/visa/) to make sure you can stay long enough to enjoy it all. For food planning, bookmark the [Thai street food guide](/thailand-street-food/), the [mango sticky rice season guide](/food/mango-sticky-rice/) (peak April–May), and the [som tam regional guide](/food/som-tam/) to eat smart everywhere you go.
 
 ## FAQ
 

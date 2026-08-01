@@ -123,11 +123,11 @@ Your ideal trip length also depends on how you travel:
 
 ### Backpackers (Budget Travelers)
 
-Longer is almost always better when you're on a budget. Thailand is one of the cheapest countries in Southeast Asia — daily costs can drop to $25–35/day if you stay in hostels, eat street food, and use local transport. Three to four weeks at this pace costs less than one week of luxury travel. See our [backpacker guide](https://go2-thailand.com/blog/thailand-budget-backpacker-guide/) and [daily cost breakdown](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) for tips.
+Longer is almost always better when you're on a budget. Thailand is one of the cheapest countries in Southeast Asia — daily costs can drop to $25–35/day if you stay in hostels, eat street food, and use local transport. Three to four weeks at this pace costs less than one week of luxury travel. See our [backpacker guide](https://go2-thailand.com/thailand-index/budget/) and [daily cost breakdown](https://go2-thailand.com/thailand-index/budget/) for tips.
 
 ### Comfort Travelers (Mid-Range)
 
-Ten to fourteen days is the sweet spot. You'll spend $70–110/day on comfortable hotels, a mix of street food and restaurants, and occasional guided tours. This gives you the best balance of experience and value. Our [budget vs. comfort comparison](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/) breaks down the differences.
+Ten to fourteen days is the sweet spot. You'll spend $70–110/day on comfortable hotels, a mix of street food and restaurants, and occasional guided tours. This gives you the best balance of experience and value. Our [budget vs. comfort comparison](https://go2-thailand.com/thailand-index/budget/) breaks down the differences.
 
 ### Luxury Travelers
 
@@ -171,4 +171,4 @@ November through February offers the best weather across all regions. See our [b
 
 ### How much does a Thailand trip cost?
 
-It depends heavily on your style. Budget travelers can manage on $25–35/day, mid-range travelers spend $70–110/day, and luxury travelers $200+/day. For a detailed breakdown, read [how much 2 weeks in Thailand costs](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget/), our [daily cost guide](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/), and our [Thailand cheap travel guide for 2026](https://go2-thailand.com/blog/thailand-cheap-2026-travel-costs/).
+It depends heavily on your style. Budget travelers can manage on $25–35/day, mid-range travelers spend $70–110/day, and luxury travelers $200+/day. For a detailed breakdown, read [how much 2 weeks in Thailand costs](https://go2-thailand.com/thailand-index/budget/), our [daily cost guide](https://go2-thailand.com/thailand-index/budget/), and our [Thailand cheap travel guide for 2026](https://go2-thailand.com/thailand-index/budget/).

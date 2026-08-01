@@ -37,7 +37,7 @@ You're standing at a Bangkok street stall at 7 PM, watching a vendor toss noodle
 
 ## 1. What Is Pad Thai, and Why Does It Matter?
 
-**Pad Thai** (ผัดไทย) translates literally to "Thai stir-fry"—a deceptively simple name for one of the world's most beloved noodle dishes. It's a relatively modern creation, popularized in the 1930s–1950s as a nationalist dish to unite Thailand under a common culinary identity. To understand how Pad Thai fits into the broader [history of Thai cuisine](/blog/history-of-thai-cuisine/), our dedicated guide traces the evolution from royal courts to street stalls. Today, it's the unofficial ambassador of Thai cuisine, served in every corner of the country and recognized globally. For a quick overview of the 15 best Thai street food dishes alongside Pad Thai, see our [Thai street food guide 2026](/blog/thai-street-food-guide-2026/).
+**Pad Thai** (ผัดไทย) translates literally to "Thai stir-fry"—a deceptively simple name for one of the world's most beloved noodle dishes. It's a relatively modern creation, popularized in the 1930s–1950s as a nationalist dish to unite Thailand under a common culinary identity. To understand how Pad Thai fits into the broader [history of Thai cuisine](/blog/history-of-thai-cuisine/), our dedicated guide traces the evolution from royal courts to street stalls. Today, it's the unofficial ambassador of Thai cuisine, served in every corner of the country and recognized globally. For a quick overview of the 15 best Thai street food dishes alongside Pad Thai, see our [Thai street food guide 2026](/thailand-street-food/).
 
 The core components are always the same: thin rice noodles, tamarind paste for sourness, fish sauce for umami depth, palm sugar for balance, eggs, protein (chicken, shrimp, or tofu), and aromatics like garlic and shallots. Toppings vary but typically include crushed roasted peanuts, fresh lime, dried chili flakes, and sometimes bean sprouts or Chinese chives. Yet despite this simplicity, the three versions you'll encounter—street, restaurant, and homemade—taste remarkably different. Understanding why teaches you something fundamental about Thai cooking: **technique and heat matter as much as ingredients**.
 
@@ -320,7 +320,7 @@ During our three years in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/
 
 ### Southern Style
 
-Southern Pad Thai (found in [Phuket](https://go2-thailand.com/islands/phuket/) and other southern destinations) tends to be spicier and slightly more sour. Some vendors add a touch of curry paste. Shrimp is more common as the protein. The dish is often served with more fresh herbs and spicy condiments on the side, allowing diners to customize heat levels.
+Southern Pad Thai (found in [Phuket](https://go2-thailand.com/city/phuket/) and other southern destinations) tends to be spicier and slightly more sour. Some vendors add a touch of curry paste. Shrimp is more common as the protein. The dish is often served with more fresh herbs and spicy condiments on the side, allowing diners to customize heat levels.
 
 ### Isaan (Northeastern) Style
 
@@ -439,7 +439,7 @@ Yes, street Pad Thai is generally very safe, often safer than restaurants. High 
 
 ### What's the difference between Pad Thai and Pad See Ew?
 
-[Pad See Ew](https://go2-thailand.com/food/pad-see-ev/) is made with wider rice noodles and soy sauce instead of tamarind, creating a darker, savory dish. [Pad Thai](https://go2-thailand.com/food/pad-thai/) is lighter and tangier due to tamarind. They're distinct dishes, though both are stir-fried noodles.
+[Pad See Ew](https://go2-thailand.com/food/pad-see-ew/) is made with wider rice noodles and soy sauce instead of tamarind, creating a darker, savory dish. [Pad Thai](https://go2-thailand.com/food/pad-thai/) is lighter and tangier due to tamarind. They're distinct dishes, though both are stir-fried noodles.
 
 ### Can I request Pad Thai without fish sauce?
 
@@ -457,9 +457,9 @@ All proteins work well—chicken is most common and affordable, shrimp adds swee
 
 If you're visiting Thailand, prioritize eating street Pad Thai from a busy vendor in a local neighborhood. This is where you'll experience the dish at its most intense and authentic. Restaurants offer convenience and customization but sacrifice some of the magic. At home, focus on ingredient quality and high heat; accept that your version will be different, not inferior.
 
-The real lesson isn't about Pad Thai specifically—it's that Thai cuisine is fundamentally about balance, technique, and respect for ingredients. Whether you're eating from a street stall for 50 THB or cooking in your own kitchen, understanding these principles elevates your experience. Pad Thai is just one piece of a complex food culture—explore [how spicy Thai food really is](/blog/is-thai-food-spicy-guide/), the [complete Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), and the [som tam regional variations guide](/blog/som-tam-regional-variations-thailand/) to keep exploring.
+The real lesson isn't about Pad Thai specifically—it's that Thai cuisine is fundamentally about balance, technique, and respect for ingredients. Whether you're eating from a street stall for 50 THB or cooking in your own kitchen, understanding these principles elevates your experience. Pad Thai is just one piece of a complex food culture—explore [how spicy Thai food really is](/blog/is-thai-food-spicy-guide/), the [complete Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), and the [som tam regional variations guide](/food/som-tam/) to keep exploring.
 
-**Ready to explore Thai food culture deeper?** Start with our pillar guide on [what Thai food really is](/blog/what-is-thai-food-cuisine-guide/), then check out our comprehensive [Thai food guide](https://go2-thailand.com/food/) for profiles of other iconic dishes like [Pad Krapow](https://go2-thailand.com/food/pad-krapow/), [Som Tam](/blog/som-tam-regional-variations-thailand/), and [Tom Yum Goong](/blog/tom-yum-goong-guide/). Or explore [cooking classes in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) to learn these techniques hands-on from expert instructors. If you are planning around food, our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) cover Bangkok street food days in detail.
+**Ready to explore Thai food culture deeper?** Start with our pillar guide on [what Thai food really is](/travel-guides/thai-cuisine-food-guide/), then check out our comprehensive [Thai food guide](https://go2-thailand.com/food/) for profiles of other iconic dishes like [Pad Krapow](https://go2-thailand.com/food/pad-krapow/), [Som Tam](/food/som-tam/), and [Tom Yum Goong](/food/tom-yum-goong/). Or explore [cooking classes in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) to learn these techniques hands-on from expert instructors. If you are planning around food, our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) cover Bangkok street food days in detail.
 
 **Trust us:** We've eaten Pad Thai from street stalls to Michelin-recognized restaurants across Thailand. The street vendor version still wins, every time.
 

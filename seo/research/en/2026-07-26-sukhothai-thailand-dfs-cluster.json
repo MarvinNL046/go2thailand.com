@@ -1,0 +1,1082 @@
+{
+  "captured_at": "2026-07-26T21:01:39.220Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "sukhothai thailand",
+  "costs": {
+    "suggestions": 0.01752,
+    "related": 0.01668,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "sukhothai thailand",
+    "sukhothai in thailand",
+    "sukhothai province thailand",
+    "sukhothai historical park",
+    "bangkok to sukhothai",
+    "legendha sukhothai sukhothai thailand",
+    "sukhothai kingdom",
+    "sukhothai to chiang mai",
+    "sukhothai thailand weather",
+    "weather in sukhothai thailand",
+    "weather sukhothai thailand",
+    "sawankhalok sukhothai thailand",
+    "sukhothai historical park thailand",
+    "sukhothai park thailand",
+    "thailand sukhothai historical park",
+    "where is sukhothai in thailand",
+    "hotels sukhothai thailand",
+    "sukhothai heritage resort sukhothai thailand",
+    "sukhothai thailand hotels"
+  ],
+  "keywords": [
+    {
+      "keyword": "chiang mai to chiang rai",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai in thailand",
+      "volume": 720,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai province thailand",
+      "volume": 720,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand",
+      "volume": 720,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai historical park",
+      "volume": 260,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to sukhothai",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "legendha sukhothai sukhothai thailand",
+      "volume": 50,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai kingdom",
+      "volume": 50,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai map thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand map",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai to chiang mai",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand weather",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in sukhothai thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather sukhothai thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sawankhalok sukhothai thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai historical park thailand",
+      "volume": 30,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai park thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sukhothai historical park",
+      "volume": 30,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is sukhothai in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel in sukhothai thailand",
+      "volume": 20,
+      "kd": 15,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels sukhothai thailand",
+      "volume": 20,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "phitsanulok to chiang mai",
+      "volume": 20,
+      "kd": 17,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai heritage resort sukhothai thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand hotel",
+      "volume": 20,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand hotels",
+      "volume": 20,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand things to do",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thani",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thani thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in sukhothai thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in sukhothai",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to sukhothai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get to sukhothai historical park",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "phitsanulok to sukhothai historical park",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai city thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai historical park entrance fee",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai historical park from bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai historical park map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai historical park photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai hotel thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai hotels and resorts",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai kingdom flag",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai kingdom location",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai kingdom religion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai kingdom start and end",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai kingdom time period",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai old city thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai period thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai religion",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai temple thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand buddha",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand history",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand karte",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand ruins",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand wikipedia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai to chiang mai bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai to chiang mai distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai to chiang mai flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai to chiang mai train",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai to chiang rai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in sukhothai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in sukhothai thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best time to visit sukhothai thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "land for sale sukhothai thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in sukhothai thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai historical park historical places thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai historical park location",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai kingdom facts",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sukhothai province hidden gems thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand facts",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sukhothai thailand wiki",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 6.25,
+      "keywordCount": 4,
+      "visibility": 1.9,
+      "estimatedTraffic": 96.27799999999999
+    },
+    {
+      "domain": "www.theblondtravels.com",
+      "avgPosition": 32.6,
+      "keywordCount": 5,
+      "visibility": 1.05,
+      "estimatedTraffic": 220.02299999999997
+    },
+    {
+      "domain": "www.thelongestwayhome.com",
+      "avgPosition": 17.5,
+      "keywordCount": 4,
+      "visibility": 0.5,
+      "estimatedTraffic": 19.356
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 24,
+      "keywordCount": 4,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 2.205
+    },
+    {
+      "domain": "www.mmonthego.com",
+      "avgPosition": 25.25,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 27.108999999999998
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 1.6666666666666667,
+      "keywordCount": 3,
+      "visibility": 2.8,
+      "estimatedTraffic": 173.96
+    },
+    {
+      "domain": "whc.unesco.org",
+      "avgPosition": 4.333333333333333,
+      "keywordCount": 3,
+      "visibility": 2,
+      "estimatedTraffic": 61.101
+    },
+    {
+      "domain": "www.travelfish.org",
+      "avgPosition": 30.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.672
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 45,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.565
+    },
+    {
+      "domain": "www.thailandee.com",
+      "avgPosition": 33.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.412
+    },
+    {
+      "domain": "www.britannica.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.9,
+      "estimatedTraffic": 10.21
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 17.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.55,
+      "estimatedTraffic": 25.974999999999998
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 19,
+      "keywordCount": 3,
+      "visibility": 0.35,
+      "estimatedTraffic": 6.849
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.65,
+      "estimatedTraffic": 2.7889999999999997
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 21.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.6679999999999997
+    },
+    {
+      "domain": "www.busonlineticket.co.th",
+      "avgPosition": 25,
+      "keywordCount": 3,
+      "visibility": 0.3,
+      "estimatedTraffic": 2.424
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 25.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.4,
+      "estimatedTraffic": 6.950000000000001
+    },
+    {
+      "domain": "itsbetterinthailand.com",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.7350000000000003
+    },
+    {
+      "domain": "www.rome2rio.com",
+      "avgPosition": 1.5,
+      "keywordCount": 2,
+      "visibility": 1.9,
+      "estimatedTraffic": 29.78
+    },
+    {
+      "domain": "12go.asia",
+      "avgPosition": 2.5,
+      "keywordCount": 2,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 16.857
+    },
+    {
+      "domain": "bbqboy.net",
+      "avgPosition": 3.5,
+      "keywordCount": 2,
+      "visibility": 1.5,
+      "estimatedTraffic": 21.999000000000002
+    },
+    {
+      "domain": "www.skyscanner.net",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 28.64
+    },
+    {
+      "domain": "daytrip.com",
+      "avgPosition": 8.5,
+      "keywordCount": 2,
+      "visibility": 0.75,
+      "estimatedTraffic": 3.826
+    },
+    {
+      "domain": "www.bucketlistly.blog",
+      "avgPosition": 54.25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 8.975999999999999
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 70.17099999999999
+    },
+    {
+      "domain": "www.insideasiatours.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 4.066
+    },
+    {
+      "domain": "www.honeytrek.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 11.918
+    },
+    {
+      "domain": "www.checkmybus.co.uk",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.174
+    },
+    {
+      "domain": "www.timetravelturtle.com",
+      "avgPosition": 16.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.167
+    },
+    {
+      "domain": "virtualhistoricalpark.finearts.go.th",
+      "avgPosition": 18.5,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 4.005
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 4.807
+    },
+    {
+      "domain": "thailandlife.info",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 4.3260000000000005
+    },
+    {
+      "domain": "www.bookaway.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.303
+    },
+    {
+      "domain": "www.insightguides.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.2739999999999996
+    },
+    {
+      "domain": "www.geckoroutes.com",
+      "avgPosition": 25.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "dancingpandas.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.845
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.058
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.838
+    },
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.484
+    },
+    {
+      "domain": "www.nationalgeographic.com",
+      "avgPosition": 31,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.0490000000000004
+    },
+    {
+      "domain": "kupernic.com",
+      "avgPosition": 31.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.309
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.677
+    },
+    {
+      "domain": "strollingadventures.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.renown-travel.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.8259999999999998
+    },
+    {
+      "domain": "southeastasiabackpacker.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.701
+    },
+    {
+      "domain": "rail.cc",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "mythailandtours.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.32099999999999995
+    },
+    {
+      "domain": "thailandinsider.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 1.617
+    },
+    {
+      "domain": "theo-courant.com",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.barcelo.com",
+      "avgPosition": 41.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 2.058
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "kaia-koh-phangan-eco-luxury-tented-resort-2026",
+  "route": "/nl/blog/kaia-koh-phangan-eco-luxury-tented-resort-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "KAIA Koh Phangan: openingsstatus en hotelcheck | Go2Thailand",
+    "description": "KAIA Koh Phangan staat gepland voor eind 2026. Controleer boekbaarheid, locatie, eco-claims en live voorwaarden voordat je je eilandreis vastlegt.",
+    "primaryKeyword": "KAIA Koh Phangan",
+    "secondaryKeywords": ["eco resort Koh Phangan", "tented resort Thailand", "nieuw hotel Koh Phangan"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/kaia-koh-phangan-eco-luxury-tented-resort-2026/"
+  },
+  "hero": {
+    "eyebrow": "Gepland, nog geen verblijfservaring",
+    "title": "KAIA Koh Phangan",
+    "accent": "Boekbaarheid vóór belofte",
+    "description": "De officiële resortsite noemt een opening eind 2026. Tot echte beschikbaarheid en operationele details zijn bevestigd, blijft KAIA een geplande optie — geen bewezen hotelervaring.",
+    "image": "/images/redesign/editorial/kaia-koh-phangan-eco-luxury-tented-resort-2026-hero.webp",
+    "imageAlt": "Tented suite op een groene heuvel boven een rustige baai op Koh Phangan",
+    "primaryCta": { "label": "Bekijk de status", "href": "#status" },
+    "secondaryCta": { "label": "Vergelijk alternatieven", "href": "#alternatieven" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "KAIA Koh Phangan was op 1 augustus 2026 nog gepland voor eind 2026. Leg je reis er pas omheen wanneer jouw data daadwerkelijk boekbaar zijn, de locatie duidelijk is en de faciliteiten en annuleringsvoorwaarden schriftelijk zijn bevestigd.",
+  "blocks": [
+    { "kind": "callout", "id": "status", "tone": "warning", "title": "Nog niet behandelen als geopend hotel", "description": "De exploitant communiceert een opening eind 2026 en vraagt bezoekers zich aan te melden voor nieuws. Een planning is geen garantie; reserveer geen ferry of niet-restitueerbare aansluiting rond een onbevestigd verblijf." },
+    { "kind": "card-grid", "id": "concept", "eyebrow": "Wat officieel wordt gepositioneerd", "title": "Het geplande concept", "cards": [
+      { "title": "Kleinschalig tented verblijf", "description": "De ontwikkelaars presenteren een luxe tented resort op een steile, groene locatie.", "label": "Concept" },
+      { "title": "Plaatsgericht ontwerp", "description": "KAIA legt de nadruk op eilandritme, lokale samenwerking en verbinding met de omgeving.", "label": "Positionering" },
+      { "title": "Eind 2026", "description": "De officiële resortsite noemt geen gegarandeerde openingsdag, maar 'late 2026'.", "label": "Gepland" }
+    ] },
+    { "kind": "checklist", "id": "boekingscheck", "title": "Pas boeken wanneer dit duidelijk is", "items": ["Werkelijke beschikbaarheid voor jouw data", "Exacte locatie en transfer vanaf de pier", "Welke kamers en voorzieningen operationeel zijn", "Totaalprijs, belastingen en betaalmoment", "Annulering bij uitgestelde opening", "Bereikbaarheid bij regen en op hellend terrein", "Concrete onderbouwing van duurzaamheidsclaims"] },
+    { "kind": "comparison", "id": "alternatieven", "title": "Wat als KAIA nog niet boekbaar is?", "options": [
+      { "title": "Bestaand hotel op Koh Phangan", "description": "Kies een operationeel verblijf met recente voorwaarden en een locatie die bij je strand- of wellnessroute past.", "label": "Minste onzekerheid" },
+      { "title": "Koh Samui als basis", "description": "Meer hotelkeuze en luchthavenbereik, maar een ander eilandritme en extra ferrylogistiek voor Phangan.", "label": "Meer aanbod" },
+      { "title": "Wacht op bevestiging", "description": "Schrijf je in bij KAIA en vergelijk pas wanneer echte verblijfsdata en voorwaarden zichtbaar zijn.", "label": "Voor KAIA zelf" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is KAIA Koh Phangan al geopend?", "answer": "Niet volgens de officiële resortsite op 1 augustus 2026. Die noemt een geplande opening eind 2026." },
+      { "question": "Kun je KAIA al boeken?", "answer": "Behandel een aanmeldformulier of informatieaanvraag niet als bevestigde boekbaarheid. Controleer echte kamers, data, totaalprijs en voorwaarden." },
+      { "question": "Is KAIA aantoonbaar duurzaam?", "answer": "Er zijn ontwerp- en materiaalclaims van resort en ontwikkelaar. Beoordeel duurzaamheid later ook op operationele gegevens, lokaal beheer en onafhankelijke certificering." },
+      { "question": "Wat gaat een verblijf kosten?", "answer": "Er is geen betrouwbare vaste prijs opgenomen. Wacht op een live, boekbare totaalprijs voor jouw datum en kamertype." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Plan de eilandreis zonder openingsrisico", "items": [
+      { "title": "Koh Phangan reisgids", "description": "Kies een gebied, strand en reisritme.", "href": "/nl/islands/koh-phangan/" },
+      { "title": "Full Moon Party", "description": "Plan data, slaapplaats en terugreis afzonderlijk.", "href": "/nl/blog/full-moon-party-koh-phangan-guide-2026/" },
+      { "title": "Nieuwe hotels in Thailand", "description": "Vergelijk geopend, gepland en uitgesteld.", "href": "/nl/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire projectbronnen", "items": [
+      { "title": "KAIA Koh Phangan", "publisher": "KAIA Resorts", "url": "https://www.kaiaresorts.com/", "checkedAt": "2026-08-01", "note": "Officiële resortsite noemt opening eind 2026 en publiceert nog geen gegarandeerde openingsdag." },
+      { "title": "KAIA Koh Phangan project update", "publisher": "Bound and Beyond", "url": "https://www.boundandbeyond.co.th/en/newsroom/news-and-updates/93/beyond-accelerates-luxury-lifestyle-hospitality-strategy-launches-kaia-koh-phangan-to-drive-sustainable-growth", "checkedAt": "2026-08-01", "note": "Ontwikkelaarsperspectief op merk en project; claims zijn niet gelijk aan operationele bewijsvoering." }
+    ] }
+  ]
+}

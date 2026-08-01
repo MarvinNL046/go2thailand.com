@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "banphe-samed-island-festival-2026-rayong-seafood",
+  "route": "/nl/blog/banphe-samed-island-festival-2026-rayong-seafood/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Ban Phe–Koh Samet festival 2026 afgelopen | Go2Thailand",
+    "description": "Het Ban Phe–Koh Samet zeefestival liep van 11 tot en met 15 maart 2026. Deze noindex-pagina is een archief, geen agenda voor een volgende editie.",
+    "primaryKeyword": "Ban Phe festival 2026 afgelopen",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/banphe-samed-island-festival-2026-rayong-seafood/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Historisch evenement",
+    "title": "Ban Phe–Koh Samet zeefestival",
+    "accent": "De editie van maart 2026 is voorbij",
+    "description": "Gebruik deze pagina als gecontroleerde terugblik. Een volgende datum, programma en tijden zijn nog niet bevestigd.",
+    "image": "/images/redesign/editorial/banphe-samed-island-festival-2026-rayong-seafood-hero.webp",
+    "imageAlt": "Visserspier van Ban Phe bij het blauwe uur nadat eetkramen worden opgeruimd",
+    "primaryCta": { "label": "Waarom archief?", "href": "#lifecycle" },
+    "secondaryCta": { "label": "Plan Koh Samet", "href": "/nl/islands/koh-samet/" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-03-11", "endsOn": "2026-03-15", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "De editie van 2026 is afgelopen. Er is nog geen gecontroleerde datum voor een volgende editie; plan Ban Phe alleen met actuele ferry- en bestemmingsinformatie.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "Geen actuele festivalagenda", "description": "De vijf festivaldagen zijn verstreken. Oude tijden, artiesten en aantallen mogen niet worden hergebruikt voor 2027." },
+    { "kind": "card-grid", "id": "bevestigd", "title": "Wat is historisch bevestigd?", "cards": [
+      { "title": "11–15 maart 2026", "description": "De officiële evenementvermelding noemt deze vijf dagen.", "label": "Datum" },
+      { "title": "Gemeentelijke pier", "description": "Het festivalterrein lag bij de pier van Ban Phe in Rayong.", "label": "Locatie" },
+      { "title": "Eten en muziek", "description": "De vermelding noemt lokale producten, seafood en avondentertainment.", "label": "Programma" }
+    ] },
+    { "kind": "related", "id": "actueel", "title": "Plan met actuele owners", "items": [
+      { "title": "Koh Samet", "description": "Kies strand, verblijfsduur en actuele overtocht.", "href": "/nl/islands/koh-samet/" },
+      { "title": "Rayong hotels", "description": "Vergelijk een basis op het vasteland.", "href": "/nl/best-hotels/rayong/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Gecontroleerde bronnen", "items": [
+      { "title": "Banphe & Samed Island Annual Festival 2026", "publisher": "Thailand Exhibition / Ban Phe Municipality", "url": "https://www.thailandexhibition.com/thai-event-details/banphe-samed-island-annual-festival-2026/27464", "checkedAt": "2026-08-01", "note": "Datum, locatie en aangekondigd programma van de verstreken editie." },
+      { "title": "Ko Samet", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/ko-samet/468", "checkedAt": "2026-08-01", "note": "Actuele bestemmingscontext, niet de volgende festivaleditie." }
+    ] }
+  ]
+}

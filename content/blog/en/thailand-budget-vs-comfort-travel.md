@@ -38,7 +38,7 @@ After spending three years in [Chiang Mai](https://go2-thailand.com/city/chiang-
 
 ## 1. Understanding Thailand's True Cost of Living
 
-When we first arrived in Thailand, we expected everything to cost pennies. The reality is more nuanced: Thailand is genuinely affordable, but [2026 prices have climbed](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) noticeably from the backpacker days of the 2010s. According to recent traveler data, the average daily budget ranges from **฿800–2,500 ($23–71 USD) per person**, depending on whether you're staying in dorm beds or mid-range hotels.
+When we first arrived in Thailand, we expected everything to cost pennies. The reality is more nuanced: Thailand is genuinely affordable, but [2026 prices have climbed](https://go2-thailand.com/thailand-index/budget/) noticeably from the backpacker days of the 2010s. According to recent traveler data, the average daily budget ranges from **฿800–2,500 ($23–71 USD) per person**, depending on whether you're staying in dorm beds or mid-range hotels.
 
 The key difference isn't Thailand being expensive—it's that tourist areas inflate prices dramatically. A bowl of [pad Thai](https://go2-thailand.com/food/pad-thai/) costs ฿40 (₹1.15 USD) from a street vendor in a local neighborhood, but ฿150–200 ($4–6 USD) in Khao San Road. That's a 300% markup for the same dish and the same cook—just a different location.
 
@@ -96,7 +96,7 @@ This is the sweet spot for most travelers. A decent mid-range hotel offers a pri
 
 ### Luxury Accommodation (฿2,000+ / $57+ USD)
 
-High-end resorts and boutique hotels are genuinely excellent value compared to Western luxury. A ฿3,000–5,000 ($86–143 USD) resort in [Phuket](https://go2-thailand.com/city/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/) offers world-class service, private pools, and beachfront locations that would cost triple in Europe or North America. See our [cheapest vs most expensive Bangkok hotel comparison](https://go2-thailand.com/blog/cheapest-vs-most-expensive-hotel-bangkok/) for a real-world breakdown.
+Higher-end resorts and boutique hotels can deliver more space, facilities or a stronger setting, but value depends on your dates, location and how much time you will spend at the property. Compare the same room, taxes, breakfast and cancellation terms instead of relying on a headline rate. Our [Bangkok hotel guide](https://go2-thailand.com/best-hotels/bangkok/) shows how budget, transport access and hotel experience change the decision without pretending that one static price fits every stay.
 
 | Accommodation Type | Budget | Mid-Range | Luxury |
 |-------------------|--------|-----------|--------|
@@ -369,12 +369,12 @@ After years in Thailand, we've identified the sneaky expenses that derail budget
 
 ### Visa & Entry Costs
 
-If you're staying longer than 30 days, you'll need a [Thailand visa](https://go2-thailand.com/blog/thailand-visa-guide-2026/). Tourist visas cost ฿2,000–3,000 ($57–86 USD) depending on your nationality. Budget this in advance—it's not optional. Also check the [Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/) requirements before you fly.
+Whether you need a [Thailand visa](https://go2-thailand.com/visa/) depends on passport, purpose and trip length. At our 27 July 2026 source check, an ordinary British passport can normally use visa exemption for up to 60 days; other passports and purposes differ. Check the live official fee on the dedicated route rather than budgeting from an old conversion, and complete the separate [Thailand Digital Arrival Card](https://go2-thailand.com/visa/digital-arrival-card/) before arrival.
 
 ### Unexpected Fees
 
 - **ATM withdrawals:** Thai banks charge ฿180–220 per withdrawal. Withdraw larger amounts less frequently
-- **SIM cards:** ฿99–199 for a [local SIM with data](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/). Budget this as a one-time cost
+- **SIM cards:** ฿99–199 for a [local SIM with data](/travel-guides/sim-card-thailand/). Budget this as a one-time cost
 - **Airport transfers:** ฿300–500 from airport to city. Use public transport (฿35 bus) if you're budget-conscious
 
 ### Alcohol & Nightlife
@@ -496,6 +496,6 @@ Buses are cheapest (฿200–500 for long distances). Trains are slightly more e
 
 The real secret to Thailand travel is this: you can live incredibly well for ฿1,500–2,000 daily ($43–57 USD). That's not budget travel—that's comfortable, authentic travel. You'll eat better food, sleep better, and have more energy to explore than if you were pinching every baht.
 
-Ready to plan your trip? Start by exploring [Bangkok](https://go2-thailand.com/city/bangkok/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) guides, check out our [Thailand island-hopping guide](https://go2-thailand.com/blog/thailand-island-hopping-guide/), read [how much 2 weeks in Thailand costs](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget/), or browse [Thailand first-time visitor tips](https://go2-thailand.com/blog/thailand-first-time-visitors-essential-guide-2026/).
+Ready to plan your trip? Start by exploring [Bangkok](https://go2-thailand.com/city/bangkok/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) guides, check out our [Thailand island-hopping guide](https://go2-thailand.com/blog/thailand-island-hopping-guide/), read [how much 2 weeks in Thailand costs](https://go2-thailand.com/thailand-index/budget/), or browse [Thailand first-time visitor tips](https://go2-thailand.com/blog/thailand-first-time-visitors-essential-guide-2026/).
 
 We've lived this. We know the real costs, the real value, and where your money actually goes. Use this guide to travel smarter—not cheaper, but smarter.

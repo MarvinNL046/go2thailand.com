@@ -10,6 +10,8 @@ import fs from 'fs';
 import path from 'path';
 import { useT } from '../../lib/i18n';
 import { strings as i18nStrings } from '../../lib/i18n/top-10-hotels';
+import { normalizeEnInternalHref } from '../../lib/en-route-owners';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 interface City {
   id: number;
@@ -35,6 +37,7 @@ export default function Top10HotelsIndex({ availableGuides }: Top10HotelsIndexPr
   const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+  const ownerHref = (href: string) => isNl ? normalizeNlInternalHref(href) : normalizeEnInternalHref(href);
   const lang = isNl ? 'nl' : 'en';
 
   const breadcrumbs = [
@@ -79,7 +82,7 @@ export default function Top10HotelsIndex({ availableGuides }: Top10HotelsIndexPr
                 itemListElement: browseGuides.map((guide, index) => ({
                   '@type': 'ListItem',
                   position: index + 1,
-                  url: `https://go2-thailand.com/city/${guide.city.slug}/top-10-hotels/`,
+                  url: `https://go2-thailand.com${ownerHref(`/city/${guide.city.slug}/top-10-hotels/`)}`,
                   name: isNl ? `${guide.city.name.nl || guide.city.name.en} Hotelgids` : `${guide.city.name.en} Hotel Guide`
                 }))
               }
@@ -145,7 +148,7 @@ export default function Top10HotelsIndex({ availableGuides }: Top10HotelsIndexPr
                 {featuredCities.map((featured) => {
                   const city = featured.city!;
                   return (
-                    <Link key={featured.slug} href={featured.primaryHref} className="group block">
+                    <Link key={featured.slug} href={ownerHref(featured.primaryHref)} className="group block">
                       <div className="bg-white rounded-2xl shadow-md overflow-hidden h-full transition-shadow group-hover:shadow-lg">
                         <div className="relative h-44">
                           <Image
@@ -196,7 +199,7 @@ export default function Top10HotelsIndex({ availableGuides }: Top10HotelsIndexPr
                       return (
                         <Link
                           key={slug}
-                          href={`/city/${slug}/top-10-hotels/`}
+                          href={ownerHref(`/best-hotels/${slug}/`)}
                           className="rounded-full bg-white px-3 py-1.5 text-sm font-medium text-gray-700 shadow-sm transition-colors hover:bg-gray-50 hover:text-thailand-red"
                         >
                           {city.name[lang] || city.name.en}
@@ -241,7 +244,7 @@ export default function Top10HotelsIndex({ availableGuides }: Top10HotelsIndexPr
 
               <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
                 {browseGuides.map((guide) => (
-                  <Link key={guide.city.slug} href={`/city/${guide.city.slug}/top-10-hotels/`} className="group block">
+                  <Link key={guide.city.slug} href={ownerHref(`/best-hotels/${guide.city.slug}/`)} className="group block">
                     <div className="rounded-2xl border border-gray-100 bg-surface-cream overflow-hidden h-full transition-shadow group-hover:shadow-md">
                       <div className="relative h-36">
                         <Image

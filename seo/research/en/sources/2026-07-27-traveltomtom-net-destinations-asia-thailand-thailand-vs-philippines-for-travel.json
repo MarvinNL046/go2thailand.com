@@ -1,0 +1,1243 @@
+{
+  "captured_at": "2026-07-27T08:54:43.565Z",
+  "locale": "en",
+  "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-vs-philippines-for-travel",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Jump to main area",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Czech Republic",
+          "url": "https://www.traveltomtom.net/destinations/europe/czech-republic",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/europe/czech-republic",
+              "anchor_text": "Czech Republic"
+            }
+          ]
+        },
+        {
+          "text": "United Kingdom",
+          "url": "https://www.traveltomtom.net/destinations/europe/united-kingdom",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/europe/united-kingdom",
+              "anchor_text": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "text": "Hong Kong",
+          "url": "https://www.traveltomtom.net/destinations/asia/hong-kong",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/asia/hong-kong",
+              "anchor_text": "Hong Kong"
+            }
+          ]
+        },
+        {
+          "text": "South Korea",
+          "url": "https://www.traveltomtom.net/destinations/asia/south-korea",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/asia/south-korea",
+              "anchor_text": "South Korea"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "https://www.traveltomtom.net/destinations/asia/sri-lanka",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/asia/sri-lanka",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Burkina Faso",
+          "url": "https://www.traveltomtom.net/destinations/africa/burkina-faso",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/burkina-faso",
+              "anchor_text": "Burkina Faso"
+            }
+          ]
+        },
+        {
+          "text": "Ivory Coast",
+          "url": "https://www.traveltomtom.net/destinations/africa/ivory-coast",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/ivory-coast",
+              "anchor_text": "Ivory Coast"
+            }
+          ]
+        },
+        {
+          "text": "Republic of Congo",
+          "url": "https://www.traveltomtom.net/destinations/africa/republic-of-congo",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/republic-of-congo",
+              "anchor_text": "Republic of Congo"
+            }
+          ]
+        },
+        {
+          "text": "Sao Tome & Principe",
+          "url": "https://www.traveltomtom.net/destinations/africa/sao-tome-principe",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/sao-tome-principe",
+              "anchor_text": "Sao Tome & Principe"
+            }
+          ]
+        },
+        {
+          "text": "South Africa",
+          "url": "https://www.traveltomtom.net/destinations/africa/south-africa",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/south-africa",
+              "anchor_text": "South Africa"
+            }
+          ]
+        },
+        {
+          "text": "The Gambia",
+          "url": "https://www.traveltomtom.net/destinations/africa/the-gambia",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/africa/the-gambia",
+              "anchor_text": "The Gambia"
+            }
+          ]
+        },
+        {
+          "text": "Saudi Arabia",
+          "url": "https://www.traveltomtom.net/destinations/middle-east/saudi-arabia",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/middle-east/saudi-arabia",
+              "anchor_text": "Saudi Arabia"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica",
+          "url": "https://www.traveltomtom.net/destinations/north-america/costa-rica",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/north-america/costa-rica",
+              "anchor_text": "Costa Rica"
+            }
+          ]
+        },
+        {
+          "text": "El Salvador",
+          "url": "https://www.traveltomtom.net/destinations/north-america/el-salvador",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/north-america/el-salvador",
+              "anchor_text": "El Salvador"
+            }
+          ]
+        },
+        {
+          "text": "French Polynesia",
+          "url": "https://www.traveltomtom.net/destinations/oceania/french-polynesia",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/french-polynesia",
+              "anchor_text": "French Polynesia"
+            }
+          ]
+        },
+        {
+          "text": "Marshall Islands",
+          "url": "https://www.traveltomtom.net/destinations/oceania/marshall-islands",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/marshall-islands",
+              "anchor_text": "Marshall Islands"
+            }
+          ]
+        },
+        {
+          "text": "New Zealand",
+          "url": "https://www.traveltomtom.net/destinations/oceania/new-zealand",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/new-zealand",
+              "anchor_text": "New Zealand"
+            }
+          ]
+        },
+        {
+          "text": "Papua New Guinea",
+          "url": "https://www.traveltomtom.net/destinations/oceania/papua-new-guinea",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/papua-new-guinea",
+              "anchor_text": "Papua New Guinea"
+            }
+          ]
+        },
+        {
+          "text": "Solomon Islands",
+          "url": "https://www.traveltomtom.net/destinations/oceania/solomon-islands",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/oceania/solomon-islands",
+              "anchor_text": "Solomon Islands"
+            }
+          ]
+        },
+        {
+          "text": "Antigua & Barbuda",
+          "url": "https://www.traveltomtom.net/destinations/caribbean/antigua-barbuda",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/caribbean/antigua-barbuda",
+              "anchor_text": "Antigua & Barbuda"
+            }
+          ]
+        },
+        {
+          "text": "Dominican Republic",
+          "url": "https://www.traveltomtom.net/destinations/caribbean/dominican-republic",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/destinations/caribbean/dominican-republic",
+              "anchor_text": "Dominican Republic"
+            }
+          ]
+        },
+        {
+          "text": "Group Trips",
+          "url": "https://www.traveltomtom.net/group-trips",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/group-trips",
+              "anchor_text": "Group Trips"
+            }
+          ]
+        },
+        {
+          "text": "Travel Gear",
+          "url": "https://www.traveltomtom.net/travel-gear",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/travel-gear",
+              "anchor_text": "Travel Gear"
+            }
+          ]
+        },
+        {
+          "text": "Travel Tips",
+          "url": "https://www.traveltomtom.net/travel-tips",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/travel-tips",
+              "anchor_text": "Travel Tips"
+            }
+          ]
+        },
+        {
+          "text": "Tech Tips",
+          "url": "https://www.traveltomtom.net/tech-tips",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/tech-tips",
+              "anchor_text": "Tech Tips"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "I turned my life into a Journey.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Traveltomtom is where I share my story.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Privacy & Disclaimer",
+          "url": "https://www.traveltomtom.net/about/privacy-disclaimer",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/about/privacy-disclaimer",
+              "anchor_text": "Privacy & Disclaimer"
+            }
+          ]
+        },
+        {
+          "text": "Media Kit",
+          "url": "https://www.traveltomtom.net/medias/media-kit",
+          "urls": [
+            {
+              "url": "https://www.traveltomtom.net/medias/media-kit",
+              "anchor_text": "Media Kit"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Thailand vs Philippines For Travel | The Differences",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "By Tom, an avid adventure traveler from The Netherlands continuously traveling the world since 2012, living a full time nomadic life.",
+            "url": "https://www.traveltomtom.net/team/tom",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/team/tom",
+                "anchor_text": "Tom"
+              }
+            ]
+          },
+          {
+            "text": "When people ask me about the best country I have been, I hardly ever name Thailand or Philippines. First off I think it is really hard to compare countries as every place is unique and has its own charm. I always come forward with a list of 5 amazing countries (Argentina, Nepal, South Africa, New Zealand and Hawaii) in where I had fantastic travel adventures and it goes without saying that traveling to Thailand and traveling to Philippines can be added to that list.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+                "anchor_text": "traveling to Thailand"
+              }
+            ]
+          },
+          {
+            "text": "The thing is, I have been to both countries so many times, I kind of take it for granted sometimes.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Comparing two countries for travel: Philippines vs Thailand",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "No one wants to choose between his brother and sister, neither do I. If you have been following my adventure travel blog and social media you probably already figured out that I am all about island life. And it happens to be that both countries are perfect for island hopping itineraries, so giving you an answer whether to visit Philippines or Thailand is impossible for me.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+                "anchor_text": "island hopping itineraries"
+              }
+            ]
+          },
+          {
+            "text": "What I can do is compare them on some essential travel things that make it easier for you to decide where you want to travel: Thailand or Philippines.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand",
+                "anchor_text": "Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines",
+                "anchor_text": "Philippines"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "How to travel around Thailand and Philippines",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "This travel tip is the same for both countries. Since I found out about the transportation search engine 12Go Asia, traveling in South East Asia became so much more convenient for me. This search engine finds you the best way to travel between A and B. They give you all the available flights, boats, busses and trains for your preferred route. On top of that they show you company reviews, time tables, prices and let you book directly online with 12Go Asia.",
+            "url": "https://12go.asia/?z=589469",
+            "urls": [
+              {
+                "url": "https://12go.asia/?z=589469",
+                "anchor_text": "book directly online with 12Go Asia"
+              }
+            ]
+          },
+          {
+            "text": "Safe the hassle of paper tickets, bargaining with street vendors. Book your bus, boat, train and domestic flights online.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "This is in Palawan, Philippines.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Visa",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Both countries give a free 30-day tourist visa on arrival to major Western countries, which can be extended with an extra month. In Thailand you pay $60 to extend your visa and can be done in Krabi, Phuket, Chiang Mai, Koh Samui and Bangkok. A visa extension in the Philippines cost you $70 and can be done at any Bureau of Immigration Office around the country. Visa wise I would say that either traveling to Thailand or Philippines is easy!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Click here for more info on things to know before visiting Thailand or click here for the Philippines visa policy.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+                "anchor_text": "things to know before visiting Thailand"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Visa_policy_of_the_Philippines",
+                "anchor_text": "Philippines visa policy"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Domestic flights",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "In both countries getting around by domestic flights is a normal thing to do and the best way to travel. Philippines wins this battle as they have cheaper domestic flights for the grab. Cebu Pacific already flies for under $20 USD from Manila to Cebu. If you perform a Thai domestic flight search you will see that you mostly pay around $30 - $40. Some domestic flights in Thailand are even more expensive. Flights to Koh Samui are $150 one-way and direct flights from Chiang Mai to Phuket and Krabi are $100.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/cheap-domestic-flights-in-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/cheap-domestic-flights-in-thailand",
+                "anchor_text": "Thai domestic flight search"
+              },
+              {
+                "url": "https://12go.asia/en/travel/chiang-mai/phuket/?z=589469",
+                "anchor_text": "direct flights from Chiang Mai to Phuket and Krabi are $100"
+              }
+            ]
+          },
+          {
+            "text": "When looking for cheap domestic flights for both countries I recommend you to use 12Go Asia. Try it below.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Sightseeing",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "You might think both countries are just island hopping destinations, but there is much more. What about the Buddhism culture in Thailand. Isn't that alone already a reason to visit Thailand. After a week of traveling in Thailand I bet you are templed-out. There are so many cool worship places to find all around the country. Buddhas, temples, shrines, monasteries, etc.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Some of the best places to visit in the Philippines have nothing to do with island life either, but it is more about nature rather than culture. The Banaue Ricefields in the North of Luzon are the best example and should be placed on everyone's Philippines itinerary. This UNESCO World Heritage site is absolutely breathtaking.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In all honesty I couldn't believe that Thailand holds less UNESCO World Heritage Sites than Philippines though. In the Philippines you will find 9 World Heritage Sites and in Thailand only 5.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "However, when it comes to sightseeing I would still recommend to visit Thailand over Philippines. With all its temples, famous (night) markets and rich culture Thailand wins this battle for me.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Things to do",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Well this a draw if you ask me. There are a ton of cool things to do in Thailand AND in the Philippines. Most activities can be done in both countries. Skydiving, jet ski tours, island hopping, scuba diving, sailing tours, liveaboards, (kite) surfing, sunset cruises, etc.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "You can swim with whale sharks in Thailand AND in Philippines.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Best places to visit",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "I have visited almost all the popular tourist destinations in both countries. With 17 visits to Thailand I have of course traveled way more in that country compared to only a handful visits to the Philippines. As I have done my Divemaster training in Koh Tao, Thailand that island has a special place in my heart. Not only because of the diving but because of all the adventurous things to do in Koh Tao : hiking, snorkeling, deserted bays, viewpoints and many more cool stuff.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-do-in-koh-tao",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-do-in-koh-tao",
+                "anchor_text": "things to do in Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "On the other hand I have a weakness for visiting El Nido in the Philippines. When it comes to the vibe, I feel like those places are comparable.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you only have 2 weeks in Thailand I would always include Koh Tao and the same for El Nido whenever you travel to the Philippines! These are my favorite places to visit in The Philippines and Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-itinerary-for-2-weeks",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-itinerary-for-2-weeks",
+                "anchor_text": "2 weeks in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Nothing beats an ice cold beer in one of the lagoons in El Nido!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hiking",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Are you a fan of hiking then I would send you to Philippines rather than Thailand. Undoubtedly Thailand has some absolutely amazing hikes and I can totally recommend you to check out the Tab Kak Hang Nak National Park (picture below), one of the most amazing hikes in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In Thailand it is more about viewpoints, although in the North of Thailand there is some jungle trekking that is definitely worth it. Must say these activities have become pretty touristy and jungle trekking is not that authentic anymore when there are ziplines, etc. everywhere.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hiking in the Philippines is much more adventurous, it is also more off the beaten path than in Thailand. The Philippines has some amazing volcanos and mountain peaks that can be climbed up to almost 3,000 meters (9,900 ft). Philippines has 6 peaks higher than Doi Inthanon, the highest mountain in Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you are a nature lover then traveling to Philippines is probably a better option. Is you are looking for some great trails and viewpoints in Thailand then check out my article about hiking in Koh Tao.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/koh-tao-viewpoint",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/koh-tao-viewpoint",
+                "anchor_text": "hiking in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waterfalls",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Let's keep it short for this one. There are some nice waterfalls in Thailand, but you can't compare them to the magical waterfalls in the Philippines. If you love chasing waterfalls the Philippines is definitely winning this battle. Only in Cebu Island there are already a handful epic waterfalls. One of the best things to do in South Cebu are the Kawasan Falls.",
+            "url": "https://www.traveltomtom.net/destinations/asia/philippines/south-cebu-tourist-destinations",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/south-cebu-tourist-destinations",
+                "anchor_text": "best things to do in South Cebu"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Culture",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "While writing this article I realized that most of my blog readers are from Western countries, which probably means a Christian background. When visiting the Philippines you won't enter a different world, the main religion in the Philippines is also Christianity.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "When we travel we are more curious about new and different things than what we encounter in our daily life’s. Therefore traveling to Thailand will most probably trigger your curiosity much more. Simply because it has a complete different culture than you are used to.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Buddhism is something you don’t get in touch with every day and that is a reason there is much more to interesting places to visit in Thailand. Wherever you go, you will feel and see the Buddhism influence.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Be careful that you don’t get templed-out in some places. Pick your favorites and don't overdo it. Trust me you will get bored. Some very interesting places to visit are: Ayutthaya, Chiang Rai.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If you go island hopping in Thailand you will also see the influence of mass tourism. On most islands the authentic culture made way for the tourism business.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/island-hopping-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/island-hopping-thailand",
+                "anchor_text": "island hopping in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Looking for a piece of some extraordinary culture then head to Siquijor Island in the Philippines. Find out where to find traditional witchcraft healers in my Siquijor Island Travel Guide.",
+            "url": "https://www.traveltomtom.net/destinations/asia/philippines/siquijor-travel-guide-things-to-do-in-siquijor",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/siquijor-travel-guide-things-to-do-in-siquijor",
+                "anchor_text": "Siquijor Island Travel Guide"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bangkok or Manila",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "When it comes down to Thailand or Philippines based on their capital then this question is very easy to answer! Bangkok is one of my favourite cities in the world and Manila seriously is the opposite.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Manila is one of those cities where you basically feel like wasting your precious Philippines vacation days. In all honesty I do not even recommend you to spend a night in Manila if you are short on time.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The capital of Thailand is the opposite and already checking out the top 10 things to do in Bangkok takes you several days sightseeing. When you click here to find out what are my favorites. The best thing to do in Manila is to get away from it as fast as possible! Oops, sorry... I didn't say that! LOL",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/top-10-things-to-do-in-bangkok",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/top-10-things-to-do-in-bangkok",
+                "anchor_text": "top 10 things to do in Bangkok"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Been to Bangkok more often then have a look at my list of 13 unusual things to do in Bangkok.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/unusual-things-to-do-in-bangkok",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/unusual-things-to-do-in-bangkok",
+                "anchor_text": "13 unusual things to do in Bangkok"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Safety and crime",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Something very important to many travelers are the safety issues. Although we all look at South East Asia as one of the safest places to travel in this world, there are still a couple things to keep in mind.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "First off, I never had any problems traveling around both countries. Feeling safe when traveling around is one of the vital things to have fun, but a lot comes down to oyur own behaviour as well. If you behave like a normal tourist, respecting the local culture and blending in with the way these people live the chance something bas will happen are very rare. If you stand out, for whatever reason, you might expose yourself to the bad people.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Thailand had some very tragic and horrific incidents happing, the worst and most well known example are the Koh Tao Murders. Unfortunately I was on the island when it happened, read my story about it in the link. The deep South of the Philippines has suffered from tourist being kidnapped in the past.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/is-koh-tao-safe",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/is-koh-tao-safe",
+                "anchor_text": "Koh Tao Murders"
+              }
+            ]
+          },
+          {
+            "text": "Muslim ethnic militias operate in both Thailand and Philippines in the southern regions and authorities warn for terrorism. Tourist mostly avoid these regions as it aren't the most popular tourist destination anyway.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "If I have to choose Philippines or Thailand regarding safety issues I would say Thailand is safer than the Philippines. Also Filipinos come from a latin/macho background and can be more harassing to girls, where in Thailand drunk backpackers will mostly harass each other! This is not to generalise, this is solely based on my own experiences traveling in Thailand and Philippines.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Read more about it in my article Is it safe to travel to Thailand now?",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/is-it-safe-to-travel-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/is-it-safe-to-travel-to-thailand",
+                "anchor_text": "Is it safe to travel to Thailand now?"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Drugs",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "With president Dutarte in charge the Philippines became a much safer place than before. Fact! Whatever you think of Dutarte as president you can't deny this. Most Filipinos I know are raving about the zero tolerance policy towards drugs dealers from the new government.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For travelers who so now and then want to smoke a joint, be aware that in both countries it is highly illegal. Keep in mind that there are a lot of scams regarding drugs. You have been warned!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In Thailand depending on the illegal activity related to cannabis one can be imprisoned between 1 to 15 years and fined with a minimum of 40,000 THB ($1,300 USD).",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "However, as of February 2019 Thailand legalised medicinal cannabis use as the first Southeast Asian country. Is this the first step towards legalisation of recreational use? We will see. When traveling to Thailand in 2023 I was shocked that you can buy recreational marijuana everywhere around Bangkok, Phuket, Koh Samui, Krabi, Chiang Mai.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Check out my complete list of 65 things to know before traveling to Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+                "anchor_text": "65 things to know before traveling to Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Nightlife",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "With the tourism industry being so well organised in Thailand there are a ton of options to party everywhere around the country. Bangkok is a synonym for amazing nightlife and when island hopping in Thailand you will find out quickly that partying is what a lot of backpackers travel to Thailand for.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Festivals with international DJ’s are common on islands like Koh Phi Phi, Phuket and Koh Samui. And then I haven't even mentioned the most famous party in Thailand: Full Moon Party in Koh Phangan. Click on the link to read if I think it is worth going! :)",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/to-full-moon-or-not-to-full-moon",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/to-full-moon-or-not-to-full-moon",
+                "anchor_text": "Full Moon Party in Koh Phangan"
+              }
+            ]
+          },
+          {
+            "text": "In Philippines I like to go out in Boracay and actually had some really good fun in Manila! Yeah exactly that place I recommended you to skip on your Philippines holiday. May you find yourself there in the weekend then go to the nightclubs in Makati to enjoy some really good nightlife.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Unfortunately well organized parties and music festivals are much less frequent in the Philippines compared to Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Food",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Comparing Philippines vs Thailand regarding food is not fair. Sorry to say but the Filipino kitchen is not at all one of my favorites. It is mostly deep fried something, rice, beans and chicken. One of the things I miss about the country of smiles is the food, click on the link to read all my 18 reasons to travel to Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-i-miss-about-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-i-miss-about-thailand",
+                "anchor_text": "reasons to travel to Thailand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Getting there and around",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Getting to Thailand is super easy as Bangkok is a major hub and centrally located in South East Asia. Philippines is an off the beaten track destination in Asia and not part of the Banana Pancake Trail for the simple reason that it is not attached to mainland Asia. The outlining islands of the Philippines are therefore a little harder to get to and that holds some travelers back when they are debating to travel to the Philippines or not.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Getting around is of course way easier in Thailand as it is in mainland Asia and islands are mostly just a short boat ride away. Itineraries for island hopping in Thailand are made super easy by the tourism industry. Getting from Bangkok to Koh Tao is a matter of paying $30 and showing up. The bus/boat combo tickets will pick you up from your hotel and drop you off at any Thai island of choice. Traveling in the Philippines is a little more adventurous as the tourism industry is not that developed as in Thailand yet plus island hopping in Philippines is not as easy.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+                "anchor_text": "Itineraries for island hopping in Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/bangkok-to-koh-tao",
+                "anchor_text": "from Bangkok to Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "Islands are spread out over the country and ferries from one island to another can be many hours. I have taken overnight ferries and busses to get to the best places to visit in Philippines, but I prefer flying from island to island for so far that is possible. Figuring out your next destination just takes a little more preparation in the Philippines.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Scooter rental",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Prices are about the same in both countries with Philippines slightly cheaper in remote places. How much does it cost to rent a scooter in Thailand ? About $4 per day. In the Philippines renting a motorbike is a little easier as no one really looks at the damage and you wont get a brand new scooter like in Thailand. Click on the link for tips about getting a scooter in Thailand, make sure you don't get scammed. Renting a scooter is definitely less hassle in Philippines.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/tips-on-how-to-rent-a-motorbike-in-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/tips-on-how-to-rent-a-motorbike-in-thailand",
+                "anchor_text": "How much does it cost to rent a scooter in Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/tips-on-how-to-rent-a-motorbike-in-thailand",
+                "anchor_text": "getting a scooter in Thailand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Island Hopping Thailand vs Philippines",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "This is a difficult topic, as I love island hopping in Thailand just as much as island hopping in the Philippines. There are way more options in the Philippines plus it is a little more untouched and therefore even more picture perfect. Yes, Philippines you definitely win this one and that is also because Thailand is simply much more touristy!",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+                "anchor_text": "island hopping in Thailand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Get blown away by this article including drone footage from the best places to see in El Nido.",
+            "url": "https://www.traveltomtom.net/destinations/asia/philippines/things-to-do-in-el-nido",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/things-to-do-in-el-nido",
+                "anchor_text": "the best places to see in El Nido"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "People",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "This is an even harder decision! First of all they are both super lovely. Although Thailand is called the land of the smile the tourism industry had a great impact on the people already. Away from the tourist trail you will find the most authentic and sincerely loveable people in Thailand, but if you stick to the tourist trail some dickheads will cross your path and scams are more common in Thailand. Read for example about the motorbike scam in Koh Tao and how to avoid it! Thailand or Philippines? Let’s go for Filipinos in this one.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/renting-a-motorbike-on-koh-tao-or-not",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/renting-a-motorbike-on-koh-tao-or-not",
+                "anchor_text": "motorbike scam in Koh Tao"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Internet and WiFi",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Please Philippines step up your game! The internet in Philippines is SHIT compared to Thailand. For living a digital nomad life the amazing islands in the Philippines are unfortunately a no go when looking how easily you can be a digital nomad in Thailand. Luckily in 2023 things are improving rapidly and there is 4G in the best places to visit in the Philippines, but the data speed does not even com close to Thailand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "It tis recommended to use co-working spaces in the Philippines when looking for fast internet. In Thailand in comparison there is 5G everywhere and tourist sim cards with data are cheap so you can easily hotspot yourself. But WiFi in general is also very fast in Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Check out more about buying a tourist sim card in Thailand in the link or check out my article about the best e-sim cards for traveling in Thailand.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-thailand-tourist-sim",
+                "anchor_text": "buying a tourist sim card in Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-esim-cards-for-thailand",
+                "anchor_text": "best e-sim cards for traveling in Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Prices and cost of living",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Both places are budget friendly destinations and there are a lot of similarities when it comes down to cost of living. Alcohol is equally cheap and street food, public transport and tours have similar prices. When backpacking and looking for the country with the better price then Philippines will probably be slightly cheaper in terms of cost of living. However getting around is may be a little more complicater.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Curious how much a trip to Thailand cost ? Click here to read my article about it and I will tell you prices in Thailand (similar for Philippines) for accommodation, tours, domestic flights, alcohol, parties, street food, etc.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/how-much-does-a-trip-to-thailand-cost",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/how-much-does-a-trip-to-thailand-cost",
+                "anchor_text": "how much a trip to Thailand cost"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Off the beaten track travel",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Getting off the beaten track in Thailand is definitely still possible in the North. Undiscovered regions among the Myanmar border are popular with people that are on a motorbike trip . In the South bordering Malaysia there are a couple gorgeous and less crowded islands to discover on the west coast of Thailand, but that is about it.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "An amazing rooftop bar in Phuket.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For escaping the crowd you have to visit the Philippines, a perfect off the beaten path destination. Most tourists only know about Boracay, El Nido and Cebu, but there are 7000 islands in the Philippines and most of them hardly see any tourists. Secret travel tips for the Philippines are camping in Kalanggaman Island Leyte, a trip to Siquijor or surfing in Siargao.",
+            "url": "https://www.traveltomtom.net/destinations/asia/philippines/things-to-do-in-el-nido",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/things-to-do-in-el-nido",
+                "anchor_text": "El Nido"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/south-cebu-tourist-destinations",
+                "anchor_text": "Cebu"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/kalanggaman-island-leyte",
+                "anchor_text": "camping in Kalanggaman Island Leyte"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/siquijor-travel-guide-things-to-do-in-siquijor",
+                "anchor_text": "trip to Siquijor"
+              }
+            ]
+          },
+          {
+            "text": "Secluded islands in Philippines.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Curious to know which islands in Thailand have the best beaches ? Read the article and let me help you choose the right fit for you.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-islands-to-visit-in-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/best-islands-to-visit-in-thailand",
+                "anchor_text": "which islands in Thailand have the best beaches"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Where to travel: Thailand or Philippines",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "I hope this helped you answering the question whether to travel to the Philippines or Thailand. Both countries are fantastic places to visit and therefore I would strongly suggest you to do so if time permits. Let me give you tips for first time travelers to Thailand or if you looking for routes for island hopping in Thailand then click on the links and read all about it.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/planning-a-trip-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/planning-a-trip-to-thailand",
+                "anchor_text": "tips for first time travelers to Thailand"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/thailand-island-hopping-itinerary",
+                "anchor_text": "routes for island hopping in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Forget about paper tickets, get your e-ticket now!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Plan your trip with 12Go Asia and check all the boat connections, flights and busses between the islands in Philippines and in Thailand on 12Go Asia. Super easy, no hassle. Simply grab your ticket online and show up.",
+            "url": "https://12go.asia/?z=589469",
+            "urls": [
+              {
+                "url": "https://12go.asia/?z=589469",
+                "anchor_text": "12Go Asia"
+              }
+            ]
+          },
+          {
+            "text": "In need of some serious wanderlust inspiration? My articles about the Philippines will make you grab your bags. Canyoneering or snorkel with whaleshark in south Cebu or go island hopping in North Cebu, surf in Siargao or visit the amazing sand bank at Sumilon Island.",
+            "url": "https://www.traveltomtom.net/destinations/asia/philippines/cebu-tourist-destinations-in-the-south",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/cebu-tourist-destinations-in-the-south",
+                "anchor_text": "snorkel with whaleshark in south Cebu"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/best-places-in-cebu",
+                "anchor_text": "island hopping in North Cebu"
+              },
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/philippines/sumilon-bluewater-island-resort",
+                "anchor_text": "Sumilon Island"
+              }
+            ]
+          },
+          {
+            "text": "Curious how I am able to travel around the world and is island hopping also your thing? This is a list of my favorite tropical islands that you must visit and that I have traveled to including some unique places you have probably never even heard of! Click on the articles to get to know more about my story or follow my social media to keep up with my adventures.",
+            "url": "https://www.traveltomtom.net/about/about/how-i-afford-to-travel",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/about/about/how-i-afford-to-travel",
+                "anchor_text": "travel around the world"
+              },
+              {
+                "url": "https://www.traveltomtom.net/about/about/unique-islands-most-beautiful-tropical-islands-in-the-world",
+                "anchor_text": "tropical islands that you must visit"
+              }
+            ]
+          },
+          {
+            "text": "Decided that Thailand will be your next destination then check this list of 65 Thailand travel tips ! Click here to find out everything about street food, elephant sanctuaries, vaccinations, scams and more.",
+            "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/destinations/asia/thailand/things-to-know-before-you-travel-to-thailand",
+                "anchor_text": "Thailand travel tips"
+              }
+            ]
+          },
+          {
+            "text": "Traveling on a budget is an art and if you master that skill you also can spend years on the road. Let me give you some serious budget travel tips and find out which countries are best for traveling on a budget.",
+            "url": "https://www.traveltomtom.net/travel-tips/how-to-travel-the-world-on-a-budget",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/travel-tips/how-to-travel-the-world-on-a-budget",
+                "anchor_text": "budget travel tips"
+              },
+              {
+                "url": "https://www.traveltomtom.net/travel-tips/best-places-to-backpack-in-the-world",
+                "anchor_text": "which countries are best for traveling on a budget"
+              }
+            ]
+          },
+          {
+            "text": "If you like this article, please pin it on Pinterest or share it in a Facebook Group, it would help me a lot!!! Thanks a million, you are a legend for helping me...",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "island hopping",
+            "url": "https://www.traveltomtom.net/list-all-tags/island-hopping",
+            "urls": [
+              {
+                "url": "https://www.traveltomtom.net/list-all-tags/island-hopping",
+                "anchor_text": "island hopping"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Thailand vs Philippines for travel",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Popular tags",
+        "main_title": "Thailand vs Philippines For Travel | The Differences",
+        "author": "Tom Grond",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "info@traveltomtom.net"
+      ]
+    }
+  }
+}

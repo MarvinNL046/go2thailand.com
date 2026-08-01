@@ -87,7 +87,7 @@ When the heat hits, duck into one of the dozens of air-conditioned cafés. Order
 
 ### Lunch: Follow the Locals
 
-Skip the tourist restaurants and look for the **green flags**: stalls packed with local Thai people eating. That's where the best food is. You'll find street vendors selling [pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), [som tum](/blog/som-tam-regional-variations-thailand/), grilled meats, and rice dishes for 40–80 THB ($1.10–2.25 USD) throughout the area.
+Skip the tourist restaurants and look for the **green flags**: stalls packed with local Thai people eating. That's where the best food is. You'll find street vendors selling [pad thai](/food/pad-thai/), [som tum](/food/som-tam/), grilled meats, and rice dishes for 40–80 THB ($1.10–2.25 USD) throughout the area.
 
 > **Did You Know?** Half of Talad Noi borders the Chao Phraya River. You literally cannot get lost—if you keep walking in one direction, you'll reach the river. This makes it one of the most stress-free neighbourhoods in Bangkok to explore on foot.
 >
@@ -103,18 +103,6 @@ The room is filled with custom-made antique furniture, real flowers, original ar
 
 After the morning of walking and sweating, a cold shower and an hour in the air conditioning is essential. Use this time to rest, rehydrate, and save energy for the evening ahead.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay in Talad Noi</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book heritage guesthouses and boutique hotels in Talad Noi and the surrounding Chinatown area.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ## Late Afternoon (4:00–5:30 PM): Explore Round Two
 
@@ -218,18 +206,6 @@ Before checking out, take one final morning walk. Revisit your favourite spots, 
 - Cash (many street vendors don't accept cards)
 - Water bottle (stay hydrated; refill at cafés)
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎫</span>
-        <strong style="font-size:18px;color:#1F2937;">Bangkok Walking Tours</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Explore Talad Noi, Chinatown, and Bangkok's hidden neighbourhoods with local guides. Book walking tours, food tours, and cultural experiences.</p>
-      <a href="https://klook.tpo.lv/FVjXFbf3" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#FF5722;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on Klook →</a>
-    </div>
-  </div>
-</div></div>
 
 ## Featured Locations Map
 
@@ -250,7 +226,7 @@ All locations mentioned in this guide with Google Maps links:
 
 ### Is Talad Noi safe to visit?
 
-Yes. Talad Noi is a residential neighbourhood with families, shops, and temples. It's well-lit, walkable, and safe at all hours. As with anywhere in Bangkok, keep your valuables secure and be aware of your surroundings — our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) covers common pitfalls, but there are no specific safety concerns in Talad Noi itself.
+Talad Noi is a lived-in neighbourhood with homes, shops and temples, but no area is risk-free at every hour. Use the same city precautions you would elsewhere: keep valuables secure, choose a well-lit return route and check current local advice. Our [Thailand travel scams guide](/practical-info/scams-safety/) covers common visitor pitfalls.
 
 ### Can I visit Talad Noi with kids?
 
@@ -266,4 +242,4 @@ For **Naam 1608 Restaurant**, yes—book at least a day ahead, especially for di
 
 ### What's the best way to combine Talad Noi with other Bangkok attractions?
 
-Talad Noi pairs naturally with [Chinatown (Yaowarat)](https://go2-thailand.com/city/bangkok/) for [street food](/blog/bangkok-street-food-beginners/), Wat Traimit (Golden Buddha) which is a 10-minute walk away, and the Chao Phraya river ferries that connect to [Wat Arun](/city/bangkok/attractions/wat-arun/), the [Grand Palace](/city/bangkok/attractions/grand-palace/), and ICONSIAM. Spend the morning in Talad Noi, afternoon in Chinatown, and evening on the river—a perfect Bangkok day.
+Talad Noi pairs naturally with [Chinatown (Yaowarat)](https://go2-thailand.com/city/bangkok/) for [street food](/blog/best-street-food-markets-bangkok/), Wat Traimit (Golden Buddha) which is a 10-minute walk away, and the Chao Phraya river ferries that connect to [Wat Arun](/city/bangkok/attractions/), the [Grand Palace](/city/bangkok/attractions/), and ICONSIAM. Spend the morning in Talad Noi, afternoon in Chinatown, and evening on the river—a perfect Bangkok day.

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand tourism", "TAT", "economy", "sustainable tourism", "thailand 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-3-trillion-baht-tourism-target-amazing-5-economy-2026-hero.webp"
 description: "Thailand's Tourism Authority is chasing 3 trillion baht in revenue for 2026 with its 'Amazing 5 Economy' framework — targeting wellness, nightlife, and niche tourism."
 featured: false
 readingTime: 3
@@ -43,11 +43,11 @@ Thailand's legendary nightlife is being repositioned as a **creative economy dri
 Sustainability is no longer optional. TAT launched the **Thailand Green Tourism Collections** in July 2025, featuring 20 sustainable routes across 10 designated Green Cities. The agency has also set a target for **70% of tourism businesses to earn STAR accreditation** ([Sustainable Tourism Accreditation Rating](/blog/thailand-star-green-tourism-accreditation-2026/)) by the end of 2026.
 
 ### 5. Creative Economy
-This pillar leverages Thailand's **soft power** — its [food](/blog/thai-street-food-guide-2026/), fashion, film, and festivals — to attract culturally curious travelers. Events like the [Thailand Travel Fair 2026](/blog/thailand-travel-fair-2026-qsncc-bangkok/) (March 25–29 at QSNCC in Bangkok) showcase regional culture and craftsmanship as tourism products.
+This pillar leverages Thailand's **soft power** — its [food](/thailand-street-food/), fashion, film, and festivals — to attract culturally curious travelers. Events like the [Thailand Travel Fair 2026](/blog/thailand-travel-fair-2026-qsncc-bangkok/) (March 25–29 at QSNCC in Bangkok) showcase regional culture and craftsmanship as tourism products.
 
 ## Spreading Tourists Beyond Bangkok and Phuket
 
-A core part of the strategy involves **decentralizing tourism**. TAT wants to redirect visitor flows toward secondary cities and lesser-known provinces. Community-based tourism in places like [Nan](/city/nan/), [Lampang](/city/lampang/), [Trat](/city/trat/), and [Buriram](/city/buriram/) is getting significant promotional backing.
+A core part of the strategy involves **decentralizing tourism**. TAT wants to redirect visitor flows toward secondary cities and lesser-known provinces. Community-based tourism in places such as Nan and Buriram, alongside published guides for [Lampang](/city/lampang/) and [Trat](/city/trat/), is getting significant promotional backing.
 
 The goal is twofold: reduce overcrowding in hotspots like [Bangkok](/city/bangkok/) and [Phuket](/city/phuket/), while boosting economies in regions that have traditionally seen fewer international visitors.
 
@@ -61,6 +61,6 @@ Between January and March 2026, Thailand recorded [**7.49 million international 
 
 If you're visiting Thailand in 2026, expect to see more curated experiences, better sustainability standards, and active promotion of destinations beyond the usual tourist trail. TAT's new **Trusted Thailand Safe Travel Stamp**, launching in August 2026, will help visitors identify businesses that meet safety, accessibility, and service standards.
 
-Worth noting: as part of this value-over-volume push, Thailand is also introducing a [300 baht tourist entry fee](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) to fund eco-tourism and visitor safety programs. If you're budgeting for a trip, check our [Thailand travel costs guide for 2026](/blog/thailand-budget-2026-daily-costs/).
+Worth noting: as part of this value-over-volume push, Thailand is also introducing a [300 baht tourist entry fee](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) to fund eco-tourism and visitor safety programs. If you're budgeting for a trip, check our [Thailand travel costs guide for 2026](/thailand-index/budget/).
 
 Thailand is betting that quality beats quantity — and for travelers, that could mean a better experience all around. Start planning with our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/).

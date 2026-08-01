@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-longevity-anti-aging-retreats-2026",
+  "route": "/nl/blog/thailand-longevity-anti-aging-retreats-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Longevity-retreat Thailand beoordelen | Go2Thailand",
+    "description": "Leer het verschil tussen een leefstijlretreat en medische zorg, controleer behandelaars en claims en stel de juiste vragen vóór je boekt.",
+    "primaryKeyword": "longevity retreat Thailand",
+    "secondaryKeywords": ["anti-aging retreat Thailand", "wellnessretreat beoordelen", "medische wellness Thailand"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/thailand-longevity-anti-aging-retreats-2026/"
+  },
+  "hero": {
+    "eyebrow": "Wellness · beslisgids",
+    "title": "Longevity-retreat in Thailand",
+    "accent": "Controleer wat er echt wordt aangeboden",
+    "description": "Maak onderscheid tussen leefstijlbegeleiding en medische zorg voordat je een programma vergelijkt.",
+    "image": "/images/redesign/editorial/thailand-longevity-anti-aging-retreats-2026-hero.webp",
+    "imageAlt": "Reiziger met notitieboek in een rustige wellnesslounge met tropisch groen",
+    "primaryCta": { "label": "Vergelijk de categorieën", "href": "#verschil" },
+    "secondaryCta": { "label": "Bekijk de checklist", "href": "#controle" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kies een longevity-retreat pas nadat duidelijk is welke onderdelen wellness zijn en welke medische zorg. Voor medische handelingen zijn registratie, intake, risico-uitleg en nazorg belangrijker dan de resortpresentatie.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "verschil",
+      "title": "Leefstijlretreat of medische zorg?",
+      "options": [
+        { "title": "Leefstijlprogramma", "description": "Slaap, beweging, ontspanning en voeding zonder diagnostiek of medische ingreep. Beoordeel doelen, begeleiding en haalbaarheid thuis.", "label": "Wellness" },
+        { "title": "Medisch programma", "description": "Diagnostiek, voorschriften, infusen of andere medische handelingen. Vraag wie medisch verantwoordelijk is en hoe risico’s en nazorg zijn geregeld.", "label": "Zorg" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "controle",
+      "title": "Vragen vóór betaling",
+      "items": [
+        "Vraag een volledig dagprogramma en een uitsplitsing van optionele medische onderdelen.",
+        "Controleer naam, rol en registratie van iedere medische behandelaar.",
+        "Vraag naar intake, contra-indicaties, bijwerkingen, noodprocedure en nazorg.",
+        "Laat uitleggen welk bewijs achter concrete gezondheidsclaims zit.",
+        "Bespreek medische onderdelen en medicijngebruik vooraf met je eigen arts.",
+        "Controleer annuleringsvoorwaarden, gegevensverwerking en verzekeringsdekking schriftelijk."
+      ]
+    },
+    { "kind": "callout", "id": "grens", "tone": "warning", "title": "Geen behandeladvies", "description": "Deze gids vergelijkt beoordelingscriteria, geen aanbieders of behandelresultaten. Stop of wijzig medicatie nooit vanwege een retreat zonder advies van je eigen arts." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is ‘longevity’ een medische kwaliteitsnorm?", "answer": "Nee. Het is een brede marketingterm. Controleer per onderdeel of het wellness of medische zorg betreft en wie verantwoordelijk is." },
+      { "question": "Is een luxe resortpresentatie bewijs dat een behandeling werkt?", "answer": "Nee. Vraag naar het specifieke bewijs voor de geclaimde uitkomst en bespreek medische onderdelen onafhankelijk." },
+      { "question": "Waarom staan hier geen prijzen?", "answer": "Programma’s, medische extra’s en voorwaarden veranderen. Vraag een actuele, uitgesplitste offerte zonder verborgen verplichte onderdelen." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen en context", "items": [
+      { "title": "How Thailand is Redefining Longevity Tourism", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/05/going-for-the-long-game-how-thailand-is-redefining-longevity-tourism/", "checkedAt": "2026-08-01", "note": "Toeristische marktcontext; geen bewijs voor individuele medische claims." },
+      { "title": "Research, evidence and data on healthy ageing", "publisher": "World Health Organization", "url": "https://www.who.int/teams/maternal-newborn-child-adolescent-health-and-ageing/ageing-and-health/research-evidence-and-data", "checkedAt": "2026-08-01", "note": "Kader voor evidence-informed interventies en healthy ageing." },
+      { "title": "Thailand Tourism Update at TTM+ 2026", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/06/thailand-tourism-update-at-ttm-2026-reinforces-quality-led-growth-direction/", "checkedAt": "2026-08-01", "note": "Bevestigt longevity en preventieve zorg als toeristische positionering." }
+    ] }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T09:45:09.719Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "khao sok food guide",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "khao sok food guide"
+  ],
+  "keywords": [
+    {
+      "keyword": "khao sok food guide",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

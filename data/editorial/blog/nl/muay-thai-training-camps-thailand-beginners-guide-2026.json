@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "muay-thai-training-camps-thailand-beginners-guide-2026",
+  "route": "/nl/blog/muay-thai-training-camps-thailand-beginners-guide-2026/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Muay Thai trainen in Thailand voor beginners | Go2Thailand",
+    "description": "Kies als beginner tussen een proefles, trainingsweek en kamp in Thailand. Met gymchecks, eerste les, herstel, uitrusting en verzekeringsvragen.",
+    "primaryKeyword": "Muay Thai trainen in Thailand voor beginners",
+    "secondaryKeywords": ["Muay Thai kamp Thailand", "Muay Thai proefles Thailand", "Muay Thai gym kiezen"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/muay-thai-training-camps-thailand-beginners-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Van proefles tot trainingsweek",
+    "title": "Muay Thai trainen in Thailand",
+    "accent": "Begin met een plan dat je lichaam aankan",
+    "description": "Vergelijk trainingsvorm, gym, veiligheid, herstel en verzekering vóór je een kamp of les vastlegt.",
+    "image": "/images/redesign/muay-thai-beginner-hero.webp",
+    "imageAlt": "Beginnende Muay Thai-deelnemer oefent gecontroleerd met een trainer in een Thaise openluchtgym",
+    "primaryCta": { "label": "Kies je trainingsvorm", "href": "#trainingsvorm" },
+    "secondaryCta": { "label": "Controleer de gym", "href": "#gymcheck" }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "compare",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Voor de meeste beginners is één introductieles of een week met maximaal één sessie per trainingsdag verstandiger dan direct tweemaal daags trainen. Kies een gym die niveaus scheidt, techniek corrigeert, sparren niet verplicht en duidelijk is over bescherming, herstel en kosten.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "trainingsvorm",
+      "title": "Kies de kleinste vorm die je vraag beantwoordt",
+      "options": [
+        {
+          "title": "Eén proefles",
+          "description": "Geschikt om sfeer, coaching en belasting te testen zonder je hele reis rond training te bouwen."
+        },
+        {
+          "title": "Een trainingsweek",
+          "description": "Geeft tijd voor herhaling, maar vraagt rustige opbouw, hersteldagen en een verblijf dicht bij de gym."
+        },
+        {
+          "title": "Een langer kamp",
+          "description": "Past bij een duidelijk trainingsdoel en voldoende belastbaarheid; controleer verblijf, voeding, planning en annuleringsvoorwaarden."
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "gymcheck",
+      "title": "Een beginnersvriendelijke gym maakt dit zichtbaar",
+      "items": [
+        "Een apart beginnersniveau of aantoonbare schaalbaarheid binnen de les",
+        "Techniekcorrectie vóór tempo en vermoeidheid",
+        "Geen druk om te sparren of een wedstrijd te doen",
+        "Duidelijke regels voor handschoenen, wraps, scheenbeschermers en bitje",
+        "Openheid over lestijden, btw, materiaalhuur en wat niet inbegrepen is",
+        "Een normale reactie op blessures, beperkingen en behoefte aan rust"
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "eerste-les",
+      "title": "Zo houd je de eerste les beheersbaar",
+      "steps": [
+        {
+          "title": "Meld dat je beginner bent",
+          "description": "Noem eerdere blessures en vraag welk lesniveau echt bedoeld is voor een eerste training."
+        },
+        {
+          "title": "Leer houding en voetenwerk",
+          "description": "Een goede basis gaat vóór kracht. Verwacht techniek, pads, zakwerk en conditie in een door de gym bepaalde mix."
+        },
+        {
+          "title": "Sla sparren over als je niet klaar bent",
+          "description": "Sparren hoort geen verrassing of groepsdruk te zijn. Vraag vooraf hoe en wanneer het wordt aangeboden."
+        },
+        {
+          "title": "Plan herstel als onderdeel van training",
+          "description": "Drink, eet, slaap en beoordeel pas de volgende ochtend of een nieuwe sessie verstandig is."
+        }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "veiligheid",
+      "tone": "warning",
+      "title": "Training is niet hetzelfde als verzekerd zijn",
+      "description": "Laat je verzekeraar schriftelijk bevestigen hoe recreatieve training, clinch, sparren, wedstrijden, bestaande klachten, medische kosten en repatriëring zijn gedekt. Een gym of boekingsplatform kan dat niet voor jouw polis bepalen."
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Scheid trainen, kijken en verzekeren",
+      "items": [
+        {
+          "title": "Muay Thai in Thailand vergelijken",
+          "description": "Vergelijk steden, gyms en kijken versus trainen in de aparte overzichtsowner.",
+          "href": "/nl/best-muay-thai-in-thailand/"
+        },
+        {
+          "title": "Reisverzekering voor Thailand",
+          "description": "Bereid de concrete vragen voor die je aan je eigen verzekeraar moet stellen.",
+          "href": "/nl/blog/travel-insurance-thailand-guide/"
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen van beginners",
+      "items": [
+        {
+          "question": "Kan ik zonder ervaring Muay Thai trainen in Thailand?",
+          "answer": "Ja, meerdere gyms publiceren een beginnersprogramma. Controleer wel of de concrete les niveaus scheidt en meld blessures of beperkingen vooraf."
+        },
+        {
+          "question": "Moet ik als beginner sparren?",
+          "answer": "Nee. Kies een gym waar sparren niet verplicht is en waar contact alleen gecontroleerd, met passende bescherming en onder toezicht plaatsvindt."
+        },
+        {
+          "question": "Hoe vaak kan ik in mijn eerste week trainen?",
+          "answer": "Dat verschilt per belastbaarheid. Begin conservatief met hooguit één sessie op een trainingsdag en plan echte hersteldagen; een gepubliceerd tweemaal-daags rooster is geen persoonlijk advies."
+        },
+        {
+          "question": "Welke uitrusting moet ik meenemen?",
+          "answer": "Vraag de gym eerst wat verplicht, te huur of te koop is. Pasvorm en hygiëne zijn belangrijker dan vooraf een willekeurige set bestellen."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire trainings- en verzekeringschecks",
+      "items": [
+        {
+          "title": "Muay Thai Training Program for Beginners",
+          "publisher": "Tiger Muay Thai",
+          "url": "https://www.tigermuaythai.com/training/muay-thai-training-program-beginners",
+          "checkedAt": "2026-08-01",
+          "note": "Gepubliceerde opbouw, technieken en eigen materiaalvoorwaarden van één gym."
+        },
+        {
+          "title": "Muay Thai training",
+          "publisher": "Sumalee Boxing Gym",
+          "url": "https://sumaleeboxinggym.com/muay-thai-training/",
+          "checkedAt": "2026-08-01",
+          "note": "Ondersteunt keuzevrijheid en opbouw rond sparren; geen universele industrienorm."
+        },
+        {
+          "title": "Sportieve activiteiten op vakantie",
+          "publisher": "ANWB",
+          "url": "https://www.anwb.nl/verzekeringen/reisverzekering/sporten",
+          "checkedAt": "2026-08-01",
+          "note": "Nederlandse context voor poliscontrole bij sportactiviteiten."
+        },
+        {
+          "title": "Reistips Thailand",
+          "publisher": "Rijksoverheid",
+          "url": "https://www.rijksoverheid.nl/actueel/weblogs/bzers-wereldwijd/2025/reistips-thailand",
+          "checkedAt": "2026-08-01",
+          "note": "Publieke waarschuwing over voorbereiding en mogelijke zorgkosten."
+        }
+      ]
+    }
+  ]
+}

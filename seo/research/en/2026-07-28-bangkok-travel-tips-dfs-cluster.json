@@ -1,0 +1,767 @@
+{
+  "captured_at": "2026-07-28T23:57:25.246Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "bangkok travel tips",
+  "costs": {
+    "suggestions": 0.01332,
+    "related": 0.01608,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "bangkok travel tips",
+    "bangkok thailand travel tips",
+    "travel tips bangkok",
+    "travel tips for bangkok",
+    "travel tips to bangkok",
+    "bangkok travel tips 2022",
+    "bangkok travel tips reddit",
+    "travel to bangkok tips"
+  ],
+  "keywords": [
+    {
+      "keyword": "floating market bangkok",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "damnoen saduak floating market",
+      "volume": 880,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best floating market bangkok",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 places to visit in bangkok",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand travel tips",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok travel tips",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in bangkok for adults",
+      "volume": 70,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "travel tips bangkok",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel tips for bangkok",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best places to visit in bangkok for first timers",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in bangkok for couples",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "free things to do in bangkok",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "travel tips to bangkok",
+      "volume": 20,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok famous places for nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok guide for first timers",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok in 3 days lonely planet",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok travel guide pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok travel tips 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok travel tips reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "crazy things to do in bangkok for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "floating market bangkok near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "floating market bangkok opening hours",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "floating market bangkok price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "floating market bangkok reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "floating market bangkok tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "floating market bangkok vs pattaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "fun things to do in bangkok for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "non touristy things to do in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "romantic things to do in bangkok for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in bangkok for adults at night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in bangkok for couples at night",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "things to do in bangkok for young adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 places to visit in bangkok for free",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 10 places to visit in bangkok with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "top 5 places to visit in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "travel to bangkok tips",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "unique things to do in bangkok for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "unusual things to do in bangkok for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in bangkok for 3 days with family",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok travel tips blog",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best places to visit in bangkok for first timers free",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tips travel ke bangkok",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok travel tips 2017",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 1.5,
+      "keywordCount": 4,
+      "visibility": 3.8,
+      "estimatedTraffic": 70.65100000000001
+    },
+    {
+      "domain": "wheretogoin.net",
+      "avgPosition": 3,
+      "keywordCount": 4,
+      "visibility": 3.2,
+      "estimatedTraffic": 41.797
+    },
+    {
+      "domain": "tripwis.com",
+      "avgPosition": 3.5,
+      "keywordCount": 4,
+      "visibility": 3,
+      "estimatedTraffic": 25.179
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 4,
+      "keywordCount": 4,
+      "visibility": 2.8,
+      "estimatedTraffic": 20.601
+    },
+    {
+      "domain": "www.lonelyplanet.com",
+      "avgPosition": 5.75,
+      "keywordCount": 4,
+      "visibility": 2.1,
+      "estimatedTraffic": 10.723999999999998
+    },
+    {
+      "domain": "kelseyinlondon.com",
+      "avgPosition": 7.5,
+      "keywordCount": 4,
+      "visibility": 1.7500000000000002,
+      "estimatedTraffic": 9.323999999999998
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 8.75,
+      "keywordCount": 4,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 4.753
+    },
+    {
+      "domain": "northabroad.com",
+      "avgPosition": 9,
+      "keywordCount": 4,
+      "visibility": 1.4000000000000001,
+      "estimatedTraffic": 14.014
+    },
+    {
+      "domain": "www.nomadicmatt.com",
+      "avgPosition": 10,
+      "keywordCount": 4,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 3.591
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 11.25,
+      "keywordCount": 4,
+      "visibility": 0.75,
+      "estimatedTraffic": 3.822
+    },
+    {
+      "domain": "www.alajode.com",
+      "avgPosition": 13.25,
+      "keywordCount": 4,
+      "visibility": 0.25,
+      "estimatedTraffic": 2.009
+    },
+    {
+      "domain": "www.midnightblueelephant.com",
+      "avgPosition": 14,
+      "keywordCount": 4,
+      "visibility": 0.3,
+      "estimatedTraffic": 2.359
+    },
+    {
+      "domain": "www.celebritycruises.com",
+      "avgPosition": 15,
+      "keywordCount": 4,
+      "visibility": 0.55,
+      "estimatedTraffic": 3.213
+    },
+    {
+      "domain": "migrationology.com",
+      "avgPosition": 16.25,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.1829999999999998
+    },
+    {
+      "domain": "www.thepoortraveler.net",
+      "avgPosition": 17.5,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.0430000000000001
+    },
+    {
+      "domain": "nerdnomads.com",
+      "avgPosition": 19.75,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 0.9590000000000001
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 19.75,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 0.8049999999999999
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 22.75,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.7489999999999999
+    },
+    {
+      "domain": "www.ourescapeclause.com",
+      "avgPosition": 23.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.6719999999999999
+    },
+    {
+      "domain": "www.cntraveler.com",
+      "avgPosition": 23.5,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.022
+    },
+    {
+      "domain": "fionabeckett.substack.com",
+      "avgPosition": 25,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.9520000000000001
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 29.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.602
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 31.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "theroamingrenegades.com",
+      "avgPosition": 11.666666666666666,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 11.921
+    },
+    {
+      "domain": "asianwaytravel.com",
+      "avgPosition": 33.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "travel.usnews.com",
+      "avgPosition": 34.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "my.trip.com",
+      "avgPosition": 36,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.roughguides.com",
+      "avgPosition": 15.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.35,
+      "estimatedTraffic": 1.939
+    },
+    {
+      "domain": "www.budgetair.co.uk",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.015
+    },
+    {
+      "domain": "www.travelynne.ca",
+      "avgPosition": 38.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.earthtrekkers.com",
+      "avgPosition": 39.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.thrillark.com",
+      "avgPosition": 43.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 25.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 44.5,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "justynjen.com",
+      "avgPosition": 47.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.travellerspoint.com",
+      "avgPosition": 33,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.yourlittleblackbook.me",
+      "avgPosition": 33.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "bulbulonthewing.com",
+      "avgPosition": 36.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "loveandroad.com",
+      "avgPosition": 56,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "nomadisbeautiful.com",
+      "avgPosition": 56.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "thailandinsiderguide.com",
+      "avgPosition": 44,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.indietraveller.co",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.45499999999999996
+    },
+    {
+      "domain": "www.thetravel.com",
+      "avgPosition": 60.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "travelhappy.info",
+      "avgPosition": 60.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.travelandleisure.com",
+      "avgPosition": 61.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "thaitravelexpert.com",
+      "avgPosition": 62,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.goaheadtours.com",
+      "avgPosition": 26,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "thailandwithtereza.com",
+      "avgPosition": 63.25,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    },
+    {
+      "domain": "www.hoteles.com",
+      "avgPosition": 51.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "blog.perfectholidays.com",
+      "avgPosition": 64,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 0.588
+    }
+  ]
+}

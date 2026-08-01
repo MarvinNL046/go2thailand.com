@@ -1,0 +1,1128 @@
+{
+  "captured_at": "2026-07-28T12:16:21.704Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "best hotels in krabi",
+  "costs": {
+    "suggestions": 0.01596,
+    "related": 0.01896,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "best hotels in krabi",
+    "best hotels in krabi thailand",
+    "best hotels in ao nang krabi",
+    "best hotels in krabi ao nang",
+    "best beach hotels in krabi",
+    "best beachfront hotels in krabi",
+    "best hotels in krabi on the beach",
+    "best hotels in krabi railay beach",
+    "best hotels in krabi for families",
+    "best hotels in krabi for family",
+    "best hotels to stay in krabi thailand",
+    "best luxury hotels in krabi",
+    "best 4-star hotels in krabi",
+    "best 5 star hotels in krabi",
+    "best 5-star hotels in krabi",
+    "best boutique hotels in krabi",
+    "best budget hotels in ao nang krabi",
+    "best budget hotels in krabi",
+    "best hotels in ao nang beach krabi"
+  ],
+  "keywords": [
+    {
+      "keyword": "dusit thani krabi beach resort",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "banyan tree krabi",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "the tubkaak krabi boutique resort",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ao nang villa resort",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "avani ao nang cliff krabi resort",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sofitel krabi",
+      "volume": 1000,
+      "kd": 4,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi thailand resort",
+      "volume": 880,
+      "kd": 10,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel adam krabi",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beaches in krabi",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "centara ao nang",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ao nang beach hotels",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "centara ao nang beach resort",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in krabi ao nang beach",
+      "volume": 320,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in krabi",
+      "volume": 260,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in krabi thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi beachfront hotels",
+      "volume": 260,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in ao nang krabi",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi ao nang",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best resorts in krabi",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "avani ao nang cliff krabi resort reviews",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "banyan tree krabi reviews",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beach hotels in krabi",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best beachfront hotels in krabi",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi on the beach",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "avani ao nang cliff krabi resort photos",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi railay beach",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi resort reviews",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5 star hotels in krabi ao nang",
+      "volume": 40,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "5-star hotels in krabi ao nang",
+      "volume": 40,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi for families",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi for family",
+      "volume": 40,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sabai hotel ao nang",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ao nang cliff view resort krabi",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "banyan tree krabi photos",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beach resorts in krabi",
+      "volume": 30,
+      "kd": 22,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel adam krabi reviews",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "4-star hotels in krabi",
+      "volume": 20,
+      "kd": 35,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best area to stay in krabi for couples",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels to stay in krabi",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels to stay in krabi thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best luxury hotels in krabi",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara grand beach resort & villas krabi photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi resorts with private beach",
+      "volume": 20,
+      "kd": 30,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tui krabi hotels",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "avani ao nang cliff krabi resort location",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "avani ao nang cliff krabi resort to krabi airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "banyan tree krabi beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "banyan tree krabi location",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "banyan tree krabi map",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "banyan tree krabi wedding",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 4-star hotels in krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best 5 star hotels in krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best 5-star hotels in krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best boutique hotels in krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best budget hotels in ao nang krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best budget hotels in krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in ao nang beach krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi ao nang beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi for couples",
+      "volume": 10,
+      "kd": 26,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi near beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi telegraph",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi town",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi with private pool",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in phuket and krabi",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best krabi resorts with private beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best resorts in krabi for couples",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel adam krabi gym",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel adam krabi photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel adam krabi prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel adam krabi reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotel adam krabi tripadvisor",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi resort near beach",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "krabi resort with private pool",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best beachfront hotels in krabi thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels in krabi for indian",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best hotels on the beach in krabi",
+      "volume": null,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "telegraph best hotels in krabi",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "travelnation.co.uk",
+      "avgPosition": 1.75,
+      "keywordCount": 4,
+      "visibility": 3.7,
+      "estimatedTraffic": 160.6
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 2,
+      "keywordCount": 4,
+      "visibility": 3.6,
+      "estimatedTraffic": 101.34800000000001
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 3,
+      "keywordCount": 4,
+      "visibility": 3.2,
+      "estimatedTraffic": 90.489
+    },
+    {
+      "domain": "www.expedia.co.uk",
+      "avgPosition": 5.5,
+      "keywordCount": 4,
+      "visibility": 2.2,
+      "estimatedTraffic": 29.450000000000003
+    },
+    {
+      "domain": "www.cntraveller.com",
+      "avgPosition": 5.75,
+      "keywordCount": 4,
+      "visibility": 2.25,
+      "estimatedTraffic": 226.38400000000001
+    },
+    {
+      "domain": "uk.hotels.com",
+      "avgPosition": 11.75,
+      "keywordCount": 4,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 14.670999999999998
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 15.75,
+      "keywordCount": 4,
+      "visibility": 0.55,
+      "estimatedTraffic": 25.057
+    },
+    {
+      "domain": "www.telegraph.co.uk",
+      "avgPosition": 19,
+      "keywordCount": 4,
+      "visibility": 0.35,
+      "estimatedTraffic": 15.115
+    },
+    {
+      "domain": "www.oyster.com",
+      "avgPosition": 25.5,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.995
+    },
+    {
+      "domain": "theluxuryeditor.com",
+      "avgPosition": 25.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.843000000000001
+    },
+    {
+      "domain": "www.timeout.com",
+      "avgPosition": 30.5,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.48
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 7.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 4.634
+    },
+    {
+      "domain": "www.travelmyth.co.uk",
+      "avgPosition": 15,
+      "keywordCount": 3,
+      "visibility": 0.35,
+      "estimatedTraffic": 2.1630000000000003
+    },
+    {
+      "domain": "www.trivago.co.uk",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.25,
+      "estimatedTraffic": 1.498
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 20.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.25,
+      "estimatedTraffic": 1.4280000000000002
+    },
+    {
+      "domain": "www.mrandmrssmith.com",
+      "avgPosition": 21,
+      "keywordCount": 3,
+      "visibility": 0.6,
+      "estimatedTraffic": 34.076
+    },
+    {
+      "domain": "www.thehotelguru.com",
+      "avgPosition": 21.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 8.584
+    },
+    {
+      "domain": "www.weseektravel.com",
+      "avgPosition": 23.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.6859999999999999
+    },
+    {
+      "domain": "thebackpackingfamily.com",
+      "avgPosition": 35.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.483
+    },
+    {
+      "domain": "www.trailfinders.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 6.566
+    },
+    {
+      "domain": "www.banyantree.com",
+      "avgPosition": 10,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 1.904
+    },
+    {
+      "domain": "www.withkidsontheroad.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 1.204
+    },
+    {
+      "domain": "thailandmagazine.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 2.5549999999999997
+    },
+    {
+      "domain": "www.global-gallivanting.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.77
+    },
+    {
+      "domain": "tripsonabbeyroad.com",
+      "avgPosition": 42.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.44099999999999995
+    },
+    {
+      "domain": "www.tui.co.uk",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.6930000000000001
+    },
+    {
+      "domain": "www.makemytrip.com",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.6930000000000001
+    },
+    {
+      "domain": "www.onthebeach.co.uk",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.3,
+      "estimatedTraffic": 1.526
+    },
+    {
+      "domain": "www.voyage-prive.co.uk",
+      "avgPosition": 21.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.33599999999999997
+    },
+    {
+      "domain": "www.secret-retreats.com",
+      "avgPosition": 24,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.31499999999999995
+    },
+    {
+      "domain": "uk.trip.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 27,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.301
+    },
+    {
+      "domain": "krabigaruda.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.tripadvisor.in",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.visitthailandtoday.com",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "krabi-hotels-info.com",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "pickyourtrail.com",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 48.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.expedia.com",
+      "avgPosition": 49,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "beach-front-hotels.com",
+      "avgPosition": 49.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "brenontheroad.com",
+      "avgPosition": 6,
+      "keywordCount": 1,
+      "visibility": 0.5,
+      "estimatedTraffic": 2.3659999999999997
+    },
+    {
+      "domain": "destinationwellknown.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.7909999999999999
+    },
+    {
+      "domain": "www.kampatour.com",
+      "avgPosition": 56.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "beachhotels.guide",
+      "avgPosition": 57,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "theroamingcompass.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.672
+    },
+    {
+      "domain": "horizonjumpers.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.096
+    },
+    {
+      "domain": "www.travelwithdestinationz.com",
+      "avgPosition": 18,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.231
+    },
+    {
+      "domain": "thailand-goto.com",
+      "avgPosition": 59.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.294
+    },
+    {
+      "domain": "www.krabi-hotel-thailand.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    },
+    {
+      "domain": "www.khaosanroad.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.147
+    }
+  ]
+}

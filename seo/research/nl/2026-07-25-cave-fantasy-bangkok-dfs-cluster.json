@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-25T19:29:35.772Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "cave fantasy bangkok",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "cave fantasy bangkok"
+  ],
+  "keywords": [
+    {
+      "keyword": "cave fantasy bangkok",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

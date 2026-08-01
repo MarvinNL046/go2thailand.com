@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T07:09:08.206Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "chiang rai food guide",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "chiang rai food guide"
+  ],
+  "keywords": [
+    {
+      "keyword": "chiang rai food guide",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

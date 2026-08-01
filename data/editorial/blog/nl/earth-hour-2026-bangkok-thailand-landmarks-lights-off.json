@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "earth-hour-2026-bangkok-thailand-landmarks-lights-off",
+  "route": "/nl/blog/earth-hour-2026-bangkok-thailand-landmarks-lights-off/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Earth Hour Bangkok 2026 is afgelopen | Go2Thailand",
+    "description": "Earth Hour 2026 vond in Bangkok plaats op 28 maart van 20.30 tot 21.30 uur. Deze verlopen evenementpagina is als historisch archief gemarkeerd.",
+    "primaryKeyword": "Earth Hour Bangkok 2026 afgelopen",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/earth-hour-2026-bangkok-thailand-landmarks-lights-off/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Historisch evenement",
+    "title": "Earth Hour Bangkok 2026",
+    "accent": "Afgelopen op 28 maart",
+    "description": "Bangkok riep inwoners op niet-essentiële verlichting van 20.30 tot 21.30 uur te doven. De datum is verstreken; gebruik deze pagina niet als actuele evenementagenda.",
+    "image": "/images/redesign/editorial/earth-hour-2026-bangkok-thailand-landmarks-lights-off-hero.webp",
+    "imageAlt": "Donkere skyline van Bangkok aan de rivier tijdens het blauwe uur",
+    "primaryCta": { "label": "Bekijk Bangkok", "href": "/nl/city/bangkok/" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-03-28", "endsOn": "2026-03-28", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Earth Hour 2026 in Bangkok is afgelopen. De officiële oproep gold voor zaterdag 28 maart 2026 van 20.30 tot 21.30 uur lokale tijd.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "afgelopen",
+      "tone": "cream",
+      "title": "Deze evenementdatum is verstreken",
+      "description": "Er is nog geen permanente, inhoudelijk gelijkwaardige eigenaar waar deze historische route veilig naartoe kan. Daarom blijft ze als noindex-archief bestaan in plaats van naar een algemene pagina te misleiden.",
+      "cta": { "label": "Plan je bezoek aan Bangkok", "href": "/nl/city/bangkok/" }
+    },
+    {
+      "kind": "prose",
+      "id": "historische-context",
+      "title": "Wat was aangekondigd?",
+      "markdown": "De Bangkok Metropolitan Administration nodigde inwoners en organisaties uit om op 28 maart 2026 tussen 20.30 en 21.30 uur niet-essentiële verlichting uit te schakelen. De actie was onderdeel van de internationale Earth Hour-campagne. Dit beschrijft de officiële oproep, niet welke afzonderlijke gebouwen daadwerkelijk deelnamen."
+    },
+    {
+      "kind": "related",
+      "id": "actueel-plannen",
+      "title": "Gebruik actuele reisinformatie",
+      "items": [
+        { "title": "Bangkok", "description": "Bekijk de actuele stadsgids voor wijken, vervoer en bezienswaardigheden.", "href": "/nl/city/bangkok/" },
+        { "title": "Bangkok weer", "description": "Plan op seizoen en actuele omstandigheden.", "href": "/nl/weather/bangkok/" }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire evenementbron",
+      "items": [
+        { "title": "Earth Hour 2026: uitnodiging om één uur de lichten te doven", "publisher": "Bangkok Metropolitan Administration", "url": "https://webportal.bangkok.go.th/healthcenter23/page/sub/12405/ข่าวประชาสัมพันธ์/0/info/517586/", "checkedAt": "2026-08-01", "note": "Officiële datum en tijd; evenement is verstreken." },
+        { "title": "Earth Hour", "publisher": "Earth Hour", "url": "https://www.earthhour.org/", "checkedAt": "2026-08-01", "note": "Internationale campagnecontext; geen bewijs voor deelname van specifieke Bangkokse gebouwen." }
+      ]
+    }
+  ]
+}

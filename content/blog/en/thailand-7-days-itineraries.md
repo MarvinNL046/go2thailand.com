@@ -21,7 +21,7 @@ sources:
   - name: "US State Department - Thailand Travel Advisory"
     url: "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html"
 ---
-Seven days in Thailand sounds short until you realize how much ground you can cover. We've spent years navigating this country—from the chaotic energy of [Bangkok](https://go2-thailand.com/city/bangkok/) to the misty mountains of the north and the crystalline waters of the south—and we've learned that a week is actually the perfect amount of time to [experience](https://getyourguide.tpo.lv/GuAFfGGK) Thailand authentically without burning out. Here are **three proven 7-day Thailand itineraries** that balance culture, nature, food, and relaxation. For the full picture on costs before you commit, read the [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) and check the [best time to visit Thailand](/blog/best-time-to-visit-thailand/) for seasonal advice.
+Seven days in Thailand sounds short until you realize how much ground you can cover. We've spent years navigating this country—from the chaotic energy of [Bangkok](https://go2-thailand.com/city/bangkok/) to the misty mountains of the north and the crystalline waters of the south—and we've learned that a week is actually the perfect amount of time to [experience](https://getyourguide.tpo.lv/GuAFfGGK) Thailand authentically without burning out. Here are **three proven 7-day Thailand itineraries** that balance culture, nature, food, and relaxation. For the full picture on costs before you commit, read the [Thailand budget backpacker guide](/thailand-index/budget/) and check the [best time to visit Thailand](/blog/best-time-to-visit-thailand/) for seasonal advice.
 
 ## Key Takeaways
 
@@ -29,7 +29,7 @@ Seven days in Thailand sounds short until you realize how much ground you can co
 |----------|--------|
 | **What is the best time to visit?** | November–February (cool & dry). Avoid September–October (heavy rain). |
 | **How much does it cost?** | Budget: 1,500–2,000 THB/day (~$42–56 USD). Mid-range: 2,500–4,000 THB/day (~$70–112 USD). |
-| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport) or [Phuket](https://go2-thailand.com/islands/phuket/). |
+| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport) or [Phuket](https://go2-thailand.com/city/phuket/). |
 | **Is it safe?** | Yes. Thailand is generally safe for tourists. Use common sense with valuables and avoid political gatherings. |
 | **What should I [book in advance?** | Flights, accommodation in peak season (Nov–Feb), cooking classes, and long-distance transport](https://12go.tpo.lv/tNA80urD). |
 | **Do I need a visa?** | Most nationalities get 30–60 days visa-free. Check [Thailand visa requirements](https://go2-thailand.com/visa/) for your country. |
@@ -45,55 +45,23 @@ This is the itinerary we recommend to first-time visitors who want to understand
 
 [Bangkok](https://go2-thailand.com/city/bangkok/) deserves at least three days. On arrival, most travelers feel overwhelmed—the traffic, the heat, the sheer scale of it. But when we spent our first week here, we learned that the city reveals itself in layers. Start in the Old City around the Grand Palace and Wat Phra Kaew, then explore the floating markets at dawn (arrive by 7 AM), and finish with the rooftop bars and street food of Sukhumvit.
 
-**Day 1 specifics:** Arrive, collect [eSIM](https://saily.tpo.lv/rf9lidnE) or SIM card, settle into accommodation, explore your neighborhood on foot. Eat dinner at a local street stall—[pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), [som tam](/blog/som-tam-regional-variations-thailand/), or grilled chicken. Budget: 500–800 THB for food and transport.
+**Day 1 specifics:** Arrive, collect [eSIM](https://saily.tpo.lv/rf9lidnE) or SIM card, settle into accommodation, explore your neighborhood on foot. Eat dinner at a local street stall—[pad thai](/food/pad-thai/), [som tam](/food/som-tam/), or grilled chicken. Budget: 500–800 THB for food and transport.
 
 **Day 2:** Grand Palace (entry 500 THB, dress code: covered shoulders and knees), Wat Phra Kaew, lunch at a riverside restaurant, evening long-tail boat ride through canals (500–1,000 THB per person). Budget: 1,200–1,800 THB.
 
 **Day 3:** Floating market tour (book in advance, 600–1,200 THB), Damnoen Saduak or Amphawa, afternoon Thai [cooking class](https://klook.tpo.lv/7Dt6WApj) (1,000–1,500 THB), evening at a night market. Budget: 1,800–2,500 THB.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 **Accommodation in Bangkok:** Budget hostels (300–500 THB), mid-range hotels (1,200–2,500 THB), luxury (3,500+ THB). We recommend staying near the BTS Skytrain for easy transport.
 
 ### Days 4–5: Ayutthaya (Ancient Capital)
 
-A day trip from Bangkok—or better, an overnight stay. [Ayutthaya](https://go2-thailand.com/destinations/ayutthaya/) is Thailand's former capital, and the temple ruins are genuinely moving. The town is compact and easy to navigate by bicycle or tuk-tuk.
+A day trip from Bangkok—or better, an overnight stay. [Ayutthaya](https://go2-thailand.com/city/ayutthaya/) is Thailand's former capital, and the temple ruins are genuinely moving. The town is compact and easy to navigate by bicycle or tuk-tuk.
 
 **Day 4:** Take a train from Bangkok's Krung Thep Aphiwat Central Terminal (20 THB for 3rd class, 1.5–2 hours) or join a guided tour (600–1,000 THB). Rent a bicycle (50–100 THB) or hire a tuk-tuk (300–500 THB for 4 hours). Visit Wat Mahathat, Wat Phra Si Sanphet, and Wat Chaiwatthanaram. Budget: 800–1,500 THB.
 
 **Day 5:** Early morning alms-giving ceremony with monks (free, but tip 100–200 THB), breakfast at a local noodle shop, return to Bangkok by noon. Budget: 300–600 THB.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Days 6–7: Chiang Mai (Mountains & Culture)
 
@@ -122,28 +90,12 @@ If you want sun, sand, and minimal temple fatigue, this itinerary is for you. We
 
 ### Days 1–2: Phuket (Gateway Beach Hub)
 
-[Phuket](https://go2-thailand.com/islands/phuket/) is Thailand's largest island and the main entry point for beach travelers. Most people stay in Patong (the party zone) or Kata/Karon (quieter). We prefer Kata for a balance of amenities and peace.
+[Phuket](https://go2-thailand.com/city/phuket/) is Thailand's largest island and the main entry point for beach travelers. Most people stay in Patong (the party zone) or Kata/Karon (quieter). We prefer Kata for a balance of amenities and peace.
 
 **Day 1:** Arrive at Phuket International Airport, transfer to accommodation ([airport shuttle](https://trip.tpo.lv/hY8hOUey) 150 THB, private taxi 400–600 THB). Settle in, explore your beach area, dinner at a beachfront restaurant. Budget: 600–1,200 THB.
 
 **Day 2:** Beach day—swimming, snorkeling, or just reading. Book a half-day snorkeling tour (800–1,200 THB) or explore nearby Phang Nga Bay (1,200–1,500 THB). Sunset dinner. Budget: 1,200–2,000 THB.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Days 3–4: Koh Phi Phi (Island Paradise)
 
@@ -161,22 +113,6 @@ A slower, less touristy island south of Phuket. Ferry from Phuket (600–800 THB
 
 **Day 6:** Snorkeling trip to nearby islands (800–1,200 THB), or simply beach time. Massage on the beach (200–300 THB/hour). Budget: 1,000–1,800 THB.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Day 7: Return to Phuket or Bangkok
 
@@ -246,22 +182,6 @@ Fly or drive from Kanchanaburi to Krabi (or return to Bangkok first, then fly). 
 
 **Day 7:** Relax, pack, depart. Budget: 300–600 THB.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 **Total Cost (Bangkok, Kanchanaburi & Krabi, 7 days):**
 - Accommodation: 2,500–6,000 THB
@@ -290,20 +210,8 @@ Most Western nationalities (US, UK, EU, Canada, Australia) get 30–60 days visa
 
 ### Getting There
 
-Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport, BKK) or [Phuket](https://go2-thailand.com/islands/phuket/) (HKT). Bangkok is the hub; flights are cheaper and more frequent. Budget airlines like AirAsia, Nok Air, and Thai Lion offer domestic flights for 600–1,500 THB.
+Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport, BKK) or [Phuket](https://go2-thailand.com/city/phuket/) (HKT). Bangkok is the hub; flights are cheaper and more frequent. Budget airlines like AirAsia, Nok Air, and Thai Lion offer domestic flights for 600–1,500 THB.
 
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ### Booking Accommodation
 
@@ -468,14 +376,14 @@ Thai food is one of the main reasons to visit. Don't eat only at tourist restaur
 
 ### Must-Try Dishes
 
-- **[Pad Thai](/blog/pad-thai-street-food-vs-restaurant-homemade/):** Stir-fried rice noodles with egg, tofu, shrimp. 40–80 THB from a street vendor. Our guide explains why the street version tastes best.
-- **[Som Tam](/blog/som-tam-regional-variations-thailand/):** Spicy green papaya salad. 30–60 THB. Eight regional variations exist—see our guide.
-- **[Tom Yum Goong](/blog/tom-yum-goong-guide/):** Spicy shrimp soup. 60–120 THB.
+- **[Pad Thai](/food/pad-thai/):** Stir-fried rice noodles with a tamarind-led balance; egg, tofu, shrimp, peanuts and sauce ingredients vary by vendor, so check the version before ordering.
+- **[Som Tam](/food/som-tam/):** Spicy green papaya salad. 30–60 THB. Eight regional variations exist—see our guide.
+- **[Tom Yum Goong](/food/tom-yum-goong/):** Spicy shrimp soup. 60–120 THB.
 - **[Thai Curry](/blog/thai-curry-guide-green-red-yellow-massaman-panang/):** Green, red, yellow, Massaman, or Panang. 80–150 THB. Our curry guide explains the differences.
-- **[Mango Sticky Rice](/blog/mango-sticky-rice-season-thailand/):** Sweet dessert. 40–80 THB. Best April–May during peak mango season.
+- **[Mango Sticky Rice](/food/mango-sticky-rice/):** Sweet dessert. 40–80 THB. Best April–May during peak mango season.
 - **[Khao Soi](/blog/khao-soi-chiang-mai-guide/):** Northern Thai curry noodles. 50–80 THB in Chiang Mai.
 
-For the full street food picture, read the [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) and the [is Thai food spicy guide](/blog/is-thai-food-spicy-guide/) before ordering.
+For the full street food picture, read the [Thai street food guide 2026](/thailand-street-food/) and the [is Thai food spicy guide](/blog/is-thai-food-spicy-guide/) before ordering.
 
 ### Cooking Classes
 
@@ -525,6 +433,6 @@ The key is to move slowly enough to actually experience places, not just photogr
 
 Ready to book? Start with flights, then accommodation, then activities. Use the booking widgets above to compare prices and lock in your dates. And remember: the best itinerary is the one that excites you most.
 
-For more detailed guides on specific cities, check out our [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) or [Bangkok attractions guide](https://go2-thailand.com/city/bangkok/attractions/). For budget planning, see the [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) with real daily cost breakdowns. If you want a longer trip, read the [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) and the [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/). Safe travels.
+For more detailed guides on specific cities, check out our [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) or [Bangkok attractions guide](https://go2-thailand.com/city/bangkok/attractions/). For budget planning, see the [Thailand budget backpacker guide](/thailand-index/budget/) with real daily cost breakdowns. If you want a longer trip, read the [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) and the [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/). Safe travels.
 
 **Trust Statement:** The Go2Thailand team has lived in and traveled Thailand extensively—Chiang Mai for 3 years, island-hopped the south, explored the north, and navigated Bangkok as locals. This guide is based on genuine first-hand experience, current 2026 pricing, and official sources including the Tourism Authority of Thailand.

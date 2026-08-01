@@ -5,7 +5,7 @@ import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import FadeInText from '../../components/FadeInText';
 import { getDrink, getAllDrinks } from '../../lib/drinks';
-import { useTranslation } from '../../hooks/useTranslation';
+import { DrinkEditorialGuideEn } from '../../components/food/DrinkEditorialGuideEn';
 import SEOHead from '../../components/SEOHead';
 
 interface DrinkPageProps {
@@ -16,11 +16,30 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
   const router = useRouter();
   const { locale } = router;
   const isNl = locale === 'nl';
-  const { t } = useTranslation('common');
 
   if (!drink) {
     return <div>Drink not found</div>;
   }
+
+  if (!isNl) {
+    return <DrinkEditorialGuideEn drink={drink} />;
+  }
+
+  const regionSlugMap: Record<string, string> = {
+    alle: 'all',
+    alles: 'all',
+    centraal: 'central',
+    noordelijk: 'northern',
+    noord: 'northern',
+    noordoostelijk: 'isaan',
+    zuidelijk: 'southern',
+    zuid: 'southern',
+  };
+  const regionSlug = regionSlugMap[drink.region] || drink.region;
+  const hasSpecificRegion = new Set(['central', 'northern', 'southern', 'isaan']).has(regionSlug);
+  const regionLabel = regionSlug === 'isaan'
+    ? (isNl ? 'Isaan (noordoosten)' : 'Isaan (Northeast)')
+    : `${regionSlug?.charAt(0).toUpperCase() + regionSlug?.slice(1)} Thailand`;
 
   // Helper function for temperature display
   const getTemperatureDisplay = (temp: string) => {
@@ -142,13 +161,13 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                     <span className="bg-surface-cream px-3 py-1 rounded-full text-sm">
                       {drink.price_range}
                     </span>
-                    {drink.region && drink.region !== 'all' ? (
-                      <Link href={`/region/${drink.region}/`} className="bg-surface-cream px-3 py-1 rounded-full text-sm text-thailand-blue hover:underline">
-                        {drink.region === 'isaan' ? 'Isaan (Northeast)' : `${drink.region.charAt(0).toUpperCase() + drink.region.slice(1)} Thailand`}
+                    {hasSpecificRegion ? (
+                      <Link href={`/region/${regionSlug}/`} className="bg-surface-cream px-3 py-1 rounded-full text-sm text-thailand-blue hover:underline">
+                        {regionLabel}
                       </Link>
                     ) : (
                       <span className="bg-surface-cream px-3 py-1 rounded-full text-sm">
-                        All Thailand
+                        {isNl ? 'Heel Thailand' : 'All Thailand'}
                       </span>
                     )}
                   </div>
@@ -342,12 +361,12 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
               >
                 Explore Thai Dishes
               </Link>
-              {drink.region && drink.region !== 'all' && (
+              {hasSpecificRegion && (
                 <Link
-                  href={`/region/${drink.region}/`}
+                  href={`/region/${regionSlug}/`}
                   className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
                 >
-                  Explore {drink.region === 'isaan' ? 'Isaan' : `${drink.region.charAt(0).toUpperCase() + drink.region.slice(1)} Thailand`}
+                  {isNl ? 'Ontdek' : 'Explore'} {regionLabel}
                 </Link>
               )}
               <Link

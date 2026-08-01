@@ -1,0 +1,598 @@
+{
+  "captured_at": "2026-07-28T03:57:18.997Z",
+  "locale": "en",
+  "url": "https://www.pkru.ac.th/en/special-feature/5243-phuket-cuisine-pork-belly-stew-jan-2023-1",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "เว็บไซต์นี้มีการจัดเก็บคุกกี้ (Cookies) เพื่อช่วยเพิ่มประสิทธิภาพการให้บริการแก่ท่าน การใช้งานเว็บไซต์นี้เป็นการยอมรับข้อกำหนดและยินยอมให้เราจัดเก็บคุ้กกี้ตามนโยบายที่แจ้งในเบื้องต้น",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "นโยบาย Cookie",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Faculty of Science & Technology",
+          "url": "https://science.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://science.pkru.ac.th/",
+              "anchor_text": "Faculty of Science & Technology"
+            }
+          ]
+        },
+        {
+          "text": "Faculty of Education",
+          "url": "https://education.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://education.pkru.ac.th/",
+              "anchor_text": "Faculty of Education"
+            }
+          ]
+        },
+        {
+          "text": "Faculty of Humanities & Social Science",
+          "url": "https://huso.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://huso.pkru.ac.th/",
+              "anchor_text": "Faculty of Humanities & Social Science"
+            }
+          ]
+        },
+        {
+          "text": "Faculty of Management Sciences",
+          "url": "https://mspkru.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://mspkru.pkru.ac.th/",
+              "anchor_text": "Faculty of Management Sciences"
+            }
+          ]
+        },
+        {
+          "text": "Faculty of Agricultural Technology",
+          "url": "https://agritech.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://agritech.pkru.ac.th/",
+              "anchor_text": "Faculty of Agricultural Technology"
+            }
+          ]
+        },
+        {
+          "text": "Phuket College of International Tourism",
+          "url": "https://pcit.pkru.ac.th/en",
+          "urls": [
+            {
+              "url": "https://pcit.pkru.ac.th/en",
+              "anchor_text": "Phuket College of International Tourism"
+            }
+          ]
+        },
+        {
+          "text": "President Office",
+          "url": "https://presidentoffice.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://presidentoffice.pkru.ac.th/",
+              "anchor_text": "President Office"
+            }
+          ]
+        },
+        {
+          "text": "Office of Academic Resources and Information Technology",
+          "url": "https://arit.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://arit.pkru.ac.th/",
+              "anchor_text": "Office of Academic Resources and Information Technology"
+            }
+          ]
+        },
+        {
+          "text": "Art and Culture",
+          "url": "https://culture.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://culture.pkru.ac.th/",
+              "anchor_text": "Art and Culture"
+            }
+          ]
+        },
+        {
+          "text": "Academic Support and Registration Office",
+          "url": "https://academic.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://academic.pkru.ac.th/",
+              "anchor_text": "Academic Support and Registration Office"
+            }
+          ]
+        },
+        {
+          "text": "Research and Development Institute",
+          "url": "https://research.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://research.pkru.ac.th/",
+              "anchor_text": "Research and Development Institute"
+            }
+          ]
+        },
+        {
+          "text": "Educational Management for International Students (EMIS)",
+          "url": "https://emis.pkru.ac.th/en/",
+          "urls": [
+            {
+              "url": "https://emis.pkru.ac.th/en/",
+              "anchor_text": "Educational Management for International Students (EMIS)"
+            }
+          ]
+        },
+        {
+          "text": "International Affairs Division Phuket Rajabhat University)",
+          "url": "https://inter.pkru.ac.th/th/",
+          "urls": [
+            {
+              "url": "https://inter.pkru.ac.th/th/",
+              "anchor_text": "International Affairs Division Phuket Rajabhat University)"
+            }
+          ]
+        },
+        {
+          "text": "Phuket Language Institute and International Affairs (PHULI PKRU)",
+          "url": "https://phuli.pkru.ac.th/th/",
+          "urls": [
+            {
+              "url": "https://phuli.pkru.ac.th/th/",
+              "anchor_text": "Phuket Language Institute and International Affairs (PHULI PKRU)"
+            }
+          ]
+        },
+        {
+          "text": "Sustainable Development Goals (SDGs)",
+          "url": "https://sdg.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://sdg.pkru.ac.th/",
+              "anchor_text": "Sustainable Development Goals (SDGs)"
+            }
+          ]
+        },
+        {
+          "text": "Daily Attendance System",
+          "url": "http://sign.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "http://sign.pkru.ac.th/",
+              "anchor_text": "Daily Attendance System"
+            }
+          ]
+        },
+        {
+          "text": "Webportal System",
+          "url": "http://webportal.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "http://webportal.pkru.ac.th/",
+              "anchor_text": "Webportal System"
+            }
+          ]
+        },
+        {
+          "text": "Thia Government Procurement (E-GP)",
+          "url": "http://www.gprocurement.go.th/new_index.html",
+          "urls": [
+            {
+              "url": "http://www.gprocurement.go.th/new_index.html",
+              "anchor_text": "Thia Government Procurement (E-GP)"
+            }
+          ]
+        },
+        {
+          "text": "E-Doc System",
+          "url": "http://doc.pkru.ac.th/DocClient/",
+          "urls": [
+            {
+              "url": "http://doc.pkru.ac.th/DocClient/",
+              "anchor_text": "E-Doc System"
+            }
+          ]
+        },
+        {
+          "text": "Volunteer System",
+          "url": "http://volunteer.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "http://volunteer.pkru.ac.th/",
+              "anchor_text": "Volunteer System"
+            }
+          ]
+        },
+        {
+          "text": "PKRU VPN System",
+          "url": "https://network.pkru.ac.th/vpn/manual.html",
+          "urls": [
+            {
+              "url": "https://network.pkru.ac.th/vpn/manual.html",
+              "anchor_text": "PKRU VPN System"
+            }
+          ]
+        },
+        {
+          "text": "Registrar System (Reg)",
+          "url": "http://reg.pkru.ac.th/registrar/home.asp",
+          "urls": [
+            {
+              "url": "http://reg.pkru.ac.th/registrar/home.asp",
+              "anchor_text": "Registrar System (Reg)"
+            }
+          ]
+        },
+        {
+          "text": "Academic Position",
+          "url": "https://www.pkru.ac.th/th/pkru-info/365-academic",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/th/pkru-info/365-academic",
+              "anchor_text": "Academic Position"
+            }
+          ]
+        },
+        {
+          "text": "Satisfaction Assessment Form",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScTQixrQ0P9HUpVL_ZIOF4bGBp95zB3zG8pYoCIsVPUGWbvdQ/viewform",
+          "urls": [
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLScTQixrQ0P9HUpVL_ZIOF4bGBp95zB3zG8pYoCIsVPUGWbvdQ/viewform",
+              "anchor_text": "Satisfaction Assessment Form"
+            }
+          ]
+        },
+        {
+          "text": "English Discoveries",
+          "url": "https://pkru.ac.th/th/pkru-info/366-english-discoveries",
+          "urls": [
+            {
+              "url": "https://pkru.ac.th/th/pkru-info/366-english-discoveries",
+              "anchor_text": "English Discoveries"
+            }
+          ]
+        },
+        {
+          "text": "News Feature",
+          "url": "https://www.pkru.ac.th/en/news-feature",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/news-feature",
+              "anchor_text": "News Feature"
+            }
+          ]
+        },
+        {
+          "text": "Special Feature",
+          "url": "https://www.pkru.ac.th/en/special-feature",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/special-feature",
+              "anchor_text": "Special Feature"
+            }
+          ]
+        },
+        {
+          "text": "International Scholarship",
+          "url": "https://www.pkru.ac.th/en/international-scholarship",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/international-scholarship",
+              "anchor_text": "International Scholarship"
+            }
+          ]
+        },
+        {
+          "text": "List Str Mega Menu",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "University Executive Board",
+          "url": "https://www.pkru.ac.th/en/committee/executive-board",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/committee/executive-board",
+              "anchor_text": "University Executive Board"
+            }
+          ]
+        },
+        {
+          "text": "University Council Board",
+          "url": "https://www.pkru.ac.th/en/committee/council-board",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/committee/council-board",
+              "anchor_text": "University Council Board"
+            }
+          ]
+        },
+        {
+          "text": "University Academic Council Board",
+          "url": "https://www.pkru.ac.th/en/committee/academic-council-board",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/committee/academic-council-board",
+              "anchor_text": "University Academic Council Board"
+            }
+          ]
+        },
+        {
+          "text": "University Affairs Board",
+          "url": "https://www.pkru.ac.th/en/committee/affairs-board",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/committee/affairs-board",
+              "anchor_text": "University Affairs Board"
+            }
+          ]
+        },
+        {
+          "text": "Faculty Senate Board",
+          "url": "https://www.pkru.ac.th/en/committee/faculty-senate-board",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/committee/faculty-senate-board",
+              "anchor_text": "Faculty Senate Board"
+            }
+          ]
+        },
+        {
+          "text": "Tracing, Inspection and Evaluation Board",
+          "url": "https://www.pkru.ac.th/en/committee/evaluation-board",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/committee/evaluation-board",
+              "anchor_text": "Tracing, Inspection and Evaluation Board"
+            }
+          ]
+        },
+        {
+          "text": "Admission New",
+          "url": "https://www.pkru.ac.th/en/register/register-new",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/register/register-new",
+              "anchor_text": "Admission New"
+            }
+          ]
+        },
+        {
+          "text": "Bachelor Degree",
+          "url": "https://www.pkru.ac.th/en/register/course/bachelor",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/register/course/bachelor",
+              "anchor_text": "Bachelor Degree"
+            }
+          ]
+        },
+        {
+          "text": "Master Degree",
+          "url": "https://www.pkru.ac.th/en/register/course/masters",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/register/course/masters",
+              "anchor_text": "Master Degree"
+            }
+          ]
+        },
+        {
+          "text": "Doctor’s Degree",
+          "url": "https://www.pkru.ac.th/en/register/course/phd",
+          "urls": [
+            {
+              "url": "https://www.pkru.ac.th/en/register/course/phd",
+              "anchor_text": "Doctor’s Degree"
+            }
+          ]
+        },
+        {
+          "text": "Faculty of Science & Technology",
+          "url": "https://science.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://science.pkru.ac.th/",
+              "anchor_text": "Faculty of Science & Technology"
+            }
+          ]
+        },
+        {
+          "text": "Faculty of Education",
+          "url": "https://education.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://education.pkru.ac.th/",
+              "anchor_text": "Faculty of Education"
+            }
+          ]
+        },
+        {
+          "text": "Faculty of Humanities & Social Science",
+          "url": "https://huso.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://huso.pkru.ac.th/",
+              "anchor_text": "Faculty of Humanities & Social Science"
+            }
+          ]
+        },
+        {
+          "text": "Faculty of Management Sciences",
+          "url": "https://mspkru.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://mspkru.pkru.ac.th/",
+              "anchor_text": "Faculty of Management Sciences"
+            }
+          ]
+        },
+        {
+          "text": "Faculty of Agricultural Technology",
+          "url": "https://agritech.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://agritech.pkru.ac.th/",
+              "anchor_text": "Faculty of Agricultural Technology"
+            }
+          ]
+        },
+        {
+          "text": "Educational Management for International Students (EMIS)",
+          "url": "https://emis.pkru.ac.th/en/",
+          "urls": [
+            {
+              "url": "https://emis.pkru.ac.th/en/",
+              "anchor_text": "Educational Management for International Students (EMIS)"
+            }
+          ]
+        },
+        {
+          "text": "Phuket Language Institute and International Affairs (PHULI PKRU)",
+          "url": "https://phuli.pkru.ac.th/th/",
+          "urls": [
+            {
+              "url": "https://phuli.pkru.ac.th/th/",
+              "anchor_text": "Phuket Language Institute and International Affairs (PHULI PKRU)"
+            }
+          ]
+        },
+        {
+          "text": "Sustainable Development Goals (SDGs)",
+          "url": "https://sdg.pkru.ac.th/",
+          "urls": [
+            {
+              "url": "https://sdg.pkru.ac.th/",
+              "anchor_text": "Sustainable Development Goals (SDGs)"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "PKRU x MAIMORN develops package of “Moo Hong Phuket (Instant)”",
+        "main_title": "PKRU x MAIMORN develops package of “Moo Hong Phuket (Instant)”",
+        "author": null,
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "(PRPKRU) Moo Hong is a Phuket specialty passed down through Thai-Chinese descendants. The main ingredient is diced pork belly stewed with Chinese spices and black soy sauce until tender and delicious!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Because of the popularity of the delectable menu, Maimorn Forest restaurant, known as one of the most famous Moo Hong sellers on the island, collaborated with the Food Technology Program at Phuket Rajabhat University to create Moo Hong ready-to-eat packages for people to grab and go.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ajarn Prasert Jariyalerpong or Ajarn Too from FoodTech PKRU told us the story of the product that “The restaurant asked us to make instant Moo Hong that could be shipped across the country. We get the dish from Maimorn restaurant for product design and packaging development. We used a high heat resistant Retort Pouch sachet to contain the food before sterilizing it. The food is well preserved and has a one-year expiration date.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Our work helps enhance production capacity to the entrepreneurs. We have numerous food development projects which add value to local food products. Moreover, we also offer Food Clinic service advising people or local SME owners or restaurans in using science knowledge in food development.”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Mr. Watcharakorn Na Takuatoong, Maimorn Forest restaurant owner also added that “Our Moo Hong is famous and unique because we marinate the pork overnight in our secret spice blend before steaming it for more than 6 hours until the pork is tender and the sauce is rich and delicious. This is our most popular menu, which customers frequently purchase and take home to their families in other provinces. To preserve the flavor and quality of Moo Hong while traveling across the country and selling it in the online market, I asked PKRU to work on packaging and preservation.”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Food entrepreneurs in Phuket or the surrounding areas can contact the Food Technology Program at Phuket Rajabhat University for product suggestions by dialing 08 1797 5542.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Jan 04, 2023",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "/en/special-feature/5243-phuket-cuisine-pork-belly-stew-jan-2023-1",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "News",
+        "main_title": "PKRU x MAIMORN develops package of “Moo Hong Phuket (Instant)”",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "News Feature",
+            "url": "https://www.pkru.ac.th/en/news-feature",
+            "urls": [
+              {
+                "url": "https://www.pkru.ac.th/en/news-feature",
+                "anchor_text": "News Feature"
+              }
+            ]
+          },
+          {
+            "text": "Special Feature",
+            "url": "https://www.pkru.ac.th/en/special-feature",
+            "urls": [
+              {
+                "url": "https://www.pkru.ac.th/en/special-feature",
+                "anchor_text": "Special Feature"
+              }
+            ]
+          },
+          {
+            "text": "International Scholarship",
+            "url": "https://www.pkru.ac.th/en/international-scholarship",
+            "urls": [
+              {
+                "url": "https://www.pkru.ac.th/en/international-scholarship",
+                "anchor_text": "International Scholarship"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

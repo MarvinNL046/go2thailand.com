@@ -6,6 +6,7 @@ import path from 'path';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { withSubId, KLOOK_GENERIC } from '../../lib/affiliates';
+import PhuketYachtGuideNl from '../../components/yacht/PhuketYachtGuideNl';
 
 interface Partners {
   klook_yacht: { partnerUrl: string };
@@ -27,6 +28,10 @@ const SUBID_BASE = 'pseo-yacht-rental-phuket';
 export default function YachtRentalPhuketPage({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) {
+    return <PhuketYachtGuideNl owner="rental" primaryUrl={partners.viator_yacht_search.partnerUrl} secondaryUrl={partners.gyg_yacht.partnerUrl} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -126,7 +131,7 @@ export default function YachtRentalPhuketPage({ partners, lastUpdated }: Props) 
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* License tiers comparison table */}
           <section id="comparison">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? 'Wat mag je huren? 3 license-tiers' : 'What you can rent: 3 license tiers'}</h2>
@@ -174,7 +179,7 @@ export default function YachtRentalPhuketPage({ partners, lastUpdated }: Props) 
                 </tbody>
               </table>
             </div>
-            <p className="mt-3 text-xs text-gray-500">{isNl ? 'Prijzen zijn 2026 hoogseizoen (nov–apr). Brandstof, proviand en marine park-fees apart bij bareboat. Skippered prijzen inclusief schipper, exclusief brandstof.' : 'Prices are 2026 high-season rates (Nov–Apr). Fuel, provisioning, and marine park fees are extra on bareboat. Skippered rates include the skipper, exclude fuel.'}</p>
+            <p className="mt-3 text-xs text-gray-500">{isNl ? 'Prijzen zijn 2026 hoogseizoen (nov–apr). Brandstof, proviand en marine park-fees apart bij bareboat. Skippered prijzen inclusief schipper, exclusief brandstof.' : 'Price bands are planning guidance, not quotes. Check the dated listing for the final total, licence rules, skipper, fuel, provisioning, park fees, deposit and cancellation terms.'}</p>
           </section>
 
           {/* License requirements deep-dive */}
@@ -266,9 +271,9 @@ export default function YachtRentalPhuketPage({ partners, lastUpdated }: Props) 
           {/* Methodology */}
           <section className="rounded-2xl bg-gray-50 border border-gray-200 p-6 text-sm text-gray-700">
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
-            <p>{isNl ? 'Vaarbewijs-vereisten en operator-policies geverifieerd in mei 2026 op de officiële The Moorings, Sunsail en Ocean Marina Yacht Club websites + recente Phuket bareboat-reviews op Cruising World en YachtPals forums. Tarieven gecheckt op Klook, GetYourGuide, Viator en Trip.com voor early-juni 2026 boekingen vanuit Yacht Haven en Royal Phuket Marina. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke operators we noemen.' : "License requirements and operator policies verified May 2026 on the official The Moorings, Sunsail, and Ocean Marina Yacht Club sites + recent Phuket bareboat reviews on Cruising World and YachtPals forums. Rates checked on Klook, GetYourGuide, Viator, and Trip.com for early-June 2026 bookings out of Yacht Haven and Royal Phuket Marina. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which operators we cover."}</p>
+            <p>{isNl ? 'Vaarbewijs-vereisten en operator-policies geverifieerd in mei 2026 op de officiële The Moorings, Sunsail en Ocean Marina Yacht Club websites + recente Phuket bareboat-reviews op Cruising World en YachtPals forums. Tarieven gecheckt op Klook, GetYourGuide, Viator en Trip.com voor early-juni 2026 boekingen vanuit Yacht Haven en Royal Phuket Marina. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke operators we noemen.' : "Licence and charter guidance is editorial context. Confirm current eligibility, vessel, operator, insurance, deposit, route limits and final payable total with the provider. We may earn commission through listed affiliate links at no extra cost to you, without changing the editorial order."}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

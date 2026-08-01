@@ -1,65 +1,67 @@
 ---
-title: "Songkran 2026 Silom Edge: Grootste Waterfeest Bangkok op Silom Road"
+title: "Silom Edge Songkran 2026: evenementarchief"
 slug: "silom-edge-songkran-2026-bangkok-water-festival-event"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Songkran 2026", "Silom Road Bangkok", "Silom Edge Songkran", "Bangkok waterfestival", "Thais Nieuwjaar 2026", "Bangkok evenementen april 2026", "tips Songkran Bangkok", "watergevecht Thailand", "feest Silom Road"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Silom Edge Songkran 2026 barst los van 12-14 april op Silom Road met DJ's, gratis concert en een gigantisch watergevecht. Ontdek wat je kunt verwachten, plan je bezoek vanuit Nederland en geniet veilig van dit Bangkok highlight tijdens het Thais Nieuwjaar."
+tags: ["Silom Edge Songkran", "Silom Road", "Songkran Bangkok", "evenementarchief"]
+image: "/images/redesign/editorial/silom-edge-songkran-2026-bangkok-water-festival-event-hero.webp"
+description: "Silom Edge Songkran 2026 is afgelopen. Gebruik dit archief voor context en controleer een volgende Silom-viering opnieuw."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 5
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Nation Thailand — Bangkok's Silom Edge set for April Songkran event with free live concert"
-    url: "https://www.nationthailand.com/blogs/news/tourism/40064000"
-  - name: "Ibis Styles Bangkok Silom — Guide to Songkran in Silom 2026"
-    url: "https://www.ibisstylesbangkoksilom.com/songkran-in-silom/"
-  - name: "Mercure Bangkok Surawong — Songkran in Silom 2026: Biggest Water Festival in Bangkok"
-    url: "https://www.mercurebangkoksurawong.com/things-to-do-in-silom/songkran-in-silom/"
-  - name: "TAGTHAi — Songkran 2026: The Ultimate Guide to Bangkok's Iconic Water Festival"
-    url: "https://www.tagthai.com/explore/p/songkran-festival-bangkok-a-city-transformed-by-water"
+  - name: "Silom Edge — official website"
+    url: "https://www.silomedge.com/"
+  - name: "Tourism Authority of Thailand Japan — Songkran events 2026"
+    url: "https://www.thailandtravel.or.jp/news/161677/"
+  - name: "UNESCO — Songkran in Thailand"
+    url: "https://ich.unesco.org/en/RL/songkran-in-thailand-traditional-thai-new-year-festival-01719"
 ---
 
-## Silom Road Is de Plek om te Zijn Deze Songkran
+## Dit evenement is afgelopen
 
-Elke april verandert Silom Road van Bangkok's zakencentrum in de legendarischste watergevechtszone van de stad. Voor [Songkran 2026](/blog/songkran-festival-2026-guide/) heeft het particuliere initiatief Silom Edge een speciaal evenement aangekondigd van 12 tot 14 april, met DJ's, livemuziek en georganiseerde chaos op een van de iconischste stukken van het festival.
+De Silom Edge-activatie tijdens Songkran 2026 is verstreken. Oude aankondigingen noemden muziek, dj’s en wateractiviteiten rond het complex aan Silom Road. Die informatie is geen programma voor een volgende editie. Deze route blijft alleen als archief van de specifieke 2026-intentie en bevat daarom geen ticket- of boekingsaanzet.
 
-Het Bang Rak District Office heeft al een bijeenkomst belegd met alle relevante instanties om de veiligheid en logistiek voor Songkran op Silom Road te coördineren. Dit signaleert dat dit jaren evenement een van de grootste ooit wordt – perfect voor Nederlandse reizigers die een onvergetelijke start van hun Thailand-vakantie willen.
+Wie een toekomstige Songkran in Bangkok plant, gebruikt de brede [Songkran-gids](/nl/blog/songkran-festival-2026-guide/) en controleert daarna officiële stads- en locatiekanalen. Locaties, verkeersmaatregelen, toegangsregels en programma’s worden per jaar opnieuw vastgesteld.
 
-## Wat te Verwachten op Silom Edge Songkran 2026
+## Silom is groter dan één locatie
 
-Het evenement draait om Silom Edge, het multifunctionele complex op Silom Road bij BTS Sala Daeng. Hoogtepunten zijn:
+Silom Road is al langer een bekende zone voor publieke waterpret tijdens het Thaise nieuwjaar. Silom Edge ligt op de hoek bij BTS Sala Daeng en MRT Si Lom, maar een private activatie bij het gebouw is niet hetzelfde als het volledige straatprogramma.
 
-- **Gratis livemuziek** door de Thaise artieste Hai Apaporn Nakhonsawan op 13 april van 16.00 tot 17.00 uur
-- **DJ-sets** van bekende DJ's van BEEF.BKK gedurende de drie dagen
-- **Centraal dansgebied** op Silom Road – een lange traditie waar duizenden mensen samenkomen om te dansen, te spetteren en te feesten op straat
-- **Streetfoodkraampjes** langs de weg met [Thaise festivalfavorieten](/blog/thai-street-food-guide-2026/)
-- **Gratis waterbijvulpunt** zodat je je waterpistool kunt bijvullen zonder plastic flessen te kopen
+Dat onderscheid voorkomt drie veelgemaakte fouten:
 
-De toegang tot het evenement is gratis.
+- een oud Silom Edge-programma behandelen als stadsprogramma;
+- aannemen dat de hele straat op dezelfde tijden of voorwaarden werkt;
+- commerciële optredens verwarren met de culturele betekenis van Songkran.
 
-## Praktische Tips voor Songkran op Silom
+## Songkran is ook een culturele traditie
 
-Songkran op Silom is geen toeschouwersfeest. Je wordt doorweekt. Zo haal je er het maximale uit, met oog op veiligheid voor reizigers uit Nederland:
+UNESCO plaatste Songkran in Thailand op de representatieve lijst van immaterieel cultureel erfgoed. De traditie draait onder meer om familie, respect voor ouderen, verdiensten maken en symbolisch watergebruik. De grote watergevechten in Silom zijn één moderne publieke vorm, niet de hele betekenis van het feest.
 
-- **Bescherm je telefoon.** Neem een waterdichte hoes mee – die koop je bij elke 7-Eleven of marktkraam in de buurt voor zo'n 50 tot 100 THB.
-- **Draag sneldrogende kleding en sandalen.** Laat je goede schoenen in het hotel.
-- **Neem minimale waardevolle spullen mee.** Een telefoon en wat contant geld in een waterdichte tas is genoeg.
-- **Blijf gehydrateerd.** Het is april in Bangkok, met temperaturen boven de 35 graden Celsius – ideaal voor de beste reistijd, maar drink vaak water.
-- **Kom 's middags vroeg.** De actie op Silom piekt meestal tussen 14.00 en 18.00 uur.
-- **Ken de regels.** Bekijk de [Songkran waterpistoolregels en boetes gids](/blog/songkran-2026-water-gun-rules-fines-safety-guide/) voordat je gaat – er zijn beperkingen waar en hoe je kunt meedoen, vooral belangrijk voor je veiligheid.
+Bezoek je Bangkok in een volgende Songkranperiode, combineer waterpret dan met begrip voor lokale gebruiken. Draag gepaste kleding buiten de feestzones en spuit geen water naar monniken, ouderen, kleine kinderen, bestuurders of mensen die duidelijk niet meedoen.
 
-## Hoe Kom je Er?
+## Voorbereiden op een toekomstige Silom-viering
 
-Neem de [BTS Skytrain](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) naar station **Sala Daeng** (Silom-lijn) of de MRT naar **Si Lom**. Beide brengen je recht naar de actie. Reken op drukte bij de stations – neem extra tijd en wees voorbereid op tijdelijke crowdcontrol bij de uitgangen. Vanuit Nederland vlieg je direct met KLM vanaf Schiphol naar Bangkok, ideaal voor je Songkran-trip.
+Controleer kort voor vertrek:
 
-## Waarom Silom?
+1. De officiële Bangkok-lijst met aangewezen activiteitenzones.
+2. Aankondigingen van Bang Rak District en Silom Edge.
+3. Tijdelijke regels voor vervoer, stationsingangen en voetgangersstromen.
+4. Wat een eventticket werkelijk omvat.
+5. De terugroute naar je hotel zonder kwetsbare laatste aansluiting.
 
-Bangkok heeft verschillende grote Songkran-zones – [Khaosan Road](/blog/bangkok-songkran-2026-khaosan-road-safety-plan/), RCA en Siam Square bijvoorbeeld – maar Silom heeft de langste geschiedenis als de hoofdstraat voor het waterfestival. Het trekt zowel Thaise locals als internationale bezoekers, en de mix van brede weg, hoge gebouwen en feestelijke sfeer maakt het uniek in de hoofdstad.
+BTS Sala Daeng en MRT Si Lom zijn logische oriëntatiepunten, maar toegang en crowd control kunnen tijdelijk veranderen. Volg personeel en omleidingen. Spreek met reisgenoten een ontmoetingspunt buiten de drukste zone af.
 
-Wil je een muziekfestival-ervaring naast de watergevechten? Dan zijn de [Siam Songkran Music Festival](/blog/siam-songkran-music-festival-2026-bangkok-guide/) (met Martin Garrix en Marshmello) en de [S2O Songkran Music Festival](/blog/s2o-songkran-music-festival-2026-bangkok-edm-water-party/) tijdens dezelfde periode aanraders. Voor een culturelere draai organiseert [Phra Pradaeng in Samut Prakan](/blog/phra-pradaeng-songkran-2026-mon-culture-samut-prakan/) een traditionele Mon-stijl Songkran net buiten Bangkok. Bekijk de volledige [Songkran 2026-vieringen in alle 76 provincies](/blog/songkran-2026-76-provinces-nationwide-celebrations-guide/) voor het totale overzicht.
+## Praktisch zonder schijnzekerheid
 
-Nog aan het plannen van je reis? Check [waar te verblijven in Bangkok per wijk](/blog/where-to-stay-bangkok-neighborhood-guide/), vergelijk [dagelijkse reiskosten in Thailand](/blog/thailand-budget-2026-daily-costs/), en kijk naar [Songkran-kortingvluchten](/blog/songkran-2026-airlines-discount-flights/) voor je route. Als je in Bangkok bent tijdens Songkran, is Silom de plek waar je moet zijn voor de ultieme ervaring.
----
+Neem zo min mogelijk mee. Bescherm telefoon, paspoortkopie en betaalmiddel in een degelijke waterdichte pouch. Draag schoenen met grip en gebruik alleen schoon water. Houd water uit ogen en mond, en stap uit de drukte wanneer je je niet goed voelt.
+
+Wij noemen geen vaste temperatuur of veiligheidsbelofte. Hitte, drukte en omstandigheden verschillen. Controleer actuele officiële adviezen en bepaal zelf of de belasting bij jou past.
+
+## Wat blijft van de 2026-route over?
+
+Silom Edge liet zien hoe een private locatie kan aansluiten op een grotere publieke Songkran-zone. Voor redactionele planning blijft vooral de les waardevol: één aankondiging bezit nooit de hele Silom-intentie. Het evenement van 2026 is voorbij en wordt niet als doorlopend aanbod verkocht.
+
+Voor een algemene stadsroute ga je naar de [Bangkok-reisgids](/nl/guides/travel-guide/bangkok/). Bekijk ook de [gids voor Bangkok openbaar vervoer](/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) en controleer de vervoerder opnieuw zodra tijdelijke Songkranmaatregelen bekend zijn.

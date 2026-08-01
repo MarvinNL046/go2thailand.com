@@ -10,6 +10,8 @@ import { useRouter } from 'next/router';
 import AffiliateBox from '../../components/AffiliateBox';
 import { getAffiliates, regionFeaturedCities, CityAffiliates, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
+import { DestinationGuideTemplate } from '../../components/city/DestinationGuideTemplate';
+import { getNlRegionGuide } from '../../data/regions/nl-guides';
 const { getAllDishes } = require('../../lib/food');
 const { getAllItineraries } = require('../../lib/itineraries');
 
@@ -149,6 +151,11 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
   const tipsAnim = useScrollAnimation(0.1);
   const planAnim = useScrollAnimation(0.1);
   const exploreAnim = useScrollAnimation(0.1);
+  const nlRegionGuide = isNl ? getNlRegionGuide(region.slug) : undefined;
+
+  if (nlRegionGuide) {
+    return <DestinationGuideTemplate data={nlRegionGuide} />;
+  }
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, subId, placement);
 
@@ -161,6 +168,11 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
     { name: isNl ? "Regio's" : 'Regions', href: '/region/' },
     { name: (isNl && region.name.nl) ? region.name.nl : (region.name[lang] || region.name.en), href: `/region/${region.slug}/` }
   ];
+  const pageUrl = `https://go2-thailand.com/region/${region.slug}/`;
+  const schemas = [
+    { '@context': 'https://schema.org', '@type': 'TouristDestination', name: region.name.en, description: region.description.en, url: pageUrl, image: toAbsoluteImageUrl(region.image), containedInPlace: { '@type': 'Country', name: 'Thailand' } },
+    { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: breadcrumbs.map((crumb, index) => ({ '@type': 'ListItem', position: index + 1, name: crumb.name, item: `https://go2-thailand.com${crumb.href}` })) },
+  ];
 
   return (
     <>
@@ -171,6 +183,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
       >
         <meta name="keywords" content={`${(region.name[lang] || region.name.en)}, Thailand, ${region.cities.join(', ')}, travel guide, attractions, culture`} />
         <meta property="og:type" content="website" />
+        {schemas.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
@@ -405,15 +418,15 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                         {(city.hasTop10Hotels || city.hasTop10Restaurants || city.hasTop10Attractions) && (
                           <div className="flex flex-wrap gap-2 mt-2 px-1">
                             {city.hasTop10Hotels && (
-                              <Link href={`/city/${city.slug}/top-10-hotels/`} className="text-xs text-thailand-blue hover:underline">Hotels</Link>
+                              <Link href={`/best-hotels/${city.slug}/`} className="text-xs text-thailand-blue hover:underline">Hotels</Link>
                             )}
                             {city.hasTop10Hotels && city.hasTop10Restaurants && <span className="text-gray-300">·</span>}
                             {city.hasTop10Restaurants && (
-                              <Link href={`/city/${city.slug}/top-10-restaurants/`} className="text-xs text-thailand-blue hover:underline">Restaurants</Link>
+                              <Link href={isNl ? `/city/${city.slug}/food/` : `/city/${city.slug}/top-10-restaurants/`} className="text-xs text-thailand-blue hover:underline">Restaurants</Link>
                             )}
                             {(city.hasTop10Hotels || city.hasTop10Restaurants) && city.hasTop10Attractions && <span className="text-gray-300">·</span>}
                             {city.hasTop10Attractions && (
-                              <Link href={`/city/${city.slug}/top-10-attractions/`} className="text-xs text-thailand-blue hover:underline">Attractions</Link>
+                              <Link href={isNl ? `/city/${city.slug}/attractions/` : `/city/${city.slug}/top-10-attractions/`} className="text-xs text-thailand-blue hover:underline">{isNl ? 'Bezienswaardigheden' : 'Attractions'}</Link>
                             )}
                           </div>
                         )}
@@ -433,7 +446,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     </p>
                     <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
                       {regionalDishes.map((dish) => (
-                        <Link key={dish.slug} href={`/food/${dish.slug}/`} className="group">
+                        <Link key={dish.slug} href={!isNl && dish.slug === 'khao-soi' ? '/blog/khao-soi-chiang-mai-guide/' : `/food/${dish.slug}/`} className="group">
                           <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
                             <div className="relative h-32">
                               <Image src={dish.image} alt={dish.name[lang] || dish.name.en} fill className="object-cover group-hover:scale-105 transition-transform" />
@@ -889,7 +902,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 </div>
                 <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Vervoer & Transfers' : 'Transport & Transfers'}</h3>
                 <p className="text-gray-600 text-sm mb-4">Book buses, trains, ferries, and flights across {(region.name[lang] || region.name.en)}.</p>
-                <a href={trackAffiliate(TWELVEGO_GENERIC, 'transport-card')} target="_blank" rel="noopener noreferrer" className="block bg-green-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-green-700 transition-colors text-sm">
+                <a href={trackAffiliate(TWELVEGO_GENERIC, 'transport-card')} target="_blank" rel="noopener noreferrer nofollow sponsored" className="block bg-green-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-green-700 transition-colors text-sm">
                   Book on 12Go Asia
                 </a>
               </div>

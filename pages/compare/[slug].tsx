@@ -11,6 +11,7 @@ import { getAllComparisons, getComparisonPair, getComparisonBySlug, getCompariso
 import { getIslandBySlug } from '../../lib/islands';
 import { getCityBySlug } from '../../lib/cities';
 import transportRoutes from '../../data/transport-routes.json';
+import PhuketKrabiComparisonGuide from '../../components/compare/PhuketKrabiComparisonGuide';
 
 const SITE_URL = 'https://go2-thailand.com';
 const TRANSLATED_LOCALES = ['en', 'nl'];
@@ -284,6 +285,13 @@ export default function ComparisonPage({
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   const isTranslated = TRANSLATED_LOCALES.includes(locale || 'en');
   const t = translations[lang];
+
+  // The retired programmatic comparison family stays noindex. This exact
+  // bilingual route has passed independent locale-specific research and is
+  // rendered by the evidence-led reusable comparison template.
+  if (slug === 'phuket-vs-krabi') {
+    return <PhuketKrabiComparisonGuide locale={lang} />;
+  }
 
   const item1Name = item1.name[lang];
   const item2Name = item2.name[lang];

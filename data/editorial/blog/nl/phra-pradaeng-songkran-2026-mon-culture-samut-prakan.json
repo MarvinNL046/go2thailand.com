@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "phra-pradaeng-songkran-2026-mon-culture-samut-prakan",
+  "route": "/nl/blog/phra-pradaeng-songkran-2026-mon-culture-samut-prakan/",
+  "cluster": "events",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Phra Pradaeng Songkran: Mon-tradities en planning",
+    "description": "Phra Pradaeng Songkran 2026 is voorbij. Lees wat deze Mon-viering bijzonder maakt en hoe je een volgende editie zorgvuldig plant.",
+    "primaryKeyword": "Phra Pradaeng Songkran",
+    "secondaryKeywords": ["Songkran Samut Prakan", "Mon Songkran Thailand", "Phra Pradaeng festival"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/phra-pradaeng-songkran-2026-mon-culture-samut-prakan/"
+  },
+  "hero": {
+    "eyebrow": "Lokale traditie · verstreken editie",
+    "title": "Phra Pradaeng Songkran",
+    "accent": "Meer dan een waterfeest",
+    "description": "De editie van 24–26 april 2026 is voorbij. Ontdek de Mon-culturele laag en gebruik de 2026-informatie alleen als vertrekpunt voor een volgende editie.",
+    "image": "/images/redesign/editorial/phra-pradaeng-songkran-2026-mon-culture-samut-prakan-hero.webp",
+    "imageAlt": "Deelnemers in traditionele Mon-kleding tijdens een respectvolle waterceremonie in Phra Pradaeng",
+    "primaryCta": { "label": "Begrijp de traditie", "href": "#betekenis" },
+    "secondaryCta": { "label": "Plan de volgende editie", "href": "#planning" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-04-24", "endsOn": "2026-04-26", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Phra Pradaeng Songkran 2026 vond plaats van 24 tot en met 26 april en is afgelopen. De lokale viering onderscheidt zich door Mon-tradities; wacht voor een volgende reis op een nieuwe officiële kalender.",
+  "blocks": [
+    { "kind": "callout", "id": "status", "tone": "warning", "title": "De data van 2026 zijn niet herbruikbaar", "description": "Programma, parade, verkeersmaatregelen en vaartijden kunnen per editie veranderen. Controleer voor een volgende editie de Tourism Authority of Thailand en lokale overheid." },
+    { "kind": "card-grid", "id": "betekenis", "eyebrow": "Culturele laag", "title": "Wat deze viering eigen maakt", "cards": [
+      { "title": "Mon-erfgoed", "description": "Kleding, muziek, gemeenschapsrituelen en lokale gerechten geven de viering een eigen karakter.", "label": "Kijk en luister" },
+      { "title": "Respectvol water", "description": "Zegeningen en eerbied voor ouderen horen bij de traditie; niet ieder moment is een uitnodiging voor een watergevecht.", "label": "Volg lokale signalen" },
+      { "title": "Lokale gemeenschap", "description": "Koop lokaal, blokkeer geen processies en vraag toestemming voordat je mensen van dichtbij fotografeert.", "label": "Reis als gast" }
+    ]},
+    { "kind": "checklist", "id": "planning", "title": "Controleer vóór vertrek", "items": ["Nieuwe officiële data en programma", "Begin- en eindpunt van de parade", "Actuele ferry- en wegverbindingen", "Weer, hitte en waterbescherming", "Bedekkende kleding voor tempelbezoek", "Een veilige terugreis naar Bangkok"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Wanneer was Phra Pradaeng Songkran 2026?", "answer": "De bevestigde editie liep van 24 tot en met 26 april 2026. Die data zijn verstreken." },
+      { "question": "Is het hetzelfde als Songkran in Bangkok?", "answer": "Nee. Water hoort erbij, maar de Mon-gemeenschap, traditionele kleding, ceremonies en lokale optocht geven deze viering een andere nadruk." },
+      { "question": "Kan ik de data voor volgend jaar overnemen?", "answer": "Nee. Wacht op de nieuwe aankondiging; ook route, tijden en verkeersmaatregelen moeten opnieuw worden gecontroleerd." }
+    ]},
+    { "kind": "related", "id": "verder", "title": "Plan met context", "items": [
+      { "title": "Songkran-hoofdgids", "description": "De centrale owner voor landelijke planning en veiligheid.", "href": "/nl/blog/songkran-festival-2026-guide/" },
+      { "title": "Bangkok", "description": "Bouw een bredere stadsreis rond de culturele dagtrip.", "href": "/nl/city/bangkok/" },
+      { "title": "Thaise etiquette", "description": "Lees hoe je tempels en lokale rituelen respectvol bezoekt.", "href": "/nl/practical-info/etiquette-culture/" }
+    ]},
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen en datumcontrole", "items": [
+      { "title": "Phra Pradaeng Songkran set for April 24–26", "publisher": "Nation Thailand", "url": "https://www.nationthailand.com/news/tourism/40063347", "checkedAt": "2026-08-01", "note": "Gebruikt voor de verstreken 2026-data en Mon-culturele context." },
+      { "title": "Songkran in Thailand", "publisher": "UNESCO Intangible Cultural Heritage", "url": "https://ich.unesco.org/en/RL/songkran-in-thailand-traditional-thai-new-year-festival-01719", "checkedAt": "2026-08-01", "note": "Culturele context; geen lokale evenementenkalender." }
+    ]}
+  ]
+}

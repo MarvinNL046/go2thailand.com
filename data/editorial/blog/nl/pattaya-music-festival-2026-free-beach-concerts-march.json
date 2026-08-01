@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "pattaya-music-festival-2026-free-beach-concerts-march",
+  "route": "/nl/blog/pattaya-music-festival-2026-free-beach-concerts-march/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Pattaya Music Festival 2026 is afgelopen: locaties",
+    "description": "Pattaya Music Festival 2026 is afgelopen. Bekijk de vier bevestigde maartweekenden en locaties, plus een betrouwbaar kader voor een volgende editie.",
+    "primaryKeyword": "Pattaya Music Festival 2026",
+    "secondaryKeywords": ["Pattaya strandconcerten", "Pattaya events maart", "Samae Beach festival"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/pattaya-music-festival-2026-free-beach-concerts-march/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Verstreken eventarchief",
+    "title": "Vier weekenden.",
+    "accent": "Vier verschillende locaties.",
+    "description": "De maarteditie van 2026 is voorbij. Bewaar de geverifieerde kalender als archief en controleer een volgende editie volledig opnieuw.",
+    "image": "/images/redesign/editorial/pattaya-music-festival-2026-free-beach-concerts-march-hero.webp",
+    "imageAlt": "Openluchtconcert aan de kust van Pattaya bij avondlicht",
+    "primaryCta": { "label": "Bekijk het 2026-archief", "href": "#pattaya-music-status" },
+    "secondaryCta": { "label": "Ontdek Pattaya", "href": "/nl/city/pattaya/" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "elapsed",
+    "startsOn": "2026-03-06",
+    "endsOn": "2026-03-28",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "Pattaya Music Festival 2026 liep tijdens vier weekenden in maart op Pattaya Beach, Jomtien, Koh Larn en in Naklua. De editie is afgelopen.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "pattaya-music-status",
+      "tone": "warning",
+      "title": "De editie van maart 2026 is verstreken",
+      "description": "Gebruik artiestenposters, data en vervoersinformatie uit 2026 niet voor een volgende editie. Wacht op Pattaya City of provincie Chonburi."
+    },
+    {
+      "kind": "card-grid",
+      "id": "pattaya-music-locations",
+      "eyebrow": "Historische route",
+      "title": "De vier locaties van 2026",
+      "cards": [
+        { "title": "Pattaya Beach", "description": "6–7 maart; centrale kustzone met een eigen verkeers- en hotelbeslissing.", "label": "Weekend 1" },
+        { "title": "Jomtien en Koh Larn", "description": "13–14 maart in Jomtien en 20–21 maart op Samae Beach; eilandvervoer vroeg apart controleren.", "label": "Weekenden 2 en 3" },
+        { "title": "Naklua", "description": "27–28 maart in Lan Pho Naklua Public Park; noordelijke stadszone.", "label": "Weekend 4" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "pattaya-music-next-edition",
+      "title": "Voor een volgende editie opnieuw controleren",
+      "items": ["Officiële data en podiumlocatie", "Toegang en eventuele capaciteit", "Boot- of landroute naar de juiste locatie", "Tijdelijke verkeersmaatregelen", "Veilige terugreis naar je verblijf"]
+    },
+    {
+      "kind": "faq",
+      "id": "pattaya-music-faq",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is Pattaya Music Festival 2026 nog bezig?", "answer": "Nee. De vier weekenden tussen 6 en 28 maart 2026 zijn verstreken." },
+        { "question": "Was alles op Pattaya Beach?", "answer": "Nee. De editie gebruikte Pattaya Beach, Jomtien Beach, Samae Beach op Koh Larn en Lan Pho Naklua Public Park." },
+        { "question": "Komt het festival terug?", "answer": "Een nieuwe editie moet door de lokale autoriteiten worden bevestigd; de kalender van 2026 is geen bewijs voor nieuwe data." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "pattaya-music-sources",
+      "title": "Primaire kalenderbronnen",
+      "items": [
+        { "title": "Pattaya Music Festival 2026", "publisher": "Chonburi Provincial Administrative Organization", "url": "https://chon.go.th/public/list/data/detail/id/3460/menu/1559", "checkedAt": "2026-08-01" },
+        { "title": "Pattaya Music Festival", "publisher": "Tourism Authority of Thailand Japan", "url": "https://www.thailandtravel.or.jp/pattaya-international-music-festival/", "checkedAt": "2026-08-01" }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "pattaya-music-related",
+      "title": "Plan Pattaya zonder oude eventagenda",
+      "items": [
+        { "title": "Pattaya overzicht", "description": "Kies de juiste kust- en stadszone.", "href": "/nl/city/pattaya/" },
+        { "title": "Hotels in Pattaya", "description": "Vergelijk verblijfzones en actuele voorwaarden.", "href": "/nl/best-hotels/pattaya/" },
+        { "title": "Veilig reizen", "description": "Plan vervoer, drukte en hulp vooraf.", "href": "/nl/is-thailand-safe/" }
+      ]
+    }
+  ]
+}

@@ -50,9 +50,9 @@ This itinerary follows a logical north-to-south path: fly into Bangkok, head nor
 
 ### Day 1: Arrive and Ease In
 
-Fly into Suvarnabhumi Airport (BKK) and grab a taxi or the Airport Rail Link to your hotel. If you land before noon, spend the afternoon exploring your neighborhood on foot. Pick up an [eSIM](https://saily.tpo.lv/rf9lidnE) or [local SIM card](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/) at the airport — data costs about 300 THB ($8.50) for a week.
+Fly into Suvarnabhumi Airport (BKK) and grab a taxi or the Airport Rail Link to your hotel. If you land before noon, spend the afternoon exploring your neighborhood on foot. Pick up an [eSIM](https://saily.tpo.lv/rf9lidnE) or [local SIM card](/travel-guides/sim-card-thailand/) at the airport — data costs about 300 THB ($8.50) for a week.
 
-For dinner, head to a local street food stall. A plate of pad thai or chicken over rice costs 50–80 THB ($1.40–2.30). If you want a curated introduction, read our [Bangkok street food guide](https://go2-thailand.com/blog/bangkok-street-food-beginners/).
+For dinner, head to a local street food stall. A plate of pad thai or chicken over rice costs 50–80 THB ($1.40–2.30). If you want a curated introduction, read our [Bangkok street food guide](https://go2-thailand.com/blog/best-street-food-markets-bangkok/).
 
 **Day 1 budget:** 800–1,200 THB ($23–34) for food and transport.
 
@@ -100,7 +100,7 @@ As the sun sets, head to [Doi Suthep](https://go2-thailand.com/city/chiang-mai/a
 
 Chiang Mai has over 300 temples within its city limits, but you don't need to see them all. Start with Wat Umong, a forest temple with underground tunnels, then head to Nimmanhaemin Road for boutique shops and specialty coffee.
 
-In the afternoon, book a [Thai cooking class](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/) — they typically include a market tour where you learn to select fresh ingredients, followed by 3–4 hours of hands-on cooking. Prices range from 800–1,500 THB ($23–43). You'll learn dishes like [pad thai](https://go2-thailand.com/food/pad-thai/), [green curry](https://go2-thailand.com/blog/thai-curry-guide-green-red-yellow-massaman-panang/), and [tom yum](https://go2-thailand.com/blog/tom-yum-goong-guide/).
+In the afternoon, book a [Thai cooking class](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/) — they typically include a market tour where you learn to select fresh ingredients, followed by 3–4 hours of hands-on cooking. Prices range from 800–1,500 THB ($23–43). You'll learn dishes like [pad thai](https://go2-thailand.com/food/pad-thai/), [green curry](https://go2-thailand.com/blog/thai-curry-guide-green-red-yellow-massaman-panang/), and [tom yum](https://go2-thailand.com/food/tom-yum-goong/).
 
 In the evening, explore the [Night Bazaar](https://go2-thailand.com/city/chiang-mai/attractions/night-bazaar/) on Chang Klan Road — a permanent covered market with handicrafts, clothing, and food stalls. If you're here on a Sunday, the Walking Street market along Ratchadamnoen Road is even better.
 
@@ -124,7 +124,7 @@ Catch a morning flight from [Chiang Mai to Krabi](https://go2-thailand.com/trans
 
 [Krabi](https://go2-thailand.com/city/krabi/) is the ideal southern base because it offers easy access to Railay Beach, the Phi Phi Islands, and the Four Islands without the overdevelopment of Phuket. Our [Krabi travel guide](https://go2-thailand.com/blog/krabi-travel-guide/) covers everything from beaches to rock climbing. From Krabi airport, a shared shuttle to Ao Nang costs about 150 THB ($4.30).
 
-Spend the afternoon at [Ao Nang beach](https://go2-thailand.com/city/krabi/attractions/ao-nang-beach/), then take the short longtail boat ride (100 THB) to [Railay Beach](https://go2-thailand.com/city/krabi/attractions/railay-beach/) — a stunning peninsula only accessible by boat, flanked by vertical limestone cliffs. Rock climbers come from around the world for these walls.
+Spend the afternoon at [Ao Nang beach](https://go2-thailand.com/city/krabi/attractions/), then take the short longtail boat ride (100 THB) to [Railay Beach](https://go2-thailand.com/city/krabi/attractions/) — a stunning peninsula only accessible by boat, flanked by vertical limestone cliffs. Rock climbers come from around the world for these walls.
 
 **Day 7 budget:** 1,000–1,800 THB ($29–51) plus flight.
 
@@ -174,7 +174,7 @@ If you have a morning departure, fly back to Bangkok the night before and stay n
 | **Activities/entry fees** (total) | 2,000–4,000 THB ($57–114) | 5,000–10,000 THB ($143–286) | 15,000–30,000 THB ($429–857) |
 | **10-day total** | $500–700 | $1,000–1,500 | $2,500–5,000+ |
 
-These figures don't include international flights. For a detailed daily cost breakdown, see our [Thailand budget guide](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/).
+These figures don't include international flights. For a detailed daily cost breakdown, see our [Thailand budget guide](https://go2-thailand.com/thailand-index/budget/).
 
 ---
 
@@ -198,7 +198,7 @@ Book domestic flights on [12Go Asia](https://12go.tpo.lv/tNA80urD) or directly t
 - **Chiang Mai:** The Old City puts you within walking distance of temples and restaurants. Guesthouses start at 400 THB/night.
 - **Krabi/Ao Nang:** Ao Nang has the widest range of accommodation. Railay Beach is more expensive but worth one night for the sunrise.
 
-For budget comparisons, check our guide on [budget vs. comfort travel in Thailand](https://go2-thailand.com/blog/thailand-budget-vs-comfort-travel/).
+For budget comparisons, check our guide on [budget vs. comfort travel in Thailand](https://go2-thailand.com/thailand-index/budget/).
 
 ---
 
@@ -210,7 +210,7 @@ The [best time to visit Thailand](https://go2-thailand.com/blog/best-time-to-vis
 
 ## Essential Tips
 
-1. **Fill out the [Thailand Digital Arrival Card (TDAC)](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/)** online before you arrive — it's free and saves time at immigration.
+1. **Fill out the [Thailand Digital Arrival Card (TDAC)](https://go2-thailand.com/visa/digital-arrival-card/)** online before you arrive — it's free and saves time at immigration.
 2. **Carry cash.** Street food stalls, tuk-tuks, and small shops rarely accept cards. ATMs charge 220 THB ($6.30) per withdrawal — withdraw larger amounts less often.
 3. **Dress respectfully at temples.** Cover your shoulders and knees. Many temples provide wraps, but bringing your own saves time.
 4. **Don't ride elephants.** Visit ethical sanctuaries instead. Our [Thailand travel mistakes guide](https://go2-thailand.com/blog/10-biggest-thailand-travel-mistakes/) covers this and other common pitfalls.
@@ -238,7 +238,7 @@ Book domestic flights and popular cooking classes 3–4 weeks ahead, especially 
 
 ### Is Thailand safe for solo travelers?
 
-Thailand is one of the safest countries in Southeast Asia for solo travelers. Read our [Thailand safety guide](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026/) for detailed tips. Use common sense with valuables, avoid isolated areas late at night, and be wary of common [scams](https://go2-thailand.com/blog/thailand-travel-scams-2026/).
+Thailand is one of the safest countries in Southeast Asia for solo travelers. Read our [Thailand safety guide](https://go2-thailand.com/is-thailand-safe/) for detailed tips. Use common sense with valuables, avoid isolated areas late at night, and be wary of common [scams](https://go2-thailand.com/practical-info/scams-safety/).
 
 ### Do I need a visa?
 

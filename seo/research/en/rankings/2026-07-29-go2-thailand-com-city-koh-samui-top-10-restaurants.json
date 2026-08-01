@@ -1,0 +1,33 @@
+{
+  "captured_at": "2026-07-29T12:24:00.512Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/city/koh-samui/top-10-restaurants/",
+  "cost": 0.01236,
+  "rankings": [
+    {
+      "keyword": "best restaurants in samui",
+      "position": 60,
+      "volume": 590,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/koh-samui/top-10-restaurants/"
+    },
+    {
+      "keyword": "koh samui best restaurants",
+      "position": 62,
+      "volume": 590,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/koh-samui/top-10-restaurants/"
+    },
+    {
+      "keyword": "restaurants koh samui",
+      "position": 65,
+      "volume": 480,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/koh-samui/top-10-restaurants/"
+    }
+  ]
+}

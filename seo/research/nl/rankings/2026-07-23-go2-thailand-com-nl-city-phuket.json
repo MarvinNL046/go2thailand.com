@@ -1,0 +1,61 @@
+{
+  "captured_at": "2026-07-23T21:32:25.437Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/city/phuket/",
+  "cost": 0.01284,
+  "rankings": [
+    {
+      "keyword": "phuket",
+      "position": 99,
+      "volume": 14800,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/phuket/"
+    },
+    {
+      "keyword": "thailand phuket",
+      "position": 86,
+      "volume": 1000,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/phuket/"
+    },
+    {
+      "keyword": "phuket island",
+      "position": 91,
+      "volume": 140,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/phuket/"
+    },
+    {
+      "keyword": "phuket stad",
+      "position": 76,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/phuket/"
+    },
+    {
+      "keyword": "waar ligt phuket",
+      "position": 87,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/phuket/"
+    },
+    {
+      "keyword": "phuket eiland",
+      "position": 90,
+      "volume": 70,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/phuket/"
+    },
+    {
+      "keyword": "phuket waar verblijven",
+      "position": 42,
+      "volume": 70,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/nl/city/phuket/"
+    }
+  ]
+}

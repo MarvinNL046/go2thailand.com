@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-28T03:17:35.813Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "northern thai pork curry",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "northern thai pork curry"
+  ],
+  "keywords": [
+    {
+      "keyword": "northern thai pork curry",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

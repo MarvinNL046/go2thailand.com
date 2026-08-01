@@ -1,0 +1,478 @@
+{
+  "captured_at": "2026-07-27T22:18:00.479Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "chiang rai vs chiang mai",
+  "costs": {
+    "suggestions": 0.01284,
+    "related": 0.01272,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "chiang rai vs chiang mai",
+    "chiang mai vs chiang rai",
+    "chiang mai and chiang rai distance",
+    "chiang mai and chiang rai tour package",
+    "chiang mai vs chiang rai reddit",
+    "chiang mai vs chiang rai vs pai",
+    "chiang rai vs chiang mai reddit"
+  ],
+  "keywords": [
+    {
+      "keyword": "chiang mai vs chiang rai",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang rai vs chiang mai",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai and chiang rai distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai and chiang rai map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai and chiang rai tour package",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai vs chiang rai reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai vs chiang rai vs pai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang rai vs chiang mai reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang rai vs pai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai vs chiang rai football",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "living in chiang rai vs chiang mai",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "littleoneexplores.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 54.72
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 29.16
+    },
+    {
+      "domain": "www.templeseeker.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 17.514
+    },
+    {
+      "domain": "thailandstartshere.com",
+      "avgPosition": 4,
+      "keywordCount": 2,
+      "visibility": 1.4,
+      "estimatedTraffic": 11.862
+    },
+    {
+      "domain": "www.kuoni.co.uk",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 8.442
+    },
+    {
+      "domain": "acrosseveryborder.com",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 6.084
+    },
+    {
+      "domain": "www.thailandhilltribeholidays.com",
+      "avgPosition": 7,
+      "keywordCount": 2,
+      "visibility": 0.8,
+      "estimatedTraffic": 4.6080000000000005
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.6,
+      "estimatedTraffic": 3.546
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 9,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 2.6999999999999997
+    },
+    {
+      "domain": "italiantripabroad.it",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.6380000000000001
+    },
+    {
+      "domain": "www.bonvoyagethailand.com",
+      "avgPosition": 12,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.3499999999999999
+    },
+    {
+      "domain": "travelpack.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.99
+    },
+    {
+      "domain": "allpointseast.com",
+      "avgPosition": 15,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.891
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 17,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 0.7020000000000001
+    },
+    {
+      "domain": "thelavendertravelers.com",
+      "avgPosition": 18,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.72
+    },
+    {
+      "domain": "togethertowherever.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.585
+    },
+    {
+      "domain": "www.30sundays.club",
+      "avgPosition": 21,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.5760000000000001
+    },
+    {
+      "domain": "www.smilingalbino.com",
+      "avgPosition": 23,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.486
+    },
+    {
+      "domain": "catisoutoftheoffice.com",
+      "avgPosition": 25.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.teamhazardridesagain.com",
+      "avgPosition": 28.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.206
+    },
+    {
+      "domain": "tuguiaentailandia.com",
+      "avgPosition": 30.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.43200000000000005
+    },
+    {
+      "domain": "mycameradiaries.com",
+      "avgPosition": 31.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.tripzilla.com",
+      "avgPosition": 32.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "hanoivoyage.com",
+      "avgPosition": 33,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "wanderwithorla.com",
+      "avgPosition": 36,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.budgetyourtrip.com",
+      "avgPosition": 36.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.396
+    },
+    {
+      "domain": "pack-lightly.com",
+      "avgPosition": 37.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.387
+    },
+    {
+      "domain": "autourasia.com",
+      "avgPosition": 38.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.letsventureout.com",
+      "avgPosition": 39,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.flyertalk.com",
+      "avgPosition": 40,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "dmcquote.com",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "planbeforeland.com",
+      "avgPosition": 41,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.visitthailandtoday.com",
+      "avgPosition": 44,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "thailandawaits.com",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "paithailand.net",
+      "avgPosition": 44.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "asianinspirations.com.au",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "gaeria84.blogspot.com",
+      "avgPosition": 47,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "tripoventure.com",
+      "avgPosition": 49.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "passportandstamps.com",
+      "avgPosition": 50,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "trailwanderer.org",
+      "avgPosition": 51,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "destinasian.com",
+      "avgPosition": 53,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 56,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "abrokenbackpack.com",
+      "avgPosition": 56,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.thailandhighlights.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.207
+    },
+    {
+      "domain": "www.fodors.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.marionandalfred.de",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.189
+    },
+    {
+      "domain": "www.idctravel.fr",
+      "avgPosition": 62.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    },
+    {
+      "domain": "www.voyagethailande.fr",
+      "avgPosition": 63,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.378
+    }
+  ]
+}

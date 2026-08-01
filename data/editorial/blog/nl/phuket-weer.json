@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "phuket-weer",
+  "route": "/nl/blog/phuket-weer/",
+  "cluster": "planning",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Phuket weer: samengevoegde route | Go2Thailand",
+    "description": "Deze oude weerblog is samengevoegd met het actuele Phuket-weeroverzicht per maand en seizoen.",
+    "primaryKeyword": "Phuket weer oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/phuket-weer/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegd weeroverzicht",
+    "title": "Plan Phuket met klimaat én verwachting",
+    "accent": "Niet met één maandlabel",
+    "description": "De actuele owner scheidt klimaatnormalen, dagverwachting en zeecondities.",
+    "image": "/images/redesign/editorial/phuket-weer-hero.webp",
+    "imageAlt": "Phuketbaai onder wisselende tropische wolken en zonlicht",
+    "primaryCta": { "label": "Bekijk Phuket per maand", "href": "/nl/city/phuket/weather/" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze blog dupliceert de geaccepteerde Phuket-weerowner. Daar staan maandnormalen, flexibele dagplanning en actuele controlepunten bij elkaar.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Ga naar het volledige maandoverzicht", "description": "Een klimaatgemiddelde voorspelt jouw stranddag niet. Controleer kort voor vertrek de actuele TMD-verwachting en lokale kustwaarschuwingen.", "cta": { "label": "Open de weerpagina", "href": "/nl/city/phuket/weather/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële weerbron", "items": [
+      { "title": "Weather Thailand", "publisher": "Thai Meteorological Department", "url": "https://www.tmd.go.th/en/", "checkedAt": "2026-08-01", "note": "Actuele verwachting en waarschuwingen zijn leidend vlak voor vertrek." }
+    ] }
+  ]
+}

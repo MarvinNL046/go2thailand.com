@@ -1,0 +1,860 @@
+{
+  "captured_at": "2026-07-27T22:56:56.874Z",
+  "locale": "en",
+  "url": "https://www.smithsonianmag.com/travel/the-surprising-history-of-pad-thai-180984625/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "More from Smithsonian magazine",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Smart News",
+          "url": "https://www.smithsonianmag.com/category/smart-news/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/category/smart-news/",
+              "anchor_text": "Smart News"
+            }
+          ]
+        },
+        {
+          "text": "Arts & Culture",
+          "url": "https://www.smithsonianmag.com/category/arts-culture/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/category/arts-culture/",
+              "anchor_text": "Arts & Culture"
+            }
+          ]
+        },
+        {
+          "text": "At the Smithsonian",
+          "url": "https://www.smithsonianmag.com/category/smithsonian-institution/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/category/smithsonian-institution/",
+              "anchor_text": "At the Smithsonian"
+            }
+          ]
+        },
+        {
+          "text": "Photo Contest",
+          "url": "https://photocontest.smithsonianmag.com/photocontest/",
+          "urls": [
+            {
+              "url": "https://photocontest.smithsonianmag.com/photocontest/",
+              "anchor_text": "Photo Contest"
+            }
+          ]
+        },
+        {
+          "text": "Our Partners",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Smithsonian Store",
+          "url": "https://www.smithsonianstore.com/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianstore.com/",
+              "anchor_text": "Smithsonian Store"
+            }
+          ]
+        },
+        {
+          "text": "Smithsonian Journeys",
+          "url": "https://www.smithsonianjourneys.org/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianjourneys.org/",
+              "anchor_text": "Smithsonian Journeys"
+            }
+          ]
+        },
+        {
+          "text": "Subscribe to Smithsonian magazine and get a FREE tote.",
+          "url": "https://subscribe.smithsonianmag.com/?idx=1913&inetz=below_nav",
+          "urls": [
+            {
+              "url": "https://subscribe.smithsonianmag.com/?idx=1913&inetz=below_nav",
+              "anchor_text": "Subscribe to Smithsonian magazine and get a FREE tote."
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Follow Us",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Smart News",
+          "url": "https://www.smithsonianmag.com/category/smart-news/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/category/smart-news/",
+              "anchor_text": "Smart News"
+            }
+          ]
+        },
+        {
+          "text": "Arts & Culture",
+          "url": "https://www.smithsonianmag.com/category/arts-culture/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/category/arts-culture/",
+              "anchor_text": "Arts & Culture"
+            }
+          ]
+        },
+        {
+          "text": "At the Smithsonian",
+          "url": "https://www.smithsonianmag.com/category/smithsonian-institution/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/category/smithsonian-institution/",
+              "anchor_text": "At the Smithsonian"
+            }
+          ]
+        },
+        {
+          "text": "Photo Contest",
+          "url": "https://photocontest.smithsonianmag.com/photocontest/",
+          "urls": [
+            {
+              "url": "https://photocontest.smithsonianmag.com/photocontest/",
+              "anchor_text": "Photo Contest"
+            }
+          ]
+        },
+        {
+          "text": "Give a gift",
+          "url": "https://subscribe.smithsonianmag.com/gift?idx=579&inetz=footer&promo_name=current-issue&promo_position=footer&promo_creative=link&promo_id=gift",
+          "urls": [
+            {
+              "url": "https://subscribe.smithsonianmag.com/gift?idx=579&inetz=footer&promo_name=current-issue&promo_position=footer&promo_creative=link&promo_id=gift",
+              "anchor_text": "Give a gift"
+            }
+          ]
+        },
+        {
+          "text": "Manage My Account",
+          "url": "https://ssl.drgnetwork.com/SMT/cs/gidSMALL/login",
+          "urls": [
+            {
+              "url": "https://ssl.drgnetwork.com/SMT/cs/gidSMALL/login",
+              "anchor_text": "Manage My Account"
+            }
+          ]
+        },
+        {
+          "text": "Sign Up",
+          "url": "https://www.smithsonianmag.com/email/add/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/email/add/",
+              "anchor_text": "Sign Up"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "url": "https://www.smithsonianmag.com/about/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/about/",
+              "anchor_text": "About Us"
+            }
+          ]
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://www.smithsonianmag.com/contact/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/contact/",
+              "anchor_text": "Contact Us"
+            }
+          ]
+        },
+        {
+          "text": "Content Licensing",
+          "url": "https://www.smithsonianmag.com/licensing/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/licensing/",
+              "anchor_text": "Content Licensing"
+            }
+          ]
+        },
+        {
+          "text": "Internships & Employment",
+          "url": "https://www.smithsonianmag.com/about/internships-employment/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/about/internships-employment/",
+              "anchor_text": "Internships & Employment"
+            }
+          ]
+        },
+        {
+          "text": "Member Services",
+          "url": "https://www.smithsonianmag.com/member-services/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/member-services/",
+              "anchor_text": "Member Services"
+            }
+          ]
+        },
+        {
+          "text": "Smithsonian Institution",
+          "url": "https://www.si.edu/",
+          "urls": [
+            {
+              "url": "https://www.si.edu/",
+              "anchor_text": "Smithsonian Institution"
+            }
+          ]
+        },
+        {
+          "text": "Our Partners",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Smithsonian Store",
+          "url": "https://www.smithsonianstore.com/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianstore.com/",
+              "anchor_text": "Smithsonian Store"
+            }
+          ]
+        },
+        {
+          "text": "Smithsonian Journeys",
+          "url": "https://www.smithsonianjourneys.org/catalog/?src=sjmod-new-hp&utm_source=smithsonianmag.com&utm_medium=module&utm_campaign=sjmod-new-hp&utm_content=footer",
+          "urls": [
+            {
+              "url": "https://www.smithsonianjourneys.org/catalog/?src=sjmod-new-hp&utm_source=smithsonianmag.com&utm_medium=module&utm_campaign=sjmod-new-hp&utm_content=footer",
+              "anchor_text": "Smithsonian Journeys"
+            }
+          ]
+        },
+        {
+          "text": "Smithsonian Channel",
+          "url": "https://www.smithsonianchannel.com/?utm_source=Smithsonianmag.com&utm_medium=globalfooter&utm_campaign=referlink",
+          "urls": [
+            {
+              "url": "https://www.smithsonianchannel.com/?utm_source=Smithsonianmag.com&utm_medium=globalfooter&utm_campaign=referlink",
+              "anchor_text": "Smithsonian Channel"
+            }
+          ]
+        },
+        {
+          "text": "Smithsonian Books",
+          "url": "https://www.smithsonianbooks.com/?utm_source=Smithsonianmag.com&utm_medium=globalfooter&utm_campaign=referlink",
+          "urls": [
+            {
+              "url": "https://www.smithsonianbooks.com/?utm_source=Smithsonianmag.com&utm_medium=globalfooter&utm_campaign=referlink",
+              "anchor_text": "Smithsonian Books"
+            }
+          ]
+        },
+        {
+          "text": "Smithsonian Membership",
+          "url": "https://www.si.edu/support",
+          "urls": [
+            {
+              "url": "https://www.si.edu/support",
+              "anchor_text": "Smithsonian Membership"
+            }
+          ]
+        },
+        {
+          "text": "© 2026 Smithsonian Magazine Privacy Statement [5/20/25] Cookie Policy [5/20/25] Terms of Use Advertising Notice Your Privacy Choices Cookie Settings",
+          "url": "https://www.smithsonianmag.com/privacy/",
+          "urls": [
+            {
+              "url": "https://www.smithsonianmag.com/privacy/",
+              "anchor_text": "Privacy Statement [5/20/25]"
+            },
+            {
+              "url": "https://www.smithsonianmag.com/privacy/cookie-policy/",
+              "anchor_text": "Cookie Policy [5/20/25]"
+            },
+            {
+              "url": "https://www.si.edu/termsofuse",
+              "anchor_text": "Terms of Use"
+            },
+            {
+              "url": "https://www.smithsonianmag.com/privacy/ad-choices/",
+              "anchor_text": "Advertising Notice"
+            },
+            {
+              "url": "https://www.smithsonianmag.com/privacy/manage-my-data/",
+              "anchor_text": "Your Privacy Choices"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "The Surprising History of Pad Thai",
+        "main_title": "The Surprising History of Pad Thai",
+        "author": "Isabelle Kliger",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Pichaya “Pam” Soontornyanakij—better known as Chef Pam, the Michelin-starred chef at the helm of Bangkok’s Potong restaurant—is descended from a family that moved to Thailand from southern China in the 1880s, five generations ago. Although her roots can be traced back to Fujian Province, Soontornyanakij grew up in a family that had long since assimilated into Thai culture—or so she thought.",
+            "url": "https://www.bychefpam.com/",
+            "urls": [
+              {
+                "url": "https://www.bychefpam.com/",
+                "anchor_text": "Chef Pam"
+              },
+              {
+                "url": "https://www.restaurantpotong.com/",
+                "anchor_text": "Potong"
+              }
+            ]
+          },
+          {
+            "text": "“Growing up, my mom cooked pad thai regularly—maybe once a month,” says Pam. “I thought it was Thai.” It wasn’t until she started studying food and went to culinary school that she realized most of the food she had eaten in her family home was in fact Thai Chinese.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Chinese immigrants have been moving to Thailand since the 12th century, but numbers started growing in the late 19th and early 20th centuries, as poor migrants sought work and a better life in Thailand. By the early 1900s, about one-seventh of Thailand’s population was of Chinese descent. The Thai Chinese community mostly assimilated to Thai culture and adopted the Thai language, and they can now be found across all classes of Thai society. Meanwhile, their continued impact on the national cuisine is undeniable.",
+            "url": "https://www.britannica.com/place/Thailand/Chinese",
+            "urls": [
+              {
+                "url": "https://www.britannica.com/place/Thailand/Chinese",
+                "anchor_text": "one-seventh"
+              }
+            ]
+          },
+          {
+            "text": "Pad thai, the national dish of Thailand, is arguably the most prominent example of Thai Chinese cuisine. “Thai stir-fry,” as it means in Thai, is made by stir-frying thin, flat rice noodles in garlic, chai poh (Chinese sweet-salty preserved radish), dried shrimp and tofu, with a sauce made of ​fish sauce, tamarind paste and palm sugar. The tricky part, explains Pam, is getting the flavor and texture balance of the noodles just right.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“We don’t cook the noodles like you cook pasta, we sauté them in a pan of sauce. The idea is to cook the noodles until they absorb enough sauce to get the flavor right—but they also need to absorb enough liquid to get soft,” she says. “The trick is this: If the noodles have already absorbed all the flavor in the pan but still aren’t quite soft enough, we don’t add more sauce, we add more water.”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Typically served in street food stalls in Bangkok and across Thailand, pad thai is the kind of informal, everyday dish office workers might grab from a stall at lunchtime, costing no more than around 50 Thai baht, or $1.50.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "These days, pad thai can be found around the world, including in the United States. Thai food in the U.S. dates back to the early 1960s, when the first Thai restaurant opened in Denver, while the 1970s saw the growing popularity of Thai cuisine in Los Angeles after Thai immigrants started arriving there. However, it took a while to truly establish itself as part of American culture.",
+            "url": "https://www.cpr.org/2021/05/07/the-first-thai-restaurant-in-the-u-s-was-in-denver-heres-an-original-recipe/",
+            "urls": [
+              {
+                "url": "https://www.cpr.org/2021/05/07/the-first-thai-restaurant-in-the-u-s-was-in-denver-heres-an-original-recipe/",
+                "anchor_text": "early 1960s,"
+              },
+              {
+                "url": "https://www.cpr.org/2021/05/07/the-first-thai-restaurant-in-the-u-s-was-in-denver-heres-an-original-recipe/",
+                "anchor_text": "first Thai restaurant"
+              },
+              {
+                "url": "https://www.splendidtable.org/story/2019/01/10/how-thai-food-took-over-america",
+                "anchor_text": "growing popularity of Thai cuisine in Los Angeles"
+              }
+            ]
+          },
+          {
+            "text": "Since the early 2000s, Thai restaurants have sprung up across the U.S. like flowers after a spring shower. In 2001, the Global Thai Restaurant Company was set up by the Thai government to establish at least 3,000 Thai restaurants worldwide, as part of what is known as Thailand’s “gastro-diplomacy” efforts. The results speak for themselves. Since then, the number of Thai restaurants outside Thailand has grown from 5,500 to more than 15,000, while, in the U.S. alone, the number has risen from 2,000 to 5,000.",
+            "url": "https://www.vice.com/en/article/paxadz/the-surprising-reason-that-there-are-so-many-thai-restaurants-in-america%20This%20idea%20of%20gastrodiplomacy",
+            "urls": [
+              {
+                "url": "https://www.vice.com/en/article/paxadz/the-surprising-reason-that-there-are-so-many-thai-restaurants-in-america%20This%20idea%20of%20gastrodiplomacy",
+                "anchor_text": "Thailand’s “gastro-diplomacy” efforts"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "The origins of pad thai",
+        "main_title": "The Surprising History of Pad Thai",
+        "author": "Isabelle Kliger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Last year, when Pam changed the tasting menu at Potong, she challenged herself to make something original that still represents both Thailand and Thai Chinese cuisine. While she already knew that pad thai was one of the clearest examples of Thai Chinese influence in Thai cuisine, she had not realized the extent of it.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“When I started digging into the history, it was even more fascinating than I could have imagined,” she admits.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "According to Chatichai Muksong, a historian at Srinakharinwirot University in Bangkok, three theories exist as to the origins of pad thai.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Before the 1940s, a dish called “fried noodle,” or kuay teaw pad in Thai, had arrived with the Chinese immigration. Rice noodles were cooked using a wok for stir-frying. However, this was just one of many popular stir-fry recipes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "More specifically for pad thai, Chatichai explains that you have to look to the 1940s and the first period under Prime Minister Plaek Phibunsongkhram, who served from 1938 to 1944 and again from 1948 to 1957. In 1942, during World War II, a flood seriously damaged the rice paddies in Chao Phraya River Delta, including Bangkok, for three months, causing the government to launch a campaign to encourage people to trade and eat noodles.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Plaek sought to unify the Thai people in a mass-culturalization project. Some observers believe he is responsible for creating pad thai as we know it today in his quest to launch a national dish based on noodles instead of rice. There are reports of a “noodle is your lunch” government campaign, in which the recipe for pad thai was sent to every restaurant in Thailand, while free carts were given to those wishing to set up street food stalls.",
+            "url": "https://www.bangkokbox.co.uk/bkk-box-blog/blog-post-title-one-g2php",
+            "urls": [
+              {
+                "url": "https://www.bangkokbox.co.uk/bkk-box-blog/blog-post-title-one-g2php",
+                "anchor_text": "reports"
+              }
+            ]
+          },
+          {
+            "text": "While Chatichai acknowledges that the memoirs of some individuals from that era mention that pad thai noodles originated in the first period of Plaek’s prime ministership, he and many others deny this theory. Chatichai argues that while stir-fried noodles were indeed promoted, the actual recipe for what we know as pad thai did not appear until later.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“Although a recipe for fried noodles did appear at this time, it was not the same as the recipe for pad thai,” says Chatichai.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "It was not until the 1960s, when Thailand developed closer relations with the United States, especially due to its support of U.S. military operations and the presence of large numbers of U.S. servicemen in Thailand during the Vietnam War, that the pad thai recipe as we know it today was first documented.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“It could be argued that the arrival of foreign tourists made it necessary to create ‘Thainess’ as a distinctive and exotic identity for sale,” says Chatichai. “Thainess was therefore created in various aspects of society as part of the trend of tourism culture.”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Chatichai believes this ultimately led to the creation of a national recipe known as pad thai—a food with the identity of the Thai nation that was different from just regular “stir-fried noodles.”",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The theory is evidenced in the April 1962 issue of Keumue Maebaan Tang Wittayu lea Toratas (“Housewife’s Manual From Radio and TV”), on a page showing a weekly meal schedule, where “pad thai noodles” is proposed for lunch on Monday, with “stir-fried noodles” listed separately for Thursday.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“This is considered to be the first mention of the name ‘pad thai noodles’ in a written cookbook, which leads me to believe that pad thai emerged during the 1960s, to express the identity of Thai food in the era of globalization,” asserts Chatichai.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "A true fusion food",
+        "main_title": "The Surprising History of Pad Thai",
+        "author": "Isabelle Kliger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "There is no doubt that pad thai is a fusion of Thai and Chinese food cultures.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“Noodles, which are made from rice and then cooked in soup or stir-fried, are a Chinese food that came to Thailand with the high numbers of Chinese people who immigrated here over the last 200 years,” Chatichai says. Whereas Thai cooking favors boiling, grilling, steaming and marinating, the stir-fry method is originally Chinese. “However, pad thai also shows us it is Thai because, while it uses a Chinese-style cooking technique, the flavor is spicy and salty-sour-sweet in a balanced proportion,” adds Chatichai.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The spiciness of pad thai—one of the characteristics that makes it distinctly Thai—can easily be controlled to suit individual tastes, since it depends on the amount of chili flakes added. The other principal flavors—sour, salty and sweet—can each be traced to specific Thai ingredients. The sour taste comes from the paste made from the fruit of the tamarind tree that grows everywhere in Thailand, while the saltiness is produced by the country’s signature fermented fish sauce. As for the sweet flavor, it comes from the sugar of the coconut or palmyra tree.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Meanwhile, other ingredients, such as tofu, eggs, dried shrimp, pickled radishes and ground peanuts, are also typically Thai and known for their health benefits. This is also true of the vegetables and herbs found in the recipe, including bean sprouts, celery leaves, shallots, garlic and banana blossoms.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "As for the pad thai noodles themselves, they are made from Thai rice varieties—a staple of Thai food and one of the country’s proudest exports. According to the Thai Rice Exporters Association, Thailand exported a whopping 8.7 million metric tons of rice in 2023, although that number is projected to be somewhat lower this year.",
+            "url": "https://www.nationthailand.com/thailand/economy/40035400",
+            "urls": [
+              {
+                "url": "https://www.nationthailand.com/thailand/economy/40035400",
+                "anchor_text": "projected"
+              }
+            ]
+          },
+          {
+            "text": "Although the basic ingredients are mostly the same, pad thai may taste different depending on where you go—or even which street food stall you visit—with varying levels of saltiness, sweetness or sourness found around the country. For example, pad thai made with chantabun noodles from Chanthaburi Province in southeast Thailand is a dry dish, while the korat variety from the deep rural inland of Thailand is made with thinner noodles, with a juicier texture and a more distinctly sour taste from the local tamarind.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Pad thai can be a vegetarian dish, but different chefs also put their own spin on it by adding the protein of their choice, such as shrimp, crab, salmon or even Wagyu beef.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“What started out as a very simple Thai dish has become much fancier. Nowadays, you’ll most commonly see it with shrimp, but that wasn’t the case back then,” explains Pam, whose great-great grandfather set up a pharmacy in the Song Wat neighborhood of Bangkok’s vibrant Chinatown more than a century ago. He named it Potong Pharmacy ( potong means ordinary in Chinese), inspired by the belief that a humble name brings happiness.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "The striking 120-year-old Sino-Portuguese building that housed Potong Pharmacy was passed down through the generations to Pam. She opened her restaurant, Potong, in that very spot in 2021 and was awarded a Michelin star in 2023. This year, Potong was named the 17th best restaurant in Asia and 57th in the world by 50 Best, and Pam was recognized as Asia’s best female chef.",
+            "url": "https://www.theworlds50best.com/asia/en/the-list/Potong.html",
+            "urls": [
+              {
+                "url": "https://www.theworlds50best.com/asia/en/the-list/Potong.html",
+                "anchor_text": "17th best restaurant in Asia"
+              },
+              {
+                "url": "https://www.theworlds50best.com/stories/News/the-worlds-50-best-restaurants-2024-51-100-list.html",
+                "anchor_text": "57th in the world"
+              },
+              {
+                "url": "https://www.theworlds50best.com/asia/en/awards/best-female-chef.html",
+                "anchor_text": "Asia’s best female chef"
+              }
+            ]
+          },
+          {
+            "text": "At first glance, the fine-dining spin on pad thai served at Potong bears little resemblance to the traditional street food dish. A visually stunning dish, it looks like a shrimp covered in a Thai flag. On closer inspection, it becomes clear that the flag is in fact made of noodle, or a thin noodle cut and layered into five differently colored strips, two white, two red, one blue, like the country’s flag.",
+            "url": "https://www.britannica.com/topic/flag-of-Thailand",
+            "urls": [
+              {
+                "url": "https://www.britannica.com/topic/flag-of-Thailand",
+                "anchor_text": "Thai flag"
+              }
+            ]
+          },
+          {
+            "text": "“The colors are natural,” emphasizes Pam. “I used red yeast for the red and butterfly pea for the blue.”",
+            "url": "https://www.healthline.com/nutrition/butterfly-pea-flower-benefits",
+            "urls": [
+              {
+                "url": "https://www.healthline.com/nutrition/butterfly-pea-flower-benefits",
+                "anchor_text": "butterfly pea"
+              }
+            ]
+          },
+          {
+            "text": "Underneath the strips of noodle is a single bright orange shrimp—a variety from southern Thailand covered in a thin strip of fried tofu. Between the tofu and the shrimp Pam inserts all the ingredients of pad thai, like finely chopped kaffir lime, bean sprouts and tamarind. One bite, and it explodes with all the flavors one would expect to find in a classic pad thai goong (pad thai with shrimp), just in a concentrated, elevated version.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“When I became aware that so much Thai food has actually been handed down from Chinese immigrants, I wanted to represent a cuisine that is largely unknown, but such a huge part of my heritage,” says Pam, explaining that “classic” Thai dishes like noodle soup, dumplings, rad naa ( Thai chicken and gravy noodles), or any stir-fry cooked in a wok are, in fact, all Thai Chinese.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Pam is quick to emphasize that Thai Chinese food cannot be found outside Thailand, not even in China.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "“Chinese people come to the restaurant expecting Chinese food, and they tell me, ‘This is not Chinese!’ And I reply, ‘No, it’s Thai Chinese!’” she says, chuckling. “But ultimately, I think they are proud of me representing China through the culture of five generations of Chinese immigration to Thailand.”",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Chef Pam’s classic pad thai recipe",
+        "main_title": "The Surprising History of Pad Thai",
+        "author": "Isabelle Kliger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "For the pad thai sauce",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "4 tablespoons ​fish sauce",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "15 tablespoons ​palm sugar​",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "10 tablespoon​s tamarind paste",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1 2/3 cups ​​water",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Simmer all together and mix well, then cool down.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "For the pad thai",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "2 tablespoons dried shrimp",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "½ cup ​​diced yellow firm tofu",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1 tablespoon​ chopped garlic",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1 tablespoon ​preserved radish (chai poh)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "4 pieces of​​ shrimp (cleaned)",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1/4 pound ​​dried pad thai (sen lek) noodles",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1 cup ​​bean sprouts, cleaned",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "¼ cup​​ Chinese chives, cleaned",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In a wok with hot oil, quickly fry the dried shrimp and tofu, then drain and set aside. In the same wok, add garlic and preserved radish, then re-introduce the pre-fried dried shrimp and tofu. Add noodles and enough pad thai sauce (recipe above) that the noodles absorb the sauce. When the noodles are almost done, add the bean sprouts and Chinese chives. Serve and garnish with ingredients listed below.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1 piece of​​ banana blossom",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1 tablespoon​ crushed toasted peanuts",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1 teaspoon​ chili flakes",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "3 stalks ​​of Chinese chives",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "1 lime wedge",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Isabelle Kliger | Read More",
+            "url": "https://www.smithsonianmag.com/author/isabelle-kliger/",
+            "urls": [
+              {
+                "url": "https://www.smithsonianmag.com/author/isabelle-kliger/",
+                "anchor_text": "Read More"
+              }
+            ]
+          },
+          {
+            "text": "A history and politics graduate, Isabelle Kliger is a Barcelona-based freelance writer specializing in food, travel and culture. When not in Barcelona, Kliger can normally be found sampling all the food in Spain, Italy, Greece or Southeast Asia. Her work has appeared in Vogue, Condé Nast Traveler, The Times of London, Eater and others.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Planning Your Next Trip?",
+        "main_title": "The Surprising History of Pad Thai",
+        "author": "Isabelle Kliger",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Explore great travel deals",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "A Note to our Readers Smithsonian magazine participates in affiliate link advertising programs. If you purchase an item through these links, we receive a commission.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "The national dish of Thailand is actually a fusion of Thai and Chinese food cultures",
+        "main_title": "The Surprising History of Pad Thai",
+        "author": "Isabelle Kliger",
+        "language": "en",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Isabelle Kliger | Freelance writer",
+            "url": "https://www.smithsonianmag.com/author/isabelle-kliger/",
+            "urls": [
+              {
+                "url": "https://www.smithsonianmag.com/author/isabelle-kliger/",
+                "anchor_text": "Isabelle Kliger"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "You Might Also Like",
+        "main_title": "The Surprising History of Pad Thai",
+        "author": "Isabelle Kliger",
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "June 4, 2024",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "July 10, 2014",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "January 13, 2017",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "February 19, 2013",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "June 30, 2011",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Chef Pam’s classic pad thai recipe",
+        "main_title": "The Surprising History of Pad Thai",
+        "author": "Isabelle Kliger",
+        "language": "en",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "More about:",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Asian History",
+            "url": "https://www.smithsonianmag.com/tag/asian-history/",
+            "urls": [
+              {
+                "url": "https://www.smithsonianmag.com/tag/asian-history/",
+                "anchor_text": "Asian History"
+              }
+            ]
+          },
+          {
+            "text": "Cultural Heritage",
+            "url": "https://www.smithsonianmag.com/tag/cultural-heritage/",
+            "urls": [
+              {
+                "url": "https://www.smithsonianmag.com/tag/cultural-heritage/",
+                "anchor_text": "Cultural Heritage"
+              }
+            ]
+          },
+          {
+            "text": "Food History",
+            "url": "https://www.smithsonianmag.com/tag/food-history/",
+            "urls": [
+              {
+                "url": "https://www.smithsonianmag.com/tag/food-history/",
+                "anchor_text": "Food History"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-specialty-coffee-cafe-guide-2026",
+  "route": "/nl/blog/bangkok-specialty-coffee-cafe-guide-2026/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Specialty coffee Bangkok: 3 routes en caféchecks | Go2Thailand",
+    "description": "Plan specialty coffee in Bangkok via drie logische routes, officiële locatiechecks, Thaise bonen en een menu-decoder zonder breekbare top-10.",
+    "primaryKeyword": "specialty coffee Bangkok",
+    "secondaryKeywords": ["beste koffie Bangkok", "koffiebars Bangkok", "Thaise koffiebonen"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/bangkok-specialty-coffee-cafe-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Koffie per stadsroute",
+    "title": "Specialty coffee in Bangkok",
+    "accent": "Drie routes, geen breekbare ranglijst",
+    "description": "Kies eerst een corridor en smaakprofiel, controleer daarna locatie, uren en het actuele menu.",
+    "image": "/images/redesign/editorial/bangkok-specialty-coffee-cafe-guide-2026-hero.webp",
+    "imageAlt": "Barista bereidt filterkoffie in een rustige specialty koffiebar in Bangkok",
+    "primaryCta": { "label": "Kies je koffieroute", "href": "#routes" },
+    "secondaryCta": { "label": "Lees het menu", "href": "#menu" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "overview", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Bangkok is te groot voor één zinvolle koffietop. Kies Ari/Ratchathewi, Thong Lor/Ekkamai of Siam/Old Town en controleer dezelfde dag het filiaal, de uren en de beschikbare Thaise bonen.",
+  "blocks": [
+    { "kind": "card-grid", "id": "routes", "title": "Drie logische corridors", "cards": [
+      { "title": "Ari en Ratchathewi", "description": "Combineer een roastery-stop met een rustige ochtend; verplaats niet onnodig tussen verre wijken." },
+      { "title": "Thong Lor en Ekkamai", "description": "Sterke keuze voor Thaise single-origin en cafés rond de Sukhumvit-as." },
+      { "title": "Siam en Old Town", "description": "Koppel koffie aan BACC, musea of de historische stad in plaats van een losse omweg." }
+    ] },
+    { "kind": "checklist", "id": "menu", "title": "Lees vier velden op het menu", "items": ["Herkomst en producent", "Proces en branding", "Bereidingswijze", "Actuele prijs van premium lots"] },
+    { "kind": "callout", "id": "event", "tone": "cream", "title": "World of Coffee Bangkok 2026 is voorbij", "description": "Het officiële evenement vond 7–9 mei 2026 plaats. Gebruik de oude eventdatum niet als actuele activiteit en controleer een volgende editie bij de organisatie." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Welke wijk is het beste voor koffiehoppen?", "answer": "Dat hangt af van je dagroute. Thong Lor/Ekkamai biedt meerdere ankers; Ari/Ratchathewi of Siam kan logischer liggen bij je overige programma." },
+      { "question": "Wat kost specialty coffee in Bangkok?", "answer": "Prijs verschilt per boon, filiaal en bereiding. Controleer het actuele menu en vraag vóór bestellen naar premium lots." },
+      { "question": "Kan ik in elk café werken?", "answer": "Nee. Zitruimte, laptopbeleid, stopcontacten en drukte verschillen; vraag het café en houd een echte coworkingplek als alternatief." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire locatie- en eventchecks", "items": [
+      { "title": "Roots locations", "publisher": "Roots Coffee", "url": "https://shop.rootsbkk.com/pages/location", "checkedAt": "2026-08-01", "note": "Officiële filialen en gepubliceerde uren." },
+      { "title": "Gallery Drip Coffee", "publisher": "Bangkok Art and Culture Centre", "url": "https://www.bacc.or.th/en/directories/62255", "checkedAt": "2026-08-01", "note": "Officiële BACC-directory voor locatie en uren." },
+      { "title": "World of Coffee Bangkok 2026", "publisher": "Specialty Coffee Association", "url": "https://sca.coffee/sca-news/2025/5/16/world-of-coffee-heads-to-bangkok-in-2026-the-third-edition-of-world-of-coffee-asia-3brz5", "checkedAt": "2026-08-01", "note": "Primaire datum- en venuebron voor het inmiddels afgelopen evenement." }
+    ] }
+  ]
+}

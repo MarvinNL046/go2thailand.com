@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { getBlogFunnelContext, BlogFunnelInput, FunnelCta } from '../../lib/blog-funnel-intent';
+import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
 interface Props {
   post: BlogFunnelInput;
@@ -79,7 +80,9 @@ export default function TripFunnelBlock({ post, locale = 'en', placement = 'bott
   const copy = locale === 'nl' ? COPY.nl : COPY.en;
   const ctas = [...ctx.mustCtas, ...ctx.suggestedCtas];
   // Top placement shows fewer (scanner mode), bottom shows full set (highest intent).
-  const shown = placement === 'top' ? ctas.slice(0, 3) : ctas;
+  const shown = (placement === 'top' ? ctas.slice(0, 3) : ctas).map(cta => (
+    locale === 'nl' && !cta.external ? { ...cta, href: normalizeNlInternalHref(cta.href) } : cta
+  ));
   const primary = shown[0];
   const rest = shown.slice(1);
 

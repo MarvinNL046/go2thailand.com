@@ -1,59 +1,76 @@
 ---
-title: "Similan Eilanden 2026: Nieuwe Regels voor Duiken en Snorkelen"
+title: "Similan-regels voor snorkelen en duiken: wat je controleert"
 slug: "similan-islands-diving-snorkelling-new-rules-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "adventure"
-tags: ["Similan Eilanden", "duiken Thailand 2026", "snorkelen Thailand", "regels Similan Eilanden", "duiken Phuket", "Thaise mariene parken", "beste duikplekken Thailand", "Similan eilanden tips", "Thailand avontuurvakantie"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Thailand introduceert strenge nieuwe regels voor duiken en snorkelen bij de Similan Eilanden in het seizoen 2025-2026. Ontdek wat bezoekers moeten weten vóór ze een reis boeken en plan je duikavontuur veilig."
+tags: ["Similan regels", "snorkelen Similan", "duiken Similan", "nationaal park Thailand", "DNP e-ticket"]
+image: "/images/redesign/editorial/similan-islands-diving-snorkelling-new-rules-2026-hero.webp"
+description: "Controleer de actuele Similan-regels voor drijfmiddelen, camera’s, parkregistratie en exploitanten voordat je een tour kiest."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 8
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Aussie Divers Phuket — New Rules for Snorkelling and Scuba Diving in Thailand"
-    url: "https://www.aussiediversphuket.com/new-rules-for-snorkelling-and-scuba-diving-in-thailand/"
-  - name: "DiveRACE — Diving Responsibly: New Regulations for the Similan Islands"
-    url: "https://diverace.com/diving-responsibly-new-regulations-for-the-similan-islands-2/"
-  - name: "DiveHappy — Diving The Similan Islands 2026: A Quick Guide"
-    url: "https://divehappy.com/diving-similan-islands-quick-guide/"
-  - name: "Deevana Hotels — Similan Islands, Thailand: Complete 2026 Visitor Guide"
-    url: "https://www.deevanahotels.com/blog/koh-similan-islands-thailand-travel-guide/"
-  - name: "Love Phuket Tours — Similan Islands Open Season 2025–2026"
-    url: "https://www.lovephukettours.com/similan-islands-season-guide.html"
+  - name: "Department of National Parks — Similan closure and e-ticket information"
+    url: "https://news.dnp.go.th/news/31853"
+  - name: "Department of National Parks — National Parks of Thailand"
+    url: "https://portal.dnp.go.th/"
+  - name: "Tourism Authority of Thailand — Mu Ko Similan National Park"
+    url: "https://www.tourismthailand.org/Attraction/mu-ko-similan-national-park"
 ---
 
-## De Similan Eilanden Zijn Open — Met Nieuwe Regels
+## Eerst de parkstatus, dan de tour
 
-De Similan Eilanden, een keten van elf granieteilanden op ongeveer 70 kilometer van de kust van Phang Nga, worden algemeen beschouwd als een van de [beste duik- en snorkelbestemmingen in Thailand](/best-diving-snorkeling-in-thailand/). Het nationale park opende voor het seizoen 2025-2026 op 15 oktober 2025 en blijft open tot 15 mei 2026. Daarna sluit het park volledig vanwege het regenseizoen, zodat het mariene leven kan herstellen — een slimme zet voor de veiligheid en het behoud van dit paradijs.
+De Similan-eilanden liggen in een nationaal park met seizoenssluiting, bezoekersbeheer en mariene regels. Op 1 augustus 2026 is de eerder gepubliceerde bezoekperiode 2025–2026 voorbij. Een nieuwe opening moet door het Department of National Parks (DNP) worden bevestigd. Boek dus niet op basis van een oude kalender of alleen de verkooptekst van een touroperator.
 
-Dit seizoen heeft het Thaise Ministerie van Natuurlijke Hulpbronnen en Milieu verschillende belangrijke nieuwe regels ingevoerd die gelden voor alle mariene nationale parken, inclusief de Similan Eilanden. Deze voorschriften zijn gepubliceerd in het Koninklijk Gazet en worden nu streng gehandhaafd.
+De regels rond snorkelen, duiken, onderwatercamera’s en parkregistratie zijn bedoeld om bezoekers en kwetsbaar koraal te beschermen. Uitvoering kan per activiteit en parkbesluit worden verduidelijkt. Vraag een exploitant daarom om de actuele officiële grondslag en controleer die bij DNP.
 
-## Nieuwe Snorkelregels
+## Drijfmiddelen voor snorkelaars
 
-De grootste verandering treft snorkelaars. Alle snorkelaars moeten nu altijd een drijfmiddel dragen in het water, tenzij ze een geldig certificaat hebben voor scuba duiken of freediven. Deze regel is bedoeld om accidentele schade aan koraal te voorkomen door zwemmers die de controle over hun drijfvermogen verliezen en op het rif gaan staan of ertegen trappen.
+De aangescherpte mariene parkregels vragen snorkelaars in beginsel een geschikt drijfmiddel te gebruiken. Uitzonderingen kunnen samenhangen met aantoonbare duik- of freedivekwalificaties en de exacte officiële instructie. Ga niet zelf zonder vest het water in omdat je een sterke zwembadzwemmer bent.
 
-Touroperators die vertrekken vanuit Khao Lak en [Phuket](/blog/phuket-travel-guide-2026/) hebben hun uitrustingspakketten daarop aangepast. Boek je een snorkeldagtocht, dan krijg je standaard een zwemvest of opblaasbaar snorkelvest mee.
+Een drijfmiddel vervangt geen begeleiding. Controleer of het goed past, of de gids een briefing geeft en hoe deelnemers worden verdeeld. Vraag ook welke procedure geldt voor iemand die niet comfortabel in open water is.
 
-## Nieuwe Camera Beperkingen voor Duikers
+## Camera’s bij scuba en training
 
-Onderwatercamera's zijn nu alleen toegestaan voor ervaren duikers. Om een camera onder water te gebruiken bij de Similan Eilanden, moet je een Advanced-certificering hebben (PADI, SSI, RAID of gelijkwaardig) of hoger, of minstens 40 geverifieerde gedoken duiken op je logboek. Camera's zijn niet toegestaan tijdens trainingsduiken, tenzij een toegewijde fotograaf is aangewezen door de operator.
+Voor onderwatercamera’s gelden beperkingen die moeten voorkomen dat onervaren duikers hun drijfvermogen verliezen terwijl ze fotograferen. In sectoruitleg worden een gevorderd brevet of aantoonbare duikervaring genoemd. De precieze acceptatie en documentatie laat je vooraf door een vergunde duikoperator bevestigen.
 
-De reden is eenvoudig: onervaren duikers met een camera richten zich vaak op hun scherm in plaats van op hun drijfvermogen, wat het risico op vinvlekken op koraal vergroot. Vergelijkbare [koraalbeschermingsregels zijn ook ingevoerd op Koh Tao](/blog/koh-tao-coral-restoration-eco-diving-rules-2026/), een andere topduikbestemming in Thailand.
+Neem geen camera mee op een trainingsduik zonder expliciete toestemming. Goed drijfvermogen, afstand tot het rif en instructies van de gids gaan altijd voor de opname. Raak niets aan en positioneer geen dier voor een foto.
 
-## Bezoekerslimieten Blijven van Kracht
+## E-ticket en paspoortgegevens
 
-Het nationale park handhaaft nog steeds dagelijkse limieten voor bezoekers. Het aantal duikers en snorkelaars dat per dag het park in mag, is beperkt, dus boek ruim van tevoren aanbevolen tijdens het hoogseizoen van december tot april. [Liveaboard-reizen](/blog/thailand-liveaboard-diving-guide-similan-surin-2026/), die meestal drie tot vijf nachten duren, raken weken van tevoren volgeboekt.
+DNP heeft voor Mu Ko Similan een e-ticketsysteem beschreven. Buitenlandse bezoekers gebruiken daarbij paspoortgegevens; Thaise bezoekers koppelen hun identiteit via de daarvoor bestemde methode. Een operator kan registratie namens deelnemers verwerken, maar jij blijft verantwoordelijk voor juiste gegevens.
 
-## Wat te Verwachten Onder Water
+Vraag vóór betaling:
 
-De Similan Eilanden staan bekend om het kristalheldere zicht dat vaak meer dan 25 meter bedraagt, ontmoetingen met manta's op plekken als Koh Bon en Richelieu Rock, en dramatische onderwater granietblokformaties. De watertemperatuur varieert van 27 tot 30 graden Celsius, dus een 3 mm wetsuit volstaat. Boven water behoren de eilanden ook tot de [mooiste stranden van Thailand](/best-beaches-in-thailand/) en zijn ideaal voor [kayaken en paddleboarden](/blog/best-kayaking-paddleboarding-spots-thailand-2026/) tussen de duiksessies door.
+- of parktoegang is inbegrepen of apart wordt afgerekend;
+- wie het e-ticket registreert;
+- welke paspoortgegevens nodig zijn en hoe die worden beveiligd;
+- welk bewijs je op de reisdag moet tonen;
+- wat er gebeurt als DNP toegang opschort.
 
-## Hoe Kom Je Er?
+Wij noemen geen vaste parkprijs of bezoekerslimiet. Beide kunnen wijzigen en moeten live bij DNP of de exploitant worden gecontroleerd.
 
-De meeste bezoekers vertrekken vanuit Khao Lak, op ongeveer 90 minuten rijden ten noorden van [Phuket Airport](/best-hotels/phuket/). Sneldagochtendtochten duren ruwweg 70 minuten naar de eilanden. Liveaboard-boten vertrekken vanuit Tab Lamu Pier in Khao Lak en bestrijken een breder scala aan duiklocaties over meerdere dagen. Als je vanuit Nederland komt, kun je met KLM of een directe vlucht vanaf Schiphol naar Phuket vliegen voor een makkelijke start van je reis. Voor een langere trip in de regio zijn de [Phi Phi Eilanden](/blog/phi-phi-islands-guide-beyond-tourist-crowds/) en [Koh Lipe](/blog/koh-lipe-maldives-of-thailand-travel-guide-2026/) beide bereikbaar vanuit de Andaman-kust en perfect te combineren met een Similan-bezoek — ideaal voor de beste reistijd buiten het regenseizoen.
+## Kies een operator op uitvoering
 
-## Plan Je Bezoek
+Vergelijk niet alleen de foto’s of de naam van een duiksite. Vraag naar vergunningen, boot, schaduw, noodmiddelen, gidsratio, talen, medische vragen, zuurstofvoorziening en het alternatief wanneer de geplande route niet kan doorgaan. Een verantwoorde operator belooft geen specifiek dier, zicht of vaste stop.
 
-Met de sluiting op 15 mei krimpt het venster voor het huidige seizoen. Als de Similan Eilanden op je lijstje staan, boek dan snel — de mix van bezoekerslimieten en piekseizoensvraag maakt last-minute plekken schaars. Zorg voor [reisverzekering](/blog/travel-insurance-thailand-guide/) voordat je vertrekt, en check de [vereisten voor de Thailand Digital Arrival Card](/blog/thailand-digital-arrival-card-tdac-guide/) als je vanuit het buitenland vliegt. Een goede [eSIM of lokale SIM-kaart](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) houdt je verbonden voor spontane boekingen onderweg. Voor reizigers die de regio invliegen vanuit Singapore is het ook goed om te weten dat [Singapore Airlines een nieuwe non-stoproute naar Noord-Thailand verkent](/blog/singapore-airlines-chiang-mai-nonstop-flights-2026/), wat verbindingen via Changi eenvoudiger kan maken.
+Voor duikers horen brevetniveau, recente ervaring en verzekering in de vergelijking. Voor snorkelaars zijn zwemcomfort, begeleiding en het aantal echte watermomenten belangrijker dan een lange lijst eilanden.
+
+## Parkregels in het water
+
+- Sta of rust niet op koraal.
+- Voer, jaag of raak dieren niet aan.
+- Neem geen zand, schelpen of ander natuurlijk materiaal mee.
+- Houd vinnen en camera-apparatuur onder controle.
+- Volg boeien, zones en instructies van parkpersoneel.
+- Laat afval en losse plastics niet aan boord of in zee belanden.
+
+## Een robuuste Similan-planning
+
+Gebruik Khao Lak of een andere bevestigde vertrekbasis en controleer het exacte pierpunt. Plan marge vóór en na de bootdag. Zeegang en parkbesluiten kunnen het programma veranderen; een verkochte route is geen uitvoeringsgarantie.
+
+Vergelijk een dagtocht met een meerdaagse boot in onze [liveaboardgids voor Similan en Surin](/nl/blog/thailand-liveaboard-diving-guide-similan-surin-2026/). De brede [duik- en snorkelgids](/nl/travel-guides/diving-snorkeling-thailand/) helpt bepalen of de Similan-eilanden überhaupt bij je ervaring passen.
+
+De kern is eenvoudig: controleer eerst of het park officieel toegankelijk is, daarna of jij aan de regels voldoet en pas dan welke operator de voorwaarden goed uitvoert.

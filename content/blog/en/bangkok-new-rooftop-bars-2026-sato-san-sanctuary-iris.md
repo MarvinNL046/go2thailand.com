@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food-drink"
 tags: ["Bangkok rooftop bars", "Sato San", "Sanctuary Bangkok", "Iris rooftop", "Bangkok nightlife 2026", "sky bars"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris-hero.webp"
 description: "Three brand-new rooftop bars have opened in Bangkok in 2026 — Sato San, Sanctuary, and Iris. Here is what each one offers and whether they are worth a visit."
 featured: false
 readingTime: 3
@@ -26,7 +26,7 @@ Bangkok already owns more world-famous rooftop bars than any other city in South
 
 ## 1. Sato San — 32nd Floor, Moxy Bangkok Ratchaprasong
 
-Opened on New Year's Eve 2025, Sato San sits on the 32nd floor of the newly launched Moxy Bangkok in the Ratchaprasong district, right in the heart of the city's [shopping belt](/blog/one-bangkok-shopping-mall-tourist-guide-2026/). The concept is Thai-Isaan meets Japanese izakaya, so expect dishes like [som tam](/blog/som-tam-regional-variations-thailand/) paired with sake flights and yuzu-infused cocktails.
+Opened on New Year's Eve 2025, Sato San sits on the 32nd floor of the newly launched Moxy Bangkok in the Ratchaprasong district, right in the heart of the city's [shopping belt](/blog/one-bangkok-shopping-mall-tourist-guide-2026/). The concept is Thai-Isaan meets Japanese izakaya, so expect dishes like [som tam](/food/som-tam/) paired with sake flights and yuzu-infused cocktails.
 
 The venue has both a sleek indoor lounge and an expansive open-air terrace. Views stretch across the entire Bangkok skyline, making it an excellent sunset destination. Dress code is smart casual — no flip-flops.
 
@@ -54,4 +54,4 @@ The split concept means you can start with a proper sit-down [dinner](/blog/bang
 - **Sanctuary** if you care about design and want a calmer, botanical atmosphere.
 - **Iris & Wild Iris** if you want a full dinner-to-drinks evening in one location.
 
-All three are a clear step above the tourist-packed Lebua Sky Bar crowd and offer a more local, less Instagram-circus experience. If you are still planning where to stay before your evening out, the [Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) can help you pick the right base. For daytime activities nearby, the [Bangkok street food guide](/blog/bangkok-street-food-beginners/) and [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/) are worth reading before you arrive. Planning a fuller evening? The [Bangkok craft beer scene](/blog/bangkok-craft-beer-scene-2026-bars-festivals-guide/) is a solid warm-up before heading to a rooftop, and the [specialty coffee cafés](/blog/bangkok-specialty-coffee-cafe-guide-2026/) work well as a start to the afternoon. If you are arriving by train from elsewhere in Thailand, check the [Bangkok Chiang Mai sleeper train guide](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) or the [Ayutthaya day trip guide](/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/) for how to combine a temple visit with an evening rooftop bar stop.
+All three are a clear step above the tourist-packed Lebua Sky Bar crowd and offer a more local, less Instagram-circus experience. If you are still planning where to stay before your evening out, the [Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) can help you pick the right base. For daytime activities nearby, the [Bangkok street food guide](/blog/best-street-food-markets-bangkok/) and [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/) are worth reading before you arrive. Planning a fuller evening? The [Bangkok craft beer scene](/blog/bangkok-craft-beer-scene-2026-bars-festivals-guide/) is a solid warm-up before heading to a rooftop, and the [specialty coffee cafés](/blog/bangkok-specialty-coffee-cafe-guide-2026/) work well as a start to the afternoon. If you are arriving by train from elsewhere in Thailand, check the [Bangkok Chiang Mai sleeper train guide](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) or the [Ayutthaya day trip guide](/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/) for how to combine a temple visit with an evening rooftop bar stop.

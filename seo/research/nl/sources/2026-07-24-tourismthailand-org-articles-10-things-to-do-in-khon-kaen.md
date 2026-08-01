@@ -1,0 +1,40 @@
+# DFS parsed source — https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen
+
+**Captured:** 2026-07-24T17:49:04.666Z  
+**Cost:** 0.00015  
+**HTTP status:** 200
+
+# 10 THINGS TO DO IN KHON KAEN
+
+Share to
+
+1. Phra Mahathat Kaen Nakhon (พระมหาธาตุแก่นนคร), Wat Nong Waeng (the 9-storeyed stupa) is a temple that enshrines the Buddha’s relics and collects the Buddhist scriptures. Each of the door panels and windows on each floor is carved with pictures of the Jataka stories, the Buddha’s life, designated Buddha images for 7 days of the week, and 16 Realms of Brahmas. On the top floor, at the 9th storey is enshrined the Buddha’s relics in a moveable throne and is a scenic point where visitors can admire the panoramic view of Khon Kaen town.
+
+2. Phrathat Kham Kaen (พระธาตุขามแก่น) situated at Wat Chetiyaphum, Ban Kham, Mu 1, Tambon Ban Kham, Amphoe Nam Phong, Khon Kaen province, is a sacred place of the town. Ban Kham used to be a city for 2,000 years since -43 CE. Today, it houses relics and Buddha images inside the stupa. Phrathat Kham Kaen Homage Paying and Celebration Festival is held annually on the full moon day of the 6th lunar month (May).
+
+3. Maha Rattana Chedi Si Tri Lokkathat (Wat Thung Setthi) (มหารัตนเจดีย์ศรีไตรโลกธาตุ) (วัดทุ่งเศรษฐี) is an exquisite stupa representing a perfect combination of contemporary and Isan folk arts. The stupa was built according to a belief in the convergence of the three worlds: heaven, human world, and the underworld. Underneath the Chedi is also enshrined the aesthetic Buddha image, Phra Ong Dam as well as is a Dhamma puzzle room. Visitors who come to pay homage to the Chedi can learn about the three major pagodas of the three worlds including Chedi Chula Mani located on the second heaven of Buddhist Cosmology, Naga Chedi (underworld), and Maha Rattana Chedi Si Trai Lokkathat (human world). It is believed that worshipping this particular pagoda equals to worshipping three sacred pagodas of the three worlds.
+
+4. Sim Wat Chai Si, and Hup Taem Sin Sai (สิมวัดไชยศรีและฮูปแต้มสินไซ) is an old temple established since 1965. It comprises an important building, Sim or an Isan folk ubosot that features beautiful murals, so-called Hup Taem, depicting Buddhist related stories, culture, traditions, Isan people’s lifestyle, and local beautiful literature, Sang Sin Sai.
+
+5. King Cobra Village (หมู่บ้านงูจงอาง) The King Cobra show at Ban Khok Sa-nga is publicly well-known. Almost every household in the village raises king cobra underneath the house. To make it more attractive, the show offers a variety of performances; for example, a snake dancing and a boxing between man and king cobra. Many villagers have become famous from their performances and have been known by aliases; such as, Karong Noi Mueang Isan, Thong Kham Lukthongchai, etc. In addition, Wat Si Thamma is a place that provides the snake show by the King Cobra Club of Thailand as well as raises different breeds of snakes in cages with signboards providing information about snakes. The show is open daily during 8.00 a.m. - 5.00 p.m. On the route before arriving at Wat Si Thamma, visitors can also watch the snake performances by locals in the village and donate money for an admission fee as they wish.
+
+6. Phu Pha Man National Park (อุทยานแห่งชาติภูผาม่าน) is a limestone mountain range with a sheer cliff plummeting down that looks like a huge curtain. The forestland is abundant with evergreen and mixed forests, which keep the cool atmosphere almost all year-round. Some attractions nearby include Tham Khang Khao, Tham Phu Ta Lo, Tham Phra, Namtok Tat Fa, etc.
+
+7. Ubolratana Dam (เขื่อนอุบลรัตน์) is served as a multi-purpose dam for electricity generation, agriculture, fisheries, flood prevention, transportation including a recreational site for the people of Khon Kaen. Within the Dam’s area are provided restaurants, accommodation, and some activities; for instance, a boat ride to go sightseeing, admiring a garden of plant varieties found in literature, a garden of dinosaur sculptures, as well as a golf course service.
+
+8. Phu Wiang Fossil Research Centre and Dinosaur Museum (ศูนย์ศึกษาวิจัย และ พิพิธภัณฑ์ไดโนเสาร์ภูเวียง) is a research and study centre that provides knowledge on geology to the public. The Museum’s building is divided into 3 zones: service, education and exhibition zones. The exhibition zone showcases the origin of the universe, rocks, minerals, fossils, and models of dinosaurs.
+
+9. Ton Tan Market (ตลาดต้นตาล) is a new tourist attraction and a recreational site in a pleasant garden atmosphere amidst more than 40 rai of a shady green area. Parking space is available for more than 1,500 cars. Open daily between 4.00 p.m. to 1.00 a.m.
+
+10. Matmi Silk of Amphoe Chonnabot (ผ้าไหมมัดหมี่อำเภอชนบท) is a production centre of world-renowned Matmi silk textile that features unique and beautiful designs as a trademark of Khon Kaen province.
+
+5 0%
+
+4 0%
+
+3 0%
+
+2 0%
+
+1 0%
+

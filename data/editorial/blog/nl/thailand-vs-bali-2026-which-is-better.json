@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-vs-bali-2026-which-is-better",
+  "route": "/nl/blog/thailand-vs-bali-2026-which-is-better/",
+  "cluster": "destination-guides",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand of Bali? Eerlijke vergelijking | Go2Thailand",
+    "description": "Vergelijk Thailand en Bali op schaal, reistempo, cultuur, kust en vervoer. Geen absolute winnaar: jouw reisstijl bepaalt de keuze.",
+    "primaryKeyword": "Thailand of Bali",
+    "secondaryKeywords": ["Thailand versus Bali", "Bali of Thailand vakantie", "Thailand Bali vergelijken"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/thailand-vs-bali-2026-which-is-better/"
+  },
+  "hero": {
+    "eyebrow": "Land of eiland?",
+    "title": "Thailand of Bali",
+    "accent": "Kies op reisvorm",
+    "description": "Thailand geeft meer regionale variatie; Bali brengt kust en binnenland compacter samen. Jouw tempo bepaalt wat beter past.",
+    "image": "/images/redesign/editorial/thailand-vs-bali-2026-which-is-better-hero-v2.webp",
+    "imageAlt": "Tropische kust en tempellandschap als visuele vergelijking tussen Thailand en Bali",
+    "primaryCta": { "label": "Vergelijk de keuzes", "href": "#vergelijking" },
+    "secondaryCta": { "label": "Snelle keuze", "href": "#keuzehulp" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "country", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kies Thailand voor meerdere sterk verschillende regio’s en veel eilandvariatie. Kies Bali wanneer je kust, Balinese cultuur en binnenland vanuit enkele bases wilt combineren. Geen van beide is algemeen beter.",
+  "blocks": [
+    { "kind": "comparison", "id": "vergelijking", "title": "Het echte verschil", "options": [{ "title": "Thailand", "description": "Een landroute met Bangkok, noordelijke cultuur en keuze uit verschillende kustregio’s; grotere afstanden vragen selectie.", "label": "Veel variatie" }, { "title": "Bali", "description": "Eén eiland met kust, centrale hooglanden en Balinese hindoeïstische cultuur; verkeer kan korte afstanden alsnog vertragen.", "label": "Compacter" }] },
+    { "kind": "card-grid", "id": "keuzehulp", "eyebrow": "Kies op prioriteit", "title": "Wat weegt het zwaarst?", "cards": [{ "title": "Eilandvariatie", "description": "Thailand biedt meer afzonderlijke eiland- en kuststijlen." }, { "title": "Surfen en eilandbasis", "description": "Bali past logisch als surfen en één eiland centraal staan." }, { "title": "Stad en noorden", "description": "Bangkok en Chiang Mai geven Thailand een sterk contrast." }, { "title": "Balinese cultuur", "description": "Kies Bali wanneer juist de lokale hindoeïstische cultuur de hoofdreden is." }] },
+    { "kind": "callout", "id": "budget", "tone": "cream", "title": "Vergelijk geen verouderde dagbudgetten", "description": "Wisselkoers, seizoen en locatie veranderen prijzen. Vergelijk voor jouw data dezelfde hotelcategorie, transfers en gewenste activiteiten." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Is Bali goedkoper dan Thailand?", "answer": "Dat is niet betrouwbaar algemeen te zeggen. Vergelijk actuele kosten voor dezelfde data, locatie en reisstijl." }, { "question": "Waar zijn de beste stranden?", "answer": "Thailand geeft meer eilandkeuze; Bali combineert strand gemakkelijk met het eilandinterieur. De beste keuze hangt af van zwemmen, surfen, rust en seizoen." }, { "question": "Welke bestemming is beter voor twee weken?", "answer": "Beide kunnen. In Thailand kies je enkele regio’s; op Bali beperk je het aantal bases en houd je rekening met verkeer." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële bestemmingsbronnen", "items": [{ "title": "Trip Planner", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner", "checkedAt": "2026-08-01" }, { "title": "Bali destination", "publisher": "Indonesia Travel", "url": "https://www.indonesia.travel/in/en/destination/bali-nusa-tenggara/bali/bali", "checkedAt": "2026-08-01" }, { "title": "Reisadvies Indonesië", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/indonesie", "checkedAt": "2026-08-01" }] }
+  ]
+}

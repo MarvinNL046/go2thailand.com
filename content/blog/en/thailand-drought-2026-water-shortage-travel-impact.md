@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Thailand drought 2026", "water shortage Thailand", "Thailand dry season", "Songkran water", "Thailand travel tips", "Thailand weather 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-drought-2026-water-shortage-travel-impact-hero.webp"
 description: "Thailand is bracing for a significant drought in 2026 with a projected water shortage of over 4,450 million cubic metres. Here is what it means for tourists."
 featured: false
 readingTime: 3
@@ -53,7 +53,7 @@ However, travellers heading to rural areas, national parks, or northern province
 
 ## Tips for Travelling During the Drought
 
-- Stay hydrated. Carry water at all times, especially outside major cities. Check our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) for current costs including bottled water.
+- Stay hydrated. Carry water at all times, especially outside major cities. Check our [Thailand budget guide](/thailand-index/budget/) for current costs including bottled water.
 - Check national park conditions before visiting. Some waterfalls may be reduced to a trickle in March and April. Our [camping in Thailand national parks guide](/blog/camping-thailand-national-parks-guide-2026/) lists the parks most affected by seasonal conditions.
 - Be respectful of water use in rural communities where supplies may be limited.
 - If visiting [Chiang Mai](/city/chiang-mai/) or the north, pack a reusable N95 mask for haze days.

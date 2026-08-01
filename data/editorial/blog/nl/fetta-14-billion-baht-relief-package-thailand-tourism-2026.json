@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "fetta-14-billion-baht-relief-package-thailand-tourism-2026",
+  "route": "/nl/blog/fetta-14-billion-baht-relief-package-thailand-tourism-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "FETTA-toerismevoorstel 2026: archief | Go2Thailand",
+    "description": "Het gemelde pakket van 14 miljard baht was een FETTA-branchevoorstel, geen bevestigde Thaise overheidsregeling. Lees de gecontroleerde archiefstatus.",
+    "primaryKeyword": "FETTA toerismevoorstel 2026",
+    "secondaryKeywords": ["FETTA 14 miljard baht", "Thailand toerisme steunvoorstel", "FETTA relief package"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/fetta-14-billion-baht-relief-package-thailand-tourism-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Archief · voorstel uit maart 2026",
+    "title": "FETTA vroeg om toerismesteun",
+    "accent": "Geen bevestigde regeling",
+    "description": "De gemelde 14 miljard baht was een verzoek van brancheorganisaties. We vonden geen primair besluit dat het pakket onder dezelfde naam activeerde.",
+    "image": "/images/redesign/editorial/fetta-14-billion-baht-relief-package-thailand-tourism-2026-hero.webp",
+    "imageAlt": "Sober overleg van vertegenwoordigers uit de Thaise toerismesector",
+    "primaryCta": { "label": "Bekijk de status", "href": "#status" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Het bedrag van 14 miljard baht hoorde bij een FETTA-branchevoorstel uit maart 2026. Zonder primair overheidsbesluit behandelen we het niet als goedgekeurde steunregeling.",
+  "blocks": [
+    { "kind": "comparison", "id": "status", "title": "Voorstel versus besluit", "options": [
+      { "title": "Wat werd gemeld", "description": "Toerismeorganisaties vroegen TAT en de overheid om een pakket ter ondersteuning van de sector.", "label": "Brancheverzoek" },
+      { "title": "Wat niet is bevestigd", "description": "Geen gevonden primaire publicatie activeert hetzelfde pakket met dezelfde naam en omvang.", "label": "Geen regeling" },
+      { "title": "Latere programma’s", "description": "Andere TAT- en overheidscampagnes hebben eigen doelen en voorwaarden en zijn geen bewijs van aanneming.", "label": "Afzonderlijk" }
+    ] },
+    { "kind": "callout", "id": "geen-aanvraag", "tone": "warning", "title": "Geen aanvraag- of kortingspagina", "description": "Deze archiefroute bevat bewust geen promotiecode, vaste prijs, aanvraaglink of affiliate-uitgang." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is het pakket van 14 miljard baht goedgekeurd?", "answer": "Niet op basis van de gecontroleerde primaire bronnen. Het bedrag is aan een branchevoorstel gekoppeld." },
+      { "question": "Kunnen reizigers hier korting uit krijgen?", "answer": "Nee. Dit archief beschrijft geen actieve regeling of recht voor reizigers." },
+      { "question": "Waarom blijft de pagina online?", "answer": "Om de oorspronkelijke claim te corrigeren en het verschil tussen een voorstel en een besluit zichtbaar te houden." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Statusbronnen", "items": [
+      { "title": "Tourism groups seek Bt14bn relief as oil crisis dents travel confidence", "publisher": "Nation Thailand", "url": "https://www.nationthailand.com/news/tourism/40064070", "checkedAt": "2026-08-01", "note": "Secundaire bron voor het oorspronkelijke branchevoorstel." },
+      { "title": "TAT sets Thailand Tourism Next for value growth plan", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/01/tat-sets-thailand-tourism-next-for-value-growth-plan/", "checkedAt": "2026-08-01", "note": "Primaire context voor de bredere 2026-strategie." },
+      { "title": "Thailand Tourism Update at TTM+ 2026", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatnews.org/2026/06/thailand-tourism-update-at-ttm-2026-reinforces-quality-led-growth-direction/", "checkedAt": "2026-08-01", "note": "Latere primaire context; geen bevestiging van het FETTA-pakket." }
+    ] }
+  ]
+}

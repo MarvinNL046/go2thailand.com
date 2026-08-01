@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["banana beach", "koh hey", "phuket", "tripadvisor 2026", "best beaches thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/banana-beach-koh-hey-asia-best-beach-tripadvisor-2026-hero.webp"
 description: "Banana Beach on Koh Hey near Phuket tops Tripadvisor's 2026 Travelers' Choice Awards as Asia's most beautiful beach. Here's what to expect and how to visit."
 featured: false
 readingTime: 3
@@ -43,7 +43,7 @@ The beach does get busy during peak hours (roughly 11:00–14:00) when day-trip 
 
 Most visitors reach Koh Hey from **Chalong Pier** in southern Phuket. Speedboats take about 15 minutes and cost around 800–1,500 baht for a round-trip day tour, depending on the operator and inclusions. Longtail boats are cheaper but take longer (30–40 minutes).
 
-Several [Phuket](/city/phuket/top-10-attractions/)-based tour operators offer half-day and full-day packages that include snorkeling stops, lunch, and beach time on Koh Hey. You can also arrange a private longtail boat for more flexibility. If you want to combine this trip with island hopping, our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) is a great starting point — nearby options include the [Phi Phi Islands](/city/phuket/attractions/phi-phi-islands/) and [Koh Lipe](/islands/koh-lipe/).
+Several [Phuket](/city/phuket/top-10-attractions/)-based tour operators offer half-day and full-day packages that include snorkeling stops, lunch, and beach time on Koh Hey. You can also arrange a private longtail boat for more flexibility. If you want to combine this trip with island hopping, our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) is a great starting point — nearby options include the [Phi Phi Islands](/city/phuket/attractions/) and [Koh Lipe](/islands/koh-lipe/).
 
 ## Good to Know Before You Go
 

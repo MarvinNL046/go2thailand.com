@@ -1,0 +1,90 @@
+{
+  "captured_at": "2026-07-26T14:39:30.740Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "muay thai training thailand cost",
+  "costs": {
+    "suggestions": 0.01284,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "muay thai training thailand cost",
+    "cost of muay thai training in thailand",
+    "cost of training muay thai in thailand",
+    "muay thai training in thailand cost",
+    "muay thai training in thailand cost per month",
+    "thailand muay thai training camp cost",
+    "training muay thai in thailand cost"
+  ],
+  "keywords": [
+    {
+      "keyword": "cost of muay thai training in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cost of training muay thai in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "muay thai training in thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "muay thai training in thailand cost per month",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "muay thai training thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand muay thai training camp cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "training muay thai in thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

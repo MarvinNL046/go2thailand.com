@@ -1,0 +1,50 @@
+{
+  "captured_at": "2026-07-30T17:20:56.876Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "koh samui street food",
+  "costs": {
+    "suggestions": 0.01236,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "koh samui street food",
+    "best street food koh samui",
+    "street food koh samui"
+  ],
+  "keywords": [
+    {
+      "keyword": "best street food koh samui",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "koh samui street food",
+      "volume": 10,
+      "kd": 46,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "street food koh samui",
+      "volume": 10,
+      "kd": 46,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

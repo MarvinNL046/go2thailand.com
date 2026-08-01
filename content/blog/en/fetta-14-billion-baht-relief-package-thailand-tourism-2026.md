@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand tourism", "FETTA", "relief package", "oil prices", "domestic tourism", "aviation"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/fetta-14-billion-baht-relief-package-thailand-tourism-2026-hero.webp"
 description: "Thailand's tourism federation proposes a massive 14-billion-baht stimulus to shield the industry from rising fuel costs and global oil volatility."
 featured: false
 readingTime: 3
@@ -45,4 +45,4 @@ Alongside the FETTA proposal, the Airlines Association of Thailand (AAT) has bee
 
 If approved, the relief package could help keep Thailand travel affordable despite global fuel price pressures. The Songkran airfare discounts are already confirmed, making April 2026 a potentially excellent time for budget-conscious travelers to explore the country. For visitors planning trips later in 2026, the broader relief measures could translate into more competitive pricing across domestic flights and tour packages. Travelers worried about [rising costs in Thailand due to the Middle East crisis](/blog/thailand-rising-costs-tourists-middle-east-crisis-2026/) should keep an eye on how these proposals develop.
 
-In the meantime, foreign hotel investment continues to pour in — [12 billion baht in hotel deals in 2026](/blog/foreign-investors-buying-thai-hotels-12-billion-baht-2026/) signals that long-term confidence in Thai tourism remains strong. And for a broader look at Thailand's economic tourism ambitions, the government's [3-trillion-baht Amazing 5 economy target](/blog/thailand-3-trillion-baht-tourism-target-amazing-5-economy-2026/) remains a driving force behind both policy and investment decisions. Those planning a trip can also check the [best time to visit Thailand](/blog/best-time-to-visit-thailand/) and get a sense of [how much two weeks in Thailand costs in 2026](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
+In the meantime, foreign hotel investment continues to pour in — [12 billion baht in hotel deals in 2026](/blog/foreign-investors-buying-thai-hotels-12-billion-baht-2026/) signals that long-term confidence in Thai tourism remains strong. And for a broader look at Thailand's economic tourism ambitions, the government's [3-trillion-baht Amazing 5 economy target](/blog/thailand-3-trillion-baht-tourism-target-amazing-5-economy-2026/) remains a driving force behind both policy and investment decisions. Those planning a trip can also check the [best time to visit Thailand](/blog/best-time-to-visit-thailand/) and get a sense of [how much two weeks in Thailand costs in 2026](/thailand-index/budget/).

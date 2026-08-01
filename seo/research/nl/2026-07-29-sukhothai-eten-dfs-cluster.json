@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T22:06:58.479Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "sukhothai eten",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "sukhothai eten"
+  ],
+  "keywords": [
+    {
+      "keyword": "sukhothai eten",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

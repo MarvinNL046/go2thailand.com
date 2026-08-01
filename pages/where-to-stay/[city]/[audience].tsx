@@ -169,7 +169,7 @@ export default function WhereToStayAudiencePage({ data, relatedLinks }: Props) {
                   const subId = `pseo-where-to-stay-${data.citySlug}-${data.audience}`;
                   const url = withPlacementSubId(aff?.trip ?? TRIP_GENERIC, subId, 'hero');
                   return (
-                    <a href={url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-4 py-1.5 text-sm font-semibold hover:bg-red-700">Check rates in {data.cityName} →</a>
+                    <a href={url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-4 py-1.5 text-sm font-semibold hover:bg-red-700">Check current stays in {data.cityName} →</a>
                   );
                 })()}
               </div>
@@ -185,7 +185,7 @@ export default function WhereToStayAudiencePage({ data, relatedLinks }: Props) {
           </div>
         </section>
 
-        <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Comparison table */}
           {data.aiContent.comparisonTable && data.aiContent.comparisonTable.length > 0 && (
             <section>
@@ -432,7 +432,7 @@ export default function WhereToStayAudiencePage({ data, relatedLinks }: Props) {
               </section>
             ) : null;
           })()}
-        </main>
+        </div>
       </div>
 
       {/* Sticky mobile CTA */}
@@ -479,9 +479,17 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths, fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
+export const getStaticProps: GetStaticProps<Props> = async ({ params, locale }) => {
   const city = params?.city as string;
   const audience = params?.audience as string;
+  if (locale === 'nl') {
+    return {
+      redirect: {
+        destination: `/nl/best-hotels/${city}/`,
+        permanent: true,
+      },
+    };
+  }
   const file = path.join(process.cwd(), 'data', 'pseo', 'where-to-stay', `${city}-${audience}.json`);
   if (!fs.existsSync(file)) return { notFound: true, revalidate: 60 };
   const data = JSON.parse(fs.readFileSync(file, 'utf8')) as PseoData;

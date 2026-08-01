@@ -1,0 +1,30 @@
+{
+  "captured_at": "2026-07-29T10:41:00.870Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "chanthaburi restaurants",
+  "costs": {
+    "suggestions": 0.01212,
+    "related": 0.01212,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "chanthaburi restaurants"
+  ],
+  "keywords": [
+    {
+      "keyword": "chanthaburi restaurants",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    }
+  ],
+  "competitors": []
+}

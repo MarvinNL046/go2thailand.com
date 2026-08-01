@@ -44,7 +44,7 @@ We've spent years exploring [Chiang Mai's food scene](https://go2-thailand.com/c
 
 ## 1. What Is Khao Soi? The Anatomy of a Perfect Bowl
 
-**Khao soi** (ข้าวซอย) literally translates to "cut rice," though the name is somewhat misleading—it's not rice at all, but a noodle curry that's become synonymous with Northern Thai identity. When we first explored the morning markets of Chiang Mai, we watched vendors prepare this dish with a ritualistic precision that spoke to its cultural importance.
+**Khao soi** (ข้าวซอย) literally translates to "cut rice," though the name is somewhat misleading—it's not rice at all, but a noodle curry that's become synonymous with Northern Thai identity.
 
 The dish consists of several distinct components that work together in harmony. The foundation is a rich, turmeric-based curry broth infused with coconut milk, spices, and meat stock. Soft egg noodles are cooked separately and placed in a bowl, then covered with this aromatic curry. What makes khao soi instantly recognizable is the topping: a generous handful of crispy fried noodles that add textural contrast and a subtle sweetness. Fresh garnishes—pickled mustard greens, shallots, and lime—are served on the side, allowing each diner to customize their bowl.
 
@@ -74,7 +74,7 @@ The meat—usually chicken, pork, or duck—is simmered in this broth until tend
 
 **Khao soi** is far more than a dish—it's a historical document written in flavors. Understanding its origins helps explain why it's so deeply woven into Northern Thai identity and why locals can become quite passionate about their preferred version.
 
-The dish's exact origins are debated among food historians, but the most widely accepted narrative traces khao soi to the Shan people of Burma (Myanmar) and the trade routes that connected Chiang Mai to the broader Silk Road. When we visited the [Northern region](https://go2-thailand.com/region/northern/) and spoke with local food historians, they emphasized that khao soi represents a fusion point—where Burmese curry traditions met Chinese noodle culture and Thai ingredients and techniques.
+The dish's exact origins are debated among food historians, but the most widely accepted narrative traces khao soi to the Shan people of Burma (Myanmar) and the trade routes that connected Chiang Mai to the broader Silk Road.
 
 ### Shan and Burmese Influences
 
@@ -92,7 +92,7 @@ The Shan people, who inhabit regions of Myanmar and have significant populations
 
 ## 3. Regional Variations: Khao Soi Across Northern Thailand
 
-While **khao soi** is most famous as a Chiang Mai dish, variations exist throughout the Northern region and even in other parts of Thailand. During our time exploring Northern Thailand, we discovered that each area has subtle—and sometimes not-so-subtle—differences in how they prepare this beloved noodle curry. The same regional variation applies to [som tam](/blog/som-tam-regional-variations-thailand/)—northern versions are milder and more herbaceous than the fiery Isaan originals. And if you want to understand [how spicy northern Thai food really is](/blog/is-thai-food-spicy-guide/) compared to the south, our spice guide breaks it down region by region.
+While **khao soi** is most famous as a Chiang Mai dish, variations exist throughout the Northern region and even in other parts of Thailand. The same regional variation applies to [som tam](/food/som-tam/)—northern versions are milder and more herbaceous than the fiery Isaan originals. And if you want to understand [how spicy northern Thai food really is](/blog/is-thai-food-spicy-guide/) compared to the south, our spice guide breaks it down region by region.
 
 ### Chiang Mai Style: The Gold Standard
 
@@ -104,7 +104,7 @@ Travel north to Chiang Rai, and you'll notice khao soi takes on a different char
 
 ### Nan and Phrae: The Subtle Cousins
 
-In smaller Northern cities like Nan and Phrae, khao soi exists but isn't as dominant in the food culture as it is in Chiang Mai. The versions we encountered tended to be lighter and sometimes slightly sweeter, with less emphasis on the crispy noodle topping. These regional variations remind us that Thai cuisine isn't monolithic—even within a single dish, geography and local preference create meaningful differences. The same principle applies to [som tam](/blog/som-tam-regional-variations-thailand/), which transforms completely between Isaan, Bangkok, and the north.
+In smaller Northern cities like Nan and Phrae, khao soi exists but isn't as dominant in the food culture as it is in Chiang Mai. The versions we encountered tended to be lighter and sometimes slightly sweeter, with less emphasis on the crispy noodle topping. These regional variations remind us that Thai cuisine isn't monolithic—even within a single dish, geography and local preference create meaningful differences. The same principle applies to [som tam](/food/som-tam/), which transforms completely between Isaan, Bangkok, and the north.
 
 | Region | Broth Character | Spice Level | Signature Variation |
 |--------|-----------------|-------------|---------------------|
@@ -113,28 +113,12 @@ In smaller Northern cities like Nan and Phrae, khao soi exists but isn't as domi
 | **Nan** | Lighter, slightly sweet | Mild | Less emphasis on crispy noodles |
 | **Bangkok (adapted)** | Lighter, more coconut milk | Variable | Often served with rice instead of noodles |
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & [Activities](https://getyourguide.tpo.lv/GuAFfGGK)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
 ## 4. How to Order Khao Soi Like a Local
 
-Walking up to a khao soi stall for the first time can feel intimidating if you don't know what to say. But the ordering process is straightforward once you know the key phrases. During our years in Chiang Mai, we watched tourists stumble through orders and locals rattle them off in seconds. Here's how to sound like you know what you're doing.
+Walking up to a khao soi stall for the first time can feel intimidating if you don't know what to say. But the ordering process is straightforward once you know the key phrases. Here's how to sound like you know what you're doing.
 
 ### The Protein Choice
 
@@ -154,7 +138,7 @@ Thai vendors expect you to specify spice level. Use these phrases:
 - **Pet** (เผ็ด) — Spicy
 - **Pet mak** (เผ็ดมาก) — Very spicy
 
-Most vendors will default to medium spice if you don't specify, which is usually appropriate for visitors. In our experience, asking for "pet nit noi" is a safe middle ground—you get authentic flavor without overwhelming heat. For a full breakdown of spice phrases and how to handle heat across all Thai dishes, read our [guide to Thai food spice levels](/blog/is-thai-food-spicy-guide/).
+Most vendors will default to medium spice if you don't specify, which is usually appropriate for visitors. For a full breakdown of spice phrases and how to handle heat across all Thai dishes, read our [guide to Thai food spice levels](/blog/is-thai-food-spicy-guide/).
 
 ### Additional Requests
 
@@ -179,13 +163,13 @@ You can also customize your bowl with these requests:
 
 ## 5. Where to Find the Best Khao Soi in Chiang Mai
 
-Chiang Mai has hundreds of khao soi vendors, ranging from hole-in-the-wall morning stalls to established restaurants. Finding the best bowl often comes down to timing, location, and personal preference. During our three years in Chiang Mai, we developed a methodology for identifying great khao soi: look for lines of local customers during breakfast hours, check if the broth is being actively simmered (not sitting in a pot all day), and taste before deciding on a favorite.
+Chiang Mai has hundreds of khao soi vendors, ranging from hole-in-the-wall morning stalls to established restaurants. Finding the best bowl often comes down to timing, location, and personal preference.
 
 ### Morning Market Stalls: The Real Deal
 
-The most authentic and affordable khao soi comes from morning market stalls. These vendors typically set up around 6 or 7 a.m. and operate until mid-morning. The [Chiang Mai night markets](https://go2-thailand.com/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/) and morning markets are where locals eat, and the quality-to-price ratio is unbeatable. While you are in the market, you will also spot vendors selling [som tam](/blog/som-tam-regional-variations-thailand/) and [mango sticky rice](/blog/mango-sticky-rice-season-thailand/)—two other dishes worth understanding before you order. Expect to pay 40–60 THB (USD $1.10–$1.65) for a generous bowl. The broth is usually freshly made each morning, and the ingredients are top-quality because vendors know their reputation depends on it.
+The most authentic and affordable khao soi comes from morning market stalls. These vendors typically set up around 6 or 7 a.m. and operate until mid-morning. The [Chiang Mai night markets](https://go2-thailand.com/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/) and morning markets are where locals eat, and the quality-to-price ratio is unbeatable. While you are in the market, you will also spot vendors selling [som tam](/food/som-tam/) and [mango sticky rice](/food/mango-sticky-rice/)—two other dishes worth understanding before you order. Expect to pay 40–60 THB (USD $1.10–$1.65) for a generous bowl. The broth is usually freshly made each morning, and the ingredients are top-quality because vendors know their reputation depends on it.
 
-When we visited Chiang Mai's morning markets, we noticed that the best stalls had a few things in common: a line of customers waiting (even at 7 a.m.), a large pot of broth actively simmering, and vendors who seemed to know most of their customers by name. These are the places worth seeking out.
+These are the places worth seeking out.
 
 ### Established Restaurants: Consistency and Comfort
 
@@ -195,22 +179,6 @@ If you prefer a sit-down experience with more comfort, Chiang Mai has several we
 
 The Old City and areas around the night bazaar have khao soi vendors catering to tourists. These aren't necessarily bad—some are quite good—but prices are typically inflated (100–200 THB or more), and quality can be inconsistent. Our advice: eat khao soi where locals eat it. Ask your [hotel](https://booking.tpo.lv/2PT1kR82) staff or a local friend where they get their khao soi, and go there.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -255,7 +223,7 @@ The key distinction is that **khao soi** is the only dish in this list that comb
 
 ## 8. Cooking Khao Soi at Home: A Beginner's Guide
 
-If you fall in love with khao soi during your time in Thailand, you might want to recreate it at home. While the authentic version requires time and specific ingredients, a respectable homemade khao soi is absolutely achievable. During our time in Chiang Mai, we took a [cooking class](https://go2-thailand.com/best-cooking-classes-in-thailand/) that included khao soi, and we've been making it at home ever since. Read our [detailed guide to Thai cooking classes in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) to choose the right school—several teach khao soi paste from scratch.
+If you fall in love with khao soi during your time in Thailand, you might want to recreate it at home. While the authentic version requires time and specific ingredients, a respectable homemade khao soi is absolutely achievable. Read our [detailed guide to Thai cooking classes in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) to choose the right school—several teach khao soi paste from scratch.
 
 ### Essential Ingredients
 
@@ -275,22 +243,6 @@ The process is straightforward: fry the curry paste in oil to release its flavor
 
 The most important step is toasting the curry paste in oil before adding liquid—this develops the flavors and prevents the paste from tasting raw. Don't skip this step.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -300,7 +252,7 @@ While **khao soi** is most strongly associated with Chiang Mai and the Northern 
 
 ### Bangkok's Khao Soi Scene
 
-[Bangkok](https://go2-thailand.com/city/bangkok/) has numerous khao soi vendors, many run by Northern Thai migrants who've brought their family recipes to the capital. The quality varies widely, but the best Bangkok khao soi rivals what you'd find in Chiang Mai. The advantage is convenience—you can eat khao soi in Bangkok without traveling north. The disadvantage is that Bangkok versions sometimes cater to local tastes, which might mean less spice or different proportions than you'd find in Chiang Mai. Bangkok is also covered in depth in our [Thai street food guide](/blog/thai-street-food-guide-2026/) and the [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/).
+[Bangkok](https://go2-thailand.com/city/bangkok/) has numerous khao soi vendors, many run by Northern Thai migrants who've brought their family recipes to the capital. The quality varies widely, but the best Bangkok khao soi rivals what you'd find in Chiang Mai. The advantage is convenience—you can eat khao soi in Bangkok without traveling north. The disadvantage is that Bangkok versions sometimes cater to local tastes, which might mean less spice or different proportions than you'd find in Chiang Mai. Bangkok is also covered in depth in our [Thai street food guide](/thailand-street-food/) and the [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/).
 
 ### Other Northern Cities
 
@@ -314,7 +266,6 @@ Khao soi is less common in Southern and Central Thailand, though you might find 
 
 ## 10. Practical Tips for Eating Khao Soi in Chiang Mai
 
-Based on our years of eating khao soi in Chiang Mai, here are practical tips that will enhance your experience:
 
 ### Timing Is Everything
 
@@ -346,22 +297,6 @@ Based on our years of eating khao soi in Chiang Mai, here are practical tips tha
 >
 > *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -377,7 +312,7 @@ Yes. Many vendors offer khao soi jae (vegetarian khao soi) made with tofu and ve
 
 ### How much should I expect to pay for khao soi?
 
-At morning market stalls, expect to pay 40–80 THB (USD $1.10–$2.20). At established restaurants, prices range from 100–150 THB (USD $2.75–$4.15). Tourist-area vendors may charge 150–250 THB or more. The price doesn't always correlate with quality—some of the best khao soi is among the cheapest. For a broader picture of food costs, see the [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/).
+At morning market stalls, expect to pay 40–80 THB (USD $1.10–$2.20). At established restaurants, prices range from 100–150 THB (USD $2.75–$4.15). Tourist-area vendors may charge 150–250 THB or more. The price doesn't always correlate with quality—some of the best khao soi is among the cheapest. For a broader picture of food costs, see the [Thailand budget backpacker guide](/thailand-index/budget/).
 
 ### What's the difference between the soft and crispy noodles?
 
@@ -399,6 +334,6 @@ Khao soi is a specific Northern Thai dish with a particular flavor profile, ingr
 
 Whether you're eating a bowl from a morning market vendor for 50 THB or sitting down at an established restaurant, the experience of khao soi in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) is something every Thailand visitor should have. The combination of rich curry broth, tender noodles, crispy fried elements, and fresh garnishes creates a dish that's simultaneously comforting and complex—exactly what great food should be. After khao soi, explore the [Chiang Mai street art walking guide](/blog/chiang-mai-street-art-walking-guide-old-city-nimman-2026/) or the [Lanna temple walking trail](/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/) to round out your day.
 
-Ready to experience authentic Northern Thai cuisine? Start by exploring [Chiang Mai's food scene](https://go2-thailand.com/city/chiang-mai/food/) and asking locals where they eat khao soi. Better yet, consider taking a [cooking class in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) to learn how to make it yourself. If you are heading north for the first time, our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) include time in Chiang Mai specifically for food exploration. Pair your khao soi research with the [Thai street food guide](/blog/thai-street-food-guide-2026/) and the [history of Thai cuisine](/blog/history-of-thai-cuisine/) for deeper context.
+Ready to experience authentic Northern Thai cuisine? Start by exploring [Chiang Mai's food scene](https://go2-thailand.com/city/chiang-mai/food/) and asking locals where they eat khao soi. Better yet, consider taking a [cooking class in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) to learn how to make it yourself. If you are heading north for the first time, our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) include time in Chiang Mai specifically for food exploration. Pair your khao soi research with the [Thai street food guide](/thailand-street-food/) and the [history of Thai cuisine](/blog/history-of-thai-cuisine/) for deeper context.
 
-**Trust us on this:** Your first authentic bowl of khao soi in Chiang Mai will be unforgettable. Go early, order with confidence, and savor every spoonful.
+Go early, order with confidence, and savor every spoonful.

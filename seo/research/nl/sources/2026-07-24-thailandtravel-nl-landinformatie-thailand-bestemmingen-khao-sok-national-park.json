@@ -1,0 +1,1002 @@
+{
+  "captured_at": "2026-07-24T06:28:55.667Z",
+  "locale": "nl",
+  "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/khao-sok-national-park/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Sri Lanka",
+          "url": "http://srilankatravel.nl/",
+          "urls": [
+            {
+              "url": "http://srilankatravel.nl/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Tours & excursies",
+          "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+              "anchor_text": "Tours & excursies"
+            }
+          ]
+        },
+        {
+          "text": "Reizen op maat",
+          "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+              "anchor_text": "Reizen op maat"
+            }
+          ]
+        },
+        {
+          "text": "Favorieten 0",
+          "url": "https://thailandtravel.nl/mijn-reisplan/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/mijn-reisplan/",
+              "anchor_text": "Favorieten0"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Tours & excursies",
+          "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+              "anchor_text": "Tours & excursies"
+            }
+          ]
+        },
+        {
+          "text": "Reizen op maat",
+          "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+              "anchor_text": "Reizen op maat"
+            }
+          ]
+        },
+        {
+          "text": "Favorieten 0",
+          "url": "https://thailandtravel.nl/mijn-reisplan/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/mijn-reisplan/",
+              "anchor_text": "Favorieten0"
+            }
+          ]
+        },
+        {
+          "text": "Whatsapp: +31 (0)10 21 31 444",
+          "url": "https://wa.me/31102131444",
+          "urls": [
+            {
+              "url": "https://wa.me/31102131444",
+              "anchor_text": "Whatsapp:\n+31 (0)10 21 31 444"
+            }
+          ]
+        },
+        {
+          "text": "Overige bestemmingen",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "http://srilankatravel.nl/",
+          "urls": [
+            {
+              "url": "http://srilankatravel.nl/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Bali & Indonesië",
+          "url": "https://balitravel.nl/",
+          "urls": [
+            {
+              "url": "https://balitravel.nl/",
+              "anchor_text": "Bali & Indonesië"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka & Malediven",
+          "url": "https://srilankatravel.nl/",
+          "urls": [
+            {
+              "url": "https://srilankatravel.nl/",
+              "anchor_text": "Sri Lanka & Malediven"
+            }
+          ]
+        },
+        {
+          "text": "Tours & excursies",
+          "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+              "anchor_text": "Tours & excursies"
+            }
+          ]
+        },
+        {
+          "text": "Reizen op maat",
+          "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+              "anchor_text": "Reizen op maat"
+            }
+          ]
+        },
+        {
+          "text": "Over Thailand Travel",
+          "url": "https://thailandtravel.nl/over-ons/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/over-ons/",
+              "anchor_text": "Over Thailand Travel"
+            }
+          ]
+        },
+        {
+          "text": "Ervaringen Thailand Travel",
+          "url": "https://thailandtravel.nl/ervaringen-thailand-travel/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/ervaringen-thailand-travel/",
+              "anchor_text": "Ervaringen Thailand Travel"
+            }
+          ]
+        },
+        {
+          "text": "Veelgestelde vragen",
+          "url": "https://thailandtravel.nl/veelgestelde-vragen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/veelgestelde-vragen/",
+              "anchor_text": "Veelgestelde vragen"
+            }
+          ]
+        },
+        {
+          "text": "© 2026 Thailand Travel",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Privacy policy",
+          "url": "https://thailandtravel.nl/privacy-policy/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/privacy-policy/",
+              "anchor_text": "Privacy policy"
+            }
+          ]
+        },
+        {
+          "text": "Copyright & disclaimer",
+          "url": "https://thailandtravel.nl/copyright-disclaimer/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/copyright-disclaimer/",
+              "anchor_text": "Copyright & disclaimer"
+            }
+          ]
+        },
+        {
+          "text": "Algemene voorwaarden",
+          "url": "https://thailandtravel.nl/algemene-voorwaarden/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/algemene-voorwaarden/",
+              "anchor_text": "Algemene voorwaarden"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Informatie Khao Sok National Park",
+        "main_title": "Khao Sok National Park",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "National Park Khao Sok is het grootste en indrukwekkendste oerwoud van Zuid-Thailand en tevens het oudste tropische regenwoud ter wereld. Het maar liefst 739 vierkante kilometer grote park met een hoogste punt van 960 meter omvat 100 spectaculaire eilandjes die in 1987 zijn ontstaan door de bouw van de Rachabrapha-dam.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In dit grootste junglegebied van Thailand bloeit de reusachtige rafflesia, de grootste bloem ter wereld.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Overnachten in Khao Sok is een bijzondere ervaring. U kunt er overnachten in unieke boomhutten, drijvende villa’s, jungle-bungalows, luxe safaritenten, drijvende tenten en hutjes op het water.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een bezoek aan Khao Sok zal zonder twijfel één van de hoogtepunten zijn tijdens uw bezoek aan Thailand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hoe komt u in Khao Sok?",
+        "main_title": "Khao Sok National Park",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Khao Sok is gelegen in Zuid-Thailand in de provincie Surat Thani op ongeveer 3 uur rijden van Krabi en Phuket en nog geen anderhalf uur rijden van Khao Lak.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Indien u van Bangkok kunt per vliegtuig of (nacht) trein reizen naar Surat Thani waarna het nog zo’n anderhalf uur rijden is naar Khao Sok.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Veel mensen bezoeken Khao Sok op doorreis naar Koh Samui, Krabi, of Phuket.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Waar verblijven in Khao Sok National Park?",
+        "main_title": "Khao Sok National Park",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Khao Sok heeft verschillende mogelijkheden om te overnachten, voor ieder wat wils. Voor een echte jungle ervaring raden wij u om te verblijven in de leuke bungalows van het Khao Sok Riverside Cottages. Ook een aanrader is het sfeervolle Montania Lifestyle Hotel. Dit hotel heeft als één van de weinige hotels een zwembad. Een hele bijzonder ervaring is te overnachten op het meer waar u kunt verblijven in basic bamboe rafts, luxe safaritenten en drijvende villa’s. Voor verblijf op het meer raden wij u aan om één van onze tours te boeken waar het vervoer bij inbegrepen is.",
+            "url": "https://thailandtravel.nl/hotels/khao-sok/khao-sok-riverside-cottages/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/hotels/khao-sok/khao-sok-riverside-cottages/",
+                "anchor_text": "Khao Sok Riverside Cottages"
+              },
+              {
+                "url": "https://thailandtravel.nl/hotels/khao-sok/montania-lifestyle-hotel/",
+                "anchor_text": "Montania Lifestyle Hotel"
+              }
+            ]
+          },
+          {
+            "text": "Voor de maaltijden kunt u altijd terecht in uw hotel of u neemt een shuttle of taxi naar Khao Sok Village, een klein maar gezellig straatje met enkele leuke restaurants en supermarkten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Bezienswaardigheden Khao Sok National Park",
+        "main_title": "Khao Sok National Park",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "In Khao Sok zijn er talloze excursiemogelijkheden. Zo kunt u een kanotocht met gids over de Sok River maken, een trekking door het bergachtige landschap, tuben over de rivier, fietstocht, kookcursus en nog veel meer.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bent u uitgekeken op het vaste land van Khao Sok, maak dan een boottocht over het sprookjesachtig mooie meer van Cheow Lan. Bekijk onze meerdaagse tours in Khao Sok National Park.",
+            "url": "https://thailandtravel.nl/tours/khao-sok/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/tours/khao-sok/",
+                "anchor_text": "Khao Sok National Park."
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Cheow Lan Lake",
+        "main_title": "Khao Sok National Park",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Het meer van Cheow Lan is een stuwmeer van 165 vierkante meter, ontstaan door de bouw van de Rachabrapha-dam in 1987. Het meer kenmerkt zich door majestueuze rotspartijen die loodrecht vanuit het water omhoog reizen. Op het meer kunt u verblijven in bamboe rafts op het water. Zeer primitief, echter een onvergetelijke ervaring.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Wenst u een luxer verblijf, kies dan voor de drijvende safaritenten van Elephant Hills.",
+            "url": "https://thailandtravel.nl/tours/khao-sok/elephant-hills-jungle-lake/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/tours/khao-sok/elephant-hills-jungle-lake/",
+                "anchor_text": "Elephant Hills"
+              }
+            ]
+          },
+          {
+            "text": "Eén van de meest luxe accommodatie op het meer is het 500 Rai Floating Resort, bestaande uit 18 luxe drijvende villa’s én zelfs een drijvend zwembad!",
+            "url": "https://thailandtravel.nl/hotels/khao-sok/500-rai-floating-resort/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/hotels/khao-sok/500-rai-floating-resort/",
+                "anchor_text": "500 Rai Floating Resort"
+              }
+            ]
+          },
+          {
+            "text": "Vanaf het meer kunt u hiken naar het viewpoint, grotten bezoeken, kajakken, per boot de omgeving verkennen op zoek naar wildlife en natuurlijk een duik nemen in het heldere water.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Een aanrader is hier onze 3 daagse Khao Sok Lake Raft House tour.",
+            "url": "https://thailandtravel.nl/tours/khao-sok/khao-sok-lake-raft-house/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/tours/khao-sok/khao-sok-lake-raft-house/",
+                "anchor_text": "3 daagse Khao Sok Lake Raft House tour"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Klimaat Khao Sok National Park",
+        "main_title": "Khao Sok National Park",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "De maanden november t/m februari zijn de beste maanden om naar Khao Sok te reizen. Tijdens deze maanden valt er het minste regen en is de temperatuur aangenaam, zo’n 26 graden. De maanden maart t/m mei is de heetste tijd van het jaar met een temperatuur vanaf 29 t/m uitschieters van 35 en hoger. Tuben of een kanotocht kan in deze periode lastig zijn door de lage rivierstand.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De maanden juni – oktober wordt de regentijd genoemd. Er kan in deze periode flink veel regen vallen, vooral v.a. augustus en september. Echter, de natuur is op zijn mooist, alles is groen en bloeit en de watervallen zijn spectaculair.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Khao Sok National Park",
+        "main_title": "Khao Sok National Park",
+        "author": null,
+        "language": null,
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Landinformatie",
+        "main_title": "Khao Sok National Park",
+        "author": null,
+        "language": null,
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Klimaat & weer Thailand",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/klimaat-weer/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/klimaat-weer/",
+                "anchor_text": "Klimaat & weer Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Klimaat & weer Vietnam",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/klimaat-weer-vietnam/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/klimaat-weer-vietnam/",
+                "anchor_text": "Klimaat & weer Vietnam"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Streekinformatie",
+        "main_title": "Khao Sok National Park",
+        "author": null,
+        "language": null,
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Bangkok & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/bangkok-omgeving/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/bangkok-omgeving/",
+                "anchor_text": "Bangkok & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Chiangmai & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/chiang-mai-omgeving/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/chiang-mai-omgeving/",
+                "anchor_text": "Chiangmai & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Chiang Rai & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/chiang-rai/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/chiang-rai/",
+                "anchor_text": "Chiang Rai & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Pai & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/pai/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/pai/",
+                "anchor_text": "Pai & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Pattaya & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/pattaya-omgeving/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/pattaya-omgeving/",
+                "anchor_text": "Pattaya & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Koh Chang & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/koh-chang/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/koh-chang/",
+                "anchor_text": "Koh Chang & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Hua Hin & Cha'am",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/hua-hin-cha-am/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/hua-hin-cha-am/",
+                "anchor_text": "Hua Hin & Cha'am"
+              }
+            ]
+          },
+          {
+            "text": "Koh Samui & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/koh-samui-omgeving/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/koh-samui-omgeving/",
+                "anchor_text": "Koh Samui & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Phuket & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/phuket-omgeving/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/phuket-omgeving/",
+                "anchor_text": "Phuket & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Krabi & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/krabi-omgeving/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/krabi-omgeving/",
+                "anchor_text": "Krabi & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Khao Lak & omgeving",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/khao-lak/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/khao-lak/",
+                "anchor_text": "Khao Lak & omgeving"
+              }
+            ]
+          },
+          {
+            "text": "Koh Phi Phi",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/koh-phi-phi/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/koh-phi-phi/",
+                "anchor_text": "Koh Phi Phi"
+              }
+            ]
+          },
+          {
+            "text": "Khao Sok National Park",
+            "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/khao-sok-national-park",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/landinformatie-thailand-bestemmingen/khao-sok-national-park",
+                "anchor_text": "Khao Sok National Park"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "+31102131444"
+      ],
+      "emails": null
+    }
+  }
+}

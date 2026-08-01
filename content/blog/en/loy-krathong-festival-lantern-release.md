@@ -81,22 +81,6 @@ Chiang Mai's [best hotels](https://go2-thailand.com/best-hotels/chiang-mai/) fil
 
 Getting around Chiang Mai during the festival is challenging. Taxis and tuk-tuks operate at inflated prices; organized tours typically include transportation. If you're renting a scooter (common for independent travelers), exercise caution—roads become congested, and many visitors are unfamiliar with local traffic patterns.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -124,22 +108,6 @@ Alternatively, craft your own krathong using banana leaves, flowers, incense, an
 
 Bangkok offers accommodation across all price ranges. Budget hostels run 300–800 THB ($9–$24 USD); mid-range hotels cost 1,500–4,000 THB ($45–$120 USD). During Loy Krathong, prices increase 20–40%, and availability becomes limited. [Book at least 6–8 weeks in advance. Areas like [Sukhumvit](https://go2-thailand.com/areas/bangkok/sukhumvit/) and [Silom](https://go2-thailand.com/areas/bangkok/silom-sathorn/) offer convenient access to public transport](https://12go.tpo.lv/tNA80urD?subid=blog) and festival locations.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -176,22 +144,6 @@ Understanding the differences between Yi Peng (lantern) and Loy Krathong (water 
 
 **Pro Tip:** If you're torn between locations, consider splitting your time. Spend 2–3 days in Chiang Mai for the Yi Peng lantern experience, then travel to Bangkok or Sukhothai for the Loy Krathong water float celebration. This dual approach captures both festival traditions.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -217,18 +169,6 @@ Getting to festival locations requires advance planning. During our research int
 
 **Bangkok to Ayutthaya:** Train (1.5 hours, 15–100 THB / $0.45–$3 USD) or bus (1.5 hours, 50–150 THB / $1.50–$4.50 USD).
 
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ---
 
@@ -352,22 +292,6 @@ Learning from others' festival experiences helps you avoid preventable frustrati
 
 **Solution:** Check weather forecasts 1–2 weeks before the festival. Pack a lightweight rain jacket. Accept that weather is beyond your control—the experience is meaningful regardless of conditions.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -427,6 +351,6 @@ First-time visitors to Chiang Mai benefit from organized lantern tours for logis
 
 The key to a meaningful experience is preparation. Book accommodation 8–12 weeks in advance, choose your location based on your travel style, and arrive early to avoid the worst crowds. Whether you opt for the organized spectacle of Chiang Mai's Yi Peng or the spontaneous spirituality of Bangkok's Loy Krathong, the magic lies in the moment—the candlelight, the release, and the shared sense of renewal.
 
-For comprehensive planning, explore our [Thailand travel guides](https://go2-thailand.com/travel-guides/festivals-events-thailand/) and [festival resources](https://go2-thailand.com/travel-guides/festivals-events-thailand/) to deepen your understanding of Thai celebrations. Consider combining Loy Krathong with visits to [Chiang Mai's temples](https://go2-thailand.com/city/chiang-mai/attractions/), [Bangkok's cultural sites](https://go2-thailand.com/things-to-do/bangkok/), or [Sukhothai's historical parks](https://go2-thailand.com/destinations/sukhothai/) for a richer travel experience.
+For comprehensive planning, explore our [Thailand travel guides](https://go2-thailand.com/travel-guides/festivals-events-thailand/) and [festival resources](https://go2-thailand.com/travel-guides/festivals-events-thailand/) to deepen your understanding of Thai celebrations. Consider combining Loy Krathong with visits to [Chiang Mai's temples](https://go2-thailand.com/city/chiang-mai/attractions/), [Bangkok's cultural sites](https://go2-thailand.com/city/bangkok/attractions/), or [Sukhothai's historical parks](https://go2-thailand.com/city/sukhothai/) for a richer travel experience.
 
 **Disclosure:** We may earn a small commission from bookings made through our affiliate links, at no extra cost to you. This helps us keep creating free, comprehensive travel guides for Thailand.

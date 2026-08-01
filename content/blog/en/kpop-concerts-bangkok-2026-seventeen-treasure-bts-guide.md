@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "entertainment"
 tags: ["K-pop Bangkok 2026", "BTS Bangkok concert", "SEVENTEEN Bangkok 2026", "TREASURE Bangkok 2026", "Bangkok concerts 2026", "Thailand entertainment"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide-hero.webp"
 description: "Bangkok is a major stop on every K-pop world tour in 2026. Here is the full schedule of confirmed concerts including SEVENTEEN, TREASURE and the long-awaited BTS return in December."
 featured: false
 readingTime: 3
@@ -57,12 +57,12 @@ If you are a K-pop fan planning a trip to Thailand, here is every confirmed conc
 
 **Transport.** Suphachalasai National Stadium is accessible via BTS Skytrain (National Stadium station). After concerts, expect heavy crowds at the station — consider walking to nearby Siam station instead or using a ride-hailing app from a side street. Our [Bangkok public transport guide covering BTS and MRT](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) explains all routes, fares, and tourist passes in detail.
 
-**Stay longer.** Many international fans fly to Bangkok specifically for concerts. Use the trip as an excuse to explore the city for a few extra days — the [street food](/blog/bangkok-street-food-beginners/), temples and nightlife are worth it. Check our [Bangkok first-timers itinerary](/blog/thailand-itinerary-first-timers/) if it's your first visit, or the [ultimate Thailand itinerary](/blog/ultimate-thailand-itinerary-2026/) if you want to travel beyond the capital. The [best cocktail bars in Bangkok](/blog/bangkok-best-cocktail-bars-march-2026-nightlife/) and Bangkok's [craft beer scene](/blog/bangkok-craft-beer-scene-2026-bars-festivals-guide/) are excellent for post-concert nights out.
+**Stay longer.** Many international fans fly to Bangkok specifically for concerts. Use the trip as an excuse to explore the city for a few extra days — the [street food](/blog/best-street-food-markets-bangkok/), temples and nightlife are worth it. Check our [Bangkok first-timers itinerary](/blog/thailand-itinerary-first-timers/) if it's your first visit, or the [ultimate Thailand itinerary](/blog/ultimate-thailand-itinerary-2026/) if you want to travel beyond the capital. The [best cocktail bars in Bangkok](/blog/bangkok-best-cocktail-bars-march-2026-nightlife/) and Bangkok's [craft beer scene](/blog/bangkok-craft-beer-scene-2026-bars-festivals-guide/) are excellent for post-concert nights out.
 
 ## More to Come
 
 Additional K-pop events including SMTOWN LIVE and other fan meetings are expected to be announced throughout 2026. Bangkok's position as a regional concert hub means there will likely be more additions to the schedule as the year progresses. It is also worth noting that [Lisa from BLACKPINK is Thailand's tourism ambassador for 2026](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/), which has dramatically boosted Korean-Thai cultural connections and increased interest from K-pop fans across Asia.
 
-If you are visiting during April, the massive [S2O Songkran Music Festival](/blog/s2o-songkran-music-festival-2026-bangkok-edm-water-party/) and [Siam Songkran Music Festival](/blog/siam-songkran-music-festival-2026-bangkok-guide/) run alongside the water festival and are worth adding to your plans. Before you travel, make sure to check the [Thailand visa guide](/blog/thailand-visa-guide-2026/) and [Thailand Digital Arrival Card requirements](/blog/thailand-digital-arrival-card-tdac-guide/) so your entry is seamless.
+If you are visiting during April, the massive [S2O Songkran Music Festival](/blog/s2o-songkran-music-festival-2026-bangkok-edm-water-party/) and [Siam Songkran Music Festival](/blog/siam-songkran-music-festival-2026-bangkok-guide/) run alongside the water festival and are worth adding to your plans. Before you travel, make sure to check the [Thailand visa guide](/visa/) and [Thailand Digital Arrival Card requirements](/visa/digital-arrival-card/) so your entry is seamless.
 
 Keep checking official channels and ticketing platforms for updates. Thailand's K-pop scene shows no signs of slowing down.

@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-07-29T05:17:09.720Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/city/chiang-mai/top-10-restaurants/",
+  "cost": 0.01224,
+  "rankings": [
+    {
+      "keyword": "best restaurants chiang mai",
+      "position": 43,
+      "volume": 390,
+      "intent": "commercial",
+      "url": "https://go2-thailand.com/city/chiang-mai/top-10-restaurants/"
+    },
+    {
+      "keyword": "best restaurants in chiang mai",
+      "position": 42,
+      "volume": 390,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/city/chiang-mai/top-10-restaurants/"
+    }
+  ]
+}

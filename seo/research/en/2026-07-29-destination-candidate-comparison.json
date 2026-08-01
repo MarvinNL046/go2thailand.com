@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-07-29T17:20:26.845Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "cost": 0.01212,
+  "requested_keywords": [
+    "mukdahan food",
+    "nakhon phanom food",
+    "nong khai food",
+    "rayong food",
+    "trang food"
+  ],
+  "rows": [
+    {
+      "keyword": "trang food",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    }
+  ]
+}

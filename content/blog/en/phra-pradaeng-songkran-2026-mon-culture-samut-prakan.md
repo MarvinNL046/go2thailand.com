@@ -1,16 +1,23 @@
 ---
-title: "Phra Pradaeng Songkran 2026: Bangkok's Mon-Culture Water Festival on April 24-26"
+title: "Phra Pradaeng Songkran 2026: Mon-Culture Festival Recap"
 slug: "phra-pradaeng-songkran-2026-mon-culture-samut-prakan"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Phra Pradaeng Songkran 2026", "Mon culture Thailand", "Songkran Samut Prakan", "Bangkok day trip April 2026", "Thai festivals 2026"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Phra Pradaeng holds its own Songkran festival on April 24-26, 2026 — a week after the national holiday. Discover its Mon-heritage traditions, parades and how to get there from Bangkok."
+tags:
+  [
+    "Phra Pradaeng Songkran 2026",
+    "Mon culture Thailand",
+    "Songkran Samut Prakan",
+    "Bangkok day trip April 2026",
+    "Thai festivals 2026",
+  ]
+image: "/images/redesign/editorial/phra-pradaeng-songkran-2026-mon-culture-samut-prakan-hero.webp"
+description: "A recap of Phra Pradaeng's April 24-26 Songkran 2026 programme, with context on its Mon heritage and evergreen travel planning from Bangkok."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Thairath — Phra Pradaeng Songkran 2026: Dates, Event Schedule, Parade, and Water Play Spots"
     url: "https://en.thairath.co.th/lifestyle/life/2921756"
@@ -19,6 +26,8 @@ sources:
   - name: "Nation Thailand — Culture Ministry rolls out Songkran celebrations in 76 provinces"
     url: "https://www.nationthailand.com/news/tourism/40064102"
 ---
+
+> **Event status (updated 1 August 2026):** Phra Pradaeng Songkran 2026 ended on 26 April. This page preserves the programme as a cultural and historical guide; do not assume that future dates, routes or timings will be identical. Check Samut Prakan and TAT announcements for a new edition.
 
 ## A Different Kind of Songkran
 
@@ -37,7 +46,7 @@ Key highlights include:
 - **Mon "Thae Yam" songs** — local folk music performed live during the festivities, creating an atmosphere you will not find anywhere else in the Bangkok area.
 - **Kalamae tasting** — a sticky, caramel-like confection unique to Phra Pradaeng that is freshly prepared and offered to visitors during the merit-making ceremonies.
 
-Traditional rice soaked in jasmine-scented iced water, called "khao chae," is also widely served — a dish historically prepared to honour ancestors during the Thai New Year. If the food culture appeals, Bangkok's [street food scene](/blog/bangkok-street-food-beginners/) is just a ferry ride away.
+Traditional rice soaked in jasmine-scented iced water, called "khao chae," is also widely served — a dish historically prepared to honour ancestors during the Thai New Year. If the food culture appeals, Bangkok's [street food scene](/blog/best-street-food-markets-bangkok/) is just a ferry ride away.
 
 ## How to Get There
 

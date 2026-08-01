@@ -174,7 +174,7 @@ Ongemarkeerde "taxi's" jagen op toeristen bij luchthavens en treinstations. Ze r
 
 ## 4. Motorongelukken: Het onderschatte risico
 
-Hier is iets wat toeristen vaak onderschatten: **motorongelukken zijn de voornaamste oorzaak van blessures bij buitenlandse bezoekers in Thailand.** Begrijpen van je [dagbudget in Thailand](/blog/thailand-budget-2026-daily-costs/) helpt je veiligere transportkosten in te calculeren vanaf het begin. We hebben dit zelf gezien — een vriend huurde een scooter zonder helm, raakte een kuil en lag twee weken in een Bangkok-ziekenhuis met een gebroken arm.
+Hier is iets wat toeristen vaak onderschatten: **motorongelukken zijn de voornaamste oorzaak van blessures bij buitenlandse bezoekers in Thailand.** Begrijpen van je [dagbudget in Thailand](/nl/thailand-index/budget/) helpt je veiligere transportkosten in te calculeren vanaf het begin. We hebben dit zelf gezien — een vriend huurde een scooter zonder helm, raakte een kuil en lag twee weken in een Bangkok-ziekenhuis met een gebroken arm.
 
 ### Waarom motoren gevaarlijk zijn
 
@@ -384,7 +384,7 @@ Internetveiligheid wordt vaak over het hoofd gezien, maar is cruciaal in Thailan
 
 ### Veilig verbonden raken
 
-Koop bij aankomst een lokale eSIM of SIM-kaart. Grote providers (AIS, Dtac, True Move) bieden toeristenpakketten: 7-daagse plannen met 4-8GB data kosten 300-500 baht (€8-13). Dit is goedkoper en veiliger dan afhankelijk zijn van openbare WiFi. Zie onze [beste SIM-kaart & eSIM-gids voor Thailand 2026](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) voor een volledige vergelijking.
+Koop bij aankomst een lokale eSIM of SIM-kaart. Grote providers (AIS, Dtac, True Move) bieden toeristenpakketten: 7-daagse plannen met 4-8GB data kosten 300-500 baht (€8-13). Dit is goedkoper en veiliger dan afhankelijk zijn van openbare WiFi. Zie onze [beste SIM-kaart & eSIM-gids voor Thailand 2026](/nl/travel-guides/sim-card-thailand/) voor een volledige vergelijking.
 
 Je kunt ook vooraf een eSIM regelen via diensten als Saily. Tarieven zijn iets hoger, maar handig, vooral voor directe vluchten vanaf Schiphol.
 

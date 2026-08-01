@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-art-biennale-2026-angels-mara-guide",
+  "route": "/nl/blog/bangkok-art-biennale-2026-angels-mara-guide/",
+  "cluster": "events",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Bangkok Art Biennale 2026: data en bezoekplan | Go2Thailand", "description": "BAB 2026 loopt van 29 oktober 2026 tot en met 28 februari 2027. Bekijk thema, aangekondigde locaties en actuele bezoekchecks.", "primaryKeyword": "Bangkok Art Biennale 2026", "secondaryKeywords": ["BAB 2026", "Angels and Mara Bangkok", "kunst Bangkok 2026"], "searchIntent": "informational", "canonicalPath": "/nl/blog/bangkok-art-biennale-2026-angels-mara-guide/" },
+  "hero": { "eyebrow": "29 oktober 2026 – 28 februari 2027", "title": "Bangkok Art Biennale 2026", "accent": "Angels and Mara", "description": "Een stadsbrede kunsteditie langs tempels, musea en moderne plekken — met een route die je pas vlak voor vertrek definitief maakt.", "image": "/images/redesign/editorial/bangkok-art-biennale-2026-angels-mara-guide-hero.webp", "imageAlt": "Hedendaagse kunstinstallatie in een Bangkokse tempelomgeving aan de rivier bij avondlicht", "primaryCta": { "label": "Bouw je kunstroute", "href": "#route" }, "secondaryCta": { "label": "Actuele checks", "href": "#check" } },
+  "layout": { "kind": "event-guide", "temporalStatus": "scheduled", "startsOn": "2026-10-29", "endsOn": "2027-02-28", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "BAB 2026 is gepland van 29 oktober 2026 tot en met 28 februari 2027. De organisatie heeft een brede locatieset aangekondigd; controleer vóór bezoek de definitieve kaart, opening en toegang per locatie.",
+  "blocks": [
+    { "kind": "card-grid", "id": "route", "eyebrow": "Kies één cluster", "title": "Drie logische kunstdagen", "cards": [
+      { "title": "Rivier en tempels", "description": "Combineer alleen nabijgelegen tempellocaties en geef actieve religieuze functies voorrang.", "label": "Culturele context" },
+      { "title": "Siam en BACC", "description": "Een compacte moderne route rond BACC en bereikbare kunstruimtes in het centrum.", "label": "Makkelijk per rail" },
+      { "title": "Nieuwe stadsplekken", "description": "Gebruik de officiële BAB-kaart voor moderne locaties; openstelling kan per werk verschillen.", "label": "Live plannen" }
+    ] },
+    { "kind": "checklist", "id": "check", "title": "Controleer vlak voor je bezoek", "items": ["Definitieve BAB-locatiekaart en programma", "Opening en toegang per venue", "Kleding- en fotografieregels bij tempels", "Tijdslot of reservering waar vereist", "Regen, hitte en reistijd tussen clusters", "Toegankelijkheid voor jouw route"] },
+    { "kind": "callout", "id": "respect", "tone": "cream", "title": "Een tempel blijft een actieve religieuze plek", "description": "Een kunstinstallatie verandert de omgangsregels niet. Kleed je passend, blokkeer geen rituelen en fotografeer alleen waar dat is toegestaan." },
+    { "kind": "related", "id": "verder", "title": "Plan de rest van Bangkok", "items": [
+      { "title": "Bangkok openbaar vervoer", "description": "Vergelijk BTS, MRT en rivierboot voor je clusters.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" },
+      { "title": "Wat Arun", "description": "Lees hoe je deze actieve tempel respectvol bezoekt.", "href": "/nl/blog/wat-arun-bangkok-temple-of-dawn-guide/" },
+      { "title": "Bangkok in vier dagen", "description": "Bepaal of een kunstdag in je totale route past.", "href": "/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Wanneer is Bangkok Art Biennale 2026?", "answer": "De officiële organisatie noemt 29 oktober 2026 tot en met 28 februari 2027." },
+      { "question": "Zijn alle locaties gratis?", "answer": "Ga daar niet automatisch van uit. Controleer toegang en eventuele venue-entree per locatie op je bezoekdag." },
+      { "question": "Kan ik alles in één dag zien?", "answer": "Niet prettig. De locaties liggen verspreid; kies één geografisch cluster per dagdeel of dag." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële BAB-bronnen", "items": [
+      { "title": "Bangkok Art Biennale: Angels and Mara", "publisher": "Bangkok Art Biennale", "url": "https://www.bkkartbiennale.com/press/bangkok-art-biennale-angels-and-mara", "checkedAt": "2026-08-01" },
+      { "title": "Theme and artists announcement", "publisher": "Bangkok Art Biennale", "url": "https://www.bkkartbiennale.com/press/bangkok-art-biennale-announces-theme-and-artists-for-2026-edition-updated", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

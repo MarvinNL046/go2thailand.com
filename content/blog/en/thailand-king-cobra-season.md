@@ -362,7 +362,7 @@ Packing correctly makes the difference between a comfortable expedition and a mi
 - Field guide to Thai reptiles
 - Notebook for recording sightings
 
-For more detailed packing advice, see our [Thailand packing list](https://go2thailand.com/practical-info/packing-list/). If you plan to camp near jungle sites, our [Thailand camping and national parks guide](/blog/camping-thailand-national-parks-guide-2026/) covers everything from gear to permit requirements.
+For more detailed packing advice, see our [Thailand packing list](/travel-gear/). If you plan to camp near jungle sites, our [Thailand camping and national parks guide](/blog/camping-thailand-national-parks-guide-2026/) covers everything from gear to permit requirements.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -439,4 +439,4 @@ Yes, strongly recommended. Ensure your policy covers adventure activities and me
 
 Whether you're a serious herpetologist or a curious traveler seeking adventure, Thailand's cobra season delivers. Plan ahead, pack smart, respect the snakes, and embrace the experience. For more seasonal travel inspiration, check out our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/), our [Thailand rainy season travel tips](/blog/thailand-rainy-season-travel-tips-2026/), or the [el Nino weather and heatwave guide](/blog/el-nino-2026-thailand-weather-heatwave-travel-tips/) if you're visiting during peak heat.
 
-**Ready to plan your king cobra adventure?** Start by reviewing our [Thailand visa guide](/blog/thailand-visa-guide-2026/) and [travel insurance guide](/blog/travel-insurance-thailand-guide/) to ensure a smooth journey. You may also want to read our [is Thailand safe for tourists guide](/blog/is-thailand-safe-tourists-2026/) for a full safety overview before you go.
+**Ready to plan your king cobra adventure?** Start by reviewing our [Thailand visa guide](/visa/) and [travel insurance guide](/blog/travel-insurance-thailand-guide/) to ensure a smooth journey. You may also want to read our [is Thailand safe for tourists guide](/is-thailand-safe/) for a full safety overview before you go.

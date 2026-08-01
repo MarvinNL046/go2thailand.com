@@ -1,0 +1,1881 @@
+{
+  "captured_at": "2026-07-24T10:30:43.188Z",
+  "locale": "nl",
+  "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-samet/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Koh Samet",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Koh Samet is een betoverend eiland gelegen in een kleine baai omringd door schitterend helder water. Dit kleine eiland biedt daarnaast prachtige stranden die je overigens wel moet delen met andere strandgangers. Koh Samet is namelijk een populaire weekendbestemming vanuit Bangkok.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Creditcard op reis",
+          "url": "https://www.reis-expert.nl/start-je-reis/creditcard/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/creditcard/",
+              "anchor_text": "Creditcard op reis"
+            }
+          ]
+        },
+        {
+          "text": "Start je Reis",
+          "url": "https://www.reis-expert.nl/start-je-reis/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/",
+              "anchor_text": "Start je Reis"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Azië",
+          "url": "https://www.reis-expert.nl/azie/backpacken-in-azie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/backpacken-in-azie/",
+              "anchor_text": "Backpacken Azië"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Midden-Amerika",
+          "url": "https://www.reis-expert.nl/midden-amerika/backpacken-midden-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/backpacken-midden-amerika/",
+              "anchor_text": "Backpacken Midden-Amerika"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Zuid-Amerika",
+          "url": "https://www.reis-expert.nl/zuid-amerika/backpacken-zuid-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/backpacken-zuid-amerika/",
+              "anchor_text": "Backpacken Zuid-Amerika"
+            }
+          ]
+        },
+        {
+          "text": "Backpack kopen",
+          "url": "https://www.reis-expert.nl/start-je-reis/backpack-kopen/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/backpack-kopen/",
+              "anchor_text": "Backpack kopen"
+            }
+          ]
+        },
+        {
+          "text": "Marokko Populair",
+          "url": "https://www.reis-expert.nl/afrika/marokko/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/marokko/",
+              "anchor_text": "MarokkoPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Zuid-Afrika Populair",
+          "url": "https://www.reis-expert.nl/afrika/zuid-afrika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/zuid-afrika/",
+              "anchor_text": "Zuid-AfrikaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/afrika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Filipijnen Populair",
+          "url": "https://www.reis-expert.nl/azie/filipijnen/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/filipijnen/",
+              "anchor_text": "FilipijnenPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Populair",
+          "url": "https://www.reis-expert.nl/azie/thailand/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/thailand/",
+              "anchor_text": "ThailandPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "https://www.reis-expert.nl/azie/sri-lanka/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/sri-lanka/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/azie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica Populair",
+          "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+              "anchor_text": "Costa RicaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Mexico Populair",
+          "url": "https://www.reis-expert.nl/midden-amerika/mexico/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/mexico/",
+              "anchor_text": "MexicoPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/midden-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Colombia Populair",
+          "url": "https://www.reis-expert.nl/zuid-amerika/colombia/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/colombia/",
+              "anchor_text": "ColombiaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Peru Populair",
+          "url": "https://www.reis-expert.nl/zuid-amerika/peru/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/peru/",
+              "anchor_text": "PeruPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/zuid-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Griekenland Nieuw",
+          "url": "https://www.reis-expert.nl/europa/griekenland/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/europa/griekenland/",
+              "anchor_text": "GriekenlandNieuw"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/europa/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/europa/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/oceanie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/oceanie/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Creditcard op reis",
+          "url": "https://www.reis-expert.nl/start-je-reis/creditcard/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/creditcard/",
+              "anchor_text": "Creditcard op reis"
+            }
+          ]
+        },
+        {
+          "text": "Start je Reis",
+          "url": "https://www.reis-expert.nl/start-je-reis/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/",
+              "anchor_text": "Start je Reis"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Azië",
+          "url": "https://www.reis-expert.nl/azie/backpacken-in-azie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/backpacken-in-azie/",
+              "anchor_text": "Backpacken Azië"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Midden-Amerika",
+          "url": "https://www.reis-expert.nl/midden-amerika/backpacken-midden-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/backpacken-midden-amerika/",
+              "anchor_text": "Backpacken Midden-Amerika"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Zuid-Amerika",
+          "url": "https://www.reis-expert.nl/zuid-amerika/backpacken-zuid-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/backpacken-zuid-amerika/",
+              "anchor_text": "Backpacken Zuid-Amerika"
+            }
+          ]
+        },
+        {
+          "text": "Backpack kopen",
+          "url": "https://www.reis-expert.nl/start-je-reis/backpack-kopen/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/backpack-kopen/",
+              "anchor_text": "Backpack kopen"
+            }
+          ]
+        },
+        {
+          "text": "Marokko Populair",
+          "url": "https://www.reis-expert.nl/afrika/marokko/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/marokko/",
+              "anchor_text": "MarokkoPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Zuid-Afrika Populair",
+          "url": "https://www.reis-expert.nl/afrika/zuid-afrika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/zuid-afrika/",
+              "anchor_text": "Zuid-AfrikaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/afrika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Filipijnen Populair",
+          "url": "https://www.reis-expert.nl/azie/filipijnen/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/filipijnen/",
+              "anchor_text": "FilipijnenPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Populair",
+          "url": "https://www.reis-expert.nl/azie/thailand/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/thailand/",
+              "anchor_text": "ThailandPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "https://www.reis-expert.nl/azie/sri-lanka/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/sri-lanka/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/azie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica Populair",
+          "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+              "anchor_text": "Costa RicaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Mexico Populair",
+          "url": "https://www.reis-expert.nl/midden-amerika/mexico/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/mexico/",
+              "anchor_text": "MexicoPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/midden-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Colombia Populair",
+          "url": "https://www.reis-expert.nl/zuid-amerika/colombia/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/colombia/",
+              "anchor_text": "ColombiaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Peru Populair",
+          "url": "https://www.reis-expert.nl/zuid-amerika/peru/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/peru/",
+              "anchor_text": "PeruPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/zuid-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Griekenland Nieuw",
+          "url": "https://www.reis-expert.nl/europa/griekenland/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/europa/griekenland/",
+              "anchor_text": "GriekenlandNieuw"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/europa/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/europa/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/oceanie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/oceanie/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Azië Expert",
+          "url": "https://www.reis-expert.nl/azie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/",
+              "anchor_text": "Azië Expert"
+            }
+          ]
+        },
+        {
+          "text": "Highlights Thailand",
+          "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/",
+              "anchor_text": "Highlights Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Klein paradijs",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "De mooiste stranden",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Wat is er te doen",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "De mooiste accommodaties",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Hoe kom je hier",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "Wie had gedacht dat ons leven in 2009 zo drastisch zou veranderen. Het was 2009 toen wij voor het eerst een verre reis maakte. We zaten ‘vast’ in de sleur van het dagelijkse leven en waren op zoek naar nieuwe uitdagingen, een nieuw avontuur. We besloten onze baan op te zeggen om de reis van ons leven te maken…",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Copyright (C) 2015 - 2026 Reis-Expert - Ontdek jouw reisgeluk!",
+          "url": "https://www.reis-expert.nl/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/",
+              "anchor_text": "Reis-Expert"
+            }
+          ]
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Creditcard op reis",
+          "url": "https://www.reis-expert.nl/start-je-reis/creditcard/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/creditcard/",
+              "anchor_text": "Creditcard op reis"
+            }
+          ]
+        },
+        {
+          "text": "Start je Reis",
+          "url": "https://www.reis-expert.nl/start-je-reis/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/",
+              "anchor_text": "Start je Reis"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Azië",
+          "url": "https://www.reis-expert.nl/azie/backpacken-in-azie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/backpacken-in-azie/",
+              "anchor_text": "Backpacken Azië"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Midden-Amerika",
+          "url": "https://www.reis-expert.nl/midden-amerika/backpacken-midden-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/backpacken-midden-amerika/",
+              "anchor_text": "Backpacken Midden-Amerika"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Zuid-Amerika",
+          "url": "https://www.reis-expert.nl/zuid-amerika/backpacken-zuid-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/backpacken-zuid-amerika/",
+              "anchor_text": "Backpacken Zuid-Amerika"
+            }
+          ]
+        },
+        {
+          "text": "Backpack kopen",
+          "url": "https://www.reis-expert.nl/start-je-reis/backpack-kopen/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/backpack-kopen/",
+              "anchor_text": "Backpack kopen"
+            }
+          ]
+        },
+        {
+          "text": "Marokko Populair",
+          "url": "https://www.reis-expert.nl/afrika/marokko/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/marokko/",
+              "anchor_text": "MarokkoPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Zuid-Afrika Populair",
+          "url": "https://www.reis-expert.nl/afrika/zuid-afrika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/zuid-afrika/",
+              "anchor_text": "Zuid-AfrikaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/afrika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Filipijnen Populair",
+          "url": "https://www.reis-expert.nl/azie/filipijnen/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/filipijnen/",
+              "anchor_text": "FilipijnenPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Populair",
+          "url": "https://www.reis-expert.nl/azie/thailand/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/thailand/",
+              "anchor_text": "ThailandPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "https://www.reis-expert.nl/azie/sri-lanka/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/sri-lanka/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/azie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica Populair",
+          "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+              "anchor_text": "Costa RicaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Mexico Populair",
+          "url": "https://www.reis-expert.nl/midden-amerika/mexico/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/mexico/",
+              "anchor_text": "MexicoPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/midden-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Colombia Populair",
+          "url": "https://www.reis-expert.nl/zuid-amerika/colombia/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/colombia/",
+              "anchor_text": "ColombiaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Peru Populair",
+          "url": "https://www.reis-expert.nl/zuid-amerika/peru/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/peru/",
+              "anchor_text": "PeruPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/zuid-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Griekenland Nieuw",
+          "url": "https://www.reis-expert.nl/europa/griekenland/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/europa/griekenland/",
+              "anchor_text": "GriekenlandNieuw"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/europa/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/europa/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/oceanie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/oceanie/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Creditcard op reis",
+          "url": "https://www.reis-expert.nl/start-je-reis/creditcard/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/creditcard/",
+              "anchor_text": "Creditcard op reis"
+            }
+          ]
+        },
+        {
+          "text": "Start je Reis",
+          "url": "https://www.reis-expert.nl/start-je-reis/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/",
+              "anchor_text": "Start je Reis"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Azië",
+          "url": "https://www.reis-expert.nl/azie/backpacken-in-azie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/backpacken-in-azie/",
+              "anchor_text": "Backpacken Azië"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Midden-Amerika",
+          "url": "https://www.reis-expert.nl/midden-amerika/backpacken-midden-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/backpacken-midden-amerika/",
+              "anchor_text": "Backpacken Midden-Amerika"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Zuid-Amerika",
+          "url": "https://www.reis-expert.nl/zuid-amerika/backpacken-zuid-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/backpacken-zuid-amerika/",
+              "anchor_text": "Backpacken Zuid-Amerika"
+            }
+          ]
+        },
+        {
+          "text": "Backpack kopen",
+          "url": "https://www.reis-expert.nl/start-je-reis/backpack-kopen/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/start-je-reis/backpack-kopen/",
+              "anchor_text": "Backpack kopen"
+            }
+          ]
+        },
+        {
+          "text": "Marokko Populair",
+          "url": "https://www.reis-expert.nl/afrika/marokko/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/marokko/",
+              "anchor_text": "MarokkoPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Zuid-Afrika Populair",
+          "url": "https://www.reis-expert.nl/afrika/zuid-afrika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/zuid-afrika/",
+              "anchor_text": "Zuid-AfrikaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/afrika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/afrika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Filipijnen Populair",
+          "url": "https://www.reis-expert.nl/azie/filipijnen/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/filipijnen/",
+              "anchor_text": "FilipijnenPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Populair",
+          "url": "https://www.reis-expert.nl/azie/thailand/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/thailand/",
+              "anchor_text": "ThailandPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "https://www.reis-expert.nl/azie/sri-lanka/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/sri-lanka/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/azie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica Populair",
+          "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+              "anchor_text": "Costa RicaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Mexico Populair",
+          "url": "https://www.reis-expert.nl/midden-amerika/mexico/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/mexico/",
+              "anchor_text": "MexicoPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/midden-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Colombia Populair",
+          "url": "https://www.reis-expert.nl/zuid-amerika/colombia/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/colombia/",
+              "anchor_text": "ColombiaPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Peru Populair",
+          "url": "https://www.reis-expert.nl/zuid-amerika/peru/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/peru/",
+              "anchor_text": "PeruPopulair"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/zuid-amerika/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/zuid-amerika/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Griekenland Nieuw",
+          "url": "https://www.reis-expert.nl/europa/griekenland/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/europa/griekenland/",
+              "anchor_text": "GriekenlandNieuw"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/europa/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/europa/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Alle landen",
+          "url": "https://www.reis-expert.nl/oceanie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/oceanie/",
+              "anchor_text": "Alle landen"
+            }
+          ]
+        },
+        {
+          "text": "Lees verder",
+          "url": "https://www.reis-expert.nl/over-ons/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/over-ons/",
+              "anchor_text": "Lees verder"
+            }
+          ]
+        },
+        {
+          "text": "Fluwijn 's Gravenzande",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Over Ons",
+          "url": "https://www.reis-expert.nl/over-ons/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/over-ons/",
+              "anchor_text": "Over Ons"
+            }
+          ]
+        },
+        {
+          "text": "Echte ervaring",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Persoonlijk contact",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Open : ma-vr 09.00 - 16.00",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Kvk: 58200673",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "BTW : NL852921342B01",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Privacy Verklaring",
+          "url": "https://www.reis-expert.nl/privacy-verklaring/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/privacy-verklaring/",
+              "anchor_text": "Privacy Verklaring"
+            }
+          ]
+        },
+        {
+          "text": "Beste reistijd Indonesië",
+          "url": "https://www.reis-expert.nl/azie/indonesie/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/indonesie/",
+              "anchor_text": "Beste reistijd Indonesië"
+            }
+          ]
+        },
+        {
+          "text": "Beste reistijd Thailand",
+          "url": "https://www.reis-expert.nl/azie/thailand/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/azie/thailand/",
+              "anchor_text": "Beste reistijd Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Backpacken Nieuw-Zeeland",
+          "url": "https://www.reis-expert.nl/oceanie/nieuw-zeeland/backpacken-nieuw-zeeland/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/oceanie/nieuw-zeeland/backpacken-nieuw-zeeland/",
+              "anchor_text": "Backpacken Nieuw-Zeeland"
+            }
+          ]
+        },
+        {
+          "text": "Mooiste eilanden Fiji",
+          "url": "https://www.reis-expert.nl/blog/fiji/beste-eilanden-van-fiji/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/blog/fiji/beste-eilanden-van-fiji/",
+              "anchor_text": "Mooiste eilanden Fiji"
+            }
+          ]
+        },
+        {
+          "text": "Costa Rica",
+          "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/midden-amerika/costa-rica/",
+              "anchor_text": "Costa Rica"
+            }
+          ]
+        },
+        {
+          "text": "Overnachten in Praag",
+          "url": "https://www.reis-expert.nl/blog/europa/waar-overnachten-in-praag/",
+          "urls": [
+            {
+              "url": "https://www.reis-expert.nl/blog/europa/waar-overnachten-in-praag/",
+              "anchor_text": "Overnachten in Praag"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Island vibe op Koh Samet",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Hoewel dit kleine eiland een populaire weekendbestemming is, is het nog opvallend authentiek. Het is zelfs een beetje onderontwikkeld met een dikke jungle en vele laagbouw in plaats van grote internationale hotelketens.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit eiland is slechts 6 kilometer lang",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De hotels aan het strand zijn mooi ‘ weggewerkt ’ achter de bomen, asfalt wegen kennen ze hier niet en van het noorden naar het zuiden van Koh Samet gebeurt te voet. Het binnenland is gevuld door de prachtige, groene jungle, wat best bijzonder is, aangezien het eilandje geen rivieren kent en de gemiddelde regenval laag is.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het eiland ligt tussen Pattaya en Koh Chang. Het is ook een populaire uitstap vanuit Pattaya.",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-chang/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-chang/",
+                "anchor_text": "Koh Chang"
+              },
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/pattaya/",
+                "anchor_text": "Pattaya"
+              }
+            ]
+          },
+          {
+            "text": "Koh Samet",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "De 6 mooiste stranden van Koh Samet",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "De stranden zijn van adembenemende schoonheid. Je vindt hier geen drukke party-scene of volgebouwde boulevards, maar wel veel bungalowparken aan de kust. Toch heb je hier een rustige zee, hagelwitte stranden, palmbomen en hier en daar een lekker strandtentje.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Je deelt de stranden echter wel met meer mensen dan palmbomen. Aan de oostkust vindt je veruit de mooiste stranden en daarom de meeste accommodatie.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "#1 Hai Sai Kaew",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Hat Sai Kaew is een van de mooiste en meest populaire stranden op Koh Samet. Het strand is 33 kilometer lang en 25 tot 30 meter breed. De naam spreekt voor zich, Hat Sai Kaew betekent letterlijk Crystal Sand Beach.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit is een mooi strand waar je verschillende activiteiten kunt doen. Van ’s ochtends vroeg tot zonsondergang kun je genieten van zonnen, zwemmen, jetskiën, windsurfen, paardrijden of een ritje op een banaanboot en uiteraard feesten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "TIP ♥ – het strand ligt in het meest oostelijke puntje van het eiland",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "#2 Ao Wong Deuan",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Ao Wong Deuan is het op twee na grootste strand van het eiland (de eerste is Hat Sai Kaew). Het strand trekt veel reizigers vanwege het mooie witte zandstrand en de vele (goede) accommodaties.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Daarnaast zijn er goede restaurants met mooi uitzicht op zee en het is een geweldige locatie voor zonsondergangen!",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "#3 Ao Noi Na",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Ao Noi Na, in de buurt van Hat Sai Kaew, heeft een andere sfeer dan de andere twee. Het is rustiger en dus meer geschikt voor mensen die op zoek zijn naar een echt ontspannende ervaring op het witte, schone zandstrand.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "#4 Oa Prao",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Ao Prao is het enige strand aan de westkust van Samet en het is een prachtig strand. Naast het hagelwitte zandstrand vind je hier ook een aantal resorts. Het strand is maar 200 meter lang, maar nog steeds erg aangenaam.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Ao Prao is een van de rustigste stranden van Koh Samet.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "#5 Ao Put Sa",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Ao Put Sa is een kleine baai op het eiland. Geschikt voor mensen die geen zin hebben in de drukke(re) stranden en uitgaansgelegenheden. Ao Put Sa biedt een rustig toevluchtsoord waar je kunt genieten van de mooie natuur en het kristalheldere zeewater.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "#6 Ao Kiu Nok",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Deze baai ligt op een perfecte afgelegen plek. Degenen die willen ontspannen van de drukke, moeten hier heen komen. Het is de ideale plek is om de spectaculaire zonsopkomst en zonsondergang te zien.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "TIP ♥ – het strand ligt in het zuiden van Koh Samet",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Wat is er te doen op Koh Samet",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "De meeste mensen komen hier voor de stranden. En dat is begrijpelijk, er is veel meer te doen op dit eiland. De activiteiten op en rond het water zijn natuurlijk het populairst.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Dit zijn de leukste activiteiten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "#1 Duiken en snorkelen",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Het zal niemand verbazen dat je hier goed kunt duiken en snorkelen. Het eiland wordt omringd door kristalhelder water en doordat het water vlak voor de kust ondiep is, kun je hier goed snorkelen.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Snorkelspullen kun je huren bij bijna alle accommodaties.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Als je wat meer wil zien kun je beter gaan duiken. Als je wat verder van de kust af gaat, kun je hier ontzettend veel zeeleven spotten. Je kunt hier zelfs je PADI halen. Ao Kiu en Shark Point zijn goede plekken om te duiken.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "#2 Maak een boottocht",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "De beste manier om de regio rondom Koh Samet te ontdekken is een boottocht. Tijdens zo’n boottocht spendeer je een hele of halve dag op het water. De island-hopping tour, zoals ze vaak heten, brengen je naar de mooiste stranden van het eiland.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Daarnaast ontdek je ook nog de kleinere omliggende eilanden zoals Ko Ku Dee, Ko Khangkhao, Ko Kham, Kruai en Ko Chan.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "TIP ♥ – de meeste operators zitten op Sai Kaew Beach en Vong Duen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "De eilandjes",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "De beste accommodaties",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Hoewel de duurdere accommodatie hier de overhand heeft, vind je wel accommodatie in elke prijsklasse. Reken wel op hogere prijzen hier. Als je voordelige, en vaak wat eenvoudige, accommodatie zoekt, kun je die vinden op stranden als Ao Hin Kok, Ao Phai en Ao Tub Tim.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Hier vindt je dan ook de meeste backpackers.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Welke stranden?",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "De stranden zijn hier prima, maar niet te druk. Vooral in Ao Hin Khok vind je een paar prima guesthouses. Toch zul je in Koh Samet niet heel goedkoop kunnen overnachten.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Zeker in de weekeinden en tijdens het hoogseizoen kunnen de prijzen erg snel omhoog lopen. Reken op de volgende prijzen;",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Tweepersoonskamer budget hotel ➜ €15 per nacht",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Tweepersoonskamer normaal hotel ➜ €25 tot €50 per nacht",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Resorts ➜ vanaf €100 per nacht",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "TIP ♥ – bekijk hier ons overzicht van de mooiste hotels op Koh Samet",
+            "url": "https://www.reis-expert.nl/azie/thailand/hotel-thailand/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/hotel-thailand/",
+                "anchor_text": "ons overzicht"
+              }
+            ]
+          },
+          {
+            "text": "Sunset time",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Hoe kom je hier?",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Koh Samet is makkelijk te bereiken. Dat komt, omdat het in de buurt van Bangkok en Pattaya ligt. De toegangspoort tot het eiland is de Ban Phe Pier. Hier moet je eerst heen reizen.",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/bangkok/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/bangkok/",
+                "anchor_text": "Bangkok"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Vanaf Bangkok",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Je kunt met de bus van het Ekamai busstation in Bangkok naar Ban Phe reizen. De bussen vertrekken elk uur tussen 5:00 en 17:00 uur. Reken op zo’n 160 baht en een reis van ongeveer 4 uur.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Het is eerlijk gezegd makkelijker om een taxi of minivan te regelen. Dit kan bij alle operators in Bangkok die je op elke hoek van de straat vindt. Vraag of ze transport service hebben richting Koh Samet en vaak kun je dan een minivan + ferry bij hun boeken.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Een minivan kost rond 300 baht, een ticket voor de ferry zo’n 50 baht (one-way).",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Vanaf Pattaya",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Er gaan geen bussen van Pattaya naar Ban Phe dus je moet een taxi regelen of je vervoer regelen bij een operator. Ook hier regel je vaak een minivan/taxi en ferry in één.",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/pattaya/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/pattaya/",
+                "anchor_text": "Pattaya"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Online boeken",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Je kunt je reis naar Koh Samet ook online plannen via ons boekingssysteem. Een handige tool waar je alle prijzen en mogelijke routes makkelijk online kunt checken.",
+            "url": "https://www.reis-expert.nl/azie/thailand/boek-vervoer/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/boek-vervoer/",
+                "anchor_text": "boekingssysteem"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "2 gedachten over “Koh Samet”",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Sorry hoor , maar die Hat sai keaw is echt een over gebetonneerde overbevolkte stukje strand, waar de ene toerist over de andere ligt. Bovendien staat de politie bij het straatje naar het strand toe klaar om van iedere toerist 400thb te innen,zogezegd toegang tot het National park. Belachelijk, wat een troep daar. Het ene ‘hotel’ tegen het andere, vol bouwoverschot dat niet opgeruimd wordt..echt onaanvaardbaar,zo’n National Park!",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bedankt voor de bijdrage Karine! We gaat het updaten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Locatie",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 2,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Meer lezen over Thailand?",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Ao Nang Beach",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/ao-nang-beach/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/ao-nang-beach/",
+                "anchor_text": "Ao Nang Beach"
+              }
+            ]
+          },
+          {
+            "text": "Chiang Mai",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/chiang-mai/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/chiang-mai/",
+                "anchor_text": "Chiang Mai"
+              }
+            ]
+          },
+          {
+            "text": "Chiang Rai",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/chiang-rai/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/chiang-rai/",
+                "anchor_text": "Chiang Rai"
+              }
+            ]
+          },
+          {
+            "text": "Doi Inthanon National Park",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/doi-inthanon-national-park/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/doi-inthanon-national-park/",
+                "anchor_text": "Doi Inthanon National Park"
+              }
+            ]
+          },
+          {
+            "text": "Hua Hin",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/hua-hin/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/hua-hin/",
+                "anchor_text": "Hua Hin"
+              }
+            ]
+          },
+          {
+            "text": "Khao Lak",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/khao-lak/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/khao-lak/",
+                "anchor_text": "Khao Lak"
+              }
+            ]
+          },
+          {
+            "text": "Khao Sok National Park",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/khao-sok-nationaal-park/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/khao-sok-nationaal-park/",
+                "anchor_text": "Khao Sok National Park"
+              }
+            ]
+          },
+          {
+            "text": "Khao Yai National Park",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/khao-yai-national-park/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/khao-yai-national-park/",
+                "anchor_text": "Khao Yai National Park"
+              }
+            ]
+          },
+          {
+            "text": "Koh Chang",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-chang/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-chang/",
+                "anchor_text": "Koh Chang"
+              }
+            ]
+          },
+          {
+            "text": "Koh Kood",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-kood/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-kood/",
+                "anchor_text": "Koh Kood"
+              }
+            ]
+          },
+          {
+            "text": "Koh Lanta",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-lanta/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-lanta/",
+                "anchor_text": "Koh Lanta"
+              }
+            ]
+          },
+          {
+            "text": "Koh Lipe",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-lipe/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-lipe/",
+                "anchor_text": "Koh Lipe"
+              }
+            ]
+          },
+          {
+            "text": "Koh Mak",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-mak/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-mak/",
+                "anchor_text": "Koh Mak"
+              }
+            ]
+          },
+          {
+            "text": "Koh Mook",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-mook/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-mook/",
+                "anchor_text": "Koh Mook"
+              }
+            ]
+          },
+          {
+            "text": "Koh Phangan",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-phangan/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-phangan/",
+                "anchor_text": "Koh Phangan"
+              }
+            ]
+          },
+          {
+            "text": "Koh Phayam",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-phayam/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-phayam/",
+                "anchor_text": "Koh Phayam"
+              }
+            ]
+          },
+          {
+            "text": "Koh Phi Phi",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-phi-phi/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-phi-phi/",
+                "anchor_text": "Koh Phi Phi"
+              }
+            ]
+          },
+          {
+            "text": "Koh Samui",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-samui/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-samui/",
+                "anchor_text": "Koh Samui"
+              }
+            ]
+          },
+          {
+            "text": "Koh Tao",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-tao/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-tao/",
+                "anchor_text": "Koh Tao"
+              }
+            ]
+          },
+          {
+            "text": "Koh Wai",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-wai/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-wai/",
+                "anchor_text": "Koh Wai"
+              }
+            ]
+          },
+          {
+            "text": "Mae Hong Son",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/mae-hong-son/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/mae-hong-son/",
+                "anchor_text": "Mae Hong Son"
+              }
+            ]
+          },
+          {
+            "text": "Maya Bay Beach",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/maya-bay-beach/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/maya-bay-beach/",
+                "anchor_text": "Maya Bay Beach"
+              }
+            ]
+          },
+          {
+            "text": "Railay Beach",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/railay-beach/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/railay-beach/",
+                "anchor_text": "Railay Beach"
+              }
+            ]
+          },
+          {
+            "text": "River Kwai",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/river-kwai/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/river-kwai/",
+                "anchor_text": "River Kwai"
+              }
+            ]
+          },
+          {
+            "text": "Sai Yok National Park",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/sai-yok-national-park/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/sai-yok-national-park/",
+                "anchor_text": "Sai Yok National Park"
+              }
+            ]
+          },
+          {
+            "text": "Similan Eilanden",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/similan-eilanden/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/similan-eilanden/",
+                "anchor_text": "Similan Eilanden"
+              }
+            ]
+          },
+          {
+            "text": "Wat Arun",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/wat-arun/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/wat-arun/",
+                "anchor_text": "Wat Arun"
+              }
+            ]
+          },
+          {
+            "text": "Wat Rong Khun",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/wat-rong-khun/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/wat-rong-khun/",
+                "anchor_text": "Wat Rong Khun"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Geef een reactie",
+        "main_title": "Island vibe op Koh Samet",
+        "author": "https://www.facebook.com/reisexpertNL/",
+        "language": "nl",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Je e-mailadres wordt niet gepubliceerd. Vereiste velden zijn gemarkeerd met *",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Geef een reactie",
+            "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-samet/",
+            "urls": [
+              {
+                "url": "https://www.reis-expert.nl/azie/thailand/highlights-thailand/koh-samet/",
+                "anchor_text": "Reactie annuleren"
+              }
+            ]
+          },
+          {
+            "text": "Reactie *",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

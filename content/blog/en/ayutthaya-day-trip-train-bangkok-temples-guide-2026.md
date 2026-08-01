@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "day-trips"
 tags: ["Ayutthaya day trip", "Bangkok to Ayutthaya train", "Ayutthaya temples 2026", "Thailand temple ruins", "budget travel Thailand", "Wat Mahathat Ayutthaya"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/ayutthaya-day-trip-train-bangkok-temples-guide-2026-hero.webp"
 description: "Take the train from Bangkok to Ayutthaya and explore ancient temple ruins for under 500 baht. Here is everything you need to know about planning the perfect Ayutthaya day trip in 2026."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 ## Why Ayutthaya Deserves a Full Day
 
-Just 80 kilometres north of [Bangkok](/city/bangkok/) lies the UNESCO-listed ancient capital of [Ayutthaya](/city/ayutthaya/), once one of the largest and most cosmopolitan cities in the world. Today its sprawling temple ruins, headless Buddha statues and crumbling prangs make it one of the most rewarding [day trips from Bangkok](/best-day-trips-from-bangkok/) you can take from the Thai capital — and one of the cheapest.
+Just 80 kilometres north of [Bangkok](/city/bangkok/) lies the UNESCO-listed ancient capital of [Ayutthaya](/city/ayutthaya/), once one of the largest and most cosmopolitan cities in the world. Today its sprawling temple ruins, headless Buddha statues and crumbling prangs make it one of the most rewarding [day trips from Bangkok](/blog/best-day-trips-from-bangkok/) you can take from the Thai capital — and one of the cheapest.
 
 ## Getting There by Train
 
@@ -59,4 +59,4 @@ Individual temple entry costs between 20 and 50 baht. If you plan to visit sever
 - **Bring water and sunscreen.** Shade is limited among the open ruins.
 - **Best months:** November to January offers the mildest weather. Check our [best time to visit Thailand](/blog/best-time-to-visit-thailand/) guide for full seasonal details. Avoid the rainy season from June to September when paths can flood.
 
-Ayutthaya is proof that world-class history does not have to cost a fortune. A train ticket, a bicycle and a temple pass will set you back less than 500 baht — and give you a day you will not forget. For where to sleep, browse the [best hotels in Ayutthaya](/best-hotels/ayutthaya/) or, if you prefer to stay in the capital, the [best hotels in Bangkok](/best-hotels/bangkok/). If you want more inspiration, our [best places to visit in Thailand](/best-places-to-visit-thailand/) guide and [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/) are both worth bookmarking before your trip.
+Ayutthaya is proof that world-class history does not have to cost a fortune. A train ticket, a bicycle and a temple pass will set you back less than 500 baht — and give you a day you will not forget. For where to sleep, browse the [best hotels in Ayutthaya](/best-hotels/ayutthaya/) or, if you prefer to stay in the capital, the [best hotels in Bangkok](/best-hotels/bangkok/). If you want more inspiration, our [best places to visit in Thailand](/best-places-to-visit-thailand/) guide and [Thailand budget backpacker guide](/thailand-index/budget/) are both worth bookmarking before your trip.

@@ -32,7 +32,7 @@ sources:
 
 ## Bangkok Gets Its First Singapore-Style Hawker Centre
 
-Bangkok has long been the undisputed capital of [Thai street food](/blog/thai-street-food-guide-2026/), but the city's pavement vendors have always operated without a permanent, organized home. That changed on **10 April 2026** with the [soft opening](https://www.nationthailand.com/blogs/thailand/bangkok/40064920) of the Lumpini Park Hawker Centre — Bangkok's first Singapore-style hawker centre, located on Ratchadamri Road right next to Gate 5 of one of the city's most beloved green spaces. The formal launch is planned for May 2026; the trial phase is already live and open to visitors.
+Bangkok has long been the undisputed capital of [Thai street food](/thailand-street-food/), but the city's pavement vendors have always operated without a permanent, organized home. That changed on **10 April 2026** with the [soft opening](https://www.nationthailand.com/blogs/thailand/bangkok/40064920) of the Lumpini Park Hawker Centre — Bangkok's first Singapore-style hawker centre, located on Ratchadamri Road right next to Gate 5 of one of the city's most beloved green spaces. The formal launch is planned for May 2026; the trial phase is already live and open to visitors.
 
 The Bangkok Metropolitan Administration (BMA) built the centre to raise food safety and hygiene standards while giving low-income street vendors a proper place to cook and sell. Construction started on 27 June 2025, and the project soft-opened in April 2026 in partnership with **LINE MAN Wongnai**, which supplied LINE Pay QR payment terminals and much of the communal equipment (crockery, hand-washing and dishwashing stations, rider waiting areas). The Lumpini location is a pilot project — if successful, the BMA plans to expand the hawker centre concept to other Bangkok districts.
 
@@ -71,14 +71,14 @@ This means the food will come from the same experienced vendors who have been co
 
 The hawker centre showcases Bangkok's representative street food dishes. Typical Bangkok staples [confirmed by BK Magazine](https://www.bkmagazine.com/things-to-do/what-we-know-about-upcoming-lumpini-hawker-center-set-to-open-2026/) include:
 
-- **[Pad thai](/blog/pad-thai-street-food-vs-restaurant-homemade/)** — Thailand's famous stir-fried rice noodles
-- **[Som tam](/blog/som-tam-regional-variations-thailand/)** — green papaya salad in various regional styles
+- **[Pad thai](/food/pad-thai/)** — Thailand's famous stir-fried rice noodles
+- **[Som tam](/food/som-tam/)** — green papaya salad in various regional styles
 - **Grilled skewers** — moo ping (pork) and satay (chicken) are Bangkok staples
 - **Boat noodles** — rich, dark-broth noodle soups
 - **Khao man gai** — Hainanese chicken rice
 - **Pad kra pao** — stir-fried holy basil with minced pork over rice
 - **Khao kha moo** — braised pork leg on rice
-- **[Mango sticky rice](/blog/mango-sticky-rice-season-thailand/)** — the ultimate Thai dessert
+- **[Mango sticky rice](/food/mango-sticky-rice/)** — the ultimate Thai dessert
 
 ### Real sample prices from the trial period
 
@@ -166,7 +166,7 @@ If the hawker centre whets your appetite, Bangkok has plenty more to explore:
 - **[Bangkok cooking class with market tour](/blog/best-cooking-classes-bangkok-market-tour-2026/)** — learn to cook the dishes yourself
 - **[Bangkok specialty coffee guide](/blog/bangkok-specialty-coffee-cafe-guide-2026/)** — pair a morning coffee with a hawker centre breakfast
 - **[Chatuchak Weekend Market](/blog/chatuchak-market-bangkok-guide/)** — Bangkok's biggest market, with its own food section
-- **[Bangkok street food for beginners](/blog/bangkok-street-food-beginners/)** — if you are new to Thai street food
+- **[Bangkok street food for beginners](/blog/best-street-food-markets-bangkok/)** — if you are new to Thai street food
 
 ## FAQ
 
@@ -200,7 +200,7 @@ For now, yes. The Lumpini location is a **pilot project** by the BMA. If the con
 
 ### Is it suitable for first-time visitors to Bangkok?
 
-The Lumpini Hawker Centre will likely be one of the best places for tourists to try authentic Bangkok street food. The regulated hygiene standards, covered seating, and central location make it far more approachable than navigating random pavement stalls — especially if you have been nervous about trying [street food for the first time](/blog/bangkok-street-food-beginners/).
+The Lumpini Hawker Centre will likely be one of the best places for tourists to try authentic Bangkok street food. The regulated hygiene standards, covered seating, and central location make it far more approachable than navigating random pavement stalls — especially if you have been nervous about trying [street food for the first time](/blog/best-street-food-markets-bangkok/).
 
 ---
 

@@ -1,0 +1,875 @@
+{
+  "captured_at": "2026-07-27T13:18:33.615Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "bangkok to chiang mai sleeper train",
+  "costs": {
+    "suggestions": 0.01728,
+    "related": 0.01416,
+    "competitors": 0.01788
+  },
+  "competitorKeywords": [
+    "bangkok to chiang mai sleeper train",
+    "bangkok sleeper train to chiang mai",
+    "sleeper train bangkok to chiang mai",
+    "sleeper train from bangkok to chiang mai",
+    "chiang mai to bangkok sleeper train",
+    "sleeper train chiang mai to bangkok",
+    "sleeper train from chiang mai to bangkok",
+    "bangkok to chiang mai train sleeper",
+    "thailand sleeper train bangkok to chiang mai",
+    "1st class sleeper train bangkok to chiang mai price",
+    "bangkok to chiang mai sleeper train cost",
+    "bangkok to chiang mai sleeper train price",
+    "best sleeper train from bangkok to chiang mai",
+    "chiang mai to bangkok train sleeper",
+    "how much is sleeper train from bangkok to chiang mai",
+    "how to book sleeper train from bangkok to chiang mai",
+    "number 9 sleeper train bangkok to chiang mai",
+    "sleeper train bangkok to chiang mai price"
+  ],
+  "keywords": [
+    {
+      "keyword": "bangkok sleeper train to chiang mai",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train bangkok to chiang mai",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train from bangkok to chiang mai",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai flight",
+      "volume": 880,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai sleeper train",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai to bangkok sleeper train",
+      "volume": 880,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train chiang mai to bangkok",
+      "volume": 880,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "1st class sleeper train bangkok to chiang mai",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "first class sleeper train bangkok to chiang mai",
+      "volume": 210,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai train 1st class",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "first class sleeper train thailand",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sleeper train bangkok to chiang mai first class",
+      "volume": 90,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "train 9 bangkok to chiang mai",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "2nd class sleeper train bangkok to chiang mai",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sleeper train from chiang mai to bangkok",
+      "volume": 30,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train to chiang mai from bangkok",
+      "volume": 30,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "2nd class sleeper train thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai sleeper train 1st class",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai train sleeper",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "book sleeper train bangkok to chiang mai",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "first class sleeper train chiang mai to bangkok",
+      "volume": 20,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train bangkok to chiang mai official website",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand sleeper train bangkok to chiang mai",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "train 13 bangkok to chiang mai",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "1st class sleeper train bangkok to chiang mai price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "2nd class sleeper train chiang mai to bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai sleeper train #9",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai sleeper train 2nd class",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai sleeper train 9",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai sleeper train cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai sleeper train price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai sleeper train tickets",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to chiang mai train 1st class sleeper",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sleeper train from bangkok to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "book bangkok to chiang mai sleeper train",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang mai to bangkok train sleeper",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "first class sleeper train bangkok to surat thani",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much is sleeper train from bangkok to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to book first class sleeper train thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to book sleeper train from bangkok to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "luxury sleeper train bangkok to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "number 9 sleeper train bangkok to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train 9 bangkok to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train bangkok to chiang mai price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train thailand bangkok to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "train 51 bangkok to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "train 9 bangkok to chiang mai booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vip sleeper train bangkok to chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "1st class sleeper train bangkok to chiang mai reviews",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "1st class sleeper train bangkok to chiang mai tickets",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "book overnight sleeper train bangkok to chiang mai",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "booking sleeper train bangkok to chiang mai",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "booking sleeper train from bangkok to chiang mai",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sleeper train chiang mai to bangkok wifi",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.thailandtrains.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 571.52
+    },
+    {
+      "domain": "thai-railways.com",
+      "avgPosition": 3.5,
+      "keywordCount": 2,
+      "visibility": 1.5,
+      "estimatedTraffic": 155.292
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 4.5,
+      "keywordCount": 2,
+      "visibility": 1.3,
+      "estimatedTraffic": 119.42399999999999
+    },
+    {
+      "domain": "www.inwanderment.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 157.56
+    },
+    {
+      "domain": "agaonthe.run",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 69.428
+    },
+    {
+      "domain": "www.thaitrainguide.com",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 66.872
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 9,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 28.635999999999996
+    },
+    {
+      "domain": "12go.asia",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 17.108
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 13,
+      "keywordCount": 2,
+      "visibility": 0.55,
+      "estimatedTraffic": 32.144
+    },
+    {
+      "domain": "iamkohchang.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 15.399999999999999
+    },
+    {
+      "domain": "www.chiangmaitraveller.com",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.7
+    },
+    {
+      "domain": "worldvegantravel.com",
+      "avgPosition": 2,
+      "keywordCount": 1,
+      "visibility": 0.9,
+      "estimatedTraffic": 162
+    },
+    {
+      "domain": "lastminutewanders.com",
+      "avgPosition": 4,
+      "keywordCount": 1,
+      "visibility": 0.7,
+      "estimatedTraffic": 65.9
+    },
+    {
+      "domain": "www.seat61.com",
+      "avgPosition": 8,
+      "keywordCount": 1,
+      "visibility": 0.3,
+      "estimatedTraffic": 19.7
+    },
+    {
+      "domain": "shippedaway.com",
+      "avgPosition": 13,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.8999999999999995
+    },
+    {
+      "domain": "www.busonlineticket.co.th",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.6
+    },
+    {
+      "domain": "easytravel4u.com",
+      "avgPosition": 14,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.928
+    },
+    {
+      "domain": "theroamingrenegades.com",
+      "avgPosition": 15,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.1000000000000005
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 17,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 4.3
+    },
+    {
+      "domain": "thaitrainticket.com",
+      "avgPosition": 19,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.7
+    },
+    {
+      "domain": "www.havehalalwilltravel.com",
+      "avgPosition": 21,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.3
+    },
+    {
+      "domain": "traintochiangmai.info",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "ouroffbeatlife.com",
+      "avgPosition": 24,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.baolau.com",
+      "avgPosition": 27,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "hungrybackpack.com",
+      "avgPosition": 28,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 30,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "travelynnfamily.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "24hourslayover.com",
+      "avgPosition": 33,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.backpackerswanderlust.com",
+      "avgPosition": 34,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "therollingpack.com",
+      "avgPosition": 35,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "go2-thailand.com",
+      "avgPosition": 37,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 38,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "siamtickets.com",
+      "avgPosition": 39,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "briabroad.com",
+      "avgPosition": 41,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "thesmartlocal.com",
+      "avgPosition": 42,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "talesfromtheroadahead.com",
+      "avgPosition": 45,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "yohomobile.com",
+      "avgPosition": 46,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "parenthoodandpassports.com",
+      "avgPosition": 51,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "passportandstamps.com",
+      "avgPosition": 52,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.pattayaunlimited.com",
+      "avgPosition": 54,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.laurassuitcase.com",
+      "avgPosition": 55,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.thatbangkoklife.com",
+      "avgPosition": 57,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "en.kosupatravel.com",
+      "avgPosition": 63,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "viajerosactivos.com",
+      "avgPosition": 65,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "polyglotpetra.com",
+      "avgPosition": 67,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "thailandtrain.org",
+      "avgPosition": 69,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 70,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "thetraveldeck.com",
+      "avgPosition": 74,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    },
+    {
+      "domain": "www.cleverthai.com",
+      "avgPosition": 82,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 2.1
+    }
+  ]
+}

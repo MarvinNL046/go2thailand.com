@@ -7,6 +7,7 @@ import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import { withSubId, TRIP_GENERIC } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
+import PhuketAreaHotelsHubNl from '../../../../components/hotels/PhuketAreaHotelsHubNl';
 
 interface Partner { partnerUrl: string; label: string; }
 interface Partners { trip_pillar: Partner; trip_hotels: Partner; klook_pillar: Partner; gyg_pillar: Partner; viator_pillar: Partner; }
@@ -16,6 +17,7 @@ export default function KataHotelsHub({ partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
+  if (isNl) return <PhuketAreaHotelsHubNl area="kata" tripUrl={partners.trip_hotels.partnerUrl} />;
   const placement = (p: string) => `${subId}-pseo-phuket-kata-hotels-${p}`;
 
   const breadcrumbs = [
@@ -90,7 +92,7 @@ export default function KataHotelsHub({ partners, lastUpdated }: Props) {
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           <section>
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-2">{isNl ? '8 Kata Beach hotels vergeleken' : '8 Kata Beach hotels compared'}</h2>
             <p className="text-gray-600 mb-6">{isNl ? 'Klik om live tarieven te zien (we verdienen een kleine commissie zonder dat het jou iets extra kost).' : 'Click to see live rates (we earn a small commission at no extra cost to you).'}</p>
@@ -161,7 +163,7 @@ export default function KataHotelsHub({ partners, lastUpdated }: Props) {
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );

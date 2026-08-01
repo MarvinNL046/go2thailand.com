@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-to-koh-samui-guide",
+  "route": "/nl/blog/bangkok-to-koh-samui-guide/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Van Bangkok naar Koh Samui: kies je route | Go2Thailand",
+    "description": "Vergelijk vliegen, trein of bus met ferry van Bangkok naar Koh Samui. Kies op reistijd, overstappen, bagage en zeecondities.",
+    "primaryKeyword": "bangkok naar koh samui",
+    "secondaryKeywords": ["van Bangkok naar Koh Samui", "trein naar Koh Samui", "bus en ferry Koh Samui"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/bangkok-to-koh-samui-guide/"
+  },
+  "hero": {
+    "eyebrow": "Eilandroute zonder verrassingen",
+    "title": "Bangkok naar Koh Samui",
+    "accent": "Kies tijd, rust of budget.",
+    "description": "Een directe vlucht is het eenvoudigst. Via Surat Thani reis je goedkoper, maar voeg je een landtransfer en ferry toe.",
+    "image": "/images/redesign/editorial/bangkok-to-koh-samui-guide-hero.webp",
+    "imageAlt": "Boot in een turquoise baai met tropisch groen op Koh Samui",
+    "primaryCta": { "label": "Vergelijk de routes", "href": "#routekeuze" },
+    "secondaryCta": { "label": "Bekijk actuele tickets", "href": "#tickets" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "route", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Vlieg rechtstreeks naar Samui als tijd en weinig overstappen het belangrijkst zijn. Kies trein of bus naar Surat Thani plus ferry als budget en reiservaring zwaarder wegen; controleer altijd de volledige keten en de aankomstpier.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "routekeuze",
+      "title": "Welke route past bij jouw reis?",
+      "options": [
+        { "title": "Direct vliegen", "description": "De minste schakels en meestal de snelste aankomst, maar tarieven wisselen sterk.", "label": "Snelst" },
+        { "title": "Vliegen via Surat Thani", "description": "Combineert een binnenlandse vlucht met landtransfer en ferry; let op voldoende overstaptijd.", "label": "Balans" },
+        { "title": "Trein of bus + ferry", "description": "Een lange keten die een hotelnacht kan besparen, maar gevoeliger is voor vertraging en slaapcomfort.", "label": "Budget" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "overstappen",
+      "title": "Controleer de hele keten",
+      "steps": [
+        { "title": "Kies de aankomstpier", "description": "Nathon, Lipa Noi en andere pieren liggen niet naast iedere hotelzone." },
+        { "title": "Lees wat het ticket omvat", "description": "Controleer vlucht of trein, transfer naar de pier, ferry en bagage als afzonderlijke onderdelen." },
+        { "title": "Bouw een buffer in", "description": "Losse tickets geven minder bescherming wanneer het eerste deel vertraging heeft of de zeevaart wijzigt." }
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "tickets",
+      "provider": "12go",
+      "title": "Vergelijk de actuele routeketen",
+      "description": "Controleer live vertrektijd, vertrekpunt, operator, bagage, overstap en annuleringsvoorwaarden voordat je kiest.",
+      "cta": { "label": "Bekijk actuele opties bij 12Go", "href": "https://12go.tpo.lv/tNA80urD", "external": true },
+      "placement": "bangkok-samui-transport",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Bangkok naar Koh Samui",
+      "items": [
+        { "question": "Kun je rechtstreeks van Bangkok naar Koh Samui vliegen?", "answer": "Ja. Controleer bij Bangkok Airways welke luchthaven in Bangkok, vertrektijd en voorwaarden bij jouw datum horen." },
+        { "question": "Heeft Koh Samui een treinstation?", "answer": "Nee. De trein eindigt op het vasteland bij Surat Thani; daarna volgen vervoer naar de pier en een ferry." },
+        { "question": "Is één combiticket beter dan losse tickets?", "answer": "Een combiticket kan de aansluiting eenvoudiger maken. Lees wel wie ieder traject uitvoert en wat er bij vertraging gebeurt." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Actuele routebronnen",
+      "items": [
+        { "title": "Book a flight", "publisher": "Bangkok Airways", "url": "https://www.bangkokair.com/eng/flight/booking", "checkedAt": "2026-08-01", "note": "Live vlucht- en tariefcontrole." },
+        { "title": "Samui International Airport", "publisher": "Bangkok Airways", "url": "https://www.bangkokair.com/samui-international-airport", "checkedAt": "2026-08-01", "note": "Officiële luchthaveninformatie." },
+        { "title": "Lomprayah", "publisher": "Lomprayah", "url": "https://www.lomprayah.com/", "checkedAt": "2026-08-01", "note": "Live ferry- en gecombineerde vervoersopties." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan aankomst en verblijf",
+      "items": [
+        { "title": "Koh Samui overzicht", "description": "Kies de kust die bij jouw reisritme past.", "href": "/nl/city/koh-samui/" },
+        { "title": "Overnachten op Koh Samui", "description": "Vergelijk stranden en hotelzones zonder vaste prijsclaims.", "href": "/nl/best-hotels/koh-samui/" },
+        { "title": "Surat Thani", "description": "Plan een bewuste tussenstop op het vasteland.", "href": "/nl/city/surat-thani/" }
+      ]
+    }
+  ]
+}

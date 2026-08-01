@@ -50,7 +50,7 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
       }
     } catch (error) {
       console.error('Error submitting feedback:', error);
-      alert('Failed to submit feedback. Please try again.');
+      alert(t("s004_submit_error"));
     } finally {
       setIsSubmitting(false);
     }
@@ -75,7 +75,7 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
       <CardHeader>
         <CardTitle>{t("s003_was_this_page_helpful")}</CardTitle>
         <CardDescription>
-          Let us know how we can improve this travel guide
+          {t("s005_help_us_improve")}
         </CardDescription>
       </CardHeader>
       <CardContent>
@@ -83,7 +83,7 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
           {/* Rating */}
           <div>
             <label className="block text-sm font-medium mb-2">
-              Rate this page
+              {t("s006_rate_this_page")}
             </label>
             <div className="flex gap-1">
               {[1, 2, 3, 4, 5].map((star) => (
@@ -92,7 +92,7 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
                   type="button"
                   onClick={() => setRating(star)}
                   className="p-1 hover:scale-110 transition-transform"
-                  aria-label={`Rate ${star} stars`}
+                  aria-label={star === 1 ? t("s017_rate_one_star") : `${t("s007_rate")} ${star} ${t("s008_stars")}`}
                 >
                   <Star
                     className={`w-8 h-8 ${
@@ -112,7 +112,7 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
               {/* Message */}
               <div>
                 <label htmlFor="feedback-message" className="block text-sm font-medium mb-2">
-                  Tell us more (required)
+                  {t("s009_tell_us_more")}
                 </label>
                 <textarea
                   id="feedback-message"
@@ -122,8 +122,8 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
                   rows={3}
                   placeholder={
                     rating <= 3
-                      ? "What could we improve?"
-                      : "What did you like about this page?"
+                      ? t("s010_what_could_improve")
+                      : t("s011_what_did_you_like")
                   }
                   required
                 />
@@ -132,7 +132,7 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
               {/* Email (optional) */}
               <div>
                 <label htmlFor="feedback-email" className="block text-sm font-medium mb-2">
-                  Email (optional)
+                  {t("s012_email_optional")}
                 </label>
                 <Input
                   id="feedback-email"
@@ -151,13 +151,13 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
                         className="rounded border-gray-300 text-blue-600 focus:ring-blue-500"
                       />
                       <span className="text-sm text-gray-600">
-                        Keep me updated about Go2 Thailand travel tips
+                        {t("s013_keep_me_updated")}
                       </span>
                     </label>
                   </div>
                 )}
                 <p className="text-xs text-gray-500 mt-1">
-                  We'll only use this if we need to follow up on your feedback
+                  {t("s014_email_use")}
                 </p>
               </div>
 
@@ -168,11 +168,11 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
                 disabled={!message.trim() || isSubmitting}
               >
                 {isSubmitting ? (
-                  'Sending...'
+                  t("s015_sending")
                 ) : (
                   <>
                     <Send className="w-4 h-4 mr-2" />
-                    Send Feedback
+                    {t("s016_send_feedback")}
                   </>
                 )}
               </Button>

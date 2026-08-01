@@ -36,13 +36,13 @@ sources:
 | What are the must-try dishes? | Start with **Pad Thai**, **Khao Man Gai**, and **Mango Sticky Rice** -- explore all signature dishes in our [Thai food section](/food/). |
 | Where are the best street food areas? | **Yaowarat (Chinatown)** for night market seafood, **Or Tor Kor Market** for premium quality, and **Victory Monument** for budget eats. |
 | Is Bangkok street food safe to eat? | Yes -- **millions of locals eat it daily**. Stick to busy stalls with high turnover and food cooked to order. Read our [safety tips](/practical-info/scams-safety/). |
-| How much does a day of street food cost? | A full day of **budget eating** costs around **270-350 THB (~7.50-10 USD)**. See our [budget backpacker guide](/blog/thailand-budget-backpacker-guide/) for more savings tips. |
+| How much does a day of street food cost? | A full day of **budget eating** costs around **270-350 THB (~7.50-10 USD)**. See our [budget backpacker guide](/thailand-index/budget/) for more savings tips. |
 | How do I order if I don't speak Thai? | **Point at what you want**, use basic Thai phrases like "mai pet" (not spicy), and pay with **small cash bills**. See our [money and ATM guide](/practical-info/atm-money/). |
 | What else should I explore beyond Bangkok? | Try **Khao Soi** in Chiang Mai and **seafood curries** near the [Thai islands](/islands/). Check the [best time to visit Thailand](/blog/best-time-to-visit-thailand/) to plan your trip. |
 
 ## 1. Why Bangkok Street Food Is Special
 
-**Thai street food** is not a downgraded version of restaurant food — it is one of the pillars of [what makes Thai cuisine so unique](/blog/what-is-thai-food-cuisine-guide). Many of **Bangkok's best meals** come from vendors who have perfected a single dish over decades. Some of these stalls have earned **Michelin recognition**. The quality is exceptional, the variety is staggering, and the prices remain remarkably low -- most dishes cost between **30 and 80 THB** (roughly 0.80-2.20 USD). For tips on managing your money, check our [ATM and money guide](/practical-info/atm-money/).
+**Thai street food** is not a downgraded version of restaurant food — it is one of the pillars of [what makes Thai cuisine so unique](/travel-guides/thai-cuisine-food-guide). Many of **Bangkok's best meals** come from vendors who have perfected a single dish over decades. Some of these stalls have earned **Michelin recognition**. The quality is exceptional, the variety is staggering, and the prices remain remarkably low -- most dishes cost between **30 and 80 THB** (roughly 0.80-2.20 USD). For tips on managing your money, check our [ATM and money guide](/practical-info/atm-money/).
 
 **Street food** is also deeply woven into Thai daily life. Thais eat out constantly, and **street stalls** serve as informal neighbourhood kitchens. Joining in is one of the best ways to experience **local Thai culture**. If you are planning when to go, our guide on the [best time to visit Thailand](/blog/best-time-to-visit-thailand/) can help you pick the ideal season -- [Bangkok's weather](/weather/) is hot year-round, but some months are more comfortable for walking food tours.
 
@@ -50,7 +50,7 @@ sources:
 
 ### Noodle Dishes
 
-- **[Pad Thai](/food/pad-thai/)** -- Stir-fried rice noodles with shrimp or chicken, egg, tofu, bean sprouts, and peanuts. The most famous **Thai street food** dish for good reason. Expect to pay 40-80 THB. Curious how it differs from restaurant versions? See our [Pad Thai street food vs. restaurant comparison](/blog/pad-thai-street-food-vs-restaurant-homemade/).
+- **[Pad Thai](/food/pad-thai/)** -- Stir-fried rice noodles with shrimp or chicken, egg, tofu, bean sprouts, and peanuts. The most famous **Thai street food** dish for good reason. Expect to pay 40-80 THB. Curious how it differs from restaurant versions? See our [Pad Thai street food vs. restaurant comparison](/food/pad-thai/).
 - **Boat noodles (kuay tiew ruea)** -- Small, intensely flavoured bowls of pork or beef **noodle soup**. Served in tiny portions, so order 2-3 bowls. Just 15-20 THB per bowl at stalls near **Victory Monument**.
 - **Pad see ew** -- Wide rice noodles stir-fried with soy sauce, egg, and Chinese broccoli. A reliable **comfort dish** beloved by locals and visitors alike (40-60 THB).
 
@@ -128,7 +128,7 @@ Having a working phone helps for translation apps and maps -- consider getting a
 - **Stay hydrated** -- **Bangkok is hot** and spicy food dehydrates you. Carry a water bottle, especially during the [hot season](/weather/).
 - **Fresh fruit** -- Pre-cut fruit from stalls is generally safe. **Pineapple**, mango, and watermelon are popular and refreshing.
 
-For broader safety advice including common tourist scams, check our [scams and safety guide](/practical-info/scams-safety/). It is also wise to arrange [travel insurance](/travel-insurance-thailand/) before your trip -- stomach issues are rare but having coverage gives peace of mind.
+For broader safety advice including common tourist scams, check our [scams and safety guide](/practical-info/scams-safety/). It is also wise to arrange [travel insurance](/travel-insurance/) before your trip -- stomach issues are rare but having coverage gives peace of mind.
 
 ## 6. Eating on a Budget
 
@@ -144,7 +144,7 @@ For broader safety advice including common tourist scams, check our [scams and s
 
 Even adding a **mango sticky rice** for dessert (80 THB), you are still under **350 THB for a full day** of excellent eating. Compare that to a restaurant meal that starts at 150-300 THB for a single dish. Wondering about the nutritional side of all that street food? Check out our guide on [whether Thai food is healthy](/blog/is-thai-food-healthy/). If you have dietary restrictions, our [gluten-free Thai food guide](/blog/is-thai-food-gluten-free/) explains what to order and what to avoid.
 
-For more **budget tips** on accommodation, transport, and activities, check our [Thailand budget backpacker guide](/blog/thailand-budget-backpacker-guide/). Getting around Bangkok cheaply is easy with the BTS and MRT -- read our [transport guide](/transport/) for routes and fares.
+For more **budget tips** on accommodation, transport, and activities, check our [Thailand budget backpacker guide](/thailand-index/budget/). Getting around Bangkok cheaply is easy with the BTS and MRT -- read our [transport guide](/transport/) for routes and fares.
 
 ## 7. Street Food Etiquette
 
@@ -155,7 +155,7 @@ For more **budget tips** on accommodation, transport, and activities, check our 
 
 ## 8. Beyond Bangkok
 
-Once you have mastered **Bangkok's street food scene**, explore the **regional specialties** across Thailand. Northern Thai food in [Chiang Mai](/city/chiang-mai/) features dishes like **[khao soi](/food/khao-soi/)** (curry noodles) and **[sai ua](/food/sai-ua/)** (herb sausage). Southern food near [Krabi](/city/krabi/) and [Phuket](/city/phuket/) leans heavier on turmeric, seafood, and fiery curries. For a deeper understanding of how Thai cuisine evolved, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/).
+Once you have mastered **Bangkok's street food scene**, explore the **regional specialties** across Thailand. Northern Thai food in [Chiang Mai](/city/chiang-mai/) features dishes like **[khao soi](/blog/khao-soi-chiang-mai-guide/)** (curry noodles) and **[sai ua](/food/sai-ua/)** (herb sausage). Southern food near [Krabi](/city/krabi/) and [Phuket](/city/phuket/) leans heavier on turmeric, seafood, and fiery curries. For a deeper understanding of how Thai cuisine evolved, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/).
 
 The [Thai islands](/islands/) also have excellent seafood -- imagine freshly grilled prawns on the beach at sunset. Plan your route with our [island hopping guide](/blog/thailand-island-hopping-guide/) and check the [weather guide](/weather/) to pick the right season. Do not forget to grab a [Thailand eSIM](/esim/) so you can look up food recommendations on the go, even on remote islands.
 
@@ -163,9 +163,9 @@ Explore our full [food section](/food/) for dish guides, recipes, and regional r
 
 ## 9. Final Thoughts
 
-**Bangkok street food** is safe, delicious, cheap, and endlessly varied. Do not overthink it. Walk up to a stall, point at something that looks good, and enjoy one of the world's great **culinary traditions** for the price of a coffee back home. With the right [travel insurance](/travel-insurance-thailand/) and a sense of adventure, your stomach will thank you. Want to learn to cook what you eat? The [Blue Elephant Cooking School in Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/) is one of the best ways to take these flavours home.
+**Bangkok street food** is safe, delicious, cheap, and endlessly varied. Do not overthink it. Walk up to a stall, point at something that looks good, and enjoy one of the world's great **culinary traditions** for the price of a coffee back home. With the right [travel insurance](/travel-insurance/) and a sense of adventure, your stomach will thank you. Want to learn to cook what you eat? The [Blue Elephant Cooking School in Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/) is one of the best ways to take these flavours home.
 
-Ready to plan your trip? Start with our [Bangkok city guide](/city/bangkok/), figure out the [best time to visit Thailand](/blog/best-time-to-visit-thailand/), and explore [practical info](/practical-info/scams-safety/) to make your journey smooth from landing to your last bite of **[mango sticky rice](/food/mango-sticky-rice/)**. If you are wondering what makes the cuisine tick at a deeper level, our [guide to Thai cuisine and culture](/blog/what-is-thai-food-cuisine-guide/) is a great starting point. For night market lovers, the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/) guide has the latest 2026 picks.
+Ready to plan your trip? Start with our [Bangkok city guide](/city/bangkok/), figure out the [best time to visit Thailand](/blog/best-time-to-visit-thailand/), and explore [practical info](/practical-info/scams-safety/) to make your journey smooth from landing to your last bite of **[mango sticky rice](/food/mango-sticky-rice/)**. If you are wondering what makes the cuisine tick at a deeper level, our [guide to Thai cuisine and culture](/travel-guides/thai-cuisine-food-guide/) is a great starting point. For night market lovers, the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/) guide has the latest 2026 picks.
 
 ## FAQ
 

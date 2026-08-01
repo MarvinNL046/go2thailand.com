@@ -1,0 +1,532 @@
+{
+  "captured_at": "2026-07-29T14:41:19.522Z",
+  "locale": "en",
+  "url": "https://tastecooking.com/recipes/khao-sen-shan-style-noodle-soup-pork-tomato/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": [
+        {
+          "text": "Sign up for our newsletter",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Our recipes and stories, delivered.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "The Monday Interview",
+          "url": "https://tastecooking.com/category/features/the-monday-interview/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/features/the-monday-interview/",
+              "anchor_text": "The Monday Interview"
+            }
+          ]
+        },
+        {
+          "text": "Rabbit Hole",
+          "url": "https://tastecooking.com/category/columns/rabbit-hole/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/rabbit-hole/",
+              "anchor_text": "Rabbit Hole"
+            }
+          ]
+        },
+        {
+          "text": "Shelve It",
+          "url": "https://tastecooking.com/category/columns/shelve-it/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/shelve-it/",
+              "anchor_text": "Shelve It"
+            }
+          ]
+        },
+        {
+          "text": "Extra Good",
+          "url": "https://tastecooking.com/category/columns/extra-good/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/extra-good/",
+              "anchor_text": "Extra Good"
+            }
+          ]
+        },
+        {
+          "text": "100 Questions for My Friend the Chef",
+          "url": "https://tastecooking.com/category/columns/100-questions-for-my-friend-the-chef/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/100-questions-for-my-friend-the-chef/",
+              "anchor_text": "100 Questions for My Friend the Chef"
+            }
+          ]
+        },
+        {
+          "text": "Let’s Talk About American Food",
+          "url": "https://tastecooking.com/category/columns/lets-talk-about-american-food/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/lets-talk-about-american-food/",
+              "anchor_text": "Let’s Talk About American Food"
+            }
+          ]
+        },
+        {
+          "text": "The Country’s Best Yogurt Column",
+          "url": "https://tastecooking.com/category/columns/the-countrys-best-yogurt-column/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/the-countrys-best-yogurt-column/",
+              "anchor_text": "The Country’s Best Yogurt Column"
+            }
+          ]
+        },
+        {
+          "text": "The Coffee Issue",
+          "url": "https://tastecooking.com/collections/the-coffee-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-coffee-issue/",
+              "anchor_text": "The Coffee Issue"
+            }
+          ]
+        },
+        {
+          "text": "The 90s Issue",
+          "url": "https://tastecooking.com/collections/the-90s-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-90s-issue/",
+              "anchor_text": "The 90s Issue"
+            }
+          ]
+        },
+        {
+          "text": "The Emilia-Romagna Issue",
+          "url": "https://tastecooking.com/collections/the-emilia-romagna-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-emilia-romagna-issue/",
+              "anchor_text": "The Emilia-Romagna Issue"
+            }
+          ]
+        },
+        {
+          "text": "The Can Issue",
+          "url": "https://tastecooking.com/collections/the-can-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-can-issue/",
+              "anchor_text": "The Can Issue"
+            }
+          ]
+        },
+        {
+          "text": "The Pepper Issue",
+          "url": "https://tastecooking.com/collections/the-pepper-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-pepper-issue/",
+              "anchor_text": "The Pepper Issue"
+            }
+          ]
+        },
+        {
+          "text": "The Monday Interview",
+          "url": "https://tastecooking.com/category/features/the-monday-interview/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/features/the-monday-interview/",
+              "anchor_text": "The Monday Interview"
+            }
+          ]
+        },
+        {
+          "text": "Rabbit Hole",
+          "url": "https://tastecooking.com/category/columns/rabbit-hole/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/rabbit-hole/",
+              "anchor_text": "Rabbit Hole"
+            }
+          ]
+        },
+        {
+          "text": "Shelve It",
+          "url": "https://tastecooking.com/category/columns/shelve-it/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/shelve-it/",
+              "anchor_text": "Shelve It"
+            }
+          ]
+        },
+        {
+          "text": "Extra Good",
+          "url": "https://tastecooking.com/category/columns/extra-good/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/extra-good/",
+              "anchor_text": "Extra Good"
+            }
+          ]
+        },
+        {
+          "text": "100 Questions for My Friend the Chef",
+          "url": "https://tastecooking.com/category/columns/100-questions-for-my-friend-the-chef/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/100-questions-for-my-friend-the-chef/",
+              "anchor_text": "100 Questions for My Friend the Chef"
+            }
+          ]
+        },
+        {
+          "text": "Let’s Talk About American Food",
+          "url": "https://tastecooking.com/category/columns/lets-talk-about-american-food/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/lets-talk-about-american-food/",
+              "anchor_text": "Let’s Talk About American Food"
+            }
+          ]
+        },
+        {
+          "text": "The Country’s Best Yogurt Column",
+          "url": "https://tastecooking.com/category/columns/the-countrys-best-yogurt-column/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/category/columns/the-countrys-best-yogurt-column/",
+              "anchor_text": "The Country’s Best Yogurt Column"
+            }
+          ]
+        },
+        {
+          "text": "The Coffee Issue",
+          "url": "https://tastecooking.com/collections/the-coffee-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-coffee-issue/",
+              "anchor_text": "The Coffee Issue"
+            }
+          ]
+        },
+        {
+          "text": "The 90s Issue",
+          "url": "https://tastecooking.com/collections/the-90s-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-90s-issue/",
+              "anchor_text": "The 90s Issue"
+            }
+          ]
+        },
+        {
+          "text": "The Emilia-Romagna Issue",
+          "url": "https://tastecooking.com/collections/the-emilia-romagna-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-emilia-romagna-issue/",
+              "anchor_text": "The Emilia-Romagna Issue"
+            }
+          ]
+        },
+        {
+          "text": "The Can Issue",
+          "url": "https://tastecooking.com/collections/the-can-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-can-issue/",
+              "anchor_text": "The Can Issue"
+            }
+          ]
+        },
+        {
+          "text": "The Pepper Issue",
+          "url": "https://tastecooking.com/collections/the-pepper-issue/",
+          "urls": [
+            {
+              "url": "https://tastecooking.com/collections/the-pepper-issue/",
+              "anchor_text": "The Pepper Issue"
+            }
+          ]
+        },
+        {
+          "text": "Get a free recipe",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "By clicking Go, I agree to recieve news and updates from TASTE and Penguin Random House. I acknowledge that I have read and agree to the Penguin Random House’s Privacy Policy and Terms of Use and understand that Penguin Random House collects certain categories of personal information for the purposes listed in that policy, discloses, sells, or shares certain personal information and retains personal information in accordance with the policy. You can opt-out of the sale or sharing of personal information anytime.",
+          "url": "http://www.randomhouse.com/about/privacy.html",
+          "urls": [
+            {
+              "url": "http://www.randomhouse.com/about/privacy.html",
+              "anchor_text": "Privacy Policy"
+            },
+            {
+              "url": "http://www.randomhouse.com/about/terms.html",
+              "anchor_text": "Terms of Use"
+            },
+            {
+              "url": "https://www.penguinrandomhouse.com/privacy/",
+              "anchor_text": "certain categories of personal information"
+            },
+            {
+              "url": "https://www.penguinrandomhouse.com/privacy/",
+              "anchor_text": "purposes listed"
+            },
+            {
+              "url": "https://www.penguinrandomhouse.com/privacy/",
+              "anchor_text": "discloses, sells, or shares certain personal information"
+            },
+            {
+              "url": "https://www.penguinrandomhouse.com/privacy/",
+              "anchor_text": "retains personal information"
+            },
+            {
+              "url": "https://www.penguinrandomhouse.com/privacy/",
+              "anchor_text": "policy"
+            },
+            {
+              "url": "https://www.penguinrandomhouse.com/privacy/right-to-opt-out-of-sale-form/",
+              "anchor_text": "opt-out"
+            }
+          ]
+        },
+        {
+          "text": "Khao Sen: Shan-style Noodle Soup With Pork and Tomato",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "shallots, peeled, halved lengthwise, and sliced thinly",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "garlic cloves, peeled and minced",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "can Thai-style mackerel in tomato sauce (such as Three Lady Cooks brand)",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "tart cherry tomatoes, halved",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "pork loin, ¾-inch cubes",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "pork stock bones (such as back or neck bones)",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "khanom jiin noodles",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Crispy garlic and garlic oil",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "limes, cut into wedges",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Khao Sen: Shan-style Noodle Soup With Pork and Tomato",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "This just might be the most beloved dish in Mae Hong Son. Indeed, it’s a variation on khanom jiin naam ngiaw, the pork-and-tomato-based noodle soup that is one of the most beloved and ubiquitous dishes in northern Thailand. But where the standard northern Thai version boasts a broth that tends toward the meaty and hearty, the Mae Hong Son variant is thin and tart, its bulk stemming from a generous knot of thin rice noodles or ingredients like the crunchy pith of the banana tree.",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "In Mae Hong Son, locals prefer to call the dish khao sen, literally “rice threads,” a reference to the dish’s thin, round noodles, made via a labor-intensive and time-consuming process of soaking, pounding, boiling, and extracting a rice-based dough. Consumed as a light meal or a snack, khao sen is sold both from stalls in the city’s market in the morning and home-based restaurants in the afternoon, typically alongside khaang pawng, deep-fried herbal fritters delicious with—or in—the soup. Note that fresh khanom jiin noodles are generally not available outside of Southeast Asia. If cooking in the United States, Andy Ricker of Pok Pok suggests using fine-gauge dried bún (Vietnamese rice noodles), following the cooking instructions on the package.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "vegetable oil",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "shrimp paste",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "bouillon powder",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "table salt",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "For Serving",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "bunch cilantro, chopped",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "green onions, chopped",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "cabbage, shredded finely",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "table salt",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "chile powder",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "4-6 servings",
+        "main_title": "4-6 servings",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": [
+          {
+            "text": "Heat the oil in a medium stockpot over medium-low heat.\nAdd the shallots and garlic and fry until fragrant, about 5 minutes. Add\nthe shrimp paste, stirring until it has disintegrated and become fragrant,\nanother 2 minutes. Add the canned mackerel (including the tomato sauce),\nstirring until disintegrated, fragrant, and a thin layer of oil emerges, another\n5 minutes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Increase the heat slightly and add the tomatoes. Fry, stirring frequently,\nuntil the tomatoes have mostly disintegrated, the mixture has reduced\nslightly, and the oil reemerges, about 20 minutes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Add the pork and fry, stirring frequently, until the oil reemerges, another\n10 minutes. Add the pork bones and 2 quarts of water, and increase the heat\nto high. When the mixture reaches a simmer, reduce the heat and simmer\nfor 20 minutes. Add the bouillon powder and salt, and simmer another 10 to\n15 minutes.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Taste, adjusting the seasoning if necessary; the broth should be relatively\nthin and should taste tart, savory, and salty (in that order).",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "To each shallow serving bowl, add 3½ ounces of khanom jiin\nnoodles and top with 1 cup of the broth (remove stock bones if they are too big\nto serve). Garnish with crispy garlic and garlic oil, cilantro, and green onion,\nand serve with with shredded cabbage, lime wedges, and small bowls of salt\nand chile powder.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Reprinted with permission from The Food of Northern Thailand by Austin Bush, copyright © 2018. Published by Clarkson Potter, an imprint of Penguin Random House.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Where to Buy",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "The Food of Northern Thailand",
+        "main_title": "4-6 servings",
+        "author": null,
+        "language": "en",
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "The Food of Northern Thailand",
+            "url": "https://www.penguinrandomhouse.com/books/546675/the-food-of-northern-thailand-by-austin-bush/",
+            "urls": [
+              {
+                "url": "https://www.penguinrandomhouse.com/books/546675/the-food-of-northern-thailand-by-austin-bush/",
+                "anchor_text": "The Food of Northern Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Cook with us.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Get our freshest features and recipes weekly.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Austin Bush",
+        "main_title": "4-6 servings",
+        "author": null,
+        "language": "en",
+        "level": 5,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": null,
+      "emails": [
+        "?&body=https://tastecooking.com/recipes/khao-sen-shan-style-noodle-soup-pork-tomato/"
+      ]
+    }
+  }
+}

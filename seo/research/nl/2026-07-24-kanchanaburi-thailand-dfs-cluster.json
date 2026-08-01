@@ -1,0 +1,1281 @@
+{
+  "captured_at": "2026-07-24T13:20:39.150Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "kanchanaburi thailand",
+  "costs": {
+    "suggestions": 0.01992,
+    "related": 0.01608,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "kanchanaburi thailand",
+    "kanchanaburi in thailand",
+    "thailand kanchanaburi",
+    "kanchanaburi wat te doen",
+    "hotels in kanchanaburi thailand",
+    "hotels kanchanaburi thailand",
+    "kanchanaburi thailand hotels",
+    "bangkok naar kanchanaburi",
+    "death railway kanchanaburi thailand",
+    "kanchanaburi naar chiang mai",
+    "kanchanaburi thailand to bangkok",
+    "kanchanaburi thailand waterfall",
+    "kanchanaburi waterfall thailand",
+    "wat te doen in kanchanaburi",
+    "kanchanaburi war cemetery thailand",
+    "mida resort kanchanaburi kanchanaburi thailand",
+    "changwat kanchanaburi thailand",
+    "kanchanaburi province thailand",
+    "kanchanaburi thailand weather"
+  ],
+  "keywords": [
+    {
+      "keyword": "kanchanaburi in thailand",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand kanchanaburi",
+      "volume": 2900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nachttrein bangkok chiang mai",
+      "volume": 880,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "river kwai jungle rafts kanchanaburi thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai railways",
+      "volume": 590,
+      "kd": 30,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi wat te doen",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "hotels in kanchanaburi thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels kanchanaburi thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand hotel",
+      "volume": 170,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand hotels",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "van bangkok naar chiang mai",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok naar kanchanaburi",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "death railway kanchanaburi thailand",
+      "volume": 50,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi naar chiang mai",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand to bangkok",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand waterfall",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi waterfall thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wat te doen in kanchanaburi",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ayutthaya naar chiang mai",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi war cemetery thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "mida resort kanchanaburi kanchanaburi thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nachttrein ayutthaya chiang mai",
+      "volume": 40,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "van bangkok naar ayutthaya",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bezienswaardigheden ayutthaya",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "changwat kanchanaburi thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi map thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi province thailand",
+      "volume": 30,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand map",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand weather",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of kanchanaburi thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand kanchanaburi map",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "van kanchanaburi naar chiang mai",
+      "volume": 30,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok naar kanchanaburi trein",
+      "volume": 20,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi bezienswaardigheden",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand resort",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nachttrein bangkok chiang mai boeken",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "reisjunk kanchanaburi",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "resort kanchanaburi thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in kanchanaburi thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trein naar kanchanaburi",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "van kanchanaburi naar ayutthaya",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what to do in kanchanaburi thailand",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "agoda kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ayutthaya naar bangkok",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ayutthaya naar chiang mai nachttrein",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bus kanchanaburi ayutthaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "camp kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "chiang mai backpacken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chiang mai omgeving",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "drijvend jungle hotel kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "drijvende markt kanchanaburi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "elephant kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "erawan national park kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "felix hotel kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "felix river kwai hotel kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "golf kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi centrum",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi kaart",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi met kinderen",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi naar chiang mai nachttrein",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi national park thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand elephant sanctuary",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand floating hotel",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand from bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand things to do",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand tiger temple",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi tips thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi to ayutthaya train",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi to bangkok airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "kwai kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "river kwai hotel kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "river kwai resotel kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sai yok kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand burma railway centre kanchanaburi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand kanchanaburi tiger temple",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand safari kanchanaburi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand wasserfall kanchanaburi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tips thailand kanchanaburi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "van kanchanaburi naar bangkok",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "van kanchanaburi naar hua hin",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "waterfalls in kanchanaburi thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is kanchanaburi in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "xanadu 2008 kanchanaburi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "erawan national park in kanchanaburi province thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi 71190 thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand death railway",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand safari",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi thailand sehenswürdigkeiten",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand bubble hotel kanchanaburi",
+      "volume": 0,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tiger kanchanaburi thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "wellness plus thailand kanchanaburi",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "buienradar thailand kanchanaburi",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "kanchanaburi mueang kanchanaburi district changwat kanchanaburi thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "olifanten verzorgen thailand kanchanaburi",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "reizen naar chiang mai",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "waar ligt kanchanaburi in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.tripadvisor.nl",
+      "avgPosition": 5,
+      "keywordCount": 5,
+      "visibility": 3,
+      "estimatedTraffic": 141.313
+    },
+    {
+      "domain": "www.reisjevrij.nl",
+      "avgPosition": 16.4,
+      "keywordCount": 5,
+      "visibility": 1.2,
+      "estimatedTraffic": 21.966
+    },
+    {
+      "domain": "verrassendthailand.nl",
+      "avgPosition": 19.4,
+      "keywordCount": 5,
+      "visibility": 1.6,
+      "estimatedTraffic": 42.461999999999996
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 26,
+      "keywordCount": 5,
+      "visibility": 0.45,
+      "estimatedTraffic": 9.162
+    },
+    {
+      "domain": "www.reisjunk.nl",
+      "avgPosition": 1.3333333333333333,
+      "keywordCount": 3,
+      "visibility": 2.9,
+      "estimatedTraffic": 162.88
+    },
+    {
+      "domain": "www.expedia.nl",
+      "avgPosition": 26.75,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.786
+    },
+    {
+      "domain": "karlijntravels.com",
+      "avgPosition": 2.6666666666666665,
+      "keywordCount": 3,
+      "visibility": 2.5,
+      "estimatedTraffic": 87.535
+    },
+    {
+      "domain": "reisgenie.nl",
+      "avgPosition": 4.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.9000000000000001,
+      "estimatedTraffic": 157.14799999999997
+    },
+    {
+      "domain": "www.booking.com",
+      "avgPosition": 5,
+      "keywordCount": 3,
+      "visibility": 1.85,
+      "estimatedTraffic": 72.40800000000002
+    },
+    {
+      "domain": "www.backpackblog.nl",
+      "avgPosition": 5.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.75,
+      "estimatedTraffic": 35.373000000000005
+    },
+    {
+      "domain": "www.asiadirect.nl",
+      "avgPosition": 6,
+      "keywordCount": 3,
+      "visibility": 1.5,
+      "estimatedTraffic": 24.973999999999997
+    },
+    {
+      "domain": "www.wearetravellers.nl",
+      "avgPosition": 6.333333333333333,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 25.087000000000003
+    },
+    {
+      "domain": "www.backpackeninazie.nl",
+      "avgPosition": 6.666666666666667,
+      "keywordCount": 3,
+      "visibility": 1.3,
+      "estimatedTraffic": 30.66
+    },
+    {
+      "domain": "www.vanverre.nl",
+      "avgPosition": 11.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.8,
+      "estimatedTraffic": 33.172000000000004
+    },
+    {
+      "domain": "www.travelalut.com",
+      "avgPosition": 12,
+      "keywordCount": 3,
+      "visibility": 0.55,
+      "estimatedTraffic": 7.463000000000001
+    },
+    {
+      "domain": "lonedrifters.nl",
+      "avgPosition": 12.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.6,
+      "estimatedTraffic": 5.428999999999999
+    },
+    {
+      "domain": "www.azie.nl",
+      "avgPosition": 13.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 4.156000000000001
+    },
+    {
+      "domain": "rondreis.nl",
+      "avgPosition": 15.333333333333334,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.834
+    },
+    {
+      "domain": "www.gezinopreis.nl",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.274
+    },
+    {
+      "domain": "www.withkidsontheroad.com",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.4440000000000004
+    },
+    {
+      "domain": "www.sawadee.nl",
+      "avgPosition": 18.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.5039999999999996
+    },
+    {
+      "domain": "www.27vakantiedagen.nl",
+      "avgPosition": 21,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.345
+    },
+    {
+      "domain": "www.kanchanaburi.nl",
+      "avgPosition": 53.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.4779999999999993
+    },
+    {
+      "domain": "www.dutchieontheroad.nl",
+      "avgPosition": 23.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.8619999999999999
+    },
+    {
+      "domain": "www.bmair.nl",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.6519999999999997
+    },
+    {
+      "domain": "www.karenandtheworld.com",
+      "avgPosition": 28.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "www.reis-expert.nl",
+      "avgPosition": 29.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "www.roadtowander.nl",
+      "avgPosition": 30.666666666666668,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "www.getyourguide.com",
+      "avgPosition": 35.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "toerisme-thailand.nl",
+      "avgPosition": 35.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "www.agoda.com",
+      "avgPosition": 5,
+      "keywordCount": 2,
+      "visibility": 1.2,
+      "estimatedTraffic": 20.936999999999998
+    },
+    {
+      "domain": "travelaar.nl",
+      "avgPosition": 37.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "www.333travel.nl",
+      "avgPosition": 6,
+      "keywordCount": 2,
+      "visibility": 1,
+      "estimatedTraffic": 22.137
+    },
+    {
+      "domain": "www.backpackenzuidoostazie.nl",
+      "avgPosition": 37.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "www.trivago.nl",
+      "avgPosition": 6.5,
+      "keywordCount": 2,
+      "visibility": 0.8999999999999999,
+      "estimatedTraffic": 13.986
+    },
+    {
+      "domain": "omnitraveler.nl",
+      "avgPosition": 38.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "theo-courant.com",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 10.248
+    },
+    {
+      "domain": "www.mytravelsecret.nl",
+      "avgPosition": 8,
+      "keywordCount": 2,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 8.526
+    },
+    {
+      "domain": "www.uhotelsresorts.com",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.9479999999999995
+    },
+    {
+      "domain": "www.alltrails.com",
+      "avgPosition": 41.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "www.hostelworld.com",
+      "avgPosition": 42,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "wediscover.nl",
+      "avgPosition": 16,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.204
+    },
+    {
+      "domain": "travel-experts.be",
+      "avgPosition": 44.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "www.deroosjes.nl",
+      "avgPosition": 44.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "travel360benelux.com",
+      "avgPosition": 45.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "www.ronreizen.nl",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.057
+    },
+    {
+      "domain": "www.kiladera.be",
+      "avgPosition": 46.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "packlightly.nl",
+      "avgPosition": 46.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.5959999999999999
+    },
+    {
+      "domain": "nl.wikipedia.org",
+      "avgPosition": 48,
+      "keywordCount": 3,
+      "visibility": 0.1,
+      "estimatedTraffic": 6.012
+    },
+    {
+      "domain": "luxuryescapes.com",
+      "avgPosition": 22,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.008
+    }
+  ]
+}

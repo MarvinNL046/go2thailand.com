@@ -1,0 +1,3168 @@
+{
+  "captured_at": "2026-07-26T21:52:29.757Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "pattaya thailand",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.0258,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "pattaya thailand",
+    "pattaya chon buri thailand",
+    "pattaya city thailand",
+    "thailand and pattaya",
+    "thailand city pattaya",
+    "thailand pattaya",
+    "thailand pattaya city",
+    "pattaya city thailand weather",
+    "pattaya thailand weather",
+    "thailand weather pattaya",
+    "weather in pattaya thailand",
+    "weather in thailand pattaya",
+    "weather pattaya city bang lamung district chon buri thailand",
+    "weather pattaya thailand",
+    "weather thailand pattaya",
+    "weather-pattaya city bang lamung district chon buri thailand",
+    "pattaya news thailand",
+    "pattaya thailand news",
+    "thailand news pattaya"
+  ],
+  "keywords": [
+    {
+      "keyword": "google flights",
+      "volume": 1500000,
+      "kd": 37,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "google flights uk",
+      "volume": 33100,
+      "kd": 17,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya chon buri thailand",
+      "volume": 22200,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya city thailand",
+      "volume": 22200,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand and pattaya",
+      "volume": 22200,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand city pattaya",
+      "volume": 22200,
+      "kd": 10,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya",
+      "volume": 22200,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya city",
+      "volume": 22200,
+      "kd": 11,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of thailand",
+      "volume": 8100,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya city thailand weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand weather",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand weather pattaya",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in pattaya thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather in thailand pattaya",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather pattaya city bang lamung district chon buri thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather pattaya thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather thailand pattaya",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "weather-pattaya city bang lamung district chon buri thailand",
+      "volume": 5400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to phuket",
+      "volume": 4400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya news thailand",
+      "volume": 4400,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand",
+      "volume": 4400,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand news",
+      "volume": 4400,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand news pattaya",
+      "volume": 4400,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya news",
+      "volume": 4400,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "google flights search anywhere",
+      "volume": 3600,
+      "kd": 25,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to bangkok flight time",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to thailand flight time",
+      "volume": 3600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya jomtien beach",
+      "volume": 2900,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel at pattaya thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in thailand pattaya",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel pattaya thailand",
+      "volume": 2400,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel thailand pattaya",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels at pattaya thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in pattaya city thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in pattaya thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels in thailand pattaya",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels pattaya thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotels thailand pattaya",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya beach",
+      "volume": 2400,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya city thailand hotels",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya hotel thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya hotels",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya hotels thailand",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand beach",
+      "volume": 2400,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand hotel",
+      "volume": 2400,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand hotels",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand beach pattaya",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand beaches pattaya",
+      "volume": 2400,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hotel pattaya",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hotels in pattaya",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand hotels pattaya",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya beach",
+      "volume": 2400,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya hotel",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya hotels",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok thailand to pattaya",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "centara grand mirage beach resort pattaya thailand",
+      "volume": 1900,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya street thailand",
+      "volume": 1900,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand centara grand mirage",
+      "volume": 1900,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand from bangkok",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand walking street",
+      "volume": 1900,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sanctuary of truth pattaya thailand",
+      "volume": 1900,
+      "kd": 9,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya city walking street",
+      "volume": 1900,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya walking street",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walk street pattaya thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya thailand",
+      "volume": 1900,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "walking street thailand",
+      "volume": 1900,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "google flights app",
+      "volume": 1600,
+      "kd": 15,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "holiday to pattaya thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holiday to thailand pattaya",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays pattaya thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays to pattaya thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "holidays to thailand pattaya",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya soi 6 thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand holidays",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand soi 6",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya thailand",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya soi 6",
+      "volume": 1600,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "areca hotel pattaya thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "attractions in pattaya thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "attractions pattaya thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "direct flights to bangkok from uk",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dusit hotel pattaya thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dusit thani pattaya pattaya thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dusit thani thailand pattaya",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in pattaya thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife in thailand pattaya",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nightlife pattaya thailand",
+      "volume": 1000,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand attractions",
+      "volume": 1000,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife in pattaya",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand nightlife pattaya",
+      "volume": 1000,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya night",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya nightlife",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in pattaya thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do in thailand pattaya",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "things to do pattaya thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flights to pattaya thailand",
+      "volume": 880,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "google flights round-trip",
+      "volume": 880,
+      "kd": 24,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand flights",
+      "volume": 880,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya flights",
+      "volume": 880,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "google flights tracking",
+      "volume": 720,
+      "kd": 23,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "live cam pattaya thailand",
+      "volume": 720,
+      "kd": 8,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya restaurant thailand",
+      "volume": 720,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya restaurants thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand restaurants",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants in pattaya thailand",
+      "volume": 720,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "restaurants pattaya thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travelodge pattaya thailand",
+      "volume": 720,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "u-tapao airport",
+      "volume": 720,
+      "kd": 15,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where is pattaya city thailand",
+      "volume": 720,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is pattaya in thailand",
+      "volume": 720,
+      "kd": 18,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where is pattaya thailand",
+      "volume": 720,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for rent in thailand pattaya",
+      "volume": 590,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for rent pattaya thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for sale in pattaya thailand",
+      "volume": 590,
+      "kd": 4,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for sale in thailand pattaya",
+      "volume": 590,
+      "kd": 19,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for sale pattaya thailand",
+      "volume": 590,
+      "kd": 19,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo for sale thailand pattaya",
+      "volume": 590,
+      "kd": 19,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo in pattaya thailand for sale",
+      "volume": 590,
+      "kd": 19,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo rentals pattaya thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condos for rent pattaya thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condos for sale in pattaya thailand",
+      "volume": 590,
+      "kd": 18,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condos for sale in thailand pattaya",
+      "volume": 590,
+      "kd": 18,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condos in thailand for sale pattaya",
+      "volume": 590,
+      "kd": 19,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condos pattaya thailand rent",
+      "volume": 590,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "flipper house hotel pattaya thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of pattaya city thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "map of pattaya thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya city bang lamung district chon buri 20150 thailand",
+      "volume": 590,
+      "kd": 5,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya in thailand map",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya map thailand",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya on map of thailand",
+      "volume": 590,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya property for sale in thailand",
+      "volume": 590,
+      "kd": 22,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand condo for sale",
+      "volume": 590,
+      "kd": 19,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand condo rentals",
+      "volume": 590,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand condos for rent",
+      "volume": 590,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand condos for sale",
+      "volume": 590,
+      "kd": 19,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand map",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand property for sale",
+      "volume": 590,
+      "kd": 29,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand to bangkok",
+      "volume": 590,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand-property for sale",
+      "volume": 590,
+      "kd": 22,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property for sale in pattaya thailand",
+      "volume": 590,
+      "kd": 27,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property for sale in thailand pattaya",
+      "volume": 590,
+      "kd": 22,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property for sale pattaya thailand",
+      "volume": 590,
+      "kd": 23,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property for sale thailand pattaya",
+      "volume": 590,
+      "kd": 22,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property in thailand pattaya for sale",
+      "volume": 590,
+      "kd": 22,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property sale pattaya thailand",
+      "volume": 590,
+      "kd": 22,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "property to buy in pattaya thailand",
+      "volume": 590,
+      "kd": 20,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand condo for sale in pattaya",
+      "volume": 590,
+      "kd": 18,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand condos for sale pattaya",
+      "volume": 590,
+      "kd": 7,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand map pattaya",
+      "volume": 590,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya airport",
+      "volume": 590,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya property for sale",
+      "volume": 590,
+      "kd": 22,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand property for sale pattaya",
+      "volume": 590,
+      "kd": 29,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "centara pattaya hotel thailand",
+      "volume": 480,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "floating market pattaya thailand",
+      "volume": 480,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel centara pattaya thailand",
+      "volume": 480,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "hotel in jomtien beach pattaya thailand",
+      "volume": 480,
+      "kd": 3,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "buy house in pattaya thailand",
+      "volume": 390,
+      "kd": 20,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "homes for sale in pattaya thailand",
+      "volume": 390,
+      "kd": 22,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "homes for sale in thailand pattaya",
+      "volume": 390,
+      "kd": 28,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "house for sale in pattaya thailand",
+      "volume": 390,
+      "kd": 20,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "houses for sale pattaya thailand",
+      "volume": 390,
+      "kd": 13,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "houses for sale thailand pattaya",
+      "volume": 390,
+      "kd": 29,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand homes for sale",
+      "volume": 390,
+      "kd": 29,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand to phuket",
+      "volume": 390,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "pullman hotel pattaya thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pullman pattaya hotel g thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "royal cliff beach hotel pattaya",
+      "volume": 390,
+      "kd": 5,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand water park pattaya",
+      "volume": 390,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what time is it in pattaya thailand",
+      "volume": 390,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "apartments in pattaya thailand for rent",
+      "volume": 320,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "apartments to rent in pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya bus",
+      "volume": 320,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bars in pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bars in thailand pattaya",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bbc weather pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "central pattaya thailand",
+      "volume": 320,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotel in pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotel in thailand pattaya",
+      "volume": 320,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotel pattaya thailand",
+      "volume": 320,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels at pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in pattaya thailand",
+      "volume": 320,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels in thailand pattaya",
+      "volume": 320,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap hotels thailand pattaya",
+      "volume": 320,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap rooms in pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo in pattaya thailand",
+      "volume": 320,
+      "kd": 7,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "condo thailand pattaya",
+      "volume": 320,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "d hotel pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gym pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "gyms in pattaya thailand",
+      "volume": 320,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "massage in thailand pattaya",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "nong nooch tropical botanical garden pattaya thailand",
+      "volume": 320,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya beach chon buri thailand",
+      "volume": 320,
+      "kd": 13,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya massage thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand bars",
+      "volume": 320,
+      "kd": 11,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "rental apartments pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "temperature in pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage in pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand bars pattaya",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand cheap hotels pattaya",
+      "volume": 320,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand news pattaya today",
+      "volume": 320,
+      "kd": 29,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya bars",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya hotels cheap",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand villas pattaya",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tiger park pattaya thailand",
+      "volume": 320,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villa in pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villas in pattaya thailand",
+      "volume": 320,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villas in thailand pattaya",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "villas pattaya thailand",
+      "volume": 320,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what time is it in thailand pattaya",
+      "volume": 320,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya train",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to phuket distance",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best hotels in pattaya",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "rent a car pattaya thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya bars",
+      "volume": 260,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand pattaya night club",
+      "volume": 260,
+      "kd": 10,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya distance",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street bangkok",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok airport to pattaya bus",
+      "volume": 140,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "agoda pattaya",
+      "volume": 110,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya hotels near walking street",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "uk to pattaya flights",
+      "volume": 110,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya taxi fare",
+      "volume": 90,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "google flights international",
+      "volume": 90,
+      "kd": 28,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to thailand flight ticket price",
+      "volume": 90,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya hotel near beach",
+      "volume": 90,
+      "kd": 1,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya flight",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "flights to pattaya from bangkok",
+      "volume": 70,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "google flights english",
+      "volume": 70,
+      "kd": 23,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya map google",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand airport",
+      "volume": 70,
+      "kd": 16,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street nightlife",
+      "volume": 70,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "google flights app ios",
+      "volume": 50,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya nightlife",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "direct flights to pattaya from uk",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya airport code",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya beach nightlife",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya map walking street",
+      "volume": 40,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya transfer",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "cheapest taxi from bangkok to pattaya",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to pattaya flight time",
+      "volume": 30,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "street map of pattaya",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "street map of pattaya thailand",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tourist map of pattaya",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya videos",
+      "volume": 30,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya bus fare",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya flight time",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how to get to pattaya from uk",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya airport name",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya beach road freelancers price",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya map with hotels",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife for couples",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya nightlife video",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya soi 6 vs walking street",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife for singles",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street photos",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "utapao airport to pattaya",
+      "volume": 20,
+      "kd": 43,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok airport to pattaya bus timetable",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya bus booking",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya bus ekkamai",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya bus ekkamai timetable",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya bus terminal",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya bus time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya distance by bus",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya distance by car",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya distance by flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya distance train",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya flight ticket price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya taxi distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya taxi fare grab",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya taxi time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya train distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya train price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "bangkok to pattaya train time",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "central pattaya map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "google maps pattaya street view",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "international airport in pattaya thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is walking street pattaya safe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "london to pattaya direct flight",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya thailand nightlife prices",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya tourist map pdf",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street live",
+      "volume": 10,
+      "kd": 53,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street night club",
+      "volume": 10,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street nightlife for adults",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "pattaya walking street show",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya map",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi 6 pattaya to walking street distance",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "soi bongkot pattaya map google maps",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "taxi pattaya bangkok",
+      "volume": 10,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "train 997 bangkok to pattaya",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "u tapao airport departures",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street pattaya directions",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "walking street thailand nightlife",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "where can you fly to from pattaya airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 1.1111111111111112,
+      "keywordCount": 9,
+      "visibility": 8.9,
+      "estimatedTraffic": 14007.6
+    },
+    {
+      "domain": "www.accuweather.com",
+      "avgPosition": 2,
+      "keywordCount": 9,
+      "visibility": 8.100000000000001,
+      "estimatedTraffic": 8290.62
+    },
+    {
+      "domain": "weather.metoffice.gov.uk",
+      "avgPosition": 3.2222222222222223,
+      "keywordCount": 9,
+      "visibility": 7,
+      "estimatedTraffic": 4569.4800000000005
+    },
+    {
+      "domain": "www.timeanddate.com",
+      "avgPosition": 3.6666666666666665,
+      "keywordCount": 9,
+      "visibility": 6.6000000000000005,
+      "estimatedTraffic": 3711.4200000000005
+    },
+    {
+      "domain": "www.tmd.go.th",
+      "avgPosition": 6.444444444444445,
+      "keywordCount": 9,
+      "visibility": 4.1,
+      "estimatedTraffic": 1504.44
+    },
+    {
+      "domain": "www.wunderground.com",
+      "avgPosition": 6.777777777777778,
+      "keywordCount": 9,
+      "visibility": 3.8000000000000003,
+      "estimatedTraffic": 1511.46
+    },
+    {
+      "domain": "weather.com",
+      "avgPosition": 7.111111111111111,
+      "keywordCount": 9,
+      "visibility": 3.4999999999999996,
+      "estimatedTraffic": 1333.8
+    },
+    {
+      "domain": "www.yr.no",
+      "avgPosition": 7.555555555555555,
+      "keywordCount": 9,
+      "visibility": 3.1,
+      "estimatedTraffic": 1134.54
+    },
+    {
+      "domain": "www.weathercrave.co.uk",
+      "avgPosition": 14.666666666666666,
+      "keywordCount": 9,
+      "visibility": 0.39999999999999997,
+      "estimatedTraffic": 296.46000000000004
+    },
+    {
+      "domain": "www.netweather.tv",
+      "avgPosition": 15.444444444444445,
+      "keywordCount": 9,
+      "visibility": 0.75,
+      "estimatedTraffic": 393.65999999999997
+    },
+    {
+      "domain": "www.aqi.in",
+      "avgPosition": 10.25,
+      "keywordCount": 8,
+      "visibility": 0.9500000000000002,
+      "estimatedTraffic": 517.3199999999999
+    },
+    {
+      "domain": "www.weather-forecast.com",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 9,
+      "visibility": 0.05,
+      "estimatedTraffic": 103.68000000000002
+    },
+    {
+      "domain": "www.msn.com",
+      "avgPosition": 27.555555555555557,
+      "keywordCount": 9,
+      "visibility": 0.3,
+      "estimatedTraffic": 206.82000000000002
+    },
+    {
+      "domain": "www.meteoblue.com",
+      "avgPosition": 28.444444444444443,
+      "keywordCount": 9,
+      "visibility": 0.1,
+      "estimatedTraffic": 127.44000000000001
+    },
+    {
+      "domain": "www.worldweatheronline.com",
+      "avgPosition": 20.625,
+      "keywordCount": 8,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 122.03999999999999
+    },
+    {
+      "domain": "www.climatestotravel.com",
+      "avgPosition": 9.571428571428571,
+      "keywordCount": 7,
+      "visibility": 1.35,
+      "estimatedTraffic": 628.56
+    },
+    {
+      "domain": "www.weatherbug.com",
+      "avgPosition": 33.111111111111114,
+      "keywordCount": 9,
+      "visibility": 0,
+      "estimatedTraffic": 102.06000000000002
+    },
+    {
+      "domain": "www.weather2travel.com",
+      "avgPosition": 19.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.3,
+      "estimatedTraffic": 95.03999999999999
+    },
+    {
+      "domain": "www.theweatheroutlook.com",
+      "avgPosition": 24.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.3,
+      "estimatedTraffic": 174.42
+    },
+    {
+      "domain": "www.yourweather.co.uk",
+      "avgPosition": 28.571428571428573,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 82.62000000000002
+    },
+    {
+      "domain": "www.weatherapi.com",
+      "avgPosition": 29,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 82.62
+    },
+    {
+      "domain": "weather.yahoo.com",
+      "avgPosition": 18,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 114.48
+    },
+    {
+      "domain": "www.bbc.com",
+      "avgPosition": 19.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 154.44
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 5.8,
+      "keywordCount": 5,
+      "visibility": 2.6,
+      "estimatedTraffic": 8288.8
+    },
+    {
+      "domain": "meteobox.in",
+      "avgPosition": 33,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 79.38000000000001
+    },
+    {
+      "domain": "www.tourismthailand.org",
+      "avgPosition": 6.8,
+      "keywordCount": 5,
+      "visibility": 2.1,
+      "estimatedTraffic": 4072.48
+    },
+    {
+      "domain": "www.ventusky.com",
+      "avgPosition": 24.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.05,
+      "estimatedTraffic": 79.92
+    },
+    {
+      "domain": "www.meteoradar.co.uk",
+      "avgPosition": 36.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 79.38000000000001
+    },
+    {
+      "domain": "yandex.com.tr",
+      "avgPosition": 37.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 79.38000000000001
+    },
+    {
+      "domain": "www.theweather.com",
+      "avgPosition": 27.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 68.04
+    },
+    {
+      "domain": "climeradar.com",
+      "avgPosition": 38.42857142857143,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 79.38000000000001
+    },
+    {
+      "domain": "www.holiday-weather.com",
+      "avgPosition": 40.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 146.34000000000003
+    },
+    {
+      "domain": "www.weather-atlas.com",
+      "avgPosition": 42.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 80.46000000000001
+    },
+    {
+      "domain": "meteum.ai",
+      "avgPosition": 43.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 79.38000000000001
+    },
+    {
+      "domain": "presearch.com",
+      "avgPosition": 44.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 79.38000000000001
+    },
+    {
+      "domain": "thepattayanews.com",
+      "avgPosition": 6.5,
+      "keywordCount": 4,
+      "visibility": 3,
+      "estimatedTraffic": 4022.0399999999995
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 6.75,
+      "keywordCount": 4,
+      "visibility": 2.7,
+      "estimatedTraffic": 2148.52
+    },
+    {
+      "domain": "www.weatherandradar.com",
+      "avgPosition": 48,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 79.38000000000001
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 11.5,
+      "keywordCount": 4,
+      "visibility": 1.5,
+      "estimatedTraffic": 455.4
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 12,
+      "keywordCount": 4,
+      "visibility": 2.0999999999999996,
+      "estimatedTraffic": 879.1199999999999
+    },
+    {
+      "domain": "zoom.earth",
+      "avgPosition": 13,
+      "keywordCount": 4,
+      "visibility": 1.25,
+      "estimatedTraffic": 531.3599999999999
+    },
+    {
+      "domain": "www.worldtimeserver.com",
+      "avgPosition": 42.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 68.04
+    },
+    {
+      "domain": "meteologix.com",
+      "avgPosition": 42.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 68.04
+    },
+    {
+      "domain": "www.worldmeteo.info",
+      "avgPosition": 43.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 68.04
+    },
+    {
+      "domain": "www.predictwind.com",
+      "avgPosition": 23,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 86.94000000000001
+    },
+    {
+      "domain": "predictwind.com",
+      "avgPosition": 23.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 45.36
+    },
+    {
+      "domain": "www.qweather.com",
+      "avgPosition": 57.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 79.38000000000001
+    },
+    {
+      "domain": "pr.freemeteo.com",
+      "avgPosition": 41,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 56.7
+    },
+    {
+      "domain": "www.temperatureweather.com",
+      "avgPosition": 51,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 68.04
+    },
+    {
+      "domain": "thethaiger.com",
+      "avgPosition": 3,
+      "keywordCount": 3,
+      "visibility": 2.4000000000000004,
+      "estimatedTraffic": 1284.3600000000001
+    }
+  ]
+}

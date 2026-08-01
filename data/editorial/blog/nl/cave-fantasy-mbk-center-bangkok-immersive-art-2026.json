@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "cave-fantasy-mbk-center-bangkok-immersive-art-2026",
+  "route": "/nl/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Cave Fantasy Bangkok: tickets, route en keuzehulp | Go2Thailand",
+    "description": "Kies Cave Fantasy in MBK op zones, bezoekduur en actuele voorwaarden. Met BTS-route, kindchecks en live ticketvergelijking.",
+    "primaryKeyword": "Cave Fantasy Bangkok",
+    "secondaryKeywords": ["Cave Fantasy MBK", "Cave Fantasy tickets", "indoor attractie Bangkok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/"
+  },
+  "hero": {
+    "eyebrow": "Indoor keuzehulp",
+    "title": "Cave Fantasy Bangkok",
+    "accent": "Kies de juiste zone en ticketvorm",
+    "description": "Vergelijk de ervaring met je groep, controleer lengte- en gezondheidscriteria en boek pas na een live productcheck.",
+    "image": "/images/redesign/editorial/cave-fantasy-mbk-center-bangkok-immersive-art-2026-hero.webp",
+    "imageAlt": "Gezin bekijkt kleurrijke immersieve lichtprojecties in een indoor attractie in Bangkok",
+    "primaryCta": { "label": "Vergelijk de zones", "href": "#zones" },
+    "secondaryCta": { "label": "Plan de route", "href": "#route" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Cave Fantasy is volgens de actuele MBK-directory actief op verdieping 4, zone A. Controleer vóór boeken de exacte productnaam, zones, duur, lengtecriteria, waarschuwingen en live voorwaarden.",
+  "blocks": [
+    { "kind": "comparison", "id": "zones", "title": "Kies op ervaring, niet alleen op ticketnaam", "options": [
+      { "title": "Immersieve ruimte", "description": "Past bij foto’s en projecties; prikkelgevoeligheid en drukte kunnen de ervaring bepalen." },
+      { "title": "Flight-ervaring", "description": "Controleer bewegings-, lengte- en gezondheidscriteria vóór aankoop." },
+      { "title": "Combinatie", "description": "Alleen logisch wanneer je groep beide onderdelen wil en genoeg tijd heeft." }
+    ] },
+    { "kind": "steps", "id": "route", "title": "Zonder omweg naar MBK", "steps": [
+      { "title": "BTS National Stadium", "description": "Volg de skywalk richting MBK en bevestig de actuele ingang." },
+      { "title": "Verdieping 4, zone A", "description": "Gebruik de officiële MBK-directory; winkelzones kunnen veranderen." },
+      { "title": "Ticketdagcheck", "description": "Vergelijk exacte productnaam, datum, inclusies en re-entry vóór betaling." }
+    ] },
+    { "kind": "affiliate", "id": "tickets", "provider": "klook", "title": "Controleer een actueel ticket", "description": "Zoek expliciet naar Cave Fantasy Bangkok en vergelijk zones, datum, criteria en annulering. De eerste getoonde activiteit hoeft niet dit product te zijn.", "cta": { "label": "Bekijk live opties via Klook", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true }, "placement": "cave-fantasy-ticket-check", "disclosure": "Affiliate-link: Go2Thailand kan commissie ontvangen zonder extra kosten voor jou." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Cave Fantasy nog open?", "answer": "De actuele MBK-directory noemt de attractie op verdieping 4, zone A. Controleer de directory en ticketmodule opnieuw op je bezoekdag." },
+      { "question": "Is Cave Fantasy geschikt voor kinderen?", "answer": "Dat hangt af van leeftijd, lengte, prikkelgevoeligheid en gekozen zone. Lees de live productcriteria en waarschuwingen vóór boeken." },
+      { "question": "Moet ik vooraf tickets kopen?", "answer": "Dat is een keuze op basis van datum en flexibiliteit. Controleer live beschikbaarheid, exacte inclusies en annulering." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Venue- en productbronnen", "items": [
+      { "title": "Cave Fantasy directory", "publisher": "MBK Center", "url": "https://www.mbk-center.co.th/directory/shop/Cave-Fantasy/", "checkedAt": "2026-08-01", "note": "Primaire locatie- en statuscheck voor verdieping 4, zone A." },
+      { "title": "Entertainment at MBK Center", "publisher": "MBK Center", "url": "https://www.mbk-center.co.th/en/zone/entertainment-zone/", "checkedAt": "2026-08-01", "note": "Officiële entertainmentdirectory met gepubliceerde venue-uren; dagcheck blijft nodig." },
+      { "title": "Cave Fantasy ticket", "publisher": "Klook", "url": "https://www.klook.com/activity/195002-cave-fantasy-ticket-bangkok/", "checkedAt": "2026-08-01", "note": "Actuele commerciële productvarianten en voorwaarden; geen vaste prijs overgenomen." }
+    ] }
+  ]
+}

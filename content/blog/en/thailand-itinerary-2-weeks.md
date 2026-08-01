@@ -43,28 +43,16 @@ We've spent years living in and traveling through Thailand, and we've tested thi
 
 ## 1. Pre-Trip Essentials: Visa, Insurance & Documentation
 
-Before you book a single flight, handle the administrative basics. Most Western nationalities (US, UK, EU, Canada, Australia) qualify for **60-day visa-free entry** to Thailand. You'll need a valid passport with at least 6 months validity from your arrival date. Check the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for the latest rules, including the planned reduction to 30 days.
+Before you book a single flight, handle the administrative basics. At our 27 July 2026 source check, a full British citizen passport can normally use **visa exemption for up to 60 days**. Passport type and nationality matter, so use the [Thailand visa guide](/visa/) and verify the temporary rule in the [visa-exemption owner](/visa/visa-free-entry/) shortly before departure.
 
 Upon arrival, you'll be required to complete the Thailand Digital Arrival Card (TDAC) online at least 3 days before your flight. This replaced the old TM.6 form and takes about 5 minutes. You'll receive a QR code to scan at immigration—no paper required.
 
-**Travel insurance is non-negotiable.** Thailand has excellent hospitals, but costs add up fast. A decent policy covering medical evacuation, trip cancellation, and lost baggage runs ฿3,000–5,000 ($85–140 USD) for two weeks. We recommend checking [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/) before departure — our detailed [travel insurance Thailand guide](/blog/travel-insurance-thailand-guide) compares the best providers and coverage levels for 2026.
+**Travel insurance is non-negotiable.** Thailand has excellent hospitals, but costs add up fast. A decent policy covering medical evacuation, trip cancellation, and lost baggage runs ฿3,000–5,000 ($85–140 USD) for two weeks. We recommend checking [travel insurance options](https://go2-thailand.com/travel-insurance/) before departure — our detailed [travel insurance Thailand guide](/blog/travel-insurance-thailand-guide) compares the best providers and coverage levels for 2026.
 
 > **Did You Know?** Thailand receives over 40 million international visitors annually, making it Southeast Asia's most visited country.
 >
 > *Source: [Tourism Authority of Thailand](https://www.tourismthailand.org/)*
 
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ---
 
@@ -88,7 +76,7 @@ Next, visit **Wat Pho** (Temple of the Reclining Buddha), just south across the 
 
 Lunch at a local khao man gai (chicken rice) stall nearby—expect to pay ฿40–60 ($1–2 USD) for a full meal. In the afternoon, explore **Chatuchak Market** (if it's the weekend) or **Talad Noi** (a chaotic old market with narrow alleys, street food, and antiques). Both are free to wander.
 
-Evening: Try [Bangkok street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) at a night market. **Talad Rod Fai** (Train Market) or **Jodd Fairs** are popular. Expect ฿150–300 ($4–8 USD) for a feast. Learn about [Thai cuisine](/blog/what-is-thai-food-cuisine-guide/) before you go so you know what to order.
+Evening: Try [Bangkok street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) at a night market. **Talad Rod Fai** (Train Market) or **Jodd Fairs** are popular. Expect ฿150–300 ($4–8 USD) for a feast. Learn about [Thai cuisine](/travel-guides/thai-cuisine-food-guide/) before you go so you know what to order.
 
 ### Day 3: Culture & Nightlife
 
@@ -98,22 +86,6 @@ Spend the afternoon at **Lumphini Park**, Bangkok's largest public park. It's pe
 
 For dinner, try a rooftop bar with Chao Phraya views, or head to **Chinatown (Yaowarat)** for authentic street food. [Pad Thai](https://go2-thailand.com/food/pad-thai/), [som tam](https://go2-thailand.com/food/som-tam/), and [mango sticky rice](https://go2-thailand.com/food/mango-sticky-rice/) are must-tries.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -164,22 +136,6 @@ This is where many travelers make a mistake: visiting unethical elephant camps. 
 
 Alternatively, take a **jungle trek** with a local guide. Half-day treks (฿600–1,000/$17–28 USD) include hiking, waterfall visits, and sometimes village homestays. Book through your hotel or [GetYourGuide](https://getyourguide.tpo.lv/GuAFfGGK).
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 > **Did You Know?** Chiang Mai has over 300 temples—more than any other city in Thailand. Many date back to the 13th century.
 >
@@ -208,22 +164,6 @@ From Chiang Mai, fly back to Bangkok (1.5 hours, ฿1,200–2,000/$34–56 USD),
 
 **Our recommendation:** Fly to **Krabi** (4 hours from Bangkok, ฿1,500–2,500/$42–70 USD). From there, take ferries to nearby islands like [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) (45 minutes, ฿400/$11 USD) or [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) (2 hours, ฿300/$8.50 USD). See our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) for full route planning.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Day 8: Krabi Town & Railay Beach
 
@@ -256,39 +196,7 @@ Expect to pay 20–30% more than mainland Thailand. A meal at a tourist restaura
 
 Try **fresh seafood grilled on the beach**, [tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup), and tropical fruit smoothies.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 > **Did You Know?** Thailand's Andaman Sea has some of Southeast Asia's best coral reefs, with visibility often exceeding 20 meters during the dry season.
 >
@@ -426,7 +334,7 @@ Thailand has excellent hospitals, especially in Bangkok and Chiang Mai. **Bangko
 
 ### Is it safe to travel alone?
 
-Yes. Thailand is generally safe. Avoid displaying expensive items, don't accept drinks from strangers, and use registered taxis or Grab. Women travelers should take standard precautions (avoid walking alone late at night, etc.). Check [Thailand safety guide](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026/) for current conditions.
+Yes. Thailand is generally safe. Avoid displaying expensive items, don't accept drinks from strangers, and use registered taxis or Grab. Women travelers should take standard precautions (avoid walking alone late at night, etc.). Check [Thailand safety guide](https://go2-thailand.com/is-thailand-safe/) for current conditions.
 
 ---
 
@@ -434,7 +342,7 @@ Yes. Thailand is generally safe. Avoid displaying expensive items, don't accept 
 
 Two weeks in Thailand is enough to experience the country's soul—the chaos of Bangkok, the spirituality of Chiang Mai, and the paradise of the islands. This itinerary balances must-see sights with breathing room for spontaneity. You'll eat incredible food, meet kind locals, and leave wanting to return. Not sure if two weeks is the right length? Our guide on [how long to spend in Thailand](/blog/how-long-spend-thailand) helps you decide based on your travel style.
 
-**Ready to book?** For a broader overview of route options including 7-day and 10-day plans, see our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/). Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/city/chiang-mai/hotels/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg. Before you travel, review our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) to stay safe.
+**Ready to book?** For a broader overview of route options including 7-day and 10-day plans, see our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/). Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/best-hotels/chiang-mai/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg. Before you travel, review our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and our [Thailand travel scams guide](/practical-info/scams-safety/) to stay safe.
 
 Have questions? Check out our comprehensive [Thailand travel guides](https://go2-thailand.com/travel-guides/) or reach out. We've been there—we know what works.
 

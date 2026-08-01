@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Thailand nightlife", "closing time 4am", "Pattaya nightlife", "Phuket nightlife", "Bangkok bars", "Thailand alcohol law 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-4am-closing-time-nightlife-law-2026-hero.webp"
 description: "Thailand has extended nightlife closing hours to 4 AM in key tourist zones including Bangkok, Pattaya, Phuket, and Chiang Mai. Here is where the new rules apply and what to expect."
 featured: false
 readingTime: 3
@@ -32,7 +32,7 @@ The government says the reform could generate over 500 billion baht in annual ta
 
 The extended hours are not nationwide. As of 2026, the 4 AM closing time applies in five provinces with designated entertainment zones:
 
-- **[Bangkok](/city/bangkok/)** — select zones including [Khao San Road](/city/bangkok/attractions/khao-san-road/), RCA, and Thonglor
+- **[Bangkok](/city/bangkok/)** — select zones including [Khao San Road](/city/bangkok/attractions/), RCA, and Thonglor
 - **Chonburi ([Pattaya](/best-hotels/pattaya/))** — [Walking Street](/blog/pattaya-walking-street-reinvention-2026/) and surrounding entertainment areas
 - **[Phuket](/blog/phuket-travel-guide-2026/)** — over 150 establishments in Patong, across six zones
 - **[Chiang Mai](/city/chiang-mai/)** — the Nimmanhaemin and Old City entertainment strips
@@ -62,4 +62,4 @@ A few tips:
 - **Transport planning.** [BTS and MRT trains](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) in Bangkok still stop around midnight. If you plan to stay out until 4 AM, budget for a Grab or taxi ride home.
 - **Pace yourself.** Two extra hours of drinking is two extra hours of drinking. Thailand's heat and humidity amplify the effects of alcohol faster than you might expect. Check the [best party hostels](/blog/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai/) if you want to stay close to the action.
 
-The new rules are a win for travelers who enjoy nightlife, and a clear signal that Thailand intends to remain Asia's premier after-dark destination. If you want more late-night options beyond bars, the [Full Moon Party on Koh Phangan](/blog/full-moon-party-koh-phangan-guide-2026/) and the [new rooftop bars in Bangkok](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/) are well worth adding to your itinerary. And if you are worried about staying safe, read up on common [Thailand travel scams](/blog/thailand-travel-scams-2026/) before you head out.
+The new rules are a win for travelers who enjoy nightlife, and a clear signal that Thailand intends to remain Asia's premier after-dark destination. If you want more late-night options beyond bars, the [Full Moon Party on Koh Phangan](/blog/full-moon-party-koh-phangan-guide-2026/) and the [new rooftop bars in Bangkok](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/) are well worth adding to your itinerary. And if you are worried about staying safe, read up on common [Thailand travel scams](/practical-info/scams-safety/) before you head out.

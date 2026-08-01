@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["sustainable tourism Thailand", "STAR accreditation", "green tourism", "eco travel", "TAT 2026", "responsible travel", "Thailand tourism policy"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-star-green-tourism-accreditation-2026-hero.webp"
 description: "Thailand's Tourism Authority aims for 70 percent of tourism businesses to earn STAR sustainability accreditation by late 2026. Here is what that means for travellers."
 featured: false
 readingTime: 3

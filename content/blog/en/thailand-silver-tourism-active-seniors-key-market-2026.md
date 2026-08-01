@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand tourism 2026", "senior travel Thailand", "silver tourism", "active seniors", "Thailand travel trends", "quietcation"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-silver-tourism-active-seniors-key-market-2026-hero.webp"
 description: "Thailand's tourism industry is pivoting to attract active seniors aged 50-70, one of the fastest-growing travel segments globally. Here is what the shift means for visitors."
 featured: false
 readingTime: 3
@@ -50,6 +50,6 @@ Several Thai destinations are particularly well-suited for the silver tourism ma
 
 For senior visitors planning a trip to Thailand in 2026, the shift is good news. Hotels and tour operators are increasingly designing packages with **accessibility, comfort, and cultural depth** in mind. Expect to see more properties advertising universal design features, slower-paced group tours, and [wellness-focused itineraries](/blog/best-wellness-retreats-thailand-2026/) in the months ahead.
 
-Before you travel, make sure to check the latest [Thailand visa requirements for 2026](/blog/thailand-visa-guide-2026/) and complete the [Thailand Digital Arrival Card](/blog/thailand-digital-arrival-card-tdac-guide/) online. The [healing journey wellness campaign](/blog/healing-journey-thailand-wellness-campaign-2026/) launched by the Tourism Authority of Thailand is also worth exploring for curated senior-friendly programmes.
+Before you travel, make sure to check the latest [Thailand visa requirements for 2026](/visa/) and complete the [Thailand Digital Arrival Card](/visa/digital-arrival-card/) online. The [healing journey wellness campaign](/blog/healing-journey-thailand-wellness-campaign-2026/) launched by the Tourism Authority of Thailand is also worth exploring for curated senior-friendly programmes.
 
 Thailand's push toward quality over quantity means the kingdom is actively investing in the kind of travel experience that appeals to visitors who value substance over spectacle. If you are also considering solo exploration, the [solo travel boom in Thailand 2026](/blog/thailand-solo-travel-boom-2026-tips-destinations/) shows how the country is adapting to independent, experience-first visitors of all ages.

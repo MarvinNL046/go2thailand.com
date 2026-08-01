@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "koh-tao-guide-diving-beaches-budget-travel",
+  "route": "/nl/blog/koh-tao-guide-diving-beaches-budget-travel/",
+  "cluster": "destination-guides",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koh Tao gids: verder naar de eilandowner | Go2Thailand",
+    "description": "Deze oude Koh Tao-blog is samengevoegd met de complete eilandgids voor gebieden, duiken, snorkelen, vervoer en verblijf.",
+    "primaryKeyword": "Koh Tao gids oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/koh-tao-guide-diving-beaches-budget-travel/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde reisgids",
+    "title": "Koh Tao plan je op één plek",
+    "accent": "Eiland, duiken en baaien",
+    "description": "De complete Koh Tao-owner verdeelt de eilandkeuze, duikplanning en snorkelplekken zonder dubbele adviezen.",
+    "image": "/images/redesign/editorial/koh-tao-guide-diving-beaches-budget-travel-hero.webp",
+    "imageAlt": "Heldere baai en groene kust van Koh Tao",
+    "primaryCta": { "label": "Open de Koh Tao-gids", "href": "/nl/islands/koh-tao/" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "island", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze blogroute is geen afzonderlijke zoekowner meer. Gebruik de complete Koh Tao-gids en kies daar de specialistische duik-, snorkel- of attractiepagina.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Eén actuele Koh Tao-owner", "description": "Losse oude bedragen, ferryuren en duikclaims zijn verwijderd. De eilandgids stuurt door naar de juiste specialistische beslissing.", "cta": { "label": "Naar Koh Tao", "href": "/nl/islands/koh-tao/" } },
+    { "kind": "related", "id": "specialisten", "title": "Kies je volgende stap", "items": [
+      { "title": "Duiken op Koh Tao", "description": "Vergelijk opleidingsniveau, operator en zeecondities.", "href": "/nl/islands/koh-tao/diving/" },
+      { "title": "Snorkelen op Koh Tao", "description": "Kies baai en toegang op basis van actuele omstandigheden.", "href": "/nl/islands/koh-tao/snorkeling/" },
+      { "title": "Koh Tao bezienswaardigheden", "description": "Bouw een haalbare shortlist voor dagen boven water.", "href": "/nl/islands/koh-tao/attractions/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële context", "items": [
+      { "title": "Ko Tao", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko-Tao/361", "checkedAt": "2026-08-01", "note": "Bestemmings- en natuurcontext." },
+      { "title": "Koraalregels Ko Tao en Golf-eilanden", "publisher": "Department of Marine and Coastal Resources", "url": "https://newweb.dmcr.go.th/detailAll/29229/nws/", "checkedAt": "2026-08-01", "note": "Regels voor ankeren, afval, voeren en rifschadelijke activiteiten." }
+    ] }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-28T13:08:44.500Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "hua hin hotel recommendations",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "hua hin hotel recommendations"
+  ],
+  "keywords": [
+    {
+      "keyword": "hua hin hotel recommendations",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

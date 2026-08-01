@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1, "locale": "nl", "slug": "history-of-thai-cuisine", "route": "/nl/blog/history-of-thai-cuisine/", "cluster": "food", "editorialStatus": "ready", "updatedAt": "2026-08-01",
+  "seo": { "title": "Geschiedenis Thaise keuken: regio, handel en thuis", "description": "Lees hoe regionale tradities, handel, migratie, hofkeukens, huishoudens en straateten samen de Thaise keuken vormden.", "primaryKeyword": "geschiedenis Thaise keuken", "secondaryKeywords": ["oorsprong Thais eten", "invloeden Thaise keuken", "regionale Thaise keuken"], "searchIntent": "informational", "canonicalPath": "/nl/blog/history-of-thai-cuisine/" },
+  "hero": { "eyebrow": "Een keuken van vele makers", "title": "Geschiedenis van de Thaise keuken", "accent": "Lagen, regio’s en overdracht", "description": "Geen enkel oorsprongsverhaal volstaat: landschap, handel, migratie, hof, huishoudens en markten werkten op elkaar in.", "image": "/images/redesign/editorial/history-of-thai-cuisine-hero.webp", "imageAlt": "Historisch stilleven met Thaise gerechten, rijst, kruiden en kookgerei", "primaryCta": { "label": "Bekijk de lagen", "href": "#lagen" }, "secondaryCta": { "label": "Levende traditie", "href": "#levend" } },
+  "layout": { "kind": "food-guide", "foodMode": "overview", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "De Thaise keuken ontstond niet uit één bron. Regionale landschappen, lokale gemeenschappen, handel, migratie, hofcultuur, huishoudens en markten vormden samen veranderende kooktradities.",
+  "blocks": [
+    { "kind": "card-grid", "id": "lagen", "title": "Vijf historische lagen", "cards": [
+      { "title": "Landschap en regio", "description": "Rivieren, kust, bossen en landbouw sturen ingrediënten en bewaartechnieken." },
+      { "title": "Handel en migratie", "description": "Nieuwe producten en technieken werden lokaal aangepast, niet simpel gekopieerd." },
+      { "title": "Hof en documentatie", "description": "Hofkeukens verfijnden en legden bepaalde maaltijdvormen vast." },
+      { "title": "Huishoudens en vrouwen", "description": "Kennis ging door voordoen, familiepraktijk en later kookboeken over." },
+      { "title": "Markt en straat", "description": "Verstedelijking en mobiliteit veranderden verkoopvormen en dagelijks eten." }
+    ] },
+    { "kind": "callout", "id": "levend", "tone": "jade", "title": "Erfgoed is geen vast recept", "description": "UNESCO’s inschrijving van Tomyum Kung benadrukt overdracht in gemeenschappen. Variatie en voortgaande praktijk horen bij levend erfgoed." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Wie heeft de Thaise keuken uitgevonden?", "answer": "Niemand alleen. De keuken groeide uit vele regionale, sociale en internationale contacten." },
+      { "question": "Komt Thais eten vooral uit de hofkeuken?", "answer": "De hofkeuken is één belangrijke laag. Huishoudens, boeren, vissers, migranten en marktkoks zijn eveneens essentieel." },
+      { "question": "Is straateten een eeuwenoude vaste traditie?", "answer": "Markteten heeft diepe wortels, maar modern straateten veranderde mee met steden, werk en vervoer." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Culturele en erfgoedbronnen", "items": [
+      { "title": "Thai Food", "publisher": "Thailand Foundation", "url": "https://thailandfoundation.or.th/culture-heritage/thai-food/", "checkedAt": "2026-08-01" },
+      { "title": "Women in Thai Cuisine: The Classical Era", "publisher": "Thailand Foundation", "url": "https://thailandfoundation.or.th/women-in-thai-cuisine-part-1-the-classical-era/", "checkedAt": "2026-08-01" },
+      { "title": "Women in Thai Cuisine: The Era of Change", "publisher": "Thailand Foundation", "url": "https://thailandfoundation.or.th/th/women-in-thai-cuisine-part-2-the-era-of-change/", "checkedAt": "2026-08-01" },
+      { "title": "Tomyum Kung", "publisher": "UNESCO Intangible Cultural Heritage", "url": "https://ich.unesco.org/en/RL/tomyum-kung-01879", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

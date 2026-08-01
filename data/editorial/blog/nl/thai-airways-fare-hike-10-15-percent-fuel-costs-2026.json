@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thai-airways-fare-hike-10-15-percent-fuel-costs-2026",
+  "route": "/nl/blog/thai-airways-fare-hike-10-15-percent-fuel-costs-2026/",
+  "cluster": "transport",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thai Airways-tarieven maart 2026 | Archief",
+    "description": "Deze tijdgebonden tariefupdate is gearchiveerd. Vergelijk de actuele totaalprijs voor jouw route, datum, bagage en voorwaarden.",
+    "primaryKeyword": "archief Thai Airways tarieven maart 2026",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thai-airways-fare-hike-10-15-percent-fuel-costs-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Historische tariefupdate",
+    "title": "Thai Airways-prijzen in maart 2026",
+    "accent": "Een percentage is geen live ticketprijs",
+    "description": "De gemelde stijging was tijdgebonden. Vergelijk nu je exacte route, datum en tariefvoorwaarden.",
+    "image": "/images/redesign/editorial/thai-airways-fare-hike-10-15-percent-fuel-costs-2026-hero.webp",
+    "imageAlt": "Reiziger vergelijkt vluchten op een laptop bij een luchthavenraam",
+    "primaryCta": { "label": "Lees de actuele routecheck", "href": "/nl/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze route is gearchiveerd omdat de gemelde 10–15 procent uit maart 2026 geen blijvende, routebrede prijs is. Alleen een live totaalprijs voor jouw data is bruikbaar.",
+  "blocks": [
+    { "kind": "callout", "id": "archief", "tone": "warning", "title": "Geen actuele prijsclaim", "description": "Vergelijk totaalprijs, bagage, stoelkeuze en wijzigingsvoorwaarden rechtstreeks voor je exacte vlucht." },
+    { "kind": "related", "id": "verder", "title": "Actuele routecontext", "items": [{ "title": "Thai Airways Amsterdam–Bangkok", "description": "Controleer de bevestigde route en vergelijk zonder statische vanafprijs.", "href": "/nl/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/" }] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire airlinebron", "items": [{ "title": "Fuel surcharge information from May 2026", "publisher": "Thai Airways", "url": "https://www.thaiairways.com/en-jp/content/news-and-announcements/2026may-fuel/", "checkedAt": "2026-08-01", "note": "Bevestigt dat toeslagen per ticketmoment en markt worden gepubliceerd; niet bruikbaar als universele prijs." }] }
+  ]
+}

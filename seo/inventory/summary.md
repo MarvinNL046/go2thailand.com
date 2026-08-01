@@ -1,0 +1,55 @@
+# Route inventory
+
+Generated: 2026-08-01T18:51:00.205Z
+
+- Total sitemap URLs: 2181
+- English URLs: 1581
+- Dutch URLs: 600
+- URLs without a language pair: 1007
+
+## Page families
+
+| page type | URLs |
+|---|---:|
+| attraction-detail | 101 |
+| blog | 435 |
+| commercial-activity | 106 |
+| comparison | 2 |
+| destination-detail | 66 |
+| destination-index | 2 |
+| destination-pillar | 70 |
+| destination-subpillar | 154 |
+| food-drink | 145 |
+| homepage | 2 |
+| hotel-commercial | 197 |
+| hotel-detail | 419 |
+| island | 27 |
+| itinerary | 30 |
+| location-directory | 54 |
+| other | 61 |
+| phuket-location | 30 |
+| practical | 29 |
+| region | 10 |
+| transport | 70 |
+| travel-guide | 99 |
+| where-to-stay | 72 |
+
+## Provisional actions
+
+| recommended action | URLs |
+|---|---:|
+| freshness-audit | 534 |
+| indexation-audit | 419 |
+| keep-improve | 442 |
+| manual-audit | 61 |
+| merge-candidate | 55 |
+| template-audit | 325 |
+| template-improve | 345 |
+
+## Decision rules
+
+- `recommended_action` is a triage recommendation, not permission to redirect or noindex automatically.
+- `merge-candidate` requires a content, traffic and backlink check before a 301 is implemented.
+- `indexation-audit` flags large programmatic families where unique value and canonicals must be proven.
+- Missing language pairs are audit leads; some campaign or legal routes may intentionally be locale-specific.
+- Primary keywords must be confirmed in the locale-specific backlog before a route enters the used-keywords log.

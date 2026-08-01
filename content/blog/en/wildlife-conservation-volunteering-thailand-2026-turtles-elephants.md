@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "responsible travel"
 tags: ["Thailand volunteering 2026", "wildlife conservation Thailand", "sea turtle volunteering", "elephant sanctuary volunteer", "ethical travel Thailand", "dugong conservation Trang"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/wildlife-conservation-volunteering-thailand-2026-turtles-elephants-hero.webp"
 description: "Want to give back while visiting Thailand? Here is a guide to the best wildlife conservation volunteer programmes in 2026, from sea turtle research in Trang to ethical elephant sanctuaries in Phuket."
 featured: false
 readingTime: 4
@@ -69,6 +69,6 @@ For context on Thailand's broader responsible tourism movement, see the [Thailan
 
 ## Getting Started
 
-Most programmes accept applications online and require only basic fitness and a willingness to work outdoors. Costs vary from around 500 USD per week (including accommodation and meals) to higher-end research internships. Booking at least two to three months ahead is recommended for peak season placements. Check our [Thailand budget guide 2026](/blog/thailand-budget-2026-daily-costs/) to factor volunteer programme fees into your overall travel costs.
+Most programmes accept applications online and require only basic fitness and a willingness to work outdoors. Costs vary from around 500 USD per week (including accommodation and meals) to higher-end research internships. Booking at least two to three months ahead is recommended for peak season placements. Check our [Thailand budget guide 2026](/thailand-index/budget/) to factor volunteer programme fees into your overall travel costs.
 
 Whether you spend a week tracking sea turtles in Trang or a month helping rescued gibbons in Phetchaburi, wildlife volunteering is one of the most rewarding ways to experience Thailand beyond the beaches and temples. For the wellness-focused traveller, combine this with a programme at one of the [best wellness retreats in Thailand](/blog/best-wellness-retreats-thailand-2026/), or explore eco-luxury options like the [Visama Explorer Nan tented camp](/blog/visama-explorer-nan-eco-glamping-tented-camp-2026/) in the remote north.

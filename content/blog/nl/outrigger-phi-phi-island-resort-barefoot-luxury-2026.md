@@ -1,64 +1,74 @@
 ---
-title: "Outrigger Phi Phi Resort: Blotevoeten Luxe Opent Mei 2026"
+title: "OUTRIGGER Phi Phi Island Resort: past dit verblijf bij jou?"
 slug: "outrigger-phi-phi-island-resort-barefoot-luxury-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "accommodation"
-tags: ["Phi Phi Eilanden", "luxe resort", "eco resort Thailand", "Outrigger", "duurzaam reizen", "Krabi provincie", "eilandresort 2026", "beste resorts Thailand", "duiken Phi Phi", "vakantie Phi Phi"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Ontdek het Outrigger Phi Phi Island Resort dat in mei 2026 opent met 63 suites, eco-vriendelijk design en PADI duikcentrum op de iconische Phi Phi Eilanden. Boek nu je luxe eilandvakantie voor het droge seizoen in Thailand, ideaal vanuit Nederland."
+tags: ["OUTRIGGER Phi Phi", "Laem Tong Beach", "Phi Phi resort", "boottransfer", "Phi Phi Don"]
+image: "/images/redesign/editorial/outrigger-phi-phi-island-resort-barefoot-luxury-2026-hero.webp"
+description: "OUTRIGGER Phi Phi Island Resort is geopend. Vergelijk ligging, boottransfer, kamertypes en eilandrust voordat je boekt."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 7
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Travel Weekly — Outrigger Phi Phi Island Resort to open doors in May 2026"
-    url: "https://travelweekly.com.au/outrigger-phi-phi-island-resort-to-open-doors-in-may-2026/"
-  - name: "Travel And Tour World — Outrigger Phi Phi Island Resort to Open in 2026"
-    url: "https://www.travelandtourworld.com/news/article/outrigger-phi-phi-island-resort-to-open-in-2026-offering-the-luxury-sustainability-and-local-culture-with-wellness-dining-and-eco-tourism-in-thailand/"
-  - name: "Outrigger Newsroom — Launch of Barefoot-Luxury Retreat on Phi Phi Island"
-    url: "https://news.outrigger.com/2025/10/13/outrigger-hospitality-group-to-launch-barefoot-luxury-retreat-on-thailands-iconic-phi-phi-island/"
-  - name: "Bangkok Post — Outrigger to launch barefoot-luxury retreat"
-    url: "https://www.bangkokpost.com/life/travel/3124826/outrigger-to-launch-barefootluxury-retreat"
+  - name: "OUTRIGGER Newsroom — Phi Phi Island Resort opens"
+    url: "https://news.outrigger.com/2026/05/06/outrigger-phi-phi-island-resort-opens-where-barefoot-luxury-meets-the-andaman-sea/"
+  - name: "OUTRIGGER Newsroom — Soul of Rest design"
+    url: "https://news.outrigger.com/2026/03/10/outrigger-phi-phi-island-resort-introduces-soul-of-rest-sustainable-design/"
+  - name: "Tourism Authority of Thailand — Ko Phi Phi"
+    url: "https://www.tourismthailand.org/Attraction/ko-phi-phi"
 ---
 
-## Een Nieuw Luxe Hoofdstuk voor de Phi Phi Eilanden
+## Van openingsnieuws naar echte hotelkeuze
 
-De Phi Phi Eilanden krijgen binnenkort een frisse luxe bestemming. Het Outrigger Phi Phi Island Resort, een herboren versie van het voormalige Zeavola Resort, opent in mei 2026 aan de noordpunt van Phi Phi Don. Het resort is alleen per boot bereikbaar, wat de aankomst net zo afgelegen en spectaculair maakt als het eiland zelf. Voor een bredere introductie tot dit eilandenrijk, bekijk onze gids over de [Phi Phi Eilanden](/city/phuket/attractions/phi-phi-islands/).
+OUTRIGGER Phi Phi Island Resort verwelkomde in mei 2026 zijn eerste gasten. De oude aankondiging is dus achterhaald: dit is nu een hotelkeuze voor reizigers die rust aan de noordkant van Phi Phi Don zoeken. Het resort ligt aan Laem Tong Beach, is alleen over water bereikbaar en bevindt zich binnen de grenzen van Hat Noppharat Thara–Mu Ko Phi Phi National Park.
 
-De Outrigger Hospitality Group kondigde het project eind 2025 aan en positioneert het resort als een 'blotevoeten luxe' toevluchtsoord dat hedendaagse gemakken mengt met Thaise cultuur en eco-bewust ontwerp. Het sluit aan bij een reeks [nieuwe luxe hotels die in 2026 in Thailand openen](/blog/thailand-hotel-boom-2026-record-pipeline-bangkok-luxury/).
+Die ligging is tegelijk het sterkste punt en de belangrijkste beperking. Je zit aan het strand, weg van de drukte rond Tonsai. Voor restaurants, winkels en veerverbindingen buiten het resort ben je afhankelijk van een boot. Vergelijk daarom niet alleen de kamerprijs, maar de hele aankomstketen.
 
-## Suites, Villa's en Zwembaden
+## Voor wie past het resort?
 
-Het resort telt 63 suites en villa's verspreid over weelderige tropische gronden:
+### Koppels die rust boven bereikbaarheid kiezen
 
-- **Tuin Suites** — ruime kamers met eigen woonruimtes omringd door groen.
-- **Familie Suites** — ontworpen met extra ruimte voor gezinnen die met kinderen reizen.
-- **Heuveltop Pool Villa's** — verhoogde villa's met privé infinity-zwembaden en panoramisch uitzicht op het regenwoud en de Andamanzee.
-- ** strand Suites met Zwembad** — directe toegang tot het strand met persoonlijke plonsbaden en whirlpools.
+De afgelegen strandsetting en villa’s met meer privacy passen bij een reis waarin het verblijf zelf een hoofddoel is. Wie iedere avond zelfstandig naar Tonsai wil, kiest beter een centralere basis.
 
-Het ontwerp put uit het Thaise concept van *Nit Thra* (de ziel van rust), met nadruk op balans, kalmte en herstel in elke ruimte. Reizigers die eilandopties vergelijken, kunnen ook onze [vergelijking tussen Koh Phi Phi en Koh Lanta](/compare/koh-phi-phi-vs-koh-lanta/) bekijken.
+### Gezinnen die op het terrein willen blijven
 
-## Eten, Welzijn en Duiken
+De aanbieder noemt familievilla’s en activiteiten op het resort. Controleer vóór boeken welke faciliteiten tijdens jouw verblijf operationeel zijn, welke leeftijdsgrenzen gelden en hoe transfers met kinderen worden uitgevoerd. Een familiekamer alleen maakt de logistiek nog niet eenvoudig.
 
-Gasten die per longtailboot arriveren, worden welkom geheten met een traditionele *RubKwan*-ceremonie en een handgemaakt kralenarmband die welzijn symboliseert. Van daaruit biedt het resort:
+### Duikers en snorkelaars met een plan
 
-- **Edgewater Bar & Grill** — openluchtrestaurant met gevlochten bamboe panelen, met vers gegrilde zeevruchten, aromatische Thaise curry's en tropische cocktails.
-- **Zeavola Spa** — welzijnsrituelen geïnspireerd op de Zuid-Thaise uitdrukking *Ayu Man Kwan Yeun* (Een Zegen voor het Leven), gericht op balans en vernieuwing.
-- **PADI Duikcentrum** — expertgeleide duiktochten, snorkeltrips en eco-bewuste [eilandhopping excursies](/blog/thailand-island-hopping-guide/) rond de Phi Phi archipel. De omliggende wateren behoren tot de [beste duik- en snorkelplekken in Thailand](/best-diving-snorkeling-in-thailand/), en een [liveaboard trip naar de Similan Eilanden](/blog/thailand-liveaboard-diving-guide-similan-surin-2026/) is een geliefde uitbreiding voor serieuze duikers. Houd rekening met het regenseizoen; mei markeert het begin van het droge seizoen, perfect voor veilige en zonnige vakanties.
+De officiële openingsinformatie noemt een PADI-duikcentrum en niet-gemotoriseerde watersporten. Vraag vóór reserveren naar certificeringseisen, uitrusting, medische formulieren, parktoegang en het beleid bij gewijzigde omstandigheden. Zicht, dieren en duiklocaties zijn nooit te garanderen.
 
-Een kinderopvang en tienerzone maken het aanbod compleet voor gezinnen — meer ideeën voor familiereizen door het land vind je in onze [gids voor Thailand met kinderen](/thailand-with-kids-family-travel-guide/) — terwijl niet-gemotoriseerde watersporten het strand rustig en emissievrij houden.
+## Kamertypes begrijpen
 
-## Duurzaamheid als Kern
+OUTRIGGER beschrijft drie leidende categorieën: Hilltop Ocean View Pool Villa, Beachfront Pool Villa en Family Garden Villa. Daarnaast bestaan suites en andere subcategorieën. De naam zegt niet alles over traplopen, afstand tot het strand, inkijk of daadwerkelijke ligging.
 
-Outrigger zet in op eco-vriendelijke operaties, met hernieuwbare energiebronnen, waterspaar-systemen en duurzame bouwmaterialen. De boot-only toegang beperkt de milieu-impact van nature, en het resort's focus op niet-gemotoriseerde watersporten beschermt de koraalriffen die Phi Phi tot een wereldklasse duikbestemming maken. Voor meer over verantwoord reizen in Thailand, lees onze reportages over [de eco-duikregels op Koh Tao](/blog/koh-tao-coral-restoration-eco-diving-rules-2026/) en [Thailands good travel certificeringsprogramma](/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/).
+Vraag bij een kamerkeuze daarom naar:
 
-## Praktische Informatie
+- de route vanaf aankomstpunt naar de kamer;
+- hoogteverschil en bagagehulp;
+- bedopstelling en maximale bezetting;
+- de mate van privacy rond een zwembad;
+- inbegrepen maaltijden en transferonderdelen;
+- wijzigingsvoorwaarden bij een verstoorde bootverbinding.
 
-- **Locatie:** Noordpunt van Phi Phi Don, [provincie Krabi](/city/krabi/)
-- **Opening:** Mei 2026
-- **Toegang:** Boottransfer vanuit [Phuket](/city/phuket/) (ongeveer 90 minuten) of [Krabi](/destinations/krabi/) — bekijk [transportopties van Bangkok naar Krabi](/transport/bangkok-to-krabi/) en [verbindingen van Phuket naar Krabi](/transport/phuket-to-krabi/). Vanuit Nederland ideaal met directe vluchten vanaf Schiphol naar Phuket of Krabi via KLM.
-- **Kamers:** 63 suites en villa's
-- **Ideaal voor:** Koppels, gezinnen en duikers die een luxe eilandontsnapping zoeken
+## Boot-only: plan deur tot deur
 
-Als Phi Phi op je lijstje staat, biedt de opening van Outrigger een overtuigende nieuwe reden om te boeken voor de tweede helft van 2026. Blader door [de beste hotels in Krabi](/best-hotels/krabi/) en [Phuket](/best-hotels/phuket/) als je het resortverblijf wilt combineren met tijd op het vasteland, of ontdek de [gids voor de Phi Phi Eilanden](/blog/phi-phi-islands-guide-beyond-tourist-crowds/) om je dagen op het water te plannen.
+Phi Phi heeft geen luchthaven en OUTRIGGER is niet via de weg bereikbaar. Je reis bestaat uit een vlucht of trein, vervoer naar een pier, een boottraject en de laatste resorttransfer. De precieze keten hangt af van vertrekplaats, vervoerder en boeking.
+
+Laat het resort schriftelijk bevestigen welke pier je gebruikt, wie de boot uitvoert, waar je wordt opgewacht en wat er gebeurt als een eerdere aansluiting vertraagt. Een willekeurige ferry naar Tonsai is niet automatisch dezelfde route als een resorttransfer naar Laem Tong.
+
+Plan geen kwetsbare losse aansluiting op de dag van je internationale terugvlucht. Een extra nacht op Phuket of het vasteland kan de route robuuster maken. Vergelijk bredere eilandkeuzes in onze [gids voor de Phi Phi-eilanden](/nl/blog/phi-phi-islands-guide-beyond-tourist-crowds/) en [Koh Phi Phi versus Koh Lanta](/nl/compare/koh-phi-phi-vs-koh-lanta/).
+
+## Duurzaamheidsclaims: kijk naar bewijs
+
+OUTRIGGER koppelt het ontwerpconcept “Nit Thra” aan lokale materialen, ambacht en verwijzingen naar de Urak Lawoi-gemeenschap. De groep noemt ook milieumaatregelen. Dat zijn claims van de aanbieder, geen automatische garantie dat ieder verblijf een lage impact heeft.
+
+Stel concrete vragen over afvalwater, energie, drinkwater, lokale inkoop, arbeidsvoorwaarden en natuurparkregels. Respecteer strand- en koraalregels ook wanneer een activiteit door het hotel wordt aangeboden. Boot-only bereikbaarheid maakt een resort bovendien niet vanzelf duurzamer.
+
+## Boeken zonder verrassingen
+
+Controleer live prijs en voorwaarden rechtstreeks bij de accommodatie of een vertrouwd boekingsplatform. Wij noemen bewust geen vaste kamerprijs. Let vooral op belastingen, maaltijden, boottransfer, annulering en kamerlocatie. Een transparante vergelijking kijkt naar de totale reisketen, niet naar een nachttarief alleen.
+
+OUTRIGGER Phi Phi is een logische keuze als je meerdere nachten op één rustige plek wilt blijven. Het is minder geschikt voor een korte Phi Phi-stop, veel zelfstandig uitgaan of maximale vrijheid in vervoer.

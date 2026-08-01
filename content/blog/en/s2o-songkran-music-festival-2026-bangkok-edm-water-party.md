@@ -1,16 +1,25 @@
 ---
-title: "S2O Songkran Music Festival 2026: Bangkok's Wildest Water and EDM Party"
+title: "S2O Songkran Music Festival 2026: Bangkok Event Recap"
 slug: "s2o-songkran-music-festival-2026-bangkok-edm-water-party"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
 category: "festivals"
-tags: ["S2O Songkran 2026", "Bangkok music festival", "Songkran EDM party", "Thailand festivals April 2026", "electronic music Bangkok", "Zedd Bangkok", "Kygo Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
-description: "S2O Songkran Music Festival returns to Bangkok on April 11-13, 2026 with Zedd, Kygo, Alan Walker and more. Here is everything you need to know about tickets, lineup and what to expect."
+tags:
+  [
+    "S2O Songkran 2026",
+    "Bangkok music festival",
+    "Songkran EDM party",
+    "Thailand festivals April 2026",
+    "electronic music Bangkok",
+    "Zedd Bangkok",
+    "Kygo Bangkok",
+  ]
+image: "/images/redesign/editorial/s2o-songkran-music-festival-2026-bangkok-edm-water-party-hero.webp"
+description: "A recap of S2O Songkran Music Festival in Bangkok on April 11-13, 2026, including the historical line-up, ticket context and practical advice."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "S2O Songkran Music Festival — Official Website"
     url: "https://www.s2ofestival.com/"
@@ -21,6 +30,8 @@ sources:
   - name: "Music Festival Wizard — S2O Songkran Music Festival 2026"
     url: "https://www.musicfestivalwizard.com/festivals/s2o-songkran-music-festival-2026/"
 ---
+
+> **Event status (updated 1 August 2026):** S2O Bangkok 2026 has ended. The dates, line-up, ticket tiers and venue guidance below are retained for reference only and do not describe a future edition. Use the organiser's official channels for any new sale or schedule.
 
 ## What Is S2O Songkran Music Festival?
 
@@ -73,4 +84,4 @@ If EDM is your thing but you want more options in Thailand, [Tomorrowland Pattay
 
 If you want to make your Thailand trip more culturally immersive, consider getting a [Sak Yant sacred bamboo tattoo](/blog/sak-yant-bamboo-tattoo-thailand-guide-2026/) while you are in Bangkok — many studios are a short ride from the festival venue.
 
-Before travelling, make sure your paperwork is in order. The [Thailand visa guide](/blog/thailand-visa-guide-2026/) covers entry requirements, and the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) is mandatory for all arrivals. A solid [travel insurance policy](/blog/travel-insurance-thailand-guide/) is also strongly recommended for festival trips. First-time visitors should read the [essential Thailand travel guide](/blog/thailand-first-time-visitors-essential-guide-2026/) before arrival.
+Before travelling, make sure your paperwork is in order. The [Thailand visa guide](/visa/) covers entry requirements, and the [Thailand Digital Arrival Card (TDAC)](/visa/digital-arrival-card/) is mandatory for all arrivals. A solid [travel insurance policy](/blog/travel-insurance-thailand-guide/) is also strongly recommended for festival trips. First-time visitors should read the [essential Thailand travel guide](/blog/thailand-first-time-visitors-essential-guide-2026/) before arrival.

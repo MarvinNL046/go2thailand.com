@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "accommodation"
 tags: ["Khao Sok National Park", "floating bungalows Thailand", "Cheow Lan Lake", "glamping Thailand 2026", "Surat Thani", "eco-tourism Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/khao-sok-floating-bungalows-cheow-lan-lake-glamping-guide-2026-hero.webp"
 description: "Cheow Lan Lake in Khao Sok National Park is home to Thailand's most unique overnight stay: floating bungalows surrounded by jungle and limestone karsts. Here is your 2026 guide."
 featured: false
 readingTime: 3
@@ -24,9 +24,9 @@ sources:
 
 ## Why Cheow Lan Lake Should Be on Your Thailand List
 
-Most visitors to Thailand chase beaches or city temples. But deep inside [Khao Sok National Park](/city/surat-thani/attractions/khao-sok-national-park/), in [Surat Thani](/city/surat-thani/) province, lies one of the country's most unforgettable experiences: spending the night in a floating bungalow on Cheow Lan Lake. Think emerald-green water, towering limestone karsts rising up to 960 metres, and thick rainforest on every side. No roads, no traffic, no phone signal — just you and the jungle.
+Most visitors to Thailand chase beaches or city temples. But deep inside [Khao Sok National Park](/city/surat-thani/attractions/), in [Surat Thani](/city/surat-thani/) province, lies one of the country's most unforgettable experiences: spending the night in a floating bungalow on Cheow Lan Lake. Think emerald-green water, towering limestone karsts rising up to 960 metres, and thick rainforest on every side. No roads, no traffic, no phone signal — just you and the jungle.
 
-Khao Sok was established in 1980 as Thailand's 22nd national park. The lake itself was created in 1987 when the [Ratchaprapha Dam](/city/surat-thani/attractions/ratchaprapha-dam/) was built. Today it is a protected reservoir surrounded by one of the oldest evergreen rainforests in the world. If you enjoy exploring [Thailand's national parks](/travel-guides/national-parks-thailand/), this is among the most biodiverse on the peninsula.
+Khao Sok was established in 1980 as Thailand's 22nd national park. The lake itself was created in 1987 when the [Ratchaprapha Dam](/city/surat-thani/attractions/) was built. Today it is a protected reservoir surrounded by one of the oldest evergreen rainforests in the world. If you enjoy exploring [Thailand's national parks](/travel-guides/national-parks-thailand/), this is among the most biodiverse on the peninsula.
 
 ## What Are the Floating Bungalows Like?
 
@@ -36,7 +36,7 @@ All floating bungalows share one thing: they are built on pontoons directly on t
 
 ## How to Book
 
-Because the lake is remote and requires a longtail boat transfer from the dam pier, nearly all visitors book a package tour rather than arranging things independently. Most two-day, one-night packages include transport from Khao Sok town, the boat transfer, all meals, a guided [kayak trip](/blog/best-kayaking-paddleboarding-spots-thailand-2026/) and a jungle trek. Prices typically range from around 2,500 THB for a basic package to 10,000 THB or more for luxury options. For context on what to budget overall, see our [Thailand daily costs guide for 2026](/blog/thailand-budget-2026-daily-costs/).
+Because the lake is remote and requires a longtail boat transfer from the dam pier, nearly all visitors book a package tour rather than arranging things independently. Most two-day, one-night packages include transport from Khao Sok town, the boat transfer, all meals, a guided [kayak trip](/blog/best-kayaking-paddleboarding-spots-thailand-2026/) and a jungle trek. Prices typically range from around 2,500 THB for a basic package to 10,000 THB or more for luxury options. For context on what to budget overall, see our [Thailand daily costs guide for 2026](/thailand-index/budget/).
 
 ## Best Time to Visit
 

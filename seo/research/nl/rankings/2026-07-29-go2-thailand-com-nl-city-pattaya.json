@@ -1,0 +1,33 @@
+{
+  "captured_at": "2026-07-29T21:04:20.345Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/city/pattaya/",
+  "cost": 0.01236,
+  "rankings": [
+    {
+      "keyword": "pattaya",
+      "position": 87,
+      "volume": 8100,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/pattaya/"
+    },
+    {
+      "keyword": "wat te doen in pattaya",
+      "position": 64,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/pattaya/"
+    },
+    {
+      "keyword": "wat te doen pattaya",
+      "position": 61,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/pattaya/"
+    }
+  ]
+}

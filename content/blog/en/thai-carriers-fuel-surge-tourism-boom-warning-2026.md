@@ -4,9 +4,11 @@ date: "2026-03-23"
 lastUpdated: "2026-03-29"
 author:
   name: "Go2Thailand Editorial"
-image: "/images/blog/thailand-travel.jpg"
+category: "news"
+image: "/images/redesign/editorial/thai-carriers-fuel-surge-tourism-boom-warning-2026-hero.webp"
 tags: ["thailand", "airlines", "fuel costs", "tourism", "flights"]
 summary: "Major Thai carriers including Thai Airways, Bangkok Airways and AirAsia warn that soaring jet fuel prices threaten to undermine Thailand's tourism recovery in 2026."
+description: "A dated report on fuel-cost pressure affecting Thai airlines, with guidance to compare the current complete fare rather than rely on old estimates."
 sources:
   - "https://www.travelandtourworld.com/news/article/thai-airways-bangkok-airways-thai-airasia-nok-air-sound-alarm-rising-fuel-costs-threaten-thailands-tourism-hospitality-boom-in-2026/"
   - "https://www.thetraveler.org/thai-carriers-warn-fuel-surge-could-slow-2026-tourism-boom/"
@@ -38,7 +40,7 @@ Thai carriers are lobbying for [jet fuel tax relief](/blog/thailand-airlines-jet
 
 Despite the fare increases, advance bookings for the spring and summer season remain strong. Direct Europe-to-Thailand routes are reporting cabin load factors of 80 to 90 per cent, suggesting that demand remains robust even at higher prices.
 
-Still, [budget-conscious travellers](/blog/thailand-budget-2026-daily-costs/) heading to Thailand in 2026 should consider several strategies:
+Still, [budget-conscious travellers](/thailand-index/budget/) heading to Thailand in 2026 should consider several strategies:
 
 - **Book early** to lock in current fares before further increases. Look for [Songkran flight discounts](/blog/songkran-2026-airlines-discount-flights/) if traveling in April.
 - **Be flexible with dates**, as midweek flights tend to be cheaper than weekend departures.
@@ -47,4 +49,4 @@ Still, [budget-conscious travellers](/blog/thailand-budget-2026-daily-costs/) he
 
 The coming months will be critical in determining whether [Thailand can maintain its tourism momentum](/blog/thailand-3-trillion-baht-tourism-target-amazing-5-economy-2026/) or whether rising travel costs will put a brake on the boom. The government's [relief package for tourism](/blog/fetta-14-billion-baht-relief-package-thailand-tourism-2026/) may also play a role in keeping Thailand competitive.
 
-Also see: [Thailand's oil crisis impact on energy and flight prices](/blog/thailand-oil-crisis-flight-prices-energy-march-2026/) and our guide on [Thai Airways' new summer 2026 routes](/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/) for the latest network developments. For those already planning a trip, our [Thailand visa guide](/blog/thailand-visa-guide-2026/) and [first-time visitor essentials](/blog/thailand-first-time-visitors-essential-guide-2026/) remain valid starting points regardless of fare levels.
+Also see: [Thailand's oil crisis impact on energy and flight prices](/blog/thailand-oil-crisis-flight-prices-energy-march-2026/) and our guide on [Thai Airways' new summer 2026 routes](/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/) for the latest network developments. For those already planning a trip, our [Thailand visa guide](/visa/) and [first-time visitor essentials](/blog/thailand-first-time-visitors-essential-guide-2026/) remain valid starting points regardless of fare levels.

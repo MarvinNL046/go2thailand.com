@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["TAT", "tourism crisis", "middle east tensions", "stranded travelers", "thailand travel advisory"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tat-crisis-monitoring-centre-march-2026-hero.webp"
 description: "The Tourism Authority of Thailand activated its Crisis Monitoring Centre on March 1 to coordinate assistance for travelers affected by Middle East flight disruptions. Here is what the centre does and how to get help."
 featured: false
 readingTime: 3
@@ -58,10 +58,10 @@ If you are currently in Thailand or planning to travel soon:
 - **Call the TAT hotline at 1672** (available 24/7) for tourism-related assistance in English and other languages.
 - **Check the TAT Newsroom** at [tatnews.org](https://www.tatnews.org) for official updates.
 - **Make sure you have travel insurance** — our [Thailand travel insurance guide](/blog/travel-insurance-thailand-guide/) explains what to look for in a policy that covers flight disruptions.
-- **Consider a Thailand Digital Arrival Card (TDAC)** if you haven't already — the [TDAC guide](/blog/thailand-digital-arrival-card-tdac-guide/) explains the process for smooth entry when you do eventually land.
+- **Consider a Thailand Digital Arrival Card (TDAC)** if you haven't already — the [TDAC guide](/visa/digital-arrival-card/) explains the process for smooth entry when you do eventually land.
 
 ## Thailand remains open and safe
 
 Despite the disruptions to some flight routes, Thailand itself is not directly affected by the conflict. Domestic flights, trains, buses, and ferries continue to operate normally. Tourists already in the country can continue their travels without concern — the [Bangkok public transport network](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) and intercity links such as the [Bangkok–Chiang Mai sleeper train](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) are operating as usual. The crisis centre's activation is a precautionary measure aimed at supporting travelers who face logistical challenges getting in or out of the country via Middle Eastern transit hubs.
 
-For those planning future travel, Thailand continues to invest in its tourism infrastructure and sustainable offerings — including the [STAR green accreditation programme](/blog/thailand-star-green-tourism-accreditation-2026/) targeting 70% of tourism businesses by end of 2026. If you are assessing whether to visit, our [is Thailand safe for tourists in 2026](/blog/is-thailand-safe-tourists-2026/) guide covers the full picture.
+For those planning future travel, Thailand continues to invest in its tourism infrastructure and sustainable offerings — including the [STAR green accreditation programme](/blog/thailand-star-green-tourism-accreditation-2026/) targeting 70% of tourism businesses by end of 2026. If you are assessing whether to visit, our [is Thailand safe for tourists in 2026](/is-thailand-safe/) guide covers the full picture.

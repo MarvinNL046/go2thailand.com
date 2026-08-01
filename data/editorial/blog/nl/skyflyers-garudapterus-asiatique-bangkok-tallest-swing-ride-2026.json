@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "skyflyers-garudapterus-asiatique-bangkok-tallest-swing-ride-2026",
+  "route": "/nl/blog/skyflyers-garudapterus-asiatique-bangkok-tallest-swing-ride-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "SkyFlyers Bangkok: past de hoge zweefrit bij jou?",
+    "description": "Plan SkyFlyers bij Asiatique op basis van hoogte, bezoekersregels, weer en terugreis. Controleer actuele tickets bij de operator.",
+    "primaryKeyword": "SkyFlyers Bangkok",
+    "secondaryKeywords": ["SkyFlyers Asiatique", "Wings of Garudapterus", "hoge attractie Bangkok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/skyflyers-garudapterus-asiatique-bangkok-tallest-swing-ride-2026/"
+  },
+  "hero": {
+    "eyebrow": "Hoog boven de Chao Phraya",
+    "title": "SkyFlyers Bangkok",
+    "accent": "Kies pas na de veiligheidscheck.",
+    "description": "De zweefrit is actief bij Asiatique. Bekijk eerst de actuele lichaams-, bagage- en weersregels en plan een alternatief als de rit niet past.",
+    "image": "/images/redesign/editorial/skyflyers-garudapterus-asiatique-bangkok-tallest-swing-ride-2026-hero.webp",
+    "imageAlt": "Hoge SkyFlyers-zweefattractie boven Asiatique aan de rivier in Bangkok",
+    "primaryCta": { "label": "Past de rit bij jou?", "href": "#keuze" },
+    "secondaryCta": { "label": "Plan Asiatique", "href": "#avond" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "immersive", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "SkyFlyers is een hoge draaiende zweefrit bij Asiatique. Kies hem voor adrenaline en uitzicht, niet alleen voor een foto; controleer vóór aankoop de actuele veiligheidsvoorwaarden en operationele status.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "keuze",
+      "title": "Wel of niet instappen?",
+      "options": [
+        { "title": "Wel: je zoekt een thrill", "description": "Je vindt hoogte en beweging leuk en voldoet aan de actuele bezoekersvoorwaarden.", "label": "Adrenaline" },
+        { "title": "Eerst controleren", "description": "Bij medische twijfel, beperkte mobiliteit of een bezoek met kinderen laat je de operatorregels beslissen.", "label": "Veiligheid" },
+        { "title": "Niet nodig", "description": "Voor rustig rivierzicht zijn Asiatique Sky, de promenade of een bootroute logischer alternatieven.", "label": "Rustiger" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "avond",
+      "title": "Bouw een flexibele Asiatique-avond",
+      "steps": [
+        { "title": "Controleer de ritstatus", "description": "Weer, onderhoud of capaciteit kan de uitvoering beïnvloeden." },
+        { "title": "Kies één hoofdactiviteit", "description": "Combineer niet automatisch meerdere betaalde attracties als je vooral voor eten en rivierlicht komt." },
+        { "title": "Plan de terugreis", "description": "Controleer de laatste boot of kies vooraf een alternatief vervoer naar je hotel." }
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "tickets",
+      "provider": "klook",
+      "title": "Controleer een actuele Asiatique-optie",
+      "description": "Vergelijk live beschikbaarheid, inclusies, leeftijds- en lichaamsvoorwaarden en annulering met het officiële kanaal.",
+      "cta": { "label": "Bekijk actuele Bangkok-activiteiten", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true },
+      "placement": "skyflyers-bangkok-activities",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over SkyFlyers",
+      "items": [
+        { "question": "Is SkyFlyers in Bangkok open?", "answer": "AWC rapporteerde de attractie in 2026 als actieve publiekstrekker. Controleer op je bezoekdag alsnog de operator voor operationele status." },
+        { "question": "Hoe hoog is SkyFlyers?", "answer": "AWC beschrijft de attractie als circa 36 verdiepingen hoog. Gebruik die maat als indruk van de intensiteit, niet als garantie voor uitzicht." },
+        { "question": "Kun je je telefoon meenemen in de rit?", "answer": "Ga niet uit van losse spullen in een hoge draaiende attractie. Volg de actuele bagage- en veiligheidsinstructies van het personeel." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Operator- en locatiebronnen",
+      "items": [
+        { "title": "SkyFlyers", "publisher": "SkyFlyers Thailand", "url": "https://skyflyersthailand.com/", "checkedAt": "2026-08-01", "note": "Eigen attractiepagina en actuele bezoekersroute." },
+        { "title": "AWC Q1 2026 results", "publisher": "Asset World Corporation", "url": "https://www.assetworldcorp-th.com/en/newsroom/news-activities/1098/awc-delivers-continued-quality-growth-in-q1-2026-strong-expansion-across-hospitality-and-commercial-portfolios-drives-thb-1986-million-net-profit-strengthening-long-term-growth-potential-and-supporting-thailand-s-position-as-a-global-sustainable-tourism-destination", "checkedAt": "2026-08-01", "note": "Bevestigt dat SkyFlyers in 2026 bezoekers trok." },
+        { "title": "Asiatique The Riverfront", "publisher": "Asiatique", "url": "https://www.asiatiquethailand.com/", "checkedAt": "2026-08-01", "note": "Locatie, attracties en actuele complexinformatie." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Vergelijk met andere Bangkok-keuzes",
+      "items": [
+        { "title": "Bangkok bezienswaardigheden", "description": "De brede city-owner voor een uitgebalanceerde dag.", "href": "/nl/city/bangkok/attractions/" },
+        { "title": "Bangkok openbaar vervoer", "description": "Plan de heen- en terugreis naar de rivier.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" },
+        { "title": "Waar verblijven in Bangkok", "description": "Kies een wijk op basis van je volledige route.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" }
+      ]
+    }
+  ]
+}

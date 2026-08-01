@@ -53,7 +53,7 @@ Both apps serve slightly different purposes:
 - **Amazing Thailand** is ideal for **trip planning and discovery**, especially if you want AI-powered recommendations and hold a Mastercard for exclusive deals
 - **TAGTHAi** is better for **booking activities and passes** once you know where you're going, with bundled deals on attractions and experiences
 
-For the best experience, download both before your trip. They're free and together they cover most of what you'll need for planning and booking in [Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/). If you're still figuring out [when to go](/best-time-to-visit-thailand/), check our weather guide, and don't forget to review the latest [visa requirements](/visa/) before you fly.
+For the best experience, download both before your trip. They're free and together they cover most of what you'll need for planning and booking in [Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/). If you're still figuring out [when to go](/weather/), check our weather guide, and don't forget to review the latest [visa requirements](/visa/) before you fly.
 
 ---
 

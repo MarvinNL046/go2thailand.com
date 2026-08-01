@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand Tourism Festival 2026", "QSNCC Bangkok", "TAT", "Bangkok events March 2026", "Thailand travel deals", "Thai culture"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide-hero.webp"
 description: "The 44th Thailand Tourism Festival runs March 25-29 at QSNCC Bangkok. Here is everything you need to know: zones, deals, how to get there, and what to expect."
 featured: false
 readingTime: 3
@@ -61,7 +61,7 @@ The festival is designed around four activities: **eat, shop, explore, and exper
 ## Tips for Visitors
 
 - **Go on a weekday** if you want to avoid the biggest crowds. Weekends tend to draw heavy foot traffic.
-- **Bring cash** for food stalls and smaller vendors, though larger operators may accept cards. Read our guide on [how much two weeks in Thailand costs in 2026](/blog/how-much-2-weeks-thailand-cost-2026-budget/) to help budget your trip.
+- **Bring cash** for food stalls and smaller vendors, though larger operators may accept cards. Read our guide on [how much two weeks in Thailand costs in 2026](/thailand-index/budget/) to help budget your trip.
 - **Wear comfortable shoes** — the exhibition halls are large and you will be walking for hours.
 - **Arrive early** to secure the best travel deals, as popular packages can sell out quickly. If you are also planning a broader Bangkok itinerary, the [Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) will help you pick the right base.
 

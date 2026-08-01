@@ -1,0 +1,80 @@
+const bestTimeWeatherOwners = new Set([
+  'bangkok', 'chiang-mai', 'pattaya', 'ayutthaya', 'krabi', 'chiang-rai',
+  'hat-yai', 'sukhothai', 'surat-thani',
+]);
+
+const bestTimeCityOwners = new Set([
+  'pai', 'mae-hong-son', 'kanchanaburi', 'udon-thani', 'lampang', 'khon-kaen',
+  'nakhon-ratchasima', 'ubon-ratchathani', 'lopburi', 'phitsanulok', 'trat',
+  'rayong', 'nakhon-si-thammarat', 'trang', 'chumphon', 'chanthaburi',
+  'chiang-khan', 'nong-khai', 'bueng-kan', 'nakhon-phanom', 'mukdahan',
+]);
+
+/** Normalize legacy English internal URLs to the canonical route owners. */
+export function normalizeEnInternalHref(href: string): string {
+  if (!href.startsWith('/')) return href;
+
+  const parsed = new URL(href, 'https://go2-thailand.com');
+  let pathname = parsed.pathname;
+  if (!pathname.endsWith('/')) pathname += '/';
+
+  const exactOwners: Record<string, string> = {
+    '/islands/phuket/': '/city/phuket/',
+    '/transport/bangkok-to-bangkok/': '/transport/',
+    '/transport/bangkok-to-koh-samui/': '/blog/bangkok-to-koh-samui-guide/',
+    '/travel-insurance-thailand/': '/travel-insurance/',
+    '/best-hotels/ban-krut/': '/city/ban-krut/#zones',
+    '/city/koh-tao/': '/islands/koh-tao/',
+    '/city/koh-tao/attractions/': '/islands/koh-tao/attractions/',
+    '/city/koh-tao/diving/': '/islands/koh-tao/diving/',
+    '/city/koh-tao/snorkeling/': '/islands/koh-tao/snorkeling/',
+    '/city/koh-samui/best-time-to-visit/': '/city/koh-samui/weather/',
+    '/city/phuket/best-time-to-visit/': '/city/phuket/weather/',
+    '/city/ban-krut/best-time-to-visit/': '/city/ban-krut/#praktisch',
+    '/city/ban-krut/weather/': '/city/ban-krut/#praktisch',
+    '/region/northeastern/': '/region/isaan/',
+    '/region/East/': '/region/',
+    '/digital-nomad/': '/thailand-index/digital-nomad/',
+    '/blog/what-is-thai-food-cuisine-guide/': '/travel-guides/thai-cuisine-food-guide/',
+    '/blog/thai-street-food-guide-2026/': '/thailand-street-food/',
+  };
+  pathname = exactOwners[pathname] || pathname;
+
+  const bestTimeMatch = pathname.match(/^\/city\/([^/]+)\/best-time-to-visit\/$/);
+  if (bestTimeMatch && bestTimeWeatherOwners.has(bestTimeMatch[1])) pathname = `/city/${bestTimeMatch[1]}/weather/`;
+  if (bestTimeMatch && bestTimeCityOwners.has(bestTimeMatch[1])) pathname = `/city/${bestTimeMatch[1]}/`;
+
+  let match = pathname.match(/^\/destinations\/([^/]+)\/$/);
+  if (match) pathname = `/city/${match[1]}/`;
+
+  match = pathname.match(/^\/things-to-do\/([^/]+)\/$/);
+  if (match) pathname = `/city/${match[1]}/attractions/`;
+
+  match = pathname.match(/^\/city\/([^/]+)\/(?:hotels|top-10-hotels)\/$/);
+  if (match) pathname = `/best-hotels/${match[1]}/`;
+
+  match = pathname.match(/^\/guides\/where-to-stay\/([^/]+)\/$/);
+  if (match) pathname = `/where-to-stay/${match[1]}/`;
+
+  if (pathname === '/guides/where-to-stay/') pathname = '/where-to-stay/';
+
+  // A pattern rewrite above can produce another known legacy owner (for
+  // example city/khao-sok/top-10-hotels -> best-hotels/khao-sok). Resolve
+  // that second hop here so rendered links always point at the final owner.
+  pathname = exactOwners[pathname] || pathname;
+
+  const missingCityOwners = new Set([
+    'buriram',
+    'chiang-khong',
+    'kamphaeng-phet',
+    'nan',
+    'phetchaburi',
+    'prachinburi',
+    'prachuap-khiri-khan',
+    'satun',
+  ]);
+  match = pathname.match(/^\/city\/([^/]+)(?:\/.*)?\/$/);
+  if (match && missingCityOwners.has(match[1])) pathname = '/city/';
+
+  return `${pathname}${parsed.search}${parsed.hash}`;
+}

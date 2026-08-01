@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "attractions"
 tags: ["Tha Kha floating market", "Samut Songkhram", "floating markets Thailand 2026", "authentic Thai markets", "day trips from Bangkok", "Mae Klong"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/tha-kha-floating-market-samut-songkhram-hidden-gem-2026-hero.webp"
 description: "Skip the tourist crowds and visit Tha Kha Floating Market in Samut Songkhram — one of Thailand's last truly local canal markets where vendors still paddle garden-fresh produce to buyers every weekend."
 featured: false
 readingTime: 3
@@ -50,4 +50,4 @@ Organised day tours from Bangkok often combine all three markets in a single tri
 - **Respect the community.** This is a working market for locals first and a tourist stop second. Keep noise down and ask before photographing vendors up close.
 - **Plan around the calendar.** If you are deciding when to travel, our [best time to visit Thailand](/blog/best-time-to-visit-thailand/) guide explains seasonal differences that affect market attendance and weather.
 
-Tha Kha is one of the last places in central Thailand where a floating market still functions as a real neighbourhood marketplace. Pair the visit with other [hidden gems](/blog/15-hidden-gems-thailand-tourists-miss/) in the region or add it to a [10-day Thailand itinerary](/blog/thailand-10-day-itinerary/) for a full picture of what central Thailand has to offer. If you want an unscripted look at traditional canal life, it is well worth the short trip from Bangkok. For practical trip-planning, check our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and read up on [common travel scams to avoid](/blog/thailand-travel-scams-2026/).
+Tha Kha is one of the last places in central Thailand where a floating market still functions as a real neighbourhood marketplace. Pair the visit with other [hidden gems](/blog/15-hidden-gems-thailand-tourists-miss/) in the region or add it to a [10-day Thailand itinerary](/blog/thailand-10-day-itinerary/) for a full picture of what central Thailand has to offer. If you want an unscripted look at traditional canal life, it is well worth the short trip from Bangkok. For practical trip-planning, check our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and read up on [common travel scams to avoid](/practical-info/scams-safety/).

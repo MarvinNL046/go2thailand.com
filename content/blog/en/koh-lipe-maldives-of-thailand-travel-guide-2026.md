@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "destinations"
 tags: ["Koh Lipe", "Koh Lipe 2026", "Maldives of Thailand", "Satun province", "Tarutao National Marine Park", "Thailand islands", "snorkelling Thailand", "Sunrise Beach"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/koh-lipe-maldives-of-thailand-travel-guide-2026-hero.webp"
 description: "Koh Lipe is a tiny island in the Tarutao National Marine Park often called the Maldives of Thailand. Here is everything you need to know for a 2026 visit, from beaches and diving to ferries and budget tips."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 ## Why Koh Lipe Deserves the Hype
 
-Tucked into the far southwest corner of Thailand, Koh Lipe is the smallest inhabited island in [Satun province](/destinations/satun/) and part of the protected Tarutao National Marine Park. Crystal-clear turquoise water, powdery white sand and vibrant coral just metres from shore have earned it the nickname "Maldives of Thailand" — without the Maldives price tag.
+Tucked into the far southwest corner of Thailand, Koh Lipe is a small inhabited island in Satun province and part of the protected Tarutao National Marine Park. Compare its connections and character with the other destinations in our [Thailand islands guide](/thailand-islands/) before committing to the long journey south.
 
 ## Three Beaches, Three Vibes
 
@@ -50,11 +50,11 @@ During the monsoon months of **May to October**, some resorts close and ferry op
 
 Most travellers reach Koh Lipe via speedboat from **Pak Bara pier** in [Satun province](/guides/travel-guide/satun/), a journey of roughly 90 minutes. To reach Pak Bara you can fly to [Hat Yai](/city/hat-yai/) airport and take a minivan (about two hours) or travel overland from [Krabi](/city/krabi/) or [Trang](/city/trang/).
 
-An increasingly popular option is the ferry from **Langkawi, Malaysia**, which takes about 90 minutes and lets you combine two countries in one trip. Immigration is handled on arrival at the floating platform off Pattaya Beach. If you are arriving by air, our [Thailand visa guide](/blog/thailand-visa-guide-2026/) covers entry requirements for all nationalities.
+An increasingly popular option is the ferry from **Langkawi, Malaysia**, which takes about 90 minutes and lets you combine two countries in one trip. Immigration is handled on arrival at the floating platform off Pattaya Beach. If you are arriving by air, our [Thailand visa guide](/visa/) covers entry requirements for all nationalities.
 
 ## Budget Tips
 
-Koh Lipe is pricier than some Thai islands because everything arrives by boat, but it is still very affordable by international standards. Budget guesthouses start around 600-800 THB per night in high season, while mid-range beachfront bungalows run 1,500-3,000 THB. Browse [hotels in Satun](/best-hotels/satun/) for options across all budgets. Street food on Walking Street costs 60-120 THB per dish, and a snorkelling day trip is typically 600-800 THB per person. Our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) gives a full breakdown of daily costs across the country.
+Koh Lipe is pricier than some Thai islands because everything arrives by boat, but it is still very affordable by international standards. Budget guesthouses start around 600-800 THB per night in high season, while mid-range beachfront bungalows run 1,500-3,000 THB. Browse [hotels in Satun](/best-hotels/satun/) for options across all budgets. Street food on Walking Street costs 60-120 THB per dish, and a snorkelling day trip is typically 600-800 THB per person. Our [Thailand budget guide](/thailand-index/budget/) gives a full breakdown of daily costs across the country.
 
 ## Eco-Tourism and Sustainability
 

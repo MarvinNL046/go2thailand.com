@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "festivals"
 tags: ["Songkran 2026", "Thai New Year 2026", "Songkran provinces", "Pattaya Wan Lai 2026", "Chiang Mai Songkran", "Thailand festivals April 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/songkran-2026-76-provinces-nationwide-celebrations-guide-hero.webp"
 description: "Thailand's Culture Ministry is bringing Songkran 2026 to all 76 provinces under a new nationwide campaign. Here is what to expect beyond Bangkok, Chiang Mai and Pattaya."
 featured: false
 readingTime: 3

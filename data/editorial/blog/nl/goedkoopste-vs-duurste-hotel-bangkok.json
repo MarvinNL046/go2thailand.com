@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "goedkoopste-vs-duurste-hotel-bangkok",
+  "route": "/nl/blog/goedkoopste-vs-duurste-hotel-bangkok/",
+  "cluster": "hotels",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Bangkok hotelvergelijking samengevoegd | Go2Thailand",
+    "description": "Deze dubbele Bangkok-hotelvergelijking is gearchiveerd. Ga naar onze actuele gids over hotelbudget, ligging en live prijzen.",
+    "primaryKeyword": "gearchiveerde hotelvergelijking Bangkok",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/goedkoopste-vs-duurste-hotel-bangkok/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Inhoud samengevoegd",
+    "title": "Deze hotelvergelijking is verhuisd",
+    "accent": "Eén actuele hoofdpagina",
+    "description": "We onderhouden nog één duidelijke vergelijking, zodat prijzen, voorwaarden en advies elkaar niet tegenspreken.",
+    "image": "/images/redesign/editorial/goedkoopste-vs-duurste-hotel-bangkok-hero.webp",
+    "imageAlt": "Hotelinterieur in Bangkok met uitzicht op de stad",
+    "primaryCta": { "label": "Open de actuele vergelijking", "href": "/nl/blog/cheapest-vs-most-expensive-hotel-bangkok/" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze route is gearchiveerd omdat zij dezelfde zoekvraag beantwoordde als de actuele Bangkok-hotelbudgetvergelijking.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Ga naar de onderhouden owner", "description": "De hoofdvergelijking helpt je kiezen op locatie, comfort, service en actuele boekvoorwaarden.", "cta": { "label": "Bekijk de vergelijking", "href": "/nl/blog/cheapest-vs-most-expensive-hotel-bangkok/" } },
+    { "kind": "related", "id": "alternatieven", "title": "Verder plannen", "items": [{ "title": "Waar overnachten in Bangkok?", "description": "Kies eerst een buurt die bij je dagroute past.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" }] },
+    { "kind": "sources", "id": "bronnen", "title": "Bestemmingsbron", "items": [{ "title": "Bangkok destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/bangkok/219", "checkedAt": "2026-08-01" }] }
+  ]
+}

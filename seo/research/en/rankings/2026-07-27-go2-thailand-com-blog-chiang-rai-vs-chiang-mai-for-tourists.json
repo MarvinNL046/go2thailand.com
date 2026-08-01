@@ -1,0 +1,40 @@
+{
+  "captured_at": "2026-07-27T22:18:03.115Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/blog/chiang-rai-vs-chiang-mai-for-tourists/",
+  "cost": 0.01248,
+  "rankings": [
+    {
+      "keyword": "chiang mai or chiang rai",
+      "position": 70,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/blog/chiang-rai-vs-chiang-mai-for-tourists/"
+    },
+    {
+      "keyword": "chiang rai or chiang mai",
+      "position": 63,
+      "volume": 110,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/blog/chiang-rai-vs-chiang-mai-for-tourists/"
+    },
+    {
+      "keyword": "chiang mai vs chiang rai",
+      "position": 63,
+      "volume": 90,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/blog/chiang-rai-vs-chiang-mai-for-tourists/"
+    },
+    {
+      "keyword": "chiang rai vs chiang mai",
+      "position": 27,
+      "volume": 90,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/blog/chiang-rai-vs-chiang-mai-for-tourists/"
+    }
+  ]
+}

@@ -8,7 +8,10 @@ source:
   url: "https://www.thaiexaminer.com/thai-news-foreigners/2026/02/13/visa-free-entry-period-to-go-from-60-to-30-days-agreement-in-principle-as-foreign-tourism-numbers-fall/"
 tags: ["visa", "visa-free", "60-days", "immigration", "travel-rules"]
 description: "Thailand may reduce its 60-day visa-free entry back to 30 days amid security concerns and falling tourism numbers. Here's what we know."
+lastUpdated: "2026-07-27"
 ---
+
+> **Current-status update — 27 July 2026:** This article preserves the proposal as historical reporting. The current GOV.UK and Royal Thai Embassy London pages still state up to 60 days for an ordinary British passport. Check the [visa-exemption owner](https://go2-thailand.com/visa/visa-free-entry/) rather than using the scenario below as an entry rule.
 
 Thailand's generous **60-day visa-free entry** — one of the most traveler-friendly policies in Southeast Asia — may not last. Thai authorities are actively reviewing the policy, with some officials pushing to revert to the previous **30-day limit**.
 

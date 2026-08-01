@@ -38,7 +38,7 @@ Na drie jaar in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) te hebbe
 
 ## 1. De echte levenskosten in Thailand begrijpen
 
-Toen we voor het eerst in Thailand aankwamen, dachten we dat alles spotgoedkoop zou zijn. De realiteit is genuanceerder: Thailand is écht betaalbaar, maar [prijzen in 2026 zijn gestegen](https://go2-thailand.com/blog/thailand-budget-2026-daily-costs/) vergeleken met de backpackerdagen van de jaren 2010. Volgens recente reizigersdata varieert het gemiddelde dagbudget van **฿800–2.500 (€21–65) per persoon**, afhankelijk van of je in slaapzalen slaapt of in middenklasse hotels.
+Toen we voor het eerst in Thailand aankwamen, dachten we dat alles spotgoedkoop zou zijn. De realiteit is genuanceerder: Thailand is écht betaalbaar, maar [prijzen in 2026 zijn gestegen](https://go2-thailand.com/nl/thailand-index/budget/) vergeleken met de backpackerdagen van de jaren 2010. Volgens recente reizigersdata varieert het gemiddelde dagbudget van **฿800–2.500 (€21–65) per persoon**, afhankelijk van of je in slaapzalen slaapt of in middenklasse hotels.
 
 Het grote verschil zit niet in dat Thailand duur is – het zijn de toeristische gebieden die prijzen opdrijven. Een kom [pad Thai](https://go2-thailand.com/food/pad-thai/) kost ฿40 (€1,15) bij een straathandelaar in een lokale wijk, maar ฿150–200 (€4–6) op Khao San Road. Dat is 300% meer voor hetzelfde gerecht en dezelfde kok – alleen een andere locatie.
 
@@ -96,7 +96,7 @@ Dit is het zoete punt voor de meeste reizigers. Een goed middenklasse hotel bied
 
 ### Luxeaccommodatie (฿2.000+ / €57+)
 
-High-end resorts en boetiekhotels bieden écht goede waarde vergeleken met westerse luxe. Een resort van ฿3.000–5.000 (€86–143) in [Phuket](https://go2-thailand.com/city/phuket/) of [Koh Samui](https://go2-thailand.com/islands/koh-samui/) geeft wereldklasse service, privé zwembaden en strandlocaties die driemaal zo duur zouden zijn in Europa. Bekijk onze [goedkoopste vs duurste hotelvergelijking in Bangkok](https://go2-thailand.com/blog/cheapest-vs-most-expensive-hotel-bangkok/) voor een praktisch voorbeeld.
+High-end resorts en boetiekhotels bieden écht goede waarde vergeleken met westerse luxe. Een resort van ฿3.000–5.000 (€86–143) in [Phuket](https://go2-thailand.com/city/phuket/) of [Koh Samui](https://go2-thailand.com/city/koh-samui/) geeft wereldklasse service, privé zwembaden en strandlocaties die driemaal zo duur zouden zijn in Europa. Bekijk onze [goedkoopste vs duurste hotelvergelijking in Bangkok](https://go2-thailand.com/blog/cheapest-vs-most-expensive-hotel-bangkok/) voor een praktisch voorbeeld.
 
 | Accommodatietype | Budget | Middenklasse | Luxe |
 |------------------|--------|--------------|------|
@@ -155,7 +155,7 @@ Dezelfde pad Thai kost ฿150–200 in een restaurant op Khao San Road of in toe
 
 **Specialistenrestaurants:** Bangkok heeft wereldklasse Thaise fine dining. Een maaltijd in een Michelin-aangeraden restaurant kost ฿800–1.500 (€23–43) – duur voor Thaise begrippen, maar goedkoop voor de kwaliteit.
 
-**Verse zeevruchten op eilanden:** Op [Koh Samui](https://go2-thailand.com/islands/koh-samui/) of [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) is ฿400–800 splurgen op gegrilde vis aan het strand een ervaring waard.
+**Verse zeevruchten op eilanden:** Op [Koh Samui](https://go2-thailand.com/city/koh-samui/) of [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) is ฿400–800 splurgen op gegrilde vis aan het strand een ervaring waard.
 
 > **Wist je dat?** Straatvoedsel in Thailand is veiliger dan in veel westerse landen. Verkopers hebben hoge omloop door volume, dus ingrediënten zijn verser. De tip: eet waar het druk is en heet eten voor je wordt klaargemaakt.
 >
@@ -374,7 +374,7 @@ Als je langer dan 30 dagen blijft, heb je een [Thailand visum](https://go2-thail
 ### Onverwachte kosten
 
 - **Geldautomaten:** Thaise banken rekenen ฿180–220 per opname. Pinnen grotere bedragen minder vaak
-- **SIM-kaarten:** ฿99–199 voor een [lokale SIM met data](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/). Reken dit als eenmalige kosten
+- **SIM-kaarten:** ฿99–199 voor een [lokale SIM met data](/nl/travel-guides/sim-card-thailand/). Reken dit als eenmalige kosten
 - **Luchthaven transfers:** ฿300–500 van luchthaven naar stad. Gebruik openbaar vervoer (฿35 bus) als je budgetbewust bent
 
 ### Alcohol & uitgaan
@@ -395,7 +395,7 @@ Na 3+ jaar in Thailand, hier de strategieën die écht werken:
 
 **Koop een [Thailand eSIM](https://go2-thailand.com/esim/) vóór aankomst.** Lokale SIM's werken, maar een eSIM geeft directe connectie zonder winkeljacht. Budget ฿300–500 voor data.
 
-**Sla toeristische eilanden initially over.** [Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) zijn duur. Begin met [Koh Tao](https://go2-thailand.com/islands/koh-tao/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) – even mooi, 40% goedkoper.
+**Sla toeristische eilanden initially over.** [Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) zijn duur. Begin met [Koh Tao](https://go2-thailand.com/islands/koh-tao/) of [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) – even mooi, 40% goedkoper.
 
 **Gebruik openbaar vervoer.** Bussen en treinen zijn goedkoop en authentiek. Een [slaaptrein Bangkok-Chiang Mai](https://go2-thailand.com/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) kost ฿800–1.500 en is een ervaring op zich. Voor Bangkok zelf: gebruik de [BTS/MRT](https://go2-thailand.com/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/).
 
@@ -432,7 +432,7 @@ De kosten in Thailand variëren enorm per locatie. Deze verschillen begrijpen he
 
 ### Eilanden (variabel)
 
-[Koh Samui](https://go2-thailand.com/islands/koh-samui/) en [Phuket](https://go2-thailand.com/city/phuket/) zijn duur (฿1.500–2.500 per dag voor middenklasse). [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) zijn goedkoper (฿1.000–1.500). [Koh Chang](https://go2-thailand.com/islands/koh-chang/) en [Koh Mak](https://go2-thailand.com/islands/koh-mak/) zijn budgetvriendelijk (฿800–1.200).
+[Koh Samui](https://go2-thailand.com/city/koh-samui/) en [Phuket](https://go2-thailand.com/city/phuket/) zijn duur (฿1.500–2.500 per dag voor middenklasse). [Koh Tao](https://go2-thailand.com/islands/koh-tao/) en [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) zijn goedkoper (฿1.000–1.500). [Koh Chang](https://go2-thailand.com/islands/koh-chang/) en [Koh Mak](https://go2-thailand.com/islands/koh-mak/) zijn budgetvriendelijk (฿800–1.200).
 
 ## 10. De echte splurges: Wat écht telt
 
@@ -496,6 +496,6 @@ Bussen zijn het goedkoopst (฿200–500 voor lange afstanden). Treinen zijn iet
 
 Het echte geheim van reizen in Thailand: je kunt geweldig leven voor ฿1.500–2.000 per dag (€43–57). Dat is geen budgetreis – dat is comfortabel, authentiek reizen. Je eet beter, slaapt lekkerder en hebt meer energie om te verkennen dan als je elke baht zou knijpen.
 
-Klaar om je reis te plannen? Begin met onze gidsen voor [Bangkok](https://go2-thailand.com/city/bangkok/) of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), check de [Thailand eilandhop gids](https://go2-thailand.com/blog/thailand-island-hopping-guide/), lees [hoeveel 2 weken in Thailand kosten](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget/) of bekijk [tips voor eerste keer Thailand](https://go2-thailand.com/blog/thailand-first-time-visitors-essential-guide-2026/).
+Klaar om je reis te plannen? Begin met onze gidsen voor [Bangkok](https://go2-thailand.com/city/bangkok/) of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), check de [Thailand eilandhop gids](https://go2-thailand.com/blog/thailand-island-hopping-guide/), lees [hoeveel 2 weken in Thailand kosten](https://go2-thailand.com/nl/thailand-index/budget/) of bekijk [tips voor eerste keer Thailand](https://go2-thailand.com/blog/thailand-first-time-visitors-essential-guide-2026/).
 
 We hebben dit geleefd. We kennen de echte kosten, de echte waarde en waar je geld naartoe gaat. Gebruik deze gids om slimmer te reizen – niet goedkoper, maar slimmer.

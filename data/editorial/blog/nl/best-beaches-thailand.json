@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "best-beaches-thailand",
+  "route": "/nl/blog/best-beaches-thailand/",
+  "cluster": "destination-guides",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Beste stranden Thailand: samengevoegde route | Go2Thailand",
+    "description": "Deze oude strandenblog is samengevoegd met de actuele nationale strandkeuze op basis van kust, seizoen, sfeer en bereikbaarheid.",
+    "primaryKeyword": "beste stranden Thailand oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/best-beaches-thailand/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde strandselectie",
+    "title": "Vind het strand dat bij je reis past",
+    "accent": "Kust vóór ranglijst",
+    "description": "De actuele strandowner vergelijkt zee, seizoen, sfeer en transfertijd in plaats van één eeuwige top 15.",
+    "image": "/images/redesign/editorial/best-beaches-thailand-hero.webp",
+    "imageAlt": "Tropisch strand in Thailand met kalksteen, groen en helder water",
+    "primaryCta": { "label": "Vergelijk de stranden", "href": "/nl/best-beaches-in-thailand/" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "country", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Er bestaat geen beste strand voor iedere maand en reisstijl. Deze oude ranglijst is daarom samengevoegd met de complete nationale strandowner.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Een keuzehulp, geen eeuwige ranglijst", "description": "De nieuwe owner laat bestemming, zeecondities en reistempo bepalen welke kust logisch is.", "cta": { "label": "Naar de strandkeuze", "href": "/nl/best-beaches-in-thailand/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Actuele weerbron", "items": [
+      { "title": "Weather warnings", "publisher": "Thai Meteorological Department", "url": "https://www.tmd.go.th/en/warning-and-events/warning-storm", "checkedAt": "2026-08-01", "note": "Actuele waarschuwingen blijven belangrijker dan een oud maandlabel." }
+    ] }
+  ]
+}

@@ -1,0 +1,1011 @@
+{
+  "captured_at": "2026-07-28T00:21:43.542Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "khao soi thailand",
+  "costs": {
+    "suggestions": 0.01224,
+    "related": 0.02016,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "khao soi thailand",
+    "khao soi recipe",
+    "khao soi chiang mai",
+    "khao soi curry",
+    "khao soi mae sai",
+    "khao soi noodles",
+    "khao soi paste",
+    "khao soi i",
+    "khao soi khun yai",
+    "khao soi khun yai chiang mai",
+    "khao soi curry paste",
+    "khao soi soup",
+    "best khao soi in chiang mai",
+    "khao soi ingredients",
+    "beef khao soi",
+    "khao soi vegetarian",
+    "khao soi dish",
+    "khao soi nimman",
+    "best khao soi in london"
+  ],
+  "keywords": [
+    {
+      "keyword": "khao soi london",
+      "volume": 2400,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi recipe",
+      "volume": 1300,
+      "kd": 22,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi near me",
+      "volume": 880,
+      "kd": 1,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi restaurant",
+      "volume": 320,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi chiang mai",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi curry",
+      "volume": 260,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi mae sai",
+      "volume": 260,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi noodles",
+      "volume": 210,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi paste",
+      "volume": 210,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi i",
+      "volume": 140,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi thailand",
+      "volume": 140,
+      "kd": 23,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi khun yai",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi khun yai chiang mai",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi curry paste",
+      "volume": 90,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi soup",
+      "volume": 90,
+      "kd": 26,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best khao soi in chiang mai",
+      "volume": 70,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi ingredients",
+      "volume": 70,
+      "kd": 24,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi restaurant london",
+      "volume": 70,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef khao soi",
+      "volume": 40,
+      "kd": 27,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi vegetarian",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi dish",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi nimman",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best khao soi in london",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "easy khao soi recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi chiang mai michelin",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi crispy noodles",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi curry recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi london halal",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi paste recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi recipe authentic",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi recipe vegetarian",
+      "volume": 20,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "northern thai restaurant london",
+      "volume": 20,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "beef khao soi recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best khao soi near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best khao soi recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "chariyas kitchen menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "halal khao soi near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi chariya",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi chiang mai menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi chiang mai reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi curry paste recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi curry paste substitute",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi curry paste where to buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi i chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi in chinese",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi is it spicy",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi islam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi khun yai menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi khun yai photos",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi khun yai reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi mae sai chiang mai",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi mae sai menu",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi mae sai michelin",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi mae sai vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi noodle type",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi paste buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi paste substitute",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi paste uk",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi recipe chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi recipe red curry paste",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi restaurant masterchef",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi restaurant near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi soup recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "northern thailand khao soi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tempeh khao soi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "tofu khao soi",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional khao soi recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "vegan khao poon",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "khao soi chiang mai nimman",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 9.769230769230772,
+      "keywordCount": 13,
+      "visibility": 4,
+      "estimatedTraffic": 104.99400000000001
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 18.714285714285715,
+      "keywordCount": 14,
+      "visibility": 1.3000000000000003,
+      "estimatedTraffic": 16.110000000000003
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 15.153846153846152,
+      "keywordCount": 13,
+      "visibility": 5.4,
+      "estimatedTraffic": 190.89499999999998
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 17.846153846153847,
+      "keywordCount": 13,
+      "visibility": 2.7,
+      "estimatedTraffic": 73.49
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 20.23076923076923,
+      "keywordCount": 13,
+      "visibility": 5.2,
+      "estimatedTraffic": 115.822
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 21,
+      "keywordCount": 12,
+      "visibility": 3.4,
+      "estimatedTraffic": 79.739
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 18.545454545454547,
+      "keywordCount": 11,
+      "visibility": 2.5,
+      "estimatedTraffic": 27.510999999999992
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 9.11111111111111,
+      "keywordCount": 9,
+      "visibility": 3.5,
+      "estimatedTraffic": 59.07599999999999
+    },
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 10.222222222222221,
+      "keywordCount": 9,
+      "visibility": 7.7,
+      "estimatedTraffic": 671.8800000000001
+    },
+    {
+      "domain": "www.feastingathome.com",
+      "avgPosition": 6.875,
+      "keywordCount": 8,
+      "visibility": 3.9999999999999996,
+      "estimatedTraffic": 252.79899999999998
+    },
+    {
+      "domain": "thewoksoflife.com",
+      "avgPosition": 9.875,
+      "keywordCount": 8,
+      "visibility": 2.95,
+      "estimatedTraffic": 51.867000000000004
+    },
+    {
+      "domain": "www.bbc.co.uk",
+      "avgPosition": 14.125,
+      "keywordCount": 8,
+      "visibility": 2.9,
+      "estimatedTraffic": 118.53300000000002
+    },
+    {
+      "domain": "tastythais.com",
+      "avgPosition": 15.25,
+      "keywordCount": 8,
+      "visibility": 0.8,
+      "estimatedTraffic": 26.869999999999997
+    },
+    {
+      "domain": "www.eatingthaifood.com",
+      "avgPosition": 3.142857142857143,
+      "keywordCount": 7,
+      "visibility": 5.5,
+      "estimatedTraffic": 171.977
+    },
+    {
+      "domain": "inquiringchef.com",
+      "avgPosition": 19.625,
+      "keywordCount": 8,
+      "visibility": 1.85,
+      "estimatedTraffic": 47.891
+    },
+    {
+      "domain": "wanderingsinmykitchen.com",
+      "avgPosition": 25.75,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.305
+    },
+    {
+      "domain": "thaicookingchiangmai.com",
+      "avgPosition": 16.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.3,
+      "estimatedTraffic": 4.533
+    },
+    {
+      "domain": "www.thai-food-online.co.uk",
+      "avgPosition": 28.125,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 5.26
+    },
+    {
+      "domain": "thetravellist.net",
+      "avgPosition": 9.5,
+      "keywordCount": 6,
+      "visibility": 2.35,
+      "estimatedTraffic": 38.934
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 33,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 5.145
+    },
+    {
+      "domain": "stefangourmet.com",
+      "avgPosition": 11.833333333333334,
+      "keywordCount": 6,
+      "visibility": 0.7999999999999999,
+      "estimatedTraffic": 11.255999999999998
+    },
+    {
+      "domain": "www.notquitenigella.com",
+      "avgPosition": 24.714285714285715,
+      "keywordCount": 7,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 9.893
+    },
+    {
+      "domain": "vanusnun.com",
+      "avgPosition": 34.125,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.4779999999999993
+    },
+    {
+      "domain": "www.khaosoilondon.com",
+      "avgPosition": 14,
+      "keywordCount": 6,
+      "visibility": 1.75,
+      "estimatedTraffic": 44.862
+    },
+    {
+      "domain": "thetravelbite.com",
+      "avgPosition": 28.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.605
+    },
+    {
+      "domain": "thaileefoods.com",
+      "avgPosition": 37.625,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 6.523
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 19.166666666666668,
+      "keywordCount": 6,
+      "visibility": 3.6,
+      "estimatedTraffic": 116.807
+    },
+    {
+      "domain": "www.joshuaweissman.com",
+      "avgPosition": 19.666666666666668,
+      "keywordCount": 6,
+      "visibility": 0.45,
+      "estimatedTraffic": 16.259999999999998
+    },
+    {
+      "domain": "www.yak-thai.de",
+      "avgPosition": 22.166666666666668,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.055
+    },
+    {
+      "domain": "www.iankewks.com",
+      "avgPosition": 23,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.704999999999999
+    },
+    {
+      "domain": "saltyplums.co.uk",
+      "avgPosition": 35,
+      "keywordCount": 7,
+      "visibility": 0.75,
+      "estimatedTraffic": 11.47
+    },
+    {
+      "domain": "www.nikodouniko.com",
+      "avgPosition": 43.25,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 4.787999999999999
+    },
+    {
+      "domain": "somersetfoodie.com",
+      "avgPosition": 43.375,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 4.787999999999999
+    },
+    {
+      "domain": "www.simplysuwanee.com",
+      "avgPosition": 45.5,
+      "keywordCount": 8,
+      "visibility": 0,
+      "estimatedTraffic": 5.187
+    },
+    {
+      "domain": "www.epicurious.com",
+      "avgPosition": 40.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0.05,
+      "estimatedTraffic": 7.542999999999999
+    },
+    {
+      "domain": "lannalife264520817.wordpress.com",
+      "avgPosition": 17.2,
+      "keywordCount": 5,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 5.6499999999999995
+    },
+    {
+      "domain": "guide.michelin.com",
+      "avgPosition": 18.4,
+      "keywordCount": 5,
+      "visibility": 2,
+      "estimatedTraffic": 98.40899999999998
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 32.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.088
+    },
+    {
+      "domain": "www.pm-tours.com",
+      "avgPosition": 19.4,
+      "keywordCount": 5,
+      "visibility": 0.5,
+      "estimatedTraffic": 4.95
+    },
+    {
+      "domain": "alfiecooks.substack.com",
+      "avgPosition": 20.4,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 6.087999999999999
+    },
+    {
+      "domain": "www.tasteatlas.com",
+      "avgPosition": 22.2,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.147
+    },
+    {
+      "domain": "www.thaicookingkohtao.com",
+      "avgPosition": 40.833333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.9059999999999997
+    },
+    {
+      "domain": "changpuakmagazine.com",
+      "avgPosition": 29.4,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.4819999999999998
+    },
+    {
+      "domain": "www.thewanderinghedonist.com",
+      "avgPosition": 15.5,
+      "keywordCount": 4,
+      "visibility": 1,
+      "estimatedTraffic": 11.339
+    },
+    {
+      "domain": "cumbriafoodie.com",
+      "avgPosition": 17,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.531
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 44.666666666666664,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.9859999999999998
+    },
+    {
+      "domain": "www.lovefoodasia.com",
+      "avgPosition": 45,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 4.1579999999999995
+    },
+    {
+      "domain": "achefstour.com",
+      "avgPosition": 35,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.7429999999999999
+    },
+    {
+      "domain": "dinein.boonnakthai.co.uk",
+      "avgPosition": 35.6,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.247
+    },
+    {
+      "domain": "www.dailymotion.com",
+      "avgPosition": 38.2,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.969
+    }
+  ]
+}

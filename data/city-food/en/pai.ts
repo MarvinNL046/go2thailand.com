@@ -1,0 +1,83 @@
+import type { CityFoodGuideData } from '../types';
+
+export const paiCityFoodEn: CityFoodGuideData = {
+  city: 'Pai', slug: 'pai', pageUrl: 'https://go2-thailand.com/city/pai/food/', updatedAt: '2026-07-29',
+  seo: { title: 'Pai Food Guide: Northern Dishes & Walking Street', description: 'Plan what and where to eat in Pai: Northern noodles, sticky-rice tables, Walking Street snacks, vegetarian choices and food checks.' },
+  copy: {
+    formatDescription: 'Pai works as four food rhythms: a Northern noodle bowl, a shared sticky-rice table, a deliberate Walking Street circuit and a modern cafe layer. The last reflects Pai today; it is not presented as traditional Northern cooking.',
+    formatIntro: 'This owner covers broad food, local dishes, street food and dietary navigation. Named venues, reviews, current hours and rankings remain with the restaurant owner.',
+    districtEyebrow: 'Town centre, Walking Street, riverside, valley', districtTitle: 'Four food zones without turning dinner into a road trip', districtDescription: 'Central Pai works on foot. Keep valley extensions for daylight and never make an unverified market schedule the only dinner plan.',
+    dishEyebrow: 'What to eat in Pai', dishTitle: 'Six directions, from nam ngiao to a market snack', dishDescription: 'Northern dishes form the regional base; Pai\'s visitor economy adds a large vegetarian and international cafe layer.', dishIntro: 'Pork, blood, fish sauce, shrimp paste, egg, wheat, peanut, soy, coconut, stock and shared equipment can hide behind short labels. Ask about the actual recipe.',
+    dayImage: '/images/redesign/pai-food-walking-street.webp', dayImageAlt: 'Warm evening food stalls and lanterns on Pai Walking Street', dayEyebrow: 'One bowl before one tasting circuit', dayTitle: 'Move from a quiet breakfast to a checked evening market.',
+    affiliateEyebrow: 'Live experience or useful technique', affiliateTitle: 'Check a current Pai activity - or practise Northern technique at home', affiliateDescription: 'A live activity, cookbook and mortar solve different tasks. Check the itinerary, dietary handling, edition, dimensions, seller, current price, availability and delivery.', faqTitle: 'Pai food questions, answered',
+  },
+  hero: { image: '/images/redesign/pai-food-walking-street-table.webp', imageAlt: 'Khao soi, sai ua, sticky rice, nam prik noom and a plant-forward dish above Pai at blue hour', eyebrow: 'Northern bowls, Walking Street, valley cafes', titleLead: 'Pai food,', titleAccent: 'from noodle bowl to lantern street.', subtitle: 'A food guide organised by meal and route - not a copied restaurant ranking.', description: 'Begin with a named Northern bowl, share sticky rice with dips and sausage, then use Walking Street for a small tasting circuit after checking today\'s operation.', sideEyebrow: 'The useful sequence', sideTitle: 'Bowl. Table. Street.', sideDescription: 'Three deliberate food moments reveal more than grazing through every tourist-facing menu.' },
+  formats: [
+    { title: 'Northern noodle bowl', label: 'Best for a regional start', fit: 'Khao soi or nam ngiao gives breakfast or lunch a named Northern direction.', tradeoff: 'Ask about wheat, egg, coconut, pork, blood, fish sauce, shrimp paste, stock and shared noodle water.', icon: 'bowl' },
+    { title: 'Sticky-rice table', label: 'Best for sharing', fit: 'Sticky rice, sai ua, nam prik noom, vegetables and one curry create a compact Northern table.', tradeoff: 'Dips are not automatically vegetarian: premade paste, fish sauce, shrimp paste, pork stock and shared mortars matter.', icon: 'restaurant' },
+    { title: 'Walking Street circuit', label: 'Best for small portions', fit: 'One cooked main, one grilled or wrapped snack and one sweet is more useful than buying every photogenic item.', tradeoff: 'Stalls and schedules change. Verify the market, favour visible turnover and ask about allergens and shared oil.', icon: 'market' },
+    { title: 'Cafe & plant-forward layer', label: 'Best for mixed groups', fit: 'Pai\'s visitor history supports cafes, international dishes and many vegetarian choices alongside Thai food.', tradeoff: 'Vegetarian does not guarantee vegan preparation or remove fish sauce, egg, dairy, honey or cross-contact.', icon: 'coffee' },
+  ],
+  districts: [
+    { name: 'Walking Street & central Pai', signal: 'Compact tasting circuit', description: 'The central evening street is the easiest place to compare snacks and visitor-facing food without transport.', timing: 'Early evening after confirming today\'s operation', routeNote: 'Use the attraction page for logistics and the restaurant owner for named venues.', image: '/images/redesign/pai-food-walking-street.webp', imageAlt: 'Lantern-lit food stalls in central Pai', href: '/city/pai/attractions/pai-walking-street/' },
+    { name: 'Town lanes & morning markets', signal: 'Noodles and ordinary cooked meals', description: 'Central streets are useful for a noodle breakfast, rice plate or fruit stop.', timing: 'Breakfast through early lunch', routeNote: 'Choose visible turnover and a dish you can name; do not infer quality from an old list.', image: '/images/redesign/pai-destination-hero.webp', imageAlt: 'Pai town and green valley', href: '/city/pai/' },
+    { name: 'Riverside & cafe belt', signal: 'Slow lunch and mixed diets', description: 'Riverside and town-edge cafes can suit coffee, plant-forward meals and mixed dietary groups.', timing: 'Late morning or flexible lunch', routeNote: 'Use the restaurant owner for current menus and hours; “healthy” is not an allergen guarantee.', image: '/images/redesign/pai-valley-riverside-v2.webp', imageAlt: 'Green Pai valley and riverside', href: '/city/pai/top-10-restaurants/' },
+    { name: 'Valley extension', signal: 'Food only when it fits the route', description: 'Santichon, viewpoints and rural stops belong to a wider itinerary, not an automatic food crawl.', timing: 'Daylight with return transport settled', routeNote: 'Confirm distance, roads, food service and return before leaving town.', image: '/images/redesign/pai-canyon-route.webp', imageAlt: 'Mountain and valley route outside Pai', href: '/guides/travel-guide/pai/' },
+  ],
+  dishes: [
+    { title: 'Khao soi', thai: 'Northern curry noodles', description: 'Egg noodles in a curry-coconut broth with crisp noodles make a familiar Northern starting point.', orderNote: 'Confirm wheat, egg, coconut, stock, fish sauce, shrimp paste and shared water.', href: '/blog/khao-soi-chiang-mai-guide/', image: '/images/redesign/khao-soi-chiang-mai-hero.webp', imageAlt: 'Northern khao soi curry noodles' },
+    { title: 'Khanom jeen nam ngiao', thai: 'Tomato-pork noodle broth', description: 'Fresh rice noodles and tomato broth can carry Shan and Northern influences.', orderNote: 'Ask about pork, blood, offal, fermented soybean, shrimp paste, fish sauce and stock.', href: '/food/nam-ngiao/', image: '/images/redesign/nam-ngiao-northern-thai-noodles-hero.webp', imageAlt: 'Nam ngiao rice noodles with tomato broth' },
+    { title: 'Sai ua', thai: 'Northern herb sausage', description: 'Pork sausage with lemongrass, makrut lime leaf, herbs and chilli adds smoke and chew.', orderNote: 'Confirm pork, casing, fish sauce, seasoning, doneness and shared grill.', href: '/food/sai-ua/', image: '/images/redesign/sai-ua-northern-sausage-hero.webp', imageAlt: 'Sliced Northern sai ua sausage' },
+    { title: 'Nam prik noom', thai: 'Roasted green-chilli dip', description: 'Roasted green chilli, garlic and shallot are pounded into a soft dip with vegetables and sticky rice.', orderNote: 'Ask about fish sauce, shrimp paste, pork crackling, stock and the shared mortar.', href: '/food/nam-prik-noom/', image: '/images/redesign/nam-prik-noom-roasted-green-chilli-dip-hero.webp', imageAlt: 'Nam prik noom with vegetables' },
+    { title: 'Walking Street snack', thai: 'One freshly cooked small plate', description: 'A banana-leaf item, skewer or filled snack can add contrast after a proper main.', orderNote: 'Identify price, egg, wheat, dairy, peanut, sesame, meat, sauce and shared oil.', href: '/city/pai/attractions/pai-walking-street/', image: '/images/redesign/pai-food-walking-street.webp', imageAlt: 'Freshly cooked snacks at Pai Walking Street' },
+    { title: 'Plant-forward cafe plate', thai: 'Modern Pai, not a traditional claim', description: 'Vegetable bowls, tofu dishes and international cafe food reflect Pai\'s current visitor layer.', orderNote: 'Confirm fish sauce, oyster sauce, shrimp paste, stock, egg, dairy, honey and cross-contact.', href: '/city/pai/top-10-restaurants/', image: '/images/redesign/pai-food-walking-street-table.webp', imageAlt: 'Plant-forward plate beside Northern dishes' },
+  ],
+  dayPlan: [
+    { time: '08:00', title: 'Start with one named bowl', description: 'Choose khao soi or nam ngiao and ask what is in the broth.', icon: 'sun' },
+    { time: '11:30', title: 'Use the cafe layer deliberately', description: 'A plant-forward lunch can solve a mixed-diet day without being called traditional.', icon: 'coffee' },
+    { time: '14:30', title: 'Keep the valley route separate', description: 'Settle transport and return first; a viewpoint is not evidence of food service.', icon: 'shopping' },
+    { time: '18:00', title: 'Check, then taste Walking Street', description: 'Confirm today\'s market, eat one cooked main and add one well-handled snack.', icon: 'moon' },
+  ],
+  practicalChecks: [
+    { title: 'Name every restriction', description: 'Ask about pork, blood, fish sauce, shrimp paste, egg, wheat, peanut, soy, dairy, stock and shared equipment.', icon: 'utensils' },
+    { title: 'Choose cooked and protected', description: 'Prefer turnover, clean utensils, raw-to-cooked separation, thorough cooking and safe water or ice.', icon: 'shield' },
+    { title: 'Verify the live market', description: 'Schedules, stalls, menus and prices change. Check the exact date.', icon: 'clock' },
+    { title: 'Keep routes realistic', description: 'Rural food stops need daylight, safe transport and a confirmed return.', icon: 'shopping' },
+  ],
+  phrases: [
+    { phrase: 'Mai sai moo', meaning: 'Do not add pork', note: 'Also ask about pork stock, blood, offal, lard and shared cookware.' },
+    { phrase: 'Mai sai nam pla', meaning: 'Do not add fish sauce', note: 'Also ask about shrimp paste, oyster sauce, dried shrimp and stock.' },
+    { phrase: 'Gin jay', meaning: 'I eat jay food', note: 'Confirm the exact ingredients and cross-contact rules your restriction requires.' },
+    { phrase: 'Phet nit noi', meaning: 'A little spicy', note: 'This cannot remove chilli already in broth, sausage or curry paste.' },
+  ],
+  affiliate: { klookSubId: 'en-pai-city-food-owner', products: [
+    { title: 'Thai cookbook', description: 'Useful for tested Northern noodle, curry and dipping-sauce technique. Check the edition, contents, seller and format.', amazonSlug: 'simple-thai-food-cookbook', icon: 'chef' },
+    { title: 'Granite mortar', description: 'Relevant to chilli dips and curry paste. Check usable interior, weight, seller, current price and delivery.', amazonSlug: 'thai-granite-mortar-eight-inch', icon: 'bowl' },
+  ] },
+  faqs: [
+    { question: 'What is Pai Thailand known for?', answer: 'Pai is known for its mountain-valley setting, winding Chiang Mai road, walking street, cafes, canyon and rural sights. Its food combines Northern dishes with international and vegetarian visitor layers.' },
+    { question: 'What is the best food to eat in Pai, Thailand?', answer: 'Start with khao soi, nam ngiao, sai ua or nam prik noom, then add one freshly cooked Walking Street snack. Best depends on dietary needs, handling and current availability.' },
+    { question: 'What is the best northern Thai dish?', answer: 'There is no objective winner. Khao soi is recognisable, while nam ngiao, sai ua, gaeng hung lay and nam prik noom reveal different traditions.' },
+    { question: 'What is traditional northern Thai food?', answer: 'Northern food commonly uses sticky rice, pork, herbs, fermented ingredients, chilli dips and Shan or Burmese influences. Recipes vary.' },
+    { question: 'What is the difference between northern Thai and southern Thai?', answer: 'Northern cooking often emphasises sticky rice, pork, herbs and dips; Southern food more often leans towards seafood, turmeric, coconut and sharper heat.' },
+    { question: 'Is there a night market in Pai?', answer: 'Pai is associated with its central Walking Street market, but operation and stalls change. Verify it locally and keep an ordinary dinner alternative.' },
+    { question: 'What time does Walking Street open in Pai?', answer: 'Published times differ and age quickly. Check the current day and opening pattern locally rather than relying on an old fixed hour.' },
+    { question: 'What to eat at Thailand night market?', answer: 'Choose by turnover and handling: one freshly cooked main, a grilled or wrapped item and perhaps a protected sweet. Confirm ingredients and price.' },
+    { question: 'Is Thailand okay for vegetarians?', answer: 'Thailand offers many vegetarian choices and Pai has a broad cafe layer. Still ask about fish sauce, shrimp paste, oyster sauce, stock, egg and shared equipment.' },
+    { question: 'Which Thai curry is vegetarian?', answer: 'A curry is vegetarian only when its paste, stock, seasoning and handling meet that rule. Many pastes contain shrimp paste or fish sauce.' },
+  ],
+  sources: [
+    { title: 'Pai: where to eat', creator: 'Travelfish', url: 'https://www.travelfish.org/eatandmeet/thailand/northern_thailand/mae_hong_son/pai/eat', note: 'Independent context for Pai\'s Thai, Northern, vegetarian, international and walking-street food layers.' },
+    { title: 'Worth eating in Pai', creator: 'Austin Bush', url: 'https://www.austinbushphotography.com/blog/blog/worth-eating-in-pai.html', note: 'Specialist context for Northern, Shan, Yunnan and visitor-facing contrasts; historic venue details are not treated as current.' },
+    { title: 'Northern Thai Cuisine', creator: 'Thailand Foundation', url: 'https://thailandfoundation.or.th/northern-thai-cuisine-opening/', note: 'Regional context for sticky rice, khao soi, sai ua and nam prik noom.' },
+    { title: 'Mae Hong Son', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Destinations/Provinces/Mae-Hong-Son/105', note: 'Primary destination context for Pai within Mae Hong Son; live market details remain locally verified.' },
+    { title: 'Five keys to safer food', creator: 'World Health Organization', url: 'https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food', note: 'Primary framework for cleanliness, separation, cooking, temperature and safe water.' },
+    { title: 'Food allergies, intolerances, and coeliac disease', creator: 'Food Standards Agency', url: 'https://www.food.gov.uk/food-safety-and-hygiene/food-allergies-intolerances-and-coeliac-disease', note: 'Primary guidance for ingredient questions and cross-contact risk.' },
+  ],
+  related: [
+    { title: 'Pai restaurants', description: 'Current named venues, live hours and review-led comparison.', href: '/city/pai/top-10-restaurants/', image: '/images/redesign/pai-food-walking-street.webp', imageAlt: 'Evening food choices in Pai' },
+    { title: 'Pai overview', description: 'Place the centre, canyon, valley and transport into one stay.', href: '/city/pai/', image: '/images/redesign/pai-destination-hero.webp', imageAlt: 'Pai town in its green valley' },
+    { title: 'Where to stay in Pai', description: 'Choose a central, riverside or valley base.', href: '/best-hotels/pai/', image: '/images/redesign/pai-valley-riverside-v2.webp', imageAlt: 'Quiet Pai riverside landscape' },
+  ],
+  researchSummary: 'Built from three independent UK-English DataForSEO clusters with 70 keyword records and 37 competitor domains, eleven current SERPs with 95 organic appearances, 41 PAA appearances and 36 unique exact questions, specialist and primary-source verification, and exact ranking/backlink checks. Food and restaurant routes returned no ranking terms; the destination owner retains “where is Pai in Thailand”. Two contextual Amazon OneLink products use current-price wording; no fixed schedule, venue ranking, menu, price or guaranteed dietary status is introduced.',
+};

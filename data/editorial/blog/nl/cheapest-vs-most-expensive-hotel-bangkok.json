@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "cheapest-vs-most-expensive-hotel-bangkok",
+  "route": "/nl/blog/cheapest-vs-most-expensive-hotel-bangkok/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Bangkok hotelbudget: goedkoop of luxe? | Go2Thailand",
+    "description": "Vergelijk eenvoudige en luxe hotels in Bangkok op locatie, rust, service en voorwaarden. Controleer daarna de actuele totaalprijs.",
+    "primaryKeyword": "goedkoop of luxe hotel Bangkok",
+    "secondaryKeywords": ["Bangkok hotelbudget", "hotel Bangkok vergelijken", "budgethotel Bangkok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/cheapest-vs-most-expensive-hotel-bangkok/"
+  },
+  "hero": {
+    "eyebrow": "Waarde is meer dan een kamerprijs",
+    "title": "Goedkoop of luxe in Bangkok?",
+    "accent": "Betaal voor wat je gebruikt",
+    "description": "Vergelijk ligging, slaapcomfort, service en voorwaarden. Een hogere prijs heeft alleen waarde als die bij jouw reis past.",
+    "image": "/images/redesign/editorial/cheapest-vs-most-expensive-hotel-bangkok-hero.webp",
+    "imageAlt": "Bangkok hotelkamer met uitzicht op de verlichte stad",
+    "primaryCta": { "label": "Vergelijk waarde", "href": "#vergelijking" },
+    "secondaryCta": { "label": "Boekcheck", "href": "#boekcheck" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kies geen hotel op de laagste of hoogste prijs alleen. Een goede locatie, recente signalen over rust en onderhoud, het juiste kamertype en passende voorwaarden bepalen samen de waarde.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "vergelijking",
+      "title": "Waar betaal je voor?",
+      "description": "De uitkomst verschilt per reisdoel; geen van beide categorieën wint altijd.",
+      "options": [
+        { "title": "Eenvoudig verblijf", "description": "Sterk wanneer je vooral buiten bent en locatie, schoonmaak en airconditioning op orde zijn.", "label": "Praktisch" },
+        { "title": "Comfortabele middenklasse", "description": "Vaak de balans tussen ligging, rust, kamerruimte en voorzieningen die je echt gebruikt.", "label": "Balans" },
+        { "title": "Luxe verblijf", "description": "Logisch voor een bijzondere gelegenheid, rustdag, uitgebreide service of een locatie die zelf onderdeel van de reis is.", "label": "Beleving" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "boekcheck",
+      "title": "Vergelijk dezelfde boeking",
+      "items": ["Dezelfde verblijfsdata en hetzelfde aantal gasten", "Exact kamertype en bedtype", "Totaalprijs inclusief belastingen", "Ontbijt en andere inbegrepen onderdelen", "Annulerings- en betaalvoorwaarden", "Werkelijke looproute naar passend vervoer"]
+    },
+    {
+      "kind": "affiliate",
+      "id": "live-hotelprijs",
+      "provider": "trip.com",
+      "title": "Controleer de actuele hotelprijs",
+      "description": "Vergelijk voor jouw data het exacte kamertype, de totaalprijs en de voorwaarden. De actuele informatie bij Trip.com is leidend.",
+      "cta": { "label": "Bekijk actuele verblijven", "href": "https://trip.tpo.lv/TmObooZ5", "external": true },
+      "placement": "bangkok-hotel-value-comparison",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer."
+    },
+    {
+      "kind": "related",
+      "id": "verder-kiezen",
+      "title": "Kies eerst de juiste context",
+      "items": [
+        { "title": "Waar overnachten in Bangkok?", "description": "Vergelijk buurten op sfeer, vervoer en je dagelijkse route.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
+        { "title": "Bangkok ontdekken", "description": "Bekijk de hoofdgids voor de stad en bepaal waar je dagen zich afspelen.", "href": "/nl/city/bangkok/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is een duur hotel in Bangkok altijd beter?", "answer": "Nee. Het is alleen beter wanneer locatie, rust, service of voorzieningen hun meerprijs voor jouw reis waard zijn." },
+        { "question": "Wat is de beste prijsklasse?", "answer": "Dat verschilt per datum en behoefte. Vergelijk het volledige aanbod voor jouw verblijfsdata en stel eerst je minimale eisen vast." },
+        { "question": "Welke wijk is het voordeligst?", "answer": "Dat is dynamisch en hoort bij de wijkengids. Reken ook dagelijkse vervoerstijd mee, niet alleen de kamerprijs." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bronnen voor bestemming en vervoer",
+      "items": [
+        { "title": "Bangkok destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/bangkok/219", "checkedAt": "2026-08-01" },
+        { "title": "BTS Skytrain", "publisher": "Bangkok Mass Transit System", "url": "https://www.bts.co.th/eng/", "checkedAt": "2026-08-01" },
+        { "title": "MRT route", "publisher": "Mass Rapid Transit Authority of Thailand", "url": "https://www.mrta.co.th/en/mrt-route", "checkedAt": "2026-08-01" }
+      ]
+    }
+  ]
+}

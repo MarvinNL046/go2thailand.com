@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-07-29T23:07:45.553Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "seed": "eten in mae hong son",
+  "costs": {
+    "suggestions": 0.012,
+    "related": 0.012,
+    "competitors": 0.012
+  },
+  "competitorKeywords": [
+    "eten in mae hong son"
+  ],
+  "keywords": [
+    {
+      "keyword": "eten in mae hong son",
+      "volume": null,
+      "kd": null,
+      "intent": "",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": []
+}

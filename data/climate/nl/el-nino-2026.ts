@@ -1,0 +1,93 @@
+import type { ClimateUpdateGuideData } from '../types';
+
+export const elNinoThailand2026Guide: ClimateUpdateGuideData = {
+  slug: 'el-nino-2026-thailand-weather-heatwave-travel-tips',
+  locale: 'nl',
+  pageTitle: 'El Niño 2026 in Thailand: weer, hitte & reistips',
+  pageDescription: 'El Niño heeft zich in 2026 ontwikkeld. Lees wat dat wel en niet betekent voor je Thailand-reis, met actuele bronstatus, regiokeuze en een praktisch hitte- en regenplan.',
+  pageUrl: 'https://go2-thailand.com/nl/blog/el-nino-2026-thailand-weather-heatwave-travel-tips/',
+  datePublished: '2026-03-23',
+  dateModified: '2026-07-26',
+  author: 'Go2Thailand-redactie',
+  hero: {
+    image: '/images/redesign/thailand-el-nino-weather-hero.webp',
+    imageAlt: 'Wat Arun aan de Chao Phraya met zon, donkere moessonwolken en regen in de verte',
+    imageCaption: 'AI-gegenereerd redactioneel sfeerbeeld van wisselvallig tropisch weer. Gebruik voor je reis altijd de actuele TMD-waarschuwingen.',
+    eyebrow: 'Weerupdate · gecontroleerd 26 juli 2026',
+    title: 'El Niño 2026',
+    accent: 'in Thailand',
+    subtitle: 'Actief klimaatsignaal, geen dag-tot-dag weersvoorspelling.',
+    description: 'El Niño is inmiddels ontwikkeld en kan de kans op hitte en andere extremen vergroten. Toch heeft Thailand in juli ook een actieve zuidwestmoesson. Voor jouw reis wint de lokale verwachting het daarom altijd van één wereldwijde klimaatnaam.',
+  },
+  status: {
+    label: 'Het korte antwoord',
+    title: 'Je reis hoeft niet van tafel — je planning moet flexibeler.',
+    summary: 'WMO meldde op 3 juli 2026 dat El Niño-condities zijn ontwikkeld en waarschijnlijk versterken. Dat maakt bepaalde klimaatextremen waarschijnlijker, maar voorspelt niet of het op jouw stranddag regent. De Thaise weerdienst publiceert daarvoor dagelijkse waarschuwingen en zeeverwachtingen.',
+    checked: 'Bronstatus gecontroleerd op 26 juli 2026',
+    facts: [
+      { label: 'Wereldwijd signaal', value: 'El Niño actief', note: 'WMO bevestigt ontwikkeling en verwachte versterking in 2026.', icon: 'wind' },
+      { label: 'Thailand nu', value: 'Moesson actief', note: 'Regen, wind en golfslag verschillen per regio en per dag.', icon: 'rain' },
+      { label: 'Beste beslissing', value: 'Check TMD', note: 'Bekijk 7-daagse verwachting en waarschuwingen vlak voor een verplaatsing.', icon: 'shield' },
+    ],
+  },
+  fundamentals: {
+    eyebrow: 'Eerst de ruis eruit',
+    title: 'Wat El Niño wel — en niet — over jouw vakantie zegt',
+    intro: 'El Niño verschuift kansen in het klimaatsysteem. Het is geen app die jouw hotelweek exact voorspelt. Gebruik het voor extra marge en een slimmer dagschema, niet voor paniek of schijnzekerheid.',
+    cards: [
+      { title: 'Wel: grotere kans op extremen', description: 'WMO koppelt de ontwikkeling aan een hogere kans op onder meer hittegolven, droogte en zware neerslag in verschillende delen van de wereld. De precieze uitwerking verschilt per regio.', icon: 'heat', tone: 'jade' },
+      { title: 'Niet: iedere dag droog en heet', description: 'Een actief El Niño heft de zuidwestmoesson niet op. Thailand kan tegelijk zware buien, onrustige zee en warme droge perioden hebben.', icon: 'cloud', tone: 'cream' },
+      { title: 'Wel: meer reden voor plan B', description: 'Kies annuleerbare activiteiten, laat ruimte tussen boot en vlucht en verplaats inspanning naar de koelste uren van de dag.', icon: 'map', tone: 'cream' },
+      { title: 'Niet: één seizoen voor heel Thailand', description: 'Andamankust, Golf, noorden en Bangkok volgen niet hetzelfde regen- en windritme. Een landelijk maandgemiddelde is te grof voor een eilanddag.', icon: 'waves', tone: 'jade' },
+    ],
+  },
+  regions: [
+    { name: 'Bangkok & Centraal', signal: 'Hitte + korte zware buien', description: 'Warme, vochtige dagen kunnen worden onderbroken door stevige buien. Straten en reistijd reageren lokaal snel op regen.', action: 'Plan buiten vroeg, bewaar lunch en vervoer voor het heetste deel en vermijd krappe aansluitingen na een waarschuwing.', icon: 'heat' },
+    { name: 'Noord-Thailand', signal: 'Warmte, luchtkwaliteit & terrein', description: 'Hittesensatie en luchtkwaliteit kunnen je inspanning sterker beperken dan een eenvoudig regenicoon. In berggebied telt afstromend water mee.', action: 'Controleer temperatuur én AQI; schrap een zware hike wanneer hitte, rook of onweerskans niet passen.', icon: 'wind' },
+    { name: 'Andamankust', signal: 'Moessonzee is de beslisser', description: 'Voor Phuket, Krabi en de westkust zijn wind, golfhoogte en lokale waarschuwingen belangrijker dan een algemene El Niño-kop.', action: 'Houd bootdagen wisselbaar en accepteer dat een aanbieder een route om veiligheidsredenen aanpast of annuleert.', icon: 'waves' },
+    { name: 'Golf van Thailand', signal: 'Eigen seizoensritme', description: 'Koh Samui, Koh Phangan en Koh Tao volgen niet exact hetzelfde patroon als de Andamankust. Toch blijven onweersbuien en deining mogelijk.', action: 'Vergelijk per eiland de actuele kustverwachting en bouw marge rond ferry en vlucht.', icon: 'rain' },
+  ],
+  decisionPlan: [
+    { label: 'Plan A', title: 'Droog & heet', description: 'Tempel of wandeling vroeg; gekoelde lunch en zwembad of museum midden op de dag.', action: 'Water, schaduw en lager tempo', icon: 'sun' },
+    { label: 'Plan B', title: 'Buien & onweer', description: 'Verplaats open water en viewpoints; kies markt, museum, spa of eten onder dak.', action: 'Bliksem en lokale waarschuwing leiden', icon: 'cloud' },
+    { label: 'Plan C', title: 'Wind & ruwe zee', description: 'Geen bootdag forceren. Ruil met een landactiviteit en laat de veiligheidsbeslissing bij kapitein en autoriteiten.', action: 'Marge rond ferry en vlucht', icon: 'waves' },
+  ],
+  kit: {
+    image: '/images/redesign/el-nino-thailand-day-kit.webp',
+    imageAlt: 'Flatlay met waterfles, zonnehoed, zonnebril, zonnebrand, paraplu, regenjack en dry pouch',
+    title: 'Wat neem je mee voor een hete én natte reisdag?',
+    description: 'Pak voor twee omstandigheden tegelijk. Een dunne regenlaag zonder water, zonbescherming of droge documentopslag lost maar de helft van het probleem op.',
+    checklist: [
+      'Hervulbare waterfles; drink regelmatig en pas bij medische beperkingen het advies van je arts toe.',
+      'Lichte, losse kleding plus een tempelgeschikte laag voor schouders en knieën.',
+      'Hoed, zonnebril en breedspectrum-zonnebrand; herhaal volgens productinstructie.',
+      'Compacte paraplu of lichte regenlaag en een dry pouch voor telefoon en documenten.',
+      'Offline route, accommodatieadres en ruimte in je dag om een activiteit te verschuiven.',
+    ],
+    products: [
+      { title: 'Brede zonnehoed', reason: 'Schaduw zonder een zware extra laag.', amazonSlug: 'sun-cube-wide-brim-hat' },
+      { title: 'Zonnebrand SPF 70', reason: 'Voor blootgestelde huid; controleer geschiktheid en productinstructies.', amazonSlug: 'neutrogena-beach-defense-spf70' },
+      { title: 'Lichte regenponcho', reason: 'Compacte back-up voor een plotselinge tropische bui.', amazonSlug: 'hagon-rain-ponchos' },
+      { title: 'Drybag', reason: 'Houdt elektronica en papieren apart van natte kleding.', amazonSlug: 'earth-pak-dry-bag' },
+    ],
+  },
+  faqs: [
+    { question: 'Wat is de voorspelling voor El Niño in 2026?', answer: 'WMO meldde op 3 juli 2026 dat El Niño-condities zijn ontwikkeld en naar verwachting verder versterken. Het signaal verhoogt wereldwijd de kans op verschillende weersextremen, maar de precieze gevolgen en sterkte blijven per regio onzeker. Controleer daarom ook de nieuwste maandupdate.' },
+    { question: 'Heeft El Niño invloed op Thailand?', answer: 'Ja, El Niño kan de kans op onder meer hitte en droogte in delen van Zuidoost-Azië beïnvloeden. Het bepaalt alleen niet het weer op één reisdag. In juli 2026 meldde TMD tegelijk een actieve zuidwestmoesson met plaatselijk zware regen en ruwe zee.' },
+    { question: 'Krijgt Thailand in 2026 een Super El Niño?', answer: 'Gebruik die term voorzichtig. WMO verwachtte begin juli een snelle versterking en een sterk evenement in de seizoensverwachting, maar een sterk klimaatsignaal garandeert geen specifieke lokale impact. Baseer boekingen niet op een sensationeel label alleen.' },
+    { question: 'Is het verstandig om in juli of augustus naar Thailand te gaan?', answer: 'Dat kan, zolang je warmte, buien en regionale verschillen accepteert. Kies een logische kust, maak activiteiten verwisselbaar en controleer TMD-waarschuwingen voor zware regen, wind en golfslag. Een nat uur hoeft geen verloren reisdag te zijn; een geforceerde boottocht kan wel onverstandig zijn.' },
+    { question: 'Wat is de warmste maand in Thailand?', answer: 'April is op veel plaatsen gemiddeld een van de heetste maanden, maar lokale records en gevoelstemperatuur verschillen per regio en jaar. Kijk voor een concrete reisweek naar de lokale maximumtemperatuur en hittewaarschuwing, niet alleen naar het maandgemiddelde.' },
+    { question: 'Hoe herken je hitte-uitputting of een hitteberoerte?', answer: 'WHO noemt onder meer duizeligheid, zwakte, intense dorst en hoofdpijn als signalen om direct naar een koele plek te gaan en water te drinken. Een hete droge huid, verwardheid, stuipen of bewusteloosheid kan op een levensbedreigende hitteberoerte wijzen: koel de persoon en schakel onmiddellijk medische hulp in.' },
+  ],
+  relatedGuides: [
+    { title: 'Weer in Thailand', description: 'Vergelijk de kustseizoenen, maanden en regionale patronen.', href: '/weather/', image: '/images/redesign/thailand-weather-hub-hero.webp', imageAlt: 'Weerlagen boven Thailand' },
+    { title: 'Thailand in juli', description: 'Bekijk wat de zomervakantie praktisch betekent voor route en kustkeuze.', href: '/thailand-in/july/', image: '/images/redesign/thailand-el-nino-weather-hero.webp', imageAlt: 'Tropisch weer boven Bangkok' },
+    { title: 'Thailand-paklijst', description: 'Bouw een compacte set voor hitte, regen, tempels en bootdagen.', href: '/travel-gear/', image: '/images/redesign/el-nino-thailand-day-kit.webp', imageAlt: 'Praktische daguitrusting voor Thailand' },
+  ],
+  sources: [
+    { title: 'El Niño is forecast to intensify', creator: 'World Meteorological Organization', url: 'https://public.wmo.int/media/news/el-nino-forecast-intensify-increasing-likelihood-of-extreme-weather', note: 'Status en mondiale verwachting van 3 juli 2026; geen lokale dagvoorspelling voor Thailand.' },
+    { title: 'Weather Thailand & 7-day forecast', creator: 'Thai Meteorological Department', url: 'https://tmd.go.th/en/weather/weatherthailand', note: 'Primaire bron voor actuele Thaise regen-, wind-, golf- en waarschuwinginformatie.' },
+    { title: '#KeepCool in the heat', creator: 'World Health Organization', url: 'https://www.who.int/europe/news-room/fact-sheets/item/keepcool-in-the-heat', note: 'Gezondheidsadvies voor hitte, risicogroepen en alarmsignalen; gepubliceerd 8 juni 2026.' },
+    { title: 'Reisadvies Thailand', creator: 'NederlandWereldwijd', url: 'https://www.nederlandwereldwijd.nl/reisadvies/thailand', note: 'Actuele veiligheids- en noodinformatie voor Nederlandse reizigers.' },
+  ],
+};

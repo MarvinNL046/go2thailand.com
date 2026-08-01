@@ -1,0 +1,521 @@
+{
+  "captured_at": "2026-07-29T11:04:37.334Z",
+  "locale": "en",
+  "url": "https://www.thai.lt/blog/139-5-must-try-dishes-in-chiang-karn-loei",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Top Attractions",
+          "url": "https://www.thai.lt/thailand-travel/destinations/bangkok/top-attractions",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/bangkok/top-attractions",
+              "anchor_text": "Top Attractions"
+            }
+          ]
+        },
+        {
+          "text": "Places to Eat",
+          "url": "https://www.thai.lt/thailand-travel/destinations/bangkok/where-to-eat-in-bangkok?types%5B0%5D=1",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/bangkok/where-to-eat-in-bangkok?types%5B0%5D=1",
+              "anchor_text": "Places to Eat"
+            }
+          ]
+        },
+        {
+          "text": "Night Markets",
+          "url": "https://www.thai.lt/thailand-travel/destinations/bangkok/night-markets",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/bangkok/night-markets",
+              "anchor_text": "Night Markets"
+            }
+          ]
+        },
+        {
+          "text": "Floating Markets",
+          "url": "https://www.thai.lt/thailand-travel/destinations/bangkok/floating-markets",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/bangkok/floating-markets",
+              "anchor_text": "Floating Markets"
+            }
+          ]
+        },
+        {
+          "text": "Koh Samui",
+          "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/koh-samui",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/koh-samui",
+              "anchor_text": "Koh Samui"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phi Phi",
+          "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/koh-phi-phi",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/koh-phi-phi",
+              "anchor_text": "Koh Phi Phi"
+            }
+          ]
+        },
+        {
+          "text": "Koh Lanta",
+          "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/koh-lanta",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/koh-lanta",
+              "anchor_text": "Koh Lanta"
+            }
+          ]
+        },
+        {
+          "text": "Koh Phangan",
+          "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/koh-phangan",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/koh-phangan",
+              "anchor_text": "Koh Phangan"
+            }
+          ]
+        },
+        {
+          "text": "Hua Hin",
+          "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/hua-hin",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/hua-hin",
+              "anchor_text": "Hua Hin"
+            }
+          ]
+        },
+        {
+          "text": "Nakhon Si Thammarat",
+          "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/nakhon-si-thammarat",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/southern-thailand/nakhon-si-thammarat",
+              "anchor_text": "Nakhon Si Thammarat"
+            }
+          ]
+        },
+        {
+          "text": "Koh Chang",
+          "url": "https://www.thai.lt/thailand-travel/destinations/eastern-thailand/koh-chang",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/eastern-thailand/koh-chang",
+              "anchor_text": "Koh Chang"
+            }
+          ]
+        },
+        {
+          "text": "Koh Samet",
+          "url": "https://www.thai.lt/thailand-travel/destinations/eastern-thailand/koh-samet",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/eastern-thailand/koh-samet",
+              "anchor_text": "Koh Samet"
+            }
+          ]
+        },
+        {
+          "text": "Nakhon Pathom",
+          "url": "https://www.thai.lt/thailand-travel/destinations/central-thailand/nakhon-pathom",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/central-thailand/nakhon-pathom",
+              "anchor_text": "Nakhon Pathom"
+            }
+          ]
+        },
+        {
+          "text": "Chiang Mai",
+          "url": "https://www.thai.lt/thailand-travel/destinations/northern-thailand/chiang-mai",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/northern-thailand/chiang-mai",
+              "anchor_text": "Chiang Mai"
+            }
+          ]
+        },
+        {
+          "text": "Chiang Rai",
+          "url": "https://www.thai.lt/thailand-travel/destinations/northern-thailand/chiang-rai",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/northern-thailand/chiang-rai",
+              "anchor_text": "Chiang Rai"
+            }
+          ]
+        },
+        {
+          "text": "Chiang Khan",
+          "url": "https://www.thai.lt/thailand-travel/destinations/northeast-thailand/chiang-khan",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/destinations/northeast-thailand/chiang-khan",
+              "anchor_text": "Chiang Khan"
+            }
+          ]
+        },
+        {
+          "text": "Planning Your Trip",
+          "url": "https://www.thai.lt/thailand-travel/planning-your-trip-to-thailand",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/planning-your-trip-to-thailand",
+              "anchor_text": "Planning Your Trip"
+            }
+          ]
+        },
+        {
+          "text": "Thailand Visa",
+          "url": "https://www.thai.lt/thailand-travel/thailand-visas",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/thailand-visas",
+              "anchor_text": "Thailand Visa"
+            }
+          ]
+        },
+        {
+          "text": "Weather in Thailand",
+          "url": "https://www.thai.lt/thailand-travel/weather-in-thailand",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/weather-in-thailand",
+              "anchor_text": "Weather in Thailand"
+            }
+          ]
+        },
+        {
+          "text": "Thai Language",
+          "url": "https://www.thai.lt/thailand-travel/thai-language",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/thai-language",
+              "anchor_text": "Thai Language"
+            }
+          ]
+        },
+        {
+          "text": "Thai Festivals",
+          "url": "https://www.thai.lt/thailand-travel/thai-festivals",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/thai-festivals",
+              "anchor_text": "Thai Festivals"
+            }
+          ]
+        },
+        {
+          "text": "Thai Shopping",
+          "url": "https://www.thai.lt/thailand-travel/shopping-in-thailand",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/shopping-in-thailand",
+              "anchor_text": "Thai Shopping"
+            }
+          ]
+        },
+        {
+          "text": "Thai Currency",
+          "url": "https://www.thai.lt/thailand-travel/thai-currency",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thailand-travel/thai-currency",
+              "anchor_text": "Thai Currency"
+            }
+          ]
+        },
+        {
+          "text": "Dishes You Must Try",
+          "url": "https://www.thai.lt/thai-food/thai-food-dishes-you-must-try",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thai-food/thai-food-dishes-you-must-try",
+              "anchor_text": "Dishes You Must Try"
+            }
+          ]
+        },
+        {
+          "text": "Thai Fruits",
+          "url": "https://www.thai.lt/thai-food/thai-fruits-you-should-try",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thai-food/thai-fruits-you-should-try",
+              "anchor_text": "Thai Fruits"
+            }
+          ]
+        },
+        {
+          "text": "Cooking Thai Food",
+          "url": "https://www.thai.lt/thai-food/cooking-thai-food",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thai-food/cooking-thai-food",
+              "anchor_text": "Cooking Thai Food"
+            }
+          ]
+        },
+        {
+          "text": "Thai Restaurants",
+          "url": "https://www.thai.lt/thai-food/reviews",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thai-food/reviews",
+              "anchor_text": "Thai Restaurants"
+            }
+          ]
+        },
+        {
+          "text": "Thai Food Blog",
+          "url": "https://www.thai.lt/thai-food/thai-food-blog",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/thai-food/thai-food-blog",
+              "anchor_text": "Thai Food Blog"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Deals",
+          "url": "https://www.thai.lt/hotels",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/hotels",
+              "anchor_text": "Hotel Deals"
+            }
+          ]
+        },
+        {
+          "text": "Transport Tickets",
+          "url": "https://www.thai.lt/bookings/booking-tickets",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/bookings/booking-tickets",
+              "anchor_text": "Transport Tickets"
+            }
+          ]
+        },
+        {
+          "text": "Attraction Tickets",
+          "url": "https://www.thai.lt/bookings/attraction-tickets",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/bookings/attraction-tickets",
+              "anchor_text": "Attraction Tickets"
+            }
+          ]
+        },
+        {
+          "text": "Hotel Reviews",
+          "url": "https://www.thai.lt/bookings/independent-hotel-reviews",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/bookings/independent-hotel-reviews",
+              "anchor_text": "Hotel Reviews"
+            }
+          ]
+        },
+        {
+          "text": "Private Tours",
+          "url": "https://www.thai.lt/bookings/private-tours",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/bookings/private-tours",
+              "anchor_text": "Private Tours"
+            }
+          ]
+        },
+        {
+          "text": "Southeast Asia",
+          "url": "https://www.thai.lt/southeast-asia",
+          "urls": [
+            {
+              "url": "https://www.thai.lt/southeast-asia",
+              "anchor_text": "Southeast Asia"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": [
+        {
+          "text": "We use cookies on our website. Some of them are essential for the operation of the site, while others help us to improve this site and the user experience (tracking cookies). You can decide for yourself whether you want to allow cookies or not. Please note that if you reject them, you may not be able to use all the functionalities of the site.",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "secondary_content": [
+        {
+          "text": "Select your language",
+          "url": null,
+          "urls": null
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "5 Must Try Dishes in Chiang Khan, Loei",
+        "main_title": "5 Must Try Dishes in Chiang Khan, Loei",
+        "author": "THAI.LT",
+        "language": "en",
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Chiang Khan is a small city in Loei province located along the Mekong River. It's a Thai tourist top destination for holidays and weekends. You will spot only a few westerners here. We weren’t expecting too much of our visit here but it was a really nice place worth to visit and spend a day or more. You can find a variety of interesting and reasonably priced foods here for trying as well.",
+            "url": "https://www.thai.lt/thailand-travel/destinations/northeast-thailand/chiang-khan",
+            "urls": [
+              {
+                "url": "https://www.thai.lt/thailand-travel/destinations/northeast-thailand/chiang-khan",
+                "anchor_text": "Chiang Khan"
+              }
+            ]
+          }
+        ],
+        "secondary_content": [
+          {
+            "text": "Discover travel tips",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Follow us",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Contact us",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Islands & beach towns",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Laotian Noodle Soup (Khao Piak Sen): ข้าวเปียกเส้น",
+        "main_title": "5 Must Try Dishes in Chiang Khan, Loei",
+        "author": "THAI.LT",
+        "language": "en",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Khao Piak Sen is a Lao-Style Noodle Soup. Literally, Khao Piak Sen means wet rice noodle. It is made of fresh rice noodle which is thick and round, in chicken or pork broth. The toppings of noodle can be varying from chicken, pork, meatball to egg. It is a perfect food to eat for breakfast in Chiang Khan. Price is 40-45 THB",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Baby Shrimp (Goong Foi) : กุ้งฝอย",
+        "main_title": "5 Must Try Dishes in Chiang Khan, Loei",
+        "author": "THAI.LT",
+        "language": "en",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Dishes made of baby shrimps from Mekong River are easy to find around Chiang Khan. Crispy fried shrimps, called \"Goong Foi Tod Krob\", are made of baby shrimps coated in butter and seasoned flour then deep fried until changing the color to brown. The dish is served with chili sauce.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Crispy fried shrimps (Goong Foi Tod Krob) = 50 THB",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Another dish you shouldn't miss is grilled shrimps, called \"Goong Foi Yang\". These baby shrimps are served on wooden skewers.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Grilled shrimps (Goong Foi Yang) = 10THB",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Khai Grata (Eggs on the Pan) : ไข่กะทะ",
+        "main_title": "5 Must Try Dishes in Chiang Khan, Loei",
+        "author": "THAI.LT",
+        "language": "en",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Khai Grata is a popular dish in Northeast Thailand. This literally means \"Pan Eggs\". It's a super simple one pan breakfast meal made of fried eggs topped with ground pork, Chinese sausage and green onion. It costs 40-45 THB.",
+            "url": "https://www.thai.lt/thailand-travel/destinations/northeast-thailand",
+            "urls": [
+              {
+                "url": "https://www.thai.lt/thailand-travel/destinations/northeast-thailand",
+                "anchor_text": "Northeast Thailand"
+              }
+            ]
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Enoki Mushrooms Wrapped in Bacon : เบคอนพันเห็ดเข็มทองย่าง",
+        "main_title": "5 Must Try Dishes in Chiang Khan, Loei",
+        "author": "THAI.LT",
+        "language": "en",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Bacon makes everything taste better and when you combine it with mushrooms, it tastes so good. It costs 20 baht for 1 skewer and 50 baht for 3 skewers.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Pa Thong Ko (The stuffed Chinese Donuts) : ปาท่องโก๋",
+        "main_title": "5 Must Try Dishes in Chiang Khan, Loei",
+        "author": "THAI.LT",
+        "language": "en",
+        "level": 4,
+        "primary_content": [
+          {
+            "text": "Pa Thong Ko is a deep-fried dough stick. It’s a snack that you can easily find on the street all around Thailand. What makes Pa Thong Ko in Chiang Khan special is meat and something sweet stuffed inside of it. You can choose any stuffing you like from pork, sweet pandan cream, banana to red bean. We ordered Pa Thong Ko with Pork that was topped with sweet chili sauce. It costs 30 THB.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": null,
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": null
+  }
+}

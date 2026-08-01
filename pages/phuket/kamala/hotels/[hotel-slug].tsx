@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../components/SEOHead';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlPhuketHotelDetailGuide } from '../../../../data/hotel-details/nl-phuket';
+import type { HotelDetailGuideData } from '../../../../data/hotel-details/types';
 import { withSubId } from '../../../../lib/affiliates';
 import { useSubId } from '../../../../lib/useSubId';
 
@@ -32,13 +35,17 @@ interface Hotel {
 interface Partner { partnerUrl: string; label: string; }
 type PartnersMap = Record<string, Partner>;
 
-interface Props { hotel: Hotel; tripUrl: string; lastUpdated: string; siblings: Array<{ slug: string; name: string }>; }
+interface Props { hotel: Hotel; nlGuide: HotelDetailGuideData | null; tripUrl: string; lastUpdated: string; siblings: Array<{ slug: string; name: string }>; }
 
-export default function KamalaHotelReview({ hotel, tripUrl, lastUpdated, siblings }: Props) {
+export default function KamalaHotelReview({ hotel, nlGuide, tripUrl, lastUpdated, siblings }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
   const placement = (p: string) => `${subId}-pseo-phuket-kamala-${hotel.slug}-${p}`;
+
+  if (isNl && nlGuide) {
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={withSubId(tripUrl, placement('hotel-detail'))} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -120,7 +127,7 @@ export default function KamalaHotelReview({ hotel, tripUrl, lastUpdated, sibling
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <h2 className="font-heading text-2xl font-bold text-gray-900 mb-4">{isNl ? 'In één oogopslag' : 'At a glance'}</h2>
@@ -199,7 +206,7 @@ export default function KamalaHotelReview({ hotel, tripUrl, lastUpdated, sibling
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -208,7 +215,9 @@ export default function KamalaHotelReview({ hotel, tripUrl, lastUpdated, sibling
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'areas', 'kamala-hotels.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = (data.hotels as Hotel[]).map(h => ({ params: { 'hotel-slug': h.slug } }));
+  const paths = (data.hotels as Hotel[]).flatMap(h =>
+    ['en', 'nl'].map(locale => ({ params: { 'hotel-slug': h.slug }, locale })),
+  );
   return { paths, fallback: false };
 };
 
@@ -224,5 +233,5 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   const partner = partners[hotel.tripPartnerKey];
   const tripUrl = partner ? partner.partnerUrl : partners['trip_pillar'].partnerUrl;
   const siblings = (hotelsData.hotels as Hotel[]).filter(h => h.slug !== slug).map(h => ({ slug: h.slug, name: h.name }));
-  return { props: { hotel, tripUrl, lastUpdated: hotelsData.lastUpdated, siblings }, revalidate: 604800 };
+  return { props: { hotel, nlGuide: getNlPhuketHotelDetailGuide(slug), tripUrl, lastUpdated: hotelsData.lastUpdated, siblings }, revalidate: 604800 };
 };

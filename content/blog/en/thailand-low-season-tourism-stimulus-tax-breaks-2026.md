@@ -7,7 +7,7 @@ category: "news"
 author:
   name: "Go2Thailand Editorial"
 tags: ["thailand tourism policy", "travel deals thailand", "low season thailand", "tax incentives", "anutin tourism 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-low-season-tourism-stimulus-tax-breaks-2026-hero.webp"
 draft: false
 sources:
   - "https://www.thailandblog.nl/en/toerisme/thailand-overweegt-nieuwe-steunmaatregelen-voor-toerisme-in-laagseizoen-2026/"
@@ -49,6 +49,6 @@ For travelers, this shift means a better experience overall: less overcrowding a
 
 The Thai low season runs roughly from June through October. During this period, hotel rates drop significantly, popular beaches are less crowded, and domestic flight prices tend to be lower. With the new stimulus measures adding further incentives to the mix, the 2026 low season could be one of the [best times to visit Thailand](/blog/best-time-to-visit-thailand/) on a budget.
 
-If you are still deciding where to go, check out our [Thailand 10-day itinerary](/blog/thailand-10-day-itinerary/) or our [two-week itinerary](/blog/thailand-itinerary-2-weeks/) for inspiration. For cost planning, our [daily budget guide for 2026](/blog/thailand-budget-2026-daily-costs/) breaks down what to expect across accommodation, food, and transport. And if you want to compare destinations, [Thailand vs Bali](/blog/thailand-vs-bali-2026-which-is-better/) is worth a read before you book.
+If you are still deciding where to go, check out our [Thailand 10-day itinerary](/blog/thailand-10-day-itinerary/) or our [two-week itinerary](/blog/thailand-itinerary-2-weeks/) for inspiration. For cost planning, our [daily budget guide for 2026](/thailand-index/budget/) breaks down what to expect across accommodation, food, and transport. And if you want to compare destinations, [Thailand vs Bali](/blog/thailand-vs-bali-2026-which-is-better/) is worth a read before you book.
 
 Also see: [Thailand's domestic tourism push](/blog/thailand-domestic-tourism-push-tat-festival-2026/) and the [FETTA 14 billion baht relief package](/blog/fetta-14-billion-baht-relief-package-thailand-tourism-2026/) for more context on the government's broader tourism recovery strategy.

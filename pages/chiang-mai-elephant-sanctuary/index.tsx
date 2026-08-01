@@ -2,6 +2,10 @@ import Link from 'next/link';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC } from '../../lib/affiliates';
+import { useRouter } from 'next/router';
+import NlTopicalManualGuide from '../../components/editorial/NlTopicalManualGuide';
+import { nlTopicalManualGuides } from '../../data/editorial/nl-topical-manual';
+import { elephantChiangMaiGuideEn, ManualDecisionGuideEn } from '../../components/editorial/ManualDecisionGuideEn';
 
 const LAST_VERIFIED = 'April 18, 2026';
 const CANONICAL_URL = 'https://go2-thailand.com/chiang-mai-elephant-sanctuary/';
@@ -141,7 +145,7 @@ function AffiliateLink({ href, children }: { href: string; children: React.React
     <a
       href={href}
       target="_blank"
-      rel="noopener noreferrer nofollow"
+      rel="noopener noreferrer nofollow sponsored"
       className="inline-flex items-center justify-center rounded-full bg-thailand-blue px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-blue-700"
     >
       {children}
@@ -163,6 +167,9 @@ function ExternalLink({ href, children }: { href: string; children: React.ReactN
 }
 
 export default function ChiangMaiElephantSanctuaryPage() {
+  const { locale } = useRouter();
+  if (locale === 'nl') return <NlTopicalManualGuide data={nlTopicalManualGuides['chiang-mai-elephant-sanctuary']} />;
+  if (locale !== 'nl') return <ManualDecisionGuideEn config={elephantChiangMaiGuideEn} />;
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: 'Chiang Mai Elephant Sanctuary', href: '/chiang-mai-elephant-sanctuary' },
@@ -806,7 +813,7 @@ export default function ChiangMaiElephantSanctuaryPage() {
                   <p className="text-sm text-gray-700">
                     Slippery river rocks, unfamiliar terrain, and a 3-tonne animal means small
                     injuries happen. See our{' '}
-                    <Link href="/travel-insurance-thailand" className="text-thailand-blue underline">
+                    <Link href="/travel-insurance/" className="text-thailand-blue underline">
                       Thailand travel insurance guide
                     </Link>{' '}
                     before you fly.

@@ -1,0 +1,1526 @@
+{
+  "captured_at": "2026-07-26T12:53:35.394Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai massage thailand",
+  "costs": {
+    "suggestions": 0.02016,
+    "related": 0.01932,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thai massage thailand",
+    "thai massage near me",
+    "what is a thai massage in thailand",
+    "thai massage benefits",
+    "thai massage in pattaya thailand",
+    "is thai massage dangerous",
+    "thai massage in thailand",
+    "thailand thai massage",
+    "how much is a thai massage in thailand",
+    "is thai massage good for you",
+    "thai massage hua hin thailand",
+    "thai massage vs deep tissue",
+    "what is a thai oil massage",
+    "is thai massage painful",
+    "thai massage classes in thailand",
+    "thai massage course in thailand",
+    "thai massage course thailand",
+    "thai massage courses in thailand",
+    "thai massage schools thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "thai massage near me",
+      "volume": 110000,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "deep tissue massage",
+      "volume": 14800,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "swedish massage",
+      "volume": 12100,
+      "kd": 8,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "deep tissue massage near me",
+      "volume": 8100,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai yoga massage thailand",
+      "volume": 1600,
+      "kd": 6,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is a thai massage in thailand",
+      "volume": 1300,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage thailand phuket",
+      "volume": 720,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand massage bangkok",
+      "volume": 720,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage benefits",
+      "volume": 590,
+      "kd": 36,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full body massage thailand",
+      "volume": 320,
+      "kd": 25,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage in pattaya thailand",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand massage full body",
+      "volume": 320,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thai massage dangerous",
+      "volume": 210,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage bangkok thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage in thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage in thailand bangkok",
+      "volume": 210,
+      "kd": 11,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage phuket thailand",
+      "volume": 210,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage thailand",
+      "volume": 210,
+      "kd": 33,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage thailand bangkok",
+      "volume": 210,
+      "kd": 25,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand thai massage",
+      "volume": 210,
+      "kd": 16,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thailand massage bangkok",
+      "volume": 170,
+      "kd": 9,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much is a thai massage in thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thai massage good for you",
+      "volume": 170,
+      "kd": 14,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage hua hin thailand",
+      "volume": 170,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage vs deep tissue",
+      "volume": 170,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "healthland bangkok",
+      "volume": 140,
+      "kd": 4,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "what is a thai oil massage",
+      "volume": 110,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thai massage painful",
+      "volume": 90,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massage bangkok sukhumvit",
+      "volume": 70,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage classes in thailand",
+      "volume": 70,
+      "kd": 12,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage course in thailand",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage course thailand",
+      "volume": 70,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage courses in thailand",
+      "volume": 70,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage schools thailand",
+      "volume": 70,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage training thailand",
+      "volume": 70,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai yoga massage course thailand",
+      "volume": 70,
+      "kd": 19,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai massage bangkok",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full body massage bangkok",
+      "volume": 50,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "side effects of thai massage",
+      "volume": 50,
+      "kd": 28,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai full body massage bangkok",
+      "volume": 50,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai full body massage what to expect",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "why thai massage is famous",
+      "volume": 40,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full body thai massage benefits",
+      "volume": 30,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thai massage good for back pain",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thai massage good for sciatica",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "in room massage bangkok",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai deep tissue massage benefits",
+      "volume": 20,
+      "kd": 12,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage vs swedish vs deep tissue",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai massage bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best cheap thai massage bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best full body massage bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massage bangkok sukhumvit 11",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massage bangkok sukhumvit reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massage bangkok sukhumvit reviews",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best massage sukhumvit soi 22",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best oil massage bangkok sukhumvit",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai massage bangkok thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai massage in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai massage schools in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai massage thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "cost of full body massage in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full body massage bangkok near me",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full body massage bangkok price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full body massage in thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full body massage price in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full body massage thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "full body thai massage in pattaya thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is thai massage in thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much thai massage in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "is thai massage dangerous reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thai massage deep tissue",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thai massage relaxing",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "is thai massage worth it",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "learn thai massage in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "learn thai yoga massage in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "study thai massage in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai full body massage what to expect reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage before and after",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage benefits for male",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage benefits for men",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage benefits for women",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage benefits reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage certification in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage certification thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage cost in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage course thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage in pattaya thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage in thailand cost",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage in thailand experience",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage in thailand pattaya",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage in thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage in thailand what to expect",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage price in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage prices in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage rate in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage retreat thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage spa in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage thailand course",
+      "volume": 10,
+      "kd": 3,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage video in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage vs deep tissue reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai massage what to wear",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai yoga massage in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai yoga massage training in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai yoga massage training thailand",
+      "volume": 10,
+      "kd": 54,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand massage bangkok price",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand thai massage price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "top 10 massage in bangkok",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "traditional thai massage in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what is thai massage in thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "why is thai massage so painful",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai massage bangkok near me",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thai massage in pattaya thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage continuing education thailand",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thai massage school in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "should i get a thai massage in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage & spa in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage ceu in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage course pai thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai massage school thailand",
+      "volume": null,
+      "kd": 50,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai yoga massage school bangkok thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai yoga massage school thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand of thai massage",
+      "volume": null,
+      "kd": 16,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tmc thai massage school of thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "trip to thailand for thai massage course",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to get thai massage in thailand",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 16.466666666666665,
+      "keywordCount": 13,
+      "visibility": 4.8999999999999995,
+      "estimatedTraffic": 497.808
+    },
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 6.615384615384615,
+      "keywordCount": 13,
+      "visibility": 5.8500000000000005,
+      "estimatedTraffic": 145.662
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 20.307692307692307,
+      "keywordCount": 13,
+      "visibility": 0.9000000000000001,
+      "estimatedTraffic": 12.014
+    },
+    {
+      "domain": "www.quora.com",
+      "avgPosition": 21.363636363636363,
+      "keywordCount": 11,
+      "visibility": 1.15,
+      "estimatedTraffic": 21.964999999999996
+    },
+    {
+      "domain": "www.medicalnewstoday.com",
+      "avgPosition": 10.25,
+      "keywordCount": 8,
+      "visibility": 3.3499999999999996,
+      "estimatedTraffic": 122.65300000000002
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 41,
+      "keywordCount": 12,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 6.159000000000001
+    },
+    {
+      "domain": "www.healthlandspa.com",
+      "avgPosition": 12.375,
+      "keywordCount": 8,
+      "visibility": 3.8499999999999996,
+      "estimatedTraffic": 164.071
+    },
+    {
+      "domain": "thaihandmassage.com",
+      "avgPosition": 14.25,
+      "keywordCount": 8,
+      "visibility": 1.8,
+      "estimatedTraffic": 27.573
+    },
+    {
+      "domain": "health.clevelandclinic.org",
+      "avgPosition": 23.77777777777778,
+      "keywordCount": 9,
+      "visibility": 1.7500000000000002,
+      "estimatedTraffic": 115.079
+    },
+    {
+      "domain": "www.healthline.com",
+      "avgPosition": 14.625,
+      "keywordCount": 8,
+      "visibility": 2.65,
+      "estimatedTraffic": 210.70099999999996
+    },
+    {
+      "domain": "www.makkhahealthandspa.com",
+      "avgPosition": 21.375,
+      "keywordCount": 8,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 24.804000000000002
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 13.142857142857142,
+      "keywordCount": 7,
+      "visibility": 2.9000000000000004,
+      "estimatedTraffic": 1735.5279999999998
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "avgPosition": 16.142857142857142,
+      "keywordCount": 7,
+      "visibility": 2,
+      "estimatedTraffic": 125.228
+    },
+    {
+      "domain": "opulencethaispa.co.uk",
+      "avgPosition": 17,
+      "keywordCount": 7,
+      "visibility": 0.5,
+      "estimatedTraffic": 242.84399999999994
+    },
+    {
+      "domain": "www.loft-thai.com",
+      "avgPosition": 21.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.49999999999999994,
+      "estimatedTraffic": 12.389000000000001
+    },
+    {
+      "domain": "www.tripadvisor.com",
+      "avgPosition": 24.428571428571427,
+      "keywordCount": 7,
+      "visibility": 1,
+      "estimatedTraffic": 54.647
+    },
+    {
+      "domain": "www.webmd.com",
+      "avgPosition": 14,
+      "keywordCount": 6,
+      "visibility": 2.1999999999999997,
+      "estimatedTraffic": 65.47099999999999
+    },
+    {
+      "domain": "www.health.com",
+      "avgPosition": 28,
+      "keywordCount": 7,
+      "visibility": 0.9,
+      "estimatedTraffic": 27.203999999999997
+    },
+    {
+      "domain": "www.learnthaifromawhiteguy.com",
+      "avgPosition": 15.2,
+      "keywordCount": 5,
+      "visibility": 1.2000000000000002,
+      "estimatedTraffic": 21.613
+    },
+    {
+      "domain": "steveandnoelle.com",
+      "avgPosition": 21.6,
+      "keywordCount": 5,
+      "visibility": 1.5,
+      "estimatedTraffic": 36.677
+    },
+    {
+      "domain": "www.andamandaphuket.com",
+      "avgPosition": 4.25,
+      "keywordCount": 4,
+      "visibility": 2.6999999999999997,
+      "estimatedTraffic": 79.20400000000001
+    },
+    {
+      "domain": "www.art-of-thai-massage.com",
+      "avgPosition": 4.75,
+      "keywordCount": 2,
+      "visibility": 2.5,
+      "estimatedTraffic": 17.78
+    },
+    {
+      "domain": "watpomassage.com",
+      "avgPosition": 10.75,
+      "keywordCount": 2,
+      "visibility": 1.9500000000000002,
+      "estimatedTraffic": 33.404
+    },
+    {
+      "domain": "royalparadisethaimassage.com.au",
+      "avgPosition": 32.4,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.263
+    },
+    {
+      "domain": "seaofblush.com",
+      "avgPosition": 20.25,
+      "keywordCount": 4,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 3.465
+    },
+    {
+      "domain": "livingsabai.com",
+      "avgPosition": 21,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.832
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 23.5,
+      "keywordCount": 4,
+      "visibility": 0.1,
+      "estimatedTraffic": 3.7939999999999996
+    },
+    {
+      "domain": "www.thai-kosai.com",
+      "avgPosition": 27.25,
+      "keywordCount": 4,
+      "visibility": 0.05,
+      "estimatedTraffic": 232.85299999999995
+    },
+    {
+      "domain": "www.openlink.co",
+      "avgPosition": 42.8,
+      "keywordCount": 4,
+      "visibility": 0.8,
+      "estimatedTraffic": 27.292999999999996
+    },
+    {
+      "domain": "www.whatclinic.com",
+      "avgPosition": 8.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.75,
+      "estimatedTraffic": 13.703999999999997
+    },
+    {
+      "domain": "ttcspaschool.net",
+      "avgPosition": 8.666666666666666,
+      "keywordCount": 2,
+      "visibility": 1.25,
+      "estimatedTraffic": 13.02
+    },
+    {
+      "domain": "www.bbc.com",
+      "avgPosition": 9,
+      "keywordCount": 3,
+      "visibility": 0.8500000000000001,
+      "estimatedTraffic": 15.443999999999999
+    },
+    {
+      "domain": "dragonflyskin.com",
+      "avgPosition": 9.666666666666666,
+      "keywordCount": 3,
+      "visibility": 0.6000000000000001,
+      "estimatedTraffic": 7.967999999999999
+    },
+    {
+      "domain": "sabaithai.com",
+      "avgPosition": 33,
+      "keywordCount": 4,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.91
+    },
+    {
+      "domain": "www.premespa.com",
+      "avgPosition": 14.333333333333334,
+      "keywordCount": 3,
+      "visibility": 1.05,
+      "estimatedTraffic": 79.958
+    },
+    {
+      "domain": "me-thais.co.uk",
+      "avgPosition": 17,
+      "keywordCount": 3,
+      "visibility": 0.9500000000000001,
+      "estimatedTraffic": 17821.404
+    },
+    {
+      "domain": "goodspaguide.co.uk",
+      "avgPosition": 18,
+      "keywordCount": 3,
+      "visibility": 1.4,
+      "estimatedTraffic": 29.959999999999997
+    },
+    {
+      "domain": "thaithaimassageandspa.com",
+      "avgPosition": 19,
+      "keywordCount": 3,
+      "visibility": 1,
+      "estimatedTraffic": 33441.092
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 53.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 1.7009999999999998
+    },
+    {
+      "domain": "www.viator.com",
+      "avgPosition": 26.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.7,
+      "estimatedTraffic": 21.991
+    },
+    {
+      "domain": "thaideemassage.co.uk",
+      "avgPosition": 28.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 2.1350000000000002
+    },
+    {
+      "domain": "www.tagthai.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 158.07999999999998
+    },
+    {
+      "domain": "www.sunshine-massage-school.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 42.56
+    },
+    {
+      "domain": "www.nuadthaimassage.com",
+      "avgPosition": 34.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 232.09199999999998
+    },
+    {
+      "domain": "www.itmthaimassage.com",
+      "avgPosition": 2,
+      "keywordCount": 2,
+      "visibility": 1.8,
+      "estimatedTraffic": 22.68
+    },
+    {
+      "domain": "www.careysmanor.com",
+      "avgPosition": 2.5,
+      "keywordCount": 2,
+      "visibility": 1.7000000000000002,
+      "estimatedTraffic": 84.947
+    },
+    {
+      "domain": "meridianmassage.co.uk",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 13.622
+    },
+    {
+      "domain": "www.nuadthaischool.com",
+      "avgPosition": 51.75,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.1969999999999998
+    },
+    {
+      "domain": "travelfeed.com",
+      "avgPosition": 3.5,
+      "keywordCount": 2,
+      "visibility": 1.5,
+      "estimatedTraffic": 39.733999999999995
+    },
+    {
+      "domain": "www.sothaispabkk.com",
+      "avgPosition": 36,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 1.4489999999999998
+    }
+  ]
+}

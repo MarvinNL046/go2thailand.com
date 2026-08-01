@@ -1,252 +1,103 @@
-import { useState } from 'react';
+import { FormEvent, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
-import AnnouncementBar from './AnnouncementBar';
-import { useTranslation } from '../hooks/useTranslation';
+import { ArrowRight, Clock3, Instagram, Mail } from 'lucide-react';
 import { useToast } from './Toast';
 
-const Footer = () => {
-  const brandLogoPath = '/images/brand/go2thailand-logo-2026.png';
+const columns = [
+  {
+    nl: 'Ontdek', en: 'Discover', links: [
+      ['/city/', 'Bestemmingen', 'Destinations'], ['/activities/', 'Uitjes', 'Experiences'], ['/travel-guides/', 'Reisgids', 'Travel guide'], ['/blog/', 'Inspiratie', 'Inspiration'],
+    ],
+  },
+  {
+    nl: 'Praktisch', en: 'Practical', links: [
+      ['/about/', 'Over ons', 'About us'], ['/contact/', 'Contact', 'Contact'], ['/affiliate-disclosure/', 'Affiliate partners', 'Affiliate partners'], ['/privacy/', 'Privacy & cookies', 'Privacy & cookies'],
+    ],
+  },
+  {
+    nl: 'Klantenservice', en: 'Customer service', links: [
+      ['/contact/', 'Contact & hulp', 'Contact & help'], ['/terms/', 'Voorwaarden', 'Terms'], ['/cookie-policy/', 'Cookievoorkeuren', 'Cookie preferences'], ['/editorial-policy/', 'Redactioneel beleid', 'Editorial policy'],
+    ],
+  },
+];
+
+export default function Footer() {
   const { locale } = useRouter();
-  const currentYear = new Date().getFullYear();
-  const { t } = useTranslation('common');
+  const isNl = locale === 'nl';
   const toast = useToast();
   const [email, setEmail] = useState('');
-  const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
+  const [loading, setLoading] = useState(false);
 
-  const handleSubscribe = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!email || status === 'loading') return;
-    setStatus('loading');
+  async function subscribe(event: FormEvent) {
+    event.preventDefault();
+    if (!email || loading) return;
+    setLoading(true);
     try {
-      const res = await fetch('/api/subscribe', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email, site: 'go2thailand', locale: locale || 'en' }),
-      });
-      if (!res.ok) throw new Error();
-      setStatus('success');
+      const response = await fetch('/api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email, site: 'go2thailand', locale: locale || 'en' }) });
+      if (!response.ok) throw new Error('Subscribe failed');
       setEmail('');
-      toast.success(locale === 'nl' ? 'Je bent geabonneerd! Check je inbox.' : "You're subscribed! Check your inbox.");
+      toast.success(isNl ? 'Welkom! Controleer je inbox.' : 'Welcome! Check your inbox.');
     } catch {
-      setStatus('error');
-      toast.error(locale === 'nl' ? 'Abonnement mislukt. Probeer opnieuw.' : 'Subscription failed. Please try again.');
+      toast.error(isNl ? 'Aanmelden lukt nu niet. Probeer het later opnieuw.' : 'Could not subscribe. Please try again later.');
+    } finally {
+      setLoading(false);
     }
-  };
+  }
 
   return (
-    <>
-      <footer className="bg-surface-dark text-white">
-        {/* Main Footer Content */}
-        <div className="container-custom py-16 lg:py-20">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10 lg:gap-8">
-
-            {/* Brand Column */}
-            <div className="lg:col-span-3">
-              <Link href="/" className="inline-block mb-4">
-                <Image
-                  src={brandLogoPath}
-                  alt="Go2Thailand"
-                  width={180}
-                  height={120}
-                  className="h-auto w-[180px] object-contain"
-                />
-              </Link>
-              <p className="text-gray-400 text-sm leading-relaxed mb-6">
-                {t('footer.aboutText')}
-              </p>
-              <div className="flex items-center gap-2 text-gray-400 text-sm">
-                <svg className="w-4 h-4 text-thailand-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-                </svg>
-                <span>hello@go2-thailand.com</span>
+    <footer>
+      <section className="bg-[#fcfaf6] pt-8">
+        <div className="container-custom">
+          <div className="newsletter-botanical-background relative z-10 overflow-hidden rounded-t-xl border border-b-0 border-jade/10 bg-white px-6 py-6 sm:px-10 lg:py-5">
+            <div className="relative z-10 grid items-center gap-5 sm:px-10 lg:grid-cols-[0.9fr_1.15fr] lg:gap-12 lg:px-24">
+              <div>
+                <h2 className="font-display text-[2rem] font-semibold leading-none text-jade sm:text-[2.2rem]">{isNl ? 'Thailand in je inbox' : 'Thailand in your inbox'}</h2>
+                <p className="mt-2 max-w-md text-xs leading-relaxed text-charcoal/55">{isNl ? 'Ontvang reisinspiratie, exclusieve tips en de beste deals direct in je mailbox.' : 'Get travel inspiration, exclusive tips and the best deals in your inbox.'}</p>
               </div>
-            </div>
-
-            {/* Quick Links Column */}
-            <div className="lg:col-span-2">
-              <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-5">
-                {t('footer.quickLinks')}
-              </h3>
-              <ul className="space-y-3">
-                <li><Link href="/city/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('footer.allCities')}</Link></li>
-                <li><Link href="/islands/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.islands')}</Link></li>
-                <li><Link href="/region/northern/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.northernThailand')}</Link></li>
-                <li><Link href="/region/central/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.centralThailand')}</Link></li>
-                <li><Link href="/region/southern/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.southernThailand')}</Link></li>
-                <li><Link href="/region/isaan/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.isaanNortheast')}</Link></li>
-                <li><Link href="/transport/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.transport')}</Link></li>
-                <li><Link href="/blog/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.blog')}</Link></li>
-              </ul>
-            </div>
-
-            {/* Popular Cities & Top 10 Column */}
-            <div className="lg:col-span-2">
-              <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-5">
-                {t('footer.popularCities')}
-              </h3>
-              <ul className="space-y-3">
-                <li><Link href="/city/bangkok/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('footer.bangkok')}</Link></li>
-                <li><Link href="/city/chiang-mai/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('footer.chiangMai')}</Link></li>
-                <li><Link href="/city/phuket/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('footer.phuket')}</Link></li>
-                <li><Link href="/city/pattaya/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('footer.pattaya')}</Link></li>
-              </ul>
-              <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-4 mt-8">
-                {t('footer.top10Guides')}
-              </h3>
-              <ul className="space-y-3">
-                <li><Link href="/top-10/restaurants/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.restaurantGuides')}</Link></li>
-                <li><Link href="/top-10/hotels/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.hotelGuides')}</Link></li>
-                <li><Link href="/top-10/attractions/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.attractionGuides')}</Link></li>
-              </ul>
-            </div>
-
-            {/* Travel Resources Column */}
-            <div className="lg:col-span-2">
-              <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-5">
-                {t('footer.travelResources')}
-              </h3>
-              <ul className="space-y-3">
-                <li><Link href="/esim/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.esim')}</Link></li>
-                <li><Link href="/travel-insurance-thailand/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.insurance')}</Link></li>
-                <li><Link href="/travel-gear/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.gear')}</Link></li>
-                <li><Link href="/weather/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.weather')}</Link></li>
-                <li><Link href="/visa/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.visaGuide')}</Link></li>
-                <li><Link href="/food/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('footer.thaiFoodGuide')}</Link></li>
-                <li><Link href="/travel-security/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('nav.vpnSecurity')}</Link></li>
-                <li>
-                  <a href="https://search.go2-thailand.com" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">
-                    {t('nav.searchFlightsHotels')}
-                  </a>
-                </li>
-              </ul>
-            </div>
-
-            {/* Newsletter Column */}
-            <div className="lg:col-span-3">
-              <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-5">
-                {locale === 'nl' ? 'Nieuwsbrief' : 'Newsletter'}
-              </h3>
-              <p className="text-gray-400 text-sm mb-4">
-                {locale === 'nl' ? 'Ontvang de laatste Thailand reistips en gidsen in je inbox.' : 'Get the latest Thailand travel tips and guides delivered to your inbox.'}
-              </p>
-              {status === 'success' ? (
-                <p className="text-green-400 text-sm flex items-center gap-2">
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
-                  </svg>
-                  {locale === 'nl' ? 'Je bent geabonneerd! Check je inbox.' : "You\u2019re subscribed! Check your inbox."}
-                </p>
-              ) : (
-                <form onSubmit={handleSubscribe} className="flex gap-2">
-                  <input
-                    type="email"
-                    value={email}
-                    onChange={(e) => { setEmail(e.target.value); setStatus('idle'); }}
-                    placeholder={locale === 'nl' ? 'Je e-mailadres' : 'Your email'}
-                    className="flex-1 px-4 py-2.5 rounded-xl bg-white/10 border border-white/10 text-white placeholder-gray-500 text-sm focus:outline-none focus:border-thailand-red transition-colors"
-                    required
-                  />
-                  <button
-                    type="submit"
-                    disabled={status === 'loading'}
-                    className="px-4 py-2.5 bg-thailand-red text-white rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors flex items-center gap-1 disabled:opacity-50"
-                  >
-                    {status === 'loading' ? '...' : (locale === 'nl' ? 'Abonneren' : 'Subscribe')}
-                    {status !== 'loading' && (
-                      <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                      </svg>
-                    )}
-                  </button>
-                </form>
-              )}
-              {status === 'error' && (
-                <p className="text-red-400 text-xs mt-2">{locale === 'nl' ? 'Er ging iets mis. Probeer opnieuw.' : 'Something went wrong. Please try again.'}</p>
-              )}
-
-              {/* Transport Routes */}
-              <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-4 mt-8">
-                {t('footer.transportRoutes')}
-              </h3>
-              <ul className="space-y-3">
-                <li><Link href="/transport/bangkok-to-chiang-mai/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('footer.bangkokToChiangMai')}</Link></li>
-                <li><Link href="/transport/bangkok-to-phuket/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('footer.bangkokToPhuket')}</Link></li>
-                <li><Link href="/transport/bangkok-to-krabi/" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">{t('footer.bangkokToKrabi')}</Link></li>
-              </ul>
-            </div>
-
-          </div>
-        </div>
-
-        {/* Go2 Travel Network */}
-        <div className="border-t border-white/5">
-          <div className="container-custom py-8">
-            <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-4 text-center">
-              Go2 Travel Network
-            </h3>
-            <p className="text-gray-500 text-xs text-center mb-4">
-              {locale === 'nl' ? 'Ontdek onze bestemmingsgidsen in Azi\u00EB, Europa, Afrika en Amerika' : 'Explore our destination guides across Asia, Europe, Africa, and the Americas'}
-            </p>
-            <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
-              <a href="https://go2-bali.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Bali</a>
-              <a href="https://go2-vietnam.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Vietnam</a>
-              <a href="https://go2-japan.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Japan</a>
-              <a href="https://go2-china.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2China</a>
-              <a href="https://go2-india.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2India</a>
-              <a href="https://go2-spain.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Spain</a>
-              <a href="https://go2-france.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2France</a>
-              <a href="https://go2-morocco.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Morocco</a>
-              <a href="https://go2-mexico.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Mexico</a>
-              <a href="https://go2-usa.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2USA</a>
+              <form onSubmit={subscribe} className="flex flex-col gap-2.5 sm:flex-row">
+                <label className="relative flex-1">
+                  <Mail className="absolute left-4 top-1/2 -translate-y-1/2 text-jade/35" size={16} />
+                  <span className="sr-only">E-mail</span>
+                  <input type="email" required value={email} onChange={event => setEmail(event.target.value)} placeholder={isNl ? 'Jouw e-mailadres' : 'Your email address'} className="h-12 w-full rounded-lg border border-jade/15 bg-[#fcfaf6] pl-11 pr-4 text-sm outline-none transition placeholder:text-charcoal/40 focus:border-saffron" />
+                </label>
+                <button disabled={loading} className="inline-flex h-12 items-center justify-center gap-2 rounded-lg bg-jade px-7 text-sm font-bold text-white transition hover:bg-jade-light disabled:opacity-60">{loading ? '...' : isNl ? 'Aanmelden' : 'Subscribe'} <ArrowRight size={15} /></button>
+              </form>
             </div>
           </div>
         </div>
+      </section>
 
-        {/* Bottom Bar */}
-        <div className="border-t border-white/10">
-          <div className="container-custom py-6">
-            <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-              <p className="text-gray-500 text-sm">
-                © {currentYear} Go2Thailand.com. {t('footer.rights')}.
-              </p>
-              <div className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm">
-                <Link href="/about" className="text-gray-500 hover:text-white transition-colors">
-                  {locale === 'nl' ? 'Over Ons' : 'About Us'}
-                </Link>
-                <Link href="/contact" className="text-gray-500 hover:text-white transition-colors">
-                  Contact
-                </Link>
-                <Link href="/editorial-policy" className="text-gray-500 hover:text-white transition-colors">
-                  {locale === 'nl' ? 'Redactioneel Beleid' : 'Editorial Policy'}
-                </Link>
-                <Link href="/affiliate-disclosure" className="text-gray-500 hover:text-white transition-colors">
-                  {locale === 'nl' ? 'Affiliate Verklaring' : 'Affiliate Disclosure'}
-                </Link>
-                <Link href="/privacy" className="text-gray-500 hover:text-white transition-colors">
-                  {locale === 'nl' ? 'Privacybeleid' : 'Privacy Policy'}
-                </Link>
-                <Link href="/terms" className="text-gray-500 hover:text-white transition-colors">
-                  {t('footer.terms')}
-                </Link>
-                <Link href="/cookie-policy" className="text-gray-500 hover:text-white transition-colors">
-                  {locale === 'nl' ? 'Cookie Beleid' : 'Cookie Policy'}
-                </Link>
-                <Link href="/sitemap" className="text-gray-500 hover:text-white transition-colors">
-                  Sitemap
-                </Link>
-              </div>
+      <section className="footer-contour-pattern bg-jade-dark text-white">
+        <div className="container-custom grid grid-cols-2 gap-x-7 gap-y-10 py-10 md:grid-cols-3 lg:grid-cols-[1.45fr_0.8fr_0.8fr_0.95fr_1.1fr] lg:gap-8 lg:py-11">
+          <div className="col-span-2 md:col-span-3 lg:col-span-1">
+            <Link href="/" className="inline-flex transition-transform hover:scale-[1.02]" aria-label="Go2 Thailand home">
+              <Image src="/images/brand/go2thailand-logo-2026.png" alt="Go2 Thailand" width={138} height={92} className="h-[82px] w-[123px] object-contain brightness-0 invert opacity-90" />
+            </Link>
+            <p className="mt-3 max-w-[15rem] text-xs leading-relaxed text-white/55">{isNl ? 'Jouw inspiratie voor een onvergetelijke reis door Thailand.' : 'Your inspiration for an unforgettable journey through Thailand.'}</p>
+            <div className="mt-5 flex items-center gap-3">
+              <a href="https://www.instagram.com/go2thailand" aria-label={isNl ? 'Go2 Thailand op Instagram' : 'Go2 Thailand on Instagram'} className="inline-flex h-8 w-8 items-center justify-center rounded-full border border-white/20 text-white/65 transition hover:border-saffron-light hover:text-saffron-light"><Instagram size={14} /></a>
+              <span className="text-[10px] uppercase tracking-[0.13em] text-white/35">{isNl ? 'Volg onze reis' : 'Follow our journey'}</span>
             </div>
-            <p className="text-gray-600 text-xs mt-3 text-center md:text-left">
-              {t('footer.travelDisclaimer')}
-            </p>
+          </div>
+          {columns.map(column => <div key={column.en}><h3 className="text-[10px] font-bold uppercase tracking-[0.16em] text-saffron-light">{isNl ? column.nl : column.en}</h3><ul className="mt-4 space-y-2">{column.links.map(([href, nl, en]) => <li key={href}><Link href={href} className="text-xs text-white/60 transition hover:text-white">{isNl ? nl : en}</Link></li>)}</ul></div>)}
+          <div>
+            <h3 className="text-[10px] font-bold uppercase tracking-[0.16em] text-saffron-light">{isNl ? 'Hulp nodig?' : 'Need help?'}</h3>
+            <p className="mt-4 text-xs leading-relaxed text-white/55">{isNl ? 'We staan voor je klaar.' : 'We are here to help.'}</p>
+            <a href="mailto:hello@go2-thailand.com" className="mt-3 inline-flex items-center gap-2 whitespace-nowrap text-[11px] text-white/75 transition hover:text-saffron-light"><Mail className="shrink-0" size={13} /> hello@go2-thailand.com</a>
+            <p className="mt-2 flex items-center gap-2 text-[11px] text-white/45"><Clock3 size={13} /> {isNl ? 'Online bereikbaar' : 'Available online'}</p>
           </div>
         </div>
-      </footer>
-      <AnnouncementBar />
-    </>
+        <div className="container-custom flex flex-col gap-3 border-t border-white/10 py-5 text-[10px] text-white/40 sm:flex-row sm:items-center sm:justify-between">
+          <span>© {new Date().getFullYear()} Go2 Thailand — {isNl ? 'Alle rechten voorbehouden' : 'All rights reserved'}</span>
+          <nav aria-label={isNl ? 'Juridische informatie' : 'Legal information'} className="flex flex-wrap items-center gap-x-4 gap-y-2">
+            <Link href="/privacy/" className="transition hover:text-white/70">Privacy</Link>
+            <Link href="/cookie-policy/" className="transition hover:text-white/70">Cookies</Link>
+            <Link href="/terms/" className="transition hover:text-white/70">{isNl ? 'Voorwaarden' : 'Terms'}</Link>
+          </nav>
+        </div>
+      </section>
+    </footer>
   );
-};
-
-export default Footer;
+}

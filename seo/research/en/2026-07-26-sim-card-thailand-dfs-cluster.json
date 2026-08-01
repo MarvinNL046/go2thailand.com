@@ -1,0 +1,2359 @@
+{
+  "captured_at": "2026-07-26T10:01:48.610Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "sim card thailand",
+  "costs": {
+    "suggestions": 0.036,
+    "related": 0.01692,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "sim card thailand",
+    "sim card in thailand",
+    "best sim card for thailand",
+    "best sim card in thailand",
+    "best sim card thailand",
+    "best thailand sim card",
+    "thailand visitor sim card",
+    "best sim card for tourist in thailand",
+    "best sim card in thailand for tourist",
+    "best tourist sim card thailand",
+    "data sim card thailand",
+    "thailand sim card data",
+    "thailand sim card price",
+    "e sim card thailand",
+    "thailand sim card uk",
+    "tourist sim card thailand",
+    "7 eleven sim card thailand price",
+    "7-eleven sim card thailand price",
+    "dtac sim card thailand",
+    "how much is a sim card in thailand"
+  ],
+  "keywords": [
+    {
+      "keyword": "sim card for thailand",
+      "volume": 1000,
+      "kd": 7,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card in thailand",
+      "volume": 1000,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand",
+      "volume": 1000,
+      "kd": 9,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand sim card",
+      "volume": 1000,
+      "kd": 7,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais thailand",
+      "volume": 390,
+      "kd": 16,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "best sim card for thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card in thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card thailand",
+      "volume": 260,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best thailand sim card",
+      "volume": 260,
+      "kd": 4,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card for tourist in thailand",
+      "volume": 210,
+      "kd": 7,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand tourist",
+      "volume": 210,
+      "kd": 7,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card for tourist",
+      "volume": 210,
+      "kd": 10,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand tourist sim card",
+      "volume": 210,
+      "kd": 3,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand visitor sim card",
+      "volume": 210,
+      "kd": 6,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais tourist sim",
+      "volume": 170,
+      "kd": 4,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais sim card",
+      "volume": 140,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais sim card thailand",
+      "volume": 140,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais thailand sim card",
+      "volume": 140,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sim card for thailand travel",
+      "volume": 90,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card travel thailand",
+      "volume": 90,
+      "kd": 3,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand travel sim card",
+      "volume": 90,
+      "kd": 9,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel thailand sim card",
+      "volume": 90,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card for tourist in thailand",
+      "volume": 70,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card in thailand for tourist",
+      "volume": 70,
+      "kd": 5,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best tourist sim card thailand",
+      "volume": 70,
+      "kd": 2,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dtac tourist sim",
+      "volume": 70,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven sim card thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-11 thailand sim card",
+      "volume": 50,
+      "kd": 3,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven sim card thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7/11 thailand sim card",
+      "volume": 50,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "data sim card thailand",
+      "volume": 50,
+      "kd": 7,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dtac sim",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "sim card 7 eleven thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card 7/11 thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand data sim card",
+      "volume": 50,
+      "kd": 5,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card data",
+      "volume": 50,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card price",
+      "volume": 50,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card unlimited data",
+      "volume": 50,
+      "kd": 8,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand unlimited data sim card",
+      "volume": 50,
+      "kd": 9,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "true sim card thailand",
+      "volume": 50,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "true thailand sim card",
+      "volume": 50,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "unlimited data sim card thailand",
+      "volume": 50,
+      "kd": 9,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "buy sim card in thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "buy sim card thailand",
+      "volume": 40,
+      "kd": 3,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "buying a sim card in thailand",
+      "volume": 40,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "e sim card thailand",
+      "volume": 40,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand e sim card",
+      "volume": 40,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card uk",
+      "volume": 40,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist sim card thailand",
+      "volume": 40,
+      "kd": 5,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven sim card thailand price",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7-eleven sim card thailand price",
+      "volume": 30,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac sim card thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac thailand sim card",
+      "volume": 30,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "how much is a sim card in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much is sim card in thailand",
+      "volume": 30,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand 30 days",
+      "volume": 30,
+      "kd": 6,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 11 sim card thailand",
+      "volume": 20,
+      "kd": 2,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-11 sim card thailand",
+      "volume": 20,
+      "kd": 2,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dtac tourist esim",
+      "volume": 20,
+      "kd": 0,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "prepaid sim card thailand",
+      "volume": 20,
+      "kd": 16,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "prepaid thailand sim card",
+      "volume": 20,
+      "kd": 39,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand airport",
+      "volume": 20,
+      "kd": 48,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand prepaid",
+      "volume": 20,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand prepaid sim card",
+      "volume": 20,
+      "kd": 39,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card airport",
+      "volume": 20,
+      "kd": 48,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card at airport",
+      "volume": 20,
+      "kd": 48,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card prepaid",
+      "volume": 20,
+      "kd": 15,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card price for tourist",
+      "volume": 20,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "truemove tourist sim",
+      "volume": 20,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 11 thailand sim card price",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven sim card thailand 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven sim card thailand review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven sim card thailand where to buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7 eleven thailand sim card",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7 eleven true sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven sim card thailand 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven sim card thailand where to buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7-eleven true sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "7/11 thailand sim card unlimited data",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "7/11 tourist sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "agoda free sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais prepaid sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais sim card activation",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais sim card plans",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais sim card price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais sim card price in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais sim card thailand 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais sim card thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais sim card thailand review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais sim card where to buy",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais thailand sim card price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "ais thailand sim card unlimited data",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais thailand tourist sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "ais tourist sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best data sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best place to buy sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best prepaid sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card for thailand 2022",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card in thailand for foreigners",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card in thailand for tourists",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card thailand 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best sim card thailand 7 eleven",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card thailand 7-eleven",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card thailand reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "best sim card thailand tourist",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best sim card to buy in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thailand sim card for tourist",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best thailand tourist sim card",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "best travel sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "buy thailand sim card online",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "can i buy a sim card in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "cheap sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "data only sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dtac prepaid sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "dtac tourist sim price",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac tourist sim thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "dtac tourist sim validity",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "free sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "getting a sim card in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "happy tourist sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how much sim card in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to activate ais sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get a sim card in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "how to get thailand sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "in thailand which sim card is best",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "international sim card for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "klook sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "klook thailand sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "klook thailand sim card 5g",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "matrix sim card for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "matrix sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "physical sim card for thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "prepaid data sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "prepaid sim card thailand 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "should i get a sim card in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card 7 11 thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card for malaysia and thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card for singapore malaysia thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card for thailand and cambodia",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card for thailand and singapore",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card for thailand and vietnam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card for thailand cambodia and vietnam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card for thailand cambodia vietnam",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card in thailand for foreigners",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card or pocket wifi thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card plans thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand 30 days price",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand 30 days unlimited data",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sim card thailand 7 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand 7 eleven",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand 7-11",
+      "volume": 10,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand 7-eleven",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sim card thailand airport price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand ais",
+      "volume": 10,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "sim card thailand klook",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "sim card thailand price",
+      "volume": 10,
+      "kd": 6,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "singapore malaysia thailand sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 30 day sim card",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 4g sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 5g sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 7 eleven sim card",
+      "volume": 10,
+      "kd": 0,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand 7/11 sim card",
+      "volume": 10,
+      "kd": 2,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand airport sim card price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand ais sim card price for tourist",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand ais tourist sim card review",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand data sim card prepaid",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand internet sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand prepaid sim card airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand prepaid sim card for tourist",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand prepaid sim card price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand prepaid sim card with data",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card 1 month",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card 15 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card 30 days",
+      "volume": 10,
+      "kd": 0,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card 7/11",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card airport price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card amazon",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card data prepaid",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card data price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card deals",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card for tourist price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thailand sim card hong kong",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card name",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card online",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card plans",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card reddit",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card unlimited data price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand sim card with data",
+      "volume": 10,
+      "kd": 7,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist sim card 15 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist sim card 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thailand tourist sim card price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "the best sim card in thailand",
+      "volume": 10,
+      "kd": 0,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist sim card thailand 7-eleven",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tourist sim card thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "travel sim card thailand",
+      "volume": 10,
+      "kd": 1,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "true move sim card thailand",
+      "volume": 10,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "true sim card thailand 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "true sim card thailand 7-11",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "true sim card thailand price",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "true sim card thailand tourist",
+      "volume": 10,
+      "kd": null,
+      "intent": "navigational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "true tourist sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "truemove sim card thailand",
+      "volume": 10,
+      "kd": 11,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "truemove tourist sim card thailand 30 days",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "tsim thailand sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "virtual sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what sim card in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what sim card to get in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "what sim card to use in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to buy sim card in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to buy sim card in thailand airport",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to get sim card thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "where to get thailand sim card",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "which sim card in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "which sim card is best in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "which sim card is best in thailand for tourist",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "which sim card to buy in thailand",
+      "volume": 10,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "www.reddit.com",
+      "avgPosition": 3.375,
+      "keywordCount": 8,
+      "visibility": 6.1000000000000005,
+      "estimatedTraffic": 392.207
+    },
+    {
+      "domain": "www.traveltomtom.net",
+      "avgPosition": 7.25,
+      "keywordCount": 8,
+      "visibility": 3.8499999999999996,
+      "estimatedTraffic": 140.55999999999997
+    },
+    {
+      "domain": "fanclubthailand.co.uk",
+      "avgPosition": 8,
+      "keywordCount": 8,
+      "visibility": 2.6999999999999997,
+      "estimatedTraffic": 61.76
+    },
+    {
+      "domain": "wise.com",
+      "avgPosition": 8.625,
+      "keywordCount": 8,
+      "visibility": 2.9,
+      "estimatedTraffic": 34.427
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 9.625,
+      "keywordCount": 8,
+      "visibility": 2.4499999999999993,
+      "estimatedTraffic": 28.244999999999994
+    },
+    {
+      "domain": "www.ais.th",
+      "avgPosition": 13.5,
+      "keywordCount": 8,
+      "visibility": 3.7499999999999996,
+      "estimatedTraffic": 95.256
+    },
+    {
+      "domain": "www.tripadvisor.co.uk",
+      "avgPosition": 13.5,
+      "keywordCount": 8,
+      "visibility": 1.5000000000000002,
+      "estimatedTraffic": 44.838
+    },
+    {
+      "domain": "www.midnightblueelephant.com",
+      "avgPosition": 3,
+      "keywordCount": 7,
+      "visibility": 5.6000000000000005,
+      "estimatedTraffic": 248.18200000000002
+    },
+    {
+      "domain": "saily.com",
+      "avgPosition": 15.125,
+      "keywordCount": 8,
+      "visibility": 0.35,
+      "estimatedTraffic": 5.897
+    },
+    {
+      "domain": "simify.com",
+      "avgPosition": 20.125,
+      "keywordCount": 8,
+      "visibility": 1.25,
+      "estimatedTraffic": 18.993000000000002
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 20.75,
+      "keywordCount": 8,
+      "visibility": 0.6499999999999999,
+      "estimatedTraffic": 11.450999999999999
+    },
+    {
+      "domain": "www.amazon.co.uk",
+      "avgPosition": 21.875,
+      "keywordCount": 8,
+      "visibility": 2.2,
+      "estimatedTraffic": 19.125
+    },
+    {
+      "domain": "www.tsim.in",
+      "avgPosition": 23.125,
+      "keywordCount": 8,
+      "visibility": 0.6500000000000001,
+      "estimatedTraffic": 5.755
+    },
+    {
+      "domain": "simcorner.com",
+      "avgPosition": 23.375,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.117
+    },
+    {
+      "domain": "www.nomadesim.com",
+      "avgPosition": 24.5,
+      "keywordCount": 8,
+      "visibility": 0.1,
+      "estimatedTraffic": 6.687000000000002
+    },
+    {
+      "domain": "www.true.th",
+      "avgPosition": 2.8333333333333335,
+      "keywordCount": 6,
+      "visibility": 4.8999999999999995,
+      "estimatedTraffic": 147.822
+    },
+    {
+      "domain": "shippedaway.com",
+      "avgPosition": 20,
+      "keywordCount": 7,
+      "visibility": 0.55,
+      "estimatedTraffic": 9.335
+    },
+    {
+      "domain": "thailandesim.com",
+      "avgPosition": 33.5,
+      "keywordCount": 8,
+      "visibility": 0.05,
+      "estimatedTraffic": 3.702999999999999
+    },
+    {
+      "domain": "www.revolut.com",
+      "avgPosition": 25.428571428571427,
+      "keywordCount": 7,
+      "visibility": 0.55,
+      "estimatedTraffic": 8.498000000000001
+    },
+    {
+      "domain": "backpackbob.com",
+      "avgPosition": 26.285714285714285,
+      "keywordCount": 7,
+      "visibility": 0.1,
+      "estimatedTraffic": 5.41
+    },
+    {
+      "domain": "travsim.co.uk",
+      "avgPosition": 2.6,
+      "keywordCount": 5,
+      "visibility": 4.199999999999999,
+      "estimatedTraffic": 82.72
+    },
+    {
+      "domain": "www.klook.com",
+      "avgPosition": 21,
+      "keywordCount": 6,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 5.204000000000001
+    },
+    {
+      "domain": "esim.holafly.com",
+      "avgPosition": 21.833333333333332,
+      "keywordCount": 6,
+      "visibility": 0.2,
+      "estimatedTraffic": 1.168
+    },
+    {
+      "domain": "roamless.com",
+      "avgPosition": 33.142857142857146,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 1.428
+    },
+    {
+      "domain": "www.ebay.co.uk",
+      "avgPosition": 31.5,
+      "keywordCount": 6,
+      "visibility": 0.3,
+      "estimatedTraffic": 3.5889999999999995
+    },
+    {
+      "domain": "www.remitly.com",
+      "avgPosition": 18.4,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 5.32
+    },
+    {
+      "domain": "www.dtac.co.th",
+      "avgPosition": 21.6,
+      "keywordCount": 5,
+      "visibility": 0.65,
+      "estimatedTraffic": 5.034000000000001
+    },
+    {
+      "domain": "matrix.in",
+      "avgPosition": 24.8,
+      "keywordCount": 5,
+      "visibility": 0.05,
+      "estimatedTraffic": 8.009
+    },
+    {
+      "domain": "www.lumatravel.com",
+      "avgPosition": 24.8,
+      "keywordCount": 5,
+      "visibility": 0.1,
+      "estimatedTraffic": 4.173000000000001
+    },
+    {
+      "domain": "www.trip.com",
+      "avgPosition": 25.8,
+      "keywordCount": 5,
+      "visibility": 0.2,
+      "estimatedTraffic": 16.071
+    },
+    {
+      "domain": "www.psimonmyway.com",
+      "avgPosition": 13.5,
+      "keywordCount": 4,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.297
+    },
+    {
+      "domain": "explorertom.com",
+      "avgPosition": 43.5,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.317999999999999
+    },
+    {
+      "domain": "hello1010.my",
+      "avgPosition": 38.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.6039999999999996
+    },
+    {
+      "domain": "sim2go.asia",
+      "avgPosition": 40.6,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.6039999999999996
+    },
+    {
+      "domain": "www.esim.net",
+      "avgPosition": 41.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.6039999999999996
+    },
+    {
+      "domain": "gigago.com",
+      "avgPosition": 58,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 3.432999999999999
+    },
+    {
+      "domain": "triploko.com",
+      "avgPosition": 55.166666666666664,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.2759999999999994
+    },
+    {
+      "domain": "www.instagram.com",
+      "avgPosition": 49.4,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.129
+    },
+    {
+      "domain": "thetravelerrocks.com",
+      "avgPosition": 50.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.1709999999999994
+    },
+    {
+      "domain": "www.kkday.com",
+      "avgPosition": 17.333333333333332,
+      "keywordCount": 3,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.081
+    },
+    {
+      "domain": "travelsimexpert.com",
+      "avgPosition": 65.57142857142857,
+      "keywordCount": 7,
+      "visibility": 0,
+      "estimatedTraffic": 3.422999999999999
+    },
+    {
+      "domain": "sparkroam.com",
+      "avgPosition": 60.333333333333336,
+      "keywordCount": 6,
+      "visibility": 0,
+      "estimatedTraffic": 3.276
+    },
+    {
+      "domain": "simplysim.co.uk",
+      "avgPosition": 53,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.6039999999999996
+    },
+    {
+      "domain": "www.monito.com",
+      "avgPosition": 53.2,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 3.171
+    },
+    {
+      "domain": "thethaiger.com",
+      "avgPosition": 46,
+      "keywordCount": 4,
+      "visibility": 0,
+      "estimatedTraffic": 1.113
+    },
+    {
+      "domain": "www.tiktok.com",
+      "avgPosition": 32.333333333333336,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.954
+    },
+    {
+      "domain": "blog.yesim.tech",
+      "avgPosition": 59.8,
+      "keywordCount": 5,
+      "visibility": 0,
+      "estimatedTraffic": 2.6039999999999996
+    },
+    {
+      "domain": "truely.com",
+      "avgPosition": 33,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 0.966
+    },
+    {
+      "domain": "theroams.co.uk",
+      "avgPosition": 34.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.45899999999999996
+    },
+    {
+      "domain": "www.asiakingtravel.com",
+      "avgPosition": 35.666666666666664,
+      "keywordCount": 3,
+      "visibility": 0,
+      "estimatedTraffic": 2.352
+    }
+  ]
+}

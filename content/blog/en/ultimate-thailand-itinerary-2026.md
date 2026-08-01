@@ -24,7 +24,7 @@ sources:
 
 # Thailand Itinerary 2026: Best 7, 10 & 14 Day Plans (With Budget)
 
-Thailand is one of those rare destinations where a week feels like a lifetime of experiences and two weeks still leave you wanting more. From the frenetic energy of [Bangkok](https://go2-thailand.com/city/bangkok/)'s street markets to the misty temples of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and the turquoise waters around [Koh Phi Phi](https://go2-thailand.com/island/koh-phi-phi/), fitting it all in requires a solid plan. If you are brand new to Thailand, start with our [Thailand first-time visitors essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/) for pre-trip basics.
+Thailand is one of those rare destinations where a week feels like a lifetime of experiences and two weeks still leave you wanting more. From the frenetic energy of [Bangkok](https://go2-thailand.com/city/bangkok/)'s street markets to the misty temples of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and the turquoise waters around [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/), fitting it all in requires a solid plan. If you are brand new to Thailand, start with our [Thailand first-time visitors essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/) for pre-trip basics.
 
 We have put together three battle-tested itineraries: **7 days** for those on a tight schedule, **10 days** for the sweet-spot explorer, and **14 days** for travelers who want to go deep. Each includes daily plans, realistic budgets, transport options, and insider tips that actually save you time and money.
 
@@ -42,7 +42,7 @@ We have put together three battle-tested itineraries: **7 days** for those on a 
 
 Picking the right itinerary depends on three things: how much time you have, what kind of traveler you are, and your budget. Thailand rewards both the rushed and the relaxed, but choosing the right route makes all the difference.
 
-**Beach lovers** should weigh their itinerary toward the south, spending less time in Bangkok and more on the islands. **Culture seekers** will want extra days in the north, exploring Chiang Mai, Chiang Rai, and the ancient ruins of [Ayutthaya](https://go2-thailand.com/city/ayutthaya/). **Foodies** need time everywhere, but especially in Bangkok and Chiang Mai, where the [street food](https://go2-thailand.com/blog/thai-street-food-guide-2026) scene is unmatched — see our [Thai cuisine guide](/blog/what-is-thai-food-cuisine-guide/) to know what to eat. If you plan to add island hopping to any of these itineraries, check our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) for routes and ferry tips.
+**Beach lovers** should weigh their itinerary toward the south, spending less time in Bangkok and more on the islands. **Culture seekers** will want extra days in the north, exploring Chiang Mai, Chiang Rai, and the ancient ruins of [Ayutthaya](https://go2-thailand.com/city/ayutthaya/). **Foodies** need time everywhere, but especially in Bangkok and Chiang Mai, where the [street food](https://go2-thailand.com/thailand-street-food) scene is unmatched — see our [Thai cuisine guide](/travel-guides/thai-cuisine-food-guide/) to know what to eat. If you plan to add island hopping to any of these itineraries, check our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) for routes and ferry tips.
 
 Here is a quick comparison:
 
@@ -109,7 +109,7 @@ Fly from Chiang Mai to [Phuket](https://go2-thailand.com/city/phuket/) or [Krabi
 - Evening: Seafood dinner by the beach. Fresh grilled fish with rice: ฿150-300.
 
 **Day 6:**
-- Full-day **island-hopping tour**. From Phuket or Krabi, you can reach [Koh Phi Phi](https://go2-thailand.com/island/koh-phi-phi/), Maya Bay, and the Bamboo Islands. Tour prices: ฿1,200-2,500 ($33-69) including lunch, snorkeling gear, and national park fees.
+- Full-day **island-hopping tour**. From Phuket or Krabi, you can reach [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/), Maya Bay, and the Bamboo Islands. Tour prices: ฿1,200-2,500 ($33-69) including lunch, snorkeling gear, and national park fees.
 
 **Day 7:**
 - Morning: Relax at the beach or visit **Big Buddha** in Phuket (free entry) or **Tiger Cave Temple** in Krabi (1,237 steps to the top — worth every step for the view).
@@ -169,7 +169,7 @@ Fly to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/). Follow Day 3 of 
 
 ### Day 6-7: Koh Samui — Beach Bliss
 
-Fly from Chiang Mai to [Koh Samui](https://go2-thailand.com/island/koh-samui/). Bangkok Airways operates the most direct flights (connecting via Bangkok Suvarnabhumi), though you can also fly to Surat Thani (฿1,500-2,500) and take a ferry (฿350-500, about 1.5 hours). Total travel time: 4-6 hours.
+Fly from Chiang Mai to [Koh Samui](https://go2-thailand.com/islands/koh-samui/). Bangkok Airways operates the most direct flights (connecting via Bangkok Suvarnabhumi), though you can also fly to Surat Thani (฿1,500-2,500) and take a ferry (฿350-500, about 1.5 hours). Total travel time: 4-6 hours.
 
 **Day 6:**
 - Settle in at **Chaweng Beach** (lively) or **Lamai Beach** (quieter).
@@ -222,7 +222,7 @@ Take a ferry from Koh Samui to the Andaman coast. The Lomprayah or Seatran ferry
 
 Two weeks lets you experience Thailand properly. You will cover the cultural north, the Gulf islands, and the Andaman coast without feeling rushed. This is the itinerary for travelers who want to go beyond the tourist trail.
 
-For a full cost breakdown of a 2-week trip, check our detailed [Thailand 2-week cost guide](https://go2-thailand.com/blog/how-much-2-weeks-thailand-cost-2026-budget).
+For a full cost breakdown of a 2-week trip, check our detailed [Thailand 2-week cost guide](https://go2-thailand.com/thailand-index/budget).
 
 ### Day 1-3: Bangkok — The Full Experience
 
@@ -254,7 +254,7 @@ Three days in [Bangkok](https://go2-thailand.com/city/bangkok/) lets you go beyo
 
 ### Day 7-8: Koh Phangan — Island Energy
 
-Fly from Chiang Mai to Surat Thani (฿1,500-2,800 one-way), then ferry to [Koh Phangan](https://go2-thailand.com/island/koh-phangan/) (฿350-600, about 2.5 hours via Lomprayah catamaran). Total travel time: 5-7 hours.
+Fly from Chiang Mai to Surat Thani (฿1,500-2,800 one-way), then ferry to [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) (฿350-600, about 2.5 hours via Lomprayah catamaran). Total travel time: 5-7 hours.
 
 **Day 7:**
 - Settle in at **Haad Rin** (party scene) or **Thong Nai Pan** (peaceful paradise on the east coast).
@@ -272,7 +272,7 @@ Fly from Chiang Mai to Surat Thani (฿1,500-2,800 one-way), then ferry to [Koh 
 
 ### Day 9-10: Koh Samui — Relax & Recharge
 
-Take the ferry from Koh Phangan to [Koh Samui](https://go2-thailand.com/island/koh-samui/) (฿250-400, 30 minutes by Lomprayah).
+Take the ferry from Koh Phangan to [Koh Samui](https://go2-thailand.com/islands/koh-samui/) (฿250-400, 30 minutes by Lomprayah).
 
 **Day 9:**
 - Full-day trip to **Ang Thong National Marine Park** (฿1,800-2,500). Kayak through hidden lagoons, hike to viewpoints over emerald-green lakes, and snorkel over coral reefs. This is one of the most visually stunning experiences in all of Thailand.
@@ -357,7 +357,7 @@ Thailand has three distinct seasons, and when you go affects your experience sig
 - **10 days:** **November to February** is ideal, but **March** and **June** are solid shoulder months with lower prices.
 - **14 days:** You have more flexibility. Even **July and August** work well — rain usually falls in short afternoon bursts, and you get significantly lower prices and thinner crowds.
 
-**Important regional note:** The Gulf islands ([Koh Samui](https://go2-thailand.com/island/koh-samui/), [Koh Phangan](https://go2-thailand.com/island/koh-phangan/)) have a different weather pattern. Their worst months are **October and November**, while the Andaman coast (Phuket, Krabi) is driest from **November to April**. Plan your island order accordingly.
+**Important regional note:** The Gulf islands ([Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)) have a different weather pattern. Their worst months are **October and November**, while the Andaman coast (Phuket, Krabi) is driest from **November to April**. Plan your island order accordingly.
 
 For a deeper dive, read our complete [best time to visit Thailand](https://go2-thailand.com/blog/best-time-to-visit-thailand) guide.
 
@@ -366,7 +366,7 @@ For a deeper dive, read our complete [best time to visit Thailand](https://go2-t
 ## Thailand Travel Tips for Your Itinerary
 
 ### Visa Information
-Most nationalities receive a **60-day visa exemption** upon arrival (extended from the previous 30-day allowance). You need a passport valid for at least 6 months and a return/onward ticket. Digital nomads can apply for the **Destination Thailand Visa (DTV)**, which grants a 180-day stay. Read our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for the complete breakdown of all visa types and the latest rule changes, including the [planned reduction to 30 days visa-free](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/).
+Visa exemption depends on passport and purpose. At our 27 July 2026 source check, a full British citizen passport can normally use the current route for up to **60 days**, subject to entry conditions and the border decision. Eligible remote workers can separately assess the **Destination Thailand Visa (DTV)**, which has its own per-entry stay and evidence rules. Use our [Thailand visa finder](/visa/) and verify the temporary [visa-exemption rule](/visa/visa-free-entry/) before departure.
 
 ### Getting Around Thailand
 - **Domestic flights:** AirAsia, Nok Air, Thai Lion Air, and Bangkok Airways. Book on their apps or via [12Go Asia](https://12go.tpo.lv/tNA80urD) for route comparisons.
@@ -420,7 +420,7 @@ Thailand is one of the safest and easiest countries in the world for solo travel
 No specific vaccines are legally required, but the CDC recommends being up to date on **Hepatitis A**, **Typhoid**, and routine vaccinations. If you plan to visit rural or jungle areas in the north, discuss **Japanese Encephalitis** and **malaria prophylaxis** with your doctor. Bring basic medication for traveler's diarrhea — pharmacies are plentiful but language barriers can make explaining symptoms difficult.
 
 ### Is Thailand safe for tourists in 2026?
-Yes. Thailand consistently ranks among the safest countries in Southeast Asia for tourists. Petty theft (especially in crowded markets and on beaches) is the biggest concern. Use hotel safes, watch your belongings on public transport, and avoid riding scooters without a helmet or proper experience. For more, read our [Thailand safety guide](https://go2-thailand.com/blog/is-thailand-safe-tourists-2026).
+Many travellers complete established Thailand routes without serious problems, but no destination is risk-free and official regional advice can change. Secure valuables, plan transport carefully and do not ride a scooter without the correct licence, experience, helmet and insurance cover. Before departure, check the live sources in our [Thailand safety guide](/is-thailand-safe/).
 
 ---
 
@@ -428,4 +428,4 @@ Yes. Thailand consistently ranks among the safest countries in Southeast Asia fo
 
 Whether you have 7 days or 14, Thailand delivers an extraordinary mix of culture, cuisine, and coastline that few countries can match. The best advice we can give: **do not try to see everything**. Pick the itinerary that matches your travel style, book your flights, and let Thailand surprise you.
 
-Need more help planning? Explore our destination guides for [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Phuket](https://go2-thailand.com/city/phuket/), [Krabi](https://go2-thailand.com/city/krabi/), [Koh Samui](https://go2-thailand.com/island/koh-samui/), and [Koh Phangan](https://go2-thailand.com/island/koh-phangan/) for even more detailed information on each destination. For a focused 2-week plan, see our [Thailand 2-week itinerary](/blog/thailand-itinerary-2-weeks/). Heading to the islands? Our [island hopping guide](/blog/thailand-island-hopping-guide/) covers routes, ferries, and budgets. Curious about the food you will encounter? Start with our [Thai cuisine guide](/blog/what-is-thai-food-cuisine-guide/). And if you are weighing Thailand against another destination, read our [Thailand vs Bali 2026 comparison](/blog/thailand-vs-bali-2026-which-is-better/).
+Need more help planning? Explore our destination guides for [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), [Phuket](https://go2-thailand.com/city/phuket/), [Krabi](https://go2-thailand.com/city/krabi/), [Koh Samui](https://go2-thailand.com/islands/koh-samui/), and [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) for even more detailed information on each destination. For a focused 2-week plan, see our [Thailand 2-week itinerary](/blog/thailand-itinerary-2-weeks/). Heading to the islands? Our [island hopping guide](/blog/thailand-island-hopping-guide/) covers routes, ferries, and budgets. Curious about the food you will encounter? Start with our [Thai cuisine guide](/travel-guides/thai-cuisine-food-guide/). And if you are weighing Thailand against another destination, read our [Thailand vs Bali 2026 comparison](/blog/thailand-vs-bali-2026-which-is-better/).

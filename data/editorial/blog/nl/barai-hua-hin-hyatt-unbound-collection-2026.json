@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "barai-hua-hin-hyatt-unbound-collection-2026",
+  "route": "/nl/blog/barai-hua-hin-hyatt-unbound-collection-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "THE BARAI HUA HIN: geopend en hotelcheck | Go2Thailand",
+    "description": "THE BARAI HUA HIN is sinds 18 juni 2026 geopend. Beoordeel het hotel op Khao Takiap-ligging, programma, medische grenzen en live voorwaarden.",
+    "primaryKeyword": "THE BARAI HUA HIN",
+    "secondaryKeywords": ["wellnesshotel Hua Hin", "Unbound Collection Hua Hin", "THE BARAI geopend"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/barai-hua-hin-hyatt-unbound-collection-2026/"
+  },
+  "hero": {
+    "eyebrow": "Geopend op 18 juni 2026",
+    "title": "THE BARAI HUA HIN",
+    "accent": "Wellnesshotel, geen kliniek",
+    "description": "Het 98-kamerhotel ligt aan de kust van Khao Takiap. Kies op ligging, concreet programma en voorwaarden—niet op een onbewezen gezondheidsbelofte.",
+    "image": "/images/redesign/editorial/barai-hua-hin-hyatt-unbound-collection-2026-hero.webp",
+    "imageAlt": "Terracottakleurige wellnessarchitectuur met water en tropisch groen aan de kust van Hua Hin",
+    "primaryCta": { "label": "Bekijk de match", "href": "#match" },
+    "secondaryCta": { "label": "Medische grenzen", "href": "#grenzen" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "THE BARAI HUA HIN is geopend. Het past vooral als je resorttijd, strand en spa centraal zet; controleer programma, contra-indicaties en totaalprijs voor jouw data.",
+  "blocks": [
+    { "kind": "comparison", "id": "match", "title": "Past dit hotel bij je reis?", "options": [
+      { "title": "Resort en herstelritme", "description": "Je plant bewust rustige dagen met spa, strand en eten op het terrein.", "label": "Sterk" },
+      { "title": "Actieve stadsbasis", "description": "Je wilt vooral lopen naar centrum en avondmarkt; vergelijk een centralere locatie.", "label": "Vergelijk" },
+      { "title": "Medische behandeling", "description": "Een wellnesshotel vervangt geen arts, diagnose of klinische behandeling.", "label": "Niet passend" }
+    ] },
+    { "kind": "card-grid", "id": "bevestigd", "title": "Officieel bevestigd", "cards": [
+      { "title": "98 kamers", "description": "Het openingsbericht noemt 98 kamers in het opnieuw vormgegeven resort.", "label": "Hotel" },
+      { "title": "Khao Takiap-kust", "description": "De ligging ligt zuidelijker dan het centrale Hua Hin-gebied.", "label": "Locatie" },
+      { "title": "Unbound Collection", "description": "Dit is de eerste geopende vestiging van het merk in Thailand.", "label": "Merk" }
+    ] },
+    { "kind": "callout", "id": "grenzen", "tone": "warning", "title": "Wellnessclaim is geen medische uitkomst", "description": "Bespreek zwangerschap, medicatie, recente operaties, blessures en hart- of vaatproblemen met een bevoegde arts en het hotel. Vermijd gegarandeerde detox- of genezingsclaims." },
+    { "kind": "affiliate", "id": "prijs", "provider": "trip.com", "title": "Controleer live hotelvoorwaarden", "description": "Vergelijk exact kamertype, ontbijt, behandelingen, belastingen en annulering met de officiële hotelinformatie.", "cta": { "label": "Bekijk actuele hotelprijzen", "href": "https://trip.tpo.lv/TmObooZ5?subid=the-barai-hua-hin-nl", "external": true }, "placement": "na-ligging-en-medische-check", "disclosure": "Affiliate-link: Go2Thailand kan commissie ontvangen na een boeking; jij betaalt daardoor niet meer." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is THE BARAI HUA HIN geopend?", "answer": "Ja. Hyatt kondigde de opening op 18 juni 2026 aan." },
+      { "question": "Is THE BARAI een kliniek?", "answer": "Nee. Het is een wellnesshotel. Behandelingen vervangen geen diagnose of medische zorg." },
+      { "question": "Wat kost een verblijf?", "answer": "Dat wisselt per datum, kamertype en inbegrepen onderdelen. Controleer de live totaalprijs en voorwaarden." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire hotelbronnen", "items": [
+      { "title": "THE BARAI HUA HIN opens", "publisher": "Hyatt Newsroom", "url": "https://newsroom.hyatt.com/2026_06_18_The_Unbound_Collection_By_Hyatt_Welcomes_Its_First_Hotel_In_Thailand", "checkedAt": "2026-08-01", "note": "Opening, kamertal, ligging en hotelconcept." },
+      { "title": "THE BARAI HUA HIN", "publisher": "THE BARAI / Hyatt", "url": "https://www.thebaraihuahin.com/", "checkedAt": "2026-08-01", "note": "Actuele hotel- en programmagegevens; live voorwaarden blijven leidend." }
+    ] }
+  ]
+}

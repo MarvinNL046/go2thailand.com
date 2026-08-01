@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "banthat-thong-road-bangkok-food-street-guide-2026",
+  "route": "/nl/blog/banthat-thong-road-bangkok-food-street-guide-2026/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Banthat Thong Road: eten en route | Go2Thailand",
+    "description": "Plan Banthat Thong Road als compacte foodcrawl: kies een straatdeel, beperk wachtrijen en controleer restauranttijden en betaalmethoden op dezelfde dag.",
+    "primaryKeyword": "Banthat Thong Road eten",
+    "secondaryKeywords": ["Banthat Thong food street", "Banthat Thong hoe kom je er", "food street Bangkok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/banthat-thong-road-bangkok-food-street-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Modern fooddistrict bij Chula",
+    "title": "Banthat Thong Road",
+    "accent": "Kies één straatdeel en drie stops",
+    "description": "Dit is geen nachtmarkt met één ingang. Plan eerst je hoofdgerecht, loop daarna pas voor dessert en voorkom dat één wachtrij je avond overneemt.",
+    "image": "/images/redesign/editorial/banthat-thong-road-bangkok-food-street-guide-2026-hero.webp",
+    "imageAlt": "Restaurants en wachtende bezoekers langs Banthat Thong Road in Bangkok bij het blauwe uur",
+    "primaryCta": { "label": "Kies je aanpak", "href": "#aanpak" },
+    "secondaryCta": { "label": "Routecheck", "href": "#route" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "overview", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Banthat Thong past bij een levendige avond met veel moderne restaurants dicht bij elkaar. Het is minder geschikt als je geen rijen, hitte of drukke stoepen wilt.",
+  "blocks": [
+    { "kind": "comparison", "id": "aanpak", "title": "Welke avond past bij je?", "options": [
+      { "title": "Eén bekende zaak", "description": "Controleer de eigen kanalen en arriveer vroeg; accepteer dat een rij tijd kost.", "label": "Gericht" },
+      { "title": "Kleine foodcrawl", "description": "Plan hoofdgerecht, gedeeld gerecht en dessert binnen één straatdeel.", "label": "Flexibel" },
+      { "title": "Rustige avond", "description": "Kies een andere wijk als drukte en staan je ervaring bepalen.", "label": "Vergelijk" }
+    ] },
+    { "kind": "steps", "id": "route", "title": "Plan in deze volgorde", "steps": [
+      { "title": "1. Zet je eerste adres vast", "description": "De beste railhalte hangt af van het gekozen straatdeel." },
+      { "title": "2. Controleer opening", "description": "Restaurants hebben eigen dagen en tijden; de straat heeft geen uniforme opening." },
+      { "title": "3. Houd betaalopties open", "description": "Neem een kaart en contant geld mee; Thaise QR is niet voor iedere bezoeker beschikbaar." }
+    ] },
+    { "kind": "checklist", "id": "veilig-eten", "title": "Praktische voedselcheck", "items": ["Kies goed doorverhit eten", "Let op schone werkoppervlakken", "Vraag naar allergenen en kruisbesmetting", "Deel porties voordat je meer bestelt", "Geen enkele kraam krijgt een veiligheidsgarantie"] },
+    { "kind": "affiliate", "id": "tour", "provider": "klook", "title": "Vergelijk een begeleide foodtour", "description": "Alleen nuttig als selectie en context belangrijker zijn dan zelfstandig kiezen. Controleer actuele groepsgrootte, gerechten, allergenen en annulering.", "cta": { "label": "Bekijk actuele foodtours", "href": "https://klook.tpo.lv/7Dt6WApj?subid=banthat-thong-nl", "external": true }, "placement": "na-onafhankelijke-routekeuze", "disclosure": "Affiliate-link: Go2Thailand kan commissie ontvangen na een boeking; jij betaalt daardoor niet meer." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Banthat Thong een nachtmarkt?", "answer": "Nee. Het is een lange stadsstraat met afzonderlijke restaurants, winkels en eetconcepten." },
+      { "question": "Welke BTS- of MRT-halte is het beste?", "answer": "Dat hangt af van je eerste restaurant. National Stadium en Sam Yan zijn logische oriëntatiepunten; plan de laatste wandeling op het exacte adres." },
+      { "question": "Moet ik reserveren?", "answer": "Dat verschilt per zaak. Controleer de officiële restaurantkanalen op dezelfde dag; sommige populaire adressen werken met een wachtrij." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire context", "items": [
+      { "title": "Around Chula Campus", "publisher": "Chulalongkorn University", "url": "https://www.chula.ac.th/en/life-at-cu/around-chula/", "checkedAt": "2026-08-01", "note": "Positioneert Banthat Thong als food- en ontmoetingsgebied bij de universiteit." },
+      { "title": "Chula–Banthat Thong–Sam Yan", "publisher": "Chulalongkorn University", "url": "https://www.chula.ac.th/en/highlight/144471/", "checkedAt": "2026-08-01", "note": "Gebiedscontext en restaurantmix; geen actuele individuele openingstijden." },
+      { "title": "Five keys to safer food", "publisher": "World Health Organization", "url": "https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food", "checkedAt": "2026-08-01", "note": "Algemene voedselveiligheidsgrenzen, geen garantie per zaak." }
+    ] }
+  ]
+}

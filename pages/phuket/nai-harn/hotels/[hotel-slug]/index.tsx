@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../../components/SEOHead';
 import Breadcrumbs from '../../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlWestPhuketHotelDetailGuide } from '../../../../../data/hotel-details/nl-west-phuket';
+import type { HotelDetailGuideData } from '../../../../../data/hotel-details/types';
 import { withSubId } from '../../../../../lib/affiliates';
 import { useSubId } from '../../../../../lib/useSubId';
 
@@ -30,12 +33,13 @@ interface HotelData {
 
 interface Props {
   hotel: HotelData;
+  nlGuide: HotelDetailGuideData | null;
   siblings: { slug: string; name: string }[];
   partners: Partners;
   lastUpdated: string;
 }
 
-export default function NaiHarnHotelReviewPage({ hotel, siblings, partners, lastUpdated }: Props) {
+export default function NaiHarnHotelReviewPage({ hotel, nlGuide, siblings, partners, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
@@ -77,6 +81,10 @@ export default function NaiHarnHotelReviewPage({ hotel, siblings, partners, last
 
   const primaryUrl = partners[hotel.primaryPartnerKey]?.partnerUrl || partners.trip_pillar.partnerUrl;
   const secondaryUrl = partners[hotel.secondaryPartnerKey]?.partnerUrl || partners.trip_hotels.partnerUrl;
+
+  if (isNl && nlGuide) {
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={withSubId(primaryUrl, placement('hotel-detail'))} />;
+  }
 
   const faqEn = [
     { q: `Is ${hotel.name} worth it?`, a: hotel.slug === 'the-nai-harn-phuket' ? "Yes — for couples and honeymooners. The cliff-top setting, sea-view-from-every-room, infinity pool over the beach and Cosmo restaurant earn the $300+/night price. Less ideal for families with young kids (cliff terrain) or travellers wanting a low-maintenance flat-floor resort." : "Yes — for families specifically. Three pools, kids\' club, free shuttle to Nai Harn beach, half-board competitive vs Patong upscale resorts. Less ideal for couples wanting beachfront luxury (it's hillside, not on the sand) — choose The Nai Harn for that." },
@@ -124,7 +132,7 @@ export default function NaiHarnHotelReviewPage({ hotel, siblings, partners, last
           </div>
         </section>
 
-        <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10">
           {/* Quick stats */}
           <section className="rounded-2xl bg-white p-6 shadow-sm border border-gray-200">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
@@ -207,7 +215,7 @@ export default function NaiHarnHotelReviewPage({ hotel, siblings, partners, last
               <Link href="/city/phuket/" className="rounded-full bg-white text-gray-900 border border-gray-300 px-5 py-2 text-sm font-semibold hover:bg-gray-50">{isNl ? '📖 Phuket reisgids' : '📖 Phuket travel guide'}</Link>
             </div>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -216,7 +224,9 @@ export default function NaiHarnHotelReviewPage({ hotel, siblings, partners, last
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'areas', 'nai-harn-hotels.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = (data.hotels || []).map((h: any) => ({ params: { 'hotel-slug': h.slug } }));
+  const paths = (data.hotels || []).flatMap((h: any) =>
+    ['en', 'nl'].map(locale => ({ params: { 'hotel-slug': h.slug }, locale })),
+  );
   return { paths, fallback: false };
 };
 
@@ -237,6 +247,7 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   return {
     props: {
       hotel,
+      nlGuide: getNlWestPhuketHotelDetailGuide(slug),
       siblings,
       partners: partnersData.partners,
       lastUpdated: hotelsData.lastUpdated,

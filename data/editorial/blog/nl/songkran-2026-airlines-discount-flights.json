@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "songkran-2026-airlines-discount-flights",
+  "route": "/nl/blog/songkran-2026-airlines-discount-flights/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Songkran-vluchtactie 2026 verlopen | Go2Thailand",
+    "description": "De geselecteerde binnenlandse vluchtactie gold voor 10 tot en met 15 april 2026 en is verlopen. Gebruik de centrale Songkran-gids.",
+    "primaryKeyword": "Songkran vluchtactie 2026 verlopen",
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/songkran-2026-airlines-discount-flights/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Verlopen Songkran-actie",
+    "title": "Vluchtactie 2026 afgelopen",
+    "accent": "Geen actuele korting",
+    "description": "De reisperiode eindigde op 15 april. Gebruik de centrale festivalgids en controleer toekomstige acties opnieuw.",
+    "image": "/images/redesign/editorial/songkran-2026-airlines-discount-flights-hero.webp",
+    "imageAlt": "Koffer met waterdichte hoes en feestdecoratie bij een rustige Thaise luchthavenbalie",
+    "primaryCta": { "label": "Open de Songkran-gids", "href": "/nl/blog/songkran-festival-2026-guide/" },
+    "secondaryCta": { "label": "Waarom verlopen?", "href": "#lifecycle" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-04-10", "endsOn": "2026-04-15", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "De CAAT-afspraken golden voor geselecteerde binnenlandse vluchten van 10 tot en met 15 april 2026. De actie is verlopen en deze pagina is noindex.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "De reisperiode is verstreken", "description": "De korting gold niet voor alle vluchten en was gekoppeld aan geselecteerde capaciteit binnen een vaste periode.", "cta": { "label": "Naar de Songkran-owner", "href": "/nl/blog/songkran-festival-2026-guide/" } },
+    { "kind": "card-grid", "id": "feit", "title": "Wat de bron wel bevestigde", "cards": [
+      { "title": "Binnenlandse selectie", "description": "Zes luchtvaartmaatschappijen namen deel met geselecteerde capaciteit.", "label": "Beperkt aanbod" },
+      { "title": "Tijdelijk venster", "description": "De relevante reisdata liepen van 10 tot en met 15 april 2026.", "label": "Verlopen" },
+      { "title": "Maximumtarief als basis", "description": "De percentages verwezen naar het wettelijke maximumtarief, niet naar ieder eerder zichtbaar ticket.", "label": "Geen universele deal" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire overheidsbron", "items": [
+      { "title": "CAAT coordinates Songkran fare reductions", "publisher": "Thailand.go.th", "url": "https://thailand.go.th/issue-focus-detail/--6--1530--29000-?hl=th", "checkedAt": "2026-08-01", "note": "Bevestigt deelnemende airlines, geselecteerde capaciteit en de periode 10–15 april 2026." }
+    ] }
+  ]
+}

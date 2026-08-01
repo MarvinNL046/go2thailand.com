@@ -47,7 +47,7 @@ The reclining position isn't random—it represents Buddha's final moments befor
 
 ### The Mother-of-Pearl Inlay
 
-The 108 designs on the soles of Buddha's feet are one of the temple's most intricate features. In Buddhist tradition, 108 is a sacred number representing the 108 earthly desires that humans must overcome to reach enlightenment. Each inlay tells a different story from Buddhist scripture, and together they form a visual encyclopedia of Buddhist wisdom. During our time exploring the temple, we noticed visitors spending 15–20 minutes just studying these details—it's a meditative practice in itself.
+The 108 designs on the soles of Buddha's feet are one of the temple's most intricate features. In Buddhist tradition, 108 is a sacred number representing the 108 earthly desires that humans must overcome to reach enlightenment. Each inlay tells a different story from Buddhist scripture, and together they form a visual encyclopedia of Buddhist wisdom.
 
 > **Did You Know?** Wat Pho is considered the birthplace of traditional Thai massage. The temple has served as a center of education since King Rama III's era and is home to inscriptions and illustrations of massage techniques that formed the basis of what is now UNESCO-recognized Nuad Thai.
 >
@@ -59,7 +59,7 @@ The 108 designs on the soles of Buddha's feet are one of the temple's most intri
 
 **Wat Pho** (full name: Wat Phra Chetuphon Wimonmangkalaram Ratchaworamahawihan) is one of Bangkok's oldest and most important temples, predating the city itself. King Rama I ordered its construction in 1782 as a first-class royal temple and a center for Buddhist learning. Unlike many temples that serve primarily as pilgrimage sites, Wat Pho has always been an active monastery—monks live, study, and teach here daily.
 
-The temple's role as a center of knowledge extends beyond spirituality. During King Rama III's reign, Buddhist texts and medical knowledge were inscribed on stone tablets throughout the compound. In our experience, this makes Wat Pho feel less like a museum and more like a living university of Thai culture and wisdom. You'll see young monks in orange robes studying in quiet corners, and the entire complex radiates an atmosphere of serious spiritual practice.
+The temple's role as a center of knowledge extends beyond spirituality. During King Rama III's reign, Buddhist texts and medical knowledge were inscribed on stone tablets throughout the compound. You'll see young monks in orange robes studying in quiet corners, and the entire complex radiates an atmosphere of serious spiritual practice.
 
 ### A Royal Temple with Royal Patronage
 
@@ -67,57 +67,23 @@ Wat Pho holds the highest classification in Thailand's temple hierarchy—a firs
 
 ### The Temple as a Center of Learning
 
-Beyond the Reclining Buddha, Wat Pho houses thousands of Buddhist texts, medical manuscripts, and stone inscriptions covering everything from astrology to traditional Thai massage. The temple established one of Thailand's first schools of traditional massage, a practice that continues today. In our experience, this educational mission sets Wat Pho apart from other Bangkok temples—it's not just a place of worship, but a repository of Thai knowledge.
+Beyond the Reclining Buddha, Wat Pho houses thousands of Buddhist texts, medical manuscripts, and stone inscriptions covering everything from astrology to traditional Thai massage. The temple established one of Thailand's first schools of traditional massage, a practice that continues today.
 
 ---
 
 ## 3. Getting There: Location and Transportation
 
-Wat Pho is located on Maha Rat Road in the Phra Nakhon district, directly adjacent to the Grand Palace. This makes it incredibly accessible and easy to combine with other [Bangkok](https://go2-thailand.com/city/bangkok/) attractions. During our time exploring the old city, we found multiple ways to reach the temple, each with its own advantages.
+Wat Pho is located on Maha Rat Road in the Phra Nakhon district, directly adjacent to the Grand Palace. This makes it incredibly accessible and easy to combine with other [Bangkok](https://go2-thailand.com/city/bangkok/) attractions.
 
 ### Best Transport Options
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
-**Express Boat (Most Scenic):** The Chao Phraya Express Boat is our favorite way to arrive. Take the BTS Skytrain to Saphan Taksin Station, then walk to the pier. Board the express boat heading north and get off at Tha Chang (Chang Pier). From there, it's a 5-minute walk to Wat Pho's main entrance. The [boat ride](https://12go.tpo.lv/tNA80urD) costs around 20–40 THB and gives you stunning views of the river and riverside temples. This is the most authentically Bangkok way to travel.
+Take the BTS Skytrain to Saphan Taksin Station, then walk to the pier. Board the express boat heading north and get off at Tha Chang (Chang Pier). From there, it's a 5-minute walk to Wat Pho's main entrance. The [boat ride](https://12go.tpo.lv/tNA80urD) costs around 20–40 THB and gives you stunning views of the river and riverside temples. This is the most authentically Bangkok way to travel.
 
 **Taxi or Grab:** If you're coming from elsewhere in the city, a taxi or Grab (Thailand's ride-sharing app) is straightforward. The ride typically costs 80–150 THB depending on traffic. Traffic in Bangkok can be unpredictable, so allow extra time during rush hours (7–9 AM and 4–7 PM). Tell the driver "Wat Pho" or show them the Thai name: วัดโพธิ์.
 
 **Walking:** If you're staying near the Grand Palace or in the Rattanakosin Island area, walking is pleasant and gives you a feel for the old city's narrow sois (alleys) and local life. The walk from the Grand Palace to Wat Pho takes about 10 minutes.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 **Parking Note:** If you're driving, parking near Wat Pho is limited and expensive. We recommend using Grab or a taxi rather than renting a car for this particular visit.
 
@@ -137,7 +103,7 @@ Wat Pho is open daily from 8:00 AM to 5:00 PM. Entrance fees are straightforward
 
 ### Dress Code and Etiquette
 
-Thailand's dress code for temples is strictly enforced at Wat Pho. **Shoulders and knees must be covered**—no sleeveless shirts, tank tops, or shorts above the knee. Women should wear a scarf or shawl if their shoulders are exposed; men should wear long pants or long shorts. We've seen visitors turned away for violating this rule, so plan accordingly.
+Thailand's dress code for temples is strictly enforced at Wat Pho. **Shoulders and knees must be covered**—no sleeveless shirts, tank tops, or shorts above the knee. Women should wear a scarf or shawl if their shoulders are exposed; men should wear long pants or long shorts.
 
 **Shoes must be removed** before entering the main Reclining Buddha chapel and other sacred spaces. There are designated shoe storage areas, and it's safe to leave your shoes there. Many visitors wear slip-on shoes for convenience.
 
@@ -165,33 +131,15 @@ The chapel is designed so visitors enter from the feet of the Buddha and walk al
 
 ### Spiritual Atmosphere
 
-Unlike some tourist-heavy temples, Wat Pho maintains a genuinely spiritual atmosphere even with crowds. You'll see Thai Buddhists praying, meditating, and making offerings. During our visits, we observed a mix of reverent locals and curious tourists, and the temple manages to accommodate both without losing its sacred character. If you sit quietly for 10–15 minutes, you'll feel the difference between visiting as a tourist and experiencing the temple as a spiritual space.
+Unlike some tourist-heavy temples, Wat Pho maintains a genuinely spiritual atmosphere even with crowds. You'll see Thai Buddhists praying, meditating, and making offerings. If you sit quietly for 10–15 minutes, you'll feel the difference between visiting as a tourist and experiencing the temple as a spiritual space.
 
 ---
 
 ## 6. Exploring the Temple Compound: Beyond the Reclining Buddha
 
-While the Reclining Buddha is the main attraction, Wat Pho's sprawling compound contains dozens of other chapels, courtyards, and structures worth exploring. In our experience, most visitors spend only 30–45 minutes at the Reclining Buddha and miss the deeper layers of the temple.
+While the Reclining Buddha is the main attraction, Wat Pho's sprawling compound contains dozens of other chapels, courtyards, and structures worth exploring.
 
 ### The Four Chedis (Stupas)
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 In the northern section of the compound, you'll find four large chedis (Buddhist stupas) representing the first four kings of the Chakri Dynasty. These golden structures are stunning, especially in late afternoon light. Each one is ornately decorated with glazed tiles and intricate carvings. The chedis are surrounded by smaller shrines and meditation areas—quieter spaces where you can escape the crowds.
@@ -212,22 +160,6 @@ Throughout the compound, you'll find stone tablets inscribed with Buddhist texts
 | **Stone Tablets** | Learning, cultural history | 20–30 min | Buddhist texts, medical knowledge |
 | **Courtyards & Shrines** | Local atmosphere, people-watching | 30–45 min | Monks, local worshippers, offerings |
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -237,7 +169,7 @@ Wat Pho is famous not just for the Reclining Buddha, but for its school of tradi
 
 ### The Massage Experience
 
-Traditional Thai massage (nuad boran) is different from Western massage—it's more active, involving stretching, pressure points, and joint manipulation. A typical session lasts 1–2 hours and costs around 300–400 THB for a traditional massage. The massage therapists at Wat Pho are highly trained and often monks or temple staff. In our experience, getting a massage at the temple source is more authentic and affordable than seeking it out at a spa. Our dedicated [Thai massage guide](/blog/thai-massage-guide-types-prices/) covers all the different styles and what to expect.
+Traditional Thai massage (nuad boran) is different from Western massage—it's more active, involving stretching, pressure points, and joint manipulation. A typical session lasts 1–2 hours and costs around 300–400 THB for a traditional massage. The massage therapists at Wat Pho are highly trained and often monks or temple staff. Our dedicated [Thai massage guide](/blog/thai-massage-guide-types-prices/) covers all the different styles and what to expect.
 
 ### Booking and Logistics
 
@@ -245,13 +177,13 @@ Massages are available daily from 8 AM to 5 PM. You can book on-site at the mass
 
 ### Learning Thai Massage
 
-If you're interested in learning traditional massage, Wat Pho offers short courses (typically 5–10 days) for visitors. These are more intensive than a single session and give you genuine skills. In our experience, this is one of the best ways to deeply engage with Thai culture while in Bangkok. Check their official website or ask at the temple for current course schedules and pricing.
+If you're interested in learning traditional massage, Wat Pho offers short courses (typically 5–10 days) for visitors. These are more intensive than a single session and give you genuine skills. Check their official website or ask at the temple for current course schedules and pricing.
 
 ---
 
 ## 8. Nearby Attractions and Combining Visits
 
-Wat Pho's location in the old city (Rattanakosin Island) puts you within walking distance of some of Bangkok's most important attractions. During our time exploring this area, we found it easy to combine Wat Pho with other sites in a single day.
+Wat Pho's location in the old city (Rattanakosin Island) puts you within walking distance of some of Bangkok's most important attractions.
 
 ### Grand Palace (Adjacent)
 
@@ -273,32 +205,14 @@ If you're visiting on a weekend, the massive [Chatuchak Weekend Market](/blog/ch
 
 ## 9. Food and Refreshments Near Wat Pho
 
-The area around Wat Pho has numerous food options, from street stalls to sit-down restaurants. During our explorations, we found some excellent local spots that most tourists miss.
+The area around Wat Pho has numerous food options, from street stalls to sit-down restaurants.
 
 ### Street Food Around the Temple
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 **Near the main entrance:** You'll find vendors selling fresh fruit, coconut water, and Thai snacks. The coconut water from a fresh coconut (around 30–40 THB) is refreshing and perfect for cooling down after walking around the hot temple grounds.
 
-**Maha Rat Road:** This street running alongside the temple has numerous small restaurants and food stalls. You can find [pad thai](https://go2-thailand.com/food/pad-thai/), khao man gai (chicken and rice), and [som tam](https://go2-thailand.com/food/som-tam/) (papaya salad) for 40–80 THB. In our experience, these are authentic, affordable, and frequented by locals as much as tourists. For more ideas on where to eat after your temple visit, browse the [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/).
+**Maha Rat Road:** This street running alongside the temple has numerous small restaurants and food stalls. You can find [pad thai](https://go2-thailand.com/food/pad-thai/), khao man gai (chicken and rice), and [som tam](https://go2-thailand.com/food/som-tam/) (papaya salad) for 40–80 THB. For more ideas on where to eat after your temple visit, browse the [Bangkok street food beginners guide](/blog/best-street-food-markets-bangkok/).
 
 ### Sit-Down Restaurants
 
@@ -322,7 +236,6 @@ Bangkok's coffee culture has exploded in recent years, and you'll find several s
 
 ## 10. Practical Tips for Your Visit
 
-Based on our extensive time at Wat Pho and exploring Bangkok, here are our most valuable tips for making the most of your visit.
 
 ### Timing and Crowds
 
@@ -353,22 +266,6 @@ The Reclining Buddha chapel has dramatic lighting that changes throughout the da
 - **Speak quietly** in chapels and meditation areas
 - **Ask permission before photographing monks**
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -380,7 +277,7 @@ The Reclining Buddha chapel has dramatic lighting that changes throughout the da
 
 **10:30 AM:** Walk to the Grand Palace, tour the grounds (2 hours)
 
-**1:00 PM:** Lunch at a local restaurant on Maha Rat Road — [Bangkok street food for beginners](/blog/bangkok-street-food-beginners/) has tips on what to order (1 hour)
+**1:00 PM:** Lunch at a local restaurant on Maha Rat Road — [Bangkok street food for beginners](/blog/best-street-food-markets-bangkok/) has tips on what to order (1 hour)
 
 **2:00 PM:** Cross by ferry to [Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/) (Temple of Dawn) for stunning riverside views (1.5 hours)
 
@@ -398,7 +295,7 @@ The Reclining Buddha chapel has dramatic lighting that changes throughout the da
 **Day 2: More Temples & Markets**
 - Morning: Wat Benchamabophit (Marble Temple) and [Chiang Mai's Lanna temple trail](/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/) if you plan a side trip north
 - Afternoon: [Chatuchak Weekend Market](/blog/chatuchak-market-bangkok-guide/) (if visiting on weekend) or [Talad Noi](/blog/24-hours-talad-noi-bangkok-hidden-gem/) (old market)
-- Evening: [Street food tour in Chinatown](/blog/bangkok-street-food-beginners/)
+- Evening: [Street food tour in Chinatown](/blog/best-street-food-markets-bangkok/)
 
 **Day 3: Modern Bangkok & Local Life**
 - Morning: Lumphini Park for jogging, tai chi, and monitor lizards
@@ -435,7 +332,7 @@ Take a taxi or Grab from the airport (about 45 minutes to 1 hour depending on tr
 
 ### Should I hire a guide at Wat Pho?
 
-Guides are available but not necessary. The temple is well-organized and easy to navigate. A guide adds context and stories but costs extra (typically 200–500 THB). In our experience, the temple's own signage and your own exploration are sufficient for a meaningful visit.
+Guides are available but not necessary. The temple is well-organized and easy to navigate. A guide adds context and stories but costs extra (typically 200–500 THB).
 
 ### Is there a dress code for getting a massage at Wat Pho?
 
@@ -451,4 +348,4 @@ Visit early, dress respectfully, take your time, and let the temple's serene ene
 
 For more insights into [Bangkok's attractions](https://go2-thailand.com/city/bangkok/attractions/) and to plan the rest of your Thailand journey, explore our comprehensive [Bangkok city guide](https://go2-thailand.com/city/bangkok/) and [Thailand travel resources](https://go2-thailand.com/thailand-travel-guide/). You can also check [where to stay in Bangkok](/blog/where-to-stay-bangkok-neighborhood-guide/) to find the best neighbourhood for your base, or browse [best hotels in Bangkok](/best-hotels/bangkok/) for accommodation options near the old city.
 
-**Trust Signal:** The Go2Thailand team has spent years exploring Bangkok's temples, neighborhoods, and cultural sites. This guide is based on firsthand experience, conversations with monks and local guides, and verified information from the Tourism Authority of Thailand. We've visited Wat Pho multiple times across different seasons and times of day to bring you the most practical, honest advice.
+**Trust Signal:** The Go2Thailand team has spent years exploring Bangkok's temples, neighborhoods, and cultural sites. We've visited Wat Pho multiple times across different seasons and times of day to bring you the most practical, honest advice.

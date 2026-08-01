@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-itinerary-2-weeks",
+  "route": "/nl/blog/thailand-itinerary-2-weeks/",
+  "cluster": "planning",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Thailand reisroute 2 weken: ontspannen rondreis | Go2Thailand", "description": "Plan twee weken Thailand met Bangkok, Chiang Mai en één zuidelijke kustbasis, inclusief rustdagen en buffers.", "primaryKeyword": "Thailand reisroute 2 weken", "secondaryKeywords": ["14 dagen Thailand", "rondreis Thailand 2 weken", "Bangkok Chiang Mai strand route"], "searchIntent": "informational", "canonicalPath": "/nl/blog/thailand-itinerary-2-weeks/" },
+  "hero": { "eyebrow": "Drie bases, één rustig ritme", "title": "Thailand in twee weken", "accent": "Van stad naar noorden en kust", "description": "Een haalbare eerste rondreis met ruimte om aan te komen, te ontdekken en zonder haast terug te reizen.", "image": "/images/redesign/editorial/thailand-itinerary-2-weeks-hero.webp", "imageAlt": "Collage van Bangkok, Chiang Mai en een rustige Thaise kust als reisroute", "primaryCta": { "label": "Bekijk de route", "href": "#route" }, "secondaryCta": { "label": "Boekingsvolgorde", "href": "#boeken" } },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Verdeel twee weken over Bangkok, Chiang Mai en één zuidelijke kustbasis. Blijf meerdere nachten per plek en houd vóór je internationale vlucht een ruime buffer.",
+  "blocks": [
+    { "kind": "steps", "id": "route", "title": "Een ontspannen route in vier delen", "steps": [{ "title": "Dagen 1–3: Bangkok", "description": "Kom rustig aan en verdeel de stad per buurt." }, { "title": "Dagen 4–7: Chiang Mai", "description": "Combineer oude stad, cultuur, natuur en een vrije ochtend." }, { "title": "Dagen 8–13: één kust", "description": "Kies Krabi, Phuket of de Golf op basis van seizoen en reisstijl." }, { "title": "Dag 14: vertrekbuffer", "description": "Zorg dat je tijdig in de juiste vertrekregio bent." }] },
+    { "kind": "comparison", "id": "kustkeuze", "title": "Welke kustbasis kies je?", "options": [{ "title": "Krabi", "description": "Compact rond Ao Nang, met kalksteenlandschap en dagtochten.", "label": "Landschap" }, { "title": "Phuket", "description": "Meer stranden, wijken, voorzieningen en vervoerskeuzes.", "label": "Veel keuze" }, { "title": "Golfkust", "description": "Een alternatief wanneer seizoen en verbindingen beter passen.", "label": "Ander weerpatroon" }] },
+    { "kind": "checklist", "id": "boeken", "title": "Leg dit in de juiste volgorde vast", "items": ["Internationale reis en eerste accommodatie", "Tijdkritische binnenlandse verbinding", "Laatste nacht in de vertrekregio", "Alleen beperkt beschikbare activiteiten", "Weersgevoelige excursies met wijzigingsvoorwaarden"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Zijn drie regio's te veel voor twee weken?", "answer": "Niet wanneer je bij drie duidelijke bases blijft en losse tussenstops vermijdt." }, { "question": "Moet ik Phuket en Krabi combineren?", "answer": "Nee. Eén kustbasis geeft meer rust en voldoende mogelijkheden voor dagtochten." }, { "question": "Kan ik de route omdraaien?", "answer": "Ja. Laat verbindingen, regionaal weer en je vertrekairport de volgorde bepalen." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële planbronnen", "items": [{ "title": "Trip Planner", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner", "checkedAt": "2026-08-01" }, { "title": "Bangkok destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/bangkok/219", "checkedAt": "2026-08-01" }, { "title": "Chiang Mai destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang%20Mai/101", "checkedAt": "2026-08-01" }] }
+  ]
+}

@@ -1,10 +1,11 @@
 import { GetStaticProps } from 'next';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
-import { useState } from 'react';
+import Image from 'next/image';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
+import ThailandRegionsDirectoryNl from '../../components/regions/ThailandRegionsDirectoryNl';
 
 interface Region {
   id: number;
@@ -30,6 +31,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+  if (isNl) return <ThailandRegionsDirectoryNl regions={regions} />;
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, 'region', placement);
 
@@ -38,13 +40,45 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
     { name: isNl ? "Regio's" : 'Regions', href: '/region/' }
   ];
 
+  const pageUrl = 'https://go2-thailand.com/region/';
+  const jsonLd = [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Thailand regions travel guide',
+      description: 'Compare Thailand regions by landscape, route logic and the destinations that fit each trip.',
+      url: pageUrl,
+      inLanguage: 'en-GB',
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      numberOfItems: regions.length,
+      itemListElement: regions.map((region, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: region.name.en,
+        url: `${pageUrl}${region.slug}/`,
+      })),
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: breadcrumbs.map((crumb, index) => ({
+        '@type': 'ListItem', position: index + 1, name: crumb.name,
+        item: `https://go2-thailand.com${crumb.href}`,
+      })),
+    },
+  ];
+
   return (
     <>
       <SEOHead
-        title={isNl ? "Thailand Regio's - Complete Reisgids | Go2Thailand" : "Thailand Regions - Complete Travel Guide | Go2Thailand"}
-        description={isNl ? "Ontdek de drie belangrijkste regio's van Thailand: Noord-, Centraal- en Zuid-Thailand. Ontdek unieke attracties, klimaat, cultuur en reistips voor elke regio." : "Explore Thailand's three main regions: Northern, Central, and Southern Thailand. Discover unique attractions, climate, culture, and travel tips for each region."}
+        title={isNl ? "Thailand Regio's - Complete Reisgids | Go2Thailand" : "Thailand Regions: Compare North, Central, Isaan & South"}
+        description={isNl ? "Ontdek de drie belangrijkste regio's van Thailand: Noord-, Centraal- en Zuid-Thailand. Ontdek unieke attracties, klimaat, cultuur en reistips voor elke regio." : "Compare Northern, Central, Isaan and Southern Thailand by landscape, route logic and key destinations, then choose the region that fits your trip."}
       >
         <meta name="keywords" content="Thailand regions, Northern Thailand, Central Thailand, Southern Thailand, Thailand travel guide, Thai regions" />
+        {jsonLd.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
@@ -71,17 +105,20 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
         <section className="section-padding">
           <div className="container-custom">
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-              {regions.map((region, index) => (
+              {regions.map((region) => (
                 <div key={region.id} className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                   {/* Region Image */}
                   <div className="aspect-w-16 aspect-h-9 bg-gray-200">
-                    <img
+                    <Image
                       src={region.image}
                       alt={region.name.en}
-                      className="w-full h-64 object-cover"
+                      width={640}
+                      height={360}
+                      sizes="(min-width: 1024px) 33vw, 100vw"
+                      className="h-64 w-full object-cover"
                     />
                   </div>
-                  
+
                   {/* Region Content */}
                   <div className="p-6">
                     <h2 className="text-2xl font-bold text-gray-900 mb-3">
@@ -242,7 +279,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
               <a
                 href={trackAffiliate(TRIP_GENERIC, 'index-hotels')}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow sponsored"
                 className="flex items-center justify-center px-6 py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl text-center"
               >
                 <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -264,7 +301,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
               <a
                 href={trackAffiliate(TWELVEGO_GENERIC, 'index-transport')}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow sponsored"
                 className="flex items-center justify-center px-6 py-4 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors shadow-lg hover:shadow-xl text-center"
               >
                 <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -395,7 +432,7 @@ export const getStaticProps: GetStaticProps = async () => {
   // Read regions index file directly
   const regionsIndexPath = path.join(process.cwd(), 'data', 'regions', 'index.json');
   const regions = JSON.parse(fs.readFileSync(regionsIndexPath, 'utf8'));
-  
+
   return {
     props: {
       regions,

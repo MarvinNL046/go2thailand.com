@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-07-30T15:57:11.599Z",
+  "locale": "nl",
+  "market": {
+    "language_code": "nl",
+    "location_name": "Netherlands"
+  },
+  "target": "https://go2-thailand.com/nl/city/lopburi/",
+  "cost": 0.01224,
+  "rankings": [
+    {
+      "keyword": "lop buri thailand",
+      "position": 69,
+      "volume": 90,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/nl/city/lopburi/"
+    },
+    {
+      "keyword": "lopburi thailand",
+      "position": 64,
+      "volume": 90,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/nl/city/lopburi/"
+    }
+  ]
+}

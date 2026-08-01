@@ -1,0 +1,648 @@
+{
+  "captured_at": "2026-07-28T04:59:53.496Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "seed": "thai glass noodle salad",
+  "costs": {
+    "suggestions": 0.01536,
+    "related": 0.01284,
+    "competitors": 0.018
+  },
+  "competitorKeywords": [
+    "thai glass noodle salad",
+    "glass noodle salad thai",
+    "glass noodle salad recipe thai",
+    "glass noodle salad thai recipe",
+    "thai glass noodle salad recipe",
+    "thai glass noodle salad with prawns",
+    "authentic thai glass noodle salad",
+    "authentic thai glass noodle salad recipe",
+    "hot thai kitchen glass noodle salad",
+    "thai beef glass noodle salad",
+    "thai chicken glass noodle salad",
+    "thai glass noodle prawn salad",
+    "thai glass noodle salad calories",
+    "thai glass noodle salad chicken",
+    "thai glass noodle salad dressing",
+    "thai glass noodle salad vegetarian",
+    "thai glass noodle salad with pork",
+    "thai pork glass noodle salad",
+    "thai prawn glass noodle salad recipe"
+  ],
+  "keywords": [
+    {
+      "keyword": "glass noodle salad thai",
+      "volume": 170,
+      "kd": 1,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad",
+      "volume": 170,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "glass noodle salad recipe thai",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "glass noodle salad thai recipe",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad recipe",
+      "volume": 20,
+      "kd": 40,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad with prawns",
+      "volume": 20,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "authentic thai glass noodle salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "authentic thai glass noodle salad recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "commercial",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "hot thai kitchen glass noodle salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai beef glass noodle salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai chicken glass noodle salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle prawn salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad calories",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad chicken",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad dressing",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad vegetarian",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad with pork",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai pork glass noodle salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai prawn glass noodle salad recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai spicy glass noodle salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai style glass noodle salad",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "vegetarian thai glass noodle salad recipe",
+      "volume": 10,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion",
+        "related"
+      ]
+    },
+    {
+      "keyword": "thai spicy glass noodle salad recipe",
+      "volume": 0,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "glass noodle salad & thai",
+      "volume": null,
+      "kd": 8,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "glass noodle salad thai near me",
+      "volume": null,
+      "kd": null,
+      "intent": "transactional",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "resepi thai glass noodle salad",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad with beef",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    },
+    {
+      "keyword": "thai glass noodle salad with peanuts",
+      "volume": null,
+      "kd": null,
+      "intent": "informational",
+      "source": [
+        "suggestion"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "hot-thai-kitchen.com",
+      "avgPosition": 1,
+      "keywordCount": 2,
+      "visibility": 2,
+      "estimatedTraffic": 103.36
+    },
+    {
+      "domain": "rosasthai.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 38.742999999999995
+    },
+    {
+      "domain": "www.marionskitchen.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 33.082
+    },
+    {
+      "domain": "www.recipetineats.com",
+      "avgPosition": 3,
+      "keywordCount": 2,
+      "visibility": 1.6,
+      "estimatedTraffic": 38.742999999999995
+    },
+    {
+      "domain": "ironchefshellie.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 13.719
+    },
+    {
+      "domain": "www.seriouseats.com",
+      "avgPosition": 5.5,
+      "keywordCount": 2,
+      "visibility": 1.1,
+      "estimatedTraffic": 13.719
+    },
+    {
+      "domain": "cinnamonandcoriander.com",
+      "avgPosition": 7.5,
+      "keywordCount": 2,
+      "visibility": 0.7,
+      "estimatedTraffic": 7.7010000000000005
+    },
+    {
+      "domain": "www.simplysuwanee.com",
+      "avgPosition": 11,
+      "keywordCount": 2,
+      "visibility": 0.35,
+      "estimatedTraffic": 4.301
+    },
+    {
+      "domain": "www.epicurious.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.822
+    },
+    {
+      "domain": "nomadette.com",
+      "avgPosition": 11.5,
+      "keywordCount": 2,
+      "visibility": 0.25,
+      "estimatedTraffic": 3.502
+    },
+    {
+      "domain": "pupswithchopsticks.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 2.2779999999999996
+    },
+    {
+      "domain": "www.aline-made.com",
+      "avgPosition": 12.5,
+      "keywordCount": 2,
+      "visibility": 0.15000000000000002,
+      "estimatedTraffic": 2.788
+    },
+    {
+      "domain": "www.youtube.com",
+      "avgPosition": 14,
+      "keywordCount": 2,
+      "visibility": 0.4,
+      "estimatedTraffic": 4.743
+    },
+    {
+      "domain": "www.elmundoeats.com",
+      "avgPosition": 15.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.5639999999999998
+    },
+    {
+      "domain": "www.foodiebaker.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.2,
+      "estimatedTraffic": 2.907
+    },
+    {
+      "domain": "www.foodfaithfitness.com",
+      "avgPosition": 17.5,
+      "keywordCount": 2,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.19
+    },
+    {
+      "domain": "redhousespice.com",
+      "avgPosition": 19.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.105
+    },
+    {
+      "domain": "www.beyondkimchee.com",
+      "avgPosition": 20,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.2240000000000002
+    },
+    {
+      "domain": "www.facebook.com",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.833
+    },
+    {
+      "domain": "talardthai.com",
+      "avgPosition": 20.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.9179999999999999
+    },
+    {
+      "domain": "elavegan.com",
+      "avgPosition": 22,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 1.9040000000000001
+    },
+    {
+      "domain": "thai-foodie.com",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.748
+    },
+    {
+      "domain": "thaicaliente.com",
+      "avgPosition": 24.5,
+      "keywordCount": 2,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.7649999999999999
+    },
+    {
+      "domain": "www.yak-thai.de",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.kikkoman.co.uk",
+      "avgPosition": 29,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "rachelcooksthai.com",
+      "avgPosition": 32,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "chawjcreations.com",
+      "avgPosition": 34.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "cookingforpeanuts.com",
+      "avgPosition": 35,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "se.pinterest.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "inquiringchef.com",
+      "avgPosition": 37,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "eddyskitchen.wordpress.com",
+      "avgPosition": 40.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "cicili.tv",
+      "avgPosition": 42.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "mayakitchenette.com",
+      "avgPosition": 43.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.mythaicooking.com",
+      "avgPosition": 44,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "cookpad.com",
+      "avgPosition": 45.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.unileverfoodsolutions.co.th",
+      "avgPosition": 46,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "daigasikfaan.co",
+      "avgPosition": 46.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.taste.com.au",
+      "avgPosition": 51.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "thesidesmith.com",
+      "avgPosition": 52.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "www.seasaltwithfood.com",
+      "avgPosition": 54,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "healthylittlevittles.com",
+      "avgPosition": 10,
+      "keywordCount": 1,
+      "visibility": 0.1,
+      "estimatedTraffic": 1.9209999999999998
+    },
+    {
+      "domain": "www.recipelion.com",
+      "avgPosition": 55.5,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "cooking.umamidays.com",
+      "avgPosition": 16,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.731
+    },
+    {
+      "domain": "www.venturists.net",
+      "avgPosition": 20,
+      "keywordCount": 1,
+      "visibility": 0.05,
+      "estimatedTraffic": 0.408
+    },
+    {
+      "domain": "www.authenticworldfood.com",
+      "avgPosition": 23,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "cuisineatlas.com",
+      "avgPosition": 63,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "feedthepudge.com",
+      "avgPosition": 32,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "thaifoodrecipemenu.blogspot.com",
+      "avgPosition": 67,
+      "keywordCount": 2,
+      "visibility": 0,
+      "estimatedTraffic": 0.714
+    },
+    {
+      "domain": "hungryinthailand.com",
+      "avgPosition": 43,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    },
+    {
+      "domain": "www.bbcgoodfood.com",
+      "avgPosition": 47,
+      "keywordCount": 1,
+      "visibility": 0,
+      "estimatedTraffic": 0.357
+    }
+  ]
+}

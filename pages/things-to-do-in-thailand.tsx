@@ -6,11 +6,16 @@ import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/things-to-do-in-thailand';
+import ThailandThingsToDoGuideNl from '../components/editorial/ThailandThingsToDoGuideNl';
+import { StaticTravelGuideOwnerEn } from '../components/travel/StaticTravelGuideOwnerEn';
 
 export default function ThingsToDoPage() {
   const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+
+  if (isNl) return <ThailandThingsToDoGuideNl />;
+  return <StaticTravelGuideOwnerEn owner="things" />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -345,7 +350,7 @@ export default function ThingsToDoPage() {
                       <p><strong>Tip:</strong> {t("s043_rent_a_scooter_and")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s044_explore_our_koh_lanta")}</Link>
+                      <Link href="/islands/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s044_explore_our_koh_lanta")}</Link>
                     </p>
                   </div>
                 </div>
@@ -366,7 +371,7 @@ export default function ThingsToDoPage() {
                       <p><strong>Tip:</strong> {t("s049_book_your_course_on")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">{t("s050_explore_koh_tao")}</Link>
+                      <Link href="/islands/koh-tao/" className="text-thailand-blue hover:underline font-semibold">{t("s050_explore_koh_tao")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
                       <Link href="/best-diving-snorkeling-in-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s051_best_diving_amp_snorkeling")}</Link>
                     </p>
@@ -389,7 +394,7 @@ export default function ThingsToDoPage() {
                       <p><strong>Tip:</strong> {t("s055_wear_shoes_you_can")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s056_explore_our_koh_phangan")}</Link>
+                      <Link href="/islands/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s056_explore_our_koh_phangan")}</Link>
                     </p>
                   </div>
                 </div>
@@ -446,7 +451,7 @@ export default function ThingsToDoPage() {
                       <p><strong>Tip:</strong> {t("s066_follow_the_crowds_busy")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">{t("s067_bangkok_street_food_for")}</Link>
+                      <Link href="/blog/best-street-food-markets-bangkok/" className="text-thailand-blue hover:underline font-semibold">{t("s067_bangkok_street_food_for")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
                       <Link href="/blog/bangkok-lumpini-hawker-centre-street-food-2026/" className="text-thailand-blue hover:underline font-semibold">{t("s068_lumpini_hawker_centre_guide")}</Link>
                     </p>
@@ -489,7 +494,7 @@ export default function ThingsToDoPage() {
                       <p><strong>Tip:</strong> {t("s073_order_the_quot_superb")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/blog/pad-thai-street-food-vs-restaurant-homemade/" className="text-thailand-blue hover:underline font-semibold">{t("s074_pad_thai_street_food")}</Link>
+                      <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">{t("s074_pad_thai_street_food")}</Link>
                     </p>
                   </div>
                 </div>
@@ -751,7 +756,7 @@ export default function ThingsToDoPage() {
                       )}
                       {item.question === 'What is the best time to visit Thailand?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/thailand-index/best-time/" className="text-thailand-blue hover:underline font-semibold">{t("s121_full_month_by_month")}</Link>
+                          <Link href={isNl ? '/weather/' : '/thailand-index/best-time/'} className="text-thailand-blue hover:underline font-semibold">{t("s121_full_month_by_month")}</Link>
                         </p>
                       )}
                       {item.question === 'Do you need a visa for Thailand?' && (
@@ -766,7 +771,7 @@ export default function ThingsToDoPage() {
                       )}
                       {item.question === 'How much does Thailand cost per day?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">{t("s124_thailand_budget_breakdown_2026")}</Link>
+                          <Link href="/thailand-index/budget/" className="text-thailand-blue hover:underline font-semibold">{t("s124_thailand_budget_breakdown_2026")}</Link>
                         </p>
                       )}
                     </div>

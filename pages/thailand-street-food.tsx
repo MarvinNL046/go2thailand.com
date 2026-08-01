@@ -1,4 +1,6 @@
 import { GetStaticProps } from 'next';
+import { existsSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
@@ -7,6 +9,7 @@ import TripcomWidget from '../components/TripcomWidget';
 import { useState } from 'react';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/thailand-street-food';
+import ThailandStreetFoodGuideEn from '../components/food/ThailandStreetFoodGuideEn';
 
 interface DishData {
   rank: number;
@@ -138,6 +141,8 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
   const isNl = locale === 'nl';
   const [typeFilter, setTypeFilter] = useState<TypeFilter>('all');
   const [spiceFilter, setSpiceFilter] = useState<SpiceFilter>('all');
+
+  if (!isNl) return <ThailandStreetFoodGuideEn />;
 
   const breadcrumbItems = [
     { name: 'Home', href: '/' },
@@ -560,7 +565,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                             <a
                               href="https://klook.tpo.lv/7Dt6WApj?subid=street-food"
                               target="_blank"
-                              rel="noopener noreferrer nofollow"
+                              rel="noopener noreferrer nofollow sponsored"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                             >
                               {isNl ? 'Kooklessen' : 'Cooking Classes'}
@@ -568,7 +573,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                             <a
                               href="https://getyourguide.tpo.lv/GuAFfGGK?subid=street-food"
                               target="_blank"
-                              rel="noopener noreferrer nofollow"
+                              rel="noopener noreferrer nofollow sponsored"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                             >
                               {isNl ? 'Food Tours' : 'Food Tours'}
@@ -576,7 +581,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                             <a
                               href="https://booking.tpo.lv/2PT1kR82?subid=street-food"
                               target="_blank"
-                              rel="noopener noreferrer nofollow"
+                              rel="noopener noreferrer nofollow sponsored"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                             >
                               {isNl ? 'Hotels bij Markten' : 'Hotels near Markets'}
@@ -718,7 +723,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 <a
                   href="https://klook.tpo.lv/7Dt6WApj?subid=street-food"
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
                 >
                   <span>&#127859; Klook Cooking Classes</span>
@@ -729,7 +734,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 <a
                   href="https://getyourguide.tpo.lv/GuAFfGGK?subid=street-food"
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
                 >
                   <span>&#127774; GetYourGuide Food Tours</span>
@@ -740,7 +745,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 <a
                   href="https://booking.tpo.lv/2PT1kR82?subid=street-food"
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
                 >
                   <span>&#127968; Booking.com</span>
@@ -751,7 +756,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 <a
                   href="https://saily.tpo.lv/rf9lidnE?subid=street-food"
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
                 >
                   <span>&#128242; Saily eSIM for Thailand</span>
@@ -792,7 +797,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
               </Link>
 
               <Link
-                href="/city/bangkok/top-10-restaurants/"
+                href={isNl ? '/city/bangkok/food/' : '/city/bangkok/top-10-restaurants/'}
                 className="group block bg-white rounded-2xl p-6 border-0 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all"
               >
                 <div className="text-3xl mb-3">&#127869;</div>
@@ -831,15 +836,13 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
 }
 
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
-  const fs = require('fs');
-  const path = require('path');
   const lang = locale || 'en';
 
-  const localePath = path.join(process.cwd(), 'data', `street-food.${lang}.json`);
-  const defaultPath = path.join(process.cwd(), 'data', 'street-food.json');
-  const dataPath = lang !== 'en' && fs.existsSync(localePath) ? localePath : defaultPath;
+  const localePath = join(process.cwd(), 'data', `street-food.${lang}.json`);
+  const defaultPath = join(process.cwd(), 'data', 'street-food.json');
+  const dataPath = lang !== 'en' && existsSync(localePath) ? localePath : defaultPath;
 
-  const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+  const data = JSON.parse(readFileSync(dataPath, 'utf8'));
   return {
     props: { data },
     revalidate: 604800

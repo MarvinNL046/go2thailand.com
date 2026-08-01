@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "culture"
 tags: ["Visakha Bucha", "Buddhist holidays Thailand", "Thailand temples", "Thai culture", "May 2026 Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/visakha-bucha-day-2026-thailand-guide-hero.webp"
 description: "Visakha Bucha Day falls on May 31, 2026 — Thailand's most sacred Buddhist holiday. Here is what happens, where to go, and how visitors can respectfully join in."
 featured: false
 readingTime: 3

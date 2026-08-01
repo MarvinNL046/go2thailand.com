@@ -346,7 +346,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                     <h3 className="font-semibold text-gray-900 mb-1">{t("s008_food_dining")}</h3>
                     <p className="text-sm text-gray-600">{t("s009_pair_a_class_with")}</p>
                   </Link>
-                  <Link href={`/city/${city.slug}/hotels/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                  <Link href={`/best-hotels/${city.slug}/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
                     <h3 className="font-semibold text-gray-900 mb-1">Hotels</h3>
                     <p className="text-sm text-gray-600">{t("s010_choose_a_base_that")}</p>
                   </Link>
@@ -452,7 +452,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                     <p className="text-gray-600 text-sm">{t("s016_local_cuisine_guide")}</p>
                   </div>
                 </Link>
-                <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
+                <Link href={`/best-hotels/${city.slug}/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Hotels</h4>
                     <p className="text-gray-600 text-sm">{t("s017_where_to_stay")}</p>

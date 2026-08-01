@@ -34,7 +34,7 @@ The easiest route for most visitors is buying a prepaid tourist SIM at the airpo
 
 **AIS** is Thailand's largest mobile network operator and has the widest coverage across the country. If you plan to explore rural areas or [islands](/blog/thailand-island-hopping-guide/) beyond Bangkok, AIS is the safest choice. True and DTAC merged operations in early 2024, so their combined network is also strong in urban areas.
 
-Typical tourist SIM packages cost between 300 and 600 baht (roughly 9 to 18 USD) for 7 to 15 days with 15 to 50 GB of data, plus a local Thai phone number for calls and SMS. See our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) for how this fits into overall travel costs.
+Typical tourist SIM packages cost between 300 and 600 baht (roughly 9 to 18 USD) for 7 to 15 days with 15 to 50 GB of data, plus a local Thai phone number for calls and SMS. See our [Thailand budget guide](/thailand-index/budget/) for how this fits into overall travel costs.
 
 ## Option 2: eSIM — Install Before You Fly
 
@@ -59,9 +59,9 @@ Most eSIM packages cost between 15 and 30 USD for 7 to 15 days with 3 to 10 GB. 
 
 ## Quick Tips
 
-- **Passport required.** You need to show your passport when buying a physical SIM at the airport — this is a Thai government regulation. Check [Thailand visa requirements](/blog/thailand-visa-guide-2026/) if you are unsure about entry conditions.
+- **Passport required.** You need to show your passport when buying a physical SIM at the airport — this is a Thai government regulation. Check [Thailand visa requirements](/visa/) if you are unsure about entry conditions.
 - **Top up easily.** Both physical SIMs and eSIMs can be topped up via convenience stores (7-Eleven, FamilyMart) or through the carrier's app.
 - **Check 5G compatibility.** If your phone supports 5G, make sure you select a 5G-enabled plan to take advantage of Thailand's fast network in major cities. Getting around [Bangkok by BTS and MRT](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) is much easier with a working data connection.
 - **Free airport Wi-Fi.** Suvarnabhumi and Don Mueang airports offer free Wi-Fi, so you can download an eSIM app on arrival if you forgot to do it beforehand.
 - **Travel insurance.** Consider adding [Thailand travel insurance](/blog/travel-insurance-thailand-guide/) to your pre-trip checklist alongside your SIM setup.
-- **Digital arrival card.** Thailand requires tourists to fill in a [digital arrival card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) — having mobile data from the moment you land makes this much easier.
+- **Digital arrival card.** Thailand requires tourists to fill in a [digital arrival card (TDAC)](/visa/digital-arrival-card/) — having mobile data from the moment you land makes this much easier.

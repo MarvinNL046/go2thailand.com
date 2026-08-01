@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "chiang-mai-street-art-walking-guide-old-city-nimman-2026",
+  "route": "/nl/blog/chiang-mai-street-art-walking-guide-old-city-nimman-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Street art in Chiang Mai: flexibele wandelgids | Go2Thailand",
+    "description": "Ontdek street art in Chiang Mai per buurt: Oude Stad, Wualai en Nimman. Een flexibele route die rekening houdt met veranderende muren.",
+    "primaryKeyword": "street art Chiang Mai",
+    "secondaryKeywords": ["Chiang Mai street art route", "straatkunst Chiang Mai", "wandelen Nimman Chiang Mai"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/chiang-mai-street-art-walking-guide-old-city-nimman-2026/"
+  },
+  "hero": {
+    "eyebrow": "Een galerie die blijft veranderen",
+    "title": "Street art in Chiang Mai",
+    "accent": "Loop per buurt, niet per vaste muur",
+    "description": "Muurschilderingen verdwijnen en nieuwe werken komen erbij. Gebruik drie buurten als kapstok en laat ruimte voor toevallige vondsten.",
+    "image": "/images/redesign/editorial/chiang-mai-street-art-walking-guide-old-city-nimman-2026-hero.webp",
+    "imageAlt": "Reiziger bekijkt een eigentijdse muurschildering in een groene straat van Chiang Mai",
+    "primaryCta": { "label": "Kies je buurt", "href": "#buurten" },
+    "secondaryCta": { "label": "Volg de wandelregels", "href": "#kijkregels" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Verken Chiang Mai per buurt: begin rond Tha Phae en de oostelijke Oude Stad, kijk daarna in Wualai en plan Nimman als aparte zone. Zoek geen onveranderlijke lijst met muren; street art is tijdelijk en routes raken snel verouderd.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "buurten",
+      "eyebrow": "Drie verschillende lagen",
+      "title": "Kies je wandeling",
+      "cards": [
+        { "title": "Oude Stad en Tha Phae", "description": "Combineer kleine lanen, stadsmuur en creatieve gevels. Goed als eerste, compacte verkenning.", "href": "/nl/city/chiang-mai/" },
+        { "title": "Wualai", "description": "Kijk rond de ambachtsbuurt en zijstraten; plan dit slim rond de Saturday Walking Street zonder doorgangen te blokkeren." },
+        { "title": "Nimman", "description": "Een modernere mix van illustratie, design, winkels en cafés. Niet logisch als aaneengesloten voetroute vanaf elke plek in de Oude Stad." }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "route",
+      "title": "Zo blijft de route actueel",
+      "steps": [
+        { "title": "Start met een buurt", "description": "Kies één compacte zone in plaats van een lijst losse pins door de hele stad." },
+        { "title": "Controleer recente beelden", "description": "Gebruik actuele kaartfoto’s of lokale kunstagenda’s als aanwijzing, niet als garantie." },
+        { "title": "Volg de zijstraten", "description": "Veel werk zit niet aan de hoofdweg. Blijf wel op openbaar terrein." },
+        { "title": "Noteer wat verdwenen is", "description": "Een overschilderde muur is geen mislukte route; de tijdelijke aard hoort bij de kunstvorm." }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "kijkregels",
+      "title": "Kijk en fotografeer zorgvuldig",
+      "items": ["Betreed geen privéterrein voor een betere hoek", "Blokkeer geen winkelingang of smalle stoep", "Vraag toestemming als iemand herkenbaar in beeld komt", "Raak werk niet aan en voeg niets toe", "Vermijd locatieclaims als een werk niet meer bestaat", "Steun een lokale galerie of maker als je meer wilt zien"]
+    },
+    {
+      "kind": "callout",
+      "id": "auteurschap",
+      "tone": "cream",
+      "title": "Schrijf een maker niet zomaar toe",
+      "description": "Stijlen kunnen op elkaar lijken en een werk kan een samenwerking zijn. Noem een kunstenaar alleen wanneer de signatuur of een betrouwbare bron de toeschrijving ondersteunt."
+    },
+    {
+      "kind": "related",
+      "id": "culturele-route",
+      "title": "Meer cultuur op looptempo",
+      "items": [
+        { "title": "Lanna-tempelroute", "description": "Combineer historische architectuur met een rustige stadswandeling.", "href": "/nl/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/" },
+        { "title": "Chiang Mai", "description": "Plan wijken, markten en je verblijfsduur.", "href": "/nl/city/chiang-mai/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Waar vind ik de meeste street art in Chiang Mai?", "answer": "De Oude Stad en omgeving, Wualai en Nimman zijn bruikbare zoekzones. De exacte werken veranderen voortdurend." },
+        { "question": "Kan ik alles in één wandeling zien?", "answer": "Niet praktisch. Loop de Oude Stad en Wualai als compacte zones en behandel Nimman als een aparte buurt." },
+        { "question": "Is de street-artwandeling gratis?", "answer": "Kijken vanaf openbaar terrein is doorgaans gratis. Houd wel rekening met vervoer, consumpties en eventuele galerie-entree."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bestemmings- en routebronnen",
+      "items": [
+        { "title": "Chiang Mai destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101", "checkedAt": "2026-08-01", "note": "Officiële context voor de Oude Stad, wandelstraten, kunst en Nimman." },
+        { "title": "Street Art Chiang Mai maps and details", "publisher": "Chang Puak Magazine", "url": "https://changpuakmagazine.com/en-article/MAPS-AND-DETAILS/33259/", "checkedAt": "2026-08-01", "note": "Gebruik als historische route-aanwijzing; individuele werken kunnen verdwenen zijn." }
+      ]
+    }
+  ]
+}

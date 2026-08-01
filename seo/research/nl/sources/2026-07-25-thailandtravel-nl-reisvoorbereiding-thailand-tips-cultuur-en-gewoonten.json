@@ -1,0 +1,912 @@
+{
+  "captured_at": "2026-07-25T22:42:23.264Z",
+  "locale": "nl",
+  "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/cultuur-en-gewoonten/",
+  "cost": 0.00015,
+  "status_code": 200,
+  "page_content": {
+    "header": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Sri Lanka",
+          "url": "http://srilankatravel.nl/",
+          "urls": [
+            {
+              "url": "http://srilankatravel.nl/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Tours & excursies",
+          "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+              "anchor_text": "Tours & excursies"
+            }
+          ]
+        },
+        {
+          "text": "Reizen op maat",
+          "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+              "anchor_text": "Reizen op maat"
+            }
+          ]
+        },
+        {
+          "text": "Favorieten 0",
+          "url": "https://thailandtravel.nl/mijn-reisplan/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/mijn-reisplan/",
+              "anchor_text": "Favorieten0"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Alle Thailand rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/",
+              "anchor_text": "Alle Thailand rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Familie rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/gezinsreis/",
+              "anchor_text": "Familie rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Huwelijks rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/huwelijksreis/",
+              "anchor_text": "Huwelijks rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Luxe rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/luxe/",
+              "anchor_text": "Luxe rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Avontuurlijke rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/avontuur/",
+              "anchor_text": "Avontuurlijke rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Natuur rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/natuur/",
+              "anchor_text": "Natuur rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "Culturele rondreizen",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/cultuur/",
+              "anchor_text": "Culturele rondreizen"
+            }
+          ]
+        },
+        {
+          "text": "3 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-3-weken/",
+              "anchor_text": "3 weken"
+            }
+          ]
+        },
+        {
+          "text": "2 weken",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-2-weken/",
+              "anchor_text": "2 weken"
+            }
+          ]
+        },
+        {
+          "text": "1 week",
+          "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/rondreizen-thailand-individuele-rondreis/thailand-rondreizen-1-week/",
+              "anchor_text": "1 week"
+            }
+          ]
+        },
+        {
+          "text": "Tours & excursies",
+          "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+              "anchor_text": "Tours & excursies"
+            }
+          ]
+        },
+        {
+          "text": "Reizen op maat",
+          "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+              "anchor_text": "Reizen op maat"
+            }
+          ]
+        },
+        {
+          "text": "Favorieten 0",
+          "url": "https://thailandtravel.nl/mijn-reisplan/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/mijn-reisplan/",
+              "anchor_text": "Favorieten0"
+            }
+          ]
+        },
+        {
+          "text": "Whatsapp: +31 (0)10 21 31 444",
+          "url": "https://wa.me/31102131444",
+          "urls": [
+            {
+              "url": "https://wa.me/31102131444",
+              "anchor_text": "Whatsapp:\n+31 (0)10 21 31 444"
+            }
+          ]
+        },
+        {
+          "text": "Overige bestemmingen",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Sri Lanka",
+          "url": "http://srilankatravel.nl/",
+          "urls": [
+            {
+              "url": "http://srilankatravel.nl/",
+              "anchor_text": "Sri Lanka"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "footer": {
+      "primary_content": null,
+      "secondary_content": [
+        {
+          "text": "Bali & Indonesië",
+          "url": "https://balitravel.nl/",
+          "urls": [
+            {
+              "url": "https://balitravel.nl/",
+              "anchor_text": "Bali & Indonesië"
+            }
+          ]
+        },
+        {
+          "text": "Sri Lanka & Malediven",
+          "url": "https://srilankatravel.nl/",
+          "urls": [
+            {
+              "url": "https://srilankatravel.nl/",
+              "anchor_text": "Sri Lanka & Malediven"
+            }
+          ]
+        },
+        {
+          "text": "Tours & excursies",
+          "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/tours-excursies-thailand/",
+              "anchor_text": "Tours & excursies"
+            }
+          ]
+        },
+        {
+          "text": "Reizen op maat",
+          "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/reizen-op-maat-thailand-zelf-samenstellen/",
+              "anchor_text": "Reizen op maat"
+            }
+          ]
+        },
+        {
+          "text": "Over Thailand Travel",
+          "url": "https://thailandtravel.nl/over-ons/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/over-ons/",
+              "anchor_text": "Over Thailand Travel"
+            }
+          ]
+        },
+        {
+          "text": "Ervaringen Thailand Travel",
+          "url": "https://thailandtravel.nl/ervaringen-thailand-travel/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/ervaringen-thailand-travel/",
+              "anchor_text": "Ervaringen Thailand Travel"
+            }
+          ]
+        },
+        {
+          "text": "Veelgestelde vragen",
+          "url": "https://thailandtravel.nl/veelgestelde-vragen/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/veelgestelde-vragen/",
+              "anchor_text": "Veelgestelde vragen"
+            }
+          ]
+        },
+        {
+          "text": "© 2026 Thailand Travel",
+          "url": null,
+          "urls": null
+        },
+        {
+          "text": "Privacy policy",
+          "url": "https://thailandtravel.nl/privacy-policy/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/privacy-policy/",
+              "anchor_text": "Privacy policy"
+            }
+          ]
+        },
+        {
+          "text": "Copyright & disclaimer",
+          "url": "https://thailandtravel.nl/copyright-disclaimer/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/copyright-disclaimer/",
+              "anchor_text": "Copyright & disclaimer"
+            }
+          ]
+        },
+        {
+          "text": "Algemene voorwaarden",
+          "url": "https://thailandtravel.nl/algemene-voorwaarden/",
+          "urls": [
+            {
+              "url": "https://thailandtravel.nl/algemene-voorwaarden/",
+              "anchor_text": "Algemene voorwaarden"
+            }
+          ]
+        }
+      ],
+      "table_content": null
+    },
+    "main_topic": [
+      {
+        "h_title": "Cultuur en gewoonten in Thailand",
+        "main_title": "Cultuur en gewoonten",
+        "author": null,
+        "language": null,
+        "level": 1,
+        "primary_content": [
+          {
+            "text": "Thailand staat bekend om zijn rijke cultuur en gastvrije bevolking. Als bezoeker is het belangrijk om enkele gebruiken en tradities te begrijpen, zodat u zich respectvol en moeiteloos kunt aanpassen. Hier leest u alles wat u moet weten over de Thaise cultuur en gewoonten.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Respect en omgangsvormen",
+        "main_title": "Cultuur en gewoonten",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Respect is een fundamenteel onderdeel van de Thaise samenleving. Een van de belangrijkste uitingen hiervan is de traditionele wai, een begroeting waarbij de handen tegen elkaar worden geplaatst en een lichte buiging wordt gemaakt. Hoe hoger de handen worden gehouden, hoe meer respect u toont. Ook hoofd en voeten spelen een belangrijke rol in het respectvol omgaan met anderen: het hoofd wordt als heilig beschouwd en mag niet aangeraakt worden, terwijl voeten als onrein worden gezien en niet naar mensen of heilige objecten mogen wijzen.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Kledingvoorschriften en tempelbezoek",
+        "main_title": "Cultuur en gewoonten",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Bij het bezoeken van tempels en religieuze locaties gelden strikte kledingvoorschriften. Dit betekent:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Geen korte broeken of blote schouders",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bij sommige tempels, zoals de Wat Phra Kaew in Bangkok, wordt zelfs verwacht dat benen en armen grotendeels bedekt zijn",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Schoenen moeten altijd uit bij het betreden van een tempelgebouw",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bij twijfel kunt u vooraf informeren welke kleding gepast is of een sarong meenemen voor extra bedekking.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Eten en tafelmanieren",
+        "main_title": "Cultuur en gewoonten",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "De Thaise keuken is wereldberoemd, en eten speelt een grote sociale rol. Er zijn een paar gewoonten die handig zijn om te kennen:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Bestek: Thai eten voornamelijk met een lepel en vork, waarbij de vork wordt gebruikt om eten op de lepel te schuiven",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Delen: Gerechten worden meestal gedeeld, dus bestel verschillende gerechten en eet samen",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Gebruik geen stokjes voor rijstgerechten, deze worden alleen bij noedelgerechten gebruikt",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Fooien en afdingen",
+        "main_title": "Cultuur en gewoonten",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "In Thailand is het geven van fooien niet verplicht, maar het wordt wel gewaardeerd. Goede richtlijnen zijn:",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "In restaurants: 10% als er geen servicekosten zijn berekend",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Kamermeisjes en bagagedragers: 20-50 baht",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Taxi’s: afronden naar boven",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Afdingen is gebruikelijk op markten en in kleine winkels, vooral in toeristische gebieden. Begin vriendelijk en lachend met een tegenbod en houd het spel ontspannen. In winkelcentra en warenhuizen geldt de vraagprijs meestal als vast.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Boeddhisme en heilige objecten",
+        "main_title": "Cultuur en gewoonten",
+        "author": null,
+        "language": null,
+        "level": 2,
+        "primary_content": [
+          {
+            "text": "Boeddhisme speelt een centrale rol in het dagelijks leven. Behandel Boeddhabeelden met respect en raak ze niet aan. Ook monniken worden met veel eerbied benaderd. Vrouwen mogen een monnik niet aanraken of iets direct aan hem geven; dit moet via een man of op een doek worden neergelegd.",
+            "url": null,
+            "urls": null
+          },
+          {
+            "text": "Door deze gewoonten en gebruiken te respecteren, draagt u bij aan een prettige reiservaring en toont u respect voor de Thaise cultuur.",
+            "url": null,
+            "urls": null
+          }
+        ],
+        "secondary_content": null,
+        "table_content": null
+      }
+    ],
+    "secondary_topic": [
+      {
+        "h_title": "Cultuur en gewoonten",
+        "main_title": "Cultuur en gewoonten",
+        "author": null,
+        "language": null,
+        "level": 1,
+        "primary_content": null,
+        "secondary_content": null,
+        "table_content": null
+      },
+      {
+        "h_title": "Reisvoorbereiding",
+        "main_title": "Cultuur en gewoonten",
+        "author": null,
+        "language": null,
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Reisadvies Thailand",
+            "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/reisadvies-thailand/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/reisadvies-thailand/",
+                "anchor_text": "Reisadvies Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Beste reistijd Thailand",
+            "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/beste-reistijd-thailand/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/beste-reistijd-thailand/",
+                "anchor_text": "Beste reistijd Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Reserveren bij Thailand Travel",
+            "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/reserveren-bij-thailand-travel/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/reserveren-bij-thailand-travel/",
+                "anchor_text": "Reserveren bij Thailand Travel"
+              }
+            ]
+          },
+          {
+            "text": "Reisdocumenten en visum",
+            "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/reisdocumenten-en-visum/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/reisdocumenten-en-visum/",
+                "anchor_text": "Reisdocumenten en visum"
+              }
+            ]
+          },
+          {
+            "text": "Geneesmiddelen en vaccinaties",
+            "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/geneesmiddelen-en-vaccinaties/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/geneesmiddelen-en-vaccinaties/",
+                "anchor_text": "Geneesmiddelen en vaccinaties"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      },
+      {
+        "h_title": "Tijdens uw verblijf",
+        "main_title": "Cultuur en gewoonten",
+        "author": null,
+        "language": null,
+        "level": 3,
+        "primary_content": null,
+        "secondary_content": [
+          {
+            "text": "Aankomst en verblijf in Thailand",
+            "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/aankomst-en-verblijf-in-thailand/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/aankomst-en-verblijf-in-thailand/",
+                "anchor_text": "Aankomst en verblijf in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Cultuur en gewoonten",
+            "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/cultuur-en-gewoonten/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/cultuur-en-gewoonten/",
+                "anchor_text": "Cultuur en gewoonten"
+              }
+            ]
+          },
+          {
+            "text": "Geldzaken, telefoon, internet",
+            "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/geldzaken-telefoneren-internet/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/geldzaken-telefoneren-internet/",
+                "anchor_text": "Geldzaken, telefoon, internet"
+              }
+            ]
+          },
+          {
+            "text": "Vervoer in Thailand",
+            "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/vervoer-in-thailand/",
+            "urls": [
+              {
+                "url": "https://thailandtravel.nl/reisvoorbereiding-thailand-tips/vervoer-in-thailand/",
+                "anchor_text": "Vervoer in Thailand"
+              }
+            ]
+          }
+        ],
+        "table_content": null
+      }
+    ],
+    "ratings": null,
+    "offers": null,
+    "comments": null,
+    "contacts": {
+      "telephones": [
+        "+31102131444"
+      ],
+      "emails": null
+    }
+  }
+}

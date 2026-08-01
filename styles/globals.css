@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700&family=Inter:wght@300;400;500;600;700&family=Kalam:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700&family=Inter:wght@300;400;500;600;700&family=Kalam:wght@400;700&family=Manrope:wght@400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -14,6 +14,19 @@
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+.newsletter-botanical-background {
+  background-image: url('/images/redesign/newsletter-botanical-bg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 125% 100%;
+}
+
+.footer-contour-pattern {
+  background-image:
+    repeating-radial-gradient(ellipse at 4% 120%, transparent 0 24px, rgb(255 255 255 / 0.022) 25px 26px, transparent 27px 49px),
+    repeating-radial-gradient(ellipse at 92% -30%, transparent 0 31px, rgb(242 154 56 / 0.025) 32px 33px, transparent 34px 61px);
 }
 
 @keyframes slideInUp {
@@ -305,7 +318,7 @@ button[class*="save"] {
 
 @layer base {
   html {
-    font-family: 'Inter', system-ui, sans-serif;
+    font-family: 'Manrope', 'Inter', system-ui, sans-serif;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -313,7 +326,7 @@ button[class*="save"] {
   }
 
   body {
-    @apply bg-surface-cream text-gray-700;
+    @apply bg-ivory text-charcoal;
   }
 
   html {
@@ -338,6 +351,85 @@ button[class*="save"] {
   .btn-primary {
     @apply bg-thailand-red text-white px-6 py-3 rounded-xl font-medium hover:bg-thailand-red-600 transition-all duration-300 shadow-md hover:shadow-lg inline-flex items-center gap-2;
   }
+
+  .btn-jade {
+    @apply inline-flex items-center gap-2 rounded-xl bg-jade px-6 py-3.5 text-sm font-bold text-white shadow-lg transition hover:-translate-y-0.5 hover:bg-jade-light hover:shadow-xl;
+  }
+
+  .btn-jade-pattern {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+    background-color: #06362f;
+    background-image:
+      repeating-radial-gradient(ellipse at 12% 120%, transparent 0 9px, rgb(255 255 255 / 0.055) 10px 11px, transparent 12px 20px),
+      repeating-radial-gradient(ellipse at 84% -20%, transparent 0 11px, rgb(242 154 56 / 0.07) 12px 13px, transparent 14px 24px);
+  }
+
+  .btn-jade-pattern:hover {
+    background-color: #0b463b;
+  }
+
+  .btn-cream {
+    @apply inline-flex items-center gap-2 rounded-xl border border-jade/15 bg-white/90 px-6 py-3.5 text-sm font-bold text-jade shadow-sm backdrop-blur transition hover:-translate-y-0.5 hover:border-saffron hover:text-saffron-dark;
+  }
+
+  .section-redesign {
+    @apply py-16 lg:py-24;
+  }
+
+  .eyebrow {
+    @apply mb-3 text-xs font-bold uppercase tracking-[0.22em] text-saffron-dark;
+  }
+
+  .heading-redesign {
+    @apply font-display text-4xl font-semibold leading-[0.98] text-jade sm:text-5xl lg:text-6xl;
+  }
+
+  .traveller-avatar {
+    display: block;
+    width: 34px;
+    height: 34px;
+    flex: 0 0 34px;
+    border: 2px solid white;
+    border-radius: 9999px;
+    background-image: url('/images/redesign/traveller-avatar-sprite.webp');
+    background-repeat: no-repeat;
+    background-size: 500% 100%;
+    box-shadow: 0 2px 8px rgb(18 63 54 / 0.12);
+  }
+
+  .traveller-avatar:nth-child(1) { background-position: 0% center; }
+  .traveller-avatar:nth-child(2) { background-position: 25% center; }
+  .traveller-avatar:nth-child(3) { background-position: 50% center; }
+  .traveller-avatar:nth-child(4) { background-position: 75% center; }
+  .traveller-avatar:nth-child(5) { background-position: 100% center; }
+
+  .destination-story-section {
+    background-color: #fcfaf6;
+    background-image:
+      radial-gradient(circle at 82% 18%, rgb(242 154 56 / 0.025), transparent 30%),
+      linear-gradient(90deg, transparent 0%, transparent 30%, rgb(18 63 54 / 0.018) 100%);
+  }
+
+  .section-divider-top,
+  .section-divider-bottom {
+    position: relative;
+  }
+
+  .section-divider-top::before,
+  .section-divider-bottom::after {
+    position: absolute;
+    left: 50%;
+    width: 80%;
+    height: 1px;
+    content: '';
+    background: rgb(18 63 54 / 0.1);
+    transform: translateX(-50%);
+  }
+
+  .section-divider-top::before { top: 0; }
+  .section-divider-bottom::after { bottom: 0; }
 
   .btn-secondary {
     @apply border-2 border-thailand-blue text-thailand-blue px-6 py-3 rounded-xl font-medium hover:bg-thailand-blue hover:text-white transition-all duration-300 inline-flex items-center gap-2;
@@ -376,5 +468,217 @@ button[class*="save"] {
 
   .scrollbar-hide::-webkit-scrollbar {
     display: none;
+  }
+}
+
+/* Krabi destination long-form redesign. Kept scoped so the other city pages
+   continue using their existing presentation until their own redesign pass. */
+.krabi-longform {
+  color: #293531;
+}
+
+.krabi-longform .krabi-main > div:not(.hidden) {
+  margin: 0 !important;
+  padding: 4rem 0;
+  border-bottom: 1px solid rgb(18 63 54 / 0.1);
+}
+
+.krabi-longform .krabi-main > div > div:first-child {
+  margin-bottom: 1.5rem;
+}
+
+.krabi-longform .krabi-main h2,
+.krabi-longform .krabi-main h3,
+.krabi-longform .krabi-main .font-heading {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  color: #123f36 !important;
+}
+
+.krabi-longform .krabi-main h2 {
+  margin-top: 0.4rem !important;
+  font-size: clamp(2.55rem, 4vw, 3.35rem) !important;
+  font-weight: 600 !important;
+  line-height: 0.98 !important;
+  letter-spacing: -0.035em;
+}
+
+.krabi-longform .krabi-main h3 {
+  font-weight: 600 !important;
+  line-height: 1.08 !important;
+}
+
+.krabi-longform .krabi-main p,
+.krabi-longform .krabi-main li {
+  color: rgb(41 53 49 / 0.78) !important;
+}
+
+.krabi-longform .krabi-main > div > div:first-child > span,
+.krabi-longform .krabi-main > div > span:first-child {
+  border: 0 !important;
+  background: transparent !important;
+  padding: 0 !important;
+  color: #d77b1f !important;
+  font-size: 0.65rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.22em !important;
+}
+
+.krabi-longform .krabi-main [class*='rounded-['],
+.krabi-longform .krabi-main [class*='rounded-2xl'] {
+  border-radius: 0.75rem !important;
+}
+
+.krabi-longform .krabi-main [class*='shadow-['] {
+  box-shadow: 0 6px 22px rgb(18 63 54 / 0.045) !important;
+}
+
+.krabi-longform .krabi-main [class*='border-gray'],
+.krabi-longform .krabi-main [class*='border-slate'],
+.krabi-longform .krabi-main [class*='border-amber'],
+.krabi-longform .krabi-main [class*='border-emerald'] {
+  border-color: rgb(18 63 54 / 0.1) !important;
+}
+
+.krabi-longform .krabi-main [class*='bg-slate-50'],
+.krabi-longform .krabi-main [class*='bg-gray-'],
+.krabi-longform .krabi-main [class*='bg-amber-50'],
+.krabi-longform .krabi-main [class*='bg-emerald-50'],
+.krabi-longform .krabi-main [class*='from-amber-50'] {
+  background: #faf7f0 !important;
+}
+
+.krabi-longform .krabi-main [class*='bg-gradient-to-r'] {
+  height: 2px !important;
+  background: #f29a38 !important;
+}
+
+.krabi-longform .krabi-main .bg-thailand-red,
+.krabi-longform .krabi-main .bg-thailand-blue,
+.krabi-longform .krabi-main .bg-emerald-500,
+.krabi-longform .krabi-main .bg-emerald-600,
+.krabi-longform .krabi-main .bg-amber-500,
+.krabi-longform .krabi-main .bg-violet-500 {
+  background-color: #123f36 !important;
+}
+
+.krabi-longform .krabi-main .text-thailand-red,
+.krabi-longform .krabi-main .text-thailand-blue,
+.krabi-longform .krabi-main .text-emerald-700,
+.krabi-longform .krabi-main .text-violet-700,
+.krabi-longform .krabi-main .text-amber-700 {
+  color: #123f36 !important;
+}
+
+.krabi-longform .krabi-main a:hover {
+  color: #d77b1f !important;
+}
+
+.krabi-longform .krabi-main button {
+  min-height: 2.6rem;
+  border: 1px solid rgb(18 63 54 / 0.14);
+  border-radius: 0.55rem !important;
+  background: #fff;
+  padding: 0.55rem 1rem;
+  color: #123f36 !important;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.krabi-longform .krabi-main button:hover {
+  border-color: rgb(242 154 56 / 0.55);
+  background: #fffaf3;
+}
+
+.krabi-longform .krabi-supporting-sidebar {
+  padding: 4rem 0;
+  border-bottom: 1px solid rgb(18 63 54 / 0.1);
+}
+
+.krabi-longform .krabi-supporting-sidebar > div {
+  position: static !important;
+  top: auto !important;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.krabi-longform .krabi-supporting-sidebar > div > div {
+  height: 100%;
+  margin: 0 !important;
+}
+
+.krabi-longform .krabi-supporting-sidebar h3,
+.krabi-longform .krabi-supporting-sidebar h4 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  color: #123f36;
+  font-weight: 600;
+}
+
+.krabi-longform .krabi-supporting-sidebar [class*='bg-blue'],
+.krabi-longform .krabi-supporting-sidebar [class*='bg-amber'],
+.krabi-longform .krabi-supporting-sidebar [class*='bg-thailand'] {
+  background-color: #123f36 !important;
+}
+
+.krabi-feedback [class*='rounded'],
+.krabi-feedback [class*='border'] {
+  border-color: rgb(18 63 54 / 0.1) !important;
+  border-radius: 0.75rem !important;
+}
+
+.krabi-feedback [class*='shadow'] {
+  box-shadow: 0 6px 22px rgb(18 63 54 / 0.045) !important;
+}
+
+.krabi-feedback h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  color: #123f36;
+  font-size: 1.8rem;
+}
+
+.krabi-related h2 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  color: #123f36 !important;
+  font-size: clamp(2.5rem, 4vw, 3.3rem) !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.035em;
+}
+
+.krabi-related [class*='rounded-2xl'] {
+  border: 1px solid rgb(18 63 54 / 0.1);
+  border-radius: 0.75rem !important;
+  box-shadow: 0 6px 22px rgb(18 63 54 / 0.045) !important;
+}
+
+.krabi-related h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  color: #123f36 !important;
+  font-weight: 600 !important;
+}
+
+@media (max-width: 1023px) {
+  .krabi-longform .krabi-supporting-sidebar > div {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 639px) {
+  .krabi-longform .krabi-main > div:not(.hidden) {
+    padding: 3rem 0;
+  }
+
+  .krabi-longform .krabi-main h2 {
+    font-size: 2.5rem !important;
+  }
+
+  .krabi-longform .krabi-main [class*='grid-cols-2'],
+  .krabi-longform .krabi-main [class*='grid-cols-3'],
+  .krabi-longform .krabi-main [class*='grid-cols-4'],
+  .krabi-longform .krabi-main [class*='grid-cols-5'] {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+
+  .krabi-longform .krabi-supporting-sidebar > div {
+    grid-template-columns: minmax(0, 1fr);
   }
 }

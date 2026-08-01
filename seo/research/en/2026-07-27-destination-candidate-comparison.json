@@ -1,0 +1,95 @@
+{
+  "captured_at": "2026-07-27T20:13:39.893Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "cost": 0.01308,
+  "requested_keywords": [
+    "thailand travel cost",
+    "thailand travel budget",
+    "how much money for thailand",
+    "thailand daily budget",
+    "cost of 2 weeks in thailand",
+    "thailand backpacking budget",
+    "how much spending money for thailand",
+    "thailand trip cost",
+    "is thailand expensive",
+    "thailand budget per day"
+  ],
+  "rows": [
+    {
+      "keyword": "is thailand expensive",
+      "volume": 390,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "how much spending money for thailand",
+      "volume": 260,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "thailand travel cost",
+      "volume": 110,
+      "difficulty": 1,
+      "intent": "informational",
+      "competition": "MEDIUM",
+      "cpc": 1.54
+    },
+    {
+      "keyword": "thailand trip cost",
+      "volume": 110,
+      "difficulty": 6,
+      "intent": "informational",
+      "competition": "MEDIUM",
+      "cpc": 1.54
+    },
+    {
+      "keyword": "cost of 2 weeks in thailand",
+      "volume": 70,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "MEDIUM",
+      "cpc": 1.27
+    },
+    {
+      "keyword": "thailand backpacking budget",
+      "volume": 30,
+      "difficulty": 0,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": 1.31
+    },
+    {
+      "keyword": "thailand budget per day",
+      "volume": 20,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    },
+    {
+      "keyword": "thailand travel budget",
+      "volume": 20,
+      "difficulty": 17,
+      "intent": "commercial",
+      "competition": "MEDIUM",
+      "cpc": 2.2
+    },
+    {
+      "keyword": "how much money for thailand",
+      "volume": 10,
+      "difficulty": null,
+      "intent": "informational",
+      "competition": "LOW",
+      "cpc": null
+    }
+  ]
+}

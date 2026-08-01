@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "khao-yai-food-wine-festival-2026-vineyard-day-trip",
+  "route": "/nl/blog/khao-yai-food-wine-festival-2026-vineyard-day-trip/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Khao Yai Food & Wine Festival 2026: archief | Go2Thailand",
+    "description": "Het Khao Yai Food & Wine Festival liep van 16 tot en met 18 januari 2026. Bekijk bevestigde editiegegevens en plan een wijngaard apart.",
+    "primaryKeyword": "Khao Yai Food Wine Festival 2026",
+    "secondaryKeywords": ["Khao Yai wijnfestival", "Korat GI festival", "Midwinter Khao Yai event"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/khao-yai-food-wine-festival-2026-vineyard-day-trip/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Eventarchief",
+    "title": "Khao Yai Food & Wine Festival 2026",
+    "accent": "De editie is afgelopen",
+    "description": "Het evenement vond van 16 tot en met 18 januari 2026 plaats bij Midwinter Khao Yai. Een wijngaardbezoek blijft mogelijk, maar vraagt een afzonderlijke actuele reservering.",
+    "image": "/images/redesign/editorial/khao-yai-food-wine-festival-2026-vineyard-day-trip-hero.webp",
+    "imageAlt": "Lange tafel met lokale gerechten en wijn naast een wijngaard in Khao Yai",
+    "primaryCta": { "label": "Bekijk de editie", "href": "#editie" },
+    "secondaryCta": { "label": "Plan Khao Yai", "href": "/nl/city/nakhon-ratchasima/" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-01-16", "endsOn": "2026-01-18", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Het Khao Yai Food & Wine Festival 2026 is afgelopen. De Thaise overheidsbron bevestigt 16–18 januari bij Midwinter Khao Yai; gebruik die data niet voor een volgende editie of voor reguliere wijngaardopeningstijden.",
+  "blocks": [
+    { "kind": "callout", "id": "editie", "tone": "warning", "title": "Festival en wijngaarddag zijn twee verschillende intents", "description": "De oude tekst mengde een verstreken evenement met permanent bezoekadvies. Deze pagina archiveert het festival; actuele rondleidingen en proeverijen moeten rechtstreeks bij een wijngaard worden bevestigd." },
+    { "kind": "card-grid", "id": "bevestigd", "title": "Wat voor deze editie bevestigd was", "cards": [
+      { "title": "16–18 januari 2026", "description": "De drie festivaldagen zijn door Thailand PRD gepubliceerd.", "label": "Afgelopen" },
+      { "title": "Midwinter Khao Yai", "description": "Dit was de bevestigde evenementenlocatie in Pak Chong.", "label": "Venue" },
+      { "title": "Korat GI, eten en wijn", "description": "Het programma koppelde regionale producten aan eten, wijn en koel winterweer.", "label": "Thema" }
+    ] },
+    { "kind": "checklist", "id": "wijngaarddag", "title": "Controleer voor een losse wijngaarddag", "items": ["Is de wijngaard op jouw datum open?", "Moet je een rondleiding of proeverij reserveren?", "Wie rijdt er nuchter terug?", "Zijn kinderen welkom bij de gekozen activiteit?", "Welke taal en inhoud heeft de rondleiding?", "Hoeveel reistijd blijft over voor Khao Yai National Park?"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Wanneer is het Khao Yai Food & Wine Festival 2026?", "answer": "De editie liep van 16 tot en met 18 januari 2026 en is afgelopen." },
+      { "question": "Kun je Khao Yai-wijngaarden nog bezoeken?", "answer": "Mogelijk wel, maar festivaldata zeggen niets over reguliere opening. Controleer rondleidingen, reservering en proeverij rechtstreeks bij de wijngaard." },
+      { "question": "Is een wijngaard een snelle stop bij het nationale park?", "answer": "Niet altijd. Afstanden en vaste rondleidingstijden kunnen een gecombineerde dag onrustig maken; kies één hoofdthema of overnacht." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Plan een actuele Khao Yai-reis", "items": [
+      { "title": "Khao Yai National Park", "description": "Plan natuur, vervoer en parkregels als eigen dag.", "href": "/nl/blog/khao-yai-national-park-day-trip-guide-2026/" },
+      { "title": "Nakhon Ratchasima bezienswaardigheden", "description": "Vergelijk Khao Yai met andere regionale keuzes.", "href": "/nl/city/nakhon-ratchasima/attractions/" },
+      { "title": "Nakhon Ratchasima overzicht", "description": "Bouw de provincie in een bredere route.", "href": "/nl/city/nakhon-ratchasima/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire eventbron", "items": [
+      { "title": "Khao Yai Food & Wine Festival 2026", "publisher": "Royal Thai Government Public Relations Department", "url": "https://thailand.prd.go.th/en/content/category/detail/id/52/iid/465138", "checkedAt": "2026-08-01", "note": "Bevestigt data, locatie en thema van de verstreken editie." },
+      { "title": "Khao Yai National Park — plan your visit", "publisher": "Khao Yai National Park", "url": "https://khaoyainationalpark.com/en/plan-your-visit", "checkedAt": "2026-08-01", "note": "Actuele parkplanning; staat los van festival- of wijngaardopening." }
+    ] }
+  ]
+}

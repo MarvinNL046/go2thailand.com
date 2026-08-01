@@ -1,0 +1,26 @@
+{
+  "captured_at": "2026-07-27T11:03:51.200Z",
+  "locale": "en",
+  "market": {
+    "language_code": "en",
+    "location_name": "United Kingdom"
+  },
+  "target": "https://go2-thailand.com/phuket/bang-tao/",
+  "cost": 0.01224,
+  "rankings": [
+    {
+      "keyword": "bang tao beach",
+      "position": 86,
+      "volume": 5400,
+      "intent": "informational",
+      "url": "https://go2-thailand.com/phuket/bang-tao/"
+    },
+    {
+      "keyword": "bangtao beach phuket",
+      "position": 85,
+      "volume": 90,
+      "intent": "navigational",
+      "url": "https://go2-thailand.com/phuket/bang-tao/"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1, "locale": "nl", "slug": "how-long-spend-thailand", "route": "/nl/blog/how-long-spend-thailand/", "cluster": "planning", "editorialStatus": "ready", "updatedAt": "2026-08-01",
+  "seo": { "title": "Hoe lang naar Thailand? Kies dagen en bases", "description": "Bepaal hoeveel dagen je voor Thailand nodig hebt op basis van nachten, bases, tempo, reisdagen en buffers.", "primaryKeyword": "hoe lang naar Thailand", "secondaryKeywords": ["hoeveel nachten Thailand", "reisduur Thailand", "Thailand 3 weken"], "searchIntent": "informational", "canonicalPath": "/nl/blog/how-long-spend-thailand/" },
+  "hero": { "eyebrow": "Tel nachten en bases", "title": "Hoe lang naar Thailand?", "accent": "Minder verplaatsen, meer beleven", "description": "Een week kan werken voor één regio; twee of drie weken vragen nog steeds een bewuste keuze van bases.", "image": "/images/redesign/editorial/how-long-spend-thailand-hero.webp", "imageAlt": "Reiziger plant een flexibele Thailand-route met kaart en dagkaarten", "primaryCta": { "label": "Vergelijk reisduur", "href": "#reisduur" }, "secondaryCta": { "label": "Bouw je route", "href": "#routebouwen" } },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Een week past meestal bij één regio, tien tot veertien dagen bij twee of drie bases en drie weken bij drie of vier bases of een lager tempo. Tel iedere basiswissel als gedeeltelijke reisdag.",
+  "blocks": [
+    { "kind": "comparison", "id": "reisduur", "title": "Kies je schaal", "options": [
+      { "title": "Ongeveer 7 dagen", "description": "Eén regio en één of twee logisch verbonden bases.", "label": "Focus" },
+      { "title": "10–14 dagen", "description": "Twee of drie bases met ruimte voor aankomst en verplaatsingen.", "label": "Contrast" },
+      { "title": "Ongeveer 3 weken", "description": "Drie of vier bases, of bewust langer in minder regio’s.", "label": "Diepgang" }
+    ] },
+    { "kind": "steps", "id": "routebouwen", "title": "Bouw de route in vijf stappen", "steps": [
+      { "title": "Tel nachten", "description": "Gebruik de werkelijke nachten tussen aankomst en vertrek." },
+      { "title": "Kies thema’s", "description": "Geef ieder reisdeel één hoofdreden." },
+      { "title": "Beperk bases", "description": "Iedere slaapplaats moet voldoende toevoegen." },
+      { "title": "Markeer transfers", "description": "Tel de hele deur-tot-deurbeweging, niet alleen de rit of vlucht." },
+      { "title": "Voeg buffer toe", "description": "Bescherm een belangrijke internationale aansluiting." }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is één week Thailand te kort?", "answer": "Niet voor één duidelijke regio. Het wordt vooral krap als je meerdere landsdelen combineert." },
+      { "question": "Hoeveel bases passen in twee weken?", "answer": "Vaak twee of drie. De verbinding en je gewenste tempo bepalen of een derde basis echt helpt." },
+      { "question": "Moet ik met drie weken meer regio’s bezoeken?", "answer": "Nee. Extra tijd kan juist worden gebruikt voor rust, dagtochten en buffers." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële route-inspiratie", "items": [
+      { "title": "Thailand Destinations", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations", "checkedAt": "2026-08-01" },
+      { "title": "Thailand Trip Planner", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner", "checkedAt": "2026-08-01", "note": "Voor inspiratie; vervoer en beschikbaarheid live controleren." }
+    ] }
+  ]
+}

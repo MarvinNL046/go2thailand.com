@@ -5,6 +5,9 @@ import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../../../../components/SEOHead';
 import Breadcrumbs from '../../../../../components/Breadcrumbs';
+import HotelDetailGuideTemplate from '../../../../../components/hotels/HotelDetailGuideTemplate';
+import { getNlKaronHotelDetailGuide } from '../../../../../data/hotel-details/nl-karon';
+import type { HotelDetailGuideData } from '../../../../../data/hotel-details/types';
 import { withSubId, TRIP_GENERIC } from '../../../../../lib/affiliates';
 import { useSubId } from '../../../../../lib/useSubId';
 
@@ -45,6 +48,7 @@ interface Sibling { slug: string; shortName: string; tier: string; priceBand: st
 
 interface Props {
   hotel: Hotel;
+  nlGuide: HotelDetailGuideData | null;
   partners: PartnersFile;
   siblings: Sibling[];
   lastUpdated: string;
@@ -94,11 +98,18 @@ const HOTEL_SEO: Record<string, { titleEn: string; titleNl: string; h1En: string
   },
 };
 
-export default function KaronHotelDetailPage({ hotel, partners, siblings, lastUpdated }: Props) {
+export default function KaronHotelDetailPage({ hotel, nlGuide, partners, siblings, lastUpdated }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const subId = useSubId();
   const seo = HOTEL_SEO[hotel.slug];
+  const partnerUrl = partners[hotel.partnerKey]?.partnerUrl
+    ? withSubId(partners[hotel.partnerKey].partnerUrl, `${subId}-pseo-phuket-karon-${hotel.slug}-hotel-detail`)
+    : withSubId(TRIP_GENERIC, `${subId}-pseo-phuket-karon-${hotel.slug}-hotel-detail`);
+
+  if (isNl && nlGuide) {
+    return <HotelDetailGuideTemplate data={nlGuide} tripHref={partnerUrl} />;
+  }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -126,10 +137,6 @@ export default function KaronHotelDetailPage({ hotel, partners, siblings, lastUp
     '@context': 'https://schema.org', '@type': 'FAQPage',
     mainEntity: hotel.faq.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
   };
-
-  const partnerUrl = partners[hotel.partnerKey]?.partnerUrl
-    ? withSubId(partners[hotel.partnerKey].partnerUrl, subId)
-    : withSubId(TRIP_GENERIC, subId);
 
   return (
     <>
@@ -163,7 +170,7 @@ export default function KaronHotelDetailPage({ hotel, partners, siblings, lastUp
           </div>
         </section>
 
-        <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
           {/* Quick stats */}
           <section className="grid grid-cols-2 md:grid-cols-5 gap-3">
             <div className="rounded-2xl bg-white p-4 shadow-sm border border-gray-100">
@@ -305,7 +312,7 @@ export default function KaronHotelDetailPage({ hotel, partners, siblings, lastUp
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe deze review tot stand kwam' : 'How this review was built'}</h2>
             <p>{isNl ? "Eerlijke voor- en nadelen samengesteld uit recente TripAdvisor 1- en 2-sterren-reviews (2024–2026), Booking.com en Trip.com gastfeedback. Tarieven steekproefsgewijs gecheckt mei 2026 voor reizen in november 2026. Wij verdienen commissie als je via onze Trip.com link boekt — dit verandert niets aan welke nadelen we noemen." : 'Honest pros and cons distilled from recent TripAdvisor 1- and 2-star reviews (2024–2026), Booking.com and Trip.com guest feedback. Rates spot-checked May 2026 for November 2026 travel dates. We earn commission if you book through our Trip.com link — this never changes which negatives we call out.'}</p>
           </section>
-        </main>
+        </div>
       </div>
     </>
   );
@@ -314,7 +321,10 @@ export default function KaronHotelDetailPage({ hotel, partners, siblings, lastUp
 export const getStaticPaths: GetStaticPaths = async () => {
   const file = path.join(process.cwd(), 'data', 'pseo', 'areas', 'karon-hotels.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const paths = data.hotels.map((h: Hotel) => ({ params: { hotel: h.slug } }));
+  const paths = data.hotels.flatMap((h: Hotel) => [
+    { params: { hotel: h.slug }, locale: 'en' },
+    { params: { hotel: h.slug }, locale: 'nl' },
+  ]);
   return { paths, fallback: false };
 };
 
@@ -335,6 +345,7 @@ export const getStaticProps: GetStaticProps<Props> = async ({ params }) => {
   return {
     props: {
       hotel,
+      nlGuide: getNlKaronHotelDetailGuide(slug),
       partners: partnersData.partners,
       siblings,
       lastUpdated: hotelsData.lastUpdated,
