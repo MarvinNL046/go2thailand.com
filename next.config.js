@@ -856,6 +856,32 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // Close the final NL editorial overlaps around events, itineraries and
+      // broad food intent. Keep the independently researched specialist owners.
+      {
+        source: "/nl/blog/thailand-travel-fair-2026-qsncc-bangkok/",
+        destination: "/nl/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/ultimate-thailand-itinerary-2026/",
+        destination: "/nl/itineraries/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/vegan-thai-food-guide/",
+        destination: "/nl/travel-guides/vegetarian-vegan-thailand/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/what-is-thai-food-cuisine-guide/",
+        destination: "/nl/food/",
+        permanent: true,
+        locale: false,
+      },
       // Old URL patterns
       {
         source: "/cities/:slug*/",

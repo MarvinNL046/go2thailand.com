@@ -19,7 +19,6 @@ const familyCompletion = JSON.parse(
 const family = familyCompletion.families.find((entry) => entry.key === 'nl:editorial');
 
 if (!family) throw new Error('nl:editorial is missing from family-completion.json');
-if (family.status === 'complete') throw new Error('nl:editorial may not be complete while routes remain unaccepted');
 
 const manifest = getNlEditorialManifest();
 if (manifest.count !== 253 || manifest.articleCount !== 252) {
@@ -27,6 +26,11 @@ if (manifest.count !== 253 || manifest.articleCount !== 252) {
 }
 
 const acceptedRoutes = new Set(family.acceptedRoutes ?? []);
+if (family.status === 'complete' && acceptedRoutes.size !== manifest.count) {
+  throw new Error(
+    `nl:editorial may not be complete while routes remain unaccepted (${acceptedRoutes.size}/${manifest.count})`,
+  );
+}
 if (!acceptedRoutes.has('/nl/blog/')) throw new Error('The NL blog hub must remain an accepted route');
 
 const profileDirectory = resolve(root, 'data', 'editorial', 'blog', 'nl');

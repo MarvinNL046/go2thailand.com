@@ -454,6 +454,7 @@
     },
     {
       "key": "nl:editorial",
+      "status": "complete",
       "acceptedRoutes": [
         "/nl/blog/",
         "/nl/blog/phuket-airport/",
@@ -700,7 +701,14 @@
         "/nl/blog/bangkok-street-food-beginners/",
         "/nl/blog/best-night-markets-bangkok-2026/",
         "/nl/blog/best-time-to-visit-thailand/",
-        "/nl/blog/thailand-island-hopping-guide/"
+        "/nl/blog/thailand-island-hopping-guide/",
+        "/nl/blog/thailand-travel-fair-2026-qsncc-bangkok/",
+        "/nl/blog/thailand-travel-packages-guide/",
+        "/nl/blog/travel-insurance-thailand-guide/",
+        "/nl/blog/ultimate-thailand-itinerary-2026/",
+        "/nl/blog/vegan-thai-food-guide/",
+        "/nl/blog/what-is-thai-food-cuisine-guide/",
+        "/nl/blog/what-makes-thai-food-spicy/"
       ],
       "evidence": [
         "seo/audits/nl-blog-hub-owner-2026-08-01.md",
@@ -778,9 +786,11 @@
         "seo/research/nl/2026-08-01-editorial-food-culture-events-planning-transport-news-batch-30-current-web.md",
         "seo/audits/nl-editorial-koh-kood-consolidation-2026-08-01.md",
         "seo/audits/nl-editorial-bangkok-food-season-islands-batch-32-2026-08-01.md",
-        "seo/research/nl/2026-08-01-editorial-bangkok-food-season-islands-batch-32-current-web.md"
+        "seo/research/nl/2026-08-01-editorial-bangkok-food-season-islands-batch-32-current-web.md",
+        "seo/audits/2026-08-01-nl-editorial-batch-31-audit.md",
+        "seo/research/nl/2026-08-01-editorial-planning-food-batch-31-current-web.md"
       ],
-      "note": "The Dutch editorial family is in progress. The blog hub and 245 independently reviewed article owners use the typed premium editorial system or a registered specialized renderer with typed evidence. Ninety overlapping, price-led, superseded or elapsed owners are archived with noindex; forty-two exact duplicates also redirect permanently to established NL owners. Every remaining article still requires an explicit update, consolidation or retire decision."
+      "note": "The Dutch editorial family is complete. The blog hub and all 252 independently reviewed article routes use the typed premium editorial system or a registered specialized renderer with typed evidence. Ninety-four overlapping, price-led, superseded or elapsed owners are archived with noindex; forty-six exact duplicates also redirect permanently to established NL owners. Every manifest route has an explicit update, consolidation or retirement decision."
     },
     {
       "key": "en:destination-guide",
