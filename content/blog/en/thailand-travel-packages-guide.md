@@ -59,7 +59,7 @@ These typically include flights on budget carriers, 3-star hotel accommodation, 
 
 ### Mid-Range Packages ($1,500–$2,500 for 7–14 days)
 
-The sweet spot for most travelers. Expect 4-star hotels, scheduled airline flights, private transfers, multiple guided tours, and several included meals. Packages at this level often cover multiple destinations — a common route is [Bangkok](https://go2-thailand.com/city/bangkok/) to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) to a southern island like [Phuket](https://go2-thailand.com/islands/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/). Intrepid Travel and G Adventures operate well-reviewed group tours in this range.
+The sweet spot for most travelers. Expect 4-star hotels, scheduled airline flights, private transfers, multiple guided tours, and several included meals. Packages at this level often cover multiple destinations — a common route is [Bangkok](https://go2-thailand.com/city/bangkok/) to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) to a southern island like [Phuket](https://go2-thailand.com/city/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/). Intrepid Travel and G Adventures operate well-reviewed group tours in this range.
 
 ### Luxury Packages ($3,000+ for 7–14 days)
 
@@ -82,7 +82,7 @@ This is the real question. Here's how the two approaches stack up:
 | **Language barriers** | Guide handles everything | You navigate on your own |
 | **Hidden costs** | Optional excursions, tips, drinks | Fewer surprises if you budget well |
 | **Accommodation quality** | Consistent but generic | You choose exactly what you want |
-| **Food experience** | Hotel restaurants, tourist spots | [Street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/), local markets, your pick |
+| **Food experience** | Hotel restaurants, tourist spots | [Street food](https://go2-thailand.com/thailand-street-food/), local markets, your pick |
 | **Social aspect** | Meet fellow travelers in group | Meet locals and other backpackers |
 | **Safety net** | Tour operator support 24/7 | You handle emergencies yourself |
 
@@ -154,7 +154,7 @@ Here are the most reliable platforms for Thailand travel packages in 2026:
 
 ### Is it cheaper to book a Thailand package or travel independently?
 
-Independent travel is almost always cheaper — typically 20–40% less than a comparable package. Thailand has affordable accommodation (budget hotels from $15/night), cheap domestic flights ($30–60), and incredible [street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/) for under $3 per meal. Packages add a convenience premium on top of these costs.
+Independent travel is almost always cheaper — typically 20–40% less than a comparable package. Thailand has affordable accommodation (budget hotels from $15/night), cheap domestic flights ($30–60), and incredible [street food](https://go2-thailand.com/thailand-street-food/) for under $3 per meal. Packages add a convenience premium on top of these costs.
 
 ### What's the best time to book Thailand packages?
 

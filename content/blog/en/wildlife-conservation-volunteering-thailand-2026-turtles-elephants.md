@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "responsible travel"
 tags: ["Thailand volunteering 2026", "wildlife conservation Thailand", "sea turtle volunteering", "elephant sanctuary volunteer", "ethical travel Thailand", "dugong conservation Trang"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/wildlife-conservation-volunteering-thailand-2026-turtles-elephants-hero.webp"
 description: "Want to give back while visiting Thailand? Here is a guide to the best wildlife conservation volunteer programmes in 2026, from sea turtle research in Trang to ethical elephant sanctuaries in Phuket."
 featured: false
 readingTime: 4

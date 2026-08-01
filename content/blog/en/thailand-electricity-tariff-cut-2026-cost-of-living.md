@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand costs", "cost of living", "electricity", "expat thailand", "thailand 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-electricity-tariff-cut-2026-cost-of-living-hero.webp"
 description: "Thailand reduced its electricity tariff to 3.88 baht per unit for January–April 2026. Here's what it means for tourists, digital nomads, and expats."
 featured: false
 readingTime: 3

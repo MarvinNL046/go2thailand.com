@@ -93,6 +93,31 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
     { name: cityName, href: `/city/${city.slug}` },
     { name: isNl ? 'Weer' : 'Weather', href: `/city/${city.slug}/weather` }
   ];
+  const canonicalUrl = `https://go2-thailand.com/city/${city.slug}/weather/`;
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((crumb, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: crumb.name,
+      item: `https://go2-thailand.com${crumb.href.endsWith('/') ? crumb.href : `${crumb.href}/`}`,
+    })),
+  };
+  const webPageJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    '@id': `${canonicalUrl}#webpage`,
+    url: canonicalUrl,
+    name: `${cityName} Weather 2026 — Best Time to Visit by Month`,
+    description: `${cityName} weather guide: monthly temperatures, rainfall, and best time to visit in 2026. Plan your Thailand trip with season-by-season tips.`,
+    inLanguage: 'en-GB',
+    about: {
+      '@type': 'City',
+      name: city.name.en,
+      containedInPlace: { '@type': 'Country', name: 'Thailand' },
+    },
+  };
 
   return (
     <div className="min-h-screen bg-surface-cream">
@@ -107,6 +132,12 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
         <meta name="keywords" content={isNl
           ? `${cityName} weer, ${cityName} klimaat, ${cityName} temperatuur, ${cityName} regenval, ${cityName} beste reistijd, ${cityName} seizoenen`
           : `${cityName} weather, ${cityName} climate, ${cityName} temperature, ${cityName} rainfall, ${cityName} best time to visit, ${cityName} seasons`} />
+        {!isNl && (
+          <>
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageJsonLd) }} />
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+          </>
+        )}
       </SEOHead>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand visa", "e-visa", "visa 2026", "thailand travel", "immigration"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-evisa-overhaul-2026-simplified-categories-hero.webp"
 description: "Thailand has overhauled its visa system for 2026, cutting non-immigrant categories from 17 to 7 and going fully digital. Here's what travelers need to know."
 featured: false
 readingTime: 3

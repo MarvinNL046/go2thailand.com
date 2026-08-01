@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "activities"
 tags: ["longevity retreats Thailand", "anti-aging Thailand", "medical tourism 2026", "wellness travel", "Kamalaya", "RAKxa", "BDMS Wellness Clinic", "Layan Life Phuket"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-longevity-anti-aging-retreats-2026-hero.webp"
 description: "Thailand is betting big on longevity tourism in 2026. From IV therapy to hyperbaric oxygen chambers, here is where the country's anti-aging retreat scene stands right now."
 featured: false
 readingTime: 3

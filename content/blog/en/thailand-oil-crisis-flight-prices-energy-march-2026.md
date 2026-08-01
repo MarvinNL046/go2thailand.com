@@ -7,7 +7,7 @@ category: "news"
 author:
   name: "Go2Thailand Team"
 tags: ["thailand travel costs", "flight prices 2026", "oil crisis thailand", "thailand energy prices"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-oil-crisis-flight-prices-energy-march-2026-hero.webp"
 draft: false
 ---
 

@@ -91,6 +91,7 @@ export default function RawaiAreaGuideEn({ hotelHref, activityHref }: { hotelHre
     faqDescription: 'These are genuine questions captured from ten live English Rawai SERPs on 27 July 2026. Static seafood prices, taxi fares and cultural population claims were excluded.',
     related: [
       { title: 'Phuket destination guide', description: 'Build the island route before choosing the far south.', href: '/city/phuket/', image: '/images/redesign/phuket-destination-hero-v2.webp', imageAlt: 'Phuket coast' },
+      { title: 'Selina Serenity Rawai', description: 'Read the individual stay analysis, then verify the exact room, live total and cancellation terms for your dates.', href: '/phuket/rawai/hotels/selina-serenity-rawai-phuket/', image: '/images/redesign/selina-rawai-guide-hero.webp', imageAlt: 'Coastal stay setting in Rawai' },
       { title: 'Where to stay in Phuket', description: 'Compare Rawai with the island’s main hotel zones.', href: '/where-to-stay/phuket/', image: '/images/redesign/phuket-hotels-hero.webp', imageAlt: 'Phuket accommodation zones' },
       { title: 'Phuket attractions', description: 'Plan island-wide sights separately from the area owner.', href: '/city/phuket/attractions/', image: '/images/redesign/phuket-attractions-hero.webp', imageAlt: 'Phuket attractions' },
     ],

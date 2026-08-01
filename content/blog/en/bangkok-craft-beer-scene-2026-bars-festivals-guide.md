@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Bangkok craft beer", "People Festival 2026", "Beer Pradith", "Brewski Bangkok", "Bangkok nightlife", "Thai craft beer"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-craft-beer-scene-2026-bars-festivals-guide-hero.webp"
 description: "Bangkok's craft beer scene has grown fast. From the People Festival with 400-plus brands to neighbourhood taprooms pouring Thai-brewed beers, here is where to drink in 2026."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 ## Craft Beer Has Found Its Place in Bangkok
 
-[Thailand](/best-places-to-visit-thailand/) is not the first country most people associate with craft beer, but [Bangkok](/destinations/bangkok/) has quietly built one of Southeast Asia's most interesting beer scenes. In 2026, the city has hundreds of craft beer bars, a growing number of Thai-brewed labels, and annual festivals that draw thousands of drinkers.
+[Thailand](/best-places-to-visit-thailand/) is not the first country most people associate with craft beer, but [Bangkok](/city/bangkok/) has quietly built one of Southeast Asia's most interesting beer scenes. In 2026, the city has hundreds of craft beer bars, a growing number of Thai-brewed labels, and annual festivals that draw thousands of drinkers.
 
 The shift has been driven by a new generation of Thai brewers and bar owners who have been inspired by Western brewing traditions while adding local twists — think lemongrass wheat beers, galangal-infused IPAs and Thai sato rice wine served alongside international craft labels.
 
@@ -50,4 +50,4 @@ Craft beer in Bangkok is more expensive than the standard Chang or Singha lager.
 
 Thailand's alcohol laws mean you cannot buy beer from shops between 2pm and 5pm, but bars and restaurants are not affected by this restriction. Keep that in mind if you are planning an afternoon of bar-hopping through [Bangkok's neighbourhoods](/blog/where-to-stay-bangkok-neighborhood-guide/).
 
-Pair your craft beer evening with some [Bangkok street food](/blog/best-street-food-markets-bangkok/) — the city's late-night food stalls stay open well past midnight and make the perfect accompaniment. The [best hotels in Bangkok](/best-hotels/bangkok/) are scattered across many districts, so you can usually walk back after a night out. If you are visiting from [Chiang Mai](/destinations/chiang-mai/), check the [Chiang Mai to Bangkok](/transport/chiang-mai-to-bangkok/) transport options so you can plan your trip around festival dates. Craft beer fans visiting other cities should note that [Phuket](/destinations/phuket/) and [Chiang Mai](/best-hotels/chiang-mai/) also have growing independent bar scenes worth exploring. If you are curious about Bangkok's wider food and drink landscape, the [Bangkok specialty coffee guide](/blog/bangkok-specialty-coffee-cafe-guide-2026/) covers the city's café scene in the same detail.
+Pair your craft beer evening with some [Bangkok street food](/blog/best-street-food-markets-bangkok/) — the city's late-night food stalls stay open well past midnight and make the perfect accompaniment. The [best hotels in Bangkok](/best-hotels/bangkok/) are scattered across many districts, so you can usually walk back after a night out. If you are visiting from [Chiang Mai](/city/chiang-mai/), check the [Chiang Mai to Bangkok](/transport/chiang-mai-to-bangkok/) transport options so you can plan your trip around festival dates. Craft beer fans visiting other cities should note that [Phuket](/city/phuket/) and [Chiang Mai](/best-hotels/chiang-mai/) also have growing independent bar scenes worth exploring. If you are curious about Bangkok's wider food and drink landscape, the [Bangkok specialty coffee guide](/blog/bangkok-specialty-coffee-cafe-guide-2026/) covers the city's café scene in the same detail.

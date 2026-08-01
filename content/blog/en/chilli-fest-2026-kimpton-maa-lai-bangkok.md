@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Bangkok food festival", "Chilli Fest 2026", "Kimpton Maa-Lai", "Thai chilli", "Bangkok events March 2026", "spicy food Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/chilli-fest-2026-kimpton-maa-lai-bangkok-hero.webp"
 description: "Chilli Fest 2026 returns to Kimpton Maa-Lai Bangkok on March 28 with 16 Michelin-recognized restaurants, a 2.2-million-Scoville eating contest, and free chilli tattoos."
 featured: false
 readingTime: 3

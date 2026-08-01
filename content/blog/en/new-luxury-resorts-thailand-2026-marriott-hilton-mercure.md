@@ -4,7 +4,7 @@ slug: "new-luxury-resorts-thailand-2026-marriott-hilton-mercure"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/new-luxury-resorts-thailand-2026-marriott-hilton-mercure-hero.webp"
 category: "hotels"
 tags: ["Thailand luxury resorts 2026", "JW Marriott Phuket Chalong Bay", "Nivata Koh Samui Hilton", "Grand Mercure Krabi", "new hotels Thailand"]
 description: "Three major resort brands are opening new properties in Thailand in 2026 — JW Marriott in Phuket, a Hilton Tapestry Collection on Koh Samui, and Grand Mercure in Krabi."
@@ -48,7 +48,7 @@ Thailand's hotel pipeline is booming in 2026. Several international chains are p
 
 ## 3. Grand Mercure Krabi Ao Nang
 
-**Location:** Ao Nang, [Krabi](/city/krabi/) — the region's main tourist hub and gateway to [Railay Beach](/city/krabi/attractions/railay-beach/), the [Four Islands](/city/krabi/attractions/four-islands-tour/), and Hong Island.
+**Location:** Ao Nang, [Krabi](/city/krabi/) — the region's main tourist hub and gateway to [Railay Beach](/city/krabi/attractions/), the [Four Islands](/city/krabi/attractions/), and Hong Island.
 
 **The property:** Details are still emerging, but the Grand Mercure brand from Accor typically targets the upscale tier with locally inspired design and F&B concepts. Ao Nang has long been dominated by mid-range accommodation, so a branded upscale option fills a genuine gap. Read the full [Krabi travel guide](/blog/krabi-travel-guide/) for beaches, day trips, and where to stay right now.
 

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "adventure"
 tags: ["Thailand cycling", "bike touring Thailand 2026", "Chiang Mai cycling", "Southern Thailand bike tour", "SpiceRoads Thailand", "cycling holiday Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-cycling-tours-2026-chiang-mai-coast-guide-hero.webp"
 description: "From rice paddies near Chiang Mai to coastal roads in the south, Thailand is a rising destination for cycling tours. Here is everything you need to know about bike touring Thailand in 2026."
 featured: false
 readingTime: 3

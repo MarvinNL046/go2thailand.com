@@ -51,7 +51,7 @@ Koh Lipe earned the Maldives comparison for good reasons. The sand on Sunrise Be
 
 Where the comparison breaks down is density. The Maldives is dozens of individual resorts, each on its own atoll, with nobody else in sight. Koh Lipe is one small island where everybody who flew, ferried and bus-ed here is concentrated on three beaches. During Christmas and Chinese New Year peak, the island feels crowded despite being much less popular than Phi Phi in absolute terms. It is a small place, not an empty one.
 
-For broader context on which Thai islands actually live up to their marketing, see our [Thailand islands guide](/blog/thailand-islands/).
+For broader context on which Thai islands actually live up to their marketing, see our [Thailand islands guide](/thailand-islands/).
 
 ## The Three Beaches Compared
 
@@ -168,7 +168,7 @@ Prices on Walking Street are noticeably higher than mainland Thailand. A basic p
 
 Do not plan to work remotely from Koh Lipe. Mobile coverage is decent on Pattaya and Sunrise beaches (AIS and TrueMove both reach the island) but 5G is patchy and speeds are inconsistent. Hotel Wi-Fi ranges from acceptable to slideshow-only, depending on how many other guests are using it.
 
-If you are a digital nomad, this is a vacation island, not a working one. For beach locations with reliable fibre, look at Koh Samui or Koh Phangan. If you want powdery sand and good snorkelling, our [best beaches in Thailand](/blog/best-beaches-in-thailand/) roundup has quieter alternatives across the country.
+If you are a digital nomad, this is a vacation island, not a working one. For beach locations with reliable fibre, look at Koh Samui or Koh Phangan. If you want powdery sand and good snorkelling, our [best beaches in Thailand](/best-beaches-in-thailand/) roundup has quieter alternatives across the country.
 
 ## When to Skip Koh Lipe
 
@@ -191,7 +191,7 @@ The verdict hinges on timing and expectations. Visit in the shoulder weeks (earl
 
 ## Further Reading
 
-- [Thailand Islands Guide: Where to Go and When](/blog/thailand-islands/)
-- [Best Beaches in Thailand](/blog/best-beaches-in-thailand/)
+- [Thailand Islands Guide: Where to Go and When](/thailand-islands/)
+- [Best Beaches in Thailand](/best-beaches-in-thailand/)
 - [Phi Phi Islands Guide: Beyond the Tourist Crowds](/blog/phi-phi-islands-guide-beyond-tourist-crowds/)
 - [Best Time to Visit Thailand](/blog/best-time-to-visit-thailand/)

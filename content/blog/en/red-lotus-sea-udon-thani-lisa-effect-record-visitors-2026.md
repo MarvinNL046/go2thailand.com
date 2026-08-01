@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "destinations"
 tags: ["Red Lotus Sea", "Udon Thani", "Lisa Effect", "Blackpink Lisa", "Amazing Thailand", "Isaan tourism", "Nong Han Lake"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026-hero.webp"
 description: "The 'Lisa Effect' has turned Udon Thani's Red Lotus Sea into one of Southeast Asia's hottest attractions, with TAT forecasting 120,000 visitors for the 2025-2026 bloom season."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 ## A Pink Lake Goes Viral
 
-Nong Han Lake in Kumphawapi district, [Udon Thani](/city/udon-thani/), has long been known locally as the "Red Lotus Sea" for the millions of pink water lilies that carpet its surface each winter. The [Red Lotus Sea](/city/udon-thani/attractions/red-lotus-sea/) is easily the province's most photographed natural attraction. But the 2025-2026 bloom season has been unlike any before. The Tourism Authority of Thailand (TAT) forecasts no fewer than 120,000 visitors this season — an all-time record — driven largely by BLACKPINK member Lalisa "Lisa" Manobal's role as the [Amazing Thailand Ambassador](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/).
+Nong Han Lake in Kumphawapi district, [Udon Thani](/city/udon-thani/), has long been known locally as the "Red Lotus Sea" for the millions of pink water lilies that carpet its surface each winter. The [Red Lotus Sea](/city/udon-thani/attractions/) is easily the province's most photographed natural attraction. But the 2025-2026 bloom season has been unlike any before. The Tourism Authority of Thailand (TAT) forecasts no fewer than 120,000 visitors this season — an all-time record — driven largely by BLACKPINK member Lalisa "Lisa" Manobal's role as the [Amazing Thailand Ambassador](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/).
 
 ## How the Lisa Effect Transformed Udon Thani
 
@@ -40,6 +40,6 @@ Udon Thani is served by its own international airport with direct flights from B
 
 ## Beyond the Lotus Fields
 
-The Lisa Effect has done more than boost one lake's visitor numbers. It has put the entire [Isaan region](/region/isaan/) — Thailand's vast northeastern plateau, often overlooked by international tourists — on the travel map. TAT officials hope the momentum will encourage travellers to explore other Isaan highlights such as the Naga Fireballs of [Nong Khai](/city/nong-khai/), the Khmer temples around Buriram and the [silk-weaving villages of Khon Kaen](/city/khon-kaen/attractions/chonnabot-silk-village/). The annual [Bun Bang Fai rocket festival in Yasothon](/blog/bun-bang-fai-rocket-festival-yasothon-2026/) is another spectacular Isaan event worth combining with a northern loop. Travellers with more time can also explore the [Mekong River provinces](/blog/thailand-mekong-riverside-seven-provinces-sustainable-tourism-2026/) or take a [Mekong River cruise](/blog/thailand-mekong-river-cruises-cultural-tourism-2026/) for a unique perspective on the northeast. For the full northeast experience, browse [top attractions in Udon Thani](/city/udon-thani/top-10-attractions/) to plan a multi-day stay around the province.
+The Lisa Effect has done more than boost one lake's visitor numbers. It has put the entire [Isaan region](/region/isaan/) — Thailand's vast northeastern plateau, often overlooked by international tourists — on the travel map. TAT officials hope the momentum will encourage travellers to explore other Isaan highlights such as the Naga Fireballs of [Nong Khai](/city/nong-khai/), the Khmer temples around Buriram and the [silk-weaving villages of Khon Kaen](/city/khon-kaen/attractions/). The annual [Bun Bang Fai rocket festival in Yasothon](/blog/bun-bang-fai-rocket-festival-yasothon-2026/) is another spectacular Isaan event worth combining with a northern loop. Travellers with more time can also explore the [Mekong River provinces](/blog/thailand-mekong-riverside-seven-provinces-sustainable-tourism-2026/) or take a [Mekong River cruise](/blog/thailand-mekong-river-cruises-cultural-tourism-2026/) for a unique perspective on the northeast. For the full northeast experience, browse [top attractions in Udon Thani](/city/udon-thani/top-10-attractions/) to plan a multi-day stay around the province.
 
 For travellers who missed the 2025-2026 bloom, the lotus flowers will return again in November 2026. Read the [Royal Ploughing Ceremony guide](/blog/royal-ploughing-ceremony-bangkok-may-2026/) if you are planning a May visit to Thailand and want to combine cultural events in Bangkok with a northeast side trip.

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "events"
 tags: ["Thailand Tourism Festival 2026", "5 Must Do Thailand", "Bangkok events", "QSNCC", "Thai food festival", "Thai culture", "TAT"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-festival-2026-5-must-do-food-culture-highlights-hero.webp"
 description: "The 44th Thailand Tourism Festival runs March 25-29 at QSNCC Bangkok, built around the '5 Must Do in Thailand' concept: Must Taste, Must Try, Must Buy, Must Seek, and Must See."
 featured: false
 readingTime: 3
@@ -40,7 +40,7 @@ The 44th Thailand Tourism Festival (TTF) opens on March 25 and runs through Marc
 
 ## Nine Zones Across Four Halls
 
-The festival floor is divided into nine zones. Five of them represent Thailand's geographic regions — North, Northeast, Central, East, and South — each designed as an immersive "village" with replica landmarks, food stalls, and photo spots. The remaining zones include the [Amazing Thailand x Lisa](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/) exhibition, a [Sustainability Zone](/blog/thailand-tourism-festival-2026-zero-waste-sustainability-zone/) running its fourth consecutive Zero Waste to Landfills programme, a partner organisations zone with discounted [travel packages](/thailand-travel-packages-guide/) from over 30 companies, and a live entertainment stage.
+The festival floor is divided into nine zones. Five of them represent Thailand's geographic regions — North, Northeast, Central, East, and South — each designed as an immersive "village" with replica landmarks, food stalls, and photo spots. The remaining zones include the [Amazing Thailand x Lisa](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/) exhibition, a [Sustainability Zone](/blog/thailand-tourism-festival-2026-zero-waste-sustainability-zone/) running its fourth consecutive Zero Waste to Landfills programme, a partner organisations zone with discounted [travel packages](/blog/thailand-travel-packages-guide/) from over 30 companies, and a live entertainment stage.
 
 ## How to Get There
 

@@ -411,7 +411,7 @@ Yes, but with realistic expectations. It's perfect for 1-2 nights to meet other 
 
 ### How far is Bangkok from other Thai destinations?
 
-Bangkok is Thailand's transport hub. [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) is 10-12 hours by train or 1.5 hours by [flight](https://trip.tpo.lv/TmObooZ5). Southern beach destinations like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/islands/phuket/) are 1-2 hours by flight or 10-14 hours by bus.
+Bangkok is Thailand's transport hub. [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) is 10-12 hours by train or 1.5 hours by [flight](https://trip.tpo.lv/TmObooZ5). Southern beach destinations like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) are 1-2 hours by flight or 10-14 hours by bus.
 
 ### What's the best way to get from the airport to my hotel?
 
@@ -427,6 +427,6 @@ Book 2-3 weeks ahead for November-February peak season. For other months, 1-2 we
 
 Our recommendation: spend your first night or two in Sukhumvit (Soi 33-39) to get oriented, then move to a neighborhood that matches your travel style. Bangkok rewards exploration—the best experiences often happen in the neighborhoods tourists skip. If you are planning a longer stay, also read our [Bangkok neighbourhood guide for expats and digital nomads](/blog/where-to-live-bangkok-neighborhood-guide-expats/) which covers rent prices and long-term living across 15 areas.
 
-For more detailed planning, check out our [Bangkok attractions guide](https://go2-thailand.com/city/bangkok/attractions/) and [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/). Ready to book? Start with our [hotel comparison tool](https://go2-thailand.com/city/bangkok/hotels/) to find the perfect base for your Bangkok adventure. Bangkok was recently [crowned Best City in Asia 2026](/blog/bangkok-best-city-asia-2026-destinasian-award/) — a great reason to put it at the top of your travel list.
+For more detailed planning, check out our [Bangkok attractions guide](https://go2-thailand.com/city/bangkok/attractions/) and [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/). Ready to book? Start with our [hotel comparison tool](https://go2-thailand.com/best-hotels/bangkok/) to find the perfect base for your Bangkok adventure. Bangkok was recently [crowned Best City in Asia 2026](/blog/bangkok-best-city-asia-2026-destinasian-award/) — a great reason to put it at the top of your travel list.
 
 **Trust Statement:** The Go2Thailand team has spent years living in and exploring Bangkok's neighborhoods. Every recommendation in this guide comes from firsthand experience, conversations with local residents, and verified information from official tourism sources. We update this guide regularly to reflect current prices, safety conditions, and neighborhood changes.

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand tourism 2026", "Thailand visitor numbers", "TAT tourism strategy", "Thailand travel news", "Thailand recovery"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-growth-target-2026-recovery-after-2025-decline-hero.webp"
 description: "Thailand is aiming for more than 10 percent growth in foreign tourist arrivals in 2026 after a 7.23 percent decline last year. Here is what the recovery plan looks like."
 featured: false
 readingTime: 3

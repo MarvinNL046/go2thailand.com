@@ -278,7 +278,7 @@ For detailed guidance on healthcare options, read our [health and hospitals trav
 
 **Recommendations:** JE vaccine if visiting rural areas; malaria prophylaxis if near borders; standard dengue precautions.
 
-### Central Thailand ([Bangkok](https://go2-thailand.com/city/bangkok/), [Kanchanaburi](https://go2-thailand.com/destinations/kanchanaburi/))
+### Central Thailand ([Bangkok](https://go2-thailand.com/city/bangkok/), [Kanchanaburi](https://go2-thailand.com/city/kanchanaburi/))
 
 **Primary concerns:** Dengue, traveler's diarrhea, air pollution (Bangkok).
 
@@ -290,7 +290,7 @@ For detailed guidance on healthcare options, read our [health and hospitals trav
 
 **Recommendations:** Hepatitis A, typhoid, dengue prevention. Malaria risk only in inland/forested areas of Chumphon and Ranong provinces (most tourists don't visit these).
 
-### Isaan ([Udon Thani](https://go2-thailand.com/destinations/khon-kaen/), [Nakhon Ratchasima](https://go2-thailand.com/region/isaan/))
+### Isaan ([Udon Thani](https://go2-thailand.com/city/khon-kaen/), [Nakhon Ratchasima](https://go2-thailand.com/region/isaan/))
 
 **Primary concerns:** Japanese Encephalitis (seasonal), malaria (in border areas), typhoid.
 

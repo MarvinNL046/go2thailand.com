@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["Phra Pradaeng Songkran 2026", "Mon culture Thailand", "Songkran Samut Prakan", "Bangkok day trip April 2026", "Thai festivals 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/phra-pradaeng-songkran-2026-mon-culture-samut-prakan-hero.webp"
 description: "Phra Pradaeng holds its own Songkran festival on April 24-26, 2026 — a week after the national holiday. Discover its Mon-heritage traditions, parades and how to get there from Bangkok."
 featured: false
 readingTime: 3

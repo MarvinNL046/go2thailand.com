@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "day-trips"
 tags: ["Ayutthaya day trip", "Bangkok to Ayutthaya train", "Ayutthaya temples 2026", "Thailand temple ruins", "budget travel Thailand", "Wat Mahathat Ayutthaya"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/ayutthaya-day-trip-train-bangkok-temples-guide-2026-hero.webp"
 description: "Take the train from Bangkok to Ayutthaya and explore ancient temple ruins for under 500 baht. Here is everything you need to know about planning the perfect Ayutthaya day trip in 2026."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 ## Why Ayutthaya Deserves a Full Day
 
-Just 80 kilometres north of [Bangkok](/city/bangkok/) lies the UNESCO-listed ancient capital of [Ayutthaya](/city/ayutthaya/), once one of the largest and most cosmopolitan cities in the world. Today its sprawling temple ruins, headless Buddha statues and crumbling prangs make it one of the most rewarding [day trips from Bangkok](/best-day-trips-from-bangkok/) you can take from the Thai capital — and one of the cheapest.
+Just 80 kilometres north of [Bangkok](/city/bangkok/) lies the UNESCO-listed ancient capital of [Ayutthaya](/city/ayutthaya/), once one of the largest and most cosmopolitan cities in the world. Today its sprawling temple ruins, headless Buddha statues and crumbling prangs make it one of the most rewarding [day trips from Bangkok](/blog/best-day-trips-from-bangkok/) you can take from the Thai capital — and one of the cheapest.
 
 ## Getting There by Train
 

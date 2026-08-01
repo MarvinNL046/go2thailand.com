@@ -266,4 +266,4 @@ For **Naam 1608 Restaurant**, yes—book at least a day ahead, especially for di
 
 ### What's the best way to combine Talad Noi with other Bangkok attractions?
 
-Talad Noi pairs naturally with [Chinatown (Yaowarat)](https://go2-thailand.com/city/bangkok/) for [street food](/blog/best-street-food-markets-bangkok/), Wat Traimit (Golden Buddha) which is a 10-minute walk away, and the Chao Phraya river ferries that connect to [Wat Arun](/city/bangkok/attractions/wat-arun/), the [Grand Palace](/city/bangkok/attractions/grand-palace/), and ICONSIAM. Spend the morning in Talad Noi, afternoon in Chinatown, and evening on the river—a perfect Bangkok day.
+Talad Noi pairs naturally with [Chinatown (Yaowarat)](https://go2-thailand.com/city/bangkok/) for [street food](/blog/best-street-food-markets-bangkok/), Wat Traimit (Golden Buddha) which is a 10-minute walk away, and the Chao Phraya river ferries that connect to [Wat Arun](/city/bangkok/attractions/), the [Grand Palace](/city/bangkok/attractions/), and ICONSIAM. Spend the morning in Talad Noi, afternoon in Chinatown, and evening on the river—a perfect Bangkok day.

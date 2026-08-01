@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Thailand politics", "House speaker", "Sophon Zaram", "Bhumjaithai", "Anutin", "Thai government 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-new-house-speaker-sophon-zaram-bhumjaithai-2026-hero.webp"
 description: "Sophon Zaram was elected Thailand's new House speaker on March 15, and Anutin was reconfirmed as PM on March 19. What the political stability means for travelers and expats."
 featured: false
 readingTime: 3

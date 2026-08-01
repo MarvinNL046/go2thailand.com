@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["Nasatta Light Festival 2026", "Ratchaburi attractions", "Thailand light festivals", "night events Thailand", "day trips from Bangkok 2026", "Fairy Dreams"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/nasatta-light-festival-ratchaburi-fairy-dreams-2026-hero.webp"
 description: "The Nasatta Light Festival 2026 transforms 30 rai of woodland in Ratchaburi into a glowing fairy-tale landscape. Open nightly until May 3 — here is everything visitors need to know."
 featured: false
 readingTime: 3

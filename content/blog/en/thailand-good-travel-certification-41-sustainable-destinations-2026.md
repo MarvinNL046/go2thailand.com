@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand sustainable tourism", "Thailand Good Travel", "green tourism Thailand", "eco tourism 2026", "GSTC", "responsible travel"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-good-travel-certification-41-sustainable-destinations-2026-hero.webp"
 description: "Thailand has awarded its new 'Thailand Good Travel' sustainability certification to 41 destinations and tourism operators, part of the Green Tourism Plan 2030."
 featured: false
 readingTime: 3
@@ -54,7 +54,7 @@ Thailand has also set an ambitious target through its **STAR programme** (Sustai
 
 For travellers who care about responsible tourism, the Thailand Good Travel logo makes it easier to identify operators and destinations that meet verified sustainability standards. If you are planning your trip around these values, check out the [best wellness retreats in Thailand for 2026](/blog/best-wellness-retreats-thailand-2026/) and [wildlife conservation volunteering programmes](/blog/wildlife-conservation-volunteering-thailand-2026-turtles-elephants/) that complement certified destinations. Look for the certification mark when:
 
-- Booking small hotels and guesthouses — explore options in [Chiang Mai](/city/chiang-mai/hotels/), [Chiang Rai](/best-hotels/chiang-rai/), and [Krabi](/best-hotels/krabi/)
+- Booking small hotels and guesthouses — explore options in [Chiang Mai](/best-hotels/chiang-mai/), [Chiang Rai](/best-hotels/chiang-rai/), and [Krabi](/best-hotels/krabi/)
 - Choosing community-based tours in rural areas, including the [Mekong River region](/blog/thailand-mekong-river-cruises-cultural-tourism-2026/)
 - Selecting tour operators for [multi-day itineraries](/blog/thailand-10-day-itinerary/) or a [2-week Thailand trip](/blog/thailand-itinerary-2-weeks/)
 

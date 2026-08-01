@@ -8,7 +8,7 @@ tags: ["bangkok", "imf", "world bank", "mice", "business tourism", "2026"]
 author:
   name: "Go2Thailand Team"
 reading_time: 4
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-imf-world-bank-annual-meetings-bangkok-2026-hero.webp"
 draft: false
 ---
 
@@ -38,7 +38,7 @@ The Bank of Thailand is advancing its **"Safe and Inclusive Digital Finance"** a
 
 For travellers planning an October trip, use the [Bangkok weather guide](/city/bangkok/weather/) for seasonal context and check the current forecast close to the event:
 
-- **Accommodation demand** around the Sukhumvit and Asoke areas near QSNCC will spike significantly during the meetings — book early via our [Bangkok hotels guide](/city/bangkok/hotels/)
+- **Accommodation demand** around the Sukhumvit and Asoke areas near QSNCC will spike significantly during the meetings — book early via our [Bangkok hotels guide](/best-hotels/bangkok/)
 - **Security measures** will be heightened in central Bangkok, particularly around the convention center area
 - The QSNCC is easily accessible via the **MRT (QSNCC Station, Exit 3)** — see our [Bangkok public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) for full coverage of the BTS and MRT networks
 - The event is expected to boost Bangkok's profile as a **premier MICE (Meetings, Incentives, Conferences, Exhibitions) destination** in Southeast Asia — Bangkok was recently named [best city in Asia 2026](/blog/bangkok-best-city-asia-2026-destinasian-award/)

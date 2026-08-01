@@ -65,7 +65,7 @@ The construction has continued for over four decades, with no official completio
 
 ## 2. Getting to the Sanctuary of Truth
 
-The **Sanctuary of Truth** is located in North Pattaya, approximately 30-45 minutes from central Pattaya depending on traffic conditions. The address is Bang Lamung, Chon Buri, on Na Klua Road. For visitors planning a [trip to Pattaya](https://go2-thailand.com/destinations/pattaya/), the sanctuary is easily accessible from most accommodations in the city.
+The **Sanctuary of Truth** is located in North Pattaya, approximately 30-45 minutes from central Pattaya depending on traffic conditions. The address is Bang Lamung, Chon Buri, on Na Klua Road. For visitors planning a [trip to Pattaya](https://go2-thailand.com/city/pattaya/), the sanctuary is easily accessible from most accommodations in the city.
 
 ### Transportation Options from Pattaya
 
@@ -322,7 +322,7 @@ A full-day itinerary might include:
 - **Afternoon (2:00-4:00 PM):** Pattaya Floating Market or Sanctuary Beach
 - **Late afternoon (4:00-5:00 PM):** Return to central Pattaya or begin journey back to Bangkok
 
-This schedule allows flexibility while hitting major attractions. Alternatively, you could extend your stay in Pattaya to explore the [city's attractions](https://go2-thailand.com/things-to-do/pattaya/) more thoroughly, including [beaches](https://go2-thailand.com/best-beaches-in-thailand/), water sports, and dining options.
+This schedule allows flexibility while hitting major attractions. Alternatively, you could extend your stay in Pattaya to explore the [city's attractions](https://go2-thailand.com/city/pattaya/attractions/) more thoroughly, including [beaches](https://go2-thailand.com/best-beaches-in-thailand/), water sports, and dining options.
 
 ---
 
@@ -434,7 +434,7 @@ Yes, the sanctuary is very safe. It's a well-maintained, professionally managed 
 
 ### Can I visit the Sanctuary of Truth as a day trip from [Chiang Mai](https://go2-thailand.com/city/chiang-mai/)?
 
-While technically possible, it's not practical. Chiang Mai is approximately 800 kilometers from Pattaya, requiring a 1.5-hour [flight](https://trip.tpo.lv/TmObooZ5?subid=blog) or 12+ hours of driving. Most visitors base themselves in Bangkok or Pattaya for sanctuary visits. If you're interested in [cultural attractions in Northern Thailand](https://go2-thailand.com/things-to-do/chiang-mai/), Chiang Mai offers excellent alternatives.
+While technically possible, it's not practical. Chiang Mai is approximately 800 kilometers from Pattaya, requiring a 1.5-hour [flight](https://trip.tpo.lv/TmObooZ5?subid=blog) or 12+ hours of driving. Most visitors base themselves in Bangkok or Pattaya for sanctuary visits. If you're interested in [cultural attractions in Northern Thailand](https://go2-thailand.com/city/chiang-mai/attractions/), Chiang Mai offers excellent alternatives.
 
 ### What's the best time of year to photograph the Sanctuary of Truth?
 
@@ -448,4 +448,4 @@ The **Sanctuary of Truth** stands as one of Thailand's most remarkable cultural 
 
 Plan your visit during the cool season (November-February) for optimal weather and photography conditions. Budget 2-4 hours for your visit, consider booking a guided tour for deeper understanding, and don't miss the nearby attractions that round out a complete Pattaya experience. The sanctuary's location on the coast, combined with its artistic significance, makes it an essential stop for anyone exploring Thailand's cultural landscape.
 
-For more inspiration on [planning your Thailand itinerary](https://go2-thailand.com/thailand-itinerary/), explore our comprehensive guides to [Pattaya attractions](https://go2-thailand.com/things-to-do/pattaya/) and [day trips from Bangkok](https://go2-thailand.com/transport/bangkok-to-pattaya/). Whether you're a first-time visitor or returning to Thailand, the Sanctuary of Truth offers a unique perspective on the country's artistic heritage and spiritual traditions.
+For more inspiration on [planning your Thailand itinerary](https://go2-thailand.com/thailand-itinerary/), explore our comprehensive guides to [Pattaya attractions](https://go2-thailand.com/city/pattaya/attractions/) and [day trips from Bangkok](https://go2-thailand.com/transport/bangkok-to-pattaya/). Whether you're a first-time visitor or returning to Thailand, the Sanctuary of Truth offers a unique perspective on the country's artistic heritage and spiritual traditions.

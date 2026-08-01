@@ -39,7 +39,7 @@ Imagine waking up in the misty hills of **Chiang Mai**, grabbing a steaming bowl
 
 ## 1. Doi Suthep: Iconic Temple on the Mountain
 
-Perched 1,060 meters above [Chiang Mai](https://go2-thailand.com/things-to-do/chiang-mai/), **Doi Suthep** is the ultimate first **day trip**, blending spirituality with panoramic views. We hiked the 306-step Naga staircase countless times during our stay, feeling the cool breeze cut through the afternoon heat.
+Perched 1,060 meters above [Chiang Mai](https://go2-thailand.com/city/chiang-mai/attractions/), **Doi Suthep** is the ultimate first **day trip**, blending spirituality with panoramic views. We hiked the 306-step Naga staircase countless times during our stay, feeling the cool breeze cut through the afternoon heat.
 
 ### History and Highlights
 Wat Phra That Doi Suthep, founded in 1383, houses a sacred relic drawing pilgrims year-round. The golden chedi gleams against pine forests, offering 360-degree vistas on clear days.
@@ -125,7 +125,7 @@ Pair with Wat Rong Seua Ten (Blue Temple) 5km away for color contrast and intric
 - **Photography Hotspot:** Reflections in the moat at golden hour.
 - **Avoid Weekends:** Crowds peak; weekdays serene.
 
-Explore more in our [Chiang Rai destinations guide](https://go2-thailand.com/destinations/chiang-rai/).
+Explore more in our [Chiang Rai destinations guide](https://go2-thailand.com/city/chiang-rai/).
 
 ## 4. Sticky Waterfalls (Bua Tong): Climb the Cascade
 
@@ -290,7 +290,7 @@ Start 7am songthaew to Doi Suthep (temple, hike). Lunch en route, afternoon Stic
 
 **Day 2:** Samoeng Loop + Mae Sa.
 
-**Day 3:** Chiang Rai temples. Base in Chiang Mai—book via [Chiang Mai hotels guide](https://go2-thailand.com/city/chiang-mai/hotels/).
+**Day 3:** Chiang Rai temples. Base in Chiang Mai—book via [Chiang Mai hotels guide](https://go2-thailand.com/best-hotels/chiang-mai/).
 
 We may earn a small commission from bookings made through our links, at no extra cost to you. This helps us keep creating free travel guides.
 

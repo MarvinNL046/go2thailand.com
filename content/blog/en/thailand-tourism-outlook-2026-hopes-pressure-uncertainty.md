@@ -4,7 +4,7 @@ date: "2026-03-23"
 lastUpdated: "2026-03-29"
 author:
   name: "Go2Thailand Editorial"
-image: "/images/blog/thailand-travel.jpg"
+image: "/images/redesign/editorial/thailand-tourism-outlook-2026-hopes-pressure-uncertainty-hero.webp"
 tags: ["thailand", "tourism outlook", "2026", "travel trends", "visitor numbers"]
 summary: "Thailand's tourism sector enters 2026 caught between ambitious growth targets and real-world headwinds including geopolitical tensions, rising costs and shifting visitor behaviour."
 sources:

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "hotels"
 tags: ["KAIA Koh Phangan", "eco resort Thailand", "luxury tented resort", "Koh Phangan hotels 2026", "sustainable travel Thailand", "barefoot luxury"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/kaia-koh-phangan-eco-luxury-tented-resort-2026-hero.webp"
 description: "KAIA Koh Phangan is a new ultra-luxury tented resort opening in 2026 on the Gulf of Thailand, combining barefoot luxury with serious eco credentials. Here is what we know."
 featured: false
 readingTime: 3

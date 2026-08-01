@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "travel"
 tags: ["Rava Beach Club", "Phuket beach clubs", "BangTao Beach", "Banyan Tree Phuket", "Phuket nightlife", "beach club Thailand 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/rava-beach-club-phuket-bangtao-longest-beach-club-2026-hero.webp"
 description: "Rava Beach Club by Banyan Tree Phuket stretches 150 metres along BangTao Beach, making it Thailand's longest beach club. Three infinity pools, live DJs and flame-grilled dining await."
 featured: false
 readingTime: 3
@@ -40,9 +40,9 @@ All three zones share unobstructed views of the Andaman Sea horizon. For those c
 
 ## What You Need to Know Before You Go
 
-Rava Beach Club is located within the Laguna Phuket complex in the BangTao Beach area, roughly 20 minutes north of [Patong Beach](/city/phuket/attractions/patong-beach/). It is open daily, with no admission charge to enter the venue — you pay for food and drinks.
+Rava Beach Club is located within the Laguna Phuket complex in the BangTao Beach area, roughly 20 minutes north of [Patong Beach](/city/phuket/attractions/). It is open daily, with no admission charge to enter the venue — you pay for food and drinks.
 
-If you are staying at Banyan Tree Phuket or any other Laguna property, the beach club is within easy walking distance. Visitors from other parts of the island can reach it by taxi or grab. For hotel options across the island, see our [Phuket hotels guide](/city/phuket/hotels/) or browse [best hotels in Phuket](/best-hotels/phuket/).
+If you are staying at Banyan Tree Phuket or any other Laguna property, the beach club is within easy walking distance. Visitors from other parts of the island can reach it by taxi or grab. For hotel options across the island, see our [Phuket hotels guide](/best-hotels/phuket/) or browse [best hotels in Phuket](/best-hotels/phuket/).
 
 It is also worth noting that new nightlife regulations affect operating hours across Thailand — our coverage of the [4am closing time nightlife law](/blog/thailand-4am-closing-time-nightlife-law-2026/) explains what guests can expect. For more on Phuket's evolving nightlife quarter, see the [Bangla Road digital makeover](/blog/bangla-road-phuket-digital-makeover-nightlife-2026/).
 

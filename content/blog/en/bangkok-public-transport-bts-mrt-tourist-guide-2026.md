@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "practical-info"
 tags: ["Bangkok BTS", "Bangkok MRT", "Bangkok monorail", "Pink Line Bangkok", "Yellow Line Bangkok", "Bangkok public transport 2026", "getting around Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-public-transport-bts-mrt-tourist-guide-2026-hero.webp"
 description: "Bangkok's rail network keeps expanding. Here is the full 2026 guide to the BTS Skytrain, MRT subway, Yellow and Pink monorails, and how to use them as a tourist."
 featured: false
 readingTime: 4

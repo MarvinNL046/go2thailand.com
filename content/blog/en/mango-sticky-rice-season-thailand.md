@@ -21,7 +21,7 @@ sources:
 ---
 # Mango Sticky Rice Season in Thailand: When, Where & Best Spots
 
-If there's one dessert that defines Thai cuisine and captures the essence of tropical indulgence, it's **mango sticky rice** (khao man mamuang). Picture this: silky-smooth sticky rice infused with coconut cream, crowned with perfectly ripe golden mango slices, and drizzled with a sweet coconut sauce. It's not just a dessert—it's a seasonal celebration that transforms Thailand's food scene twice a year. For the full picture of what makes Thai desserts and dishes so distinctive, read our guide on [what Thai food is and why it is unique](/blog/what-is-thai-food-cuisine-guide/).
+If there's one dessert that defines Thai cuisine and captures the essence of tropical indulgence, it's **mango sticky rice** (khao man mamuang). Picture this: silky-smooth sticky rice infused with coconut cream, crowned with perfectly ripe golden mango slices, and drizzled with a sweet coconut sauce. It's not just a dessert—it's a seasonal celebration that transforms Thailand's food scene twice a year. For the full picture of what makes Thai desserts and dishes so distinctive, read our guide on [what Thai food is and why it is unique](/travel-guides/thai-cuisine-food-guide/).
 
 During our three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and extensive travels across Thailand, we've learned that timing is everything when hunting for the best mango sticky rice. Miss the season, and you'll find mediocre versions made with imported or frozen mangoes. Hit it right, and you'll [experience](https://getyourguide.tpo.lv/GuAFfGGK) something transcendent.
 
@@ -43,7 +43,7 @@ During our three years living in [Chiang Mai](https://go2-thailand.com/city/chia
 
 **Mango sticky rice** is far more than a random pairing of ingredients—it's a carefully balanced dessert rooted in Thai culinary tradition and Buddhist temple culture. The dish emerged from the royal courts of Thailand, where sticky rice (khao niao) was already a staple, and coconut-based sweets were reserved for special occasions. The [history of Thai cuisine](/blog/history-of-thai-cuisine/) traces how coconut-based cooking spread from the royal courts into everyday street food.
 
-The genius of this dessert lies in its simplicity and the harmony between three core elements: the glutinous texture of sticky rice, the natural sweetness and slight tartness of ripe mango, and the rich, creamy coconut sauce that binds everything together. This balance of flavors is central to [what makes Thai food so special](/blog/what-is-thai-food-cuisine-guide). When we first tasted authentic mango sticky rice at a night market in [Bangkok](https://go2-thailand.com/city/bangkok/), we immediately understood why it's become Thailand's most iconic dessert globally.
+The genius of this dessert lies in its simplicity and the harmony between three core elements: the glutinous texture of sticky rice, the natural sweetness and slight tartness of ripe mango, and the rich, creamy coconut sauce that binds everything together. This balance of flavors is central to [what makes Thai food so special](/travel-guides/thai-cuisine-food-guide). When we first tasted authentic mango sticky rice at a night market in [Bangkok](https://go2-thailand.com/city/bangkok/), we immediately understood why it's become Thailand's most iconic dessert globally.
 
 ### The History & Cultural Significance
 

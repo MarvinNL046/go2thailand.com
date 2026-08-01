@@ -101,13 +101,48 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
     return acc;
   }, {} as Record<string, Route[]>);
 
+  const collectionJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Thailand Transport Routes',
+    description: 'Compare route options between Thai destinations, including the practical trade-offs between trains, buses, ferries, flights, and transfers.',
+    url: 'https://go2-thailand.com/transport/',
+    inLanguage: 'en',
+    mainEntity: { '@id': 'https://go2-thailand.com/transport/#popular-routes' },
+  };
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((crumb, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: crumb.name,
+      item: `https://go2-thailand.com${crumb.href.endsWith('/') ? crumb.href : `${crumb.href}/`}`,
+    })),
+  };
+  const routeListJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    '@id': 'https://go2-thailand.com/transport/#popular-routes',
+    itemListElement: popularRoutes.map((route, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: `${route.from.replace(/-/g, ' ')} to ${route.to.replace(/-/g, ' ')}`,
+      url: `https://go2-thailand.com${routeHref(route.slug)}`,
+    })),
+  };
+
   return (
     <div className="min-h-screen bg-surface-cream">
       <SEOHead
-        title={`Thailand Transport Routes 2026 | Go2Thailand`}
-        description="Complete guide to traveling between Thai cities. Compare transport options, prices, and duration for flights, buses, trains, and ferries. Plan your Thailand journey with confidence."
+        title="Thailand Transport Routes: Trains, Buses, Ferries & Flights"
+        description="Compare transport routes between Thai destinations, including journey-time context, transfers, luggage trade-offs and live ticket links."
+        ogImage="https://go2-thailand.com/images/redesign/transport-thailand-hero.webp"
       >
-        <meta name="keywords" content="thailand transport, thailand bus routes, thailand flights, thailand trains, bangkok to chiang mai, bangkok to phuket, transport in thailand" />
+        <link rel="canonical" href="https://go2-thailand.com/transport/" />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(routeListJsonLd) }} />
       </SEOHead>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -121,7 +156,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
         {/* 12Go Search Widget */}
         <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
           <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? 'Boek Bussen, Treinen & Veerboten' : 'Book Buses, Trains & Ferries'}</h2>
-          <p className="text-gray-600 mb-4">{isNl ? 'Zoek en boek transport door Thailand met 12Go — vergelijk aanbieders, prijzen en schema\'s.' : 'Search and book transport across Thailand with 12Go — compare operators, prices, and schedules.'}</p>
+          <p className="text-gray-600 mb-4">{isNl ? 'Zoek en boek transport door Thailand met 12Go — vergelijk aanbieders, prijzen en schema\'s.' : 'Use 12Go to compare the currently listed operators, schedules, ticket conditions, and totals for your travel date.'}</p>
           <AffiliateWidget scriptContent={TWELVEGO_SEARCH_WIDGET} minHeight="300px" />
           <p className="text-xs text-gray-500 mt-2 text-center">{isNl ? 'Mogelijk gemaakt door 12Go — we ontvangen een commissie zonder extra kosten voor jou' : 'Powered by 12Go — we earn a commission at no extra cost to you'}</p>
         </section>
@@ -175,7 +210,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
         </section>
 
         {/* Popular Routes */}
-        <section className="mb-12">
+        <section id="popular-routes" className="mb-12">
           <h2 className="text-3xl font-bold font-heading mb-6">{isNl ? 'Populaire Routes' : 'Popular Routes'}</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
             {popularRoutes.map(route => {
@@ -197,7 +232,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                     {from.name.en} → {to.name.en}
                   </h3>
                   <div className="flex justify-between text-sm text-gray-600">
-                    <span>{isNl ? 'Vanaf' : 'From'} {route.duration.bus || route.duration.flight || route.duration.train}</span>
+                    <span>{isNl ? 'Indicatie' : 'Journey-time guide'}: {route.duration.bus || route.duration.flight || route.duration.train}</span>
                     <span className="text-thailand-red">{isNl ? 'Bekijk opties' : 'View options'} →</span>
                   </div>
                 </Link>
@@ -247,7 +282,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl font-bold font-heading mb-4">{isNl ? 'Boek Thailand Transport Online' : 'Book Thailand Transport Online'}</h2>
               <p className="text-lg mb-6 opacity-90">
-                {isNl ? 'Boek bussen, treinen, veerboten en transfers door Thailand direct met 12Go. Vergelijk prijzen, lees reviews en ontvang e-tickets per e-mail.' : 'Book buses, trains, ferries, and transfers across Thailand instantly with 12Go. Compare prices, read reviews, and get e-tickets delivered to your email.'}
+                {isNl ? 'Boek bussen, treinen, veerboten en transfers door Thailand direct met 12Go. Vergelijk prijzen, lees reviews en ontvang e-tickets per e-mail.' : 'Compare buses, trains, ferries, and transfers on 12Go. Confirm the operator, departure point, luggage rules, connection protection, final total, and ticket delivery before paying.'}
               </p>
               <div className="flex flex-wrap justify-center gap-4 mb-6">
                 <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">

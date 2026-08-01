@@ -8,7 +8,7 @@ tags: ["michelin guide", "bangkok", "restaurants", "fine dining", "street food",
 author:
   name: "Go2Thailand Team"
 reading_time: 4
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-michelin-guide-2026-new-stars-suhring-hero.webp"
 draft: false
 ---
 
@@ -46,7 +46,7 @@ Most of Bangkok's celebrated street food stalls appear in the **Bib Gourmand** c
 
 ### What This Means for Visitors
 
-Thailand's growing Michelin presence reflects a dining scene that spans every budget. You can eat a Michelin-recognised plate of pad thai for under 100 baht, then splurge on a three-star tasting menu — sometimes within the same neighbourhood. For background on what makes Thai cuisine so distinctive, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/) and our [what is Thai food guide](/blog/what-is-thai-food-cuisine-guide/).
+Thailand's growing Michelin presence reflects a dining scene that spans every budget. You can eat a Michelin-recognised plate of pad thai for under 100 baht, then splurge on a three-star tasting menu — sometimes within the same neighbourhood. For background on what makes Thai cuisine so distinctive, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/) and our [what is Thai food guide](/travel-guides/thai-cuisine-food-guide/).
 
 For travellers planning a food-focused trip, the 2026 guide covers restaurants in **[Bangkok](/city/bangkok/), [Chiang Mai](/city/chiang-mai/), [Phuket](/city/phuket/), Phang-Nga, [Krabi](/city/krabi/), [Koh Samui](/city/koh-samui/), [Ayutthaya](/city/ayutthaya/), and the Northeastern Isan region**. The geographic spread means great dining is no longer limited to the capital.
 

@@ -70,7 +70,7 @@ This is where most travelers find the best value-to-experience ratio. You get **
 ### Luxury & Resort Travel
 **Daily budget: ฿3,000+ ($85+ USD)**
 
-Beach resorts, fine dining, private tours, and high-end spas define this tier. Island destinations like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/islands/phuket/) cater heavily to this market, with 4–5 star hotels, beachfront restaurants, and premium experiences.
+Beach resorts, fine dining, private tours, and high-end spas define this tier. Island destinations like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) cater heavily to this market, with 4–5 star hotels, beachfront restaurants, and premium experiences.
 
 **What's included:**
 - **Accommodation:** 4–5 star hotels, resorts (฿2,000–5,000+)
@@ -127,7 +127,7 @@ This tier includes charming guesthouses, small hotels with personality, and mid-
 ### Luxury Resorts & High-End Hotels
 **฿2,000–5,000+ ($57–143+ USD) per night**
 
-Island resorts, 4–5 star hotels, and beachfront properties dominate this category. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/islands/phuket/) have the most options, but luxury is available everywhere—even in Chiang Mai you'll find high-end resorts.
+Island resorts, 4–5 star hotels, and beachfront properties dominate this category. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) have the most options, but luxury is available everywhere—even in Chiang Mai you'll find high-end resorts.
 
 <div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
@@ -172,7 +172,7 @@ When we explored [Bangkok's street food markets](/blog/best-street-food-markets-
 This is authentic Thailand. **Pad Thai, khao pad, som tam, pad krapow moo**—these dishes are everywhere, cheap, and incredible. Markets open early morning (5–9am) for breakfast, midday (11am–2pm) for lunch, and evening (4–9pm) for dinner. Each meal costs ฿40–80 for a single dish; add a drink for ฿10–20.
 
 **Best street food neighborhoods:**
-- **Bangkok:** [Chatuchak Market](/city/bangkok/attractions/chatuchak-market/), Yaowarat (Chinatown), Talad Rot Fai — also see the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/)
+- **Bangkok:** [Chatuchak Market](/city/bangkok/attractions/), Yaowarat (Chinatown), Talad Rot Fai — also see the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/)
 - **Chiang Mai:** Warorot Market, [Sunday Walking Street](/city/chiang-mai/attractions/sunday-night-market/)
 - **Phuket:** [Phuket Town Old Town](/blog/old-town-phuket-walking-guide-street-art-cafes-2026/), Patong Beach markets
 - **Islands:** Night markets in [Koh Samui](/best-hotels/koh-samui/) and [Koh Phangan](/best-hotels/koh-samui/)
@@ -281,7 +281,7 @@ When we took a cooking class in Chiang Mai, we paid ฿700 ($20) for a 4-hour cl
 Thailand's temples, beaches, and markets are free or nearly free. Donations at temples are optional (฿20–100 if you wish). Night markets are free to browse. Beaches have no entrance fee. Hiking in national parks costs ฿200–400 for entry.
 
 **Best free activities:**
-- **Temple visits:** Wat Phra That Doi Suthep (Chiang Mai), [Grand Palace](/city/bangkok/attractions/grand-palace/) (Bangkok), [Wat Phra Singh](/city/chiang-mai/attractions/wat-phra-singh/) (Chiang Mai) — read our [temple etiquette guide](/blog/thailand-temple-etiquette-dress-code-guide-2026/) before going
+- **Temple visits:** Wat Phra That Doi Suthep (Chiang Mai), [Grand Palace](/city/bangkok/attractions/) (Bangkok), [Wat Phra Singh](/city/chiang-mai/attractions/wat-phra-singh/) (Chiang Mai) — read our [temple etiquette guide](/blog/thailand-temple-etiquette-dress-code-guide-2026/) before going
 - **Night markets:** [Chiang Mai Sunday Walking Street](/city/chiang-mai/attractions/sunday-night-market/), Bangkok Talad Rot Fai, [Phuket Old Town](/blog/old-town-phuket-walking-guide-street-art-cafes-2026/)
 - **Beaches:** Any public beach in Thailand is free — see our [best beaches in Thailand](/best-beaches-in-thailand/) guide for where to go
 - **Hiking:** National parks charge ฿200–400 entry

@@ -7,7 +7,7 @@ category: "news"
 author:
   name: "Go2Thailand Editorial"
 tags: ["thailand tourism policy", "travel deals thailand", "low season thailand", "tax incentives", "anutin tourism 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-low-season-tourism-stimulus-tax-breaks-2026-hero.webp"
 draft: false
 sources:
   - "https://www.thailandblog.nl/en/toerisme/thailand-overweegt-nieuwe-steunmaatregelen-voor-toerisme-in-laagseizoen-2026/"

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "destinations"
 tags: ["Koh Lipe", "Koh Lipe 2026", "Maldives of Thailand", "Satun province", "Tarutao National Marine Park", "Thailand islands", "snorkelling Thailand", "Sunrise Beach"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/koh-lipe-maldives-of-thailand-travel-guide-2026-hero.webp"
 description: "Koh Lipe is a tiny island in the Tarutao National Marine Park often called the Maldives of Thailand. Here is everything you need to know for a 2026 visit, from beaches and diving to ferries and budget tips."
 featured: false
 readingTime: 3

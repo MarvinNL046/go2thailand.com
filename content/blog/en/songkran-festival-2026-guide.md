@@ -65,7 +65,7 @@ The modern **Songkran** experience varies dramatically by location. In [Bangkok]
 
 ### Regional Variations
 
-Different regions celebrate with distinct traditions. In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), the festival spans the full three days with the Chiang Mai Songkran Parade on April 13, featuring floats, beauty contests, and traditional water blessings. [Bangkok](https://go2-thailand.com/city/bangkok/) concentrates its chaos on April 13–14, with Silom Road and Khao San Road becoming epicenters of water battles. Southern islands like [Phuket](https://go2-thailand.com/islands/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/) extend festivities through April 17, capitalizing on beach settings and tourist demand.
+Different regions celebrate with distinct traditions. In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), the festival spans the full three days with the Chiang Mai Songkran Parade on April 13, featuring floats, beauty contests, and traditional water blessings. [Bangkok](https://go2-thailand.com/city/bangkok/) concentrates its chaos on April 13–14, with Silom Road and Khao San Road becoming epicenters of water battles. Southern islands like [Phuket](https://go2-thailand.com/city/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/) extend festivities through April 17, capitalizing on beach settings and tourist demand.
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -117,7 +117,7 @@ Choosing where to celebrate **Songkran** depends on your personality and travel 
 - **[Siam Songkran Music Festival](/blog/siam-songkran-music-festival-2026-bangkok-guide/)**: Stadium-scale Songkran party with live music
 - **[S2O Songkran Music Festival](/blog/s2o-songkran-music-festival-2026-bangkok-edm-water-party/)**: International EDM acts with giant water cannons
 - **Sanam Luang**: Traditional temple ceremonies; merit-making activities; more spiritual vibe
-- **[Lumpini Park](/city/bangkok/attractions/lumpini-park/)**: Calmer water activities; family-friendly; good for escaping extreme crowds
+- **[Lumpini Park](/city/bangkok/attractions/)**: Calmer water activities; family-friendly; good for escaping extreme crowds
 
 ### Chiang Mai: Cultural Immersion with Water Fun
 
@@ -131,7 +131,7 @@ Choosing where to celebrate **Songkran** depends on your personality and travel 
 
 ### Island Destinations: Beach-Based Celebrations
 
-Southern islands extend Songkran through mid-April, offering beach-based festivities. [Phuket](https://go2-thailand.com/islands/phuket/) hosts the Phuket Songkran Festival with parades, water activities on Patong Beach, and evening celebrations. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) offer more relaxed water celebrations combined with beach parties.
+Southern islands extend Songkran through mid-April, offering beach-based festivities. [Phuket](https://go2-thailand.com/city/phuket/) hosts the Phuket Songkran Festival with parades, water activities on Patong Beach, and evening celebrations. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) offer more relaxed water celebrations combined with beach parties.
 
 **Best island spots:**
 - **[Patong Beach, Phuket](/blog/andamanda-phuket-day-songkran-pool-party-2026/)**: Organized water activities; beach parties; tourist infrastructure
@@ -267,7 +267,7 @@ While **Songkran** is generally safe, the massive crowds and water activities pr
 
 ### Travel Insurance
 
-We strongly recommend [travel insurance](https://go2-thailand.com/travel-insurance-thailand/) covering medical emergencies, trip cancellation, and theft. Songkran's crowds and water activities increase accident risk. For a full breakdown of what is banned and what can get you fined, read our dedicated [Songkran 2026 water gun rules guide](/blog/songkran-2026-water-gun-rules-fines-safety-guide/).
+We strongly recommend [travel insurance](https://go2-thailand.com/travel-insurance/) covering medical emergencies, trip cancellation, and theft. Songkran's crowds and water activities increase accident risk. For a full breakdown of what is banned and what can get you fined, read our dedicated [Songkran 2026 water gun rules guide](/blog/songkran-2026-water-gun-rules-fines-safety-guide/).
 
 <div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
@@ -411,7 +411,7 @@ Major roads close during parades and water activities. Check local news for clos
 
 **Stay outside festival zones**: Accommodation 2–3 km from Silom or Khao San Road costs considerably less and offers quieter nights.
 
-**Eat where locals eat**: [Street food](/blog/thai-street-food-guide-2026/) and local restaurants cost 50–100 THB per meal; tourist restaurants charge 200–500 THB.
+**Eat where locals eat**: [Street food](/thailand-street-food/) and local restaurants cost 50–100 THB per meal; tourist restaurants charge 200–500 THB.
 
 **Skip organized tours**: Most Songkran activities are free; paid tours offer little advantage.
 
@@ -437,7 +437,7 @@ Yes, Songkran is generally safe for solo travelers, but exercise caution. Stick 
 
 ### What's the best Songkran destination for families with children?
 
-[Chiang Mai](https://go2-thailand.com/city/chiang-mai/) offers a more balanced experience with cultural activities alongside water fun. The Old City moat provides a scenic setting for family water activities, and temple visits are educational. [Phuket](https://go2-thailand.com/islands/phuket/) beaches also work well for families seeking a more relaxed atmosphere than [Bangkok](https://go2-thailand.com/city/bangkok/).
+[Chiang Mai](https://go2-thailand.com/city/chiang-mai/) offers a more balanced experience with cultural activities alongside water fun. The Old City moat provides a scenic setting for family water activities, and temple visits are educational. [Phuket](https://go2-thailand.com/city/phuket/) beaches also work well for families seeking a more relaxed atmosphere than [Bangkok](https://go2-thailand.com/city/bangkok/).
 
 ### How crowded is Songkran?
 
@@ -463,7 +463,7 @@ Thailand has excellent hospitals in major cities. Bangkok Hospital, Bumrungrad I
 
 ## Conclusion
 
-**Songkran Festival 2026** is more than a water fight—it's a celebration of renewal, community, and joy that captures the spirit of Thailand. Whether you're soaked in the chaos of [Bangkok's](https://go2-thailand.com/city/bangkok/) Silom Road, participating in temple blessings in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), or enjoying beach festivities on [Phuket](https://go2-thailand.com/islands/phuket/), you'll experience a cultural phenomenon that transcends tourism.
+**Songkran Festival 2026** is more than a water fight—it's a celebration of renewal, community, and joy that captures the spirit of Thailand. Whether you're soaked in the chaos of [Bangkok's](https://go2-thailand.com/city/bangkok/) Silom Road, participating in temple blessings in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), or enjoying beach festivities on [Phuket](https://go2-thailand.com/city/phuket/), you'll experience a cultural phenomenon that transcends tourism.
 
 Plan ahead—book accommodation 2–3 months in advance, arrange transport early, and pack strategically. Respect local traditions, stay safe in crowds, and embrace the infectious energy that defines this festival. Songkran reminds us that celebration, water, and laughter are universal languages.
 

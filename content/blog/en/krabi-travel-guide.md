@@ -37,7 +37,7 @@ Imagine towering limestone cliffs rising straight from turquoise waters, hidden 
 
 ## 1. Understanding Krabi: Geography & Why It's Special
 
-**Krabi province** sits in southern Thailand, roughly 814 km south of [Bangkok](https://go2-thailand.com/city/bangkok/), and is defined by its dramatic limestone karst landscape—the same geological formations that make [Phuket](https://go2-thailand.com/islands/phuket/) and [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) iconic. You can read the full overview on the [Krabi destination page](https://go2-thailand.com/city/krabi/). What sets Krabi apart is its sheer concentration of natural wonders within a compact area: over 130 islands, pristine coral reefs, and some of the world's most challenging rock-climbing routes.
+**Krabi province** sits in southern Thailand, roughly 814 km south of [Bangkok](https://go2-thailand.com/city/bangkok/), and is defined by its dramatic limestone karst landscape—the same geological formations that make [Phuket](https://go2-thailand.com/city/phuket/) and [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) iconic. You can read the full overview on the [Krabi destination page](https://go2-thailand.com/city/krabi/). What sets Krabi apart is its sheer concentration of natural wonders within a compact area: over 130 islands, pristine coral reefs, and some of the world's most challenging rock-climbing routes.
 
 When we first explored Krabi three years ago, we were struck by how the landscape shifts dramatically from the busy Ao Nang beachfront to the serene, car-free beaches of Railey and the untouched wilderness of Koh Lanta. The province is also home to a 75-million-year-old shell cemetery and natural hot springs—geological treasures that tell the story of Thailand's ancient past.
 
@@ -115,7 +115,7 @@ Krabi's accommodation ranges from beachfront luxury resorts to backpacker hostel
 </div>
 
 
-**[Ao Nang](https://go2-thailand.com/city/krabi/attractions/ao-nang-beach/)** is the main beach and commercial center, where most visitors stay. It's a 2 km crescent of sand lined with hotels, dive shops, restaurants, and bars. The beach itself is pleasant but crowded, especially during peak season. The real advantage is proximity to ferry piers and easy access to restaurants and nightlife.
+**[Ao Nang](https://go2-thailand.com/city/krabi/attractions/)** is the main beach and commercial center, where most visitors stay. It's a 2 km crescent of sand lined with hotels, dive shops, restaurants, and bars. The beach itself is pleasant but crowded, especially during peak season. The real advantage is proximity to ferry piers and easy access to restaurants and nightlife.
 
 **Best for:** First-time visitors, families, divers, those wanting walkable nightlife and dining.
 
@@ -135,7 +135,7 @@ Just north of Ao Nang, **Noppharat Thara** is a quieter, shadier beach that's pa
 
 ### Railey Beach: Bohemian Paradise
 
-Accessible only by boat (15 minutes from Ao Nang, 100 THB/$3 USD), **[Railey Beach](https://go2-thailand.com/city/krabi/attractions/railay-beach/)** is a car-free paradise of limestone cliffs, rock climbers, and laid-back beach bars. There are two beaches: Railey East (mangrove-lined, quieter) and Railey West (the main beach with bars and restaurants).
+Accessible only by boat (15 minutes from Ao Nang, 100 THB/$3 USD), **[Railey Beach](https://go2-thailand.com/city/krabi/attractions/)** is a car-free paradise of limestone cliffs, rock climbers, and laid-back beach bars. There are two beaches: Railey East (mangrove-lined, quieter) and Railey West (the main beach with bars and restaurants).
 
 When we spent three days in Railey, we felt transported to a different era—no vehicles, no vendors hassling you, just climbers, kayakers, and travelers seeking escape. It's genuinely special.
 
@@ -179,7 +179,7 @@ Krabi's appeal lies in its combination of adventure activities, natural wonders,
 
 ### Rock Climbing at Railey Beach
 
-**[Railey Beach](https://go2-thailand.com/city/krabi/attractions/railay-beach/)** is one of the world's premier rock-climbing destinations, with over 600 bolted routes ranging from beginner (grade 5.5) to elite (grade 5.13). The limestone cliffs provide stunning backdrops and challenging ascents.
+**[Railey Beach](https://go2-thailand.com/city/krabi/attractions/)** is one of the world's premier rock-climbing destinations, with over 600 bolted routes ranging from beginner (grade 5.5) to elite (grade 5.13). The limestone cliffs provide stunning backdrops and challenging ascents.
 
 **Best climbing seasons:** November to February (dry season, best conditions). During monsoon (May–October), some routes are inaccessible due to rain and loose rock.
 
@@ -241,7 +241,7 @@ The **Railey Viewpoint** hike (45 minutes, moderate difficulty) rewards climbers
 
 ### Hot Springs & Emerald Pool
 
-**[Khlong Thom Hot Springs](https://go2-thailand.com/city/krabi/attractions/klong-thom-hot-springs/)** and **[Emerald Pool (Sra Morakot)](https://go2-thailand.com/city/krabi/attractions/emerald-pool/)** are natural wonders located inland, about 45 minutes from Ao Nang. The emerald-colored freshwater pool is surrounded by jungle and offers a refreshing swim. Nearby hot springs provide therapeutic soaks.
+**[Khlong Thom Hot Springs](https://go2-thailand.com/city/krabi/attractions/)** and **[Emerald Pool (Sra Morakot)](https://go2-thailand.com/city/krabi/attractions/)** are natural wonders located inland, about 45 minutes from Ao Nang. The emerald-colored freshwater pool is surrounded by jungle and offers a refreshing swim. Nearby hot springs provide therapeutic soaks.
 
 **Tours:** Half-day trips (1,200–1,500 THB/$34–42 USD) include transportation, guide, and sometimes lunch. These are less touristy than beach activities and offer a different perspective on Krabi's natural diversity.
 

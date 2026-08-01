@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "attractions"
 tags: ["Mahanakhon SkyWalk", "Bangkok attractions 2026", "I-Tilt Bangkok", "Bangkok viewpoints", "Bangkok skyscraper", "King Power Mahanakhon", "thrill rides Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/mahanakhon-skywalk-i-tilt-bangkok-worlds-highest-tilt-2026-hero.webp"
 description: "The Mahanakhon I-Tilt is the world's only outdoor tilting glass platform, suspending visitors 296 metres above Bangkok at a 65-degree angle. Here is everything you need to know before you go."
 featured: false
 readingTime: 3

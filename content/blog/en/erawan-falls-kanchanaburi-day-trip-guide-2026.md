@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "destinations"
 tags: ["Erawan Falls", "Kanchanaburi", "Erawan National Park 2026", "Thailand waterfalls", "day trip from Bangkok", "swimming Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/erawan-falls-kanchanaburi-day-trip-guide-2026-hero.webp"
 description: "Everything you need to know before visiting Erawan Falls in 2026: entrance fees, park rules, how to reach all seven tiers, and tips for avoiding the crowds."
 featured: false
 readingTime: 3

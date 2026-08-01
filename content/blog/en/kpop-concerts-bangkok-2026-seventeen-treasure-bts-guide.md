@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "entertainment"
 tags: ["K-pop Bangkok 2026", "BTS Bangkok concert", "SEVENTEEN Bangkok 2026", "TREASURE Bangkok 2026", "Bangkok concerts 2026", "Thailand entertainment"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide-hero.webp"
 description: "Bangkok is a major stop on every K-pop world tour in 2026. Here is the full schedule of confirmed concerts including SEVENTEEN, TREASURE and the long-awaited BTS return in December."
 featured: false
 readingTime: 3

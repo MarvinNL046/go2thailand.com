@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "attractions"
 tags: ["Bangkok attractions", "Space Time Cube", "immersive art", "metaverse museum", "Bangkok 2026", "digital art Bangkok", "Seacon Bangkae"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/space-time-cube-bangkok-immersive-metaverse-museum-2026-hero.webp"
 description: "Space & Time Cube in Bangkok is a 1,500 sqm immersive metaverse museum with 27 themed rooms, 720-degree projections, and glasses-free 3D holograms. Here is what visitors should know."
 featured: false
 readingTime: 3

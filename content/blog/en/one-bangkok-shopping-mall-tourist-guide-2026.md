@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "shopping"
 tags: ["One Bangkok", "Bangkok shopping", "Bangkok mall 2026", "Mitsukoshi Bangkok", "Anish Kapoor Bangkok", "MRT Lumpini"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/one-bangkok-shopping-mall-tourist-guide-2026-hero.webp"
 description: "One Bangkok is Bangkok's largest new mixed-use development with over 750 stores, 200 restaurants and free public art. Here is everything tourists need to know before visiting in 2026."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ sources:
 
 ## Bangkok's New Mega-Mall Has Arrived
 
-One Bangkok opened in late 2024 and has quickly become one of the most talked-about destinations in the city. Spanning over 190,000 square metres of retail space with more than 750 stores and 200-plus restaurants, it is the largest mixed-use development [Bangkok](/destinations/bangkok/) has ever seen. Think of it as a small city within the city — shopping, dining, art, hotels and a park all rolled into one.
+One Bangkok opened in late 2024 and has quickly become one of the most talked-about destinations in the city. Spanning over 190,000 square metres of retail space with more than 750 stores and 200-plus restaurants, it is the largest mixed-use development [Bangkok](/city/bangkok/) has ever seen. Think of it as a small city within the city — shopping, dining, art, hotels and a park all rolled into one.
 
 If you are visiting Bangkok in 2026, here is why One Bangkok deserves a spot on your itinerary. For a broader look at what the city has to offer, check our [3-day Bangkok itinerary](/itineraries/3-days-bangkok/) or the full [Bangkok travel guide](/guides/travel-guide/bangkok/).
 

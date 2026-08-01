@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "hotels"
 tags: ["voco Bangkok", "IHG Thailand", "Bangkok hotels 2026", "Surawong Road", "Silom hotels", "new hotel Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/voco-bangkok-surawong-ihg-first-thailand-opening-2026-hero.webp"
 description: "IHG Hotels & Resorts has opened voco Bangkok Surawong, the first voco-branded property in Thailand. Here is what guests can expect from this heritage-meets-modern hotel on Surawong Road."
 featured: false
 readingTime: 3

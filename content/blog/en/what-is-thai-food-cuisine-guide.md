@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["thai food", "thai cuisine", "thailand culture", "food guide"]
-image: "/images/blog/what-is-thai-food-cuisine-guide.webp"
+image: "/images/redesign/editorial/what-is-thai-food-cuisine-guide-hero.webp"
 description: "What makes Thai food unique? Explore the five flavor pillars, regional differences, essential ingredients, and the most iconic Thai dishes every visitor should try."
 featured: true
 readingTime: 12
@@ -86,7 +86,7 @@ Isaan cooking features **fermented fish (pla ra)**, sticky rice, and liberal use
 
 **Southern Thai food** is the spiciest and most intense of the four regions. Located between the Andaman Sea and the Gulf of Thailand, the south has abundant **seafood** and is heavily influenced by **Malay and Muslim culinary traditions**. Turmeric, dried spices, and thin, broth-based curries are hallmarks of the cuisine.
 
-Standout dishes include **Gaeng Tai Pla** (a devastatingly spicy curry made with fermented fish innards), **Gaeng Som** (a sour curry often made with fish), and **Kua Kling** (dry-fried minced meat with an intense chili paste). The southern islands and beach towns like those on [Phuket](/islands/phuket/) and [Koh Samui](/islands/koh-samui/) offer both authentic southern fare and tourist-friendly versions. Planning to visit the south? See our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) for route planning.
+Standout dishes include **Gaeng Tai Pla** (a devastatingly spicy curry made with fermented fish innards), **Gaeng Som** (a sour curry often made with fish), and **Kua Kling** (dry-fried minced meat with an intense chili paste). The southern islands and beach towns like those on [Phuket](/city/phuket/) and [Koh Samui](/islands/koh-samui/) offer both authentic southern fare and tourist-friendly versions. Planning to visit the south? See our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) for route planning.
 
 ## Essential Thai Ingredients
 

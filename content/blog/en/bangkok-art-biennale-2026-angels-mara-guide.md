@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "culture"
 tags: ["Bangkok Art Biennale", "BAB 2026", "contemporary art", "Bangkok culture", "Wat Arun", "Wat Pho", "BACC", "Thailand events 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-art-biennale-2026-angels-mara-guide-hero.webp"
 description: "The Bangkok Art Biennale 2026 runs from October 2026 to February 2027 with the theme Angels and Mara. Free art installations across temples, museums and landmarks."
 featured: false
 readingTime: 3
@@ -36,10 +36,10 @@ The curatorial team is led by Prof. Dr. Apinan Poshyananda, the Biennale's chief
 
 Installations will be scattered across some of Bangkok's most iconic landmarks:
 
-- **[Wat Arun](/city/bangkok/attractions/wat-arun/)** and **[Wat Pho](/city/bangkok/attractions/wat-pho/)** — contemporary art set against centuries-old temple architecture
+- **[Wat Arun](/city/bangkok/attractions/)** and **[Wat Pho](/city/bangkok/attractions/)** — contemporary art set against centuries-old temple architecture
 - **Wat Prayoon** — a lesser-known but stunning riverside temple
 - **Bangkok Art and Culture Centre (BACC)** — the city's main contemporary art hub near BTS National Stadium
-- **Museum Siam** and the **[National Museum Bangkok](/city/bangkok/attractions/bangkok-national-museum/)** — heritage buildings near the [Grand Palace](/city/bangkok/attractions/grand-palace/)
+- **Museum Siam** and the **[National Museum Bangkok](/city/bangkok/attractions/)** — heritage buildings near the [Grand Palace](/city/bangkok/attractions/)
 - **National Gallery of Thailand** — right on Chao Phraya Road
 - **[One Bangkok](/blog/one-bangkok-shopping-mall-tourist-guide-2026/)** — the massive new mixed-use development in the CBD
 

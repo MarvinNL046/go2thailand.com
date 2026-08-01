@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Michelin Bib Gourmand Thailand 2026", "Bangkok street food", "cheap eats Thailand", "Chiang Mai restaurants", "Thailand food guide 2026", "best restaurants Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-bib-gourmand-2026-new-restaurants-street-food-hero.webp"
 description: "The Michelin Guide Thailand 2026 added 13 new Bib Gourmand restaurants across Bangkok, Chiang Mai, Surat Thani and more. Here are the best new affordable eats worth a detour."
 featured: false
 readingTime: 3
@@ -55,7 +55,7 @@ The full 2026 Bib Gourmand selection is searchable on the official Michelin Guid
 For food-focused travellers, combining the Bib Gourmand list with Thailand's legendary street food markets creates one of the best culinary experiences in Southeast Asia — and you will rarely spend more than a few hundred baht per meal. To plan around this:
 
 - **Night markets:** Our [best night markets in Bangkok guide](/blog/best-night-markets-bangkok-2026/) and [night markets for food lovers](/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/) cover the top spots in the capital, Chiang Mai, and Phuket.
-- **Street food overview:** The [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) explains dishes, prices, and where to find them — a solid companion to the Bib Gourmand list.
+- **Street food overview:** The [Thai street food guide 2026](/thailand-street-food/) explains dishes, prices, and where to find them — a solid companion to the Bib Gourmand list.
 - **Bangkok's best restaurants:** See the [Bangkok Top Tables 2026 awards](/blog/bangkok-top-tables-2026-best-restaurants-awards/) for a broader picture of the city's dining scene beyond Michelin.
 - **Budget context:** Our [Thailand budget 2026 guide](/thailand-index/budget/) shows that a full day's food budget at Bib Gourmand restaurants is still well within reach for backpackers and mid-range travellers alike.
 - **Getting around:** Use the [Bangkok public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) to hop between Bib Gourmand restaurants across the city without overpaying on taxis.

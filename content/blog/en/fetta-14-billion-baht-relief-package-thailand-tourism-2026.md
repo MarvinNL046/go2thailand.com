@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand tourism", "FETTA", "relief package", "oil prices", "domestic tourism", "aviation"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/fetta-14-billion-baht-relief-package-thailand-tourism-2026-hero.webp"
 description: "Thailand's tourism federation proposes a massive 14-billion-baht stimulus to shield the industry from rising fuel costs and global oil volatility."
 featured: false
 readingTime: 3

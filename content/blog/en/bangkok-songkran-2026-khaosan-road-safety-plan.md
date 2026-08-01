@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["songkran 2026", "bangkok", "khaosan road", "safety", "water festival"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-songkran-2026-khaosan-road-safety-plan-hero.webp"
 description: "Bangkok officials announce comprehensive safety measures for Songkran 2026 on Khaosan Road, including CCTV monitoring, crowd control, and the '5 Por' campaign."
 featured: false
 readingTime: 3

@@ -4,7 +4,7 @@ date: "2026-03-23"
 lastUpdated: "2026-03-29"
 author:
   name: "Go2Thailand Editorial"
-image: "/images/blog/thailand-travel.jpg"
+image: "/images/redesign/editorial/kahavadi-chiang-rai-curio-collection-hilton-river-retreat-2026-hero.webp"
 tags: ["thailand", "chiang-rai", "hotels", "hilton", "luxury"]
 summary: "Hilton brings its Curio Collection brand to northern Thailand with the Kahavadi Chiang Rai, a 167-room riverside retreat inspired by Lanna merchant heritage, opening July 2026."
 sources:

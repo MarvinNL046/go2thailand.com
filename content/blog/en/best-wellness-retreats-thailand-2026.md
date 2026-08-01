@@ -62,7 +62,7 @@ The city's Old City district and surrounding areas host dozens of dedicated yoga
 
 ### Phuket & Southern Islands: Beach Detox Retreats
 
-The southern region, particularly [Phuket](https://go2-thailand.com/islands/phuket/) and smaller islands like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) — also famous for the [Full Moon Party](/blog/full-moon-party-koh-phangan-guide-2026/) — specializes in beachfront wellness experiences. These retreats emphasize ocean-based healing, detoxification programs, and luxury spa experiences. The combination of pristine beaches, warm weather, and upscale facilities makes this region popular with international wellness tourists willing to spend more for comfort.
+The southern region, particularly [Phuket](https://go2-thailand.com/city/phuket/) and smaller islands like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) — also famous for the [Full Moon Party](/blog/full-moon-party-koh-phangan-guide-2026/) — specializes in beachfront wellness experiences. These retreats emphasize ocean-based healing, detoxification programs, and luxury spa experiences. The combination of pristine beaches, warm weather, and upscale facilities makes this region popular with international wellness tourists willing to spend more for comfort.
 
 During our [island-hopping](/blog/thailand-island-hopping-guide/) research, we found that southern retreats tend to be more expensive but offer superior amenities—private beachfront locations, infinity pools overlooking the Andaman Sea, and high-end spa facilities. Many combine traditional Thai massage with modern wellness modalities like hydrotherapy and nutritional counseling.
 
@@ -472,7 +472,7 @@ Once you've selected your retreat:
 3. **Prepare required documents** (passport, visa documentation, medical records if relevant)
 4. **Notify your bank** of travel dates to avoid card blocks
 5. **Pack appropriately** (check the [packing list](/travel-gear/) for Thailand)
-6. **Arrange travel insurance** ([Thailand travel insurance](https://go2-thailand.com/travel-insurance-thailand/) is highly recommended)
+6. **Arrange travel insurance** ([Thailand travel insurance](https://go2-thailand.com/travel-insurance/) is highly recommended)
 7. **Arrive early** if possible to acclimate and meet staff
 
 **Pro tip:** Book 2-4 weeks in advance for popular retreats during peak season (November-February). For longer programs or specialized facilities, book 1-2 months ahead.

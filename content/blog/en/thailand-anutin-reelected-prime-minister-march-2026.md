@@ -6,7 +6,7 @@ category: "news"
 author:
   name: "Go2Thailand Team"
 tags: ["thailand politics", "anutin charnvirakul", "bhumjaithai party", "thailand government 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-anutin-reelected-prime-minister-march-2026-hero.webp"
 draft: false
 lastUpdated: "2026-03-29"
 ---

@@ -26,7 +26,7 @@ sources:
 
 **Thai cuisine** as we know it today is not the invention of a single culture. It is the product of centuries of migration, trade, conquest, and adaptation. Ingredients and techniques from **China, India, Persia, Portugal**, and the Malay Peninsula all left their mark on Thai cooking. Understanding this history explains why a single Thai meal can feature Chinese noodles, Indian-inspired curry, and New World chilies -- all held together by distinctly Thai flavors.
 
-For an overview of the cuisine itself, see our [essential guide to Thai food](/blog/what-is-thai-food-cuisine-guide/). To see how this history plays out on the streets of Bangkok today, explore our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) or dive into the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
+For an overview of the cuisine itself, see our [essential guide to Thai food](/travel-guides/thai-cuisine-food-guide/). To see how this history plays out on the streets of Bangkok today, explore our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) or dive into the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 
 ## Ancient Roots: The Sukhothai Period
 

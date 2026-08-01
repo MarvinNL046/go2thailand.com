@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "attractions"
 tags: ["THAINOSAUR Museum", "Bangkok attractions 2026", "dinosaur museum Bangkok", "Bangkok Spectacular 2026", "family things to do Bangkok", "SkyFlyers Garudapterus"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thainosaur-museum-bangkok-dinosaur-attraction-2026-hero.webp"
 description: "Bangkok's THAINOSAUR Museum is a brand-new immersive dinosaur experience featuring real fossils, a 30-metre dinosaur, and the SkyFlyers swing ride. Here is everything visitors need to know."
 featured: false
 readingTime: 3

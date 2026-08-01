@@ -78,7 +78,7 @@ You can do this route in 10 days (tight but doable) or 14 days (comfortable, wit
 
 ### Day 3: Markets, Food, and Modern Bangkok
 
-**Morning:** Visit a floating market ([Damnoen Saduak](https://go2-thailand.com/city/bangkok/attractions/damnoen-saduak/) or the smaller, less touristy Amphawa). See our [Bangkok floating markets guide](https://go2-thailand.com/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) for what to expect. Book a [day trip from Bangkok](https://go2-thailand.com/blog/best-day-trips-from-bangkok/) or arrange transport via Grab.
+**Morning:** Visit a floating market ([Damnoen Saduak](https://go2-thailand.com/city/bangkok/attractions/) or the smaller, less touristy Amphawa). See our [Bangkok floating markets guide](https://go2-thailand.com/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) for what to expect. Book a [day trip from Bangkok](https://go2-thailand.com/blog/best-day-trips-from-bangkok/) or arrange transport via Grab.
 
 **Afternoon:** Explore modern Bangkok — the [BTS Skytrain](https://go2-thailand.com/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) connects malls, neighborhoods, and rooftop bars. Visit Chinatown (Yaowarat Road) for the best [street food in Bangkok](https://go2-thailand.com/blog/best-street-food-markets-bangkok/).
 
@@ -130,7 +130,7 @@ Fly from Chiang Mai to your island destination. You have two main choices:
 - **[Koh Tao](https://go2-thailand.com/islands/koh-tao/)** — Best for [diving](https://go2-thailand.com/blog/koh-tao-guide-diving-beaches-budget-travel/) and snorkeling. Small, budget-friendly, laid-back.
 
 ### Andaman Coast (West Side)
-- **[Phuket](https://go2-thailand.com/islands/phuket/)** — Largest island, most infrastructure, direct flights. Read our [Phuket guide](https://go2-thailand.com/blog/phuket-travel-guide-2026/).
+- **[Phuket](https://go2-thailand.com/city/phuket/)** — Largest island, most infrastructure, direct flights. Read our [Phuket guide](https://go2-thailand.com/blog/phuket-travel-guide-2026/).
 - **[Krabi](https://go2-thailand.com/blog/krabi-travel-guide/)** — Mainland base with stunning limestone cliffs. Gateway to smaller islands.
 - **[Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/)** — Dramatic scenery, Maya Bay, great snorkeling. Crowded but worth a day trip or overnight.
 - **[Koh Lanta](https://go2-thailand.com/islands/koh-lanta/)** — Quieter, more relaxed. Excellent for families and those avoiding party scenes.
@@ -163,7 +163,7 @@ These are the errors we see first-time visitors make again and again:
 
 1. **Overbooking your schedule.** You don't need to see everything. Thailand rewards slow travel. Leave gaps in your itinerary for spontaneous discoveries — a random street food stall, a conversation with a local, an unplanned beach.
 
-2. **Skipping street food.** Eating only in hotel restaurants means missing Thailand's greatest strength. [Street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/) is safe (look for busy stalls with high turnover), incredibly cheap, and often better than restaurant food. Read our [street food beginner's guide](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) or check [how to eat like a local for under $5](https://go2-thailand.com/blog/eat-like-local-thailand-under-5-dollars/).
+2. **Skipping street food.** Eating only in hotel restaurants means missing Thailand's greatest strength. [Street food](https://go2-thailand.com/thailand-street-food/) is safe (look for busy stalls with high turnover), incredibly cheap, and often better than restaurant food. Read our [street food beginner's guide](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) or check [how to eat like a local for under $5](https://go2-thailand.com/blog/eat-like-local-thailand-under-5-dollars/).
 
 3. **Only visiting tourist areas.** The Grand Palace and Phi Phi are spectacular, but they're also packed. Balance famous sites with quieter spots — [Talad Noi](https://go2-thailand.com/blog/24-hours-talad-noi-bangkok-hidden-gem/) in Bangkok, local temples in Chiang Mai, or a less-visited island like [Koh Chang](https://go2-thailand.com/blog/koh-chang-guide-thailand-eastern-island/).
 

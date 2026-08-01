@@ -29,7 +29,7 @@ Imagine the thunderous roar of a packed stadium as two fighters clash in a ritua
 |----------|--------|
 | **What is the best time to visit?** | November to February for **Muay Thai** fights, when cooler weather (20-30°C) makes outdoor stadiums comfortable; avoid peak rainy season (May-October) for training camps due to slippery rings. |
 | **How much does it cost?** | Watching fights: 1,000-3,000 THB ($30-90 USD) for ringside seats; training: 500-2,000 THB ($15-60 USD) per session, with camps starting at 10,000 THB ($300 USD) weekly. Prices vary by location. |
-| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/destinations/bangkok/) for central stadiums via [Flights To Bangkok](https://go2-thailand.com/flights-to-bangkok/); use [Transport](https://go2-thailand.com/transport/) options like buses or trains to Chiang Mai or Phuket. |
+| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) for central stadiums via [Flights To Bangkok](https://go2-thailand.com/flights-to-bangkok/); use [Transport](https://go2-thailand.com/transport/) options like buses or trains to Chiang Mai or Phuket. |
 | **Is it safe?** | Generally safe for spectators and trainees, but fights can be intense—stick to reputable venues; training risks minor injuries, so choose certified camps with medical support. Thailand's overall safety is high for tourists. |
 | **What should I book in advance?** | Prime fight tickets at Rajadamnern or Lumpinee Stadiums, especially weekends; training sessions at popular camps like those in Phuket during high season. |
 | **Best for beginners?** | Chiang Mai camps offer gentle intros with English instructors; start with 1-2 hour sessions to build fitness without overwhelm. |

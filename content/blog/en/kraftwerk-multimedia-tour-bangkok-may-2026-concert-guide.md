@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["Kraftwerk Bangkok 2026", "concerts Bangkok 2026", "QSNCC events", "electronic music Thailand", "Bangkok events May 2026", "Multimedia Tour"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/kraftwerk-multimedia-tour-bangkok-may-2026-concert-guide-hero.webp"
 description: "Kraftwerk bring their legendary Multimedia Tour to Bangkok on May 10, 2026 — marking the electronic pioneers' first-ever performance in Thailand. Here is everything you need to know about tickets, venue, and the show."
 featured: false
 readingTime: 3

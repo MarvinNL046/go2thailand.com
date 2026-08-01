@@ -50,7 +50,7 @@ Sumalee, also in [Phuket](/city/phuket/), offers a serious 12-week fight camp fo
 
 ### Lamai Muay Thai — Koh Samui
 
-The oldest and most traditional camp on [Koh Samui](/city/koh-samui/), Lamai Muay Thai is the only World Muay Thai Council-certified camp in [Lamai Beach](/city/koh-samui/attractions/lamai-beach/). It has been running since 1998 and suits beginners who prefer island life over city training.
+The oldest and most traditional camp on [Koh Samui](/city/koh-samui/), Lamai Muay Thai is the only World Muay Thai Council-certified camp in [Lamai Beach](/city/koh-samui/attractions/). It has been running since 1998 and suits beginners who prefer island life over city training.
 
 ### Bangtao Muay Thai & MMA — Phuket
 

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "activities"
 tags: ["kayaking Thailand", "paddleboarding Thailand", "water sports Thailand 2026", "Ang Thong kayaking", "Krabi kayaking", "Khao Sok kayaking", "Koh Lanta SUP"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/best-kayaking-paddleboarding-spots-thailand-2026-hero.webp"
 description: "From Krabi's limestone cliffs to Ang Thong's emerald lagoons, here are the best places to kayak and paddleboard in Thailand in 2026, with prices, seasons, and practical tips."
 featured: false
 readingTime: 3
@@ -32,13 +32,13 @@ The best season for water sports runs from **November to April**, when seas are 
 
 ## Krabi — Limestone Cliffs and Mangrove Tunnels
 
-[Krabi province](https://go2thailand.com/city/krabi/) is arguably Thailand's kayaking capital. At **Ao Thalane**, a sheltered bay about 20 minutes north of [Ao Nang](https://go2thailand.com/city/krabi/attractions/ao-nang-beach/), you can paddle through towering limestone karsts and dense mangrove forests without any ocean swell. Half-day guided tours typically start at around 1,200 THB per person.
+[Krabi province](https://go2thailand.com/city/krabi/) is arguably Thailand's kayaking capital. At **Ao Thalane**, a sheltered bay about 20 minutes north of [Ao Nang](https://go2thailand.com/city/krabi/attractions/), you can paddle through towering limestone karsts and dense mangrove forests without any ocean swell. Half-day guided tours typically start at around 1,200 THB per person.
 
-For paddleboarding, **[Railay Beach](https://go2thailand.com/city/krabi/attractions/railay-beach/)** offers flat morning water with a jaw-dropping backdrop of sheer rock faces. Boards can be rented from beachside vendors for roughly 300 to 500 THB per hour.
+For paddleboarding, **[Railay Beach](https://go2thailand.com/city/krabi/attractions/)** offers flat morning water with a jaw-dropping backdrop of sheer rock faces. Boards can be rented from beachside vendors for roughly 300 to 500 THB per hour.
 
 ## Ang Thong Marine Park — Emerald Lagoons from Koh Samui
 
-The **[Mu Ko Ang Thong National Marine Park](https://go2thailand.com/city/koh-samui/attractions/ang-thong-marine-park/)**, a cluster of 42 islands west of [Koh Samui](https://go2thailand.com/city/koh-samui/), is best explored by kayak. Guided day trips depart from Koh Samui and include kayaking through sea caves and into the famous Emerald Lake, a saltwater lagoon enclosed by jungle-covered cliffs. Tours also bundle in [snorkelling](https://go2thailand.com/best-diving-snorkeling-in-thailand/) and beach time at Koh Wua Talap.
+The **[Mu Ko Ang Thong National Marine Park](https://go2thailand.com/city/koh-samui/attractions/)**, a cluster of 42 islands west of [Koh Samui](https://go2thailand.com/city/koh-samui/), is best explored by kayak. Guided day trips depart from Koh Samui and include kayaking through sea caves and into the famous Emerald Lake, a saltwater lagoon enclosed by jungle-covered cliffs. Tours also bundle in [snorkelling](https://go2thailand.com/best-diving-snorkeling-in-thailand/) and beach time at Koh Wua Talap.
 
 ## Khao Sok National Park — Jungle Lake Paddling
 

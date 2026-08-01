@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["Earth Hour 2026 Thailand", "Bangkok events March 2026", "Earth Hour Bangkok landmarks", "sustainable travel Thailand", "WWF Earth Hour"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/earth-hour-2026-bangkok-thailand-landmarks-lights-off-hero.webp"
 description: "Bangkok joins the 20th anniversary of Earth Hour on March 28, 2026. Find out which landmarks switch off their lights and how travellers can take part."
 featured: false
 readingTime: 2

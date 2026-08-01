@@ -4,7 +4,7 @@ slug: "u-tapao-pattaya-airport-new-flights-expansion-2026"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/u-tapao-pattaya-airport-new-flights-expansion-2026-hero.webp"
 category: "news"
 tags: ["U-Tapao airport", "Pattaya flights 2026", "Thailand airports", "AirAsia Pattaya", "SCAT Airlines", "Eastern Thailand travel"]
 description: "U-Tapao Rayong-Pattaya airport is expanding fast in 2026 with a new runway under construction and direct flights launching to Kazakhstan, China, and Malaysia."

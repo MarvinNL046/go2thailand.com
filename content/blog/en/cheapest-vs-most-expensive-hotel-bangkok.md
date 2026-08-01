@@ -35,7 +35,7 @@ We wanted to answer a question every Bangkok visitor asks: does spending more on
 
 ## 1. The Budget Stay: Bangkok's Cheapest Private Room
 
-Finding truly cheap accommodation in [Bangkok](https://go2-thailand.com/city/bangkok/) takes some effort. For a structured overview of all price ranges, our [Bangkok hotels guide](https://go2-thailand.com/city/bangkok/hotels/) is a good starting point. Most hostels and budget hotels start around 300-500 THB per night. But we dug deeper and found a private room listing on Airbnb for roughly 100-150 THB — about the price of three bottles of water.
+Finding truly cheap accommodation in [Bangkok](https://go2-thailand.com/city/bangkok/) takes some effort. For a structured overview of all price ranges, our [Bangkok hotels guide](https://go2-thailand.com/best-hotels/bangkok/) is a good starting point. Most hostels and budget hotels start around 300-500 THB per night. But we dug deeper and found a private room listing on Airbnb for roughly 100-150 THB — about the price of three bottles of water.
 
 ### Getting There
 
@@ -62,7 +62,7 @@ The place was undergoing some renovations, with new furniture being brought in. 
 
 ### Street Food Dinner
 
-The real advantage of staying in a local neighborhood? **Authentic, cheap food.** Two minutes up the road, we found a beef noodle soup street food stall — 40 THB ($1.15 USD). Local stays near markets like [Chatuchak](https://go2-thailand.com/city/bangkok/attractions/chatuchak-market/) put you right in the thick of Bangkok's best food scenes. Crispy pork scratchings, condiments, chopsticks, and a bowl packed with different cuts of beef. Delicious. This is the kind of meal you simply cannot find in tourist areas at this price.
+The real advantage of staying in a local neighborhood? **Authentic, cheap food.** Two minutes up the road, we found a beef noodle soup street food stall — 40 THB ($1.15 USD). Local stays near markets like [Chatuchak](https://go2-thailand.com/city/bangkok/attractions/) put you right in the thick of Bangkok's best food scenes. Crispy pork scratchings, condiments, chopsticks, and a bowl packed with different cuts of beef. Delicious. This is the kind of meal you simply cannot find in tourist areas at this price.
 
 > **Did You Know?** Staying in local Bangkok neighborhoods means you'll eat better for less. The same bowl of noodle soup costs 100-150 THB in tourist areas like Sukhumvit or Silom — a 300% markup for the same dish.
 
@@ -225,14 +225,14 @@ If you're a backpacker, every baht saved is another day on the road. A budget st
 - Budget 1,200-2,500 THB ($35-70 USD) per night
 - Want the best comfort-to-price ratio in Bangkok
 
-For most travelers, the sweet spot is somewhere in between. A decent mid-range hotel at 1,500-2,500 THB per night gives you air conditioning, a comfortable bed, a private bathroom with hot water, and often a pool — without breaking the bank. Check our [Bangkok hotels guide](https://go2-thailand.com/city/bangkok/hotels/) for our top recommendations.
+For most travelers, the sweet spot is somewhere in between. A decent mid-range hotel at 1,500-2,500 THB per night gives you air conditioning, a comfortable bed, a private bathroom with hot water, and often a pool — without breaking the bank. Check our [Bangkok hotels guide](https://go2-thailand.com/best-hotels/bangkok/) for our top recommendations.
 
 ## 6. Practical Tips for Booking Bangkok Hotels
 
 ### For Budget Travelers
 - **Look beyond hostels.** Airbnb and local guesthouses in non-tourist neighborhoods can be cheaper than dorm beds
 - **Stay near public transport.** Being close to a BTS or MRT station saves taxi money even if the room costs slightly more
-- **Eat locally.** The biggest budget advantage of staying in local neighborhoods is access to authentic Thai [street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) at local prices — and our [Thai street food guide](https://go2-thailand.com/blog/thai-street-food-guide-2026/) shows you exactly what to order
+- **Eat locally.** The biggest budget advantage of staying in local neighborhoods is access to authentic Thai [street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) at local prices — and our [Thai street food guide](https://go2-thailand.com/thailand-street-food/) shows you exactly what to order
 - **Check [Chatuchak](https://go2-thailand.com/blog/chatuchak-market-bangkok-guide/) and Ari neighborhoods** for affordable stays with good food scenes — Chatuchak in particular offers both a [world-class food experience](https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/) and proximity to budget guesthouses
 
 ### For Luxury Travelers
@@ -253,7 +253,7 @@ For the level of service, the riverside location, the facilities (infinity pool,
 
 ### What's the best area in Bangkok for budget hotels?
 
-[Khao San Road](https://go2-thailand.com/city/bangkok/attractions/khao-san-road/) and its surrounding sois (side streets) remain the backpacker hub with the most budget options. However, neighborhoods like Ari, Saphan Khwai, and areas along the MRT line offer better value with more authentic Thai surroundings. Our [Bangkok neighbourhood guide for stays](/where-to-stay/bangkok/) breaks down every area in detail.
+[Khao San Road](https://go2-thailand.com/city/bangkok/attractions/) and its surrounding sois (side streets) remain the backpacker hub with the most budget options. However, neighborhoods like Ari, Saphan Khwai, and areas along the MRT line offer better value with more authentic Thai surroundings. Our [Bangkok neighbourhood guide for stays](/where-to-stay/bangkok/) breaks down every area in detail.
 
 ### How far in advance should I book luxury hotels in Bangkok?
 
@@ -271,4 +271,4 @@ Both stays taught us something about Bangkok. The budget room showed us that thi
 
 Whether you're counting every baht or treating yourself to something extraordinary, Bangkok delivers. The city doesn't judge your budget — it just shows you a good time, no matter what you're spending.
 
-Ready to plan your Bangkok trip? Check out our [complete Bangkok city guide](https://go2-thailand.com/city/bangkok/), explore the [top 10 hotels in Bangkok](https://go2-thailand.com/city/bangkok/top-10-hotels/), browse the [best hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/), or read our [budget vs comfort travel guide](https://go2-thailand.com/thailand-index/budget/) for more tips on getting the most from your Thailand budget. And if you're planning what to eat once you arrive, our [Chatuchak Weekend Market food guide](https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/) is the perfect weekend plan.
+Ready to plan your Bangkok trip? Check out our [complete Bangkok city guide](https://go2-thailand.com/city/bangkok/), explore the [top 10 hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/), browse the [best hotels in Bangkok](https://go2-thailand.com/best-hotels/bangkok/), or read our [budget vs comfort travel guide](https://go2-thailand.com/thailand-index/budget/) for more tips on getting the most from your Thailand budget. And if you're planning what to eat once you arrive, our [Chatuchak Weekend Market food guide](https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/) is the perfect weekend plan.

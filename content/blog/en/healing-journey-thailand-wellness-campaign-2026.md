@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["wellness tourism", "healing journey thailand", "TAT campaign", "sustainable travel", "wellness retreats"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/healing-journey-thailand-wellness-campaign-2026-hero.webp"
 description: "Thailand's Tourism Authority launches the Healing Journey Thailand campaign globally, positioning wellness and mindfulness as the new luxury travel experience for 2026."
 featured: false
 readingTime: 3

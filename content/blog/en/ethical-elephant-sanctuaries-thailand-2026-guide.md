@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "activities"
 tags: ["elephant sanctuary Thailand", "ethical elephant tourism 2026", "Elephant Nature Park Chiang Mai", "responsible tourism Thailand", "Following Giants Krabi", "things to do Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/ethical-elephant-sanctuaries-thailand-2026-guide-hero.webp"
 description: "Want to see elephants in Thailand without supporting exploitation? These five ethical sanctuaries in Chiang Mai, Phuket, Krabi and beyond offer observation-only or minimal-contact experiences in 2026."
 featured: false
 readingTime: 3

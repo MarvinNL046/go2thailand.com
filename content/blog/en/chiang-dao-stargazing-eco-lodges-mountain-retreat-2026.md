@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "destinations"
 tags: ["Chiang Dao", "stargazing Thailand 2026", "dark sky Thailand", "eco lodge Thailand", "northern Thailand hidden gems", "Doi Luang Chiang Dao"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/chiang-dao-stargazing-eco-lodges-mountain-retreat-2026-hero.webp"
 description: "Just 90 minutes north of Chiang Mai, Chiang Dao offers dark-sky stargazing, eco-conscious lodges, and mountain scenery that rivals anywhere in Southeast Asia. Here is your 2026 guide."
 featured: false
 readingTime: 3
@@ -40,7 +40,7 @@ Chiang Dao has stayed small on purpose. The lodges here use natural materials, f
 
 - **Chiang Dao Cave:** A sprawling cave system at the base of Doi Luang, with lit sections you can explore independently and deeper chambers accessible with a local guide and lantern.
 - **Doi Luang Chiang Dao hike:** The trek to the summit is one of northern Thailand's best, though a permit and guide are required. The trail passes through cloud forest and offers panoramic views from the top. For more outdoor adventures, check the guide to [camping in Thailand's national parks](/blog/camping-thailand-national-parks-guide-2026/).
-- **Hot springs:** Natural hot springs in the area offer a welcome soak after a day of hiking. The nearby [hot springs in Pai](/city/pai/attractions/pai-hot-springs/) are another popular stop on the northern loop.
+- **Hot springs:** Natural hot springs in the area offer a welcome soak after a day of hiking. The nearby [hot springs in Pai](/city/pai/attractions/) are another popular stop on the northern loop.
 - **Local markets:** The morning market in Chiang Dao town is a low-key affair with hill-tribe produce, local snacks, and strong northern Thai coffee — similar in spirit to the [hidden gems most tourists miss](/blog/15-hidden-gems-thailand-tourists-miss/).
 
 ## Practical Tips

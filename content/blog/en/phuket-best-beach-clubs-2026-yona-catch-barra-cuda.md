@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "nightlife"
 tags: ["Phuket beach clubs", "Yona floating beach club", "Barra Cuda Phuket", "Catch Beach Club", "Fira Beach Club", "Phuket nightlife 2026", "Bang Tao Beach"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/phuket-best-beach-clubs-2026-yona-catch-barra-cuda-hero.webp"
 description: "Phuket's beach club scene has exploded in 2026. From the world's first floating beach club to Thailand's first pool dance floor, here are the best spots to visit right now."
 featured: false
 readingTime: 3
@@ -36,7 +36,7 @@ Mornings at Yona are family-friendly and relaxed. From 2pm onwards the venue swi
 
 ## Barra Cuda — Thailand's First Pool Dance Floor
 
-Located just 400 metres from [Bangla Road](/blog/bangla-road-phuket-digital-makeover-nightlife-2026/) on [Patong Beach](/city/phuket/attractions/patong-beach/), Barra Cuda spans 3,000 square metres with two pools, VIP cabanas, and direct beachfront access. Its headline feature is Thailand's first-ever pool dance floor, which turns the main pool into a party venue after dark.
+Located just 400 metres from [Bangla Road](/blog/bangla-road-phuket-digital-makeover-nightlife-2026/) on [Patong Beach](/city/phuket/attractions/), Barra Cuda spans 3,000 square metres with two pools, VIP cabanas, and direct beachfront access. Its headline feature is Thailand's first-ever pool dance floor, which turns the main pool into a party venue after dark.
 
 In early 2026, O Beach Ibiza ran a series of Thursday takeover events here, bringing the famous Ibiza pool party format to Phuket for the first time. Expect more international DJ residencies throughout the year.
 
@@ -48,7 +48,7 @@ Bang Tao Beach alone now hosts more than ten beach clubs, including [RAVA](/blog
 
 ## Fira — Mediterranean Vibes Above Kata Noi
 
-Fira Beach Club takes a different approach. Set high above [Kata Beach](/city/phuket/attractions/kata-beach/) in southern Phuket, this rooftop venue combines Mediterranean-style dining with sunset DJ sessions. Entry starts at around 1,000 THB, which is redeemable against food and drinks.
+Fira Beach Club takes a different approach. Set high above [Kata Beach](/city/phuket/attractions/) in southern Phuket, this rooftop venue combines Mediterranean-style dining with sunset DJ sessions. Entry starts at around 1,000 THB, which is redeemable against food and drinks.
 
 The atmosphere is stylish but relaxed, making Fira a strong choice for couples or small groups who want the beach club experience without the heavy party energy.
 

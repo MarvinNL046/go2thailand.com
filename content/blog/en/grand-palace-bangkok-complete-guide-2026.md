@@ -391,7 +391,7 @@ Boutique [hotels in the Old City offer character and convenience. Many are conve
 ### Luxury Options (3,000+ THB / USD 85+)
 Five-star hotels like the Mandarin Oriental and Peninsula offer world-class service, riverside locations, and easy access to the palace. These are pricier but include amenities like spas, fine dining, and concierge services.
 
-For detailed hotel recommendations, check our [Bangkok hotels travel guide](https://go2-thailand.com/city/bangkok/hotels/).
+For detailed hotel recommendations, check our [Bangkok hotels travel guide](https://go2-thailand.com/best-hotels/bangkok/).
 
 ---
 

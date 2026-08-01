@@ -8,7 +8,7 @@ tags: ["pattaya", "ttm plus", "business tourism", "mice", "tat", "2026"]
 author:
   name: "Go2Thailand Team"
 reading_time: 4
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-ttm-plus-2026-pattaya-business-tourism-hero.webp"
 draft: false
 ---
 

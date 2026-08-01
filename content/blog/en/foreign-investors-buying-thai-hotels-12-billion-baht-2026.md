@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand hotel investment", "foreign investment Thailand", "hotel deals 2026", "Bangkok hotels", "Phuket hotels", "Thailand tourism economy"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/foreign-investors-buying-thai-hotels-12-billion-baht-2026-hero.webp"
 description: "Foreign hotel investment in Thailand is on track to exceed 12 billion baht in 2026, with buyers targeting Bangkok, Phuket and Koh Samui properties."
 featured: false
 readingTime: 3

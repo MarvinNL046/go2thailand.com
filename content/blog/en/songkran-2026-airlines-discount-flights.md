@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["songkran 2026", "flight deals", "domestic flights", "thai airways", "budget airlines"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/songkran-2026-airlines-discount-flights-hero.webp"
 description: "Thai airlines offer up to 30% off domestic flights for Songkran 2026 (April 11-17), with 25,000 extra seats and 124 additional flights on popular routes."
 featured: false
 readingTime: 3

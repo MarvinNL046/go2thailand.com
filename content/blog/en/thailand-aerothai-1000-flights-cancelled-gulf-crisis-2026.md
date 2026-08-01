@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["flight cancellations", "gulf crisis", "middle east conflict", "thailand flights", "travel disruptions 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-aerothai-1000-flights-cancelled-gulf-crisis-2026-hero.webp"
 description: "Thailand's air traffic authority AeroThai confirms over 1,000 flight cancellations due to the Gulf crisis, with Suvarnabhumi and Phuket airports hardest hit. What travelers need to know."
 featured: false
 readingTime: 3

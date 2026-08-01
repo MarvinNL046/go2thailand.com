@@ -47,7 +47,7 @@ Before you book a single flight, handle the administrative basics. At our 27 Jul
 
 Upon arrival, you'll be required to complete the Thailand Digital Arrival Card (TDAC) online at least 3 days before your flight. This replaced the old TM.6 form and takes about 5 minutes. You'll receive a QR code to scan at immigration—no paper required.
 
-**Travel insurance is non-negotiable.** Thailand has excellent hospitals, but costs add up fast. A decent policy covering medical evacuation, trip cancellation, and lost baggage runs ฿3,000–5,000 ($85–140 USD) for two weeks. We recommend checking [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/) before departure — our detailed [travel insurance Thailand guide](/blog/travel-insurance-thailand-guide) compares the best providers and coverage levels for 2026.
+**Travel insurance is non-negotiable.** Thailand has excellent hospitals, but costs add up fast. A decent policy covering medical evacuation, trip cancellation, and lost baggage runs ฿3,000–5,000 ($85–140 USD) for two weeks. We recommend checking [travel insurance options](https://go2-thailand.com/travel-insurance/) before departure — our detailed [travel insurance Thailand guide](/blog/travel-insurance-thailand-guide) compares the best providers and coverage levels for 2026.
 
 > **Did You Know?** Thailand receives over 40 million international visitors annually, making it Southeast Asia's most visited country.
 >
@@ -88,7 +88,7 @@ Next, visit **Wat Pho** (Temple of the Reclining Buddha), just south across the 
 
 Lunch at a local khao man gai (chicken rice) stall nearby—expect to pay ฿40–60 ($1–2 USD) for a full meal. In the afternoon, explore **Chatuchak Market** (if it's the weekend) or **Talad Noi** (a chaotic old market with narrow alleys, street food, and antiques). Both are free to wander.
 
-Evening: Try [Bangkok street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) at a night market. **Talad Rod Fai** (Train Market) or **Jodd Fairs** are popular. Expect ฿150–300 ($4–8 USD) for a feast. Learn about [Thai cuisine](/blog/what-is-thai-food-cuisine-guide/) before you go so you know what to order.
+Evening: Try [Bangkok street food](https://go2-thailand.com/blog/best-street-food-markets-bangkok/) at a night market. **Talad Rod Fai** (Train Market) or **Jodd Fairs** are popular. Expect ฿150–300 ($4–8 USD) for a feast. Learn about [Thai cuisine](/travel-guides/thai-cuisine-food-guide/) before you go so you know what to order.
 
 ### Day 3: Culture & Nightlife
 
@@ -434,7 +434,7 @@ Yes. Thailand is generally safe. Avoid displaying expensive items, don't accept 
 
 Two weeks in Thailand is enough to experience the country's soul—the chaos of Bangkok, the spirituality of Chiang Mai, and the paradise of the islands. This itinerary balances must-see sights with breathing room for spontaneity. You'll eat incredible food, meet kind locals, and leave wanting to return. Not sure if two weeks is the right length? Our guide on [how long to spend in Thailand](/blog/how-long-spend-thailand) helps you decide based on your travel style.
 
-**Ready to book?** For a broader overview of route options including 7-day and 10-day plans, see our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/). Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/city/chiang-mai/hotels/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg. Before you travel, review our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and our [Thailand travel scams guide](/practical-info/scams-safety/) to stay safe.
+**Ready to book?** For a broader overview of route options including 7-day and 10-day plans, see our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/). Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/best-hotels/chiang-mai/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg. Before you travel, review our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and our [Thailand travel scams guide](/practical-info/scams-safety/) to stay safe.
 
 Have questions? Check out our comprehensive [Thailand travel guides](https://go2-thailand.com/travel-guides/) or reach out. We've been there—we know what works.
 

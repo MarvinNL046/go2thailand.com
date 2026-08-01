@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "festivals"
 tags: ["S2O Songkran 2026", "Bangkok music festival", "Songkran EDM party", "Thailand festivals April 2026", "electronic music Bangkok", "Zedd Bangkok", "Kygo Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/s2o-songkran-music-festival-2026-bangkok-edm-water-party-hero.webp"
 description: "S2O Songkran Music Festival returns to Bangkok on April 11-13, 2026 with Zedd, Kygo, Alan Walker and more. Here is everything you need to know about tickets, lineup and what to expect."
 featured: false
 readingTime: 3

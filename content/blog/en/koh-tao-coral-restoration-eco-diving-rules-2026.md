@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "nature"
 tags: ["Koh Tao diving 2026", "coral restoration Thailand", "marine conservation Koh Tao", "eco diving rules", "sustainable tourism Thailand", "New Heaven Reef Conservation"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/koh-tao-coral-restoration-eco-diving-rules-2026-hero.webp"
 description: "Koh Tao has planted over 100,000 coral fragments and enforces new eco-diving standards in 2026. Here is what divers and snorkellers need to know before visiting."
 featured: false
 readingTime: 3
@@ -48,7 +48,7 @@ These tightened standards align with Thailand's broader push for [sustainable an
 
 Whether you are a first-time snorkeller or an advanced diver, [Koh Tao in 2026](/blog/koh-tao-guide-diving-beaches-budget-travel/) offers something its party-island past could not: the chance to see reefs that are visibly recovering. Chalok Bay, once degraded, now hosts dense coral gardens that attract juvenile fish, sea turtles, and blacktip reef sharks.
 
-Getting to Koh Tao is easier than ever thanks to [new flight connections into Koh Samui airport](/blog/koh-samui-airport-international-hub-bangkok-airways-2026/) — the nearest air gateway — followed by a speedboat or ferry. From Samui you can also reach [Ang Thong Marine Park](/city/koh-samui/attractions/ang-thong-marine-park/), another protected archipelago well worth adding to a diving itinerary.
+Getting to Koh Tao is easier than ever thanks to [new flight connections into Koh Samui airport](/blog/koh-samui-airport-international-hub-bangkok-airways-2026/) — the nearest air gateway — followed by a speedboat or ferry. From Samui you can also reach [Ang Thong Marine Park](/city/koh-samui/attractions/), another protected archipelago well worth adding to a diving itinerary.
 
 If you want to pair diving with a wellness break, [yoga retreats on nearby Koh Phangan](/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/) are just a short ferry ride away. For a quieter island experience after the dive courses, [Koh Kood](/blog/koh-kood-quiet-island-guide-trat-2026/) and [Koh Lipe](/blog/koh-lipe-maldives-of-thailand-travel-guide-2026/) offer pristine reefs with far fewer crowds.
 

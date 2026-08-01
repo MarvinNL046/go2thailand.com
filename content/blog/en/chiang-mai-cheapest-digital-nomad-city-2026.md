@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Chiang Mai", "digital nomad", "cost of living 2026", "coworking Thailand", "Nomad Summit", "remote work"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/chiang-mai-cheapest-digital-nomad-city-2026-hero.webp"
 description: "A February 2026 study ranks Chiang Mai as the most affordable digital nomad destination on the planet, with rent under $400 and coworking from $85 a month."
 featured: false
 readingTime: 3

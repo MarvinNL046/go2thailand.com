@@ -159,7 +159,7 @@ Bangkok's weather doesn't significantly impact Jodd Fairs since much of it is co
 
 ## 4. Food at Jodd Fairs: A Street Food Masterclass
 
-This is where **Jodd Fairs** truly shines. With over 700 stalls, the food vendors here represent the best of Bangkok's [street food culture](/blog/thai-street-food-guide-2026/)—and prices are genuinely local, not inflated for tourists. You'll find everything from classic [pad thai](https://go2-thailand.com/food/pad-thai/) to Jodd Fairs' famous signature dishes, regional specialties, fresh fruit juices, and desserts that would make you weep.
+This is where **Jodd Fairs** truly shines. With over 700 stalls, the food vendors here represent the best of Bangkok's [street food culture](/thailand-street-food/)—and prices are genuinely local, not inflated for tourists. You'll find everything from classic [pad thai](https://go2-thailand.com/food/pad-thai/) to Jodd Fairs' famous signature dishes, regional specialties, fresh fruit juices, and desserts that would make you weep.
 
 ### Signature Dishes You Can't Miss
 
@@ -453,7 +453,7 @@ From Silom: Take BTS to Sala Daeng, transfer to MRT Blue Line at Si Lom Station,
 
 From Sukhumvit: Take BTS to Asok, transfer to MRT Blue Line at Sukhumvit Station, exit at Thailand Cultural Centre, Exit 4 (12 minutes, 42 THB).
 
-From [Khao San Road](/city/bangkok/attractions/khao-san-road/): Take a taxi or Grab (80–120 THB) or use BTS/MRT (requires multiple transfers, 30+ minutes).
+From [Khao San Road](/city/bangkok/attractions/): Take a taxi or Grab (80–120 THB) or use BTS/MRT (requires multiple transfers, 30+ minutes).
 
 From Suvarnabhumi Airport: Airport Rail Link to Makkasan, walk to Phetchaburi MRT, one stop to Thailand Cultural Centre (45 minutes, ~60 THB).
 

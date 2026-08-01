@@ -34,7 +34,7 @@ Imagine standing on a powdery white beach with turquoise waters lapping at your 
 | **How do I get there?** | Fly into Bangkok (BKK) for Thailand via major hubs like Suvarnabhumi Airport; for the Philippines, Manila (MNL) or Cebu (CEB) are key entry points with direct [flights](https://trip.tpo.lv/TmObooZ5?subid=blog) from Asia and the US. |
 | **Is it safe?** | Both are generally safe for tourists, but Thailand has better infrastructure and lower petty crime rates in tourist areas; the Philippines requires more caution in urban spots like Manila due to traffic and occasional unrest in remote areas. |
 | **What should I book in advance?** | Secure flights and popular island ferries early, especially during peak seasons; in Thailand, book ethical elephant sanctuaries or [Phi Phi Island Tour](https://go2-thailand.com/phi-phi-island-tour/) ahead via reliable platforms. |
-| **Which has better beaches?** | The Philippines edges out with pristine, less-crowded atolls like Palawan; Thailand offers accessible gems like those near [Phuket island guide](https://go2-thailand.com/islands/phuket/), perfect for first-timers. |
+| **Which has better beaches?** | The Philippines edges out with pristine, less-crowded atolls like Palawan; Thailand offers accessible gems like those near [Phuket island guide](https://go2-thailand.com/city/phuket/), perfect for first-timers. |
 | **Food scene comparison?** | Thailand's street eats like [Pad Thai food guide](https://go2-thailand.com/food/pad-thai/) are more varied and affordable; the Philippines excels in fresh seafood but with spicier, less predictable flavors. |
 
 ## 1. Overview of Thailand and the Philippines as Travel Destinations
@@ -240,7 +240,7 @@ We immersed in both—Thailand's wats felt meditative, Philippines' festivals el
 
 ### Thailand's Cultural Highlights
 
-Explore [Wat Arun](https://go2-thailand.com/things-to-do/bangkok/) in Bangkok or Doi Suthep in Chiang Mai. Entry fees are 50-200 THB.
+Explore [Wat Arun](https://go2-thailand.com/city/bangkok/attractions/) in Bangkok or Doi Suthep in Chiang Mai. Entry fees are 50-200 THB.
 
 During our rainy season trip, temple visits provided shelter and serenity amid downpours.
 
@@ -391,6 +391,6 @@ US citizens get 60 days visa-free in Thailand and 30 days in the Philippines, ex
 Thailand's diverse street food like pad Thai (50 THB) outshines in accessibility and spice balance, while Philippines' fresh seafood and fruits impress but vary regionally. Both are highlights—try [Best Cooking Classes In Thailand](https://go2-thailand.com/best-cooking-classes-in-thailand/) for hands-on.
 
 ### How to get from Bangkok to islands vs Manila to Philippine islands?
-From Bangkok, fly to Phuket (1 hour, 1,500 THB) or ferry to Koh Samui (6 hours via Surat Thani). Manila to Boracay involves a 1-hour flight to Caticlan (2,000 PHP) then boat. Use [Bangkok To Koh Samui](https://go2-thailand.com/transport/bangkok-to-koh-samui/) for routes.
+From Bangkok, fly to Phuket (1 hour, 1,500 THB) or ferry to Koh Samui (6 hours via Surat Thani). Manila to Boracay involves a 1-hour flight to Caticlan (2,000 PHP) then boat. Use [Bangkok To Koh Samui](https://go2-thailand.com/blog/bangkok-to-koh-samui-guide/) for routes.
 
 In wrapping up this **Thailand vs Philippines** guide, remember Thailand delivers polished paradise with unbeatable infrastructure and flavors, while the Philippines captivates with untamed beauty and adventure. Whichever you choose, prioritize sustainable travel—our team has seen overtourism's toll. Ready to plan? Dive into our [Thailand Itinerary](https://go2-thailand.com/thailand-itinerary/) for tailored routes. As seasoned explorers of the Land of Smiles, we trust this advice will make your trip unforgettable—safe travels!

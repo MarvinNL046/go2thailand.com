@@ -326,7 +326,7 @@ Tonsai Village's main strip is dominated by tourist-oriented restaurants serving
 
 **Fresh seafood** is abundant but quality varies. Buy directly from fishermen at Tonsai Pier in the early morning (6–7 a.m.) and have a restaurant cook it for a small fee (typically 50–100 THB). This is how locals eat fresh fish cheaply.
 
-**Night markets** occasionally set up near Tonsai Village, offering [Thai street food](/blog/thai-street-food-guide-2026/) at authentic prices. Timing is irregular, but your hotel can advise when markets are operating.
+**Night markets** occasionally set up near Tonsai Village, offering [Thai street food](/thailand-street-food/) at authentic prices. Timing is irregular, but your hotel can advise when markets are operating.
 
 ### Drinks and Nightlife
 

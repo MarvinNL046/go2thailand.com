@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand tourism", "visitor statistics", "tourism 2026", "travel data", "TAT"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-7-million-visitors-march-2026-hero.webp"
 description: "Thailand welcomed 7.49 million international tourists between January and mid-March 2026, generating 368 billion baht in revenue despite Middle East disruptions."
 featured: false
 readingTime: 3

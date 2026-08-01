@@ -46,7 +46,7 @@ The evolution of these soups highlights Thailand's position as a cultural crossr
 
 ### Historical Influences
 
-During the Sukhothai period, early forms of sour soups used wild herbs foraged from forests, laying the groundwork for **Tom Yum**'s tangy profile. Chinese immigrants in the 19th century introduced coconut milk techniques, which softened into Tom Kha's creamy base. Our visits to historical sites in [Ayutthaya](https://go2-thailand.com/destinations/ayutthaya/) revealed how these fusions created resilient, flavorful dishes suited to Thailand's climate.
+During the Sukhothai period, early forms of sour soups used wild herbs foraged from forests, laying the groundwork for **Tom Yum**'s tangy profile. Chinese immigrants in the 19th century introduced coconut milk techniques, which softened into Tom Kha's creamy base. Our visits to historical sites in [Ayutthaya](https://go2-thailand.com/city/ayutthaya/) revealed how these fusions created resilient, flavorful dishes suited to Thailand's climate.
 
 In central Thailand, royal courts refined these recipes, incorporating lemongrass and galangal for medicinal benefits. This heritage persists, with soups symbolizing hospitality in homes and street eateries alike.
 
@@ -166,7 +166,7 @@ These dishes appear in festivals and rituals, symbolizing abundance. In Buddhist
 
 ### Role in Daily Meals
 
-Soups kick off lunches, balancing heavier curries. In central Thailand, Tom Kha comforts after labor. We experienced this in [Kanchanaburi](https://go2-thailand.com/destinations/kanchanaburi/), where riverside eateries serve them fresh.
+Soups kick off lunches, balancing heavier curries. In central Thailand, Tom Kha comforts after labor. We experienced this in [Kanchanaburi](https://go2-thailand.com/city/kanchanaburi/), where riverside eateries serve them fresh.
 
 They're versatile—light for snacks or hearty with rice.
 

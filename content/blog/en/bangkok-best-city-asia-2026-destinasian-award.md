@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["bangkok", "travel awards", "DestinAsian", "best city asia", "tourism 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-best-city-asia-2026-destinasian-award-hero.webp"
 description: "Bangkok wins Best City in Asia for the third consecutive year in DestinAsian's 2026 Readers' Choice Awards, beating Tokyo and Singapore with over 1 million votes."
 featured: false
 readingTime: 3

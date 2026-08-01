@@ -33,7 +33,7 @@ While most travelers flee Thailand during the monsoon months, savvy visitors dis
 |----------|--------|
 | **What is the best time to visit?** | May–October, with June–September offering the deepest discounts and fewer crowds |
 | **How much does it cost?** | [Accommodation](https://booking.tpo.lv/2PT1kR82?subid=blog) drops 30–50% compared to dry season; budget 800–2,000 THB (USD $22–55) per night for mid-range hotels |
-| **How do I get there?** | [Flights](https://trip.tpo.lv/TmObooZ5?subid=blog) to [Phuket](https://go2-thailand.com/islands/phuket/) or Bangkok, then ferries or speedboats to specific islands |
+| **How do I get there?** | [Flights](https://trip.tpo.lv/TmObooZ5?subid=blog) to [Phuket](https://go2-thailand.com/city/phuket/) or Bangkok, then ferries or speedboats to specific islands |
 | **Is it safe?** | Yes—rain doesn't create safety risks, though some boat tours may be cancelled on heavy rain days |
 | **What should I book in advance?** | Accommodation and internal flights; ferries often run on reduced schedules |
 | **Which islands are best?** | [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), [Koh Samui](https://go2-thailand.com/islands/koh-samui/), and [Koh Tao](https://go2-thailand.com/islands/koh-tao/) remain accessible and beautiful |

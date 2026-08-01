@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "travel-tips"
 tags: ["solo travel Thailand", "Thailand 2026", "solo trip", "Thai Airways", "budget travel", "backpacking Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-solo-travel-boom-2026-tips-destinations-hero.webp"
 description: "Solo travel to Thailand is surging in 2026. Thai Airways and hotels are adapting to independent travelers. Here are the best destinations, costs, and tips for going solo."
 featured: false
 readingTime: 3

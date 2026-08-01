@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "attractions"
 tags: ["SkyFlyers", "Garudapterus", "Asiatique Bangkok", "Bangkok attractions 2026", "thrill ride Bangkok", "Chao Phraya River", "family attractions Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/skyflyers-garudapterus-asiatique-bangkok-tallest-swing-ride-2026-hero.webp"
 description: "SkyFlyers: Wings of Garudapterus at Asiatique Bangkok is Asia-Pacific's tallest giant swing ride at 135 metres. Tickets, hours, tips and combo deals for 2026."
 featured: false
 readingTime: 3

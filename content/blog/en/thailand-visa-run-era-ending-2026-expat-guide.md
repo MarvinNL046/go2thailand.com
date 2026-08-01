@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "visa"
 tags: ["Thailand visa 2026", "visa run Thailand", "border hop Thailand", "DTV visa Thailand", "digital nomad Thailand", "Thailand immigration 2026", "visa exemption Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-visa-run-era-ending-2026-expat-guide-hero.webp"
 description: "Thailand immigration is cracking down on serial visa runners in 2026. Here is what changed, who is affected, and the legal alternatives for long-stay visitors."
 featured: false
 readingTime: 3

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Thai food", "street food", "2026 food guide", "Thai cuisine", "food culture"]
-image: "/images/blog/thai-street-food-guide-2026.webp"
+image: "/images/thailand-street-food.webp"
 description: "Explore 15 must-try Thai street food dishes in 2026 for an authentic culinary experience."
 featured: false
 readingTime: 8
@@ -23,7 +23,7 @@ sources:
 
 ## Opening Paragraph
 
-Did you know that **Thai street food** has been recognized as one of the world's best culinary experiences? From sizzling woks to fragrant stalls, the streets of Thailand offer an endless array of flavors that capture the essence of Thai culture. If you want to understand the foundations behind these flavors, read our complete guide on [what Thai food is and what makes it unique](/blog/what-is-thai-food-cuisine-guide/). In this guide, we'll explore 15 must-try dishes that every food lover should sample in 2026. For detailed context on individual dishes, see the [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), the [Pad Thai street vs restaurant guide](/food/pad-thai/), and the [som tam regional variations guide](/food/som-tam/).
+Did you know that **Thai street food** has been recognized as one of the world's best culinary experiences? From sizzling woks to fragrant stalls, the streets of Thailand offer an endless array of flavors that capture the essence of Thai culture. If you want to understand the foundations behind these flavors, read our complete guide on [what Thai food is and what makes it unique](/travel-guides/thai-cuisine-food-guide/). In this guide, we'll explore 15 must-try dishes that every food lover should sample in 2026. For detailed context on individual dishes, see the [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/), the [Pad Thai street vs restaurant guide](/food/pad-thai/), and the [som tam regional variations guide](/food/som-tam/).
 
 ## Key Takeaways
 

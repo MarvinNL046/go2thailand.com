@@ -426,7 +426,7 @@ The summit walk requires minimal fitness. Moderate trails (1.5–3 hours) requir
 
 The best approach depends on your interests and time availability. Organized tours offer convenience and social experience; self-driving provides flexibility and cost savings; and staying overnight allows deeper exploration. Whichever option you choose, bring layers, start early, and respect the park's ecological significance—it's a precious watershed protecting millions of people downstream.
 
-Ready to experience Thailand's highest peak? [Browse available tours and accommodation options](https://go2-thailand.com/things-to-do/chiang-mai/) to plan your visit, or [read our comprehensive Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) for context on how Doi Inthanon fits into a broader northern Thailand itinerary.
+Ready to experience Thailand's highest peak? [Browse available tours and accommodation options](https://go2-thailand.com/city/chiang-mai/attractions/) to plan your visit, or [read our comprehensive Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) for context on how Doi Inthanon fits into a broader northern Thailand itinerary.
 
 **Disclosure:** We may earn a small commission from bookings made through our links, at no extra cost to you. This helps us keep creating free travel guides for Thailand.
 

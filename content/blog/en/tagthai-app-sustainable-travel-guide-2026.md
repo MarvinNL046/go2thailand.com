@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "travel-tips"
 tags: ["TAGTHAi", "Thailand travel app", "sustainable travel", "eco travel Thailand", "community tourism", "TAT", "travel technology 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/tagthai-app-sustainable-travel-guide-2026-hero.webp"
 description: "TAGTHAi, Thailand's official travel app backed by TAT, now offers AI-powered trip planning and eco-tourism routes. Here is how it works and why it matters in 2026."
 featured: false
 readingTime: 3

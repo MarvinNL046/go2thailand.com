@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["Thailand Open 2026", "badminton Bangkok", "BWF World Tour", "Nimibutr Arena", "sports events Thailand 2026", "things to do Bangkok May 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/toyota-thailand-open-2026-badminton-bangkok-nimibutr-arena-hero.webp"
 description: "The TOYOTA Thailand Open 2026 brings elite badminton back to Bangkok's Nimibutr Arena from 12 to 17 May, with a USD 500,000 prize pool and top-ranked players from around the world."
 featured: false
 readingTime: 3

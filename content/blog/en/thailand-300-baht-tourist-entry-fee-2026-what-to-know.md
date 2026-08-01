@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Thailand entry fee", "300 baht tourist fee", "Thailand travel costs 2026", "eco-tourism fund", "Thailand visa"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-300-baht-tourist-entry-fee-2026-what-to-know-hero.webp"
 description: "Thailand is rolling out a 300 baht entry fee for international visitors in 2026. Here is what the fee covers, when it starts, and how it funds eco-tourism."
 featured: false
 readingTime: 3

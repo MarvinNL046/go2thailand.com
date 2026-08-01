@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Bangkok cooking class", "Thai cooking class 2026", "Silom cooking school", "Amita cooking class", "Bangkok market tour", "learn Thai cooking"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/best-cooking-classes-bangkok-market-tour-2026-hero.webp"
 description: "A hands-on guide to the best cooking classes in Bangkok for 2026, from Silom market tours to canal-side home kitchens, with prices, what you will cook, and how to book."
 featured: false
 readingTime: 3
@@ -48,7 +48,7 @@ Once you arrive, the family team welcomes you with appetisers and cold drinks be
 
 ## Arun Thai Cooking — Tuk-Tuk Ride and Four Dishes
 
-**Arun Thai Cooking** offers a 3-hour-15-minute class that starts with a **tuk-tuk ride to a traditional local market**. The market tour is guided and focused on how to select the freshest ingredients. You then prepare four authentic [Thai dishes](/blog/what-is-thai-food-cuisine-guide/) at your own cooking station.
+**Arun Thai Cooking** offers a 3-hour-15-minute class that starts with a **tuk-tuk ride to a traditional local market**. The market tour is guided and focused on how to select the freshest ingredients. You then prepare four authentic [Thai dishes](/travel-guides/thai-cuisine-food-guide/) at your own cooking station.
 
 The class is compact enough to fit into a busy [Bangkok sightseeing schedule](/blog/best-day-trips-from-bangkok/) while still giving you a genuine hands-on experience.
 

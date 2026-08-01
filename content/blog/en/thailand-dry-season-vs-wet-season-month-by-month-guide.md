@@ -100,7 +100,7 @@ Crowds peak around Christmas and New Year, so advance booking is essential. Use 
 
 Head south to Phuket or Koh Samui for sun-soaked shores; north to Chiang Mai for temples. Our team preferred February's slightly fewer crowds for exploring Ayutthaya ruins without lines.
 
-Phuket's beaches shine here—see [Phuket island guide](https://go2-thailand.com/islands/phuket/).
+Phuket's beaches shine here—see [Phuket island guide](https://go2-thailand.com/city/phuket/).
 
 ### Travel Tips for Peaks
 
@@ -180,7 +180,7 @@ Fewer tourists mean better deals, ideal for off-peak exploration. See [Southern 
 
 Focus on indoor cultural spots or covered markets. In Bangkok, we enjoyed riverside dining during light rains.
 
-Link to [Things To Do in Bangkok](https://go2-thailand.com/things-to-do/bangkok/) for wet-weather ideas.
+Link to [Things To Do in Bangkok](https://go2-thailand.com/city/bangkok/attractions/) for wet-weather ideas.
 
 ### Island Hopping Adjustments
 

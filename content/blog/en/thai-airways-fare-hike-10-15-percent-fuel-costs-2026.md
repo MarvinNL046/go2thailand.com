@@ -7,7 +7,7 @@ category: "news"
 author:
   name: "Go2Thailand Editorial"
 tags: ["thai airways", "flight prices 2026", "airfare thailand", "jet fuel costs", "travel budget"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thai-airways-fare-hike-10-15-percent-fuel-costs-2026-hero.webp"
 draft: false
 sources:
   - "https://www.nationthailand.com/business/corporate/40063652"

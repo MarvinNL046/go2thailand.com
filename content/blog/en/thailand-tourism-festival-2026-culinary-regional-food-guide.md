@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand Tourism Festival 2026", "Thai food", "Bangkok events March 2026", "regional Thai cuisine", "street food Thailand", "QSNCC Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-festival-2026-culinary-regional-food-guide-hero.webp"
 description: "The 44th Thailand Tourism Festival at QSNCC Bangkok features regional food from all five parts of the country. Here is what to eat and why it matters."
 featured: false
 readingTime: 3
@@ -50,4 +50,4 @@ The festival divides Thailand into five regional villages: **North, Northeast (I
 
 ## Why It Matters
 
-TAT built the festival around the concept **"Feel All the Feelings"**, and food is central to that idea. The "Must Taste" theme is not just about eating — it is about understanding Thailand's diversity through its regional kitchens. For visitors planning trips beyond Bangkok, the food zones double as a preview of what each region has to offer. You can read more about [Thai cuisine history](/blog/history-of-thai-cuisine/) or dive into the [Thai street food guide](/blog/thai-street-food-guide-2026/) before you go. If the festival inspires you to explore further, the [Thailand Tourism Festival visitor guide](/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/) and the broader [domestic tourism push](/blog/thailand-domestic-tourism-push-tat-festival-2026/) context are useful reads. Bangkok itself has plenty more to offer on the food front — the [Bangkok Lumpini Hawker Centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) and [Banthat Thong Road food street](/blog/banthat-thong-road-bangkok-food-street-guide-2026/) are both worth a visit while you are in town.
+TAT built the festival around the concept **"Feel All the Feelings"**, and food is central to that idea. The "Must Taste" theme is not just about eating — it is about understanding Thailand's diversity through its regional kitchens. For visitors planning trips beyond Bangkok, the food zones double as a preview of what each region has to offer. You can read more about [Thai cuisine history](/blog/history-of-thai-cuisine/) or dive into the [Thai street food guide](/thailand-street-food/) before you go. If the festival inspires you to explore further, the [Thailand Tourism Festival visitor guide](/blog/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide/) and the broader [domestic tourism push](/blog/thailand-domestic-tourism-push-tat-festival-2026/) context are useful reads. Bangkok itself has plenty more to offer on the food front — the [Bangkok Lumpini Hawker Centre](/blog/bangkok-lumpini-hawker-centre-street-food-2026/) and [Banthat Thong Road food street](/blog/banthat-thong-road-bangkok-food-street-guide-2026/) are both worth a visit while you are in town.

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand Tourism Festival 2026", "QSNCC Bangkok", "TAT", "Bangkok events March 2026", "Thailand travel deals", "Thai culture"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-festival-2026-feel-all-feelings-visitor-guide-hero.webp"
 description: "The 44th Thailand Tourism Festival runs March 25-29 at QSNCC Bangkok. Here is everything you need to know: zones, deals, how to get there, and what to expect."
 featured: false
 readingTime: 3

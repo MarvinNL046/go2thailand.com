@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["Rayong", "Koh Samet", "Ban Phe", "seafood festival Thailand", "Thailand festival 2026", "beach festival", "Thai street food"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/banphe-samed-island-festival-2026-rayong-seafood-hero.webp"
 description: "The Banphe & Samed Island Festival 2026 runs March 11-15 in Rayong with 300+ seafood vendors, free nightly concerts, and easy access to Koh Samet."
 featured: false
 readingTime: 3
@@ -26,7 +26,7 @@ Every year the small fishing town of Ban Phe in [Rayong](/best-hotels/rayong/) P
 
 ## What Was on Offer
 
-More than **300 vendors** lined the pier and surrounding streets, selling everything from grilled squid and garlic prawns to crab fried rice and spicy seafood salads. Local restaurants set up open-air cooking stations where visitors could watch chefs prepare signature Rayong dishes and even pick up recipes. Community stalls offered dried seafood, shrimp paste, fish sauce, and other regional products to take home. For a guide to Thailand's broader [street food scene](/blog/thai-street-food-guide-2026/), we have you covered.
+More than **300 vendors** lined the pier and surrounding streets, selling everything from grilled squid and garlic prawns to crab fried rice and spicy seafood salads. Local restaurants set up open-air cooking stations where visitors could watch chefs prepare signature Rayong dishes and even pick up recipes. Community stalls offered dried seafood, shrimp paste, fish sauce, and other regional products to take home. For a guide to Thailand's broader [street food scene](/thailand-street-food/), we have you covered.
 
 Beyond the food, the festival featured live music and free concerts every evening, beauty pageants, comedy shows, and traditional cultural performances. There was even a triathlon and general-knowledge quiz for those who wanted something beyond eating. For more food-focused [festival coverage](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/), see our regional food guide.
 

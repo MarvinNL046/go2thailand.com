@@ -195,11 +195,11 @@ The southern tip of Phuket, Rawai is a working fishing village with a long pier 
 
 ### The Major Beaches
 
-**[Patong Beach](/city/phuket/attractions/patong-beach/)** is the most famous and crowded—3 km of developed coastline with jet skis, parasailing, and beach clubs. The water is generally safe for swimming, though red flags indicate rough conditions. We found it best visited early morning (before 9 AM) or at sunset to avoid peak crowds.
+**[Patong Beach](/city/phuket/attractions/)** is the most famous and crowded—3 km of developed coastline with jet skis, parasailing, and beach clubs. The water is generally safe for swimming, though red flags indicate rough conditions. We found it best visited early morning (before 9 AM) or at sunset to avoid peak crowds.
 
-**[Karon Beach](/city/phuket/attractions/karon-beach/)** is our top recommendation for most travelers. It's long, clean, and has excellent facilities without Patong's chaos. The northern end is quieter; the southern end has more restaurants and bars.
+**[Karon Beach](/city/phuket/attractions/)** is our top recommendation for most travelers. It's long, clean, and has excellent facilities without Patong's chaos. The northern end is quieter; the southern end has more restaurants and bars.
 
-**[Kata Beach](/city/phuket/attractions/kata-beach/)** is smaller and more scenic, with a curved bay and better waves. It's popular with surfers and has a bohemian vibe. The beach can get crowded in peak season, but it's still more relaxed than Patong.
+**[Kata Beach](/city/phuket/attractions/)** is smaller and more scenic, with a curved bay and better waves. It's popular with surfers and has a bohemian vibe. The beach can get crowded in peak season, but it's still more relaxed than Patong.
 
 **Nai Han Beach** is a hidden gem on the southern coast—a pristine crescent backed by pine trees and a Buddhist temple. It's less developed and attracts fewer tourists. The water is calm and clear, ideal for swimming.
 
@@ -241,13 +241,13 @@ Phuket's spiritual landscape reflects its Chinese heritage and Buddhist traditio
 
 ### Big Buddha (Phra Maha Chedi Chakri)
 
-Perched on a hilltop overlooking the island, the [Big Buddha](/city/phuket/attractions/big-buddha-phuket/) is Phuket's most iconic landmark. The 45-meter white marble statue is visible from most of the island and offers 360-degree views. The temple complex is peaceful and well-maintained, with a small museum and meditation area.
+Perched on a hilltop overlooking the island, the [Big Buddha](/city/phuket/attractions/) is Phuket's most iconic landmark. The 45-meter white marble statue is visible from most of the island and offers 360-degree views. The temple complex is peaceful and well-maintained, with a small museum and meditation area.
 
 **Practical Info:** Open 8 AM-6 PM daily. Entrance is free (donations welcome). Located in Chalong, about 20 km south of Patong. Allow 1-2 hours including the drive and exploration.
 
 ### Wat Chalong (Chalong Temple)
 
-The most important Buddhist temple in Phuket, [Wat Chalong](/city/phuket/attractions/wat-chalong/) dates back 200+ years. The ornate main chedi (stupa) is covered in gold leaf, and the temple grounds are serene and beautifully maintained. We visited early morning when monks were chanting—a profoundly peaceful experience.
+The most important Buddhist temple in Phuket, [Wat Chalong](/city/phuket/attractions/) dates back 200+ years. The ornate main chedi (stupa) is covered in gold leaf, and the temple grounds are serene and beautifully maintained. We visited early morning when monks were chanting—a profoundly peaceful experience.
 
 **Practical Info:** Open 6 AM-5 PM. Entrance free. Dress respectfully (covered shoulders and knees). Located in Chalong, near the Big Buddha.
 

@@ -58,7 +58,7 @@ Chatuchak Market began in 1982 as a small weekend gathering and has grown into a
 
 ## 2. Getting to Chatuchak Market: Transportation Guide
 
-Reaching Chatuchak is straightforward thanks to Bangkok's modern public transport system. The market's proximity to two major transit hubs makes it one of the most accessible shopping destinations in the city, whether you're arriving from [Bangkok hotels](https://go2-thailand.com/city/bangkok/hotels/) in the city center or from the airport.
+Reaching Chatuchak is straightforward thanks to Bangkok's modern public transport system. The market's proximity to two major transit hubs makes it one of the most accessible shopping destinations in the city, whether you're arriving from [Bangkok hotels](https://go2-thailand.com/best-hotels/bangkok/) in the city center or from the airport.
 
 ### BTS Skytrain & MRT Access
 
@@ -430,6 +430,6 @@ Our years navigating Bangkok's markets have taught us that Chatuchak rewards ear
 
 Plan your visit during the cool season (November–February), arrive by 8 AM on a weekend, bring comfortable shoes and plenty of water, and allow at least 4–6 hours for exploration. Whether you're a first-time visitor or a seasoned Bangkok traveler, Chatuchak delivers an experience that justifies its reputation as one of the world's greatest weekend markets.
 
-For more Bangkok exploration ideas, check out our [Bangkok attractions guide](/city/bangkok/attractions/) and [Bangkok food guide](/city/bangkok/food/). Ready to book your Bangkok trip? Start with our [hotel recommendations](/city/bangkok/hotels/). Plan the right season to visit using our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/), and use our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) to navigate the food stalls inside. If you want to take the flavours home, consider the [Blue Elephant Cooking School Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/).
+For more Bangkok exploration ideas, check out our [Bangkok attractions guide](/city/bangkok/attractions/) and [Bangkok food guide](/city/bangkok/food/). Ready to book your Bangkok trip? Start with our [hotel recommendations](/best-hotels/bangkok/). Plan the right season to visit using our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/), and use our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) to navigate the food stalls inside. If you want to take the flavours home, consider the [Blue Elephant Cooking School Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/).
 
 **Trust Statement:** The Go2Thailand team has lived in and extensively traveled throughout Thailand, including 3+ years in [Chiang Mai](/city/chiang-mai/) and countless visits to Bangkok's markets and neighborhoods. This guide reflects genuine firsthand experience combined with current, verified information from the Tourism Authority of Thailand and established travel resources.

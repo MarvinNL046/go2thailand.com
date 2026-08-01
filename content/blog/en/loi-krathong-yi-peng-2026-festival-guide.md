@@ -514,19 +514,19 @@ While **Loi Krathong and Yi Peng** are the main attractions, you'll likely spend
 - **[Cooking classes](/blog/thai-cooking-classes-chiang-mai/):** Learn to make Thai curry and pad thai (800-1,500 THB)
 - **Elephant sanctuaries:** [Ethical wildlife experiences](/blog/ethical-elephant-sanctuaries-thailand-2026-guide/) (2,000-3,500 THB)
 - **[Old City exploration](/city/chiang-mai/attractions/old-city-chiang-mai/):** Wander ancient streets, visit local markets
-- **Chiang Mai food scene:** [Night bazaar](/city/chiang-mai/attractions/night-bazaar/), local restaurants, [Thai street food](/blog/thai-street-food-guide-2026/) (50-300 THB per meal)
+- **Chiang Mai food scene:** [Night bazaar](/city/chiang-mai/attractions/night-bazaar/), local restaurants, [Thai street food](/thailand-street-food/) (50-300 THB per meal)
 
 ### In Sukhothai
 
-- **[Historical Park exploration](/city/sukhothai/attractions/sukhothai-historical-park/):** Spend a full day wandering temples and ruins (100 THB entry)
+- **[Historical Park exploration](/city/sukhothai/attractions/):** Spend a full day wandering temples and ruins (100 THB entry)
 - **Cycling tours:** Rent bikes and explore at your own pace (100-200 THB/day)
-- **[Local markets](/city/sukhothai/attractions/sukhothai-night-market/):** Sukhothai night market for authentic local food
-- **[Day trip to Si Satchanalai](/city/sukhothai/attractions/si-satchanalai-historical-park/):** Sister historical park 45 minutes away
-- **[Riverside walks](/city/sukhothai/attractions/yom-river/):** Peaceful exploration of the Yom River
+- **[Local markets](/city/sukhothai/attractions/):** Sukhothai night market for authentic local food
+- **[Day trip to Si Satchanalai](/city/sukhothai/attractions/):** Sister historical park 45 minutes away
+- **[Riverside walks](/city/sukhothai/attractions/):** Peaceful exploration of the Yom River
 
 ### In Bangkok (if arriving early)
 
-- **[Grand Palace and Temple of the Emerald Buddha](/city/bangkok/attractions/grand-palace/):** Bangkok's most iconic sites (500 THB)
+- **[Grand Palace and Temple of the Emerald Buddha](/city/bangkok/attractions/):** Bangkok's most iconic sites (500 THB)
 - **[Wat Arun](/blog/wat-arun-bangkok-temple-of-dawn-guide/):** Temple of Dawn with stunning riverside views (100 THB)
 - **[Floating markets](/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/):** Damnoen Saduak or Amphawa (free to visit; food costs 30-100 THB)
 - **Street food tours:** Explore [Bangkok's food scene](/city/bangkok/food/) (200-500 THB per tour)

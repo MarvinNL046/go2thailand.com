@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["bangkok hotels", "luxury hotel", "the langham", "chao phraya river", "bangkok 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-langham-custom-house-bangkok-luxury-hotel-2026-hero.webp"
 description: "The Langham, Custom House, Bangkok will open in late 2026 as a 5-star riverside hotel inside a restored 1888 heritage building on the Chao Phraya River."
 featured: false
 readingTime: 3
@@ -24,7 +24,7 @@ Bangkok is getting a major new luxury hotel. **The Langham, Custom House, Bangko
 
 ## A Historic Building Reborn
 
-At the heart of the project is Bangkok's **Old Custom House**, a neo-Palladian building designed by Italian architect Joachim Grassi and erected in 1888. Located in the Bang Rak district, the building once served as the kingdom's central customs office and is considered one of Bangkok's most significant heritage structures. It sits near [Wat Arun](/city/bangkok/attractions/wat-arun/), the Temple of Dawn, which is visible from the riverside.
+At the heart of the project is Bangkok's **Old Custom House**, a neo-Palladian building designed by Italian architect Joachim Grassi and erected in 1888. Located in the Bang Rak district, the building once served as the kingdom's central customs office and is considered one of Bangkok's most significant heritage structures. It sits near [Wat Arun](/city/bangkok/attractions/), the Temple of Dawn, which is visible from the riverside.
 
 The restoration aims to bring the building back to its former glory while integrating it into a modern luxury hotel complex. The site also includes the **former post office**, which will be reimagined to house dining and wellness amenities.
 

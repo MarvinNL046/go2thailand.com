@@ -261,7 +261,7 @@ Chiang Mai is also one of the [cheapest cities in the world for digital nomads i
 
 ### Phuket & Island Destinations
 
-[Phuket](https://go2-thailand.com/islands/phuket/) and other beach islands ([Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)) have abundant massage options, but prices are higher than inland cities due to tourism. You'll find everything from beachfront spa resorts to small clinics in town centers.
+[Phuket](https://go2-thailand.com/city/phuket/) and other beach islands ([Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)) have abundant massage options, but prices are higher than inland cities due to tourism. You'll find everything from beachfront spa resorts to small clinics in town centers.
 
 Island massage is convenient if you're staying at a resort, and many spas offer beachfront treatments. However, quality varies widely, and you'll pay a premium for location. We recommend booking through your hotel or asking locals for recommendations rather than walking into random shops. If you're planning a [Phuket trip](/blog/phuket-travel-guide-2026/), check our guide for vetted spa options, or browse [Koh Samui hotels](/best-hotels/koh-samui/) for resorts with on-site spas.
 

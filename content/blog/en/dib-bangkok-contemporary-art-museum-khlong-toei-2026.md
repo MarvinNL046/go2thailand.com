@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "culture"
 tags: ["Dib Bangkok", "contemporary art", "Bangkok museum", "Khlong Toei", "art museum Thailand", "Lee Bul", "Thailand culture 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/dib-bangkok-contemporary-art-museum-khlong-toei-2026-hero.webp"
 description: "Dib Bangkok is Thailand's first international contemporary art museum, housed in a repurposed 1980s warehouse in Khlong Toei. Opening exhibition runs until August 2026."
 featured: false
 readingTime: 3

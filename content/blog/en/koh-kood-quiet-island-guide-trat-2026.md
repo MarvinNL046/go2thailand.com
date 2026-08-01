@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "islands"
 tags: ["Koh Kood", "Ko Kut", "Trat islands", "quiet Thai islands 2026", "off the beaten path Thailand", "Thailand island guide"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/koh-kood-quiet-island-guide-trat-2026-hero.webp"
 description: "Koh Kood is Thailand's fourth-largest island, yet it remains one of the least visited. Here is everything you need to know about getting there, where to stay, and what to expect in 2026."
 featured: false
 readingTime: 3
@@ -32,7 +32,7 @@ Even during peak season in January and February, the island feels calm. Long str
 
 ## Best Beaches
 
-Koh Kood's coastline ranks among the [best beaches in Thailand](/best-beaches-in-thailand/) for those who prioritise calm over crowds. The [Trat attractions page](/city/trat/attractions/koh-kood/) has more on the island's geography.
+Koh Kood's coastline ranks among the [best beaches in Thailand](/best-beaches-in-thailand/) for those who prioritise calm over crowds. The [Trat attractions page](/city/trat/attractions/) has more on the island's geography.
 
 - **Klong Chao Beach:** The most popular stretch, with a handful of resorts and restaurants lining the sand. Still quiet by Thai island standards.
 - **Bang Bao Bay:** A sheltered bay on the south coast, great for swimming and snorkelling in calm, shallow water.
@@ -42,7 +42,7 @@ Koh Kood's coastline ranks among the [best beaches in Thailand](/best-beaches-in
 
 From Bangkok, take a flight or bus to [Trat](/city/trat/), then a speedboat or ferry from Laem Sok Pier. The speedboat takes around 75 minutes. In high season (November to April), several daily departures are available. During the low season, services are reduced but not cancelled entirely.
 
-A popular route is to combine Koh Kood with [Koh Mak](/city/trat/attractions/koh-mak/) and [Koh Chang](/blog/koh-chang-guide-thailand-eastern-island/) as part of an [eastern island-hopping itinerary](/blog/thailand-island-hopping-guide/). Inter-island boats connect all three.
+A popular route is to combine Koh Kood with [Koh Mak](/city/trat/attractions/) and [Koh Chang](/blog/koh-chang-guide-thailand-eastern-island/) as part of an [eastern island-hopping itinerary](/blog/thailand-island-hopping-guide/). Inter-island boats connect all three.
 
 ## Getting Around
 

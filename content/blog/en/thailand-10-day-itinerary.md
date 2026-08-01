@@ -124,7 +124,7 @@ Catch a morning flight from [Chiang Mai to Krabi](https://go2-thailand.com/trans
 
 [Krabi](https://go2-thailand.com/city/krabi/) is the ideal southern base because it offers easy access to Railay Beach, the Phi Phi Islands, and the Four Islands without the overdevelopment of Phuket. Our [Krabi travel guide](https://go2-thailand.com/blog/krabi-travel-guide/) covers everything from beaches to rock climbing. From Krabi airport, a shared shuttle to Ao Nang costs about 150 THB ($4.30).
 
-Spend the afternoon at [Ao Nang beach](https://go2-thailand.com/city/krabi/attractions/ao-nang-beach/), then take the short longtail boat ride (100 THB) to [Railay Beach](https://go2-thailand.com/city/krabi/attractions/railay-beach/) — a stunning peninsula only accessible by boat, flanked by vertical limestone cliffs. Rock climbers come from around the world for these walls.
+Spend the afternoon at [Ao Nang beach](https://go2-thailand.com/city/krabi/attractions/), then take the short longtail boat ride (100 THB) to [Railay Beach](https://go2-thailand.com/city/krabi/attractions/) — a stunning peninsula only accessible by boat, flanked by vertical limestone cliffs. Rock climbers come from around the world for these walls.
 
 **Day 7 budget:** 1,000–1,800 THB ($29–51) plus flight.
 

@@ -103,7 +103,7 @@ This is where the two destinations diverge most dramatically. Both have stunning
 - **Party islands**: [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/)—full moon parties, nightlife, young crowds
 - **Diving destinations**: [Koh Tao](https://go2-thailand.com/islands/koh-tao/) (world-class dive training, USD 250–350 for PADI certification), [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/)
 - **Quiet retreats**: [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/), [Koh Mak](https://go2-thailand.com/islands/koh-mak/)—minimal development, pristine waters
-- **Beach towns**: [Phuket](https://go2-thailand.com/islands/phuket/) for infrastructure, Krabi for limestone cliffs
+- **Beach towns**: [Phuket](https://go2-thailand.com/city/phuket/) for infrastructure, Krabi for limestone cliffs
 
 Thailand's beaches range from white sand to rocky coves. Water temperature stays warm year-round (26–29°C / 79–84°F). For the full rundown, see our [best beaches in Thailand guide](/blog/best-beaches-thailand/) and our [island hopping guide](/blog/thailand-island-hopping-guide/).
 
@@ -209,7 +209,7 @@ This is deeply personal, but both destinations are food lover's paradises—just
 
 ### Thai Cuisine: Heat & Complexity
 
-**Thailand's** food is spicier, more varied by region, and omnipresent in street stalls. [Thai street food](https://go2-thailand.com/food/) is legendary for a reason. Explore the full picture in our [Thai cuisine guide](/blog/what-is-thai-food-cuisine-guide/) and learn [what makes Thai food so spicy](/blog/what-makes-thai-food-spicy/).
+**Thailand's** food is spicier, more varied by region, and omnipresent in street stalls. [Thai street food](https://go2-thailand.com/food/) is legendary for a reason. Explore the full picture in our [Thai cuisine guide](/travel-guides/thai-cuisine-food-guide/) and learn [what makes Thai food so spicy](/blog/what-makes-thai-food-spicy/).
 
 **Regional specialties:**
 - **Bangkok**: [Pad Thai](https://go2-thailand.com/food/pad-thai/), [Tom Yum Goong](https://go2-thailand.com/food/tom-yum-goong/), boat noodles
@@ -699,7 +699,7 @@ Absolutely. A 3-week itinerary works well: 10–12 days in Thailand (Bangkok + n
 
 ### Which has better nightlife?
 
-**Thailand** wins decisively. [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) (Full Moon Party), [Phuket](https://go2-thailand.com/islands/phuket/), and Bangkok have world-famous nightlife. Bali has beach clubs and bars, but less of a "party scene." If nightlife is priority, Thailand is the choice.
+**Thailand** wins decisively. [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) (Full Moon Party), [Phuket](https://go2-thailand.com/city/phuket/), and Bangkok have world-famous nightlife. Bali has beach clubs and bars, but less of a "party scene." If nightlife is priority, Thailand is the choice.
 
 ### What's the best time to visit each destination?
 
@@ -737,7 +737,7 @@ After three years in Thailand and extensive time in Bali, we've learned that the
 
 **Ready to book?** Start with [Thailand's visa requirements](https://go2-thailand.com/visa/) or Bali's entry process, then explore our [comprehensive Thailand travel guides](https://go2-thailand.com/travel-guides/) for detailed itineraries, regional guides, and practical tips. Both destinations will reward you—the question is simply which adventure calls to you first.
 
-If you choose Thailand, here are the essential next steps: get your visa sorted with our [Thailand visa guide 2026](/visa/), plan your route with the [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) or our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/), and brush up on [Thai cuisine](/blog/what-is-thai-food-cuisine-guide/) so you know what to eat when you arrive.
+If you choose Thailand, here are the essential next steps: get your visa sorted with our [Thailand visa guide 2026](/visa/), plan your route with the [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) or our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/), and brush up on [Thai cuisine](/travel-guides/thai-cuisine-food-guide/) so you know what to eat when you arrive.
 
 Safe travels, and feel free to reach out with questions about either destination. We've lived it, and we're here to help.
 

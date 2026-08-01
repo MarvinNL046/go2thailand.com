@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "activities"
 tags: ["yoga retreat Thailand", "Koh Samui yoga", "Koh Phangan yoga", "meditation Thailand 2026", "wellness travel Thailand", "yoga teacher training"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/yoga-retreats-koh-samui-koh-phangan-2026-guide-hero.webp"
 description: "A practical guide to the best yoga and meditation retreats on Koh Samui and Koh Phangan in 2026, with prices, styles and booking tips."
 featured: false
 readingTime: 4

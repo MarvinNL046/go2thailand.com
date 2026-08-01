@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "culture"
 tags: ["Sak Yant Thailand", "bamboo tattoo Thailand", "Sak Yant Chiang Mai 2026", "Sak Yant Bangkok", "Thai sacred tattoo", "Ajarn tattoo master"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/sak-yant-bamboo-tattoo-thailand-guide-2026-hero.webp"
 description: "Thinking about getting a Sak Yant bamboo tattoo in Thailand? Here is everything you need to know in 2026, from choosing a monk or ajarn to designs, costs and hygiene tips."
 featured: false
 readingTime: 3

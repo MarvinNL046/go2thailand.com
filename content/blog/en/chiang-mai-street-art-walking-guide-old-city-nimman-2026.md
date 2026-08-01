@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "culture"
 tags: ["Chiang Mai street art", "Alex Face", "Wualai", "Nimman", "Chiang Mai walking tour", "Thailand art", "murals Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/chiang-mai-street-art-walking-guide-old-city-nimman-2026-hero.webp"
 description: "Explore Chiang Mai's vibrant street art scene on foot. This self-guided walking tour covers the Old City, Wualai and Nimmanhaemin with tips on the best murals and local artists."
 featured: false
 readingTime: 3

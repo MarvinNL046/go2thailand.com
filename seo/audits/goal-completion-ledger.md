@@ -1,6 +1,6 @@
 # Goal completion ledger
 
-**Generated:** 2026-08-01T05:55:36.557Z
+**Generated:** 2026-08-01T16:58:18.780Z
 **Objective state:** in-progress
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
@@ -10,7 +10,7 @@ This file is generated from the route inventory, locale keyword-owner registers,
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | NL | 600 | 600 | 600 | 0 | 535 | 111 | 247 | 0 |
-| EN | 1563 | 1563 | 1562 | 1 | 163 | 113 | 233 | 1492 |
+| EN | 1563 | 1563 | 1563 | 0 | 163 | 113 | 233 | 1492 |
 
 ## Active owner queues
 

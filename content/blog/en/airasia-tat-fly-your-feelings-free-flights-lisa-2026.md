@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["AirAsia", "TAT", "Lisa Blackpink", "free flights Thailand", "flight deals 2026", "domestic flights", "Fly Your Feelings"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/airasia-tat-fly-your-feelings-free-flights-lisa-2026-hero.webp"
 description: "AirAsia partners with the Tourism Authority of Thailand for the Fly Your Feelings campaign, offering 15% off flights to 8 provinces and a chance to win free flights for a year."
 featured: false
 readingTime: 3

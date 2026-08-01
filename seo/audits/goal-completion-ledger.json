@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T05:55:36.557Z",
+  "generatedAt": "2026-08-01T16:58:18.780Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -29,26 +29,24 @@
     "en": {
       "sitemapRoutes": 1563,
       "http200": 1563,
-      "premium": 1562,
-      "hybrid": 1,
+      "premium": 1563,
+      "hybrid": 0,
       "noSignature": 0,
       "exactOwners": 163,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 113,
       "amazonLinks": 233,
       "provisionalInventoryDecisions": 1492,
-      "designReport": "seo/audits/runtime/design-coverage-en-2026-07-29.json",
-      "sitewideReport": "seo/audits/runtime/en-mukdahan-food-final-2026-07-29.json",
+      "designReport": "seo/audits/runtime/design-coverage-en-2026-08-01.json",
+      "sitewideReport": "seo/audits/runtime/en-final-sitewide-2026-08-01-r3.json",
       "sitewide": {
-        "generatedAt": "2026-07-29T19:05:23.615Z",
+        "generatedAt": "2026-08-01T16:56:01.278Z",
         "routeCount": 1563,
         "passedRoutes": 1563,
         "failedRoutes": 0,
-        "warnedRoutes": 1,
+        "warnedRoutes": 0,
         "errorCounts": {},
-        "warningCounts": {
-          "no_main_incoming_link": 1
-        }
+        "warningCounts": {}
       }
     }
   },
@@ -9442,7 +9440,7 @@
       "familyKey": "en:homepage",
       "decisionStatus": "provisional",
       "httpStatus": 200,
-      "designCoverage": "hybrid-signature",
+      "designCoverage": "premium-signature",
       "exactOwner": true,
       "amazonLinks": 0,
       "proofState": "exact-owner"

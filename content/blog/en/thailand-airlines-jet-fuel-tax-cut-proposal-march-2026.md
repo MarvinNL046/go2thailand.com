@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand airfare 2026", "jet fuel tax Thailand", "Airlines Association Thailand", "cheap flights Thailand", "Songkran flights 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-airlines-jet-fuel-tax-cut-proposal-march-2026-hero.webp"
 description: "The Airlines Association of Thailand proposes cutting the domestic jet fuel excise tax from 4.73 to 0.20 baht per litre. If approved, ticket prices could drop and millions of extra seats could open up."
 featured: false
 readingTime: 3

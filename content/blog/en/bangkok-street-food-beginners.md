@@ -42,7 +42,7 @@ sources:
 
 ## 1. Why Bangkok Street Food Is Special
 
-**Thai street food** is not a downgraded version of restaurant food — it is one of the pillars of [what makes Thai cuisine so unique](/blog/what-is-thai-food-cuisine-guide). Many of **Bangkok's best meals** come from vendors who have perfected a single dish over decades. Some of these stalls have earned **Michelin recognition**. The quality is exceptional, the variety is staggering, and the prices remain remarkably low -- most dishes cost between **30 and 80 THB** (roughly 0.80-2.20 USD). For tips on managing your money, check our [ATM and money guide](/practical-info/atm-money/).
+**Thai street food** is not a downgraded version of restaurant food — it is one of the pillars of [what makes Thai cuisine so unique](/travel-guides/thai-cuisine-food-guide). Many of **Bangkok's best meals** come from vendors who have perfected a single dish over decades. Some of these stalls have earned **Michelin recognition**. The quality is exceptional, the variety is staggering, and the prices remain remarkably low -- most dishes cost between **30 and 80 THB** (roughly 0.80-2.20 USD). For tips on managing your money, check our [ATM and money guide](/practical-info/atm-money/).
 
 **Street food** is also deeply woven into Thai daily life. Thais eat out constantly, and **street stalls** serve as informal neighbourhood kitchens. Joining in is one of the best ways to experience **local Thai culture**. If you are planning when to go, our guide on the [best time to visit Thailand](/blog/best-time-to-visit-thailand/) can help you pick the ideal season -- [Bangkok's weather](/weather/) is hot year-round, but some months are more comfortable for walking food tours.
 
@@ -128,7 +128,7 @@ Having a working phone helps for translation apps and maps -- consider getting a
 - **Stay hydrated** -- **Bangkok is hot** and spicy food dehydrates you. Carry a water bottle, especially during the [hot season](/weather/).
 - **Fresh fruit** -- Pre-cut fruit from stalls is generally safe. **Pineapple**, mango, and watermelon are popular and refreshing.
 
-For broader safety advice including common tourist scams, check our [scams and safety guide](/practical-info/scams-safety/). It is also wise to arrange [travel insurance](/travel-insurance-thailand/) before your trip -- stomach issues are rare but having coverage gives peace of mind.
+For broader safety advice including common tourist scams, check our [scams and safety guide](/practical-info/scams-safety/). It is also wise to arrange [travel insurance](/travel-insurance/) before your trip -- stomach issues are rare but having coverage gives peace of mind.
 
 ## 6. Eating on a Budget
 
@@ -163,9 +163,9 @@ Explore our full [food section](/food/) for dish guides, recipes, and regional r
 
 ## 9. Final Thoughts
 
-**Bangkok street food** is safe, delicious, cheap, and endlessly varied. Do not overthink it. Walk up to a stall, point at something that looks good, and enjoy one of the world's great **culinary traditions** for the price of a coffee back home. With the right [travel insurance](/travel-insurance-thailand/) and a sense of adventure, your stomach will thank you. Want to learn to cook what you eat? The [Blue Elephant Cooking School in Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/) is one of the best ways to take these flavours home.
+**Bangkok street food** is safe, delicious, cheap, and endlessly varied. Do not overthink it. Walk up to a stall, point at something that looks good, and enjoy one of the world's great **culinary traditions** for the price of a coffee back home. With the right [travel insurance](/travel-insurance/) and a sense of adventure, your stomach will thank you. Want to learn to cook what you eat? The [Blue Elephant Cooking School in Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/) is one of the best ways to take these flavours home.
 
-Ready to plan your trip? Start with our [Bangkok city guide](/city/bangkok/), figure out the [best time to visit Thailand](/blog/best-time-to-visit-thailand/), and explore [practical info](/practical-info/scams-safety/) to make your journey smooth from landing to your last bite of **[mango sticky rice](/food/mango-sticky-rice/)**. If you are wondering what makes the cuisine tick at a deeper level, our [guide to Thai cuisine and culture](/blog/what-is-thai-food-cuisine-guide/) is a great starting point. For night market lovers, the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/) guide has the latest 2026 picks.
+Ready to plan your trip? Start with our [Bangkok city guide](/city/bangkok/), figure out the [best time to visit Thailand](/blog/best-time-to-visit-thailand/), and explore [practical info](/practical-info/scams-safety/) to make your journey smooth from landing to your last bite of **[mango sticky rice](/food/mango-sticky-rice/)**. If you are wondering what makes the cuisine tick at a deeper level, our [guide to Thai cuisine and culture](/travel-guides/thai-cuisine-food-guide/) is a great starting point. For night market lovers, the [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/) guide has the latest 2026 picks.
 
 ## FAQ
 

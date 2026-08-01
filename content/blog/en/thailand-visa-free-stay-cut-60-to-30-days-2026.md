@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "visa"
 tags: ["Thailand visa 2026", "visa-free stay Thailand", "Thailand 30 day visa", "Thailand visa changes", "Thailand immigration 2026", "Thailand tourist visa"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-visa-free-stay-cut-60-to-30-days-2026-hero.webp"
 description: "Thailand's government is planning to cut the visa-free stay from 60 days back to 30 days. Here is what the change means for tourists and when it takes effect."
 featured: false
 readingTime: 3

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "activities"
 tags: ["Thailand liveaboard diving 2026", "Similan Islands diving", "Richelieu Rock", "Surin Islands", "whale shark Thailand", "scuba diving Thailand", "DiveRACE Class X", "Manta Queen"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-liveaboard-diving-guide-similan-surin-2026-hero.webp"
 description: "Everything you need to know about liveaboard diving in Thailand for the 2025-2026 season, from the Similan Islands and Richelieu Rock to brand-new boats like the DiveRACE Class X."
 featured: false
 readingTime: 4

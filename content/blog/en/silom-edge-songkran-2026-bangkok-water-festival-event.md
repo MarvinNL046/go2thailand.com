@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["Songkran 2026", "Silom Road Bangkok", "Silom Edge Songkran", "Bangkok water festival", "Thai New Year 2026", "Bangkok events April 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/silom-edge-songkran-2026-bangkok-water-festival-event-hero.webp"
 description: "Silom Edge Songkran 2026 runs April 12-14 on Silom Road with DJs, a free concert and a massive water fight. Here is what to expect and how to plan your visit."
 featured: false
 readingTime: 3
@@ -35,7 +35,7 @@ The event is centred around Silom Edge, the mixed-use complex on Silom Road near
 - **Free live concert** by Thai artist Hai Apaporn Nakhonsawan on 13 April from 4pm to 5pm
 - **DJ sets** by well-known DJs from BEEF.BKK throughout the three-day event
 - **Central dance zone** on Silom Road — a long-standing tradition where thousands of people gather to dance, splash and celebrate in the street
-- **Street food stalls** along the road selling [Thai festival favourites](/blog/thai-street-food-guide-2026/)
+- **Street food stalls** along the road selling [Thai festival favourites](/thailand-street-food/)
 - **Free water refill point** so you can keep your water guns topped up without buying plastic bottles
 
 Entry to the event is free.

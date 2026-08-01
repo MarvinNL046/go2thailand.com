@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "travel-tips"
 tags: ["Koh Samui airport 2026", "Bangkok Airways new routes", "flights to Koh Samui", "Samui international flights", "Thailand aviation 2026", "Koh Samui travel"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/koh-samui-airport-international-hub-bangkok-airways-2026-hero.webp"
 description: "Bangkok Airways is transforming Koh Samui Airport into Thailand's second international flight hub with new routes to Abu Dhabi, Dubai, Shanghai and more. Here is what travellers need to know."
 featured: false
 readingTime: 3
@@ -48,13 +48,13 @@ This push is part of a broader pattern of [new airline routes opening across Tha
 
 ## What This Means for Travellers
 
-For visitors planning a 2026 trip to [Koh Samui](/destinations/koh-samui/), the expansion brings several practical benefits:
+For visitors planning a 2026 trip to [Koh Samui](/city/koh-samui/), the expansion brings several practical benefits:
 
 - **Shorter travel times** from the Middle East and Asia, with no need to overnight in Bangkok
 - **More competition** on routes could push fares down over time — though be aware that [Thai carriers have raised fares due to fuel costs](/blog/thai-airways-fare-hike-10-15-percent-fuel-costs-2026/)
 - **Easier multi-destination trips** — fly into Samui, ferry to [Koh Phangan](/islands/koh-phangan/) or [Koh Tao](/islands/koh-tao/), then fly out from [Krabi](/blog/krabi-travel-guide/) or Chiang Mai
 
-Planning a [Bangkok to Koh Samui](/transport/bangkok-to-koh-samui/) journey? The [Bangkok to Koh Samui guide](/blog/bangkok-to-koh-samui-guide/) covers all transport options including the overnight bus-ferry combo. For those wanting to [compare Koh Samui with Koh Phangan](/compare/koh-samui-vs-koh-phangan/) before booking, the two islands offer very different vibes despite being just a 30-minute ferry apart.
+Planning a [Bangkok to Koh Samui](/blog/bangkok-to-koh-samui-guide/) journey? The [Bangkok to Koh Samui guide](/blog/bangkok-to-koh-samui-guide/) covers all transport options including the overnight bus-ferry combo. For those wanting to [compare Koh Samui with Koh Phangan](/compare/koh-samui-vs-koh-phangan/) before booking, the two islands offer very different vibes despite being just a 30-minute ferry apart.
 
 Scoot (the Singapore Airlines low-cost carrier) also operates a **Singapore to Koh Samui** route on Embraer E190 jets, adding a budget-friendly alternative alongside Bangkok Airways.
 

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "destinations"
 tags: ["Koh Larn", "Coral Island Pattaya", "Pattaya day trip", "Koh Larn ferry", "Samae Beach", "Ta Waen Beach", "Thailand islands 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026-hero.webp"
 description: "Koh Larn sits just 7 km off Pattaya with clear water, white sand and cheap ferries. Here is everything you need to plan a day trip in 2026, from ferry times to the best beaches."
 featured: false
 readingTime: 3
@@ -24,13 +24,13 @@ sources:
 
 ## Why Koh Larn?
 
-[Pattaya's](/city/pattaya/) own beachfront is busy and the water is not the clearest. Koh Larn, a small island just 7 km offshore, fixes both problems. The water is turquoise, the sand is white, and the whole island is only about 4 km long — small enough to explore in a single day. Locals call it [Coral Island](/city/pattaya/attractions/coral-island/), and it has been a favourite escape from Pattaya for decades.
+[Pattaya's](/city/pattaya/) own beachfront is busy and the water is not the clearest. Koh Larn, a small island just 7 km offshore, fixes both problems. The water is turquoise, the sand is white, and the whole island is only about 4 km long — small enough to explore in a single day. Locals call it [Coral Island](/city/pattaya/attractions/), and it has been a favourite escape from Pattaya for decades.
 
 The island has six named beaches, a fishing village, seafood restaurants, convenience stores and enough infrastructure to spend a comfortable day without roughing it. If you are planning a longer stay in the area, check our [Pattaya travel guide](/guides/travel-guide/pattaya/) or browse [where to stay in Pattaya](/where-to-stay/pattaya/).
 
 ## Getting There: Ferry or Speedboat
 
-All boats leave from Bali Hai Pier at the southern end of [Walking Street](/city/pattaya/attractions/walking-street/) in Pattaya.
+All boats leave from Bali Hai Pier at the southern end of [Walking Street](/city/pattaya/attractions/) in Pattaya.
 
 **Public ferry** — Departures run every 30 to 40 minutes from 07:00 to 18:30. The crossing takes about 45 minutes and costs just 30 THB one way. The last return ferry leaves Koh Larn at 18:00, so keep an eye on the time.
 
@@ -67,4 +67,4 @@ Seafood is the obvious choice. Beachside restaurants serve grilled prawns, squid
 - **Sunscreen and water.** There is little natural shade on the main beaches. Bring reef-safe sunscreen and stay hydrated — it gets hot.
 - **Snorkelling gear.** You can rent masks and fins on Ta Waen and Samae beaches for about 100 to 200 THB. The coral is not pristine, but you will see plenty of fish in the shallows. For serious diving and snorkelling elsewhere in Thailand, see our [best diving and snorkelling guide](/best-diving-snorkeling-in-thailand/).
 
-Koh Larn works perfectly as a half-day or full-day trip from Pattaya. For 30 THB and 45 minutes, you trade a busy city beach for clear island water — it is one of the easiest and cheapest upgrades you can make on a [Thailand trip](/blog/thailand-first-time-visitors-essential-guide-2026/). If you want more island adventures, check our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) or explore quieter alternatives like [Koh Kood](/blog/koh-kood-quiet-island-guide-trat-2026/) and [Koh Chang](/blog/koh-chang-guide-thailand-eastern-island/) just up the eastern coast. You can also see all [things to do in Pattaya](/things-to-do/pattaya/) for ideas to fill the rest of your stay.
+Koh Larn works perfectly as a half-day or full-day trip from Pattaya. For 30 THB and 45 minutes, you trade a busy city beach for clear island water — it is one of the easiest and cheapest upgrades you can make on a [Thailand trip](/blog/thailand-first-time-visitors-essential-guide-2026/). If you want more island adventures, check our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) or explore quieter alternatives like [Koh Kood](/blog/koh-kood-quiet-island-guide-trat-2026/) and [Koh Chang](/blog/koh-chang-guide-thailand-eastern-island/) just up the eastern coast. You can also see all [things to do in Pattaya](/city/pattaya/attractions/) for ideas to fill the rest of your stay.

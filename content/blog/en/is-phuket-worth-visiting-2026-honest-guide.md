@@ -220,13 +220,13 @@ Beyond Patong, Phuket has excellent beaches:
 
 ### Cultural Sites
 
-- **[Big Buddha](/city/phuket/attractions/big-buddha-phuket/):** 45-meter white marble statue overlooking the island (free entry, 200 THB donation suggested)
-- **[Wat Chalong](/city/phuket/attractions/wat-chalong/):** Phuket's most sacred temple, with ornate architecture and peaceful grounds
+- **[Big Buddha](/city/phuket/attractions/):** 45-meter white marble statue overlooking the island (free entry, 200 THB donation suggested)
+- **[Wat Chalong](/city/phuket/attractions/):** Phuket's most sacred temple, with ornate architecture and peaceful grounds
 - **[Old Phuket Town](/blog/old-town-phuket-walking-guide-street-art-cafes-2026/):** Sino-Portuguese buildings, local markets, street food
 
 ### Nightlife & Entertainment
 
-[Patong's Bangla Road](/city/phuket/attractions/bangla-road/) is famous for its go-go bars, clubs, and late-night dining. The strip recently underwent a [digital makeover in 2026](/blog/bangla-road-phuket-digital-makeover-nightlife-2026/), with new LED installations and crowd management measures. Whether you're interested in this scene or not, it's worth knowing it exists and is concentrated in one area. For a different vibe, Kamala and Karon have quieter bars and beachfront restaurants, and Phuket's [best beach clubs in 2026](/blog/phuket-best-beach-clubs-2026-yona-catch-barra-cuda/) offer a more upscale daytime alternative.
+[Patong's Bangla Road](/city/phuket/attractions/) is famous for its go-go bars, clubs, and late-night dining. The strip recently underwent a [digital makeover in 2026](/blog/bangla-road-phuket-digital-makeover-nightlife-2026/), with new LED installations and crowd management measures. Whether you're interested in this scene or not, it's worth knowing it exists and is concentrated in one area. For a different vibe, Kamala and Karon have quieter bars and beachfront restaurants, and Phuket's [best beach clubs in 2026](/blog/phuket-best-beach-clubs-2026-yona-catch-barra-cuda/) offer a more upscale daytime alternative.
 
 <div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

@@ -300,10 +300,10 @@ Group your **20 most beautiful temples** via day trips. Here's our honest breakd
 Wat Arun at sunrise and Wat Pho for macro mother-of-pearl shots top our list—arrive by 5 AM to beat tour groups. Pair with [Bangkok attractions guide](https://go2-thailand.com/city/bangkok/attractions/).
 
 ### How to visit Ayutthaya temples from Bangkok?
-Take a 1.5hr train (20 THB) or join a half-day tour; rent bikes on-site for 50 THB/hour. Ideal for one day, per our [Ayutthaya guide](https://go2-thailand.com/destinations/ayutthaya/).
+Take a 1.5hr train (20 THB) or join a half-day tour; rent bikes on-site for 50 THB/hour. Ideal for one day, per our [Ayutthaya guide](https://go2-thailand.com/city/ayutthaya/).
 
 ### Are Chiang Mai temples worth a day trip?
-Absolutely—Doi Suthep's views justify the songthaew ride. Combine with [Chiang Mai things to do](https://go2-thailand.com/things-to-do/chiang-mai/).
+Absolutely—Doi Suthep's views justify the songthaew ride. Combine with [Chiang Mai things to do](https://go2-thailand.com/city/chiang-mai/attractions/).
 
 ### Can I use a drone at Thai temples?
 Permits required (apply via CAAT); banned near Grand Palace. Fines up to 100,000 THB otherwise.

@@ -91,7 +91,7 @@ Both countries have distinct seasons, but 2026 offers excellent windows for trav
 
 ### Thailand's Ideal Season
 
-**Thailand's cool and dry season runs November through February**—the absolute peak for tourism. During our November visit to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), temperatures hovered around 20–25°C (68–77°F) in the north, with clear skies and zero rain. Southern islands like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/islands/phuket/) are equally perfect, with calm seas ideal for diving and [snorkeling](https://klook.tpo.lv/7Dt6WApj).
+**Thailand's cool and dry season runs November through February**—the absolute peak for tourism. During our November visit to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), temperatures hovered around 20–25°C (68–77°F) in the north, with clear skies and zero rain. Southern islands like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) are equally perfect, with calm seas ideal for diving and [snorkeling](https://klook.tpo.lv/7Dt6WApj).
 
 March through May brings intense heat (35–40°C / 95–104°F) and the start of the rainy season in May. September and October are the wettest months, though prices drop significantly and crowds vanish. Our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) covers this in more detail.
 

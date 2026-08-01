@@ -486,7 +486,7 @@ Khao Sam Roi Yot (covered earlier) is in this province, but the province itself 
 
 ## 15. Koh Yao Noi — The Quiet Phang Nga Island
 
-[Koh Yao Noi](/islands/koh-yao-noi/) sits between [Phuket](https://go2-thailand.com/islands/phuket/) and Krabi in Phang Nga Bay, yet it remains dramatically quieter than either. The island is a working rubber plantation and fishing community where tourism is secondary to local life. The island has pristine beaches, excellent kayaking, and views of the dramatic limestone karsts that define the region.
+[Koh Yao Noi](/islands/koh-yao-noi/) sits between [Phuket](https://go2-thailand.com/city/phuket/) and Krabi in Phang Nga Bay, yet it remains dramatically quieter than either. The island is a working rubber plantation and fishing community where tourism is secondary to local life. The island has pristine beaches, excellent kayaking, and views of the dramatic limestone karsts that define the region.
 
 ### Island Activities
 

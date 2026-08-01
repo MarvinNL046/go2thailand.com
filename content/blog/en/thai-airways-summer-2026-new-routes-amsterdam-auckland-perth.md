@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "transport"
 tags: ["Thai Airways 2026", "Bangkok flights", "Amsterdam direct flight Thailand", "Auckland Thailand", "Perth Thailand", "Thailand aviation"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth-hero.webp"
 description: "Thai Airways unveils its Summer 2026 schedule with new nonstop routes from Bangkok to Amsterdam, Auckland and Perth, plus expanded frequencies across Asia."
 featured: false
 readingTime: 3

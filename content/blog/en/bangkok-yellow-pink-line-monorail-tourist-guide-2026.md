@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "transport"
 tags: ["Bangkok transport", "MRT Yellow Line", "MRT Pink Line", "monorail Bangkok", "Bangkok travel tips 2026", "Mangmoom Card"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-yellow-pink-line-monorail-tourist-guide-2026-hero.webp"
 description: "Bangkok's driverless Yellow and Pink Line monorails opened in 2023-2024 and make it easy to reach neighbourhoods tourists used to skip. Here is how to use them in 2026."
 featured: false
 readingTime: 3

@@ -93,7 +93,7 @@ Green curry hits you with immediate, lingering heat followed by herbaceous, fres
 
 **Red curry** is the Goldilocks of Thai curries—hot enough to satisfy spice lovers, but not so intense that it overwhelms the palate. Made with mature red chilies, it's slightly milder than green curry and more approachable for visitors. The flavor is deeper and more complex than yellow curry, with a good balance between heat, creaminess, and herbaceous notes.
 
-During our time exploring the southern islands, we noticed that red curry appears on nearly every restaurant menu, from beachside shacks on [Koh Samui](https://go2-thailand.com/islands/koh-samui/) to upscale dining rooms in [Phuket](https://go2-thailand.com/islands/phuket/). This isn't coincidence—red curry is the curry that works for everyone. It's the gateway curry for many visitors, and for good reason.
+During our time exploring the southern islands, we noticed that red curry appears on nearly every restaurant menu, from beachside shacks on [Koh Samui](https://go2-thailand.com/islands/koh-samui/) to upscale dining rooms in [Phuket](https://go2-thailand.com/city/phuket/). This isn't coincidence—red curry is the curry that works for everyone. It's the gateway curry for many visitors, and for good reason.
 
 ### Flavor Profile & Heat Level
 
@@ -166,7 +166,7 @@ Yellow curry traditionally features chicken or potatoes (often both). The potato
 
 **Panang curry** is the richest and most luxurious of the Thai curries, thanks to the addition of ground peanuts and a higher ratio of coconut milk to liquid. It's less soupy than other curries and more like a thick, creamy sauce that clings to every piece of protein. The flavor is complex—simultaneously spicy, sweet, and nutty.
 
-The name "Panang" likely derives from Penang, Malaysia, reflecting the curry's origins in the Malay Peninsula. During our time exploring [Phuket](https://go2-thailand.com/islands/phuket/) and the southern islands, we found Panang curry on virtually every menu, often served with jasmine rice and a side of cucumber salad to cut through the richness.
+The name "Panang" likely derives from Penang, Malaysia, reflecting the curry's origins in the Malay Peninsula. During our time exploring [Phuket](https://go2-thailand.com/city/phuket/) and the southern islands, we found Panang curry on virtually every menu, often served with jasmine rice and a side of cucumber salad to cut through the richness.
 
 ### Flavor Profile & Heat Level
 
@@ -268,7 +268,7 @@ The best Thai curries aren't always in restaurants—they're in markets, family-
 
 ### Southern Island Curries
 
-The southern islands, particularly [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), and [Phuket](https://go2-thailand.com/islands/phuket/), feature curries with Malaysian influences. Panang and Massaman are more common here. Prices are higher due to tourism—expect 150–350 THB ($4–$10 USD) at restaurants, though market stalls still offer good value.
+The southern islands, particularly [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), and [Phuket](https://go2-thailand.com/city/phuket/), feature curries with Malaysian influences. Panang and Massaman are more common here. Prices are higher due to tourism—expect 150–350 THB ($4–$10 USD) at restaurants, though market stalls still offer good value.
 
 - **Best Market:** Chatuchak Weekend Market in [Bangkok](https://go2-thailand.com/city/bangkok/) — dozens of curry stalls, authentic preparation
 - **Best Neighborhood:** Ari in [Bangkok](https://go2-thailand.com/city/bangkok/) — local restaurants, reasonable prices, excellent quality
@@ -404,7 +404,7 @@ Yes, but it's better to specify beforehand. If your curry arrives too spicy, ask
 
 The key to mastering Thai curry is simple: ask questions, specify your preferences, and don't be afraid to try something new. Visit [Bangkok's](https://go2-thailand.com/city/bangkok/) markets, explore [Chiang Mai's](https://go2-thailand.com/city/chiang-mai/) night bazaar, or island-hop through the [southern islands](https://go2-thailand.com/islands/) tasting curries at every stop. Each region has its own curry traditions, and each cook has their own secrets.
 
-For more authentic Thai food experiences, explore our comprehensive [Thai food guide](https://go2-thailand.com/food/) and discover other essential dishes like [Pad Thai](/food/pad-thai/), [Tom Yum Goong](/food/tom-yum-goong/), and [Mango Sticky Rice](/food/mango-sticky-rice/). Ready to plan your curry adventure? Check out our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) for food-focused trips with curry stops built in. The [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) also ranks the best market curries by city.
+For more authentic Thai food experiences, explore our comprehensive [Thai food guide](https://go2-thailand.com/food/) and discover other essential dishes like [Pad Thai](/food/pad-thai/), [Tom Yum Goong](/food/tom-yum-goong/), and [Mango Sticky Rice](/food/mango-sticky-rice/). Ready to plan your curry adventure? Check out our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) for food-focused trips with curry stops built in. The [Thai street food guide 2026](/thailand-street-food/) also ranks the best market curries by city.
 
 **Trust us:** after years of living and eating in Thailand, we can confidently say that understanding curries transforms your entire Thailand experience. You're not just eating—you're participating in a culinary tradition that spans centuries and connects you to the heart of Thai culture.
 

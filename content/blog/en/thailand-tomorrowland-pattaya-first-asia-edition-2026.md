@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["tomorrowland", "pattaya", "music festival", "thailand events", "thailand 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tomorrowland-pattaya-first-asia-edition-2026-hero.webp"
 description: "Tomorrowland is heading to Pattaya, Thailand in December 2026 for its first-ever Asia edition. All 150,000 tickets sold out in under an hour."
 featured: false
 readingTime: 4

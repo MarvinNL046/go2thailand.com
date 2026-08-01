@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand tourism 2026", "quality tourism", "first-time tourists Thailand", "Thailand travel strategy", "value over volume", "Thailand visitor numbers"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-shifts-gears-fewer-visitors-better-experiences-2026-hero.webp"
 description: "Thailand is seeing fewer international arrivals in 2026 but is treating it as an opportunity. The focus is shifting to longer stays, higher spending, and better experiences for visitors."
 featured: false
 readingTime: 3

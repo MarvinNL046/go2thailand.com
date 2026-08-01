@@ -61,9 +61,9 @@ Bangkok after dark reveals a kaleidoscope of neon, steam, and sizzling street-fo
 - **Label: Fashion & Trinkets:** Vintage tees, local handicrafts, inexpensive accessories  
 - **Label: Local Favorites:** Pad thai in a take-away cup, fried chicken bites
 
-When our team visited, the market still had a distinctly local rhythm—families, college students, and visitors all mingling in a maze of stalls. For more Bangkok food ideas, check out the [Thai street food guide](/blog/thai-street-food-guide-2026/) and [street food markets](/blog/best-street-food-markets-bangkok/) around the city.
+When our team visited, the market still had a distinctly local rhythm—families, college students, and visitors all mingling in a maze of stalls. For more Bangkok food ideas, check out the [Thai street food guide](/thailand-street-food/) and [street food markets](/blog/best-street-food-markets-bangkok/) around the city.
 
-- Where to stay nearby: see nearby [Hotels in Bangkok](/city/bangkok/hotels/).
+- Where to stay nearby: see nearby [Hotels in Bangkok](/best-hotels/bangkok/).
 
 ---
 
@@ -103,7 +103,7 @@ When we visited, the place buzzed with a mix of locals and expats, and it’s co
 - **Label: Street Food:** Barbecued skewers, Thai noodles, grilled mushrooms  
 - **Label: Quick Bites:** Fried snacks, fruit shakes, roti
 
-In practice, Srinakarin is best saved for a longer night-out; it’s further from central hubs, but the space and variety make the trip worthwhile. If you’re combining with a stay, see [Hotels](/city/bangkok/hotels/) near the city edge for a calmer end to the night.
+In practice, Srinakarin is best saved for a longer night-out; it’s further from central hubs, but the space and variety make the trip worthwhile. If you’re combining with a stay, see [Hotels](/best-hotels/bangkok/) near the city edge for a calmer end to the night.
 
 - Pro tip: Factor in a longer transit window; this market’s late-night energy deserves a relaxed evening.
 
@@ -128,13 +128,13 @@ In practice, Srinakarin is best saved for a longer night-out; it’s further fro
 
 During our time in Yaowarat, wandering through narrow lanes reveals a steady parade of food stalls and impromptu music, plus spots to sample traditional Chinese-Thai fusion dishes. For a broader food palette, pair with a quick stop at [Food](/city/bangkok/food/) picks in Bangkok.
 
-- Stay nearby: consider accommodations in central Bangkok via [Hotels](/city/bangkok/hotels/).
+- Stay nearby: consider accommodations in central Bangkok via [Hotels](/best-hotels/bangkok/).
 
 ---
 
 ## 5. Khaosan Road & Banglamphu Night Market
 
-**[Khaosan Road](/city/bangkok/attractions/khao-san-road/) Night Market** is Bangkok’s backpacker pulse—the stalls line up after dusk with affordable fashion, souvenirs, and snack bites. In our travels, this area shows Bangkok’s cosmopolitan energy and remains a reliable late-night option with a dense cluster of eateries and bars.
+**[Khaosan Road](/city/bangkok/attractions/) Night Market** is Bangkok’s backpacker pulse—the stalls line up after dusk with affordable fashion, souvenirs, and snack bites. In our travels, this area shows Bangkok’s cosmopolitan energy and remains a reliable late-night option with a dense cluster of eateries and bars.
 
 ### Getting There
 
@@ -165,7 +165,7 @@ We’ve enjoyed the camaraderie here after a long day of exploring; it’s a pla
 - **Label: Fashion:** Wholesale-style fashion, inexpensive accessories, and quick-change outfits  
 - **Label: Snacks:** Grilled corn, fried bites, sweet buns
 
-Tip: Pair with a stay at a central hotel to minimize transit when you’re shopping late. See [Hotels](/city/bangkok/hotels/) nearby.
+Tip: Pair with a stay at a central hotel to minimize transit when you’re shopping late. See [Hotels](/best-hotels/bangkok/) nearby.
 
 ---
 
@@ -181,7 +181,7 @@ Tip: Pair with a stay at a central hotel to minimize transit when you’re shopp
 - **Label: Fusion Snacks:** Spicy-sweet skewers, artisanal ice pops, artisan coffee  
 - **Label: Quick Bites:** Noodles, fried rice, Thai desserts
 
-We’ve found the Sukhumvit clusters best enjoyed with a post-dinner walk through the area, finishing with a riverfront or [rooftop drink](/blog/bangkok-best-cocktail-bars-march-2026-nightlife/). Expect a mix of local and international flavors. For a broader stay, see nearby [Hotels](/city/bangkok/hotels/).
+We’ve found the Sukhumvit clusters best enjoyed with a post-dinner walk through the area, finishing with a riverfront or [rooftop drink](/blog/bangkok-best-cocktail-bars-march-2026-nightlife/). Expect a mix of local and international flavors. For a broader stay, see nearby [Hotels](/best-hotels/bangkok/).
 
 ---
 
@@ -202,7 +202,7 @@ We’ve found the Sukhumvit clusters best enjoyed with a post-dinner walk throug
 - **Label: Riverside Cuisine:** Grilled seafood platters, Thai-style burgers, and riverfront desserts  
 - **Label: Souvenirs:** Local crafts and fashion stalls with a more polished presentation
 
-If you’re staying near the river, Asiatique makes a comfortable night-market stop with easy transport back to central hotels. You can combine it with a stay by browsing options on [Hotels](/city/bangkok/hotels/).
+If you’re staying near the river, Asiatique makes a comfortable night-market stop with easy transport back to central hotels. You can combine it with a stay by browsing options on [Hotels](/best-hotels/bangkok/).
 
 ---
 
@@ -220,7 +220,7 @@ It’s hard to squeeze all Bangkok’s markets into one night, but a well-planne
 - Day 2: Ratchada Train Night Market plus a quick Pratunam stroll for fashion bargains.  
 - Day 3: Srinakarin (Talad Rod Fai Srinakarin) in the evening, then a relaxed night-back to city center via taxi or train line.
 
-Throughout any itinerary, pair market stops with a stay in reachable neighborhoods. For hotel suggestions, see [Hotels](/city/bangkok/hotels/). For a broader Bangkok plan, browse our [Bangkok city guide](/city/bangkok/). If you're also hunting for budget dorms and late-night social spots, check the [best party hostels in Thailand](/blog/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai/).
+Throughout any itinerary, pair market stops with a stay in reachable neighborhoods. For hotel suggestions, see [Hotels](/best-hotels/bangkok/). For a broader Bangkok plan, browse our [Bangkok city guide](/city/bangkok/). If you're also hunting for budget dorms and late-night social spots, check the [best party hostels in Thailand](/blog/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai/).
 
 ---
 

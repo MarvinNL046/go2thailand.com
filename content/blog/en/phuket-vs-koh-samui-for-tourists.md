@@ -204,7 +204,7 @@ Koh Samui is much smaller (228 km2) with a ring road that loops the entire islan
 - **Best for diving certification**: Koh Samui (gateway to Koh Tao).
 - **Best for first-time Thailand with kids**: Phuket.
 
-For a wider look at how these two compare to the rest of Thailand's islands, see our [Thailand islands overview](https://go2-thailand.com/blog/thailand-islands/), which stacks up 10+ island options by vibe, cost, and access.
+For a wider look at how these two compare to the rest of Thailand's islands, see our [Thailand islands overview](https://go2-thailand.com/thailand-islands/), which stacks up 10+ island options by vibe, cost, and access.
 
 ## Final Word
 

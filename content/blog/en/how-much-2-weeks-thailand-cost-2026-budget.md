@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "budget"
 tags: ["thailand budget", "travel costs", "2 weeks itinerary", "backpacking thailand", "money saving tips"]
-image: "/images/blog/how-much-2-weeks-thailand-cost-2026-budget.webp"
+image: "/images/thailand-index/budget.webp"
 description: "Real 2-week Thailand costs in 2026: daily budgets from ฿800-3000, sample itineraries, and insider money-saving tips."
 featured: false
 readingTime: 9
@@ -114,7 +114,7 @@ Accommodation is often the largest expense, but Thailand offers incredible varie
 
 ### Luxury Accommodation Options
 
-**4-5 star hotels and resorts** range from **฿1,500–4,000+ per night**. Beachfront properties on [Phuket](https://go2-thailand.com/islands/phuket/) or [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) command premium prices, especially during November–February. Browse the [new luxury resorts opening in 2026](https://go2-thailand.com/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/) for the best high-end options.
+**4-5 star hotels and resorts** range from **฿1,500–4,000+ per night**. Beachfront properties on [Phuket](https://go2-thailand.com/city/phuket/) or [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) command premium prices, especially during November–February. Browse the [new luxury resorts opening in 2026](https://go2-thailand.com/blog/new-luxury-resorts-thailand-2026-marriott-hilton-mercure/) for the best high-end options.
 
 **Pro Tip:** Book accommodation 4–6 weeks in advance for peak season (November–February) to lock in better rates. During shoulder season (March–May, August–October), you'll find significant discounts on mid-range and luxury properties.
 
@@ -153,7 +153,7 @@ Food in Thailand is absurdly cheap if you eat where locals eat. During our time 
 </div>
 
 
-This is the backbone of Thai eating culture. A bowl of [pad thai](https://go2-thailand.com/food/pad-thai/) from a street cart costs ฿40–60. A plate of [larb](https://go2-thailand.com/food/larb/) (spicy minced meat salad) runs ฿50–80. [Tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup) at a local shop: ฿50–70. Read our full [Thai street food guide](https://go2-thailand.com/blog/thai-street-food-guide-2026/) to know what to order and where.
+This is the backbone of Thai eating culture. A bowl of [pad thai](https://go2-thailand.com/food/pad-thai/) from a street cart costs ฿40–60. A plate of [larb](https://go2-thailand.com/food/larb/) (spicy minced meat salad) runs ฿50–80. [Tom yum goong](https://go2-thailand.com/food/tom-yum-goong/) (spicy shrimp soup) at a local shop: ฿50–70. Read our full [Thai street food guide](https://go2-thailand.com/thailand-street-food/) to know what to order and where.
 
 **Budget daily food cost:** ฿200–300 (breakfast, lunch, dinner + snacks)
 

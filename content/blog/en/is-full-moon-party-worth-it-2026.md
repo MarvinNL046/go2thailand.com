@@ -81,7 +81,7 @@ The beach exits onto a narrow alley of tattoo shops, 7-Elevens, and street-food 
 
 If you picture a romantic bonfire beach vibe, adjust. It is closer to a soccer stadium at full capacity, with sand instead of seats and vodka buckets instead of beer cups.
 
-For a different and much quieter island feel, check out our guide to [Koh Tao: diving, beaches, and budget travel](/blog/koh-tao-guide-diving-beaches-budget-travel/) or our overview of [Thailand's best islands](/blog/thailand-islands/).
+For a different and much quieter island feel, check out our guide to [Koh Tao: diving, beaches, and budget travel](/blog/koh-tao-guide-diving-beaches-budget-travel/) or our overview of [Thailand's best islands](/thailand-islands/).
 
 ## Real Safety Risks and How to Handle Them
 
@@ -168,7 +168,7 @@ Koh Phangan throws a party almost every week of the month. The Full Moon is just
 
 If you want the crazy story without the 30,000-person crush, the **Half Moon Party** hits the sweet spot. If you care more about music quality than sheer scale, the **Jungle Experience** has the best sound system on the island.
 
-For a calmer island experience altogether, Koh Tao and Koh Lanta have quiet beach bars with live reggae and fire-show nights that cap at a few hundred people. Check our [Thailand islands overview](/blog/thailand-islands/) for which island fits your style.
+For a calmer island experience altogether, Koh Tao and Koh Lanta have quiet beach bars with live reggae and fire-show nights that cap at a few hundred people. Check our [Thailand islands overview](/thailand-islands/) for which island fits your style.
 
 ## Timing: When to Arrive and When to Leave
 

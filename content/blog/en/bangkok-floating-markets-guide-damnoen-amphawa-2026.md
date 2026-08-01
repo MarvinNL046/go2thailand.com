@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["floating markets Bangkok", "Damnoen Saduak 2026", "Amphawa floating market", "Bangkok day trips", "Thai street food", "Thailand markets"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-floating-markets-guide-damnoen-amphawa-2026-hero.webp"
 description: "A practical guide to the best floating markets near Bangkok in 2026, including Damnoen Saduak, Amphawa, and lesser-known alternatives with eco-friendly updates."
 featured: false
 readingTime: 3

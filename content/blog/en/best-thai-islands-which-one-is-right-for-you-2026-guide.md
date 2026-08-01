@@ -70,7 +70,7 @@ Activities shine with island-hopping to [Phi Phi Island Tour](https://go2-thaila
 
 Options range from beachfront resorts to hostels. Families love villa complexes; couples seek clifftop views.
 
-Fly into Phuket Airport or bus/ferry from Krabi. Check [Phuket island guide](https://go2-thailand.com/islands/phuket/) for routes.
+Fly into Phuket Airport or bus/ferry from Krabi. Check [Phuket island guide](https://go2-thailand.com/city/phuket/) for routes.
 
 **Prime Beach Pick:** Patong for energy, Nai Harn for calm.
 

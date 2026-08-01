@@ -502,7 +502,7 @@ The combination of a low cost of living, beautiful weather, and easy travel can 
 Thailand's excellent food and outdoor activities make it easy to stay healthy. We recommend:
 - **Exercise:** Join a gym, try [Muay Thai training](/blog/muay-thai-training-camps-thailand-beginners-guide-2026/), take yoga classes, or run/bike in the mornings.
 - **Wellness:** Thailand has excellent [wellness retreats](/blog/best-wellness-retreats-thailand-2026/) and a world-class [Thai massage scene](/blog/thai-massage-guide-types-prices/) — perfect for unwinding after a long work week.
-- **Food:** Eat mostly at local restaurants; [Thai street food](/blog/thai-street-food-guide-2026/) is healthy and delicious.
+- **Food:** Eat mostly at local restaurants; [Thai street food](/thailand-street-food/) is healthy and delicious.
 - **Sleep:** Maintain a regular sleep schedule; the heat can disrupt sleep if you're not careful.
 - **Mental health:** Stay connected with friends and family back home; consider therapy if you're feeling isolated.
 

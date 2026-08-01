@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "travel"
 tags: ["Prince Akatoki Bangkok", "luxury hotel Bangkok", "Chao Phraya River hotel", "new hotel Bangkok 2026", "Japanese hotel Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/prince-akatoki-riverside-bangkok-japanese-luxury-hotel-2026-hero.webp"
 description: "The Prince Akatoki Riverside Bangkok is set to open in late 2026 with 255 rooms on the Chao Phraya River, bringing Japanese luxury hospitality to Thailand for the first time."
 featured: false
 readingTime: 3
@@ -26,7 +26,7 @@ sources:
 
 Bangkok's Chao Phraya River is about to welcome another high-end hotel. The Prince Akatoki Riverside Bangkok is scheduled to open in the fourth quarter of 2026, making it the brand's first property in Southeast Asia and only the third Prince Akatoki hotel in the world, after London and an upcoming property in Guangzhou.
 
-For travellers who appreciate Japanese hospitality, this is a notable arrival. The Prince Akatoki brand is known for blending contemporary Japanese design with a focus on calm, precision and thoughtful service — something Bangkok's riverside hotel scene has not offered before. If you are researching where to stay, our [Bangkok hotels guide](/city/bangkok/hotels/) covers the full range of options across the city.
+For travellers who appreciate Japanese hospitality, this is a notable arrival. The Prince Akatoki brand is known for blending contemporary Japanese design with a focus on calm, precision and thoughtful service — something Bangkok's riverside hotel scene has not offered before. If you are researching where to stay, our [Bangkok hotels guide](/best-hotels/bangkok/) covers the full range of options across the city.
 
 ## What to Expect
 
@@ -38,7 +38,7 @@ The property is being positioned as an urban sanctuary, designed to give guests 
 
 The Prince Akatoki Riverside Bangkok sits on the west bank of the Chao Phraya River. While the exact address has not been fully publicised yet, the hotel's proximity to IconSiam and the Chao Phraya tourist boat network means it will be well connected to Sathorn Pier, the BTS system, and Bangkok's main tourist districts. You can plan your transfers easily using our [Bangkok public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/).
 
-Guests wanting to explore the riverfront independently can walk or take a short boat ride to iconic landmarks like [Wat Arun](/city/bangkok/attractions/wat-arun/) and the [Grand Palace](/city/bangkok/attractions/grand-palace/), both of which sit directly on the Chao Phraya.
+Guests wanting to explore the riverfront independently can walk or take a short boat ride to iconic landmarks like [Wat Arun](/city/bangkok/attractions/) and the [Grand Palace](/city/bangkok/attractions/), both of which sit directly on the Chao Phraya.
 
 For travellers arriving from Suvarnabhumi Airport, the riverside area is typically a 45 to 60 minute taxi ride depending on traffic.
 

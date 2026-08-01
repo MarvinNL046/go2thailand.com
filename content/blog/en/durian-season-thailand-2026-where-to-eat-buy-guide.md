@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food"
 tags: ["durian Thailand 2026", "durian season Thailand", "best durian Bangkok", "Chanthaburi durian festival", "Or Tor Kor Market durian", "king of fruits Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/durian-season-thailand-2026-where-to-eat-buy-guide-hero.webp"
 description: "Thailand's durian season runs from May to August, peaking in June. Here is where to find the best durian in Bangkok, Rayong and Chanthaburi in 2026."
 featured: false
 readingTime: 3
@@ -52,7 +52,7 @@ For something more immersive, head to **Suan Supatra Land** in [Rayong Province]
 
 ## Varieties to Look For
 
-Thailand grows dozens of durian cultivars. The most prized is **Monthong** ("golden pillow"), which has thick, creamy flesh and a mild sweetness that appeals to first-timers. **Chanee** is more pungent and beloved by serious durian fans. **Kanyao** (long-stem) is a premium variety from Nonthaburi province that can command prices of several thousand baht per fruit. For a sense of what other seasonal specialities to look for on a food-focused trip, browse the [Thai street food guide](/blog/thai-street-food-guide-2026/) and the [Thailand Michelin Guide 2026](/blog/thailand-michelin-guide-2026-new-stars-suhring/).
+Thailand grows dozens of durian cultivars. The most prized is **Monthong** ("golden pillow"), which has thick, creamy flesh and a mild sweetness that appeals to first-timers. **Chanee** is more pungent and beloved by serious durian fans. **Kanyao** (long-stem) is a premium variety from Nonthaburi province that can command prices of several thousand baht per fruit. For a sense of what other seasonal specialities to look for on a food-focused trip, browse the [Thai street food guide](/thailand-street-food/) and the [Thailand Michelin Guide 2026](/blog/thailand-michelin-guide-2026-new-stars-suhring/).
 
 ## Rules to Remember
 

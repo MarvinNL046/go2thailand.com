@@ -75,7 +75,7 @@ The most popular option is a **guided day tour from Bangkok**, which typically i
 
 ## 2. Damnoen Saduak Floating Market: Iconic & Touristy (But Worth It)
 
-No list of Bangkok day trips is complete without **[Damnoen Saduak Floating Market](https://go2thailand.com/city/bangkok/attractions/damnoen-saduak/)**, Thailand's most famous water market. Located 100 km southwest of Bangkok, this maze of wooden boats laden with tropical fruits, flowers, and handicrafts epitomizes the "floating Thailand" image tourists dream about. Yes, it's touristy. Yes, you'll see other foreigners. But the early-morning energy—vendors calling out prices, boats weaving through narrow canals, the smell of fresh coconut and grilled fish—is authentically Thai and genuinely magical.
+No list of Bangkok day trips is complete without **[Damnoen Saduak Floating Market](https://go2thailand.com/city/bangkok/attractions/)**, Thailand's most famous water market. Located 100 km southwest of Bangkok, this maze of wooden boats laden with tropical fruits, flowers, and handicrafts epitomizes the "floating Thailand" image tourists dream about. Yes, it's touristy. Yes, you'll see other foreigners. But the early-morning energy—vendors calling out prices, boats weaving through narrow canals, the smell of fresh coconut and grilled fish—is authentically Thai and genuinely magical.
 
 ### Best Time to Visit
 
@@ -110,11 +110,11 @@ You'll navigate the market by long-tail boat, weaving past vendors selling every
 
 ## 3. Kanchanaburi: War History, Waterfalls & River Rafting
 
-[Kanchanaburi](https://go2thailand.com/city/kanchanaburi/), 130 km west of Bangkok, straddles the River Kwai and carries the weight of World War II history alongside stunning natural beauty. The infamous **[Bridge Over the River Kwai](https://go2thailand.com/city/kanchanaburi/attractions/bridge-over-river-kwai/)** (Saphan Mon) is the main draw, but the province also offers jungle trekking, elephant sanctuaries, and the spectacular **[Erawan Waterfall](https://go2thailand.com/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/)**—a seven-tiered cascade that ranks among Thailand's most beautiful natural attractions.
+[Kanchanaburi](https://go2thailand.com/city/kanchanaburi/), 130 km west of Bangkok, straddles the River Kwai and carries the weight of World War II history alongside stunning natural beauty. The infamous **[Bridge Over the River Kwai](https://go2thailand.com/city/kanchanaburi/attractions/)** (Saphan Mon) is the main draw, but the province also offers jungle trekking, elephant sanctuaries, and the spectacular **[Erawan Waterfall](https://go2thailand.com/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/)**—a seven-tiered cascade that ranks among Thailand's most beautiful natural attractions.
 
 ### The Bridge Over the River Kwai
 
-This steel railway bridge, built by Allied prisoners of war during the Japanese occupation (1942–1943), is both a historical monument and a functioning railway. You can walk across it (pedestrians are allowed during off-peak hours) and visit the adjacent **[JEATH War Museum](https://go2thailand.com/city/kanchanaburi/attractions/jeath-war-museum/)** (a small but sobering collection of wartime artifacts and prisoner accounts). The bridge itself is less visually impressive than its historical significance—it's a working railway bridge, not a tourist attraction with dramatic views—but standing on it connects you to one of WWII's most poignant stories.
+This steel railway bridge, built by Allied prisoners of war during the Japanese occupation (1942–1943), is both a historical monument and a functioning railway. You can walk across it (pedestrians are allowed during off-peak hours) and visit the adjacent **[JEATH War Museum](https://go2thailand.com/city/kanchanaburi/attractions/)** (a small but sobering collection of wartime artifacts and prisoner accounts). The bridge itself is less visually impressive than its historical significance—it's a working railway bridge, not a tourist attraction with dramatic views—but standing on it connects you to one of WWII's most poignant stories.
 
 ### Erawan Waterfall
 
@@ -145,7 +145,7 @@ This seven-tiered waterfall, 65 km from Kanchanaburi town, is a 1.5-hour drive b
 
 ## 4. Lopburi: Monkey Chaos & Ancient Temples
 
-[Lopburi](https://go2thailand.com/city/lopburi/), 150 km north of Bangkok, is famous for one thing: thousands of wild monkeys that roam the streets and temple ruins. This isn't a nature documentary—it's controlled chaos. Monkeys steal sunglasses, raid food bags, and pose for photos with zero fear of humans. **[Phra Prang Sam Yot](https://go2thailand.com/city/lopburi/attractions/prang-sam-yot/)**, the main temple, is a 13th-century Khmer ruin where monkeys outnumber visitors 100 to 1.
+[Lopburi](https://go2thailand.com/city/lopburi/), 150 km north of Bangkok, is famous for one thing: thousands of wild monkeys that roam the streets and temple ruins. This isn't a nature documentary—it's controlled chaos. Monkeys steal sunglasses, raid food bags, and pose for photos with zero fear of humans. **[Phra Prang Sam Yot](https://go2thailand.com/city/lopburi/attractions/)**, the main temple, is a 13th-century Khmer ruin where monkeys outnumber visitors 100 to 1.
 
 ### The Monkey Experience
 
@@ -352,7 +352,7 @@ Minivans from Bangkok's Southern Bus Terminal take 3–4 hours (~150–250 THB).
 
 - **Seafood Recommendation:** Eat at beachfront restaurants along **Dechanuchit Road**. Fresh grilled fish, shrimp, and squid are excellent and reasonably priced.
 - **Best Time:** November–February. Avoid May–October monsoon season.
-- **Hidden Gem:** The **[Maruekhathaiyawan Palace](https://go2thailand.com/city/hua-hin/attractions/maruekhathaiyawan-palace/)** (20 km north) is a stunning teak palace built for King Rama VI. It's less crowded than major temples and architecturally unique.
+- **Hidden Gem:** The **[Maruekhathaiyawan Palace](https://go2thailand.com/city/hua-hin/attractions/)** (20 km north) is a stunning teak palace built for King Rama VI. It's less crowded than major temples and architecturally unique.
 
 <div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">

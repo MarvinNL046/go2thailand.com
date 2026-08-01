@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["Siam Songkran", "music festival Bangkok", "Songkran 2026", "Martin Garrix", "Marshmello", "Bangkok events", "water festival"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/siam-songkran-music-festival-2026-bangkok-guide-hero.webp"
 description: "The Siam Songkran Music Festival returns to Bangkok in April 2026, headlined by Martin Garrix and Marshmello. Here is what you need to know about tickets, dates, and the experience."
 featured: false
 readingTime: 3
@@ -38,7 +38,7 @@ Separately, Silom Road hosts its own massive free Songkran celebration from Apri
 
 Siam Songkran is not a typical music festival where you stand dry in a field. Water is a central part of the experience. Expect to be soaked within minutes of arriving, which is entirely the point during [Thailand's hottest month of the year](/blog/best-time-to-visit-thailand/).
 
-The festival grounds include multiple music stages with different genres and vibes, dedicated areas for water play and foam parties, food and drink vendors serving [Thai street food](/blog/thai-street-food-guide-2026/) and cocktails, and VIP zones with elevated viewing platforms.
+The festival grounds include multiple music stages with different genres and vibes, dedicated areas for water play and foam parties, food and drink vendors serving [Thai street food](/thailand-street-food/) and cocktails, and VIP zones with elevated viewing platforms.
 
 Previous editions have drawn tens of thousands of attendees from Thailand and across the region, and the 2026 lineup suggests this year will be no different.
 

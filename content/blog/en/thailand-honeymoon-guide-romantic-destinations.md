@@ -257,7 +257,7 @@ Stay in Krabi Town (₿1,500-3,500/night) for better dining and access to activi
 
 ## 6. Phuket: Luxury Infrastructure with Beach Escape
 
-**[Phuket](https://go2-thailand.com/islands/phuket/)** is Thailand's largest island and most developed beach destination. While it has a reputation for being touristy, it remains excellent for honeymoons—especially if you choose the right area and book the right resort. See our [Phuket travel guide 2026](/blog/phuket-travel-guide-2026/) for a full breakdown.
+**[Phuket](https://go2-thailand.com/city/phuket/)** is Thailand's largest island and most developed beach destination. While it has a reputation for being touristy, it remains excellent for honeymoons—especially if you choose the right area and book the right resort. See our [Phuket travel guide 2026](/blog/phuket-travel-guide-2026/) for a full breakdown.
 
 During our visits, we found that most of Phuket's charm lies outside the main tourist zones. Patong Beach is crowded and commercial, but Kata, Karon, and Bang Tao beaches offer genuine romance.
 

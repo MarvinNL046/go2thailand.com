@@ -190,7 +190,7 @@ One of Thailand's greatest joys is eating from street stalls for 40–100 THB ($
 
 **Avoid raw vegetables** unless you're confident in water safety. Cooked food is always safer.
 
-**Stick to popular dishes.** [Pad Thai](https://go2-thailand.com/food/pad-thai/), [pad krapow](https://go2-thailand.com/food/pad-krapow/) (basil stir-fry), [som tam](https://go2-thailand.com/food/som-tam/) (papaya salad), and [Thai fried rice](https://go2-thailand.com/food/thai-fried-rice/) are cooked fresh to order. Learn more in our [complete Thai cuisine guide](/blog/what-is-thai-food-cuisine-guide/) and our guide to [what makes Thai food spicy](/blog/what-makes-thai-food-spicy/).
+**Stick to popular dishes.** [Pad Thai](https://go2-thailand.com/food/pad-thai/), [pad krapow](https://go2-thailand.com/food/pad-krapow/) (basil stir-fry), [som tam](https://go2-thailand.com/food/som-tam/) (papaya salad), and [Thai fried rice](https://go2-thailand.com/food/thai-fried-rice/) are cooked fresh to order. Learn more in our [complete Thai cuisine guide](/travel-guides/thai-cuisine-food-guide/) and our guide to [what makes Thai food spicy](/blog/what-makes-thai-food-spicy/).
 
 **Drink bottled or boiled water.** Tap water isn't safe for tourists; buy bottled water (10–20 THB per bottle) or drink [Thai iced tea](https://go2-thailand.com/drinks/thai-iced-tea/) and [Thai iced coffee](https://go2-thailand.com/drinks/thai-iced-coffee/), which use boiled water.
 
@@ -341,7 +341,7 @@ Accommodation ranges from 150 THB dorm beds to 10,000+ THB luxury suites. The ke
 
 ### Peak Season (November–February)
 
-Book 2–3 months in advance. Popular areas like [Bangkok](https://go2-thailand.com/city/bangkok/hotels/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/hotels/), and beach towns fill up. Prices are 30–50% higher than shoulder season. A mid-range room in Bangkok costs 800–1,500 THB in peak season vs. 500–800 THB in June.
+Book 2–3 months in advance. Popular areas like [Bangkok](https://go2-thailand.com/best-hotels/bangkok/), [Chiang Mai](https://go2-thailand.com/best-hotels/chiang-mai/), and beach towns fill up. Prices are 30–50% higher than shoulder season. A mid-range room in Bangkok costs 800–1,500 THB in peak season vs. 500–800 THB in June.
 
 ### Shoulder Season (March–April, September–October)
 
@@ -517,7 +517,7 @@ A classic 2-week itinerary: 3–4 days in [Bangkok](https://go2-thailand.com/cit
 
 ### Do I need travel insurance?
 
-Absolutely. Medical emergencies, flight cancellations, and theft can happen. Travel insurance costs 20–40 USD for 2 weeks and covers evacuation, hospital stays, and lost luggage. It's non-negotiable. Check [travel insurance options](https://go2-thailand.com/travel-insurance-thailand/) and read our in-depth [travel insurance Thailand guide](/blog/travel-insurance-thailand-guide) for provider comparisons and what to look for in a policy.
+Absolutely. Medical emergencies, flight cancellations, and theft can happen. Travel insurance costs 20–40 USD for 2 weeks and covers evacuation, hospital stays, and lost luggage. It's non-negotiable. Check [travel insurance options](https://go2-thailand.com/travel-insurance/) and read our in-depth [travel insurance Thailand guide](/blog/travel-insurance-thailand-guide) for provider comparisons and what to look for in a policy.
 
 ### What should I pack?
 
@@ -533,6 +533,6 @@ Thailand rewards preparation and flexibility in equal measure. Understand the vi
 
 Your first trip to Thailand will likely change how you see travel. You'll return home with stories, friendships, and a deep desire to go back. That's the Thailand effect.
 
-Ready to start planning? Explore our [complete Thailand travel guides](https://go2-thailand.com/travel-guides/) for city-specific advice, [island comparisons](https://go2-thailand.com/compare/), and [detailed itineraries](https://go2-thailand.com/itineraries/). If you prefer a pre-planned route, our [Thailand travel packages guide](/blog/thailand-travel-packages-guide) breaks down the best organized options for 2026. Also check out our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) and the [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) to plan your perfect trip. Interested in the food? Our [Thai cuisine guide](/blog/what-is-thai-food-cuisine-guide/) and [what makes Thai food spicy](/blog/what-makes-thai-food-spicy/) are great starting points. The Go2Thailand team has spent years in this country and loves helping first-timers make the most of their visit.
+Ready to start planning? Explore our [complete Thailand travel guides](https://go2-thailand.com/travel-guides/) for city-specific advice, [island comparisons](https://go2-thailand.com/compare/), and [detailed itineraries](https://go2-thailand.com/itineraries/). If you prefer a pre-planned route, our [Thailand travel packages guide](/blog/thailand-travel-packages-guide) breaks down the best organized options for 2026. Also check out our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) and the [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) to plan your perfect trip. Interested in the food? Our [Thai cuisine guide](/travel-guides/thai-cuisine-food-guide/) and [what makes Thai food spicy](/blog/what-makes-thai-food-spicy/) are great starting points. The Go2Thailand team has spent years in this country and loves helping first-timers make the most of their visit.
 
 **Safe travels, and we'll see you in Thailand.** 🇹🇭

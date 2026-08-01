@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "events"
 tags: ["HYROX Bangkok 2026", "Bangkok events March 2026", "fitness Thailand", "BITEC Bangkok", "Bangkok sports events", "things to do Bangkok 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/hyrox-bangkok-2026-fitness-racing-bitec-guide-hero.webp"
 description: "HYROX Bangkok 2026 drew over 17,500 athletes to BITEC from March 20-22. Here is everything you need to know about Southeast Asia's largest fitness racing event."
 featured: false
 readingTime: 3

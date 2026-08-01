@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "attractions"
 tags: ["Harbor Island Bangkok", "Bangkok waterpark", "things to do Bangkok 2026", "family travel Thailand", "The Mall Bangkapi"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/harbor-island-bangkok-rooftop-waterpark-2026-hero.webp"
 description: "Harbor Island is Southeast Asia's largest rooftop waterpark — 10,000 square meters of slides, a lazy river, and a 100-meter zipline on top of a Bangkok shopping mall."
 featured: false
 readingTime: 3

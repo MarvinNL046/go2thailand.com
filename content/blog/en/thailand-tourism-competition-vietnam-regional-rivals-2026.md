@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand tourism 2026", "Vietnam tourism growth", "Southeast Asia travel", "Thailand vs Vietnam", "tourism competition Asia"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-competition-vietnam-regional-rivals-2026-hero.webp"
 description: "Vietnam's international arrivals grew over 20 percent in 2025 while Thailand's fell 7.2 percent. Here is how the competitive landscape is shifting and what it means for travelers."
 featured: false
 readingTime: 3

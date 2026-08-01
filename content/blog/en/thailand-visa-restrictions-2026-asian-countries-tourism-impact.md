@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand visa 2026", "visa restrictions", "immigration", "tourism policy", "travel news"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-visa-restrictions-2026-asian-countries-tourism-impact-hero.webp"
 description: "Thailand's tightened visa enforcement in 2026 is affecting travelers from Japan, China, South Korea, and other Asian nations. Here's what you need to know before your trip."
 featured: false
 readingTime: 3

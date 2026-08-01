@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "accommodation"
 tags: ["Nan province", "glamping Thailand 2026", "Visama Explorer Nan", "eco-luxury tented camp", "northern Thailand", "responsible tourism Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/visama-explorer-nan-eco-glamping-tented-camp-2026-hero.webp"
 description: "Visama Explorer Nan opened in February 2026 with eight eco-luxury safari tents in a remote mountain setting. Here is everything you need to know about Thailand's newest glamping camp."
 featured: false
 readingTime: 3

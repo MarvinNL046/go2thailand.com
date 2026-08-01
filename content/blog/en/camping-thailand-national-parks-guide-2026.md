@@ -4,7 +4,7 @@ slug: "camping-thailand-national-parks-guide-2026"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/camping-thailand-national-parks-guide-2026-hero.webp"
 category: "travel-tips"
 tags: ["Thailand camping", "national parks Thailand", "Khao Yai camping", "Doi Inthanon", "Erawan National Park", "outdoor Thailand 2026"]
 description: "Everything you need to know about camping in Thailand's national parks in 2026 — from fees and gear rental to the best parks for pitching a tent."
@@ -46,11 +46,11 @@ Thai national parks enforce strict placement rules to protect both visitors and 
 
 ### Khao Yai National Park
 
-Thailand's oldest national park is a [UNESCO World Heritage Site](/city/nakhon-ratchasima/attractions/khao-yai-national-park/) covering more than 2,000 square kilometres. The main campsite, **Lam Ta Khong Campground**, sits on open grassland beside the river — a spot shared with a resident otter population. Hiking trails lead to viewpoints like Pha Diew Dai and the famous Haew Suwat Waterfall. For a day visit before you commit to camping, check our [Khao Yai day trip guide](/blog/khao-yai-national-park-day-trip-guide-2026/).
+Thailand's oldest national park is a [UNESCO World Heritage Site](/city/nakhon-ratchasima/attractions/) covering more than 2,000 square kilometres. The main campsite, **Lam Ta Khong Campground**, sits on open grassland beside the river — a spot shared with a resident otter population. Hiking trails lead to viewpoints like Pha Diew Dai and the famous Haew Suwat Waterfall. For a day visit before you commit to camping, check our [Khao Yai day trip guide](/blog/khao-yai-national-park-day-trip-guide-2026/).
 
 ### Erawan National Park (Kanchanaburi)
 
-Known for its seven-tiered waterfall with turquoise swimming pools, [Erawan](/city/kanchanaburi/attractions/erawan-national-park/) has a camping area close to the falls. Several caves — including Phartat Cave and Mee Cave — add an extra reason to stay overnight and explore at a quieter pace. Read our full [Erawan day trip guide](/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/) for transport options from Bangkok. [Kanchanaburi](/city/kanchanaburi/) itself is worth at least an extra night — the [Bridge over the River Kwai](/city/kanchanaburi/attractions/bridge-over-river-kwai/) and the [Death Railway](/city/kanchanaburi/attractions/death-railway/) are both within easy reach.
+Known for its seven-tiered waterfall with turquoise swimming pools, [Erawan](/city/kanchanaburi/attractions/) has a camping area close to the falls. Several caves — including Phartat Cave and Mee Cave — add an extra reason to stay overnight and explore at a quieter pace. Read our full [Erawan day trip guide](/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/) for transport options from Bangkok. [Kanchanaburi](/city/kanchanaburi/) itself is worth at least an extra night — the [Bridge over the River Kwai](/city/kanchanaburi/attractions/) and the [Death Railway](/city/kanchanaburi/attractions/) are both within easy reach.
 
 ### Doi Inthanon National Park (Chiang Mai)
 

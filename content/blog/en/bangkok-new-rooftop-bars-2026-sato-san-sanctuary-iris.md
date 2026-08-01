@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "food-drink"
 tags: ["Bangkok rooftop bars", "Sato San", "Sanctuary Bangkok", "Iris rooftop", "Bangkok nightlife 2026", "sky bars"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris-hero.webp"
 description: "Three brand-new rooftop bars have opened in Bangkok in 2026 — Sato San, Sanctuary, and Iris. Here is what each one offers and whether they are worth a visit."
 featured: false
 readingTime: 3

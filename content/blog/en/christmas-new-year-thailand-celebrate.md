@@ -371,7 +371,7 @@ Arrive before December 20 or after January 3 for significantly fewer crowds. Dec
 
 The key to a successful holiday visit is advance planning. Book accommodation and transport 6–8 weeks ahead, choose your destination based on your celebration preferences, and consider traveling during less crowded periods (December 24–25 or January 3–5) if crowds concern you.
 
-For comprehensive planning, explore our [Thailand travel guide](https://go2-thailand.com/thailand-travel-guide/) and [destination guides](https://go2-thailand.com/destinations/bangkok/) to customize your perfect holiday itinerary. Whether you're seeking beach parties, cultural immersion, or peaceful island escapes, Thailand delivers unforgettable holiday experiences.
+For comprehensive planning, explore our [Thailand travel guide](https://go2-thailand.com/thailand-travel-guide/) and [destination guides](https://go2-thailand.com/city/bangkok/) to customize your perfect holiday itinerary. Whether you're seeking beach parties, cultural immersion, or peaceful island escapes, Thailand delivers unforgettable holiday experiences.
 
 **We may earn a small commission from bookings made through our links, at no extra cost to you. This helps us keep creating free travel guides.**
 

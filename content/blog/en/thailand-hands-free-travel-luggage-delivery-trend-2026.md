@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand travel trends 2026", "hands-free travel", "luggage delivery Thailand", "AIRPORTELs", "Bangkok travel tips", "Thailand tourism 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-hands-free-travel-luggage-delivery-trend-2026-hero.webp"
 description: "Hands-free travel is taking off in Thailand. Luggage delivery services let you explore Bangkok, Phuket, and Chiang Mai bag-free from the moment you land."
 featured: false
 readingTime: 3

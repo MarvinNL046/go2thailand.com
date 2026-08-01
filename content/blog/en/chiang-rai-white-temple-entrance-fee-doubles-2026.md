@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "destinations"
 tags: ["Chiang Rai", "White Temple", "Wat Rong Khun", "Blue Temple", "Thailand temples 2026", "entrance fees"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/chiang-rai-white-temple-entrance-fee-doubles-2026-hero.webp"
 description: "The White Temple in Chiang Rai doubled its entrance fee to 200 baht for foreign visitors from January 2026. Here is what to know before visiting, plus a free alternative nearby."
 featured: false
 readingTime: 3

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thailand tourism 2026", "senior travel Thailand", "silver tourism", "active seniors", "Thailand travel trends", "quietcation"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-silver-tourism-active-seniors-key-market-2026-hero.webp"
 description: "Thailand's tourism industry is pivoting to attract active seniors aged 50-70, one of the fastest-growing travel segments globally. Here is what the shift means for visitors."
 featured: false
 readingTime: 3

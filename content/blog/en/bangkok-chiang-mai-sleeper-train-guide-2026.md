@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "transport"
 tags: ["Bangkok to Chiang Mai", "sleeper train Thailand", "night train Thailand", "Thailand train travel 2026", "budget travel Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bangkok-chiang-mai-sleeper-train-guide-2026-hero.webp"
 description: "How to book the overnight sleeper train from Bangkok to Chiang Mai in 2026, including ticket prices, carriage types, schedule and practical tips."
 featured: false
 readingTime: 4
@@ -24,7 +24,7 @@ sources:
 
 ## Why Take the Night Train?
 
-Flying from [Bangkok](/destinations/bangkok/) to [Chiang Mai](/destinations/chiang-mai/) takes about an hour in the air, but once you factor in airport transfers, security queues and boarding, the overnight sleeper train starts looking surprisingly competitive. You leave Bangkok in the evening, wake up to mountain scenery rolling past your window and arrive in Chiang Mai refreshed by 07:15 the next morning. You save a hotel night, skip two airport transfers and get a genuinely memorable travel experience along the way.
+Flying from [Bangkok](/city/bangkok/) to [Chiang Mai](/city/chiang-mai/) takes about an hour in the air, but once you factor in airport transfers, security queues and boarding, the overnight sleeper train starts looking surprisingly competitive. You leave Bangkok in the evening, wake up to mountain scenery rolling past your window and arrive in Chiang Mai refreshed by 07:15 the next morning. You save a hotel night, skip two airport transfers and get a genuinely memorable travel experience along the way.
 
 ## The Best Train: Special Express No. 9
 
@@ -77,6 +77,6 @@ You can also book directly at **Hua Lamphong station** or through the SRT websit
 
 At under 1,100 baht for a 2nd Class berth, the [Bangkok to Chiang Mai](/transport/bangkok-to-chiang-mai/) sleeper train is one of the best [travel bargains in Southeast Asia](/thailand-index/budget/). You save on a hotel, avoid two taxi rides to airports, cut your carbon footprint and arrive in Chiang Mai with a story to tell. For most visitors, the answer is a firm yes.
 
-If you are planning a longer journey through northern Thailand, consider extending your trip to [Chiang Rai](/destinations/chiang-rai/) or even [Pai](/destinations/pai/) — both are easy onward connections from Chiang Mai. You can also compare the sleeper train with the [Blue Jasmine luxury train](/blog/blue-jasmine-luxury-train-bangkok-chiang-mai-2026/) if you want a premium rail experience. For other transport options on this corridor, see the full [Bangkok to Chiang Mai transport guide](/transport/bangkok-to-chiang-mai/). Travellers continuing south after their northern loop can check routes like [Chiang Mai to Koh Samui](/transport/chiang-mai-to-koh-samui/) or [Chiang Mai to Krabi](/transport/chiang-mai-to-krabi/) for the next leg.
+If you are planning a longer journey through northern Thailand, consider extending your trip to [Chiang Rai](/city/chiang-rai/) or even [Pai](/city/pai/) — both are easy onward connections from Chiang Mai. You can also compare the sleeper train with the [Blue Jasmine luxury train](/blog/blue-jasmine-luxury-train-bangkok-chiang-mai-2026/) if you want a premium rail experience. For other transport options on this corridor, see the full [Bangkok to Chiang Mai transport guide](/transport/bangkok-to-chiang-mai/). Travellers continuing south after their northern loop can check routes like [Chiang Mai to Koh Samui](/transport/chiang-mai-to-koh-samui/) or [Chiang Mai to Krabi](/transport/chiang-mai-to-krabi/) for the next leg.
 
 Before your trip, review the [Thailand visa guide](/visa/) and consider whether you need [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/).

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Lisa", "BLACKPINK", "Thailand tourism", "TAT", "Amazing Thailand", "2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/lisa-blackpink-thailand-tourism-ambassador-2026-hero.webp"
 description: "BLACKPINK's Lisa has been officially unveiled as the Amazing Thailand Ambassador for 2026, fronting a major tourism campaign targeting millions of new visitors."
 featured: false
 readingTime: 3

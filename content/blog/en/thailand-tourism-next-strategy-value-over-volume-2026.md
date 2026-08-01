@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand tourism", "TAT", "tourism strategy", "sustainable travel", "TAGTHAi", "community tourism"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-next-strategy-value-over-volume-2026-hero.webp"
 description: "Thailand's Tourism Authority unveils its ambitious 2026 strategy targeting 3 trillion baht in revenue with a focus on quality experiences and sustainability."
 featured: false
 readingTime: 3

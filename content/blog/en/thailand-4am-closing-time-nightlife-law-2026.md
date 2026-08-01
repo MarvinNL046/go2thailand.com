@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Thailand nightlife", "closing time 4am", "Pattaya nightlife", "Phuket nightlife", "Bangkok bars", "Thailand alcohol law 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-4am-closing-time-nightlife-law-2026-hero.webp"
 description: "Thailand has extended nightlife closing hours to 4 AM in key tourist zones including Bangkok, Pattaya, Phuket, and Chiang Mai. Here is where the new rules apply and what to expect."
 featured: false
 readingTime: 3
@@ -32,7 +32,7 @@ The government says the reform could generate over 500 billion baht in annual ta
 
 The extended hours are not nationwide. As of 2026, the 4 AM closing time applies in five provinces with designated entertainment zones:
 
-- **[Bangkok](/city/bangkok/)** — select zones including [Khao San Road](/city/bangkok/attractions/khao-san-road/), RCA, and Thonglor
+- **[Bangkok](/city/bangkok/)** — select zones including [Khao San Road](/city/bangkok/attractions/), RCA, and Thonglor
 - **Chonburi ([Pattaya](/best-hotels/pattaya/))** — [Walking Street](/blog/pattaya-walking-street-reinvention-2026/) and surrounding entertainment areas
 - **[Phuket](/blog/phuket-travel-guide-2026/)** — over 150 establishments in Patong, across six zones
 - **[Chiang Mai](/city/chiang-mai/)** — the Nimmanhaemin and Old City entertainment strips

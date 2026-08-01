@@ -22,7 +22,7 @@ sources:
     url: "https://www.bangkokfoodguide.com/"
 ---
 
-After three years navigating the steaming alleyways and neon-lit stalls of **Bangkok street food markets**, we've learned that the city's soul isn't found in its temples or shopping malls—it's in the sizzle of a wok at midnight and the chatter of vendors who've worked the same corner for decades. **Bangkok's street food scene** is where locals eat, where prices stay honest, and where some of Thailand's most authentic flavors come alive after dark. If you're new to [Thai cuisine and want to understand its regional diversity](/blog/what-is-thai-food-cuisine-guide), Bangkok's markets are the perfect classroom. First-timers should also check our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) for tips on what to order and how to navigate stalls.
+After three years navigating the steaming alleyways and neon-lit stalls of **Bangkok street food markets**, we've learned that the city's soul isn't found in its temples or shopping malls—it's in the sizzle of a wok at midnight and the chatter of vendors who've worked the same corner for decades. **Bangkok's street food scene** is where locals eat, where prices stay honest, and where some of Thailand's most authentic flavors come alive after dark. If you're new to [Thai cuisine and want to understand its regional diversity](/travel-guides/thai-cuisine-food-guide), Bangkok's markets are the perfect classroom. First-timers should also check our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) for tips on what to order and how to navigate stalls.
 
 ## Key Takeaways
 

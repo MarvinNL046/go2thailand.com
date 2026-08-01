@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["Thai Airways", "A321neo", "Thailand flights 2026", "fleet modernization", "Bangkok aviation", "airline news Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thai-airways-a321neo-fleet-modernization-32-jets-2026-hero.webp"
 description: "Thai Airways is receiving 32 new Airbus A321neo aircraft throughout 2026, bringing flat-bed business class and lower emissions to regional routes across Asia."
 featured: false
 readingTime: 3

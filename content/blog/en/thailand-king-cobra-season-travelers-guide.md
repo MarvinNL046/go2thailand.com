@@ -420,7 +420,7 @@ The key takeaways are simple: stick to established tourist areas and guided tour
 
 For more information on staying safe while traveling in Thailand, explore our comprehensive [dangerous animals guide](https://go2-thailand.com/travel-guides/dangerous-animals-thailand/) and [Thailand weather and seasonal guide](https://go2-thailand.com/travel-guides/thailand-weather/). If you're planning a multi-week adventure, our [14-day complete Thailand itinerary](https://go2-thailand.com/itineraries/14-days-complete-thailand/) balances city, beach, and nature experiences while accounting for seasonal risks.
 
-**Ready to book your Thailand adventure?** Start by exploring our [destination guides](https://go2-thailand.com/destinations/bangkok/) and [accommodation options](https://go2-thailand.com/where-to-stay/bangkok/) to find the perfect base for your trip.
+**Ready to book your Thailand adventure?** Start by exploring our [destination guides](https://go2-thailand.com/city/bangkok/) and [accommodation options](https://go2-thailand.com/where-to-stay/bangkok/) to find the perfect base for your trip.
 
 ---
 

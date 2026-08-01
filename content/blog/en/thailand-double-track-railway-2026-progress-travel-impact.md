@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "transport"
 tags: ["Thailand railway", "double-track railway", "train travel Thailand", "Chiang Rai train", "Thailand transport 2026", "SRT Thailand"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-double-track-railway-2026-progress-travel-impact-hero.webp"
 description: "Thailand is building hundreds of kilometres of double-track railway. Here is how the 2026 progress on the Chiang Rai, southern and northeastern lines will change train travel."
 featured: false
 readingTime: 3

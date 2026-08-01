@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand tourism", "TAT", "economy", "sustainable tourism", "thailand 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-3-trillion-baht-tourism-target-amazing-5-economy-2026-hero.webp"
 description: "Thailand's Tourism Authority is chasing 3 trillion baht in revenue for 2026 with its 'Amazing 5 Economy' framework — targeting wellness, nightlife, and niche tourism."
 featured: false
 readingTime: 3
@@ -43,7 +43,7 @@ Thailand's legendary nightlife is being repositioned as a **creative economy dri
 Sustainability is no longer optional. TAT launched the **Thailand Green Tourism Collections** in July 2025, featuring 20 sustainable routes across 10 designated Green Cities. The agency has also set a target for **70% of tourism businesses to earn STAR accreditation** ([Sustainable Tourism Accreditation Rating](/blog/thailand-star-green-tourism-accreditation-2026/)) by the end of 2026.
 
 ### 5. Creative Economy
-This pillar leverages Thailand's **soft power** — its [food](/blog/thai-street-food-guide-2026/), fashion, film, and festivals — to attract culturally curious travelers. Events like the [Thailand Travel Fair 2026](/blog/thailand-travel-fair-2026-qsncc-bangkok/) (March 25–29 at QSNCC in Bangkok) showcase regional culture and craftsmanship as tourism products.
+This pillar leverages Thailand's **soft power** — its [food](/thailand-street-food/), fashion, film, and festivals — to attract culturally curious travelers. Events like the [Thailand Travel Fair 2026](/blog/thailand-travel-fair-2026-qsncc-bangkok/) (March 25–29 at QSNCC in Bangkok) showcase regional culture and craftsmanship as tourism products.
 
 ## Spreading Tourists Beyond Bangkok and Phuket
 

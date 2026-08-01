@@ -85,7 +85,7 @@ This phrase works at street food stalls, restaurants, and food courts. Most cook
 
 ### Natural MSG in Thai Cooking
 
-One reason [Thai food](/blog/what-is-thai-food-cuisine-guide/) tastes so deeply savory is that many traditional ingredients are naturally rich in glutamate -- the same compound found in MSG:
+One reason [Thai food](/travel-guides/thai-cuisine-food-guide/) tastes so deeply savory is that many traditional ingredients are naturally rich in glutamate -- the same compound found in MSG:
 
 - **Nam pla (fish sauce)** -- Fermented fish sauce is packed with natural glutamate. It is the backbone of Thai seasoning and delivers intense umami without adding MSG powder.
 - **Oyster sauce** -- Another glutamate-rich condiment used in stir-fries and sauces.
@@ -93,7 +93,7 @@ One reason [Thai food](/blog/what-is-thai-food-cuisine-guide/) tastes so deeply 
 - **Fermented soybeans (tao jiew)** -- A salty, savory paste used in northern and central Thai cooking.
 - **Mushrooms** -- Shiitake and straw mushrooms contribute natural glutamate, especially in [jay (vegan) cooking](/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/).
 
-Even if a Thai dish is made without added MSG, it is likely still rich in umami from these natural sources. For a full overview of ingredients and seasoning, see our [Thai street food guide](/blog/thai-street-food-guide-2026/).
+Even if a Thai dish is made without added MSG, it is likely still rich in umami from these natural sources. For a full overview of ingredients and seasoning, see our [Thai street food guide](/thailand-street-food/).
 
 ---
 

@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["Cope Tiger 2026", "Korat Air Base", "military exercise Thailand", "RSAF", "RTAF", "USAF", "Nakhon Ratchasima"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/exercise-cope-tiger-2026-korat-air-base-thailand-hero.webp"
 description: "The 32nd Exercise Cope Tiger brings Singapore, Thailand and US air forces together at Korat Air Base in March 2026 for large-scale air combat training and community outreach."
 featured: false
 readingTime: 3
@@ -34,11 +34,11 @@ Beyond military drills, the exercise includes a two-day joint socio-civic progra
 
 ## Why Korat?
 
-Korat Air Base, officially known as Wing 1, has hosted Cope Tiger for decades. Located roughly 250 kilometres northeast of Bangkok, the base sits near the city of Nakhon Ratchasima — Thailand's gateway to Isan. The province offers travellers [Khao Yai National Park](/city/nakhon-ratchasima/attractions/khao-yai-national-park/), [Phimai Historical Park](/city/nakhon-ratchasima/attractions/phimai-historical-park/) and some of the [best Isan cuisine](/city/nakhon-ratchasima/food/) in the country.
+Korat Air Base, officially known as Wing 1, has hosted Cope Tiger for decades. Located roughly 250 kilometres northeast of Bangkok, the base sits near the city of Nakhon Ratchasima — Thailand's gateway to Isan. The province offers travellers [Khao Yai National Park](/city/nakhon-ratchasima/attractions/), [Phimai Historical Park](/city/nakhon-ratchasima/attractions/) and some of the [best Isan cuisine](/city/nakhon-ratchasima/food/) in the country.
 
 ## What It Means for Travellers
 
-Tourists visiting [Nakhon Ratchasima](/destinations/nakhon-ratchasima/) during mid-to-late March may spot increased military air activity around Korat. The exercise does not restrict civilian travel, but aviation enthusiasts have been known to gather near the base perimeter to photograph fighter jets during training sorties.
+Tourists visiting [Nakhon Ratchasima](/city/nakhon-ratchasima/) during mid-to-late March may spot increased military air activity around Korat. The exercise does not restrict civilian travel, but aviation enthusiasts have been known to gather near the base perimeter to photograph fighter jets during training sorties.
 
 If you are planning a trip through Isan in March, Cope Tiger is an unusual backdrop to an already fascinating region. The [Khao Yai Food and Wine Festival](/blog/khao-yai-food-wine-festival-2026-vineyard-day-trip/) takes place just an hour's drive away, and a [day trip to Khao Yai National Park](/blog/khao-yai-national-park-day-trip-guide-2026/) pairs well with any visit to the area. For those travelling further into the northeast, [Udon Thani's Red Lotus Sea](/blog/red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026/) and the [Bun Bang Fai Rocket Festival in Yasothon](/blog/bun-bang-fai-rocket-festival-yasothon-2026/) are other Isan highlights worth combining on a longer route. You can also explore [Thailand's national parks](/travel-guides/national-parks-thailand/) or plan [a camping trip through the region](/blog/camping-thailand-national-parks-guide-2026/).
 

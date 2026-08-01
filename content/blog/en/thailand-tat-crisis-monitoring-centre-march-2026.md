@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["TAT", "tourism crisis", "middle east tensions", "stranded travelers", "thailand travel advisory"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tat-crisis-monitoring-centre-march-2026-hero.webp"
 description: "The Tourism Authority of Thailand activated its Crisis Monitoring Centre on March 1 to coordinate assistance for travelers affected by Middle East flight disruptions. Here is what the centre does and how to get help."
 featured: false
 readingTime: 3

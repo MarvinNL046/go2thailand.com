@@ -69,7 +69,7 @@ Thailand is cheap—but only if you know where to eat and stay. We've watched tr
 | **Mid-range (hotel, mix of dining)** | 2,000-3,500 | $57-100 | Bangkok, Phuket, Koh Samui |
 | **Luxury (resort, fine dining)** | 5,000+ | $143+ | Premium zones |
 
-The mistake: arriving with a fixed budget and spending it all in [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/islands/phuket/), then having nothing left for the rest of Thailand.
+The mistake: arriving with a fixed budget and spending it all in [Bangkok](https://go2-thailand.com/city/bangkok/) or [Phuket](https://go2-thailand.com/city/phuket/), then having nothing left for the rest of Thailand.
 
 ### How to Avoid Overspending
 
@@ -180,7 +180,7 @@ Avoid airport exchanges entirely. If you must exchange money, do it at a bank in
 
 Overnight trains and long-distance buses fill up weeks in advance during holidays. We've watched travelers arrive in [Bangkok](https://go2-thailand.com/city/bangkok/) on December 20th expecting to catch a [train to](https://trip.tpo.lv/gNIdNBmi) [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) that evening—only to find everything sold out until January 5th.
 
-The State Railway of Thailand operates overnight trains on popular routes. These are comfortable, cheap (400-1,500 THB for a sleeper), and book out fast. Long-distance buses are similar—VIP buses to [Phuket](https://go2-thailand.com/islands/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/) fill weeks ahead during holidays.
+The State Railway of Thailand operates overnight trains on popular routes. These are comfortable, cheap (400-1,500 THB for a sleeper), and book out fast. Long-distance buses are similar—VIP buses to [Phuket](https://go2-thailand.com/city/phuket/) or [Koh Samui](https://go2-thailand.com/islands/koh-samui/) fill weeks ahead during holidays.
 
 ### Transport Booking Timeline
 

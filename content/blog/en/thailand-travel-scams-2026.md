@@ -28,7 +28,7 @@ The good news? Armed with knowledge, you can sidestep nearly all of them.
 |----------|--------|
 | **What are the most common Thailand scams?** | Gem/jewelry fraud, overpriced taxis, closed temple scams, and gem shop schemes are the top four. |
 | **How much money can I lose?** | Gem scams range from THB 5,000–50,000+ ($140–1,400+); taxi overcharges typically THB 100–500 ($3–15). |
-| **Which cities have the most scams?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and tourist hotspots like [Phuket](https://go2-thailand.com/islands/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/). |
+| **Which cities have the most scams?** | [Bangkok](https://go2-thailand.com/city/bangkok/), [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), and tourist hotspots like [Phuket](https://go2-thailand.com/city/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/). |
 | **How do I report a scam?** | Contact the Tourist Police at 1155 (toll-free) or visit the nearest Tourist Police office. |
 | **What's the best prevention?** | Use official taxis (Grab app), book tours through reputable operators, and trust your instincts. |
 | **Should I carry cash?** | Yes, but in small amounts. Use ATMs at banks or malls, not street machines. |
@@ -121,7 +121,7 @@ Tourists trust local advice and feel grateful for the "help." The scammer builds
 
 ### How to Verify Before You Go
 
-**Check opening hours on Google Maps or your hotel's information sheet before leaving.** Major temples in [Bangkok](https://go2-thailand.com/city/bangkok/) like the [Grand Palace](/city/bangkok/attractions/grand-palace/) and [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/) are open daily (with rare exceptions) and rarely close unexpectedly. If someone tells you a major attraction is closed, politely thank them and continue—or verify with your hotel. Book tours through reputable operators rather than accepting street recommendations. If you do hire a tuk-tuk, specify your exact destination and agree on a price beforehand.
+**Check opening hours on Google Maps or your hotel's information sheet before leaving.** Major temples in [Bangkok](https://go2-thailand.com/city/bangkok/) like the [Grand Palace](/city/bangkok/attractions/) and [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/) are open daily (with rare exceptions) and rarely close unexpectedly. If someone tells you a major attraction is closed, politely thank them and continue—or verify with your hotel. Book tours through reputable operators rather than accepting street recommendations. If you do hire a tuk-tuk, specify your exact destination and agree on a price beforehand.
 
 <div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -144,7 +144,7 @@ Tourists trust local advice and feel grateful for the "help." The scammer builds
 
 ## 4. Overpriced Tours and "Special Deals"
 
-Street touts offering "amazing tour deals" are ubiquitous in [Bangkok](https://go2-thailand.com/city/bangkok/), [Phuket](https://go2-thailand.com/islands/phuket/), and island destinations. The pitch is always similar: "Today only, special price for you—island tour, snorkeling, sunset cruise, only THB 500–800 ($14–23)."
+Street touts offering "amazing tour deals" are ubiquitous in [Bangkok](https://go2-thailand.com/city/bangkok/), [Phuket](https://go2-thailand.com/city/phuket/), and island destinations. The pitch is always similar: "Today only, special price for you—island tour, snorkeling, sunset cruise, only THB 500–800 ($14–23)."
 
 The reality? You're paying for a low-quality, overcrowded experience with hidden costs. The boat is packed with 50+ people. Snorkeling sites are mediocre. Lunch is minimal. And at the end, you're taken to a shop where you're pressured to buy overpriced souvenirs or upgrades. The "special price" was a loss leader to get you on the tour.
 

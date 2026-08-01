@@ -32,7 +32,7 @@ sources:
 
 ## The Short Answer
 
-Yes, Thai food **can** be very spicy -- but not everything is. In fact, many of Thailand's most beloved dishes contain zero chili at all. [Pad Thai](/food/pad-thai/), mango sticky rice, and [Khao Man Gai](/food/khao-man-gai/) are all naturally mild. The key is knowing what to order and how to communicate your preferences. Our [Thai street food guide](/blog/thai-street-food-guide-2026/) covers the 15 most popular dishes with spice ratings for each.
+Yes, Thai food **can** be very spicy -- but not everything is. In fact, many of Thailand's most beloved dishes contain zero chili at all. [Pad Thai](/food/pad-thai/), mango sticky rice, and [Khao Man Gai](/food/khao-man-gai/) are all naturally mild. The key is knowing what to order and how to communicate your preferences. Our [Thai street food guide](/thailand-street-food/) covers the 15 most popular dishes with spice ratings for each.
 
 Thai cuisine is built around a balance of **five flavours: sweet, sour, salty, bitter, and spicy**. Not every dish leans into heat. Many rely on the first four flavours and use chili only as an optional addition. Whether you are a spice lover or prefer to keep things mild, there is plenty for you on a Thai menu.
 
@@ -117,7 +117,7 @@ Add **"krap"** (if you are male) or **"ka"** (if you are female) to the end of e
 
 ### Street Stalls vs Restaurants
 
-At **street stalls**, the cook often prepares your food right in front of you. This makes it easy to gesture and communicate your spice preference. Many Som Tam vendors, for example, will ask how many chilies you want -- you can hold up one or two fingers for a mild version. Our [complete Thai street food guide](/blog/thai-street-food-guide-2026/) explains exactly how to navigate stalls across Bangkok and Chiang Mai.
+At **street stalls**, the cook often prepares your food right in front of you. This makes it easy to gesture and communicate your spice preference. Many Som Tam vendors, for example, will ask how many chilies you want -- you can hold up one or two fingers for a mild version. Our [complete Thai street food guide](/thailand-street-food/) explains exactly how to navigate stalls across Bangkok and Chiang Mai.
 
 At **sit-down restaurants**, especially those used to tourists, servers will understand "mai pet" immediately. Some places offer a numbered spice scale from 0 to 5. Level 0 means no spice, level 1 is a gentle warmth, and level 5 is "Thai hot" -- the authentic heat level that locals prefer.
 
@@ -205,4 +205,4 @@ If you are worried about handling the heat, these practical tips will help you e
 
 ---
 
-Whether you love heat or avoid it entirely, **Thai cuisine has something for you**. The key is knowing what to order and how to communicate your preferences. Start mild, build up gradually, and you might find yourself reaching for that extra Bird's Eye chili before your trip is over. For a deeper dive into flavour, read the [history of Thai cuisine](/blog/history-of-thai-cuisine/) and [what makes Thai food unique](/blog/what-is-thai-food-cuisine-guide/). If you are planning your trip around food, our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) include dedicated food days in Bangkok and Chiang Mai. For more Thailand travel tips, explore our [practical info guides](/practical-info/).
+Whether you love heat or avoid it entirely, **Thai cuisine has something for you**. The key is knowing what to order and how to communicate your preferences. Start mild, build up gradually, and you might find yourself reaching for that extra Bird's Eye chili before your trip is over. For a deeper dive into flavour, read the [history of Thai cuisine](/blog/history-of-thai-cuisine/) and [what makes Thai food unique](/travel-guides/thai-cuisine-food-guide/). If you are planning your trip around food, our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) include dedicated food days in Bangkok and Chiang Mai. For more Thailand travel tips, explore our [practical info guides](/practical-info/).

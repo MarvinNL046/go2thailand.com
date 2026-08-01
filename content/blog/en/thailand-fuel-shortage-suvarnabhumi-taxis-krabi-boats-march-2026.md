@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand fuel shortage", "Suvarnabhumi airport", "Bangkok taxis", "Krabi long-tail boats", "oil crisis", "travel advisory"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-fuel-shortage-suvarnabhumi-taxis-krabi-boats-march-2026-hero.webp"
 description: "Fuel shortages are disrupting taxi services at Bangkok's Suvarnabhumi Airport and grounding long-tail boats in Krabi. What travelers need to know."
 featured: false
 readingTime: 3

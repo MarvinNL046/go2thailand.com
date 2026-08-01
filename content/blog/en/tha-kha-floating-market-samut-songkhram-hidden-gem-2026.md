@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "attractions"
 tags: ["Tha Kha floating market", "Samut Songkhram", "floating markets Thailand 2026", "authentic Thai markets", "day trips from Bangkok", "Mae Klong"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/tha-kha-floating-market-samut-songkhram-hidden-gem-2026-hero.webp"
 description: "Skip the tourist crowds and visit Tha Kha Floating Market in Samut Songkhram — one of Thailand's last truly local canal markets where vendors still paddle garden-fresh produce to buyers every weekend."
 featured: false
 readingTime: 3

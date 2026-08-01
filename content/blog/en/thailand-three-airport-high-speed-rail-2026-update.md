@@ -6,7 +6,7 @@ category: "news"
 author:
   name: "Go2Thailand Team"
 tags: ["thailand high-speed rail", "bangkok airport rail", "thailand infrastructure 2026", "suvarnabhumi airport", "thailand transport"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-three-airport-high-speed-rail-2026-update-hero.webp"
 draft: false
 lastUpdated: "2026-03-29"
 ---
@@ -21,7 +21,7 @@ If that timeline holds, construction would begin in August 2026, with service pr
 
 Once operational, the rail line will cover 220 kilometers and fundamentally change how visitors move between Bangkok's two main airports and the eastern seaboard. Currently, transferring between Don Mueang and Suvarnabhumi requires a taxi or bus ride through Bangkok traffic, which can take well over an hour. The high-speed rail would cut that journey to roughly 20 minutes.
 
-U-Tapao airport, located near [Pattaya](/city/pattaya/) and the Eastern Economic Corridor, would become far more accessible. Travelers heading to [Pattaya](/destinations/pattaya/), Rayong, or the eastern beaches could fly into any of the three airports and connect quickly by rail. U-Tapao is already seeing significant growth — read about [U-Tapao's new flight routes and expansion plans](/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/) for the latest details.
+U-Tapao airport, located near [Pattaya](/city/pattaya/) and the Eastern Economic Corridor, would become far more accessible. Travelers heading to [Pattaya](/city/pattaya/), Rayong, or the eastern beaches could fly into any of the three airports and connect quickly by rail. U-Tapao is already seeing significant growth — read about [U-Tapao's new flight routes and expansion plans](/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/) for the latest details.
 
 If you are planning a visit to Pattaya, the [Bangkok to Pattaya transport guide](/transport/bangkok-to-pattaya/) covers all the current options by bus, minivan and taxi.
 

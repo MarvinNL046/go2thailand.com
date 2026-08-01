@@ -30,6 +30,7 @@ interface Attraction {
   visitAccess?: 'Free' | 'Ticketed' | null;
   enhanced_description?: string;
   googleMapsUrl?: string;
+  hasDetailOwner?: boolean;
 }
 
 interface AttractionRecord {
@@ -127,6 +128,48 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
       ? `Ontdek de beste bezienswaardigheden in ${cityName} met praktische routelogica, lokale context en de stops die je tijd echt waard zijn.`
       : `Explore the strongest attractions in ${city.name.en} with practical route logic, local context, and the stops that actually justify your time.`,
   };
+  const canonicalUrl = `https://go2-thailand.com/city/${city.slug}/attractions/`;
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((crumb, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: crumb.name,
+      item: `https://go2-thailand.com${crumb.href.endsWith('/') ? crumb.href : `${crumb.href}/`}`,
+    })),
+  };
+  const collectionPageJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${canonicalUrl}#webpage`,
+    url: canonicalUrl,
+    name: metadata.title,
+    description: metadata.description,
+    inLanguage: 'en-GB',
+    about: {
+      '@type': 'City',
+      name: city.name.en,
+      containedInPlace: { '@type': 'Country', name: 'Thailand' },
+    },
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: attractions.length,
+      itemListElement: attractions.map((attraction, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        url: attraction.hasDetailOwner
+          ? `${canonicalUrl}${attraction.slug}/`
+          : `${canonicalUrl}#${attraction.slug}`,
+        item: {
+          '@type': 'TouristAttraction',
+          name: attraction.name.en,
+          description: attraction.enhanced_description || attraction.description.en,
+          image: toAbsoluteImageUrl(attraction.image),
+        },
+      })),
+    },
+  };
 
   return (
     <>
@@ -136,6 +179,12 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
         ogImage={metadata.openGraph?.images?.[0]?.url || toAbsoluteImageUrl(getCityImageForSection(city, 'attractions'))}
       >
         <meta name="keywords" content={metadata.keywords} />
+        {!isNl && (
+          <>
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageJsonLd) }} />
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+          </>
+        )}
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
@@ -233,7 +282,9 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                   {attractions.length > 0 ? (
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                       {attractions.map((attraction, index) => {
-                        const hasDetailOwner = !isNl || Boolean(getNlAttractionDetailGuide(city.slug, attraction.slug));
+                        const hasDetailOwner = isNl
+                          ? Boolean(getNlAttractionDetailGuide(city.slug, attraction.slug))
+                          : attraction.hasDetailOwner === true;
                         return (
                         <article
                           key={attraction.slug}
@@ -242,7 +293,11 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                         >
                           <Link
                             href={hasDetailOwner ? `/city/${city.slug}/attractions/${attraction.slug}/` : `/city/${city.slug}/attractions/#${attraction.slug}`}
-                            aria-label={isNl ? `Lees meer over ${attraction.name[lang] || attraction.name.en}` : `Learn more about ${attraction.name.en}`}
+                            aria-label={isNl
+                              ? `Lees meer over ${attraction.name[lang] || attraction.name.en}`
+                              : hasDetailOwner
+                                ? `Learn more about ${attraction.name.en}`
+                                : `Jump to ${attraction.name.en} in this guide`}
                             className="absolute inset-0 z-10 rounded-2xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-thailand-gold"
                           >
                             <span className="sr-only">{isNl ? 'Lees meer' : 'Learn more'}</span>
@@ -330,7 +385,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                                 )}
                               </div>
                               <div className="text-thailand-blue hover:text-thailand-red font-medium text-sm flex items-center transition-colors group">
-                                <span>{isNl ? (hasDetailOwner ? 'Lees meer' : 'In deze gids') : 'Learn More'}</span>
+                                <span>{isNl ? (hasDetailOwner ? 'Lees meer' : 'In deze gids') : (hasDetailOwner ? 'Learn More' : 'In This Guide')}</span>
                                 <svg className="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                                 </svg>
@@ -613,6 +668,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const attractionRecords = new Map<string, AttractionRecord>(
     indexedAttractions.map((attraction) => [attraction.slug, attraction]),
   );
+  const enDetailOwners = new Set<string>();
 
   // English detail owners can exist as individual JSON files without being present in
   // either city index. Merge those files into the owner page so every published detail
@@ -627,7 +683,10 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
         if (filename === 'index.json' || !filename.endsWith('.json')) continue;
         const attractionSlug = filename.slice(0, -'.json'.length);
         const detail = getAttractionBySlug(slug, attractionSlug, 'en') as AttractionRecord | undefined;
-        if (detail?.slug) attractionRecords.set(detail.slug, detail);
+        if (detail?.slug) {
+          attractionRecords.set(detail.slug, detail);
+          enDetailOwners.add(detail.slug);
+        }
       }
     } catch {
       // Some city owners intentionally have no attraction-detail directory.
@@ -647,6 +706,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       : null,
     enhanced_description: attraction.enhanced_description || null,
     googleMapsUrl: attraction.googleMapsUrl || null,
+    hasDetailOwner: locale !== 'nl' ? enDetailOwners.has(attraction.slug) : null,
   }));
 
   return {

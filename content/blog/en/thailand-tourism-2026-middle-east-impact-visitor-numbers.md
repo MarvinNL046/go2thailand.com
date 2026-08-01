@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "news"
 tags: ["thailand tourism", "visitor numbers", "middle east conflict", "travel advisory", "2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-tourism-2026-middle-east-impact-visitor-numbers-hero.webp"
 description: "Thailand welcomed over 7 million international tourists by mid-March 2026, but Middle East tensions caused an 18% drop in European arrivals. Here is what travelers need to know."
 featured: false
 readingTime: 3

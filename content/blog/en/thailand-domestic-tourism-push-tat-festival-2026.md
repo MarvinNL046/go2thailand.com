@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["domestic tourism", "TAT", "Thailand Tourism Festival", "tourism 2026", "travel stimulus"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-domestic-tourism-push-tat-festival-2026-hero.webp"
 description: "The Tourism Authority of Thailand is doubling down on domestic travel, targeting 210 million trips and 1 trillion baht in revenue as global headwinds slow international arrivals."
 featured: false
 readingTime: 3

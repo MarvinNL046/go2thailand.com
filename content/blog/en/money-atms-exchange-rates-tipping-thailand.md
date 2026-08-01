@@ -80,7 +80,7 @@ ATMs are ubiquitous in Thailand's cities and tourist areas, but availability dro
 
 **City centers and tourist zones:** Expect ATMs outside every bank branch, shopping mall, and convenience store. Bangkok's [Sukhumvit area](https://go2-thailand.com/areas/bangkok/sukhumvit/) and [Silom district](https://go2-thailand.com/areas/bangkok/silom-sathorn/) have machines every 50 meters. [Chiang Mai's Old City](https://go2-thailand.com/city/chiang-mai/attractions/) is equally well-served.
 
-**Islands and beaches:** Major islands like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/islands/phuket/) have abundant ATMs in town areas, though beach resorts may have limited options. Plan withdrawals when visiting town.
+**Islands and beaches:** Major islands like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) have abundant ATMs in town areas, though beach resorts may have limited options. Plan withdrawals when visiting town.
 
 **Rural and northern regions:** Smaller towns may have only one or two ATMs, often at the local bank. Withdraw cash before heading to remote [national parks](https://go2-thailand.com/travel-guides/national-parks-thailand/) or trekking areas.
 

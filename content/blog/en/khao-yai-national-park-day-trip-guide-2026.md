@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "destinations"
 tags: ["Khao Yai", "national parks Thailand", "day trip Bangkok", "wildlife Thailand", "UNESCO Thailand", "hiking Thailand 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/khao-yai-national-park-day-trip-guide-2026-hero.webp"
 description: "Everything you need to know about visiting Khao Yai National Park in 2026, from entrance fees and transport to the best trails, waterfalls and wildlife spotting tips."
 featured: false
 readingTime: 4

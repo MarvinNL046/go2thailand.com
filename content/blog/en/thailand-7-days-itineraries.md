@@ -29,7 +29,7 @@ Seven days in Thailand sounds short until you realize how much ground you can co
 |----------|--------|
 | **What is the best time to visit?** | November–February (cool & dry). Avoid September–October (heavy rain). |
 | **How much does it cost?** | Budget: 1,500–2,000 THB/day (~$42–56 USD). Mid-range: 2,500–4,000 THB/day (~$70–112 USD). |
-| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport) or [Phuket](https://go2-thailand.com/islands/phuket/). |
+| **How do I get there?** | Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport) or [Phuket](https://go2-thailand.com/city/phuket/). |
 | **Is it safe?** | Yes. Thailand is generally safe for tourists. Use common sense with valuables and avoid political gatherings. |
 | **What should I [book in advance?** | Flights, accommodation in peak season (Nov–Feb), cooking classes, and long-distance transport](https://12go.tpo.lv/tNA80urD). |
 | **Do I need a visa?** | Most nationalities get 30–60 days visa-free. Check [Thailand visa requirements](https://go2-thailand.com/visa/) for your country. |
@@ -72,7 +72,7 @@ This is the itinerary we recommend to first-time visitors who want to understand
 
 ### Days 4–5: Ayutthaya (Ancient Capital)
 
-A day trip from Bangkok—or better, an overnight stay. [Ayutthaya](https://go2-thailand.com/destinations/ayutthaya/) is Thailand's former capital, and the temple ruins are genuinely moving. The town is compact and easy to navigate by bicycle or tuk-tuk.
+A day trip from Bangkok—or better, an overnight stay. [Ayutthaya](https://go2-thailand.com/city/ayutthaya/) is Thailand's former capital, and the temple ruins are genuinely moving. The town is compact and easy to navigate by bicycle or tuk-tuk.
 
 **Day 4:** Take a train from Bangkok's Krung Thep Aphiwat Central Terminal (20 THB for 3rd class, 1.5–2 hours) or join a guided tour (600–1,000 THB). Rent a bicycle (50–100 THB) or hire a tuk-tuk (300–500 THB for 4 hours). Visit Wat Mahathat, Wat Phra Si Sanphet, and Wat Chaiwatthanaram. Budget: 800–1,500 THB.
 
@@ -122,7 +122,7 @@ If you want sun, sand, and minimal temple fatigue, this itinerary is for you. We
 
 ### Days 1–2: Phuket (Gateway Beach Hub)
 
-[Phuket](https://go2-thailand.com/islands/phuket/) is Thailand's largest island and the main entry point for beach travelers. Most people stay in Patong (the party zone) or Kata/Karon (quieter). We prefer Kata for a balance of amenities and peace.
+[Phuket](https://go2-thailand.com/city/phuket/) is Thailand's largest island and the main entry point for beach travelers. Most people stay in Patong (the party zone) or Kata/Karon (quieter). We prefer Kata for a balance of amenities and peace.
 
 **Day 1:** Arrive at Phuket International Airport, transfer to accommodation ([airport shuttle](https://trip.tpo.lv/hY8hOUey) 150 THB, private taxi 400–600 THB). Settle in, explore your beach area, dinner at a beachfront restaurant. Budget: 600–1,200 THB.
 
@@ -290,7 +290,7 @@ Most Western nationalities (US, UK, EU, Canada, Australia) get 30–60 days visa
 
 ### Getting There
 
-Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport, BKK) or [Phuket](https://go2-thailand.com/islands/phuket/) (HKT). Bangkok is the hub; flights are cheaper and more frequent. Budget airlines like AirAsia, Nok Air, and Thai Lion offer domestic flights for 600–1,500 THB.
+Fly into [Bangkok](https://go2-thailand.com/city/bangkok/) (Suvarnabhumi Airport, BKK) or [Phuket](https://go2-thailand.com/city/phuket/) (HKT). Bangkok is the hub; flights are cheaper and more frequent. Budget airlines like AirAsia, Nok Air, and Thai Lion offer domestic flights for 600–1,500 THB.
 
 <div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -475,7 +475,7 @@ Thai food is one of the main reasons to visit. Don't eat only at tourist restaur
 - **[Mango Sticky Rice](/food/mango-sticky-rice/):** Sweet dessert. 40–80 THB. Best April–May during peak mango season.
 - **[Khao Soi](/blog/khao-soi-chiang-mai-guide/):** Northern Thai curry noodles. 50–80 THB in Chiang Mai.
 
-For the full street food picture, read the [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) and the [is Thai food spicy guide](/blog/is-thai-food-spicy-guide/) before ordering.
+For the full street food picture, read the [Thai street food guide 2026](/thailand-street-food/) and the [is Thai food spicy guide](/blog/is-thai-food-spicy-guide/) before ordering.
 
 ### Cooking Classes
 

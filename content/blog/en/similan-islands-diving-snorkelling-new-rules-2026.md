@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "adventure"
 tags: ["Similan Islands", "Thailand diving 2026", "snorkelling Thailand", "Similan Islands rules", "Phuket diving", "Thailand marine parks"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/similan-islands-diving-snorkelling-new-rules-2026-hero.webp"
 description: "Thailand has introduced strict new rules for diving and snorkelling at the Similan Islands in the 2025-2026 season. Here is what visitors must know before booking a trip."
 featured: false
 readingTime: 3

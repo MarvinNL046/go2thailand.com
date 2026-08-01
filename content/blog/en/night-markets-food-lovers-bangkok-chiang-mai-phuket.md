@@ -40,13 +40,13 @@ But not all night markets are created equal. Bangkok's sprawling markets pulse w
 
 ## 1. Bangkok Night Markets: The Electric Epicenter
 
-Bangkok's **night markets** are the city's culinary theater—chaotic, intoxicating, and utterly unforgettable. When we first explored the markets near the old city, we were struck by the sheer density of stalls, the roar of the crowd, and the dizzying array of smells layering the humid night air. This is [street food](/blog/thai-street-food-guide-2026/) at scale, where competition drives quality and innovation.
+Bangkok's **night markets** are the city's culinary theater—chaotic, intoxicating, and utterly unforgettable. When we first explored the markets near the old city, we were struck by the sheer density of stalls, the roar of the crowd, and the dizzying array of smells layering the humid night air. This is [street food](/thailand-street-food/) at scale, where competition drives quality and innovation.
 
 The capital hosts dozens of night markets, each with distinct character. The larger, more tourist-accessible markets operate nightly and feature everything from traditional pad thai to experimental fusion dishes. The smaller, neighborhood markets cater almost entirely to locals and offer deeper authenticity—but less English signage and fewer creature comforts. If you're planning where to sleep, check our [Bangkok hotel guide](/best-hotels/bangkok/) for options near the best market districts.
 
 ### Bangkok's Market Landscape: Size & Specialization
 
-Bangkok's markets range from sprawling outdoor bazaars with 200+ stalls to intimate alleyway clusters with just 10–15 vendors. The larger markets like those near [Chatuchak Weekend Market](/city/bangkok/attractions/chatuchak-market/) attract tourists and locals alike, offering a gentler introduction to Thai street food. Smaller neighborhood markets—tucked into residential sois (alleys)—demand more navigation but reward explorers with lower prices and dishes you won't find in guidebooks.
+Bangkok's markets range from sprawling outdoor bazaars with 200+ stalls to intimate alleyway clusters with just 10–15 vendors. The larger markets like those near [Chatuchak Weekend Market](/city/bangkok/attractions/) attract tourists and locals alike, offering a gentler introduction to Thai street food. Smaller neighborhood markets—tucked into residential sois (alleys)—demand more navigation but reward explorers with lower prices and dishes you won't find in guidebooks.
 
 During our time in Bangkok, we discovered that market timing matters. Early evening (5–7 PM) offers the widest selection and shortest waits. Peak hours (8–10 PM) bring crowds but also the liveliest atmosphere. Late night (11 PM–midnight) sees thinning crowds and vendors closing stalls, though some specialized late-night markets cater to night-shift workers and insomniacs.
 
@@ -429,7 +429,7 @@ Yes, but with caveats. Most markets have vegetable stir-fries, noodle dishes, an
 
 ## Conclusion
 
-Thailand's **night markets** are far more than tourist attractions or convenient dinner options. They're living repositories of regional culinary identity, social gathering spaces, and economic engines for thousands of vendors and their families. [Bangkok's](https://go2-thailand.com/city/bangkok/) markets pulse with innovation and scale. [Chiang Mai's](https://go2-thailand.com/city/chiang-mai/) markets whisper with northern tradition and agricultural authenticity. [Phuket's](https://go2-thailand.com/islands/phuket/) markets showcase island simplicity and seafood abundance.
+Thailand's **night markets** are far more than tourist attractions or convenient dinner options. They're living repositories of regional culinary identity, social gathering spaces, and economic engines for thousands of vendors and their families. [Bangkok's](https://go2-thailand.com/city/bangkok/) markets pulse with innovation and scale. [Chiang Mai's](https://go2-thailand.com/city/chiang-mai/) markets whisper with northern tradition and agricultural authenticity. [Phuket's](https://go2-thailand.com/city/phuket/) markets showcase island simplicity and seafood abundance.
 
 To truly experience Thailand, you must eat in its night markets. Not once, but repeatedly. Each visit reveals new stalls, new dishes, new flavors. The markets change with seasons, with your own evolving palate, and with the vendors' creative impulses. This is where Thai food lives—not in restaurants, but in the hands of vendors who've perfected their craft through years of repetition and competition.
 

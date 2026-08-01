@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Team"
 category: "culture"
 tags: ["Bun Bang Fai", "Rocket Festival", "Yasothon", "Isaan Thailand", "Thailand festivals May 2026"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/bun-bang-fai-rocket-festival-yasothon-2026-hero.webp"
 description: "Every May, the people of Yasothon in northeast Thailand launch giant homemade rockets into the sky to summon the rains. Here is everything you need to know about Bun Bang Fai 2026."
 featured: false
 readingTime: 3
@@ -26,7 +26,7 @@ sources:
 
 Bun Bang Fai — the Rocket Festival — is one of Thailand's wildest and least-known celebrations. Every year in May, communities across the [Isaan region](/city/nakhon-ratchasima/) build enormous homemade rockets and launch them into the sky to symbolically seed the clouds and summon the rainy season. The tradition stretches back centuries and blends Buddhist and animist beliefs in a spectacle unlike anything else in [Southeast Asia](/blog/best-time-to-visit-thailand/).
 
-The biggest and most famous event takes place in **Yasothon**, a small city in [northeast Thailand](/destinations/ubon-ratchathani/). In 2026, the Yasothon Rocket Festival is scheduled for the **second weekend of May (around May 8-10)**.
+The biggest and most famous event takes place in **Yasothon**, a small city in [northeast Thailand](/city/ubon-ratchathani/). In 2026, the Yasothon Rocket Festival is scheduled for the **second weekend of May (around May 8-10)**.
 
 ## Three Days of Chaos and Celebration
 
@@ -36,7 +36,7 @@ The festival opens with a colorful street parade through Yasothon. Teams from di
 
 ### Day 2 — The Big Party
 
-On the second day, the main road through town transforms into an open-air party. Stages are set up roughly every 20 meters, each one blasting its own music at full volume. [Street food](/blog/thai-street-food-guide-2026/) vendors line the road, and the atmosphere sits somewhere between a county fair and a music festival.
+On the second day, the main road through town transforms into an open-air party. Stages are set up roughly every 20 meters, each one blasting its own music at full volume. [Street food](/thailand-street-food/) vendors line the road, and the atmosphere sits somewhere between a county fair and a music festival.
 
 ### Day 3 — Launch Day
 
@@ -55,4 +55,4 @@ Yasothon is roughly 530 kilometers northeast of Bangkok. You can fly to [Ubon Ra
 
 ## Why Go?
 
-Bun Bang Fai is raw, unpolished Thailand at its best. No tourist buses, no entrance fees, no velvet ropes. Just a small [Isaan town](/city/khon-kaen/) firing rockets at the sky and having the time of its life. If you want a [Thai festival](/blog/loi-krathong-yi-peng-2026-festival-guide/) experience far from the [beaten path](/blog/15-hidden-gems-thailand-tourists-miss/), this is it. Pair it with a side trip to [Ubon Ratchathani's attractions](/city/ubon-ratchathani/attractions/) or explore the wider [northeast Thailand](/things-to-do/ubon-ratchathani/) region while you're in the area. You can also check what else is happening around the country with our [Thailand festivals guide](/blog/thailand-domestic-tourism-push-tat-festival-2026/) or read up on the [camping post](/blog/camping-thailand-national-parks-guide-2026/) if you want to extend your trip into the national parks of the northeast.
+Bun Bang Fai is raw, unpolished Thailand at its best. No tourist buses, no entrance fees, no velvet ropes. Just a small [Isaan town](/city/khon-kaen/) firing rockets at the sky and having the time of its life. If you want a [Thai festival](/blog/loi-krathong-yi-peng-2026-festival-guide/) experience far from the [beaten path](/blog/15-hidden-gems-thailand-tourists-miss/), this is it. Pair it with a side trip to [Ubon Ratchathani's attractions](/city/ubon-ratchathani/attractions/) or explore the wider [northeast Thailand](/city/ubon-ratchathani/attractions/) region while you're in the area. You can also check what else is happening around the country with our [Thailand festivals guide](/blog/thailand-domestic-tourism-push-tat-festival-2026/) or read up on the [camping post](/blog/camping-thailand-national-parks-guide-2026/) if you want to extend your trip into the national parks of the northeast.

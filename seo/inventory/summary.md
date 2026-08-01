@@ -1,6 +1,6 @@
 # Route inventory
 
-Generated: 2026-08-01T05:26:20.313Z
+Generated: 2026-08-01T06:16:39.700Z
 
 - Total sitemap URLs: 2163
 - English URLs: 1563

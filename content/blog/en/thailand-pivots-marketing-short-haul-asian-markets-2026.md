@@ -6,7 +6,7 @@ author:
   name: "Go2Thailand Editorial"
 category: "news"
 tags: ["tourism strategy", "Asian markets", "TAT", "tourism 2026", "Middle East crisis"]
-image: "/images/blog/thailand-news-default.webp"
+image: "/images/redesign/editorial/thailand-pivots-marketing-short-haul-asian-markets-2026-hero.webp"
 description: "With long-haul arrivals disrupted by Middle East conflicts, Thailand is shifting its tourism marketing focus to neighboring Asian countries and short-haul travelers."
 featured: false
 readingTime: 3
