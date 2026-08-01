@@ -10,7 +10,7 @@ image: "/images/redesign/muay-thai-beginner-hero.webp"
 description: "Kies als beginner tussen één Muay Thai-les, een trainingsweek en een kamp in Thailand. Met lesopbouw, kosten, gymchecks, paklijst en verzekering."
 featured: false
 readingTime: 14
-lastUpdated: "2026-07-25"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Tiger Muay Thai — Beginners Program"
     url: "https://www.tigermuaythai.com/training/muay-thai-training-program-beginners"

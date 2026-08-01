@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai",
+  "route": "/nl/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Nieuwe vluchten Thailand 2026: bevestigde routes | Go2Thailand",
+    "description": "Controleer bevestigde nieuwe vluchten naar Thailand in 2026 van flydubai, Scoot en Norse, met luchthaven-, seizoen-, bagage- en overstapchecks.",
+    "primaryKeyword": "nieuwe vluchten Thailand 2026",
+    "secondaryKeywords": ["flydubai Bangkok 2026", "Scoot Chiang Rai", "Norse Thailand routes"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/"
+  },
+  "hero": {
+    "eyebrow": "Routecheck · 1 augustus 2026",
+    "title": "Nieuwe vliegroutes naar Thailand",
+    "accent": "Bevestigd is nog niet hetzelfde als passend",
+    "description": "Drie routeontwikkelingen zijn officieel te staven. Vergelijk daarna luchthaven, seizoen, bagage en complete reisketen voor jouw datum.",
+    "image": "/images/redesign/editorial/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai-hero.webp",
+    "imageAlt": "Ongebrand passagiersvliegtuig nadert een luchthaven bij Bangkok in warm ochtendlicht",
+    "primaryCta": { "label": "Bekijk de bevestigde routes", "href": "#routes" },
+    "secondaryCta": { "label": "Gebruik de boekingscheck", "href": "#boekingscheck" }
+  },
+  "layout": {
+    "kind": "news-update",
+    "newsStatus": "confirmed",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Officiële bronnen bevestigen in 2026 onder meer flydubai Dubai–Bangkok Don Mueang vanaf 1 juli, Scoot Singapore–Chiang Rai sinds 1 januari en vijf seizoensroutes van Norse naar Bangkok en Phuket voor winter 2025/2026. Een routeaankondiging garandeert geen vlucht op jouw datum: controleer het live schema bij de uitvoerende airline.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "routes",
+      "eyebrow": "Alleen primaire bevestigingen",
+      "title": "Drie ontwikkelingen die reizigers echt kunnen gebruiken",
+      "cards": [
+        {
+          "title": "flydubai: Dubai–Don Mueang",
+          "description": "TAT markeerde de start van vlucht FZ1333 op 1 juli 2026. Let op: de Bangkok-luchthaven is Don Mueang (DMK), niet automatisch Suvarnabhumi (BKK).",
+          "label": "Gestart op 1 juli"
+        },
+        {
+          "title": "Scoot: Singapore–Chiang Rai",
+          "description": "De eerste TR670 arriveerde volgens TAT op 1 januari 2026 op Mae Fah Luang–Chiang Rai Airport. Dit kan Noord-Thailand bereikbaar maken zonder binnenlandse Bangkokvlucht.",
+          "label": "Gestart op 1 januari"
+        },
+        {
+          "title": "Norse: winterroutes naar Bangkok en Phuket",
+          "description": "TAT beschrijft vijf directe diensten vanuit het VK en Scandinavië voor winter 2025/2026. Behandel ze als seizoensgebonden en controleer of jouw datum nog in de dienstregeling valt.",
+          "label": "Seizoensgebonden"
+        }
+      ]
+    },
+    {
+      "kind": "comparison",
+      "id": "betekenis",
+      "title": "Wanneer verandert een nieuwe route je reis echt?",
+      "options": [
+        {
+          "title": "Direct naar je regio",
+          "description": "Scoot naar Chiang Rai kan een terugrit of binnenlandse vlucht via Bangkok besparen wanneer Noord-Thailand je eerste bestemming is.",
+          "href": "/nl/city/chiang-rai/"
+        },
+        {
+          "title": "Andere Bangkok-luchthaven",
+          "description": "flydubai naar DMK kan handig zijn voor sommige binnenlandse aansluitingen, maar een overstap naar BKK voegt verkeer, tijd en risico toe.",
+          "href": "/nl/city/bangkok/"
+        },
+        {
+          "title": "Seizoensalternatief uit Europa",
+          "description": "Norse kan op bepaalde vertreksteden en data een directe optie zijn. Tel positioneringsvlucht, bagage en losse-ticketrisico mee.",
+          "href": "/nl/transport/"
+        }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "boekingscheck",
+      "title": "Controleer de complete vlucht, niet de kop",
+      "steps": [
+        {
+          "title": "1. Zoek op datum en vluchtnummer",
+          "description": "Een inauguratie bewijst dat een route is gestart, maar niet dat dezelfde frequentie op jouw datum wordt uitgevoerd."
+        },
+        {
+          "title": "2. Lees de luchthavencode",
+          "description": "BKK, DMK, HKT en CEI zijn verschillende luchthavens. Controleer elke aansluiting en mogelijke luchthaventransfer."
+        },
+        {
+          "title": "3. Vergelijk het eindbedrag",
+          "description": "Neem ingecheckte bagage, stoelkeuze, maaltijden, betaaltoeslagen en vervoer naar de vertrekairport mee."
+        },
+        {
+          "title": "4. Test de misconnectie",
+          "description": "Bij losse tickets kan de volgende maatschappij je missen van de aansluiting niet beschermen. Bouw een realistische buffer of overnachting in."
+        },
+        {
+          "title": "5. Hercontroleer vlak voor vertrek",
+          "description": "Gebruik de airline-app of officiële website voor terminal, tijd, bagage en operationele updates."
+        }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "prijsbeleid",
+      "tone": "cream",
+      "title": "Meer routes betekenen niet automatisch lagere prijzen",
+      "description": "Concurrentie kan keuze vergroten, maar ticketprijzen hangen ook af van datum, capaciteit, bagage, valuta en tariefregels. Deze gids toont daarom geen vaste ‘vanafprijs’ en belooft geen besparing."
+    },
+    {
+      "kind": "checklist",
+      "id": "zelftransfer",
+      "title": "Zelf overstappen? Leg deze zes dingen naast elkaar",
+      "items": [
+        "Aankomst- en vertrekluchthaven, inclusief terminal",
+        "Of bagage wordt doorgelabeld of opnieuw moet worden ingecheckt",
+        "Immigratie, beveiliging en landside transfer",
+        "Laatste incheck- en bagageafgiftetijd",
+        "Bescherming bij vertraging op het eerste ticket",
+        "Een plan B met realistische extra kosten"
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over nieuwe Thailandvluchten",
+      "items": [
+        {
+          "question": "Vliegt flydubai in 2026 rechtstreeks naar Bangkok?",
+          "answer": "Ja. TAT bevestigde de start van Dubai–Bangkok Don Mueang op 1 juli 2026. Controleer voor je datum het actuele flydubai-schema en let op luchthaven DMK."
+        },
+        {
+          "question": "Kun je internationaal rechtstreeks naar Chiang Rai?",
+          "answer": "Scoot startte op 1 januari 2026 een rechtstreekse verbinding vanuit Singapore. Frequentie en beschikbaarheid controleer je live bij Scoot."
+        },
+        {
+          "question": "Vliegt Norse het hele jaar naar Thailand?",
+          "answer": "De officiële TAT-aankondiging gaat over vijf routes in het winterseizoen 2025/2026. Ga niet uit van jaarrond dienst zonder actuele airlinecheck."
+        },
+        {
+          "question": "Is een losse aansluiting goedkoper?",
+          "answer": "Soms lijkt het basistarief lager, maar tel bagage, transfer, hotelbuffer en het risico van een gemiste onbeschermde aansluiting mee."
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Vertaal de route naar je reis",
+      "items": [
+        {
+          "title": "Chiang Rai",
+          "description": "Bepaal of rechtstreeks naar CEI logisch is voor je route door Noord-Thailand.",
+          "href": "/nl/city/chiang-rai/"
+        },
+        {
+          "title": "Bangkok",
+          "description": "Plan BKK en DMK als afzonderlijke aankomstpunten en onderschat de transfer niet.",
+          "href": "/nl/city/bangkok/"
+        },
+        {
+          "title": "Phuket",
+          "description": "Controleer of rechtstreeks naar HKT een binnenlandse overstap werkelijk wegneemt.",
+          "href": "/nl/city/phuket/"
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële routebevestigingen",
+      "items": [
+        {
+          "title": "Amazing Thailand Takes Off with flydubai Roadshow 2026",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tatnews.org/2026/07/amazing-thailand-takes-off-with-flydubai-roadshow-2026-marks-new-dubai-bangkok-flight/",
+          "checkedAt": "2026-08-01",
+          "note": "Start van Dubai–Bangkok Don Mueang op 1 juli 2026."
+        },
+        {
+          "title": "Inaugural Singapore–Chiang Rai flight",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tatnews.org/2026/01/tat-and-scoot-welcome-the-new-year-with-inaugural-singapore-chiang-rai-flight/",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële bevestiging van de eerste Scoot-vlucht op 1 januari 2026."
+        },
+        {
+          "title": "Norse Atlantic Airways’ five new Thailand routes",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tatnews.org/2025/10/thailand-celebrates-norse-atlantic-airways-five-new-routes-to-thailand-for-the-2025-2026-winter-season/",
+          "checkedAt": "2026-08-01",
+          "note": "Vijf directe winterroutes naar Bangkok en Phuket; expliciet seizoensgebonden."
+        }
+      ]
+    }
+  ]
+}

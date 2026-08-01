@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide",
+  "route": "/nl/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/",
+  "cluster": "events",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "K-pop concerten Bangkok 2026: actuele agenda | Go2Thailand",
+    "description": "Actuele K-popagenda voor Bangkok in 2026 met BTS-data, status van SEVENTEEN en TREASURE, officiële ticketchecks, venues en reisplanning.",
+    "primaryKeyword": "K-pop concerten Bangkok 2026",
+    "secondaryKeywords": ["Seventeen Bangkok 2026", "Treasure Bangkok 2026", "K-pop tickets Thailand"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide/"
+  },
+  "hero": {
+    "eyebrow": "Agenda gecontroleerd op 1 augustus",
+    "title": "K-pop in Bangkok in 2026",
+    "accent": "Wat voorbij is en wat nog komt",
+    "description": "SEVENTEEN en TREASURE zijn geweest; BTS staat voor december officieel aangekondigd maar de reguliere verkoop is uitverkocht. Zo plan je zonder oude ticketclaims.",
+    "image": "/images/redesign/editorial/kpop-concerts-bangkok-2026-seventeen-treasure-bts-guide-hero.webp",
+    "imageAlt": "Anoniem publiek met lichtsticks tijdens een groot avondconcert in een stadion",
+    "primaryCta": { "label": "Bekijk de actuele status", "href": "#agenda" },
+    "secondaryCta": { "label": "Plan je concertdag", "href": "#concertdag" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "scheduled",
+    "startsOn": "2026-12-03",
+    "endsOn": "2026-12-06",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "De eerstvolgende grote bevestigde K-popdatum in deze owner is BTS WORLD TOUR ‘ARIRANG’ op 3, 5 en 6 december 2026 in Rajamangala National Stadium. Live Nation Tero toont de reguliere verkoop als uitverkocht. SEVENTEEN (14–15 maart) en TREASURE (16 mei) zijn inmiddels voorbij.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "agenda",
+      "eyebrow": "Lifecycle vóór hype",
+      "title": "De status per aangekondigde show",
+      "cards": [
+        {
+          "title": "BTS — ARIRANG",
+          "description": "3, 5 en 6 december 2026 in Rajamangala National Stadium. De officiële eventpagina vermeldt alle drie data.",
+          "label": "Aangekondigd · reguliere verkoop uitverkocht",
+          "note": "Gebruik alleen officiële verkoop- of door de organisator genoemde kanalen."
+        },
+        {
+          "title": "SEVENTEEN — NEW_",
+          "description": "De shows op 14 en 15 maart 2026 in National Stadium hebben al plaatsgevonden.",
+          "label": "Voorbij",
+          "note": "Oude kortings- en verkooppagina’s zijn geen actuele ticketbron."
+        },
+        {
+          "title": "TREASURE — PULSE ON",
+          "description": "De show op 16 mei 2026 in National Stadium heeft al plaatsgevonden.",
+          "label": "Voorbij",
+          "note": "Controleer voor een nieuwe tour altijd een nieuwe officiële eventpagina."
+        }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "tickets",
+      "tone": "warning",
+      "title": "Uitverkocht is geen uitnodiging voor een riskante doorverkoop",
+      "description": "De officiële BTS-pagina toont de reguliere verkoop voor alle drie Bangkokdata als uitverkocht. Go2Thailand linkt daarom niet naar een onbevestigde reseller en noemt geen vermeende voorraad of prijs."
+    },
+    {
+      "kind": "steps",
+      "id": "concertdag",
+      "title": "Bouw je concertdag achterstevoren op",
+      "steps": [
+        {
+          "title": "1. Verifieer naam en datum",
+          "description": "Open de officiële organisatorpagina, controleer eventnaam, datum, venue en ticketstatus en maak geen screenshot tot enige waarheid."
+        },
+        {
+          "title": "2. Lees de naamvoorwaarden",
+          "description": "Bij grote shows kunnen ticketnaam, identiteitsbewijs, overdracht en toegangspoort strikt worden gecontroleerd. Volg de voorwaarden van jouw event."
+        },
+        {
+          "title": "3. Plan de laatste kilometers",
+          "description": "Rajamangala ligt niet direct aan een BTS-station. Reken op evenementverkeer, volg organisatoren voor speciale shuttles en plan een ruime aankomstbuffer."
+        },
+        {
+          "title": "4. Spreek een terugvalpunt af",
+          "description": "Mobiel bereik en taxi-aanbod kunnen na afloop onder druk staan. Kies vooraf een herkenbare ontmoetingsplek buiten de grootste uitstroom."
+        }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "meenemen",
+      "title": "Controleer dit vóór vertrek",
+      "items": [
+        "Paspoort of toegestaan identiteitsbewijs dat overeenkomt met de ticketvoorwaarden",
+        "Officieel ticket in de vereiste app of vorm, plus opgeladen telefoon",
+        "Toegestane tasmaat en regels voor lightsticks, batterijen, powerbanks en camera’s",
+        "Regenbescherming die binnen het venuebeleid past; geen paraplu aannemen zonder check",
+        "Hoteladres en een vooraf gekozen terugreisoptie",
+        "Alleen informatie uit de nieuwste organisatorupdate"
+      ]
+    },
+    {
+      "kind": "comparison",
+      "id": "wijken",
+      "title": "Waar slaap je voor een stadionconcert?",
+      "description": "De beste wijk hangt meer af van je hele Bangkok-verblijf dan van één avond.",
+      "options": [
+        {
+          "title": "Rama 9 of Ramkhamhaeng",
+          "description": "Kortere laatste kilometers naar Rajamangala, maar minder logisch wanneer de rest van je dagen rond Old Town of de rivier ligt.",
+          "href": "/nl/best-hotels/bangkok/"
+        },
+        {
+          "title": "Sukhumvit",
+          "description": "Meer hotel- en avondopties; reserveer extra tijd voor evenementverkeer en bepaal je exacte terugroute.",
+          "href": "/nl/city/bangkok/"
+        }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over K-pop in Bangkok",
+      "items": [
+        {
+          "question": "Wanneer is BTS in Bangkok in 2026?",
+          "answer": "Live Nation Tero vermeldt 3, 5 en 6 december 2026 in Rajamangala National Stadium. Controleer de eventpagina opnieuw voor operationele updates."
+        },
+        {
+          "question": "Zijn er nog officiële BTS-tickets?",
+          "answer": "Op 1 augustus 2026 toont de officiële eventpagina de reguliere verkoop voor de drie data als uitverkocht. Dat kan alleen de organisator betrouwbaar actualiseren."
+        },
+        {
+          "question": "Zijn SEVENTEEN en TREASURE nog te bezoeken?",
+          "answer": "Nee, de in deze route genoemde shows waren respectievelijk 14–15 maart en 16 mei 2026 en zijn voorbij."
+        },
+        {
+          "question": "Kan ik op straat een ticket kopen?",
+          "answer": "Dat vergroot het risico op fraude, ongeldige overdracht en een naam die niet overeenkomt met het toegangsbewijs. Gebruik uitsluitend kanalen die de organisator zelf noemt."
+        }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan Bangkok rond de show",
+      "items": [
+        {
+          "title": "Bangkok-overzicht",
+          "description": "Kies wijk, vervoer en dagroute met ruimte voor de concertavond.",
+          "href": "/nl/city/bangkok/"
+        },
+        {
+          "title": "Hotels in Bangkok",
+          "description": "Vergelijk actuele verblijven op locatie in plaats van één ‘concerthotel’ vast te zetten.",
+          "href": "/nl/best-hotels/bangkok/"
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële concertbronnen",
+      "items": [
+        {
+          "title": "BTS WORLD TOUR ‘ARIRANG’ IN BANGKOK",
+          "publisher": "Live Nation Tero",
+          "url": "https://www.livenationtero.co.th/en/event/bts-world-tour-arirang-in-bangkok-bangkok-tickets-edp1675901",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële data, venue en weergegeven uitverkochte ticketstatus."
+        },
+        {
+          "title": "SEVENTEEN artist and event listing",
+          "publisher": "Live Nation Tero",
+          "url": "https://www.livenationtero.co.th/artist-seventeen-991544",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële historische Bangkokdata van 14 en 15 maart 2026."
+        },
+        {
+          "title": "National Stadium event listing",
+          "publisher": "Live Nation Tero",
+          "url": "https://www.livenationtero.co.th/venue/1395472/national-stadium-thailand-tickets",
+          "checkedAt": "2026-08-01",
+          "note": "Venueoverzicht met SEVENTEEN- en TREASURE-data."
+        }
+      ]
+    }
+  ]
+}

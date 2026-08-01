@@ -307,6 +307,24 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/koh-lipe-maldives-of-thailand-travel-guide-2026/",
+        destination: "/nl/islands/koh-lipe/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/koh-samui-airport-international-hub-bangkok-airways-2026/",
+        destination: "/nl/blog/bangkok-to-koh-samui-guide/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/old-town-phuket-walking-guide-street-art-cafes-2026/",
+        destination: "/nl/phuket/old-town/things-to-do/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "koh-lipe-maldives-of-thailand-travel-guide-2026",
+  "route": "/nl/blog/koh-lipe-maldives-of-thailand-travel-guide-2026/",
+  "cluster": "destination-guides",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koh Lipe reisgids: samengevoegde route | Go2Thailand",
+    "description": "Deze oude Koh Lipe-blogroute is samengevoegd met de actuele eilandowner voor stranden, seizoenen, vervoer, verblijf en verantwoord bezoek.",
+    "primaryKeyword": "Koh Lipe reisgids oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/koh-lipe-maldives-of-thailand-travel-guide-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde eilandgids",
+    "title": "Koh Lipe heeft één actuele owner",
+    "accent": "Plan daar stranden, boot en seizoen samen",
+    "description": "De vaste eilandgids voorkomt twee versies van dezelfde reisinfo en behandelt de moesson en natuurcontext zonder ‘Malediven’-belofte.",
+    "image": "/images/redesign/editorial/koh-lipe-maldives-of-thailand-travel-guide-2026-hero.webp",
+    "imageAlt": "Longtailboot aan een rustige kust bij Koh Lipe met een groen eiland op de achtergrond",
+    "primaryCta": { "label": "Open de Koh Lipe-gids", "href": "/nl/islands/koh-lipe/" }
+  },
+  "layout": {
+    "kind": "destination-guide",
+    "geography": "island",
+    "heroVariant": "split",
+    "navigation": "none",
+    "density": "standard"
+  },
+  "quickAnswer": "Deze blogroute dupliceerde de bestaande Koh Lipe-eilandowner en is daarom samengevoegd met /nl/islands/koh-lipe/. Daar horen stranden, bereikbaarheid, verblijf en seizoensrisico bij elkaar.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "samengevoegd",
+      "tone": "cream",
+      "title": "Verder met de complete Koh Lipe-gids",
+      "description": "Gebruik één actuele bron voor je eilandkeuze. Controleer vooral bootdiensten en de jaarlijkse veiligheids- en sluitingsinformatie rond de moesson opnieuw.",
+      "cta": { "label": "Bekijk Koh Lipe", "href": "/nl/islands/koh-lipe/" }
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bron voor seizoenscontext",
+      "items": [
+        {
+          "title": "Satun",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Destinations/Provinces/kanchanaburi/352",
+          "checkedAt": "2026-08-01",
+          "note": "TAT beschrijft Koh Lipe, de Andamanmoesson en seizoensgebonden veiligheidscontext; URL-label van TAT is inconsistent maar de pagina-inhoud gaat over Satun."
+        }
+      ]
+    }
+  ]
+}

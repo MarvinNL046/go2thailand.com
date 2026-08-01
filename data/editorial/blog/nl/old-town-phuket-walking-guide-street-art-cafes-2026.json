@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "old-town-phuket-walking-guide-street-art-cafes-2026",
+  "route": "/nl/blog/old-town-phuket-walking-guide-street-art-cafes-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Phuket Old Town wandelgids: samengevoegd | Go2Thailand",
+    "description": "Deze oude wandelblog is samengevoegd met de route-eigen Old Town-owner voor straten, erfgoedstops, street art, hitte en een haalbare wandeling.",
+    "primaryKeyword": "Phuket Old Town wandelgids oude route",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/old-town-phuket-walking-guide-street-art-cafes-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde wandelroute",
+    "title": "Phuket Old Town stap voor stap",
+    "accent": "Verder in de vaste wat-te-doen-owner",
+    "description": "De complete route combineert erfgoed, straten, stops, hitte en verkeer zonder een breekbare caféranglijst.",
+    "image": "/images/redesign/editorial/old-town-phuket-walking-guide-street-art-cafes-2026-hero.webp",
+    "imageAlt": "Kleurrijke historische gevels en een rustig trottoir in Phuket Old Town",
+    "primaryCta": { "label": "Open de wandelroute", "href": "/nl/phuket/old-town/things-to-do/" }
+  },
+  "layout": {
+    "kind": "destination-guide",
+    "geography": "route",
+    "heroVariant": "split",
+    "navigation": "none",
+    "density": "standard"
+  },
+  "quickAnswer": "Deze blog dupliceerde de bestaande /nl/phuket/old-town/things-to-do/-owner. De vaste route houdt Thalang Road, Soi Romanee, erfgoedstops, street art, rustmomenten en actuele locatiechecks bij elkaar.",
+  "blocks": [
+    {
+      "kind": "callout",
+      "id": "samengevoegd",
+      "tone": "cream",
+      "title": "Loop verder met de route-eigen gids",
+      "description": "Plan op straatvolgorde en hitte in plaats van een losse lijst met cafés die snel kan verouderen. Controleer openingstijden van individuele stops dezelfde dag.",
+      "cta": { "label": "Bekijk wat te doen in Old Town", "href": "/nl/phuket/old-town/things-to-do/" }
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bron voor erfgoedcontext",
+      "items": [
+        {
+          "title": "Phuket itinerary and Sino-European architecture",
+          "publisher": "Tourism Authority of Thailand",
+          "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/phuket-ko-phi-phi-3-days",
+          "checkedAt": "2026-08-01",
+          "note": "Officiële toerismecontext voor de historische architectuur van Phuket."
+        }
+      ]
+    }
+  ]
+}
