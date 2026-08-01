@@ -1,5 +1,9 @@
 # Local research and audit evidence is retained in Git, but is not required by Next.js at runtime.
-/seo/
+/seo/*
+!/seo
+!/seo/inventory
+/seo/inventory/*
+!/seo/inventory/nl-editorial-manifest.json
 
 # Codex/dev-server logs and caches must never enter a deployment artifact.
 /.codex-runtime/
