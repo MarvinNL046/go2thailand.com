@@ -373,6 +373,24 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/thailand-3-trillion-baht-tourism-target-amazing-5-economy-2026/",
+        destination: "/nl/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-4am-closing-time-nightlife-law-2026/",
+        destination: "/nl/nightlife/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-evisa-overhaul-2026-simplified-categories/",
+        destination: "/nl/visa/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.
