@@ -1,62 +1,59 @@
 ---
-title: "Songkran 2026 door heel Thailand: Feesten in alle 76 provincies"
+title: "Songkran 2026 in 76 provincies: samengevoegd"
 slug: "songkran-2026-76-provinces-nationwide-celebrations-guide"
 date: "2026-03-23"
+lastUpdated: "2026-08-01"
 author:
-  name: "Go2Thailand Team"
-category: "festivals"
-tags: ["Songkran 2026", "Thais Nieuwjaar 2026", "Songkran provincies", "Pattaya Wan Lai 2026", "Chiang Mai Songkran", "Thailand festivals april 2026", "beste Songkran tips", "Thailand vakantie april", "Songkran bezienswaardigheden provincies"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Ontdek Songkran 2026 in alle 76 provincies van Thailand met deze gids. Van authentieke rituelen tot waterfeesten buiten Bangkok en Chiang Mai: plan je reis nu voor een onvergetelijke ervaring in de beste reistijd."
+  name: "Go2Thailand redactie"
+category: "events"
+tags: ["Songkran 2026", "Songkran provincies", "Thais nieuwjaar"]
+image: "/images/redesign/editorial/songkran-2026-76-provinces-nationwide-celebrations-guide-hero.webp"
+description: "Deze verlopen Songkran-pagina is samengevoegd met de centrale gids voor landelijke planning en tradities."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 6
 sources:
-  - name: "Nation Thailand — Culture Ministry Rolls Out Songkran Celebrations in 76 Provinces"
-    url: "https://www.nationthailand.com/news/tourism/40064102"
-  - name: "Nation Thailand — Songkran 2026 Guide: Where to Join Thailand's Biggest Splash"
-    url: "https://www.nationthailand.com/news/tourism/40063676"
-  - name: "KKday — Songkran Festival Thailand 2026: Official Dates, Local Secrets & Etiquette"
-    url: "https://www.kkday.com/en/blog/89168/thailand-songkran-festival"
-  - name: "Trip.com — Songkran Thailand 2026: Schedule, Times, Locations & Best Spots"
-    url: "https://www.trip.com/blog/songkran-thailand-en/"
+  - name: "TAT Newsroom — Songkran Festival 2026 nationwide"
+    url: "https://www.tatnews.org/2026/03/songkran-festival-2026-to-proceed-nationwide-welcoming-global-visitors-to-thailands-unesco-recognised-new-year-celebration/"
+  - name: "UNESCO — Songkran in Thailand"
+    url: "https://ich.unesco.org/en/RL/songkran-in-thailand-traditional-thai-new-year-festival-01719"
 ---
 
-## Songkran is niet meer alleen een feestje in Bangkok
+## Waarom deze pagina is samengevoegd
 
-Het Thaise Ministerie van Cultuur heeft aangekondigd dat [Songkran 2026](/blog/songkran-festival-2026-guide/) met georganiseerde evenementen in alle 76 provincies wordt gevierd — een flinke uitbreiding die toerisme-inkomsten wil spreiden en regionale tradities laat zien die de meeste buitenlandse bezoekers nooit meemaken. De officiële data blijven 13 tot 15 april, maar veel provincies bieden nu langere festiviteiten.
+Songkran 2026 is voorbij. Een aparte pagina over vieringen in alle 76 provincies beantwoordt bovendien grotendeels dezelfde zoekvraag als de centrale [Songkran-gids](/nl/blog/songkran-festival-2026-guide/): wanneer vindt het Thaise nieuwjaar plaats, waar kun je het beleven en hoe neem je veilig en respectvol deel?
 
-De campagne draait om het thema "Songkran Ban Chan — Thaise Kleuren, Wereldwijd Geluk", naast de promotie van de Tourism Authority of Thailand om dit een "Once in a Lifetime: Ervaar Songkran in Thailand"-moment te maken. Luchtvaartmaatschappijen maken het makkelijker om de provincies te bereiken: [binnenlandse vluchten krijgen tot 30% korting tijdens het festival](/blog/songkran-2026-airlines-discount-flights/). Vanuit Nederland kun je met een directe KLM-vlucht vanaf Schiphol makkelijk naar Bangkok vliegen en dan doorreizen.
+Twee pagina's met bijna dezelfde landelijke intentie maken informatie niet beter. Ze kunnen verschillende data blijven tonen, intern met elkaar concurreren en bezoekers naar een verouderd programma sturen. Daarom staat deze route op noindex en is het advies een permanente redirect naar de centrale owner.
 
-## De Grote Drie blijven topbestemmingen
+## Wat in 2026 daadwerkelijk gold
 
-De bekendste steden zijn om een goede reden must-visits:
+De Tourism Authority of Thailand communiceerde in 2026 dat het feest landelijk doorging en bezoekers welkom waren bij de door UNESCO erkende nieuwjaarstraditie. Lokale programma's verschilden per provincie en konden een andere periode beslaan dan de bekende hoofddagen midden april.
 
-- **Bangkok:** Het [veiligheidsplan voor Khao San Road](/blog/bangkok-songkran-2026-khaosan-road-safety-plan/) en Silom Road (13-15 april, 10:00-00:00) zijn de klassieke plekken voor watergevechten. Het [S2O Songkran Music Festival](/blog/s2o-songkran-music-festival-2026-bangkok-edm-water-party/) loopt van 11-13 april, en het [SIAM Songkran Music Festival](/blog/siam-songkran-music-festival-2026-bangkok-guide/) neemt RCA over van 11-14 april. Het [Silom Edge-evenement](/blog/silom-edge-songkran-2026-bangkok-water-festival-event/) biedt nog meer opties in de buurt.
-- **Chiang Mai:** Het [gebied rond de oude stadsgracht](/best-hotels/chiang-mai/) host feesten van 12-16 april (09:00-22:00) met een sterker cultureel accent dan in Bangkok, inclusief traditionele praalwagens en rituelen voor Boeddhabeelden.
-- **Pattaya:** Het Waterfestival duurt een volle week, met de beroemde Wan Lai-viering op 19 april als grootse afsluiter. Boek [hotels in Pattaya](/best-hotels/pattaya/) vroegtijdig, want het raakt snel vol.
+Die historische vaststelling is geen kalender voor een volgende editie. Data, evenementzones, parades, wegafsluitingen en veiligheidsmaatregelen moeten opnieuw officieel worden bevestigd. Kopieer nooit automatisch een schema met alleen het jaartal aangepast.
 
-## Waarom deze provinciale focus belangrijk is
+## Waarom ‘76 provincies’ niet betekent dat alles hetzelfde is
 
-In eerdere jaren concentreerde Songkran-toerisme zich sterk op Bangkok, Chiang Mai en Pattaya. Het plan van het Ministerie van Cultuur voor 76 provincies moet dat veranderen door financiering voor typische en moderne Songkran-evenementen bij tempels, culturele plekken en pleinen door heel het land.
+Een landelijke campagne maakt Songkran niet uniform. De culturele kern kan bestaan uit familiebezoek, respect voor ouderen, tempelactiviteiten, verdiensten en symbolische waterzegeningen. Openbare waterzones, muziekfestivals en commerciële evenementen hebben daarnaast hun eigen organisator en regels.
 
-Voor reizigers betekent dit dat je nu authentieke, kleinschalige Songkran-vieringen kunt ervaren in plekken als [Nakhon Si Thammarat](/best-hotels/nakhon-si-thammarat/) in het zuiden, [Udon Thani](/best-hotels/udon-thani/) in Isan — waar de [Rode Loteruszee ook een bezoek waard is](/blog/red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026/) — of [Sukhothai](/best-hotels/sukhothai/) in het onderste noorden, zonder de drukte van de grote-stads wateroorlogen. Een speciale vermelding voor [Phra Pradaeng's Mon-stijl Songkran](/blog/phra-pradaeng-songkran-2026-mon-culture-samut-prakan/) in Samut Prakan, net buiten Bangkok, met een van de meest onderscheidende culturele vieringen van het land.
+In een kleinere stad kan de spirituele of lokale laag zichtbaarder zijn dan in een bekende feeststraat. Kijk daarom wat bewoners doen voordat je meedoet. Een zachte zegening is geen uitnodiging voor een harde waterstraal. Vraag toestemming voor portretten en kleed je passend bij een tempel.
 
-## Wat te verwachten bij provinciale vieringen
+UNESCO beschrijft Songkran als het traditionele Thaise nieuwjaar en niet uitsluitend als waterfeest. Die context blijft bruikbaar nadat een jaarkalender is verlopen.
 
-Elke provincie geeft het festival zijn eigen twist, maar veelvoorkomende elementen zijn:
+## Hoe je een toekomstige editie plant
 
-- **Rod Nam Dam Hua:** Het zachtjes gieten van geurend water over de handen van ouderen om respect te tonen — het traditionele hart van Songkran dat in de grote-stads spetterfeesten vaak verloren gaat.
-- **Tempelceremonies:** Verdienste opbouwen bij lokale tempels, zand Chedi-bouwen en processies met Boeddhabeelden. Bekijk [de etiquette en kledingvoorschriften voor Thaise tempels](/blog/thailand-temple-etiquette-dress-code-guide-2026/) voordat je gaat, voor een veilige en respectvolle ervaring.
-- **Lokale voedsel festivals:** Veel provincies combineren Songkran met regionale markten vol gerechten die je in Bangkok niet vindt. De [culinaire gids van het Thailand Tourism Festival](/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/) belicht regionale specialiteiten.
-- **Culturele optredens:** Traditionele dans, livemuziek en ambachtsdemonstraties die de lokale identiteit weerspiegelen. Phuket's [Andamanda Songkran poolparty](/blog/andamanda-phuket-day-songkran-pool-party-2026/) is een mooi voorbeeld van hoe provincies traditie mengen met moderne events.
+Kies eerst de regio op basis van je hele Thailand-reis, niet alleen op een virale festivalvideo. Controleer daarna het programma bij de gemeente, TAT of de organisator. Een commerciële ticketpagina is alleen bron voor het eigen evenement, niet voor de hele stad.
 
-## Tips voor deelname aan provinciale Songkran
+Boek vervoer ruim, maar geef de voorkeur aan wijzigbare voorwaarden wanneer het lokale programma nog niet definitief is. Songkran is een drukke binnenlandse reisperiode. Treinen, bussen en vluchten kunnen snel vollopen en wegafsluitingen beïnvloeden de laatste kilometers naar je hotel.
 
-- **Boek vervoer vroeg.** De Songkran-week is de drukste binnenlandse reisperiode in Thailand. Treinen en bussen tussen Bangkok en regionale steden raken snel uitverkocht. Check [korting op luchtvaartstoelen](/blog/songkran-2026-airlines-discount-flights/) voordat ze weg zijn, of overweeg de [slaaptrein Bangkok–Chiang Mai](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) als alternatief. Vanuit Nederland is april de ideale reistijd, zonder regenseizoen-problemen.
-- **Bescherm je spullen.** Waterdichte tassen en hoesjes voor je telefoon zijn overal essentieel, niet alleen in Bangkok.
-- **Ken de regels.** Autoriteiten handhaven [waterpistool-regels en boetes in 2026](/blog/songkran-2026-water-gun-rules-fines-safety-guide/) — bepaalde zones en gedragingen zijn beperkt voor ieders veiligheid.
-- **Respecteer de tradities.** In kleinere steden leunt Songkran meer naar het spirituele dan het feesten. Volg lokale signalen — als ouderen waterzegeningsrituelen doen, doe zachtjes mee in plaats van je waterpistool te pakken.
-- **Check lokale data.** Sommige provincies verlengen de vieringen voorbij de officiële periode van 13-15 april. Pattaya's Wan Lai op 19 april is het bekendste voorbeeld. Voor een volledig overzicht bekijk de [Songkran 2026 festivalgids](/blog/songkran-festival-2026-guide/) met alle data en stadsinformatie.
+Bekijk [Thailand in april](/nl/thailand-in/april/) voor weer en reisritme. Gebruik per bestemming een eigen stadspagina, bijvoorbeeld [Bangkok](/nl/city/bangkok/) of [Chiang Mai](/nl/city/chiang-mai/), zodat evenement en verblijf logisch op elkaar aansluiten.
 
-Heb je Khao San Road en de Chiang Mai-gracht al afgevinkt? Maak 2026 het jaar om te ontdekken hoe Songkran eruitziet in de rest van Thailand. De watergevechten zijn misschien kleiner, maar de tradities gaan dieper.
+## Veiligheid en spullen
+
+Bescherm telefoon, documenten en medicijnen waterdicht. Draag schoenen met grip en neem droge kleding mee. Spuit niet op bestuurders, monniken, ouderen, kleine kinderen of mensen die niet deelnemen. Gebruik geen gevaarlijke druk en gooi geen water vanaf rijdende voertuigen.
+
+Alcohol vergroot risico in druk verkeer en op natte straten. Regel je terugreis voordat je gaat drinken en bestuur geen scooter. Controleer lokale regels; maatregelen uit 2026 zijn niet automatisch geldig voor een volgende editie.
+
+## Eén duurzame owner
+
+Nieuwe landelijke informatie, veiligheidskaders en culturele uitleg horen voortaan bij de Songkran-hoofdgids. Een lokale viering met een aantoonbaar eigen keuzeproces kan wel een aparte owner verdienen, zoals Phra Pradaeng met zijn Mon-context. Een generieke lijst van alle provincies niet.
+
+Deze archieftekst legt de consolidatie uit en voorkomt dat verlopen toekomsttaal stil blijft staan. Gebruik voor verdere planning de centrale gids en controleer vervolgens de officiële lokale bron voor jouw concrete bestemming en reisjaar.

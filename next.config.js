@@ -325,6 +325,12 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/songkran-2026-76-provinces-nationwide-celebrations-guide/",
+        destination: "/nl/blog/songkran-festival-2026-guide/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

@@ -1,41 +1,53 @@
 ---
-title: "Singapore Airlines plant directe vluchten naar Chiang Mai in 2026"
+title: "Singapore Airlines–Chiang Mai: routeclaim niet bevestigd"
 slug: "singapore-airlines-chiang-mai-nonstop-flights-2026"
 date: "2026-03-23"
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 author:
-  name: "Go2Thailand Editorial"
-image: "/images/blog/thailand-travel.jpg"
-tags: ["thailand", "chiang-mai", "vluchten", "singapore-airlines", "luchtvaart", "directe vlucht chiang mai", "thailand reis 2026", "chiang mai tips"]
-summary: "Singapore Airlines overweegt directe vluchten van Singapore naar Chiang Mai, de derde bestemming in Thailand na Bangkok en Phuket. Boek je reis en ontdek het noorden van Thailand makkelijker vanuit Europa, inclusief aansluitingen via Changi."
+  name: "Go2Thailand redactie"
+category: "transport"
+tags: ["Singapore Airlines Chiang Mai", "Singapore Chiang Mai vlucht", "routecontrole"]
+image: "/images/redesign/editorial/singapore-airlines-chiang-mai-nonstop-flights-2026-hero.webp"
+description: "De beweerde non-stopdienst van Singapore Airlines naar Chiang Mai is niet officieel bevestigd."
+featured: false
+readingTime: 6
 sources:
-  - "https://aviationa2z.com/index.php/2026/02/01/singapore-airlines-eyes-new-flights-to-this-thai-destination/"
-  - "https://www.travelandtourworld.com/news/article/singapore-airlines-explores-new-nonstop-route-to-chiang-mai-expanding-its-thai-network-to-include-the-popular-northern-destination-following-record-growth-in-bangkok-and-phuket/"
-  - "https://mainlymiles.com/2026/01/31/singapore-airlines-eyes-chiang-mai-for-further-thailand-expansion/"
-  - "https://www.travelandtourworld.com/news/article/singapore-and-thailand-strengthen-air-links-as-singapore-airlines-considers-new-chiang-mai-route/"
+  - name: "Singapore Airlines — Northern Summer 2026 network adjustments"
+    url: "https://www.singaporeair.com/en_UK/sg/corporate/newsroom/press-release/2026/january---march-2026/network_adjustments_2026_northern_summer/"
+  - name: "Singapore Airlines — Flights from Chiang Mai to Singapore"
+    url: "https://www.singaporeair.com/en-th/flights-from-chiang-mai-to-singapore"
 ---
 
-[Chiang Mai](/city/chiang-mai/) kan binnenkort zijn eerste full-service luchtvaartmaatschappij uit Singapore verwelkomen. Singapore Airlines (SQ) voert momenteel gesprekken met Thaise luchtvaartautoriteiten om directe vluchten te starten tussen Singapore Changi Airport en Chiang Mai International Airport, volgens meerdere bronnen in de luchtvaartsector.
+## Correctie op de oorspronkelijke nieuwskop
 
-## Een Derde Bestemming in Thailand voor Singapore Airlines
+Deze pagina meldde eerder dat Singapore Airlines in 2026 een eigen non-stopdienst tussen Singapore en Chiang Mai zou starten. Die formulering is niet voldoende onderbouwd. Op 1 augustus 2026 is in de gecontroleerde primaire bronnen geen officiële aankondiging gevonden die zo'n door Singapore Airlines zelf uitgevoerde nieuwe route bevestigt.
 
-Als de route wordt goedgekeurd, wordt Chiang Mai de derde bestemming van Singapore Airlines in Thailand, naast Bangkok en [Phuket](/blog/phuket-travel-guide-2026/). Deze uitbreiding volgt op de sterke groei die de airline heeft doorgemaakt op haar bestaande Thaise routes, met verhoogde frequenties naar zowel Bangkok Suvarnabhumi als Phuket gedurende 2025 en doorlopend in 2026.
+De officiële netwerkupdate voor het noordelijke zomerseizoen van 2026 bevestigt wél extra capaciteit tussen Singapore en Bangkok. Chiang Mai wordt daar niet als nieuwe SIA-route aangekondigd. Daarom staat deze pagina op noindex en wordt de oude claim niet meer als actueel reisadvies gepresenteerd.
 
-Deze stap weerspiegelt de groeiende vraag naar directe verbindingen naar Noord-Thailand vanuit belangrijke hubs in Zuidoost-Azië, gedreven door Chiang Mai's faam als culturele en wellnessbestemming die zowel recreatiereizigers als de [groeiende community van digitale nomaden](/blog/chiang-mai-cheapest-digital-nomad-city-2026/) aantrekt.
+## Waarom een boekingspagina geen bewijs is
 
-## Nu Alleen Bedient door Scoot
+Een luchtvaartmaatschappij kan een reis tonen of verkopen zonder ieder segment zelf uit te voeren. Het resultaat kan een codeshare, partnerluchtvaartmaatschappij of overstap bevatten. Zelfs een pagina met de tekst “vluchten van Chiang Mai naar Singapore” bewijst dus niet dat een non-stopvlucht door Singapore Airlines wordt uitgevoerd.
 
-De route Singapore-Chiang Mai wordt momenteel uitsluitend bediend door Scoot, de low-cost dochteronderneming van de Singapore Airlines Group. Scoot is gestart met vijf wekelijkse vluchten tussen Singapore en Chiang Mai met Airbus A321neo-vliegtuigen vanaf 1 januari 2026, als onderdeel van een [golf aan nieuwe luchtvaartlijnen naar Thailand](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/). Tijdens het rustiger schouderseizoen van april tot oktober reduceert Scoot de dienstverlening tot eenmaal daags met kleinere A320neo-jets.
+Controleer in een boekingsresultaat de regel “operated by” of “uitgevoerd door”. Kijk vervolgens naar het vluchtnummer, aantal segmenten en de luchthavens. Een reis die onder één ticket wordt verkocht, kan nog steeds een overstap hebben.
 
-Het toevoegen van het full-service product van Singapore Airlines op dezelfde route zou reizigers een premium alternatief bieden, met bredere stoelen, inbegrepen maaltijden en betere aansluitingen via het Changi Airport-netwerk naar bestemmingen in Australië, Europa en de Verenigde Staten – ideaal voor Nederlanders die via Schiphol of KLM willen overstappen.
+Ook de naam “Singapore Airlines Group” vraagt nuance. Een route van groepsmaatschappij Scoot is niet hetzelfde product als een door Singapore Airlines uitgevoerde vlucht. Bagage, cabine, stoel, service en voorwaarden kunnen verschillen.
 
-## Mogelijke Start Eind Oktober
+## Zo controleer je een verbinding naar Chiang Mai
 
-Experts in de sector suggereren dat als de regelgevers de route goedkeuren, een lancering eind oktober 2026 het meest strategisch zou zijn. Dit valt samen met de start van het hoogseizoen in Chiang Mai, wanneer koelere temperaturen en evenementen zoals het [Yi Peng-lantaarnfestival](/blog/loi-krathong-yi-peng-2026-festival-guide/) grote aantallen internationale bezoekers trekken – perfect om het regenseizoen te vermijden en de beste reistijd te benutten.
+Begin met je werkelijke vertrekpunt. Vanuit Nederland kan een reis via Bangkok, Singapore, Kuala Lumpur of een andere hub lopen. Vergelijk niet alleen totale vliegtijd, maar ook overstaptijd, terminalwissel, bagagedoorlabeling en bescherming bij vertraging.
 
-## Wat Dit Betekent voor Reizigers
+Vul je exacte datum in bij de maatschappij en lees per segment wie uitvoert. Controleer dezelfde gegevens in de bevestiging voordat je betaalt. Is een segment afzonderlijk geboekt, dan draag je vaak meer risico wanneer de eerste vlucht vertraagt en de tweede maatschappij je als no-show ziet.
 
-Een directe Singapore Airlines-vlucht naar Chiang Mai zou de bereikbaarheid aanzienlijk verbeteren voor reizigers uit Australië, Nieuw-Zeeland en andere regio's die via Changi reizen. Het versterkt ook [de positie van Chiang Mai als bestemming](/city/chiang-mai/) die kan concurreren met Bangkok en Phuket voor internationale aankomsten. [Thai Airways breidt ook haar internationale netwerk uit in 2026](/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/), met nieuwe routes naar Amsterdam, wat meer opties biedt voor langeafstandsreizigers vanuit Nederland.
+Let verder op bagagevoorwaarden. Een langeafstandstarief en een regionale aansluiting kunnen verschillende limieten hebben. Kijk naar ruimbagage, handbagage en kosten voor wijziging. Zet geen vaste prijs uit een oude zoekopdracht in je reisbudget; tarieven en beschikbaarheid veranderen voortdurend.
 
-Voorlopig kun je Scoot-vluchten op de route boeken, terwijl je uitkijkt naar een officiële aankondiging van Singapore Airlines later dit jaar. Eenmaal in Noord-Thailand kun je [Chiang Mai's Lanna-tempels en verborgen parels verkennen](/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/), een [Thaise kookcursus volgen](/blog/thai-cooking-classes-chiang-mai/) of zuidwaarts reizen per [nachtsleeptrein naar Bangkok](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) – of in luxe aan boord van de [Blue Jasmine-trrein](/blog/blue-jasmine-luxury-train-bangkok-chiang-mai-2026/). Zorg voor je papieren met de [gids voor de Thailand Digital Arrival Card](/blog/thailand-digital-arrival-card-tdac-guide/) en de [visagids voor 2026](/blog/thailand-visa-guide-2026/). Voor wie ook een strandvakantie overweegt, lees de [regels voor duiken en snorkelen bij de Similan-eilanden in 2026](/blog/similan-islands-diving-snorkelling-new-rules-2026/) voordat je naar de Andaman-kust gaat. [Hotels in Chiang Mai](/best-hotels/chiang-mai/) zijn ruim voorradig voor elk budget – een ideale uitvalsbasis om het noorden te verkennen voordat je verder reist.
----
+## Wat als je via Bangkok reist?
+
+Bangkok heeft veel binnenlandse verbindingen naar Chiang Mai. Controleer wel of je op dezelfde luchthaven aankomt en vertrekt. Een transfer tussen Suvarnabhumi en Don Mueang kost tijd en is geen gewone gatewissel. Bouw voldoende marge in voor immigratie, bagage, verkeer en opnieuw inchecken.
+
+Wie een paar dagen Bangkok wil toevoegen, kan de overstap juist als stopover plannen. Gebruik de [Bangkok-gids](/nl/city/bangkok/) en [Chiang Mai-gids](/nl/city/chiang-mai/) om de route op reisinhoud te beoordelen in plaats van op één onbevestigde luchtvaartkop. De algemene pagina [vliegen naar Thailand](/nl/flights/) helpt bij het vergelijken van actuele opties.
+
+## Publicatiebeleid voor luchtvaartroutes
+
+Go2Thailand behandelt een nieuwe route pas als bevestigd wanneer een primaire bron de uitvoerende maatschappij, route en startinformatie duidelijk noemt. Een nieuwsbericht over gesprekken, een verkooplandingspagina of een routemap zonder operationele details is onvoldoende.
+
+Zelfs na een officiële aankondiging blijven dienstregelingen veranderlijk. Controleer daarom kort voor vertrek de live vluchtstatus en berichten van de uitvoerende maatschappij. Deze gearchiveerde pagina blijft als transparante correctie bestaan, maar hoort niet als losse keyword-owner in de zoekresultaten.

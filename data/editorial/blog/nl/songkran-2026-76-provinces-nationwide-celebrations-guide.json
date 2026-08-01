@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "songkran-2026-76-provinces-nationwide-celebrations-guide",
+  "route": "/nl/blog/songkran-2026-76-provinces-nationwide-celebrations-guide/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Songkran in 76 provincies: samengevoegd met hoofdgids",
+    "description": "Deze verlopen Songkran 2026-pagina is samengevoegd met de centrale Songkran-gids voor landelijke planning, tradities en veiligheid.",
+    "primaryKeyword": "Songkran 2026 76 provincies",
+    "secondaryKeywords": ["Songkran heel Thailand", "Songkran provincies"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/songkran-2026-76-provinces-nationwide-celebrations-guide/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde evenementpagina",
+    "title": "Landelijke Songkran-informatie heeft één owner",
+    "accent": "Gebruik de centrale gids",
+    "description": "De editie van 2026 is voorbij en de landelijke zoekvraag hoort bij de bestaande Songkran-hoofdgids. Deze pagina blijft alleen als transparant archiefprofiel bestaan.",
+    "image": "/images/redesign/editorial/songkran-2026-76-provinces-nationwide-celebrations-guide-hero.webp",
+    "imageAlt": "Thaise familie die tijdens Songkran op respectvolle wijze water over de handen van ouderen giet",
+    "primaryCta": { "label": "Ga naar de Songkran-gids", "href": "/nl/blog/songkran-festival-2026-guide/" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-04-11", "endsOn": "2026-04-30", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "compact", "density": "standard" },
+  "quickAnswer": "De landelijke editie van Songkran 2026 is afgelopen. Deze route dupliceert de centrale Songkran-owner en moet permanent worden doorgestuurd naar /nl/blog/songkran-festival-2026-guide/.",
+  "blocks": [
+    { "kind": "callout", "id": "status", "tone": "warning", "title": "Duplicate en verlopen", "description": "Losse provinciale lijsten verouderen snel en concurreren met de hoofdgids. Nieuwe landelijke informatie hoort voortaan uitsluitend bij de centrale owner.", "cta": { "label": "Open de centrale gids", "href": "/nl/blog/songkran-festival-2026-guide/" } },
+    { "kind": "related", "id": "verder", "title": "Actuele planningspagina's", "items": [
+      { "title": "Songkran-hoofdgids", "description": "Landelijke context, cultuur en veiligheidskader.", "href": "/nl/blog/songkran-festival-2026-guide/" },
+      { "title": "Thailand in april", "description": "Plan weer en reisritme rond een toekomstige editie.", "href": "/nl/thailand-in/april/" }
+    ]},
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen van de verlopen editie", "items": [
+      { "title": "Songkran Festival 2026 nationwide", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/03/songkran-festival-2026-to-proceed-nationwide-welcoming-global-visitors-to-thailands-unesco-recognised-new-year-celebration/", "checkedAt": "2026-08-01", "note": "Historisch bewijs voor de verstreken landelijke editie." },
+      { "title": "Songkran in Thailand", "publisher": "UNESCO Intangible Cultural Heritage", "url": "https://ich.unesco.org/en/RL/songkran-in-thailand-traditional-thai-new-year-festival-01719", "checkedAt": "2026-08-01", "note": "Duurzame culturele context; geen toekomstige evenementenkalender." }
+    ]}
+  ]
+}
