@@ -1,5 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
+import { ArrowRight, ExternalLink } from 'lucide-react';
 import fs from 'fs';
 import path from 'path';
 import SEOHead from '../../components/SEOHead';
@@ -123,6 +124,9 @@ export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToSt
     return 'our booking partner';
   };
   const heroCta = bookingFor(hotel, 'hero');
+  const canonicalUrl = `https://go2-thailand.com/hotel/${data.hotelSlug}/`;
+  const verifiedSources = (hotel.sources || []).filter(source => Boolean(source?.sourceUrl));
+  const isSourceBacked = verifiedSources.length > 0;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -147,13 +151,115 @@ export default function HotelPage({ data, nlGuide, hasCategoryPage, hasWhereToSt
     name: hotel.name,
     description: hotel.description,
     ...(hotel.area && { address: { '@type': 'PostalAddress', addressLocality: hotel.area, addressRegion: cityName, addressCountry: 'TH' } }),
-    ...(hotel.bookingUrl && { url: hotel.bookingUrl }),
+    url: canonicalUrl,
+    ...(verifiedSources.length > 0 && { sameAs: verifiedSources.map(source => source.sourceUrl) }),
   };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.name,
+      item: `https://go2-thailand.com${item.href}`,
+    })),
+  };
+
+  const webPageJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    url: canonicalUrl,
+    name: isSourceBacked ? data.aiContent.metaTitle : `${hotel.name}: booking verification guide`,
+    description: isSourceBacked
+      ? data.aiContent.metaDescription
+      : `A practical checklist for verifying current rooms, location, policies and availability for ${hotel.name} before booking.`,
+    inLanguage: 'en',
+    ...(data.lastUpdated && { dateModified: data.lastUpdated }),
+  };
+
+  if (!isSourceBacked) {
+    const guideHref = hasWhereToStayPage
+      ? `/where-to-stay/${citySlug}/`
+      : hasCityPage
+        ? `/city/${citySlug}/`
+        : '/where-to-stay/';
+    const safeDescription = `Verify current rooms, location, policies and availability for ${hotel.name}. This listing is held out of search until its editorial facts have primary-source support.`;
+
+    return (
+      <>
+        <SEOHead title={`${hotel.name}: booking verification guide`} description={safeDescription}>
+          <link rel="canonical" href={canonicalUrl} />
+          <meta name="robots" content="noindex, follow" />
+          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageJsonLd) }} />
+        </SEOHead>
+
+        <div className="min-h-screen bg-canvas text-charcoal">
+          <section className="section-divider-bottom relative overflow-hidden bg-jade-dark py-14 text-white lg:py-20">
+            <div aria-hidden="true" className="pointer-events-none absolute inset-0 opacity-[0.14] [background-image:radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.35)_1px,transparent_0)] [background-size:22px_22px]" />
+            <div className="container-custom relative">
+              <Breadcrumbs items={breadcrumbs} />
+              <div className="mt-10 grid gap-10 lg:grid-cols-[1.08fr_0.92fr] lg:items-end lg:gap-16">
+                <div>
+                  <p className="eyebrow !text-saffron-light">Verify before you book</p>
+                  <h1 className="mt-4 max-w-4xl font-display text-[3.25rem] font-semibold leading-[0.88] tracking-[-0.045em] sm:text-[4.2rem] lg:text-[5rem]">{hotel.name}</h1>
+                  <p className="mt-5 max-w-2xl text-base font-medium leading-7 text-white/72">We have not yet found enough current first-party evidence to publish a factual hotel review. Use the live provider page to confirm the exact property, map pin, room, policies and total for your dates.</p>
+                  <div className="mt-8 flex flex-wrap gap-3">
+                    {heroCta && <a href={heroCta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-cream">Check live availability <ExternalLink size={14} /></a>}
+                    <Link href={guideHref} className="btn-ghost-light">Compare stays in {cityName} <ArrowRight size={14} /></Link>
+                  </div>
+                  <p className="mt-4 max-w-2xl text-[10px] font-medium leading-5 text-white/50">The availability button is a sponsored affiliate link. We may earn a commission without increasing your price. The provider controls the live listing, price and terms.</p>
+                </div>
+                <aside className="rounded-2xl border border-white/14 bg-white/[0.075] p-6 backdrop-blur-sm sm:p-8">
+                  <p className="text-[9px] font-extrabold uppercase tracking-[0.2em] text-saffron-light">Publication status</p>
+                  <h2 className="mt-3 font-display text-[2rem] font-semibold leading-tight">Comparison listing, not a verified review.</h2>
+                  <p className="mt-4 text-sm font-medium leading-6 text-white/66">We deliberately omit inherited ratings, fixed price bands, distances and amenity claims until a current primary source supports them.</p>
+                </aside>
+              </div>
+            </div>
+          </section>
+
+          <section className="section-divider-bottom py-14 lg:py-20">
+            <div className="container-custom grid gap-9 lg:grid-cols-[0.72fr_1.28fr]">
+              <div><p className="eyebrow">Four checks that matter</p><h2 className="heading-redesign">Match the room, location and terms—not just the name.</h2></div>
+              <div className="grid gap-4 sm:grid-cols-2">
+                {[
+                  ['Property identity', 'Match the full property name and map pin. Similar hotel names can point to a different beach or mainland location.'],
+                  ['Room and occupancy', 'Check the exact room type, bed setup, maximum occupancy and whether taxes or breakfast are included.'],
+                  ['Arrival logistics', 'Confirm the last transfer, pier or island-arrival instructions directly for your travel date.'],
+                  ['Cancellation terms', 'Read the provider’s live cancellation window, payment timing and refund conditions before checkout.'],
+                ].map(([title, description], index) => (
+                  <article key={title} className="rounded-2xl border border-jade/10 bg-white p-6 shadow-[0_14px_42px_rgba(18,63,54,0.06)]">
+                    <span className="grid h-10 w-10 place-items-center rounded-xl border border-saffron/25 bg-tonal text-xs font-extrabold text-saffron-dark">0{index + 1}</span>
+                    <h3 className="mt-5 font-display text-[1.55rem] font-semibold leading-none text-jade">{title}</h3>
+                    <p className="mt-3 text-xs font-medium leading-6 text-charcoal/66">{description}</p>
+                  </article>
+                ))}
+              </div>
+            </div>
+          </section>
+
+          <section className="bg-tonal py-14 lg:py-20">
+            <div className="container-custom rounded-3xl bg-jade p-7 text-white shadow-editorial-lift sm:p-10">
+              <p className="eyebrow !text-saffron-light">Keep comparing</p>
+              <div className="mt-3 flex flex-col justify-between gap-7 lg:flex-row lg:items-end">
+                <div><h2 className="font-display text-[2.75rem] font-semibold leading-[0.92]">Choose the area before the property.</h2><p className="mt-4 max-w-2xl text-sm font-medium leading-7 text-white/68">A destination guide gives you the wider transport and neighbourhood context this unverified listing cannot responsibly supply yet.</p></div>
+                <Link href={guideHref} className="btn-cream shrink-0">Open the {cityName} stay guide <ArrowRight size={14} /></Link>
+              </div>
+            </div>
+          </section>
+        </div>
+      </>
+    );
+  }
 
   return (
     <>
       <SEOHead title={data.aiContent.metaTitle} description={data.aiContent.metaDescription}>
-        <link rel="canonical" href={`https://go2-thailand.com/hotel/${data.hotelSlug}/`} />
+        <link rel="canonical" href={canonicalUrl} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageJsonLd) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(hotelJsonLd) }} />
         {faqJsonLd && (
           <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />

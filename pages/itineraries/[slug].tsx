@@ -220,21 +220,22 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
   const seoTitle = itinerary.seo?.metaTitle || `${itinerary.title} | Go2Thailand`;
   const seoDescription = itinerary.seo?.metaDescription || itinerary.description;
 
-  // Generate FAQs (auto-generated + from data)
+  // Decision-led FAQs avoid presenting legacy example budgets or broad weather
+  // windows as current quotes or guarantees.
   const autoFaqs = [
     {
-      question: `How much does ${itinerary.duration} days in Thailand cost?`,
-      answer: `A ${itinerary.duration}-day trip to Thailand costs approximately ${itinerary.budget.budget} on a budget, ${itinerary.budget.mid} for mid-range travel, and ${itinerary.budget.luxury} for a luxury experience. This includes accommodation, food, transport, and activities.`
+      question: `How should I budget for this ${itinerary.duration}-day Thailand itinerary?`,
+      answer: `Price the route in travel order: current intercity transport, accommodation in each base, then optional activities. Compare the final total and cancellation terms with the provider because fares and availability change by date.`
     },
     {
-      question: `What is the best time to visit ${itinerary.region} Thailand?`,
+      question: `When should I use this ${itinerary.region} Thailand itinerary?`,
       answer: itinerary.bestTime
-        ? `The best time to visit ${itinerary.region} Thailand is ${itinerary.bestTime}. This period offers the most favorable weather and fewer crowds.`
-        : `The best time to visit Thailand is generally November to February during the cool, dry season. However, this can vary by region.`
+        ? `${itinerary.bestTime} is the broad planning window supplied with this route. Weather differs by coast and year, so check current forecasts, marine warnings and operator status before each exposed leg.`
+        : `Thailand's conditions vary by region and coast. Check current forecasts, marine warnings and operator status before each exposed leg rather than relying on one national season rule.`
     },
     {
       question: `Is ${itinerary.duration} days enough for Thailand?`,
-      answer: `Yes, ${itinerary.duration} days is ${itinerary.duration <= 3 ? 'enough for a focused trip to one area' : itinerary.duration <= 7 ? 'a great amount of time to explore multiple destinations' : 'plenty of time for a comprehensive Thailand experience'}. This itinerary covers ${itinerary.cities?.join(', ') || itinerary.region} with a well-planned day-by-day schedule.`
+      answer: `${itinerary.duration} days can work for ${itinerary.duration <= 3 ? 'one compact base' : itinerary.duration <= 7 ? 'a focused route with limited base changes' : 'a broader route with deliberate recovery time'}. This plan covers ${itinerary.cities?.join(', ') || itinerary.region}; remove a stop if transfers leave too little usable time.`
     }
   ];
   const allFaqs = [...autoFaqs, ...(itinerary.faqs || [])];
@@ -277,10 +278,6 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
     }))
   };
 
-  // Extract numeric budget value from string like "$150-200" -> "150"
-  const budgetMatch = itinerary.budget?.budget?.match(/\$?([\d,]+)/);
-  const budgetValue = budgetMatch ? budgetMatch[1].replace(/,/g, '') : undefined;
-
   const howToJsonLd = {
     "@context": "https://schema.org",
     "@type": "HowTo",
@@ -289,13 +286,6 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
     "totalTime": `P${itinerary.duration}D`,
     "image": toAbsoluteImageUrl(itinerary.image),
     "url": `https://go2-thailand.com/itineraries/${itinerary.slug}/`,
-    ...(budgetValue ? {
-      "estimatedCost": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": budgetValue
-      }
-    } : {}),
     "step": itinerary.days?.map((day) => {
       const activitiesSummary = day.activities
         ?.map(a => a.name)
@@ -367,7 +357,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                   <span className="bg-thailand-blue text-white px-3 py-1 rounded text-sm font-semibold">
                     {itinerary.region}
                   </span>
-                  {itinerary.budget && (
+                  {itinerary.budget?.budget && (
                     <span className="bg-white/20 backdrop-blur-sm text-white px-3 py-1 rounded text-sm font-semibold">
                       From {itinerary.budget.budget}
                     </span>
@@ -850,18 +840,6 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         <span className="text-gray-600">{tr('Region:', 'Regio:')}</span>
                         <span className="font-medium">{itinerary.region}</span>
                       </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">Budget:</span>
-                        <span className="font-medium text-thailand-blue">{itinerary.budget?.budget}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">{tr('Mid-Range:', 'Midden:')}</span>
-                        <span className="font-medium text-thailand-blue">{itinerary.budget?.mid}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">Luxury:</span>
-                        <span className="font-medium text-thailand-red">{itinerary.budget?.luxury}</span>
-                      </div>
                       {itinerary.bestTime && (
                         <div className="flex justify-between">
                           <span className="text-gray-600">{tr('Best Time:', 'Beste Tijd:')}</span>
@@ -875,13 +853,13 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{tr('Book Your Trip', 'Boek Je Reis')}</h3>
                     <p className="text-gray-600 text-sm mb-4">
-                      {tr('Get the best deals on hotels, transport, and activities for this itinerary.', 'Vind de beste deals voor hotels, transport en activiteiten voor deze reisroute.')}
+                      {tr('Check current hotel, transport and activity availability for this route. Compare the final total and conditions before paying.', 'Vind de beste deals voor hotels, transport en activiteiten voor deze reisroute.')}
                     </p>
                     <div className="space-y-3">
                       <a
                         href={trackAffiliate(TWELVEGO_GENERIC, 'sidebar-book-trip-primary')}
                         target="_blank"
-                        rel="noopener noreferrer sponsored"
+                        rel="noopener noreferrer nofollow sponsored"
                         className="block bg-[#F59E0B] text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-[#D97706] transition-colors text-sm"
                       >
                         12Go Asia - Buses, Trains & Ferries
@@ -889,7 +867,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                       <a
                         href={trackAffiliate(BOOKING_GENERIC, 'sidebar-book-trip-secondary')}
                         target="_blank"
-                        rel="noopener noreferrer sponsored"
+                        rel="noopener noreferrer nofollow sponsored"
                         className="block bg-[#003580] text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-[#00224f] transition-colors text-sm"
                       >
                         Booking.com - Hotels
@@ -897,7 +875,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                       <a
                         href={trackAffiliate(KLOOK_GENERIC, 'sidebar-book-trip-tertiary')}
                         target="_blank"
-                        rel="noopener noreferrer sponsored"
+                        rel="noopener noreferrer nofollow sponsored"
                         className="block bg-[#FF5722] text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-[#e64a19] transition-colors text-sm"
                       >
                         Klook - Activities & Tours
@@ -1042,6 +1020,15 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     return String(val);
   };
 
+  // Legacy route files contain time-sensitive example prices. Keep the useful
+  // planning copy in rendered/serialized props, but remove those old quotes so
+  // readers are sent to providers for the current total instead.
+  const stripLegacyPriceText = (value: string): string => value
+    .replace(/\s*\([^)]*(?:baht|THB|\$|\d[\d,.-]*\s*\/\s*(?:night|day|hour))[^)]*\)/gi, '')
+    .replace(/(?:\$\s*)?\d[\d,]*(?:\s*[-–]\s*(?:\$\s*)?\d[\d,]*)?\s*(?:baht|THB)(?:\s*\+\s*tolls)?/gi, 'current provider price')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+
   // Transform bilingual data to locale-specific strings
   const itinerary: Itinerary = {
     slug: rawItinerary.slug,
@@ -1054,9 +1041,9 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     cities: rawItinerary.cities || [],
     bestTime: rawItinerary.bestTimeToVisit || rawItinerary.bestTime || '',
     budget: {
-      budget: rawItinerary.budget?.budget?.total || '',
-      mid: rawItinerary.budget?.midrange?.total || rawItinerary.budget?.mid?.total || '',
-      luxury: rawItinerary.budget?.luxury?.total || '',
+      budget: '',
+      mid: '',
+      luxury: '',
     },
     days: (rawItinerary.days || []).map((day: any) => ({
       day: day.day,
@@ -1065,15 +1052,15 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       description: t(day.description),
       activities: (day.activities || []).map((act: any) => ({
         name: t(act.name),
-        description: t(act.tip || act.description),
-        cost: act.cost || '',
+        description: stripLegacyPriceText(t(act.tip || act.description)),
+        cost: '',
         duration: act.duration || '',
         type: act.type || '',
       })),
       meals: day.meals
         ? Object.entries(day.meals).map(([mealType, mealVal]: [string, any]) => ({
             meal: mealType.charAt(0).toUpperCase() + mealType.slice(1),
-            restaurant: t(mealVal),
+            restaurant: stripLegacyPriceText(t(mealVal)),
             cuisine: '',
             cost: '',
           }))
@@ -1081,17 +1068,17 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       accommodation: day.accommodation
         ? {
             budget: day.accommodation.budget
-              ? { name: t(day.accommodation.budget), price: '', link: '', description: '' }
+              ? { name: stripLegacyPriceText(t(day.accommodation.budget)), price: '', link: '', description: '' }
               : undefined,
             mid: (day.accommodation.midrange || day.accommodation.mid)
-              ? { name: t(day.accommodation.midrange || day.accommodation.mid), price: '', link: '', description: '' }
+              ? { name: stripLegacyPriceText(t(day.accommodation.midrange || day.accommodation.mid)), price: '', link: '', description: '' }
               : undefined,
             luxury: day.accommodation.luxury
-              ? { name: t(day.accommodation.luxury), price: '', link: '', description: '' }
+              ? { name: stripLegacyPriceText(t(day.accommodation.luxury)), price: '', link: '', description: '' }
               : undefined,
           }
         : undefined,
-      transport: t(day.transport),
+      transport: stripLegacyPriceText(t(day.transport)),
     })),
     transport: (rawItinerary.transportBetweenCities || rawItinerary.transport || [])
       .filter((seg: any) => seg && seg.from)
@@ -1101,11 +1088,11 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
         options: (seg.options || []).map((opt: any) => ({
           type: opt.mode || opt.type || '',
           duration: opt.duration || '',
-          cost: opt.cost || '',
+          cost: '',
           bookingLink: opt.bookingLink || opt.link || '',
         })),
       })),
-    budgetBreakdown: rawItinerary.budgetBreakdown || [],
+    budgetBreakdown: [],
     packingTips: rawItinerary.packingTips
       ? (Array.isArray(rawItinerary.packingTips)
           ? rawItinerary.packingTips
@@ -1132,7 +1119,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     description: '',
     highlights: item.highlights || [],
     budget: {
-      budget: item.budgetRange || '',
+      budget: '',
       mid: '',
       luxury: '',
     },

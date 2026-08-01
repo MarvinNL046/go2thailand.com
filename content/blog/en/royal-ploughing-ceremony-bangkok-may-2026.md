@@ -1,16 +1,24 @@
 ---
-title: "Royal Ploughing Ceremony 2026: Bangkok's Ancient Rice Ritual at Sanam Luang"
+title: "Royal Ploughing Ceremony Bangkok 2026: Event Recap"
 slug: "royal-ploughing-ceremony-bangkok-may-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "culture"
-tags: ["Royal Ploughing Ceremony", "Bangkok events", "Thai culture", "Sanam Luang", "May 2026", "Thai festivals"]
+tags:
+  [
+    "Royal Ploughing Ceremony",
+    "Bangkok events",
+    "Thai culture",
+    "Sanam Luang",
+    "May 2026",
+    "Thai festivals",
+  ]
 image: "/images/redesign/editorial/royal-ploughing-ceremony-bangkok-may-2026-hero.webp"
-description: "The Royal Ploughing Ceremony takes place on 11 May 2026 at Sanam Luang in Bangkok. Learn about this ancient Buddhist-Brahmin ritual that marks the start of the rice-growing season."
+description: "A recap of Bangkok's Royal Ploughing Ceremony on May 11, 2026, and the enduring Buddhist-Brahmin ritual marking the rice-growing season."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Nation Thailand — Royal Ploughing Ceremony: A royal rite to mark the rice-growing season"
     url: "https://www.nationthailand.com/life/art-culture/40049738"
@@ -19,6 +27,8 @@ sources:
   - name: "TimeAndDate — Royal Ploughing Ceremony Day 2026 in Thailand"
     url: "https://www.timeanddate.com/holidays/thailand/royal-ploughing-ceremony"
 ---
+
+> **Event status (updated 1 August 2026):** The 2026 ceremony has ended. This article documents that edition and its enduring cultural background; the date, public access and viewing arrangements for any future ceremony require a new official announcement.
 
 ## An Ancient Ritual Still Alive in 2026
 

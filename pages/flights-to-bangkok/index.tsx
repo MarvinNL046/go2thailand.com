@@ -83,7 +83,7 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
       {
         '@type': 'Question',
         name: 'When is the cheapest time to fly to Bangkok?',
-        acceptedAnswer: { '@type': 'Answer', text: 'May to early October (low season — south-west monsoon) prices drop 25–40% on most routes. The absolute cheapest fares cluster in mid-September and early November (just before high season starts) and again in late May/early June. Christmas/New Year, Chinese New Year (late Jan/early Feb) and Songkran (mid-April) are most expensive — book 4–6 months ahead for those windows.' }
+        acceptedAnswer: { '@type': 'Answer', text: 'There is no reliably cheapest month. Search flexible dates around your trip and compare the same fare class, baggage, connection and change conditions. Holiday and school-break demand can materially change the final total.' }
       },
       {
         '@type': 'Question',
@@ -146,7 +146,7 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
               </div>
             )}
             <div className="mt-5 flex flex-wrap gap-x-5 gap-y-1 text-xs opacity-90">
-              <span>✔ All {nonSearchCount} routes verified May 2026</span>
+              <span>✔ {nonSearchCount} routes with live-fare links</span>
               <span>✔ BKK + DMK both covered</span>
               <span>✔ 30-day cookie tracking</span>
               <span>✔ Honest airline notes</span>
@@ -191,7 +191,7 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
                 </tbody>
               </table>
             </div>
-            <p className="mt-3 text-xs text-gray-500">Prices are typical low-to-high bands in 2026 economy class — not promotional fares. Always confirm at booking.</p>
+            <p className="mt-3 text-xs text-gray-500">Price bands are planning guidance, not live quotes. Confirm the same itinerary, baggage and final payable total before booking.</p>
           </section>
 
           {/* Detailed sections per tier */}
@@ -316,7 +316,7 @@ export default function FlightsToBangkokPage({ routes, lastUpdated }: Props) {
           {/* Methodology */}
           <section className="rounded-2xl bg-gray-50 border border-gray-200 p-6 text-sm text-gray-700">
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">Methodology</h2>
-            <p>Routes verified May 2026 against Trip.com schedules and airline timetables. Price bands are typical economy fares (low-to-high) outside peak weeks, not promotional sales. Duration ranges include minimum reasonable layover time for 1-stop options. We earn a commission when readers book through Trip.com — this never changes the price you pay or the routes we recommend. Last verified May 2026.</p>
+            <p>Route and duration guidance is editorial context, while schedules, fares, baggage and connection rules remain live supplier information. Check the final itinerary and payable total before booking. We may earn commission through Trip.com links at no extra cost to you; this does not determine the editorial order.</p>
           </section>
         </div>
       </div>

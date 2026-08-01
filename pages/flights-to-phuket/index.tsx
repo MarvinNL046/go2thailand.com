@@ -116,7 +116,7 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
     {
       name: "When is the cheapest time to fly to Phuket?",
       answer:
-        "May to October (low season — south-west monsoon) prices drop 30–50% on most routes. The absolute cheapest fares cluster in mid-September and early November (just before high season starts). Christmas/New Year and Chinese New Year are most expensive — book 4–6 months ahead for those dates.",
+        "There is no reliably cheapest month. Search flexible dates around your trip and compare the same fare class, baggage, connection and change conditions. Holiday and school-break demand can materially change the final total.",
     },
     {
       name: "How long is the flight from Bangkok to Phuket?",
@@ -136,7 +136,7 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
     {
       name: "Should I book direct or via a search engine?",
       answer:
-        "For domestic Thailand routes (Bangkok / Chiang Mai / Koh Samui to Phuket), search engines like Trip.com or Skyscanner usually beat direct booking. For long-haul flights, comparing both is worth the 5 minutes — sometimes the airline's direct site has slightly better prices or includes seat selection that costs extra elsewhere. Always check baggage allowances before booking the cheapest fare.",
+        "Compare the same flight on the airline website and a booking provider. Headline fares can exclude baggage, seats or payment fees, while change and disruption support can differ. Decide using the final payable total and conditions.",
     },
   ];
 
@@ -256,7 +256,7 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
                 ✔{" "}
                 {isNl
                   ? "Alle 15 routes geverifieerd in mei 2026"
-                  : "All 15 routes verified May 2026"}
+                    : "15 routes with live-fare links"}
               </span>
               <span>
                 ✔{" "}
@@ -352,7 +352,7 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
             <p className="mt-3 text-xs text-gray-500">
               {isNl
                 ? "Prijzen zijn gangbare laag-tot-hoog ranges in 2026 economy class — geen aanbiedingstarieven. Controleer altijd bij het boeken."
-                : "Prices are typical low-to-high bands in 2026 economy class — not promotional fares. Always confirm at booking."}
+                : "Price bands are planning guidance, not live quotes. Confirm the same itinerary, baggage and final payable total before booking."}
             </p>
           </section>
 
@@ -732,7 +732,7 @@ export default function FlightsToPhuketPage({ routes, lastUpdated }: Props) {
             <p>
               {isNl
                 ? "Routes geverifieerd in mei 2026 op basis van Trip.com-schema's en airline-dienstregelingen. Prijsklassen zijn gangbare economy-tarieven (laag tot hoog) buiten piekweken, geen aanbiedingen. Reistijden voor 1-stop opties zijn inclusief minimale redelijke overstaptijd. Wij verdienen een commissie als lezers via Trip.com boeken — dit verandert nooit de prijs die je betaalt of de routes die we aanraden. Laatst gecheckt: mei 2026."
-                : "Routes verified May 2026 against Trip.com schedules and airline timetables. Price bands are typical economy fares (low-to-high) outside peak weeks, not promotional sales. Duration ranges include minimum reasonable layover time for 1-stop options. We earn a commission when readers book through Trip.com — this never changes the price you pay or the routes we recommend. Last verified May 2026."}
+                : "Route and duration guidance is editorial context, while schedules, fares, baggage and connection rules remain live supplier information. Check the final itinerary and payable total before booking. We may earn commission through Trip.com links at no extra cost to you; this does not determine the editorial order."}
             </p>
           </section>
         </div>

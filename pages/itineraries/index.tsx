@@ -15,7 +15,7 @@ import {
   TRIP_GENERIC,
   TWELVEGO_GENERIC,
 } from '../../lib/affiliates';
-import { getAllItineraries, toAbsoluteImageUrl } from '../../lib/itineraries';
+import { getAllItineraries } from '../../lib/itineraries';
 import { NlItinerariesDirectory } from '../../components/itineraries/NlItinerariesDirectory';
 
 interface Itinerary {
@@ -76,8 +76,8 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
   return (
     <>
       <SEOHead
-        title={isNl ? "Thailand Reisroutes 2026: Dag-voor-Dag Reisplannen | Go2Thailand" : "Thailand Itineraries 2026: Day-by-Day Travel Plans | Go2Thailand"}
-        description={isNl ? "Ontdek samengestelde Thailand reisroutes van 3 tot 10+ dagen. Dag-voor-dag plannen met budgetten, accommodatietips en vervoersgidsen voor elke reisstijl." : "Explore curated Thailand itineraries from 3 to 10+ days. Day-by-day plans with budgets, accommodation tips, and transport guides for every travel style."}
+        title={isNl ? "Thailand Reisroutes 2026: Dag-voor-Dag Reisplannen | Go2Thailand" : "Thailand Itineraries: Day-by-Day Route Ideas | Go2Thailand"}
+        description={isNl ? "Ontdek samengestelde Thailand reisroutes van 3 tot 10+ dagen. Dag-voor-dag plannen met budgetten, accommodatietips en vervoersgidsen voor elke reisstijl." : "Compare Thailand itinerary ideas from 3 days to two weeks, with realistic pacing, route order and links to check current transport and stays."}
         ogImage="https://go2-thailand.com/og-default.webp"
       >
         <meta name="keywords" content="Thailand itinerary, Thailand travel plan, Thailand trip planner, Thailand route, Thailand 7 days, Thailand 10 days, Thailand 2 weeks" />
@@ -106,7 +106,7 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                     {itineraries.length} {isNl ? 'Reisroutes' : 'Itineraries'}
                   </span>
                   <span className="text-gray-200 text-sm">
-                    {isNl ? 'Bijgewerkt voor 2026' : 'Updated for 2026'}
+                    {isNl ? 'Bijgewerkt voor 2026' : 'Routes for different trip lengths'}
                   </span>
                 </div>
                 <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">

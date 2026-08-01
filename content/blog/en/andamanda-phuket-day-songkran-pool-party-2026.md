@@ -1,16 +1,24 @@
 ---
-title: "Andamanda Phuket Hosts a Massive Songkran Pool Party on April 13-15, 2026"
+title: "Andamanda Phuket Songkran Pool Party 2026: Event Recap"
 slug: "andamanda-phuket-day-songkran-pool-party-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Andamanda Phuket", "Songkran 2026 Phuket", "pool party Thailand", "Songkran water park", "Phuket events April 2026", "waterpark Phuket"]
+tags:
+  [
+    "Andamanda Phuket",
+    "Songkran 2026 Phuket",
+    "pool party Thailand",
+    "Songkran water park",
+    "Phuket events April 2026",
+    "waterpark Phuket",
+  ]
 image: "/images/redesign/editorial/andamanda-phuket-day-songkran-pool-party-2026-hero.webp"
-description: "Andamanda Phuket turns Songkran into a three-day pool party from April 13-15, 2026 with DJs, wave pools, and waterslides. Here is what to expect and how to book."
+description: "A factual recap of Andamanda Phuket's Songkran pool party held April 13-15, 2026, plus evergreen water-park and future-event planning advice."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-28"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Andamanda Phuket — Day Songkran Festival 2026"
     url: "https://www.andamandaphuket.com/day-songkran-festival-2026"
@@ -19,6 +27,8 @@ sources:
   - name: "Phuket 101 — Songkran Festival Phuket 2026"
     url: "https://www.phuket101.net/songkran-phuket/"
 ---
+
+> **Event status (updated 1 August 2026):** This event ended on 15 April 2026. The programme and ticket details below are retained as a historical recap, not as an announcement for a future edition. Check the [official Andamanda website](https://www.andamandaphuket.com/) for current opening information and any new events.
 
 ## Songkran Meets Southeast Asia's Biggest Water Park
 

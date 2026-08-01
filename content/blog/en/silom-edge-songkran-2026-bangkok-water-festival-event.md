@@ -1,16 +1,24 @@
 ---
-title: "Silom Edge Songkran 2026: Bangkok's Biggest Water Party Returns to Silom Road"
+title: "Silom Edge Songkran 2026: Free Festival Recap"
 slug: "silom-edge-songkran-2026-bangkok-water-festival-event"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Songkran 2026", "Silom Road Bangkok", "Silom Edge Songkran", "Bangkok water festival", "Thai New Year 2026", "Bangkok events April 2026"]
+tags:
+  [
+    "Songkran 2026",
+    "Silom Road Bangkok",
+    "Silom Edge Songkran",
+    "Bangkok water festival",
+    "Thai New Year 2026",
+    "Bangkok events April 2026",
+  ]
 image: "/images/redesign/editorial/silom-edge-songkran-2026-bangkok-water-festival-event-hero.webp"
-description: "Silom Edge Songkran 2026 runs April 12-14 on Silom Road with DJs, a free concert and a massive water fight. Here is what to expect and how to plan your visit."
+description: "A recap of the free Silom Edge Songkran event held April 12-14, 2026, with historical programming and evergreen Silom travel context."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Nation Thailand — Bangkok's Silom Edge set for April Songkran event with free live concert"
     url: "https://www.nationthailand.com/blogs/news/tourism/40064000"
@@ -21,6 +29,8 @@ sources:
   - name: "TAGTHAi — Songkran 2026: The Ultimate Guide to Bangkok's Iconic Water Festival"
     url: "https://www.tagthai.com/explore/p/songkran-festival-bangkok-a-city-transformed-by-water"
 ---
+
+> **Event status (updated 1 August 2026):** This Songkran 2026 event has ended. The page remains a historical guide; free admission, operating hours and programming must be reconfirmed if a later edition is announced.
 
 ## Silom Road Is the Place to Be This Songkran
 

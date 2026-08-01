@@ -1,16 +1,25 @@
 ---
-title: "Thailand Tourism Festival 2026: The '5 Must Do' Food and Culture Highlights"
+title: "Thailand Tourism Festival 2026: '5 Must Do' Recap"
 slug: "thailand-tourism-festival-2026-5-must-do-food-culture-highlights"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Editorial"
 category: "events"
-tags: ["Thailand Tourism Festival 2026", "5 Must Do Thailand", "Bangkok events", "QSNCC", "Thai food festival", "Thai culture", "TAT"]
+tags:
+  [
+    "Thailand Tourism Festival 2026",
+    "5 Must Do Thailand",
+    "Bangkok events",
+    "QSNCC",
+    "Thai food festival",
+    "Thai culture",
+    "TAT",
+  ]
 image: "/images/redesign/editorial/thailand-tourism-festival-2026-5-must-do-food-culture-highlights-hero.webp"
-description: "The 44th Thailand Tourism Festival runs March 25-29 at QSNCC Bangkok, built around the '5 Must Do in Thailand' concept: Must Taste, Must Try, Must Buy, Must Seek, and Must See."
+description: "A recap of the 44th Thailand Tourism Festival's '5 Must Do in Thailand' food, culture, shopping, discovery and performance programme."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "TAT Newsroom — Thailand Tourism Festival 2026 spotlights 5 Must Do in Thailand"
     url: "https://www.tatnews.org/2026/03/thailand-tourism-festival-2026-spotlights-5-must-do-in-thailand-and-honours-her-majesty-queen-sirikit-the-queen-mother/"
@@ -21,6 +30,8 @@ sources:
   - name: "The Star — Thai tourism body unveils highlights of Travel Fair 2026"
     url: "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/21/thai-tourism-body-unveils-highlights-of-travel-fair-2026"
 ---
+
+> **Event status (updated 1 August 2026):** This festival ended on 29 March 2026. The five-pillar programme below is documented from TAT's official 2026 announcement and is retained for inspiration, not as a current event listing.
 
 ## Five Reasons to Visit, Under One Roof
 

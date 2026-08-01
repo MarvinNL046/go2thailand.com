@@ -5,7 +5,7 @@ import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import FadeInText from '../../components/FadeInText';
 import { getDrink, getAllDrinks } from '../../lib/drinks';
-import { useTranslation } from '../../hooks/useTranslation';
+import { DrinkEditorialGuideEn } from '../../components/food/DrinkEditorialGuideEn';
 import SEOHead from '../../components/SEOHead';
 
 interface DrinkPageProps {
@@ -16,10 +16,13 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
   const router = useRouter();
   const { locale } = router;
   const isNl = locale === 'nl';
-  const { t } = useTranslation('common');
 
   if (!drink) {
     return <div>Drink not found</div>;
+  }
+
+  if (!isNl) {
+    return <DrinkEditorialGuideEn drink={drink} />;
   }
 
   const regionSlugMap: Record<string, string> = {

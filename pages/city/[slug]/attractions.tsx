@@ -123,7 +123,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
     ...baseMetadata,
     title: isNl
       ? `Top Bezienswaardigheden in ${cityName} 2026 — Must-See Plekken`
-      : `Top Attractions in ${city.name.en} 2026 — Must-See Places`,
+      : `Top Attractions in ${city.name.en} | Route-Smart Guide`,
     description: isNl
       ? `Ontdek de beste bezienswaardigheden in ${cityName} met praktische routelogica, lokale context en de stops die je tijd echt waard zijn.`
       : `Explore the strongest attractions in ${city.name.en} with practical route logic, local context, and the stops that actually justify your time.`,
@@ -187,9 +187,9 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
         )}
       </SEOHead>
 
-      <div className="bg-surface-cream min-h-screen">
+      <div data-premium-template="destination-attractions" className="min-h-screen bg-canvas text-charcoal">
         {/* Hero Section */}
-        <section className="relative h-80 lg:h-96 overflow-hidden">
+        <section className="section-divider-bottom relative h-[28rem] overflow-hidden lg:h-[34rem]">
           <div className="absolute inset-0">
             <Image
               src={getCityImageForSection(city, 'attractions')}
@@ -198,7 +198,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
               className="object-cover"
               priority
             />
-            <div className="absolute inset-0 bg-surface-dark/70"></div>
+            <div className="absolute inset-0 bg-gradient-to-r from-jade/90 via-jade/62 to-jade/20"></div>
           </div>
 
           <div className="relative z-10 h-full flex items-center">
@@ -213,7 +213,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                   </span>
                 </div>
                 <p className="font-script text-thailand-gold text-sm mb-2">{isNl ? 'Ontdek' : 'Discover'}</p>
-                <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">
+                <h1 className="font-display text-5xl font-semibold leading-[0.92] tracking-[-0.04em] lg:text-7xl mb-4">
                   {isNl ? `Bezienswaardigheden in ${cityName}` : `Attractions in ${city.name.en}`}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
@@ -221,12 +221,6 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 </p>
               </div>
             </div>
-          </div>
-        </section>
-
-        {/* Header Banner Ad */}
-        <section className="bg-white py-4">
-          <div className="container-custom">
           </div>
         </section>
 
@@ -254,7 +248,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
         )}
 
         {/* Main Content */}
-        <section className="section-padding">
+        <section className="section-divider-bottom section-padding">
           <div className="container-custom">
             <div className="grid grid-cols-1 lg:grid-cols-4 gap-12">
               {/* Main Content */}
@@ -623,6 +617,16 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
             </div>
           </div>
         </section>
+
+        {!isNl && (
+          <section className="section-divider-top bg-tonal py-10">
+            <div className="container-custom max-w-4xl text-sm font-medium leading-6 text-charcoal/65">
+              <h2 className="font-display text-2xl font-semibold text-jade">Plan with current local information</h2>
+              <p className="mt-3">Opening hours, admission, access rules and weather disruptions can change. The cards are an editorial route-planning overview; verify the attraction's official channel or local tourism authority before a time-critical visit. Links to bookable activities are optional affiliate links and never determine the order of this guide.</p>
+              <p className="mt-3"><a href="https://www.tourismthailand.org/Destinations" target="_blank" rel="noopener noreferrer" className="font-extrabold text-jade underline decoration-saffron/50 underline-offset-4">Tourism Authority of Thailand destination information</a></p>
+            </div>
+          </section>
+        )}
 
         {/* Mobile Sticky Ad */}
       </div>

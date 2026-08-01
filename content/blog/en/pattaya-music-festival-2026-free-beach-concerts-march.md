@@ -1,16 +1,24 @@
 ---
-title: "Pattaya Music Festival 2026: Free Beach Concerts Every Weekend in March"
+title: "Pattaya Music Festival 2026: March Event Recap"
 slug: "pattaya-music-festival-2026-free-beach-concerts-march"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Pattaya Music Festival 2026", "Pattaya events", "free concerts Thailand", "Koh Larn", "Jomtien Beach", "Thai music festival"]
+tags:
+  [
+    "Pattaya Music Festival 2026",
+    "Pattaya events",
+    "free concerts Thailand",
+    "Koh Larn",
+    "Jomtien Beach",
+    "Thai music festival",
+  ]
 image: "/images/redesign/editorial/pattaya-music-festival-2026-free-beach-concerts-march-hero.webp"
-description: "The Pattaya Music Festival 2026 brings four weekends of free seaside concerts to Pattaya Beach, Jomtien, Koh Larn and Naklua. Here is the full schedule and what to expect."
+description: "A recap of Pattaya Music Festival's four free concert weekends in March 2026 across Pattaya Beach, Jomtien, Koh Larn and Naklua."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Nation Thailand — Sunset Beats: Pattaya Music Festival 2026"
     url: "https://www.nationthailand.com/life/entertainment/40063408"
@@ -23,6 +31,8 @@ sources:
   - name: "The Pattaya News — Week 3 on Koh Larn"
     url: "https://thepattayanews.com/2026/03/20/pattaya-music-festival-2026-kicks-off-week-3-on-koh-larn-with-star-studded-performances-at-samae-beach/"
 ---
+
+> **Event status (updated 1 August 2026):** Pattaya Music Festival 2026 ended on 28 March. The schedule below is historical and does not confirm dates or free admission for a later edition. Consult Tourism Authority of Thailand and Pattaya City announcements before planning a future visit.
 
 ## A Month of Music on the Beach
 

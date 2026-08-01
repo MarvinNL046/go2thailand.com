@@ -1,16 +1,23 @@
 ---
-title: "Earth Hour 2026 in Bangkok: Which Landmarks Go Dark on March 28"
+title: "Earth Hour 2026 in Bangkok: March 28 Event Recap"
 slug: "earth-hour-2026-bangkok-thailand-landmarks-lights-off"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Earth Hour 2026 Thailand", "Bangkok events March 2026", "Earth Hour Bangkok landmarks", "sustainable travel Thailand", "WWF Earth Hour"]
+tags:
+  [
+    "Earth Hour 2026 Thailand",
+    "Bangkok events March 2026",
+    "Earth Hour Bangkok landmarks",
+    "sustainable travel Thailand",
+    "WWF Earth Hour",
+  ]
 image: "/images/redesign/editorial/earth-hour-2026-bangkok-thailand-landmarks-lights-off-hero.webp"
-description: "Bangkok joins the 20th anniversary of Earth Hour on March 28, 2026. Find out which landmarks switch off their lights and how travellers can take part."
+description: "A recap of Bangkok's Earth Hour on March 28, 2026, including the global campaign context and evergreen ideas for lower-impact city travel."
 featured: false
 readingTime: 2
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Nation Thailand — Thailand invites public to join Earth Hour 2026 on March 28"
     url: "https://www.nationthailand.com/news/general/40064117"
@@ -21,6 +28,8 @@ sources:
   - name: "ASEAN NOW — Earth Hour: Bangkok Urges Residents to Dim Lights"
     url: "https://aseannow.com/topic/1389995-earth-hour-bangkok-urges-residents-to-dim-lights"
 ---
+
+> **Event status (updated 1 August 2026):** Earth Hour 2026 took place on 28 March. The date is confirmed by Earth Hour's official calendar; the visitor suggestions below now serve as a recap. Check [Earth Hour](https://www.earthhour.org/) for the next global date and local participation details.
 
 ## Bangkok Goes Dark for the 20th Anniversary
 

@@ -168,6 +168,11 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
     { name: isNl ? "Regio's" : 'Regions', href: '/region/' },
     { name: (isNl && region.name.nl) ? region.name.nl : (region.name[lang] || region.name.en), href: `/region/${region.slug}/` }
   ];
+  const pageUrl = `https://go2-thailand.com/region/${region.slug}/`;
+  const schemas = [
+    { '@context': 'https://schema.org', '@type': 'TouristDestination', name: region.name.en, description: region.description.en, url: pageUrl, image: toAbsoluteImageUrl(region.image), containedInPlace: { '@type': 'Country', name: 'Thailand' } },
+    { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: breadcrumbs.map((crumb, index) => ({ '@type': 'ListItem', position: index + 1, name: crumb.name, item: `https://go2-thailand.com${crumb.href}` })) },
+  ];
 
   return (
     <>
@@ -178,6 +183,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
       >
         <meta name="keywords" content={`${(region.name[lang] || region.name.en)}, Thailand, ${region.cities.join(', ')}, travel guide, attractions, culture`} />
         <meta property="og:type" content="website" />
+        {schemas.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">

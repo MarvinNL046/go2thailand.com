@@ -554,6 +554,179 @@
         "seo/audits/en-destination-season-subpillar-owner-2026-07-29.md"
       ],
       "note": "Both exceptional English best-time routes have explicit independent season-owner evidence."
+    },
+    {
+      "key": "en:destination-detail",
+      "status": "complete",
+      "evidence": [
+        "seo/research/en/2026-08-01-top-ten-destination-intent-refresh.md",
+        "seo/audits/en-destination-detail-family-2026-08-01.md"
+      ],
+      "note": "All 66 English city attraction and restaurant shortlist owners use the new shared premium renderer, evergreen intent boundaries, source trails, adjacent freshness safeguards and verified affiliate restraint."
+    },
+    {
+      "key": "en:hotel-detail",
+      "status": "complete",
+      "evidence": [
+        "seo/research/en/2026-08-01-satun-hotel-detail-source-review.md",
+        "seo/audits/en-hotel-detail-family-source-gate-2026-08-01.md"
+      ],
+      "note": "The English hotel-detail inventory is source-gated: 416 sourced records retain the full premium owner and ten unverifiable Satun records expose only a safe noindex verification state without unsupported commercial claims or rich-result markup."
+    },
+    {
+      "key": "en:itinerary",
+      "status": "complete",
+      "evidence": ["seo/audits/en-planning-families-2026-08-01.md"],
+      "note": "All fifteen English itinerary routes use evergreen decision-led planning, live-price safeguards, premium responsive templates and verified schema/internal-link boundaries."
+    },
+    {
+      "key": "en:island",
+      "status": "complete",
+      "evidence": ["seo/audits/en-planning-families-2026-08-01.md"],
+      "note": "All fourteen English island routes passed family-level source, season, schema, internal-link, affiliate-disclosure and responsive premium review."
+    },
+    {
+      "key": "en:region",
+      "status": "complete",
+      "evidence": ["seo/audits/en-planning-families-2026-08-01.md"],
+      "note": "All five English region routes now use evergreen metadata, responsive Next.js imagery, explicit collection/destination/breadcrumb schema and verified route-family navigation."
+    },
+    {
+      "key": "en:practical",
+      "status": "complete",
+      "evidence": ["seo/audits/en-planning-families-2026-08-01.md"],
+      "note": "All five English practical-information routes have current risk framing, premium shared presentation, explicit schema and primary-source safeguards where health or safety accuracy matters."
+    },
+    {
+      "key": "en:editorial",
+      "status": "in-progress",
+      "acceptedRoutes": [
+        "/blog/andamanda-phuket-day-songkran-pool-party-2026/",
+        "/blog/bangkok-songkran-2026-khaosan-road-safety-plan/",
+        "/blog/earth-hour-2026-bangkok-thailand-landmarks-lights-off/",
+        "/blog/kraftwerk-multimedia-tour-bangkok-may-2026-concert-guide/",
+        "/blog/pattaya-music-festival-2026-free-beach-concerts-march/",
+        "/blog/pattaya-pride-circuit-festival-asia-lgbtq-june-2026/",
+        "/blog/phra-pradaeng-songkran-2026-mon-culture-samut-prakan/",
+        "/blog/royal-ploughing-ceremony-bangkok-may-2026/",
+        "/blog/s2o-songkran-music-festival-2026-bangkok-edm-water-party/",
+        "/blog/siam-songkran-music-festival-2026-bangkok-guide/",
+        "/blog/silom-edge-songkran-2026-bangkok-water-festival-event/",
+        "/blog/songkran-festival-2026-guide/",
+        "/blog/thailand-tourism-festival-2026-5-must-do-food-culture-highlights/",
+        "/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/",
+        "/blog/thailand-travel-fair-2026-qsncc-bangkok/"
+      ],
+      "evidence": [
+        "seo/research/en/2026-08-01-editorial-event-lifecycle-primary-evidence.md",
+        "seo/audits/en-editorial-freshness-lifecycle-2026-08-01.md"
+      ],
+      "note": "The first fifteen volatile English event owners have explicit primary-source lifecycle review and recap framing. The remaining editorial queue is intentionally still open."
+    },
+    {
+      "key": "en:homepage",
+      "status": "complete",
+      "evidence": ["seo/audits/en-destination-support-families-2026-08-01.md"],
+      "note": "The English homepage has a distinct owner, complete premium template, accessible destination search, canonical/hreflang/schema and transparent affiliate hand-offs."
+    },
+    {
+      "key": "en:destination-index",
+      "status": "complete",
+      "evidence": [
+        "seo/research/en/2026-08-01-destination-support-families-current-web.md",
+        "seo/audits/en-destination-support-families-2026-08-01.md"
+      ],
+      "note": "The English destination directory now has evergreen intent, explicit CollectionPage/ItemList/Breadcrumb schema, premium design and verified browse/navigation boundaries."
+    },
+    {
+      "key": "en:destination-subpillar:attractions",
+      "status": "complete",
+      "evidence": [
+        "seo/research/en/2026-08-01-destination-support-families-current-web.md",
+        "seo/audits/en-destination-support-families-2026-08-01.md"
+      ],
+      "note": "All 34 English destination attraction overviews use the safe detail-owner boundary, evergreen premium renderer, current-information caveat and structured collection graph."
+    },
+    {
+      "key": "en:destination-subpillar:weather",
+      "status": "complete",
+      "evidence": [
+        "seo/research/en/2026-08-01-destination-support-families-current-web.md",
+        "seo/audits/en-destination-support-families-2026-08-01.md"
+      ],
+      "note": "All eleven English city weather routes are accepted: dedicated researched owners remain authoritative and fallback owners derive seasonal labels from their own data with forecast and source safeguards."
+    },
+    {
+      "key": "en:comparison",
+      "status": "complete",
+      "evidence": ["seo/audits/en-destination-support-families-2026-08-01.md"],
+      "note": "The English Phuket-versus-Krabi comparison has independent copy, premium decision-led design, current-option affiliate language and verified WebPage/FAQ/Breadcrumb schema."
+    },
+    {
+      "key": "en:commercial-landing",
+      "status": "complete",
+      "evidence": ["seo/audits/en-commercial-hotel-location-families-2026-08-01.md"],
+      "note": "All 53 English commercial routes use premium owner templates with live-total safeguards, no unsupported savings or availability guarantees, contextual disclosed affiliate actions and verified technical output."
+    },
+    {
+      "key": "en:hotel-guide",
+      "status": "complete",
+      "evidence": ["seo/audits/en-commercial-hotel-location-families-2026-08-01.md"],
+      "note": "All 187 English hotel-guide routes are covered by current-total-safe shared premium owners, contextual Trip.com actions, exact canonical/alternate policies and verified structured data."
+    },
+    {
+      "key": "en:location-directory",
+      "status": "complete",
+      "evidence": ["seo/audits/en-commercial-hotel-location-families-2026-08-01.md"],
+      "note": "All 54 English location directories have premium shared presentation, accessible current-stay actions, natural cluster navigation and deliberate paired or English-only hreflang output."
+    },
+    {
+      "key": "en:phuket-location",
+      "status": "complete",
+      "evidence": ["seo/audits/en-commercial-hotel-location-families-2026-08-01.md"],
+      "note": "All fifteen English Phuket location owners retain independent premium components, relevant schema, natural internal links and contextual disclosed hotel, activity or transport actions."
+    },
+    {
+      "key": "en:attraction-detail",
+      "status": "complete",
+      "evidence": [
+        "seo/research/en/2026-08-01-attraction-detail-family-source-gate.md",
+        "seo/audits/en-attraction-detail-family-2026-08-01.md"
+      ],
+      "note": "The attraction-detail family is source-gated with the same enhanced-first resolver used at runtime: 99 source-backed owners are indexable, the 41 audited unsourced records are safely noindex without affiliate modules, and all published records use safe schema/map behavior."
+    },
+    {
+      "key": "en:food-drink",
+      "status": "complete",
+      "evidence": [
+        "seo/research/en/2026-08-01-food-drink-family-primary-safety-review.md",
+        "seo/audits/en-food-drink-family-2026-08-01.md"
+      ],
+      "note": "All 72 English food and drink routes are accepted: two hubs, 45 source-backed premium dish owners and 25 premium drink owners with conservative schema, public-health boundaries and only four natural OneLink-compatible Amazon placements."
+    },
+    {
+      "key": "en:manual-review",
+      "status": "in-progress",
+      "acceptedRoutes": [
+        "/grand-palace-tickets/",
+        "/thailand-in/january/",
+        "/thailand-in/february/",
+        "/thailand-in/march/",
+        "/thailand-in/april/",
+        "/thailand-in/may/",
+        "/thailand-in/june/",
+        "/thailand-in/july/",
+        "/thailand-in/august/",
+        "/thailand-in/september/",
+        "/thailand-in/october/",
+        "/thailand-in/november/",
+        "/thailand-in/december/"
+      ],
+      "evidence": [
+        "seo/research/en/2026-08-01-manual-review-family-primary-source-gate.md",
+        "seo/audits/en-manual-review-family-2026-08-01.md"
+      ],
+      "note": "All twelve month owners now have a dedicated English premium source-bound template and Grand Palace has current official access evidence. The remaining manual owners stay open for page-specific verification."
     }
   ]
 }

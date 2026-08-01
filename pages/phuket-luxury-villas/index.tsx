@@ -368,7 +368,7 @@ export default function PhuketLuxuryVillasPillar({
             <p className="mt-3 text-xs text-gray-500">
               {isNl
                 ? "Prijzen zijn 2026 hoogseizoen-tarieven (dec–feb), exclusief 10% service + 7% btw. Mei–okt meestal 30–45% lager."
-                : "Prices are 2026 high-season rates (Dec–Feb), excluding 10% service + 7% VAT. May–Oct typically 30–45% cheaper."}
+                : "Price bands are planning guidance, not live quotes. Compare the same villa, dates, occupancy, taxes, service charges, meals and cancellation terms before booking."}
             </p>
           </section>
 
@@ -798,7 +798,7 @@ export default function PhuketLuxuryVillasPillar({
             <p>
               {isNl
                 ? "Tarieven en villa-specs geverifieerd in mei 2026 op Trip.com, Booking.com en de officiële website van elke resort voor early-juni 2026 boekingen. Resort-categorieën gevalideerd via Tripadvisor + recente Google reviews. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke resorts we aanraden."
-                : "Rates and villa specs verified May 2026 on Trip.com, Booking.com and each resort's official website for early-June 2026 bookings. Resort categorisations validated via Tripadvisor + recent Google reviews. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which resorts we recommend."}
+                : "Villa categories and planning notes are editorial context; current inventory, specifications, inclusions and prices remain with each provider. Confirm the exact unit and final payable total before booking. We may earn commission through listed affiliate links at no extra cost to you."}
             </p>
           </section>
         </div>

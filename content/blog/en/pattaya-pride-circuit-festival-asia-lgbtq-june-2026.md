@@ -1,16 +1,25 @@
 ---
-title: "Pattaya Pride and Circuit Festival Asia 2026: Thailand's Biggest LGBTQ+ Events This June"
+title: "Pattaya Pride and Circuit Festival Asia 2026: Event Recap"
 slug: "pattaya-pride-circuit-festival-asia-lgbtq-june-2026"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Team"
 category: "events"
-tags: ["Pattaya Pride 2026", "Circuit Festival Asia", "LGBTQ Thailand", "gay travel Thailand", "Pattaya events", "Pride parade Thailand", "Thailand June 2026"]
+tags:
+  [
+    "Pattaya Pride 2026",
+    "Circuit Festival Asia",
+    "LGBTQ Thailand",
+    "gay travel Thailand",
+    "Pattaya events",
+    "Pride parade Thailand",
+    "Thailand June 2026",
+  ]
 image: "/images/redesign/editorial/pattaya-pride-circuit-festival-asia-lgbtq-june-2026-hero.webp"
-description: "Pattaya hosts two major LGBTQ+ events in June 2026: Circuit Festival Asia (June 19-21) and Pattaya International Pride Festival (June 26-28). Here is everything travellers need to know."
+description: "A recap of Circuit Festival Asia and Pattaya International Pride Festival in June 2026, with evergreen Pattaya planning and safety advice."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Gay Travel 4U — Circuit Festival Asia Pattaya Thailand 2026"
     url: "https://www.gaytravel4u.com/event/circuit-festival-asia/"
@@ -21,6 +30,8 @@ sources:
   - name: "Travel Gay — Circuit Festival Asia 2026: parties, lineup, hotels"
     url: "https://www.travelgay.com/event/circuit-festival-asia-weekend"
 ---
+
+> **Event status (updated 1 August 2026):** Both June 2026 events covered here have ended. Dates, venues, line-ups and admission terms below belong to the 2026 editions; verify future events with their organisers before booking travel.
 
 ## Two Major Events, Two Weekends
 

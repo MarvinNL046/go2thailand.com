@@ -63,7 +63,9 @@ interface Attraction {
   fun_facts?: string[];
   googleMapsUrl?: string;
   contentSources?: Array<{
-    name: string;
+    name?: string;
+    title?: string;
+    creator?: string;
     url: string;
   }>;
 }
@@ -116,15 +118,37 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
     attraction.cultural_significance || '',
   ].join(' ');
   const wordCount = descriptionText.split(/\s+/).filter(Boolean).length;
-  const shouldIndex = wordCount >= 100;
+  const editorialSources = (attraction.contentSources || [])
+    .filter((source) => typeof source.url === 'string' && /^https?:\/\//.test(source.url))
+    .map((source) => ({
+      name: source.name || source.title || source.creator || 'Editorial source',
+      url: source.url,
+    }));
+  const hasEditorialEvidence = editorialSources.length > 0;
+  const shouldIndex = wordCount >= 100 && hasEditorialEvidence;
 
-  // Hide affiliate widgets on pages with less than 300 words
-  const showAffiliates = wordCount >= 300;
+  // Commercial modules only belong on source-backed, substantial owners.
+  const showAffiliates = wordCount >= 300 && shouldIndex;
+  const canonicalUrl = `https://go2-thailand.com${isNl ? '/nl' : ''}/city/${city.slug}/attractions/${attraction.slug}/`;
+  const hasOfficialWebsite = Boolean(attraction.official_website && /^https?:\/\//.test(attraction.official_website));
+  const seoTitle = metadata.title.length >= 30
+    ? metadata.title
+    : `${attractionName}: ${cityName} visit guide`;
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.name,
+      item: `https://go2-thailand.com${isNl ? '/nl' : ''}${item.href}`,
+    })),
+  };
 
   return (
     <>
       <SEOHead
-        title={metadata.title}
+        title={seoTitle}
         description={metadata.description}
         ogImage={toAbsoluteImageUrl(attraction.image)}
       >
@@ -151,24 +175,16 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                   "longitude": attraction.location.lng
                 }
               }),
-              ...(attraction.opening_hours && { "openingHours": attraction.opening_hours }),
-              ...(typeof attraction.entrance_fee.thb === 'number' && attraction.entrance_fee.thb > 0 && {
-                "isAccessibleForFree": false,
-                "offers": {
-                  "@type": "Offer",
-                  "price": attraction.entrance_fee.thb,
-                  "priceCurrency": "THB"
-                }
-              }),
-              ...(attraction.entrance_fee.thb === 0 && { "isAccessibleForFree": true }),
               "containedInPlace": {
                 "@type": "City",
                 "name": city.name.en
               },
-              "url": `https://go2-thailand.com/city/${city.slug}/attractions/${attraction.slug}`
+              "url": canonicalUrl,
+              ...(hasOfficialWebsite && { "sameAs": attraction.official_website })
             })
           }}
         />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
@@ -210,22 +226,22 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 
                 {/* Quick Info Bar */}
                 <div className="flex flex-wrap gap-4 mt-6">
-                  {typeof attraction.entrance_fee.thb === 'number' && attraction.entrance_fee.thb > 0 && (
+                  {hasOfficialWebsite && (
                     <div className="flex items-center bg-white/10 backdrop-blur-sm rounded-lg px-3 py-2">
                       <svg className="w-5 h-5 mr-2 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                         <path d="M8.433 7.418c.155-.103.346-.196.567-.267v1.698a2.305 2.305 0 01-.567-.267C8.07 8.34 8 8.114 8 8c0-.114.07-.34.433-.582zM11 12.849v-1.698c.22.071.412.164.567.267.364.243.433.468.433.582 0 .114-.07.34-.433.582a2.305 2.305 0 01-.567.267z" />
                         <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-13a1 1 0 10-2 0v.092a4.535 4.535 0 00-1.676.662C6.602 6.234 6 7.009 6 8c0 .99.602 1.765 1.324 2.246.48.32 1.054.545 1.676.662v1.941c-.391-.127-.68-.317-.843-.504a1 1 0 10-1.51 1.31c.562.649 1.413 1.076 2.353 1.253V15a1 1 0 102 0v-.092a4.535 4.535 0 001.676-.662C13.398 13.766 14 12.991 14 12c0-.99-.602-1.765-1.324-2.246A4.535 4.535 0 0011 9.092V7.151c.391.127.68.317.843.504a1 1 0 101.51-1.31c-.562-.649-1.413-1.076-2.353-1.253V5z" clipRule="evenodd" />
                       </svg>
-                      <span>฿{attraction.entrance_fee.thb} / ${attraction.entrance_fee.usd}</span>
+                      <span>{isNl ? 'Controleer actuele toegang' : 'Check current admission'}</span>
                     </div>
                   )}
                   
-                  {attraction.opening_hours && (
+                  {hasOfficialWebsite && (
                     <div className="flex items-center bg-white/10 backdrop-blur-sm rounded-lg px-3 py-2">
                       <svg className="w-5 h-5 mr-2 text-thailand-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
-                      <span>{attraction.opening_hours}</span>
+                      <span>{isNl ? 'Controleer actuele tijden' : 'Check current hours'}</span>
                     </div>
                   )}
                   
@@ -473,8 +489,8 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                   </div>
                 )}
 
-                {attraction.contentSources && attraction.contentSources.length > 0 && (
-                  <Sources sources={attraction.contentSources} />
+                {editorialSources.length > 0 && (
+                  <Sources sources={editorialSources} locale={lang} />
                 )}
 
                 {/* Fun Facts */}
@@ -518,7 +534,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 {showAffiliates && (
                   <div className="bg-surface-cream rounded-2xl p-8">
                     <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                      {isNl ? 'Boek Deze Ervaring' : 'Book This Experience'}
+                      {isNl ? 'Controleer Actuele Ervaringen' : 'Check Current Experiences'}
                     </h3>
                     <p className="text-gray-600 text-center mb-6">
                       {isNl
@@ -535,7 +551,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                         <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
                         </svg>
-                        {isNl ? 'Boek op Klook' : 'Book on Klook'}
+                        {isNl ? 'Bekijk actuele opties op Klook' : 'Check live options on Klook'}
                       </a>
                       <a
                         href="https://getyourguide.tpo.lv/GuAFfGGK?subid=city-attraction"
@@ -546,7 +562,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                         <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                         </svg>
-                        {isNl ? 'Boek op GetYourGuide' : 'Book on GetYourGuide'}
+                        {isNl ? 'Bekijk actuele opties op GetYourGuide' : 'Check live options on GetYourGuide'}
                       </a>
                     </div>
                     <p className="text-xs text-gray-500 text-center mt-4">
@@ -594,21 +610,12 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <div className="text-sm font-medium">{attraction.address}</div>
                     </div>
 
-                    {attraction.opening_hours && (
-                      <div>
-                        <div className="text-sm text-gray-600 mb-1">{isNl ? 'Openingstijden:' : 'Hours:'}</div>
-                        <div className="text-sm font-medium">{attraction.opening_hours}</div>
-                      </div>
-                    )}
-
                     <div>
-                      <div className="text-sm text-gray-600 mb-1">{isNl ? 'Toegangsprijs:' : 'Entrance Fee:'}</div>
+                      <div className="text-sm text-gray-600 mb-1">{isNl ? 'Tijden en toegang:' : 'Hours and admission:'}</div>
                       <div className="text-sm font-medium">
-                        {attraction.entrance_fee.thb === 0
-                          ? (isNl ? 'Gratis' : 'Free')
-                          : attraction.entrance_fee.thb == null
-                            ? (isNl ? 'Controleer actuele prijzen' : 'Check current pricing')
-                            : `฿${attraction.entrance_fee.thb} / $${attraction.entrance_fee.usd}`}
+                        {isNl
+                          ? 'Deze gegevens kunnen wijzigen. Controleer ze vlak voor vertrek bij de locatie.'
+                          : 'These details can change. Verify them with the venue shortly before you travel.'}
                       </div>
                     </div>
 
@@ -626,7 +633,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       </>
                     )}
 
-                    {attraction.official_website && (
+                    {hasOfficialWebsite && (
                       <div>
                         <a 
                           href={attraction.official_website}
@@ -652,21 +659,16 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       href={attraction.googleMapsUrl || `https://www.google.com/maps/search/?api=1&query=${attraction.location.lat},${attraction.location.lng}`}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block aspect-w-16 aspect-h-9 bg-gray-200 rounded-lg overflow-hidden hover:opacity-90 transition-opacity"
+                      aria-label={isNl ? `Open ${attractionName} in Google Maps` : `Open ${attraction.name.en} in Google Maps`}
+                      className="group block rounded-2xl border border-jade/10 bg-tonal p-5 transition hover:-translate-y-0.5 hover:border-saffron/35"
                     >
-                      <img
-                        src={`https://maps.googleapis.com/maps/api/staticmap?center=${attraction.location.lat},${attraction.location.lng}&zoom=15&size=400x200&markers=color:red%7C${attraction.location.lat},${attraction.location.lng}&key=`}
-                        alt={isNl ? `Kaart van ${attractionName}` : `Map of ${attraction.name.en}`}
-                        className="w-full h-full object-cover"
-                        loading="lazy"
-                        onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
-                      />
-                      <div className="flex items-center justify-center text-sm text-thailand-blue font-medium mt-2">
+                      <div className="flex items-center text-sm font-semibold text-jade">
                         <svg className="w-4 h-4 mr-1" viewBox="0 0 24 24" fill="currentColor">
                           <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
                         </svg>
-                        {isNl ? 'Bekijk op Google Maps' : 'View on Google Maps'}
+                        {isNl ? 'Open de actuele locatie in Google Maps' : 'Open the current location in Google Maps'}
                       </div>
+                      <p className="mt-3 text-xs leading-5 text-charcoal/60">{attraction.address}</p>
                     </a>
                   </div>
                 )}

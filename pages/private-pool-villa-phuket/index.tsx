@@ -61,7 +61,7 @@ export default function PrivatePoolVillaPhuketPage({
   // Meta desc <155 with question hook
   const seoDescription = isNl
     ? "Op zoek naar een private pool villa in Phuket? Vergelijk 7 echte privé-zwembad villa's $700–10.000/nacht — geen gedeelde pool, eigen tuin gegarandeerd."
-    : "Looking for a private pool villa in Phuket? Compare 7 truly private pool villas $700–10,000/night — no shared pool, dedicated garden guaranteed.";
+    : "Compare seven Phuket pool-villa options by privacy layout, location and traveller fit, then verify the exact pool arrangement and current total before booking.";
 
   const canonical = `https://go2-thailand.com${isNl ? "/nl" : ""}/private-pool-villa-phuket/`;
 
@@ -745,7 +745,7 @@ export default function PrivatePoolVillaPhuketPage({
             <p>
               {isNl
                 ? "Privacy-criteria geverifieerd in mei 2026: zwembad-formaat, omsluiting (muur/hek), gedeelde toegang ja/nee — gecheckt via resort-floorplan + recente Tripadvisor-foto's. Tarieven van Trip.com en Booking.com voor early-juni 2026 boekingen. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke resorts we noemen."
-                : "Privacy criteria verified May 2026: pool size, enclosure (wall/fence), shared access yes/no — checked via resort floorplans and recent Tripadvisor photos. Rates from Trip.com and Booking.com for early-June 2026 bookings. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which resorts we cover."}
+                : "Privacy notes are editorial guidance based on available property information; room categories and pool access can change. Confirm the exact unit, exclusive-use arrangement and current payable total with the provider. We may earn commission through listed affiliate links at no extra cost to you."}
             </p>
           </section>
         </div>

@@ -1,472 +1,137 @@
-import { GetStaticProps, GetStaticPaths } from 'next';
-import { useRouter } from 'next/router';
+import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
-import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
-import Breadcrumbs from '../../../components/Breadcrumbs';
-import SEOHead from '../../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
-import CityExploreMore from '../../../components/CityExploreMore';
+import SEOHead from '../../../components/SEOHead';
+import TopTenEditorialGuide, { TopTenGuideItem } from '../../../components/city/TopTenEditorialGuide';
+import { getCityBySlug } from '../../../lib/cities';
 
 interface City {
   id: number;
   slug: string;
-  name: { en: string; nl: string; };
+  name: { en: string; nl: string };
   region: string;
   province: string;
   image: string;
 }
 
-interface AttractionItem {
-  rank: number;
-  name: string;
+interface Source {
+  title: string;
+  creator: string;
+  url: string;
   description?: string;
-  location?: string;
-  current_price?: string;
-  highlights?: string[];
-  insider_tips?: string[];
-  current_info?: string;
-  story?: string;
-  why_locals_love_it?: string;
-  price_reality?: string;
-  location_details?: string;
-  personal_moment?: string;
 }
 
-interface Top10AttractionsData {
+interface AttractionsData {
   title: string;
   meta_description: string;
   intro: string;
-  items: AttractionItem[];
-  city_slug: string;
-  city_name: string;
-  category: string;
-  content_sources?: Array<{
-    title: string;
-    creator: string;
-    url: string;
-    description?: string;
-  }>;
-  data_sources?: string[];
+  items: TopTenGuideItem[];
+  content_sources?: Source[];
   last_perplexity_update?: string;
   generated_at: string;
-  hybrid?: boolean;
 }
 
-interface Top10AttractionsPageProps {
+interface Props {
   city: City;
-  attractionsData: Top10AttractionsData | null;
+  attractionsData: AttractionsData | null;
   editorial?: string;
 }
 
-export default function Top10AttractionsPage({ city, attractionsData, editorial }: Top10AttractionsPageProps) {
-  const { locale } = useRouter();
-  const isNl = locale === 'nl';
+function evergreen(text: string) {
+  return text
+    .replace(/\s*\(?2026\)?/gi, '')
+    .replace(/\s*[—–-]\s*with prices/gi, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
 
-  if (!city) return <div>City not found</div>;
-
-  const breadcrumbs = [
-    ...generateBreadcrumbs(city),
-    { name: 'Top 10 Attractions', href: `/city/${city.slug}/top-10-attractions/` }
-  ];
-
-  // If no data, show coming soon
+export default function Top10AttractionsPage({ city, attractionsData, editorial }: Props) {
   if (!attractionsData) {
     return (
-      <>
-        <SEOHead
-          title={`Top 10 Things to Do in ${city.name.en} 2026 — With Prices`}
-          description={`The 10 best attractions in ${city.name.en}, Thailand for 2026. Entrance fees, opening hours, how to get there, and tips to skip the crowds.`}
-        >
+      <main className="min-h-screen bg-canvas px-5 py-24 text-center text-charcoal">
+        <SEOHead title={`Things to do in ${city.name.en}`} description={`The ${city.name.en} attraction guide is being reviewed.`}>
           <meta name="robots" content="noindex, follow" />
         </SEOHead>
-
-        <div className="bg-surface-cream min-h-screen">
-          <section className="bg-white shadow-sm">
-            <div className="container-custom py-8">
-              <Breadcrumbs items={breadcrumbs} />
-              <div className="text-center py-16">
-                <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                  Top 10 Attractions in {city.name.en}
-                </h1>
-                <p className="text-xl text-gray-600 mb-8">
-                  Attraction recommendations for {city.name.en} are being prepared with entrance fees, hours, and insider tips.
-                </p>
-                <Link href={`/city/${city.slug}/`} className="btn-primary">
-                  ← Back to {city.name.en}
-                </Link>
-              </div>
-            </div>
-          </section>
-        </div>
-      </>
+        <p className="eyebrow">Guide under review</p>
+        <h1 className="mx-auto mt-4 max-w-3xl font-display text-5xl font-semibold leading-none text-jade">Things to do in {city.name.en}</h1>
+        <p className="mx-auto mt-5 max-w-xl text-sm leading-7 text-charcoal/65">We are checking access, planning details and source quality before publishing this shortlist.</p>
+        <Link href={`/city/${city.slug}/`} className="btn-primary mt-8">Back to {city.name.en}</Link>
+      </main>
     );
   }
 
+  const title = evergreen(attractionsData.title);
+  const description = evergreen(attractionsData.meta_description)
+    .replace(/entrance fees,?\s*/gi, 'planning details, ')
+    .replace(/opening hours,?\s*/gi, 'access notes, ');
   const reviewedDate = attractionsData.last_perplexity_update || attractionsData.generated_at;
   const reviewedLabel = reviewedDate
-    ? new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' }).format(new Date(reviewedDate))
+    ? new Intl.DateTimeFormat('en-GB', { month: 'long', year: 'numeric' }).format(new Date(reviewedDate))
     : null;
-  const hasSources = !!attractionsData.content_sources?.length;
+  const canonical = `https://go2-thailand.com/city/${city.slug}/top-10-attractions/`;
 
   return (
     <>
-      <SEOHead
-        title={attractionsData.title}
-        description={attractionsData.meta_description}
-      >
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Article",
-              "headline": attractionsData.title,
-              "description": attractionsData.meta_description,
-              "author": {
-                "@type": "Organization",
-                "name": "Go2Thailand"
-              },
-              "publisher": {
-                "@type": "Organization",
-                "name": "Go2Thailand"
-              },
-              "datePublished": attractionsData.generated_at,
-              "dateModified": attractionsData.last_perplexity_update || attractionsData.generated_at
-            })
-          }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "ItemList",
-              "name": attractionsData.title,
-              "description": attractionsData.meta_description,
-              "numberOfItems": attractionsData.items.length,
-              "itemListElement": attractionsData.items.map((item: AttractionItem) => ({
-                "@type": "ListItem",
-                "position": item.rank,
-                "name": item.name,
-                "url": `https://go2-thailand.com/city/${city.slug}/top-10-attractions/#attraction-${item.rank}`,
-                "item": {
-                  "@type": "TouristAttraction",
-                  "name": item.name,
-                  "description": item.description || item.story || '',
-                  "url": `https://go2-thailand.com/city/${city.slug}/top-10-attractions/#attraction-${item.rank}`,
-                  "hasMap": `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.name + ' ' + city.name.en + ' Thailand')}`
-                }
-              }))
-            })
-          }}
-        />
+      <SEOHead title={title} description={description} ogImage={city.image}>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: title,
+          description,
+          image: city.image,
+          mainEntityOfPage: canonical,
+          author: { '@type': 'Organization', name: 'Go2Thailand' },
+          publisher: { '@type': 'Organization', name: 'Go2Thailand' },
+          datePublished: attractionsData.generated_at,
+          dateModified: reviewedDate,
+        }) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'ItemList',
+          name: title,
+          numberOfItems: attractionsData.items.length,
+          itemListElement: attractionsData.items.map((item) => ({
+            '@type': 'ListItem',
+            position: item.rank,
+            url: `${canonical}#attraction-${item.rank}`,
+            item: { '@type': 'TouristAttraction', name: item.name, description: item.description || item.story || '', url: `${canonical}#attraction-${item.rank}` },
+          })),
+        }) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/' },
+            { '@type': 'ListItem', position: 2, name: city.name.en, item: `https://go2-thailand.com/city/${city.slug}/` },
+            { '@type': 'ListItem', position: 3, name: 'Things to do', item: canonical },
+          ],
+        }) }} />
       </SEOHead>
-
-      <div className="bg-surface-cream min-h-screen">
-        {/* Header Section */}
-        <section className="bg-white shadow-sm">
-          <div className="container-custom py-8">
-            <Breadcrumbs items={breadcrumbs} />
-
-            <div className="text-center max-w-4xl mx-auto">
-              <span className="section-label">Top 10 Guide</span>
-              <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-6">
-                {attractionsData.title}
-              </h1>
-
-              <div className="text-lg text-gray-600 mb-8 leading-relaxed">
-                {attractionsData.intro}
-              </div>
-
-              {/* Trust signals */}
-              {(hasSources || reviewedLabel) && (
-                <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-gray-500 mb-6">
-                  {hasSources && (
-                    <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                      Primary sources linked below
-                    </span>
-                  )}
-                  {reviewedLabel && (
-                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      Reviewed {reviewedLabel}
-                    </span>
-                  )}
-                </div>
-              )}
-            </div>
-
-            {/* Header Banner Ad */}
-            <div className="mt-8">
-            </div>
-          </div>
-        </section>
-
-        {/* Editorial Introduction */}
-        {editorial && (
-          <div className="max-w-4xl mx-auto px-4 py-6">
-            <p className="text-lg text-gray-700 leading-relaxed">{editorial}</p>
-          </div>
-        )}
-
-        {/* Main Content */}
-        <section className="section-padding">
-          <div className="container-custom">
-            <div className="lg:grid lg:grid-cols-12 lg:gap-8">
-
-              {/* Sidebar - Desktop */}
-              <aside className="hidden lg:block lg:col-span-3">
-                <div className="sticky top-4 space-y-6">
-                  {/* Sticky Sidebar Ad */}
-
-                  {/* Quick Navigation */}
-                  <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Quick Jump</h3>
-                    <div className="space-y-2">
-                      {attractionsData.items.slice(0, 5).map((item) => (
-                        <a
-                          key={item.rank}
-                          href={`#attraction-${item.rank}`}
-                          className="block text-sm text-gray-600 hover:text-thailand-blue transition-colors"
-                        >
-                          #{item.rank} {item.name}
-                        </a>
-                      ))}
-                    </div>
-                  </div>
-
-                  {/* Visitor Tips */}
-                  <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Visitor Tips</h3>
-                    <div className="space-y-3 text-sm text-gray-600">
-                      <p>• Plan by zone so you spend less time backtracking between sights</p>
-                      <p>• Start early for cooler weather and softer light at outdoor attractions</p>
-                      <p>• Keep temple dress codes in mind if your route includes active religious sites</p>
-                      <p>• Build in water, shade, and a midday break during hotter months</p>
-                      <p>• Check return transport before staying out for sunset or evening visits</p>
-                    </div>
-                  </div>
-
-                  {/* City Info */}
-                  <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Explore More</h3>
-                    <div className="space-y-3">
-                      <Link href={`/city/${city.slug}/`} className="block text-thailand-blue hover:underline">
-                        {city.name.en} Guide
-                      </Link>
-                      <Link href={`/city/${city.slug}/top-10-restaurants/`} className="block text-thailand-blue hover:underline">
-                        Top 10 Restaurants
-                      </Link>
-                      <Link href={`/best-hotels/${city.slug}/`} className="block text-thailand-blue hover:underline">
-                        Top 10 Hotels
-                      </Link>
-                    </div>
-                  </div>
-                </div>
-              </aside>
-
-              {/* Main Content */}
-              <div className="lg:col-span-9">
-                <div className="space-y-8">
-                  {attractionsData.items.map((attraction, index) => (
-                    <div key={attraction.rank}>
-                      {/* Attraction Item */}
-                      <article
-                        id={`attraction-${attraction.rank}`}
-                        className="bg-white rounded-2xl shadow-md overflow-hidden"
-                      >
-                        <div className="p-6 lg:p-8">
-                          {/* Rank Badge */}
-                          <div className="flex items-start gap-4 mb-4">
-                            <div className="flex-shrink-0 w-12 h-12 bg-thailand-blue text-white rounded-xl flex items-center justify-center text-xl font-bold">
-                              {attraction.rank}
-                            </div>
-                            <div className="flex-1">
-                              <h2 className="text-2xl lg:text-3xl font-bold font-heading text-gray-900 mb-2">
-                                {attraction.name}
-                              </h2>
-                              {attraction.current_price && (
-                                <div className="text-lg text-green-600 font-semibold mb-2">
-                                  {attraction.current_price}
-                                </div>
-                              )}
-                              {attraction.location && (
-                                <div className="text-gray-600 mb-2">
-                                  {attraction.location}
-                                </div>
-                              )}
-                              <a
-                                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(attraction.name + ' ' + city.name.en + ' Thailand')}`}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="inline-flex items-center text-sm text-gray-500 hover:text-thailand-blue transition-colors"
-                                title="View on Google Maps"
-                              >
-                                <svg className="w-4 h-4 mr-1" viewBox="0 0 24 24" fill="currentColor">
-                                  <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
-                                </svg>
-                                View on Google Maps
-                              </a>
-                            </div>
-                          </div>
-
-                          {/* Description */}
-                          <div className="prose prose-lg max-w-none mb-6">
-                            <p>{attraction.description}</p>
-                            {attraction.story && (
-                              <div className="bg-surface-cream rounded-xl p-4 mt-4">
-                                <p className="italic">{attraction.story}</p>
-                              </div>
-                            )}
-                          </div>
-
-                          {/* Highlights */}
-                          {attraction.highlights && attraction.highlights.length > 0 && (
-                            <div className="flex flex-wrap gap-2 mb-4">
-                              {attraction.highlights.map((highlight, idx) => (
-                                <span
-                                  key={idx}
-                                  className="bg-thailand-blue/10 text-thailand-blue px-3 py-1 rounded-full text-sm font-medium"
-                                >
-                                  {highlight}
-                                </span>
-                              ))}
-                            </div>
-                          )}
-
-                          {/* Current Info */}
-                          {attraction.current_info && (
-                            <div className="bg-surface-cream border-l-4 border-thailand-red p-4 rounded-xl">
-                              <p className="text-gray-700 text-sm">
-                                <strong>{isNl ? 'Actuele Info:' : 'Current Info:'}</strong> {attraction.current_info}
-                              </p>
-                            </div>
-                          )}
-                        </div>
-                      </article>
-
-                      {/* Ad Placements */}
-                      {index === 2 && (
-                        <div className="my-8">
-                        </div>
-                      )}
-
-                      {index === 6 && (
-                        <div className="my-8">
-                        </div>
-                      )}
-                    </div>
-                  ))}
-
-                  {/* Bottom Banner Ad */}
-                  <div className="mt-12">
-                  </div>
-
-                  {/* Call to Action */}
-                  <div className="bg-white rounded-2xl shadow-md p-8 text-center">
-                    <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                      Ready to Explore {city.name.en}?
-                    </h3>
-                    <p className="text-gray-600 mb-6">
-                      Get the complete travel guide with dining, accommodation, and more local insights.
-                    </p>
-                    <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                      <Link href={`/city/${city.slug}/`} className="btn-primary">
-                        Complete {city.name.en} Guide
-                      </Link>
-                      <Link href={`/city/${city.slug}/top-10-restaurants/`} className="btn-secondary">
-                        Top 10 Restaurants
-                      </Link>
-                    </div>
-                  </div>
-
-                  {attractionsData.content_sources && attractionsData.content_sources.length > 0 && (
-                    <div className="bg-white rounded-2xl shadow-md p-8">
-                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
-                        Sources &amp; References
-                      </h3>
-                      <div className="space-y-3">
-                        {attractionsData.content_sources.map((source, index) => (
-                          <a
-                            key={index}
-                            href={source.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="block rounded-xl border border-gray-100 p-4 hover:border-gray-300 transition-colors"
-                          >
-                            <div className="font-medium text-gray-900">{source.title}</div>
-                            <div className="text-sm text-gray-500">by {source.creator}</div>
-                            {source.description && (
-                              <div className="text-sm text-gray-600 mt-1">{source.description}</div>
-                            )}
-                          </a>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="top-10-attractions" />
-      </div>
+      <TopTenEditorialGuide city={city} mode="attractions" title={title} intro={evergreen(attractionsData.intro)} items={attractionsData.items} editorial={editorial} sources={attractionsData.content_sources} reviewedLabel={reviewedLabel} />
     </>
   );
 }
 
-export const getStaticPaths: GetStaticPaths = async () => {
-  return { paths: [], fallback: 'blocking' };
-};
+export const getStaticPaths: GetStaticPaths = async () => ({ paths: [], fallback: 'blocking' });
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug, locale);
-
   if (!city) return { notFound: true };
+  if (locale === 'nl') return { redirect: { destination: `/nl/city/${slug}/attractions/`, permanent: true } };
 
-  if (locale === 'nl') {
-    return {
-      redirect: {
-        destination: `/nl/city/${slug}/attractions/`,
-        permanent: true,
-      },
-    };
-  }
-
-  // Try to load locale-specific top 10 attractions data, fallback to English
-  let attractionsData = null;
+  let attractionsData: AttractionsData | null = null;
   try {
-    const localePath = locale && locale !== 'en' ? path.join(process.cwd(), 'data', 'top10', locale, `${slug}-attractions.json`) : '';
-    const defaultPath = path.join(process.cwd(), 'data', 'top10', `${slug}-attractions.json`);
-    const dataPath = localePath && fs.existsSync(localePath) ? localePath : defaultPath;
-    if (fs.existsSync(dataPath)) {
-      const fileContent = fs.readFileSync(dataPath, 'utf8');
-      attractionsData = JSON.parse(fileContent);
-    }
-  } catch (error) {
-    // No top 10 attractions data found for this city
-  }
+    const dataPath = path.join(process.cwd(), 'data', 'top10', `${slug}-attractions.json`);
+    if (fs.existsSync(dataPath)) attractionsData = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+  } catch {}
 
   let editorial = '';
   try {
     const editorialsPath = path.join(process.cwd(), 'data', 'top10-editorials.json');
-    if (fs.existsSync(editorialsPath)) {
-      const editorials = JSON.parse(fs.readFileSync(editorialsPath, 'utf8'));
-      const key = `${slug}-attractions`;
-      if (editorials[key]?.en) {
-        editorial = editorials[key].en;
-      }
-    }
+    if (fs.existsSync(editorialsPath)) editorial = JSON.parse(fs.readFileSync(editorialsPath, 'utf8'))[`${slug}-attractions`]?.en || '';
   } catch {}
 
-  return {
-    props: {
-      city,
-      attractionsData,
-      editorial,
-    },
-    revalidate: 604800 // Revalidate daily
-  };
+  return { props: { city, attractionsData, editorial }, revalidate: 604800 };
 };

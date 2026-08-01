@@ -277,8 +277,8 @@ export default function AreaPage({ data }: Props) {
                       {h?.priceRange && <p className="text-xs text-gray-500 mt-0.5">{h.priceRange}</p>}
                       <p className="mt-2 text-sm text-gray-700">{s.why}</p>
                       {cta && (
-                        <a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="mt-3 inline-block text-sm font-semibold text-thailand-red hover:underline">
-                          {cta.specific ? 'Check rates →' : 'Search on Booking →'}
+                        <a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" aria-label={`Check the current total for ${h.name}`} className="mt-3 inline-block text-sm font-semibold text-thailand-red hover:underline">
+                          {cta.specific ? 'Check current total →' : 'Search live stays →'}
                         </a>
                       )}
                     </article>

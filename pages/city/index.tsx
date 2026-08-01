@@ -11,6 +11,7 @@ import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPa
 import { BOOKING_GENERIC, TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
 import DestinationIndexGuide from '../../components/destinations/DestinationIndexGuide';
+import { SourceMethodSection } from '../../components/design/SourceMethodSection';
 
 interface City {
   id: number;
@@ -62,6 +63,33 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, 'city-index', placement);
 
+  const canonicalUrl = 'https://go2-thailand.com/city/';
+  const collectionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${canonicalUrl}#webpage`,
+    url: canonicalUrl,
+    name: 'Thailand destinations: choose the right place for your trip',
+    description: `Compare ${cities.length} Thailand destination guides by region, travel style and practical trip fit.`,
+    inLanguage: 'en-GB',
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: cities.length,
+      itemListElement: cities.map((city, index) => ({
+        '@type': 'ListItem', position: index + 1, name: city.name.en,
+        url: `${canonicalUrl}${city.slug}/`,
+      })),
+    },
+  };
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://go2-thailand.com/' },
+      { '@type': 'ListItem', position: 2, name: 'Destinations', item: canonicalUrl },
+    ],
+  };
+
   if (isNl) {
     return <DestinationIndexGuide cities={cities} />;
   }
@@ -69,20 +97,20 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
   return (
     <>
       <SEOHead
-        title={isNl
-          ? "Thailand Stedengids 2026 — Beste Plekken om te Bezoeken"
-          : "Thailand Cities Guide 2026 — Best Places to Visit"}
-        description={isNl
-          ? "Ontdek de top steden in Thailand voor 2026. Bangkok, Chiang Mai, Phuket, Krabi en meer — hotels, eten, bezienswaardigheden en reistips voor elk budget."
-          : "Explore 10 top cities in Thailand for 2026. Bangkok, Chiang Mai, Phuket, Krabi and more — hotels, food, attractions, and travel tips for every budget."}
+        title="Thailand destinations: choose the right place for your trip"
+        description={`Compare ${cities.length} Thailand destinations by region and travel style, with honest trade-offs and practical city, food, attraction and weather guides.`}
+        ogImage="https://go2-thailand.com/images/redesign/krabi-destination-hero.webp"
       >
         <meta name="keywords" content={isNl
           ? "Thailand steden, Bangkok, Chiang Mai, Phuket, Pattaya, Krabi, Thailand bestemmingen, Thaise stedengids"
           : "Thailand cities, Bangkok, Chiang Mai, Phuket, Pattaya, Krabi, Thailand destinations, Thai cities guide"} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       </SEOHead>
 
       {/* Hero */}
-      <section className="bg-surface-cream pt-8 pb-12">
+      <div data-premium-template="destination-index" className="bg-canvas text-charcoal">
+      <section className="section-divider-bottom bg-tonal pt-28 pb-16 lg:pt-20">
         <div className="container-custom">
           <Breadcrumbs items={breadcrumbs} />
 
@@ -142,7 +170,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
         </div>
       </section>
 
-      <section className="bg-white py-8">
+      <section className="section-divider-bottom bg-canvas py-8">
         <div className="container-custom">
           <div className="max-w-5xl mx-auto">
             <TravelpayoutsRecoveryPanel
@@ -155,7 +183,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
       </section>
 
       {/* Cities Grid */}
-      <section className="section-padding bg-white" ref={gridAnim.ref}>
+      <section className="section-divider-bottom section-padding bg-canvas" ref={gridAnim.ref}>
         <div className="container-custom">
           {/* Results info */}
           <div className="mb-8">
@@ -205,7 +233,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
       </section>
 
       {/* Travel Guides */}
-      <section className="section-padding bg-surface-cream">
+      <section className="section-divider-bottom section-padding bg-tonal">
         <div className="container-custom">
           <div className="text-center mb-10">
             <span className="section-label">{isNl ? 'Ontdek Thailand' : 'Explore Thailand'}</span>
@@ -286,7 +314,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
       </section>
 
       {/* Regional Stats */}
-      <section className="bg-surface-dark py-14" ref={statsAnim.ref}>
+      <section className="section-divider-bottom bg-jade py-14" ref={statsAnim.ref}>
         <div className="container-custom">
           <div className="text-center mb-10">
             <span className="font-script text-thailand-gold text-lg mb-2 block">{isNl ? 'Steden per Regio' : 'Cities by Region'}</span>
@@ -321,7 +349,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
       </section>
 
       {/* Plan Your Trip */}
-      <section className="section-padding bg-surface-cream">
+      <section className="section-padding bg-tonal">
         <div className="container-custom">
           <div className="text-center mb-10">
             <span className="section-label">{isNl ? 'Plan Je Reis' : 'Plan Your Trip'}</span>
@@ -372,6 +400,17 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
           </p>
         </div>
       </section>
+      <SourceMethodSection
+        eyebrow="Sources & method"
+        title="A destination shortlist, not a universal ranking"
+        description="We group destinations by region and practical trip fit. Conditions, access and travel advice can change, so use the linked guide and official sources before committing to a route."
+        sources={[
+          { title: 'Destinations in Thailand', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Destinations', note: 'Official destination and regional context.' },
+          { title: 'Thailand travel advice', creator: 'UK Foreign, Commonwealth & Development Office', url: 'https://www.gov.uk/foreign-travel-advice/thailand', note: 'Current entry, safety and regional travel-advice context.' },
+          { title: 'Weather and warnings', creator: 'Thai Meteorological Department', url: 'https://www.tmd.go.th/en', note: 'Check current regional forecasts after choosing a destination.' },
+        ]}
+      />
+      </div>
     </>
   );
 }

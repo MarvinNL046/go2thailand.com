@@ -346,7 +346,7 @@ export default function BestHotelsCategoryPage({ data, relatedLinks }: Props) {
                           <td className="px-4 py-3 text-gray-700">{r.standout}</td>
                           <td className="px-4 py-3 text-gray-600 italic">{r.drawback}</td>
                           <td className="px-4 py-3">
-                            {cta && (<a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-thailand-red font-semibold hover:underline whitespace-nowrap">{cta.specific ? 'Check price →' : 'Search →'}</a>)}
+                            {cta && (<a href={cta.url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-thailand-red font-semibold hover:underline whitespace-nowrap">{cta.specific ? 'Check current total →' : 'Search live stays →'}</a>)}
                           </td>
                         </tr>
                       );

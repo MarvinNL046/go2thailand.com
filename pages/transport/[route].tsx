@@ -80,12 +80,6 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
     { name: `${fromCity.name.en} ${t('to', 'naar')} ${toCity.name.en}`, href: `/transport/${route.slug}` }
   ];
 
-  const cheapestOption = transportOptions.reduce((cheapest, o) => {
-    const price = parseInt(o.price.replace(/[^0-9]/g, ''));
-    const cheapestPrice = parseInt(cheapest.price.replace(/[^0-9]/g, ''));
-    return price < cheapestPrice ? o : cheapest;
-  });
-
   const faqs = [
     {
       question: t(
@@ -103,18 +97,18 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
         `Hoe lang duurt de reis van ${fromCity.name.en} naar ${toCity.name.en}?`
       ),
       answer: t(
-        `Travel times vary: ${transportOptions.map(o => `${o.method}: ${o.duration}`).join(', ')}.`,
+        `Indicative journey times vary by service and connection: ${transportOptions.map(o => `${o.method}: ${o.duration}`).join(', ')}. Check the live itinerary before booking.`,
         `Reistijden variëren: ${transportOptions.map(o => `${o.method}: ${o.duration}`).join(', ')}.`
       )
     },
     {
       question: t(
-        `What is the cheapest way from ${fromCity.name.en} to ${toCity.name.en}?`,
+        `How do I compare prices from ${fromCity.name.en} to ${toCity.name.en}?`,
         `Wat is de goedkoopste manier van ${fromCity.name.en} naar ${toCity.name.en}?`
       ),
       answer: t(
-        `The most budget-friendly option is ${cheapestOption.method.toLowerCase()} at ${cheapestOption.price}.`,
-        `De voordeligste optie is ${cheapestOption.method.toLowerCase()} voor ${cheapestOption.price}.`
+        `Compare the live total for your date, including transfers, luggage and payment fees. A headline fare is not necessarily the cheapest complete journey.`,
+        `Vergelijk voor je reisdatum de totaalprijs inclusief overstappen, bagage en betaalkosten.`
       )
     },
     {
@@ -124,25 +118,25 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
       ),
       answer: route.duration.flight
         ? t(
-            `Yes, flights take approximately ${route.duration.flight} and are the fastest option.`,
+            `A flight-based itinerary may be available. It can involve a connection or airport transfer, so verify the operating airline, stops and total door-to-door time for your date.`,
             `Ja, vluchten duren ongeveer ${route.duration.flight} en zijn de snelste optie.`
           )
         : t(
-            `There are no direct flights. The best alternatives are ${transportOptions.map(o => o.method.toLowerCase()).join(' or ')}.`,
+            `This guide does not list a flight-based itinerary. Search live inventory before assuming that a direct flight operates; ground or combined transport may be more practical.`,
             `Er zijn geen directe vluchten. De beste alternatieven zijn ${transportOptions.map(o => o.method.toLowerCase()).join(' of ')}.`
           )
     }
   ];
 
   return (
-    <div className="min-h-screen bg-surface-cream">
+    <div className="min-h-screen bg-surface-cream" data-premium-template="transport-route-en">
       <SEOHead
         title={t(
-          `${fromCity.name.en} to ${toCity.name.en} — Best Ways to Travel (2026)`,
+          `${fromCity.name.en} to ${toCity.name.en}: Transport Options`,
           `${fromCity.name.en} naar ${toCity.name.en} — Beste Manieren om te Reizen (2026)`
         )}
         description={t(
-          `Compare ${transportOptions.length} ways from ${fromCity.name.en} to ${toCity.name.en}. Buses, trains & flights. Prices from ${transportOptions.reduce((min, o) => { const p = parseInt(o.price.replace(/[^0-9]/g, '')); return p < min ? p : min; }, 99999).toLocaleString()} THB. Book online!`,
+          `Plan the journey from ${fromCity.name.en} to ${toCity.name.en}. Compare suitable route shapes, handoffs and live operator inventory before booking.`,
           `Vergelijk ${transportOptions.length} manieren van ${fromCity.name.en} naar ${toCity.name.en}. Bussen, treinen & vluchten. Prijzen vanaf ${transportOptions.reduce((min, o) => { const p = parseInt(o.price.replace(/[^0-9]/g, '')); return p < min ? p : min; }, 99999).toLocaleString()} THB. Boek online!`
         )}
       >
@@ -171,14 +165,14 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               "@context": "https://schema.org",
               "@type": "Article",
               "headline": t(
-                `${fromCity.name.en} to ${toCity.name.en}: Cheapest Routes & Prices`,
+                `${fromCity.name.en} to ${toCity.name.en}: transport planning guide`,
                 `${fromCity.name.en} naar ${toCity.name.en}: Goedkoopste Routes & Prijzen`
               ),
               "description": t(
                 `Compare ${transportOptions.length} ways to travel from ${fromCity.name.en} to ${toCity.name.en}. Distance: ${route.distance}.`,
                 `Vergelijk ${transportOptions.length} manieren om van ${fromCity.name.en} naar ${toCity.name.en} te reizen. Afstand: ${route.distance}.`
               ),
-              "dateModified": new Date().toISOString().split('T')[0],
+              "dateModified": "2026-08-01",
               "author": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com" },
               "publisher": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com", "logo": { "@type": "ImageObject", "url": siteLogoUrl } },
               "mainEntityOfPage": { "@type": "WebPage", "@id": `https://go2-thailand.com/transport/${route.slug}/` }
@@ -246,6 +240,11 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
           <div className="lg:col-span-2">
             {/* Transport Options */}
             <section className="space-y-6 mb-8">
+              {locale === 'en' && (
+                <div className="rounded-2xl border border-saffron/25 bg-saffron-pale p-5 text-sm leading-6 text-jade">
+                  <strong>Use these as planning shapes, not a timetable.</strong> Durations are broad estimates. Routes, direct services, fares and departure points can change; confirm the named operator and the complete live itinerary for your date.
+                </div>
+              )}
               {transportOptions.map((option, index) => (
                 <div key={index} className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-start justify-between mb-4">
@@ -259,8 +258,8 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       </div>
                     </div>
                     <div className="text-right">
-                      <div className="text-2xl font-bold text-green-600">{option.price}</div>
-                      <div className="text-sm text-gray-600">{option.duration}</div>
+                      <div className="text-sm font-bold text-jade">{t('Check live price', 'Controleer actuele prijs')}</div>
+                      <div className="text-sm text-gray-600">{t('Planning estimate:', 'Planningsindicatie:')} {option.duration}</div>
                     </div>
                   </div>
 
@@ -305,7 +304,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
                   <div className="mt-4 bg-surface-cream p-3 rounded-xl flex flex-wrap items-center justify-between gap-2">
                     <span className="text-sm text-gray-600">
-                      <strong>{t('Frequency:', 'Frequentie:')}</strong> {option.frequency}
+                      <strong>{t('Departures:', 'Frequentie:')}</strong> {t('check the live operator schedule', option.frequency)}
                     </span>
                     {/* Flight options use Trip.com partner URL; everything else uses 12Go */}
                     {option.method.toLowerCase().includes('flight') || option.method.toLowerCase().includes('vlucht') ? (
@@ -316,7 +315,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                           rel="noopener noreferrer nofollow sponsored"
                           className="bg-[#287dfa] text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-[#1a5ec4] transition-colors"
                         >
-                          {t('Find flights on Trip.com', 'Vluchten op Trip.com')} →
+                          {t('Check current flights on Trip.com', 'Vluchten op Trip.com')} →
                         </a>
                       ) : null
                     ) : (
@@ -326,7 +325,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                         rel="noopener noreferrer nofollow sponsored"
                         className="bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
                       >
-                        {t('Book on 12Go', 'Boek op 12Go')} →
+                        {t('Check current options on 12Go', 'Boek op 12Go')} →
                       </a>
                     )}
                   </div>
@@ -364,7 +363,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                   <h3 className="font-semibold font-heading mb-2">{t('Booking Advice', 'Boekadvies')}</h3>
                   <p className="text-gray-700">
                     {t(
-                      'Book flights 3-4 weeks in advance for best prices. Bus and train tickets can usually be purchased 1-2 days ahead, except during Thai holidays when advance booking is essential.',
+                      'Availability and booking windows vary by operator and travel date. Compare the complete itinerary early for Thai public holidays, then recheck departure point, luggage, connections and cancellation terms before paying.',
                       'Boek vluchten 3-4 weken van tevoren voor de beste prijzen. Bus- en treinkaartjes kunnen meestal 1-2 dagen van tevoren gekocht worden, behalve tijdens Thaise feestdagen wanneer vroeg boeken essentieel is.'
                     )}
                   </p>
@@ -469,14 +468,14 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               <h3 className="text-lg font-semibold font-heading mb-3">{t('Book Transport', 'Boek Transport')}</h3>
               <p className="text-sm text-gray-600 mb-4">
                 {t(
-                  `Book buses, trains, and ferries from ${fromCity.name.en} to ${toCity.name.en} on 12Go — Thailand's most popular transport booking platform.`,
+                  `Compare currently listed buses, trains, ferries and combined tickets for this journey. Confirm the operating company and every handoff before paying.`,
                   `Boek bussen, treinen en veerboten van ${fromCity.name.en} naar ${toCity.name.en} op 12Go — Thailand's populairste transport boekingsplatform.`
                 )}
               </p>
               <div className="space-y-2 mb-4">
                 {(locale === 'nl'
                   ? ['Direct e-ticket bevestiging', 'Vergelijk alle aanbieders & prijzen', 'Gratis annulering op de meeste tickets', '24/7 klantenservice']
-                  : ['Instant e-ticket confirmation', 'Compare all operators & prices', 'Free cancellation on most tickets', '24/7 customer support']
+                  : ['Check the named operator', 'Compare the complete journey total', 'Review luggage and transfer details', 'Read the ticket-specific cancellation terms']
                 ).map((f, i) => (
                   <div key={i} className="flex items-center text-xs text-gray-600">
                     <span className="text-green-500 mr-2">✓</span>{f}
@@ -489,10 +488,10 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                 rel="noopener noreferrer nofollow sponsored"
                 className="block w-full bg-thailand-red text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors"
               >
-                {t('Search on 12Go', 'Zoek op 12Go')} →
+                {t('Check current options on 12Go', 'Zoek op 12Go')} →
               </a>
               <p className="text-xs text-gray-500 mt-2 text-center">
-                {t('Affiliate link — we earn a small commission', 'Affiliate link — we verdienen een kleine commissie')}
+                {t('Sponsored link. We may earn a commission at no extra cost to you.', 'Affiliate link — we verdienen een kleine commissie')}
               </p>
             </div>
 
@@ -579,6 +578,17 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
           citySlug={toCity.slug}
           cityName={toCity.name.en}
         />
+        {locale === 'en' && (
+          <section className="mt-10 border-t border-jade/10 py-10" aria-labelledby="transport-sources">
+            <h2 id="transport-sources" className="font-display text-3xl font-semibold text-jade">Sources and checking method</h2>
+            <p className="mt-3 max-w-3xl text-sm leading-7 text-charcoal/65">Route cards are decision support rather than live schedules. Check rail services with the State Railway of Thailand, airport coverage with the Department of Airports, and the ticket-specific operator shown by the booking provider. Never infer a direct service from an airport pair alone.</p>
+            <ul className="mt-5 flex flex-wrap gap-3 text-sm font-bold text-jade">
+              <li><a className="underline decoration-saffron underline-offset-4" href="https://www.railway.co.th/" target="_blank" rel="noopener noreferrer">State Railway of Thailand</a></li>
+              <li><a className="underline decoration-saffron underline-offset-4" href="https://www.airports.go.th/" target="_blank" rel="noopener noreferrer">Department of Airports</a></li>
+              <li><a className="underline decoration-saffron underline-offset-4" href="https://www.tourismthailand.org/Faqs/3" target="_blank" rel="noopener noreferrer">Tourism Authority of Thailand transport FAQ</a></li>
+            </ul>
+          </section>
+        )}
       </div>
     </div>
   );
@@ -592,19 +602,19 @@ const generateTransportOptions = (route: any, locale: string = 'en'): TransportO
 
   if (route.duration.flight) {
     options.push({
-      method: t('Flight', 'Vlucht'),
+      method: t('Flight-based itinerary', 'Vlucht'),
       duration: route.duration.flight,
       price: getFlightPrice(route.distance),
-      frequency: t('Multiple daily flights', 'Meerdere dagelijkse vluchten'),
+      frequency: t('Check live departures', 'Meerdere dagelijkse vluchten'),
       comfort: 5,
       description: t(
-        'The fastest and most comfortable way to travel. Direct flights available with several airlines including Thai Airways, Bangkok Airways, and budget carriers.',
+        'A flight-based itinerary can reduce line-haul time, but may include a connection and airport transfers. Confirm the operating airline, airports, stops and total journey time.',
         'De snelste en comfortabelste manier om te reizen. Directe vluchten beschikbaar bij diverse luchtvaartmaatschappijen waaronder Thai Airways, Bangkok Airways en budgetmaatschappijen.'
       ),
       pros: [
-        t('Fastest travel time', 'Snelste reistijd'),
+        t('Potentially shorter line-haul time', 'Snelste reistijd'),
         t('Most comfortable', 'Meest comfortabel'),
-        t('Reliable schedule', 'Betrouwbaar schema'),
+        t('Useful when a suitable live itinerary exists', 'Betrouwbaar schema'),
         t('Airport lounges available', 'Luchthavenlounge beschikbaar')
       ],
       cons: [
@@ -627,7 +637,7 @@ const generateTransportOptions = (route: any, locale: string = 'en'): TransportO
       method: 'Bus',
       duration: route.duration.bus,
       price: getBusPrice(route.distance),
-      frequency: t('Departures every 1-2 hours', 'Vertrek elke 1-2 uur'),
+      frequency: t('Check live departures', 'Vertrek elke 1-2 uur'),
       comfort: 3,
       description: t(
         'Economical option with various classes available. VIP buses offer reclining seats and meals. Regular buses are basic but functional.',
@@ -659,7 +669,7 @@ const generateTransportOptions = (route: any, locale: string = 'en'): TransportO
       method: t('Train', 'Trein'),
       duration: route.duration.train,
       price: getTrainPrice(route.distance),
-      frequency: t('2-4 departures daily', '2-4 vertrekken per dag'),
+      frequency: t('Check the SRT timetable', '2-4 vertrekken per dag'),
       comfort: 4,
       description: t(
         'Scenic and comfortable journey through Thailand. Sleeper trains available for overnight routes with beds and dining cars.',
@@ -691,7 +701,7 @@ const generateTransportOptions = (route: any, locale: string = 'en'): TransportO
       method: t('Taxi/Private Car', 'Taxi/Privéauto'),
       duration: route.duration.taxi,
       price: getTaxiPrice(route.distance),
-      frequency: t('Available anytime', 'Altijd beschikbaar'),
+      frequency: t('Confirm availability', 'Altijd beschikbaar'),
       comfort: 4,
       description: t(
         'Door-to-door convenience with flexibility to stop along the way. Can be shared to reduce costs.',
@@ -723,10 +733,10 @@ const generateTransportOptions = (route: any, locale: string = 'en'): TransportO
       method: t('Ferry', 'Veerboot'),
       duration: route.duration.ferry,
       price: getFerryPrice(route.distance),
-      frequency: t('2-4 sailings daily', '2-4 vaarten per dag'),
+      frequency: t('Check seasonal sailings', '2-4 vaarten per dag'),
       comfort: 3,
       description: t(
-        'Scenic sea journey with outdoor decks. Various classes from basic seating to VIP cabins.',
+        'A ferry-based or combined sea-and-road itinerary may be listed for this corridor. Confirm the pier, land transfer, vessel, weather policy and every handoff.',
         'Schilderachtige zeereis met buitendekken. Diverse klassen van eenvoudige zitplaatsen tot VIP-hutten.'
       ),
       pros: [

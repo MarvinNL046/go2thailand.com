@@ -141,15 +141,15 @@ export default function FlightFromOriginPage({
     },
     {
       q: `What's the typical price for a flight from ${route.fromName} to Phuket?`,
-      a: `${route.priceBand}. Prices reflect typical 2026 economy fares — not promotional sales. ${route.tier === "domestic" ? "Book 4–6 weeks ahead for the best fares; budget airlines (AirAsia, Thai VietJet) are usually cheapest." : route.tier === "regional" ? "Book 6–8 weeks ahead. Tuesday/Wednesday departures often 20–30% cheaper than weekends." : "Book 3–4 months ahead for high season (Nov–Apr); 1–2 months for low season. Tuesday-Wednesday-Saturday departures typically cheapest."}`,
+      a: `${route.priceBand} is an editorial planning band, not a live quote. Fares vary by date, baggage, fare class, currency and connection. Compare the same itinerary and final payable total on the airline and booking provider before paying.`,
     },
     {
       q: `When is the cheapest time to fly from ${route.fromName} to Phuket?`,
-      a: `May to October (south-west monsoon low season) prices drop 30–50% on most routes. Mid-September and early November are often the cheapest weeks. Avoid Christmas/New Year, Chinese New Year (Jan/Feb) and Songkran (mid-April) — fares can be 2–3x normal.`,
+      a: `There is no reliably cheapest month or weekday. Search flexible dates around your trip, then compare the same baggage, connection and change conditions; holiday and school-break demand can materially change the total.`,
     },
     {
       q: `Should I book direct or via a search engine?`,
-      a: `${route.tier === "domestic" ? "For domestic Thailand routes, search engines like Trip.com or Skyscanner usually beat direct booking — Thai VietJet, AirAsia and Nok Air all sell through these platforms at the same price as direct." : "For " + route.tier + " routes, comparing both is worth the 5 minutes. Sometimes the airline's direct site has slightly better prices, includes seat selection that costs extra elsewhere, or has different baggage allowances."} Always check baggage rules before booking the cheapest fare.`,
+      a: `Compare the same flight on the airline website and a booking provider. The headline fare may omit baggage, seats or payment fees, while change and support conditions can differ. Choose only after checking the final total and who will handle disruptions.`,
     },
   ];
 

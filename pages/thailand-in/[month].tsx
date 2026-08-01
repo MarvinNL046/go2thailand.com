@@ -4,12 +4,12 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
-import Image from 'next/image';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import monthlyGuides from '../../data/monthly-guides.json';
 import { getAllCities } from '../../lib/cities';
 import ThailandMonthGuideNl from '../../components/planning/ThailandMonthGuideNl';
+import ThailandMonthGuideEn from '../../components/planning/ThailandMonthGuideEn';
 import { isMonthSlugNl } from '../../data/thailand-month-guides.nl';
 
 interface MonthlyGuide {
@@ -57,6 +57,16 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
     return (
       <ThailandMonthGuideNl
         slug={guide.slug}
+        previousMonth={previousMonth}
+        nextMonth={nextMonth}
+      />
+    );
+  }
+
+  if (!isNl) {
+    return (
+      <ThailandMonthGuideEn
+        guide={guide}
         previousMonth={previousMonth}
         nextMonth={nextMonth}
       />

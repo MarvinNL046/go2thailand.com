@@ -98,6 +98,18 @@ export default function PracticalInfoDetailPage({
     })),
   };
 
+  const articleJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: info.title[lang],
+    description: info.description[lang],
+    mainEntityOfPage: `https://go2-thailand.com${lang === "nl" ? "/nl" : ""}/practical-info/${info.slug}/`,
+    inLanguage: lang === "nl" ? "nl-NL" : "en-GB",
+    dateModified: info.last_updated,
+    author: { "@type": "Organization", name: "Go2Thailand" },
+    publisher: { "@type": "Organization", name: "Go2Thailand" },
+  };
+
   if (lang === "nl" && info.slug === "etiquette-culture") {
     return <ThailandEtiquetteGuide />;
   }
@@ -131,6 +143,10 @@ export default function PracticalInfoDetailPage({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
         />
       </SEOHead>
 
@@ -171,6 +187,16 @@ export default function PracticalInfoDetailPage({
         </section>
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          {lang === "en" && info.slug === "health-vaccinations" && (
+            <aside className="mb-8 rounded-2xl border border-jade/10 bg-white p-6 text-sm leading-6 text-gray-700 shadow-sm" aria-label="Health advice sources">
+              <h2 className="font-heading text-xl font-bold text-gray-900">Recheck health advice for your itinerary</h2>
+              <p className="mt-2">This guide helps you prepare questions; it is not individual medical advice. Recommendations depend on your health, vaccination history, destinations, season and activities. Check the current country guidance and speak to a qualified travel-health professional before departure.</p>
+              <div className="mt-4 flex flex-wrap gap-4">
+                <a className="font-semibold text-thailand-blue hover:underline" href="https://travelhealthpro.org.uk/country/221/thailand" target="_blank" rel="noopener noreferrer">TravelHealthPro: Thailand</a>
+                <a className="font-semibold text-thailand-blue hover:underline" href="https://www.gov.uk/foreign-travel-advice/thailand/health" target="_blank" rel="noopener noreferrer">UK government: health advice</a>
+              </div>
+            </aside>
+          )}
           <div className="grid lg:grid-cols-3 gap-8">
             {/* Main Content */}
             <div className="lg:col-span-2 space-y-12">

@@ -1,16 +1,24 @@
 ---
-title: "Thailand Tourism Festival 2026: A Food Lover's Guide to Regional Flavours at QSNCC"
+title: "Thailand Tourism Festival 2026: Regional Food Recap"
 slug: "thailand-tourism-festival-2026-culinary-regional-food-guide"
 date: "2026-03-23"
 author:
   name: "Go2Thailand Editorial"
 category: "news"
-tags: ["Thailand Tourism Festival 2026", "Thai food", "Bangkok events March 2026", "regional Thai cuisine", "street food Thailand", "QSNCC Bangkok"]
+tags:
+  [
+    "Thailand Tourism Festival 2026",
+    "Thai food",
+    "Bangkok events March 2026",
+    "regional Thai cuisine",
+    "street food Thailand",
+    "QSNCC Bangkok",
+  ]
 image: "/images/redesign/editorial/thailand-tourism-festival-2026-culinary-regional-food-guide-hero.webp"
-description: "The 44th Thailand Tourism Festival at QSNCC Bangkok features regional food from all five parts of the country. Here is what to eat and why it matters."
+description: "A recap of the regional food programme at the 44th Thailand Tourism Festival, with evergreen pointers to cuisines from Thailand's five regions."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-29"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Travel And Tour World - Thailand Tourism Festival 2026 Offers a Journey Through the Kingdom with Immersive Cultural Exhibits and Regional Flavors"
     url: "https://www.travelandtourworld.com/news/article/thailand-tourism-festival-2026-offers-a-journey-through-the-kingdom-with-immersive-cultural-exhibits-regional-flavors-and-unique-culinary-delights/"
@@ -22,7 +30,9 @@ sources:
     url: "https://www.pattayamail.com/thailandnews/experience-instant-happiness-at-thailands-44th-tourism-festival-2026-march-25-29-540132"
 ---
 
-The **44th Thailand Tourism Festival** kicks off on March 25 at [QSNCC Bangkok](/city/bangkok/), and one of its five core themes — **"Must Taste"** — turns the convention centre into the largest indoor food market in the country for five days. If you are in [Bangkok](/city/bangkok/) this week, here is why the culinary zones deserve your full attention. For the full festival overview covering all five pillars, read the [5 Must Do highlights guide](/blog/thailand-tourism-festival-2026-5-must-do-food-culture-highlights/).
+> **Event status (updated 1 August 2026):** The food programme described here ended with the festival on 29 March 2026. Vendor counts, dishes and opening hours are historical; the regional-cuisine links remain useful for planning travel beyond the event.
+
+The **44th Thailand Tourism Festival** opened on March 25 at [QSNCC Bangkok](/city/bangkok/), and one of its five core themes — **"Must Taste"** — turned the convention centre into a large indoor showcase of regional food for five days. This recap explains why the culinary zones mattered. For the full festival overview covering all five pillars, read the [5 Must Do highlights guide](/blog/thailand-tourism-festival-2026-5-must-do-food-culture-highlights/).
 
 ## Five Regions, One Venue
 

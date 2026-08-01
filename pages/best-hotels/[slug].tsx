@@ -400,7 +400,7 @@ export default function BestHotelsPage({ data, affiliates, relatedLinks, redesig
             <section className="mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-2">{isNl ? `Slim Hotels Boeken in ${data.cityName}` : `How to Book Hotels in ${data.cityName} Smartly`}</h2>
               <p className="text-gray-600 mb-6 max-w-2xl">
-                {isNl ? 'Een paar boekingsgewoonten scheiden reizigers die te veel betalen van degenen die dezelfde kamer 20-30% goedkoper krijgen.' : 'A few booking habits separate travellers who overpay from those who get the same room for 20–30% less. These tips come from years of booking Thai accommodation across all price points.'}
+                {isNl ? 'Een paar boekingsgewoonten scheiden reizigers die te veel betalen van degenen die dezelfde kamer 20-30% goedkoper krijgen.' : 'A few careful booking habits make room totals easier to compare. Match the same dates, room type, taxes, breakfast and cancellation terms before deciding where to book.'}
               </p>
               <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100">
                 <ul className="space-y-4">

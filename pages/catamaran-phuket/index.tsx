@@ -66,7 +66,7 @@ export default function CatamaranPhuketPage({ partners, lastUpdated }: Props) {
     { q: "How much does a private catamaran charter cost in Phuket per day?",
       a: "Private full-day catamaran (8 guests, skipper included, 8–10 hours): $600–900 for a 38–42ft cat, $900–1,500 for a 50ft+ cat with extra crew. Multi-day sailing catamaran with cabins (Lagoon 42, Leopard 45): $1,500–2,500/day all-in for 6–8 guests, food and fuel often extra. Most operators add $30–50/person for catered lunch and a flat $200/day fuel surcharge during peak season." },
     { q: "Are Tropical Sailing and Phuket Sail Tours worth booking direct vs Klook?",
-      a: "Tropical Sailing (Coral Island shared cat day trips) and Phuket Sail Tours run their own boats — you can book direct on their sites or via Klook/GetYourGuide for the same price (operators absorb the platform commission rather than passing it on). Booking via Klook gives you free cancellation up to 24h and a single payment account if you book multiple trips. Going direct only matters for custom multi-day itineraries." },
+      a: "Compare the operator's direct offer with the same dated product on Klook or GetYourGuide. Match the boat, route, transfer zone, inclusions, cancellation deadline and final total; inventory and conditions can differ by channel." },
     { q: "What size catamaran do I need for my group?",
       a: "Up to 6 guests: 38–42ft (Lagoon 42, Leopard 40) — comfortable, single skipper, $600–800/day. 7–10 guests: 45–50ft (Lagoon 50, Leopard 48) — needs a deckhand, $900–1,400/day. 11–16 guests: 55–62ft party cat or two smaller cats raft-up — most Phuket operators cap at 12 because of marina permit limits. Above 16: charter two boats and meet at the same anchorage — cheaper than one giant boat." },
   ];
@@ -186,7 +186,7 @@ export default function CatamaranPhuketPage({ partners, lastUpdated }: Props) {
                 </tbody>
               </table>
             </div>
-            <p className="mt-3 text-xs text-gray-500">{isNl ? 'Prijzen zijn typische 2026 hoogseizoen-tarieven (nov–apr). Mei–okt prijzen meestal 25–35% lager. Marine park fees vaak apart bij privé-charters.' : 'Prices are typical 2026 high-season rates (Nov–Apr). May–Oct usually 25–35% cheaper. Marine park fees often extra on private charters.'}</p>
+            <p className="mt-3 text-xs text-gray-500">{isNl ? 'Prijzen zijn typische 2026 hoogseizoen-tarieven (nov–apr). Mei–okt prijzen meestal 25–35% lager. Marine park fees vaak apart bij privé-charters.' : 'Price bands are planning guidance, not quotes. Check the dated listing for the final total, park fees, transfers, food, fuel and cancellation terms.'}</p>
           </section>
 
           {/* Sailing vs power section */}
@@ -302,7 +302,7 @@ export default function CatamaranPhuketPage({ partners, lastUpdated }: Props) {
           {/* Methodology */}
           <section className="rounded-2xl bg-gray-50 border border-gray-200 p-6 text-sm text-gray-700">
             <h2 className="font-heading text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hoe we vergeleken' : 'How we compared'}</h2>
-            <p>{isNl ? 'Tarieven en operators geverifieerd in mei 2026 op Klook, GetYourGuide en Viator voor early-juni 2026 boekingen vanuit Phuket. Boot-merken (Lagoon, Leopard) en operator-namen (Tropical Sailing, Phuket Sail Tours) zijn cross-checked tegen recente Tripadvisor-reviews + de eigen websites van de operators. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke catamarans we noemen.' : "Rates and operators verified May 2026 on Klook, GetYourGuide and Viator for early-June 2026 bookings from Phuket. Boat brands (Lagoon, Leopard) and operator names (Tropical Sailing, Phuket Sail Tours) cross-checked against recent Tripadvisor reviews + each operator's own site. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which catamarans we cover."}</p>
+            <p>{isNl ? 'Tarieven en operators geverifieerd in mei 2026 op Klook, GetYourGuide en Viator voor early-juni 2026 boekingen vanuit Phuket. Boot-merken (Lagoon, Leopard) en operator-namen (Tropical Sailing, Phuket Sail Tours) zijn cross-checked tegen recente Tripadvisor-reviews + de eigen websites van de operators. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke catamarans we noemen.' : "The guide provides editorial planning context; current boats, operators, availability, prices, fees and terms remain with each live listing. We may earn commission through the listed affiliate links at no extra cost to you, without changing the editorial order."}</p>
           </section>
         </div>
       </div>

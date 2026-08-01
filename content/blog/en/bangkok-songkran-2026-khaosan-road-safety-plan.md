@@ -1,5 +1,5 @@
 ---
-title: "Bangkok Unveils Safety Plan for Khaosan Road Songkran 2026"
+title: "Khaosan Road Songkran 2026 Safety Plan: What Applied"
 slug: "bangkok-songkran-2026-khaosan-road-safety-plan"
 date: "2026-03-22"
 author:
@@ -7,10 +7,10 @@ author:
 category: "news"
 tags: ["songkran 2026", "bangkok", "khaosan road", "safety", "water festival"]
 image: "/images/redesign/editorial/bangkok-songkran-2026-khaosan-road-safety-plan-hero.webp"
-description: "Bangkok officials announce comprehensive safety measures for Songkran 2026 on Khaosan Road, including CCTV monitoring, crowd control, and the '5 Por' campaign."
+description: "A historical guide to the safety measures used for Khaosan Road Songkran 2026, with evergreen precautions for planning a future celebration."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-28"
+lastUpdated: "2026-08-01"
 sources:
   - name: "Thaiger - Bangkok prepares safety plan for Khaosan Road Songkran 2026"
     url: "https://thethaiger.com/news/bangkok/bangkok-prepares-safety-plan-khao-san-road-songkran-2026"
@@ -18,7 +18,9 @@ sources:
     url: "https://www.chiangraitimes.com/news/thailand-news/songkran-festival-2026/"
 ---
 
-Bangkok officials have agreed on a joint safety plan for this year's **[Songkran celebrations on Khaosan Road](/blog/songkran-festival-2026-guide/)**, one of the most popular [water festival](/blog/songkran-2026-76-provinces-nationwide-celebrations-guide/) spots for international visitors. With Songkran 2026 running from **April 11 to 17**, multiple agencies are coordinating to ensure a safer festival experience.
+> **Event status (updated 1 August 2026):** Songkran 2026 has ended. The measures below describe that edition and should not be treated as the confirmed operating plan for a future Songkran. Recheck current guidance from Bangkok authorities and the Tourism Authority of Thailand before travelling.
+
+Bangkok officials agreed on a joint safety plan for 2026's **[Songkran celebrations on Khaosan Road](/blog/songkran-festival-2026-guide/)**, one of the most popular [water festival](/blog/songkran-2026-76-provinces-nationwide-celebrations-guide/) spots for international visitors. With Songkran 2026 running from **April 11 to 17**, multiple agencies coordinated to support a safer festival experience.
 
 ## What's New This Year
 

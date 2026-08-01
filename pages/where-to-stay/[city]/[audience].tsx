@@ -169,7 +169,7 @@ export default function WhereToStayAudiencePage({ data, relatedLinks }: Props) {
                   const subId = `pseo-where-to-stay-${data.citySlug}-${data.audience}`;
                   const url = withPlacementSubId(aff?.trip ?? TRIP_GENERIC, subId, 'hero');
                   return (
-                    <a href={url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-4 py-1.5 text-sm font-semibold hover:bg-red-700">Check rates in {data.cityName} →</a>
+                    <a href={url} target="_blank" rel="noopener noreferrer nofollow sponsored" className="rounded-full bg-thailand-red text-white px-4 py-1.5 text-sm font-semibold hover:bg-red-700">Check current stays in {data.cityName} →</a>
                   );
                 })()}
               </div>

@@ -105,7 +105,7 @@ export default function PhuketHoneymoonPillar({
     },
     {
       q: "Do Phuket honeymoon resorts give us perks if we mention it?",
-      a: 'Yes — every luxury resort here treats honeymoons as a first-class segment. Mention it at booking and confirm it on arrival; expect: room upgrade (subject to availability), in-room flowers + champagne, private breakfast on the villa terrace, late checkout, a complimentary couples experience (spa-trial, beach picnic). Trisara, Amanpuri, Banyan Tree and Sri Panwa go further with custom honeymoon packages. Booking via Trip.com or direct: ask for "honeymoon perks" — never an extra cost.',
+      a: 'Some resorts offer honeymoon packages or discretionary extras, but inclusions and eligibility vary by rate and date. Ask before booking, request written confirmation, and do not assume an upgrade, late checkout or complimentary experience is included.',
     },
     {
       q: "Best month for a Phuket honeymoon?",
@@ -374,7 +374,7 @@ export default function PhuketHoneymoonPillar({
             <p className="mt-3 text-xs text-gray-500">
               {isNl
                 ? "Prijzen zijn 2026 hoogseizoen-tarieven (nov–feb) per nacht voor 2 personen. Buiten hoogseizoen 30–40% lager. Honeymoon-perks (champagne, bloemen, upgrade) gratis bij vermelding bij boeking."
-                : "Prices are 2026 high-season rates (Nov–Feb) per night for 2 guests. Outside high season 30–40% cheaper. Honeymoon perks (champagne, flowers, upgrade) free when mentioned at booking."}
+                : "Price bands are planning guidance, not live quotes. Compare the same room, dates, taxes, meals, package inclusions and cancellation terms; request written confirmation of any honeymoon extras."}
             </p>
           </section>
 
@@ -788,7 +788,7 @@ export default function PhuketHoneymoonPillar({
             <p>
               {isNl
                 ? "Tarieven en honeymoon-perks geverifieerd in mei 2026 op resort-websites + Trip.com voor 2026 boekingen. Activity-prijzen via Klook, Viator en GetYourGuide. Gebied-tips gevalideerd via recente Tripadvisor-reviews. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke resorts we noemen."
-                : "Rates and honeymoon perks verified May 2026 on resort websites + Trip.com for 2026 bookings. Activity pricing via Klook, Viator and GetYourGuide. Area tips validated via recent Tripadvisor reviews. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which resorts we cover."}
+                : "The shortlist and area guidance are editorial context. Current rooms, packages, perks, activity inventory and prices remain with each provider; verify the final total and written inclusions before booking. We may earn commission through listed affiliate links at no extra cost to you."}
             </p>
           </section>
         </div>

@@ -370,7 +370,7 @@ export default function PhuketWeddingVenuesPillar({
             <p className="mt-3 text-xs text-gray-500">
               {isNl
                 ? "Pakket-prijzen zijn 2026 startpoint voor 20–40 gasten in hoogseizoen (nov–feb). Off-peak 30–40% lager. Buiten pakket: bloemen, premium-catering, photo-upgrades en legal paperwork."
-                : "Package prices are 2026 starting points for 20–40 guests in high season (Nov–Feb). Off-peak 30–40% lower. Outside packages: flowers, premium catering, photo upgrades and legal paperwork."}
+                : "Package figures are planning guidance, not quotes. Ask for a dated written proposal covering guest count, venue, taxes, service charges, food, drinks, decor, weather backup, overtime and cancellation terms."}
             </p>
           </section>
 
@@ -761,7 +761,7 @@ export default function PhuketWeddingVenuesPillar({
             <p>
               {isNl
                 ? "Pakket-prijzen geverifieerd in mei 2026 op resort-websites + Trip.com voor 2026–2027 boekingen. Wedding-planner-prijzen gevalideerd via PhuketWedding.net, Wedding-Phuket.com en BlissEvents reviews. Juridische eisen via Royal Thai Embassy + MFA-portal. We verdienen commissie op boekingen via genoemde platforms — dit verandert niets aan de prijs of welke venues we noemen."
-                : "Package prices verified May 2026 on resort websites + Trip.com for 2026–2027 bookings. Wedding planner pricing validated via PhuketWedding.net, Wedding-Phuket.com and BlissEvents reviews. Legal requirements via Royal Thai Embassy + MFA portal. We earn a commission on bookings through the listed platforms — this never changes the price you pay or which venues we cover."}
+                : "Venue and package notes are editorial planning context. Confirm current availability, legal requirements, inclusions and the full written quote with the venue and relevant authorities. We may earn commission through listed affiliate links at no extra cost to you, without changing the editorial order."}
             </p>
           </section>
         </div>

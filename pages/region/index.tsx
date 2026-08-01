@@ -1,7 +1,7 @@
 import { GetStaticProps } from 'next';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
-import { useState } from 'react';
+import Image from 'next/image';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
@@ -40,13 +40,45 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
     { name: isNl ? "Regio's" : 'Regions', href: '/region/' }
   ];
 
+  const pageUrl = 'https://go2-thailand.com/region/';
+  const jsonLd = [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Thailand regions travel guide',
+      description: 'Compare Thailand regions by landscape, route logic and the destinations that fit each trip.',
+      url: pageUrl,
+      inLanguage: 'en-GB',
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      numberOfItems: regions.length,
+      itemListElement: regions.map((region, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: region.name.en,
+        url: `${pageUrl}${region.slug}/`,
+      })),
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: breadcrumbs.map((crumb, index) => ({
+        '@type': 'ListItem', position: index + 1, name: crumb.name,
+        item: `https://go2-thailand.com${crumb.href}`,
+      })),
+    },
+  ];
+
   return (
     <>
       <SEOHead
-        title={isNl ? "Thailand Regio's - Complete Reisgids | Go2Thailand" : "Thailand Regions - Complete Travel Guide | Go2Thailand"}
-        description={isNl ? "Ontdek de drie belangrijkste regio's van Thailand: Noord-, Centraal- en Zuid-Thailand. Ontdek unieke attracties, klimaat, cultuur en reistips voor elke regio." : "Explore Thailand's three main regions: Northern, Central, and Southern Thailand. Discover unique attractions, climate, culture, and travel tips for each region."}
+        title={isNl ? "Thailand Regio's - Complete Reisgids | Go2Thailand" : "Thailand Regions: Compare North, Central, Isaan & South"}
+        description={isNl ? "Ontdek de drie belangrijkste regio's van Thailand: Noord-, Centraal- en Zuid-Thailand. Ontdek unieke attracties, klimaat, cultuur en reistips voor elke regio." : "Compare Northern, Central, Isaan and Southern Thailand by landscape, route logic and key destinations, then choose the region that fits your trip."}
       >
         <meta name="keywords" content="Thailand regions, Northern Thailand, Central Thailand, Southern Thailand, Thailand travel guide, Thai regions" />
+        {jsonLd.map((schema, index) => <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />)}
       </SEOHead>
 
       <div className="bg-gray-50 min-h-screen">
@@ -73,14 +105,17 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
         <section className="section-padding">
           <div className="container-custom">
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-              {regions.map((region, index) => (
+              {regions.map((region) => (
                 <div key={region.id} className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
                   {/* Region Image */}
                   <div className="aspect-w-16 aspect-h-9 bg-gray-200">
-                    <img
+                    <Image
                       src={region.image}
                       alt={region.name.en}
-                      className="w-full h-64 object-cover"
+                      width={640}
+                      height={360}
+                      sizes="(min-width: 1024px) 33vw, 100vw"
+                      className="h-64 w-full object-cover"
                     />
                   </div>
 

@@ -54,8 +54,8 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
   return (
     <>
       <SEOHead
-        title={`Thailand Travel Tips & Info 2026 | Go2Thailand`}
-        description="Essential Thailand travel info for 2026. Scam awareness, ATM & money tips, packing list, health & vaccinations, and Thai etiquette guide."
+        title="Thailand Travel Advice: Practical Planning Guides | Go2Thailand"
+        description="Plan Thailand with practical guides to safety, money, packing, travel health and etiquette, plus clear links to recheck changing official advice."
       >
         <meta name="keywords" content="Thailand travel tips, Thailand safety, Thailand money, Thailand packing list, Thailand vaccinations, Thai culture etiquette" />
         <script
