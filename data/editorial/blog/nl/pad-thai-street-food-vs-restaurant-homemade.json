@@ -1,106 +1,15 @@
 {
-  "schemaVersion": 1,
-  "locale": "nl",
-  "slug": "pad-thai-street-food-vs-restaurant-homemade",
-  "route": "/nl/blog/pad-thai-street-food-vs-restaurant-homemade/",
-  "cluster": "food",
-  "editorialStatus": "ready",
-  "updatedAt": "2026-08-01",
-  "seo": {
-    "title": "Pad thai: kraam, restaurant of thuis | Go2Thailand",
-    "description": "Vergelijk versbereiding, ingrediënten en portie; thuis koken ondersteunt een natuurlijke Amazon-keuze voor een wok of betrouwbare kookgids.",
-    "primaryKeyword": "pad thai thailand",
-    "secondaryKeywords": [
-      "pad thai thailand tips"
-    ],
-    "searchIntent": "commercial-investigation",
-    "canonicalPath": "/nl/blog/pad-thai-street-food-vs-restaurant-homemade/"
-  },
-  "hero": {
-    "eyebrow": "Eten met context",
-    "title": "Pad thai: kraam, restaurant of thuis",
-    "accent": "Drie manieren, drie keuzes",
-    "description": "Vergelijk versbereiding, ingrediënten en portie; thuis koken ondersteunt een natuurlijke Amazon-keuze voor een wok of betrouwbare kookgids.",
-    "image": "/images/redesign/editorial/pad-thai-street-food-vs-restaurant-homemade-hero.webp",
-    "imageAlt": "Route-eigen sfeerbeeld bij pad thai: kraam, restaurant of thuis",
-    "primaryCta": {
-      "label": "Maak je keuze",
-      "href": "#keuze"
-    },
-    "secondaryCta": {
-      "label": "Veilig eten",
-      "href": "#veilig"
-    }
-  },
-  "layout": {
-    "kind": "food-guide",
-    "foodMode": "dish",
-    "heroVariant": "editorial",
-    "navigation": "anchors",
-    "density": "standard"
-  },
-  "quickAnswer": "Vergelijk versbereiding, ingrediënten en portie; thuis koken ondersteunt een natuurlijke Amazon-keuze voor een wok of betrouwbare kookgids.",
+  "schemaVersion": 1, "locale": "nl", "slug": "pad-thai-street-food-vs-restaurant-homemade", "route": "/nl/blog/pad-thai-street-food-vs-restaurant-homemade/", "cluster": "food", "editorialStatus": "ready", "updatedAt": "2026-08-01",
+  "seo": { "title": "Pad thai: kraam, restaurant of thuis vergelijken", "description": "Vergelijk pad thai van een straatkraam, restaurant en thuiskeuken op woktechniek, ingrediënten, variatie en dieetvragen.", "primaryKeyword": "pad thai Thailand", "secondaryKeywords": ["pad thai streetfood", "pad thai ingrediënten", "pad thai zelf maken"], "searchIntent": "informational", "canonicalPath": "/nl/blog/pad-thai-street-food-vs-restaurant-homemade/" },
+  "hero": { "eyebrow": "Eén gerecht, drie vormen", "title": "Pad thai: kraam, restaurant of thuis", "accent": "Vergelijk controle en wokritme", "description": "De locatie verandert wat je ziet, kunt navragen en zelf bepaalt. De gerechtnaam blijft nooit een ingrediënten- of dieetgarantie.", "image": "/images/redesign/editorial/pad-thai-street-food-vs-restaurant-homemade-hero.webp", "imageAlt": "Pad thai wordt vers in een wok bereid met noedels en groente", "primaryCta": { "label": "Vergelijk drie vormen", "href": "#drie-vormen" }, "secondaryCta": { "label": "Ingrediëntencheck", "href": "#ingredienten" } },
+  "layout": { "kind": "food-guide", "foodMode": "dish", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Een kraam biedt zicht op snelle wokbereiding, een restaurant vaak meer ruimte voor vragen en thuis de meeste merk- en kruiscontactcontrole. Geen vorm is automatisch authentieker of dieetgeschikt.",
   "blocks": [
-    {
-      "kind": "comparison",
-      "id": "keuze",
-      "title": "Kies op wat je werkelijk krijgt",
-      "options": [
-        {
-          "title": "Versbereiding",
-          "description": "Kijk naar omloop, temperatuur en bereiding.",
-          "label": "Kwaliteit"
-        },
-        {
-          "title": "Ingrediënten",
-          "description": "Vraag naar allergenen en verborgen smaakmakers.",
-          "label": "Veiligheid"
-        },
-        {
-          "title": "Actuele context",
-          "description": "Controleer menu, locatie en opening opnieuw.",
-          "label": "Nu"
-        }
-      ]
-    },
-    {
-      "kind": "checklist",
-      "id": "veilig",
-      "title": "Veilig proeven",
-      "items": [
-        "Zichtbaar vers bereid",
-        "Allergenen expliciet besproken",
-        "Veilig drinkwater",
-        "Kleine portie bij twijfel"
-      ]
-    },
-    {
-      "kind": "affiliate",
-      "id": "thuis-koken",
-      "provider": "amazon",
-      "title": "Thuis verder met Pad Thai",
-      "description": "Vergelijk een passende wok of betrouwbare Thaise kookgids; controleer materiaal, maat, taal en verkoper.",
-      "cta": {
-        "label": "Bekijk actueel aanbod",
-        "href": "/go/thai-cookbook/",
-        "external": true
-      },
-      "placement": "pad-thai-home-cooking",
-      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen, zonder extra kosten voor jou."
-    },
-    {
-      "kind": "sources",
-      "id": "bronnen",
-      "title": "Bron voor actuele context",
-      "items": [
-        {
-          "title": "Thai FDA",
-          "publisher": "Thai FDA",
-          "url": "https://en.fda.moph.go.th/",
-          "checkedAt": "2026-08-01",
-          "note": "Primaire voedselveiligheids- of toerismecontext."
-        }
-      ]
-    }
+    { "kind": "comparison", "id": "drie-vormen", "title": "Waar heb je welke controle?", "options": [{ "title": "Straatkraam", "description": "Zichtbare, snelle bereiding; saus en gereedschap kunnen vooraf of gedeeld zijn.", "label": "Direct" }, { "title": "Restaurant", "description": "Meer tijd voor vragen en varianten, maar minder zicht op mise-en-place.", "label": "Uitleg" }, { "title": "Thuis", "description": "Zelf merken, verhoudingen en werkmateriaal kiezen.", "label": "Controle" }] },
+    { "kind": "card-grid", "id": "ingredienten", "title": "Controleer meer dan de noedels", "cards": [{ "title": "Zuur en zout", "description": "Tamarinde, vissaus, sojasaus en ingelegde radijs verschillen per recept." }, { "title": "Dierlijke ingrediënten", "description": "Verse of gedroogde garnaal, vissaus en ei kunnen voorkomen." }, { "title": "Pinda", "description": "Kan topping zijn en via werkbak of gereedschap kruiscontact geven." }, { "title": "Noedels en saus", "description": "Rijstnoedels zeggen niet dat het volledige gerecht glutenvrij is." }] },
+    { "kind": "checklist", "id": "bestellen", "title": "Vijf gerichte vragen", "items": ["Is de saus al vooraf gemengd?", "Zit er vissaus of gedroogde garnaal in?", "Waar wordt pinda gebruikt?", "Welke noedels en sausmerken worden gebruikt?", "Worden wok en spatel gedeeld?"] },
+    { "kind": "related", "id": "verder", "title": "Lees verder", "items": [{ "title": "Is Thais eten glutenvrij?", "description": "Controleer saus en kruiscontact.", "href": "/nl/blog/is-thai-food-gluten-free/" }, { "title": "Streetfood in Bangkok", "description": "Kies een wijk en bestel gericht.", "href": "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/" }] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Is pad thai altijd met pinda?", "answer": "Nee, maar pinda komt vaak voor als topping en kan via gedeeld materiaal aanwezig zijn." }, { "question": "Is vegetarische pad thai vegan?", "answer": "Niet automatisch. Vraag naar ei, vissaus, gedroogde garnaal en vooraf gemengde saus." }, { "question": "Heb je thuis een wok nodig?", "answer": "Nee. Een ruime pan en kleine porties zijn belangrijker dan de naam van de pan." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Culturele en veiligheidsbronnen", "items": [{ "title": "Pad Thai: Love, to the Noodles of Thailand", "publisher": "Thailand Foundation", "url": "https://thailandfoundation.or.th/th/853/", "checkedAt": "2026-08-01" }, { "title": "Street Food", "publisher": "Thailand Foundation", "url": "https://thailandfoundation.or.th/street-food-opening/", "checkedAt": "2026-08-01" }, { "title": "Five keys to safer food", "publisher": "World Health Organization", "url": "https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food", "checkedAt": "2026-08-01" }] }
   ]
 }
