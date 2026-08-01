@@ -15,7 +15,6 @@ export default function Home() {
           : 'Explore Thailand travel by style: compare destinations, build an itinerary, find things to do and check current hotel availability.'}
       >
         <meta property="og:type" content="website" />
-        <link rel="preload" as="image" href="/images/redesign/homepage-hero.webp" type="image/webp" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
