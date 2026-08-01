@@ -84,12 +84,6 @@ const nextConfig = {
         locale: false,
       },
       {
-        source: "/nl/budget-travel/",
-        destination: "/nl/thailand-index/budget/",
-        permanent: true,
-        locale: false,
-      },
-      {
         source: "/practical-info/packing-list/",
         destination: "/travel-gear/",
         permanent: true,
@@ -104,12 +98,6 @@ const nextConfig = {
       {
         source: "/thailand-index/safety/",
         destination: "/is-thailand-safe/",
-        permanent: true,
-        locale: false,
-      },
-      {
-        source: "/nl/thailand-index/safety/",
-        destination: "/nl/is-thailand-safe/",
         permanent: true,
         locale: false,
       },
