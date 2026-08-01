@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bun-bang-fai-rocket-festival-yasothon-2026",
+  "route": "/nl/blog/bun-bang-fai-rocket-festival-yasothon-2026/",
+  "cluster": "events",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Bun Bang Fai Yasothon: festivalgids | Go2Thailand",
+    "description": "Bun Bang Fai Yasothon 2026 is afgelopen. Begrijp de raketfestivaltraditie en plan een volgende editie met nieuwe officiële data.",
+    "primaryKeyword": "Bun Bang Fai Yasothon",
+    "secondaryKeywords": ["Yasothon Rocket Festival", "raketfestival Thailand", "Bun Bang Fai 2026"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/bun-bang-fai-rocket-festival-yasothon-2026/"
+  },
+  "hero": {
+    "eyebrow": "Isaan-traditie · editie verstreken",
+    "title": "Bun Bang Fai in Yasothon",
+    "accent": "Gemeenschap, optochten en raketten.",
+    "description": "De editie van 8 tot en met 10 mei 2026 is voorbij. Ontdek de culturele laag en plan een volgende editie pas na officiële bevestiging.",
+    "image": "/images/redesign/editorial/bun-bang-fai-rocket-festival-yasothon-2026-hero.webp",
+    "imageAlt": "Kleurrijke optocht tijdens het Bun Bang Fai-raketfestival in Yasothon",
+    "primaryCta": { "label": "Begrijp het festival", "href": "#betekenis" },
+    "secondaryCta": { "label": "Veilig plannen", "href": "#veilig" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "recurring",
+    "startsOn": "2026-05-08",
+    "endsOn": "2026-05-10",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "anchors",
+    "density": "longform"
+  },
+  "quickAnswer": "Bun Bang Fai in Yasothon is een terugkerende Isaan-regentraditie. De editie van 8 tot en met 10 mei 2026 is afgelopen; wacht voor een volgende reis op nieuwe officiële data.",
+  "blocks": [
+    { "kind": "card-grid", "id": "betekenis", "eyebrow": "Meer dan een lancering", "title": "Drie lagen van Bun Bang Fai", "cards": [
+      { "title": "Gemeenschap", "description": "Lokale teams bouwen en versieren raketten en dragen het festival gezamenlijk." },
+      { "title": "Regentraditie", "description": "De viering is verbonden met het landbouwseizoen, geloof en het vragen om regen." },
+      { "title": "Optocht en competitie", "description": "Muziek, dans, praalwagens en de raketwedstrijd hebben elk een eigen plek in het programma." }
+    ] },
+    { "kind": "checklist", "id": "veilig", "title": "Veilig en respectvol deelnemen", "items": [
+      "Blijf uitsluitend in officiële publiekszones",
+      "Loop nooit richting lanceerinstallaties",
+      "Volg afzettingen, weerbesluiten en lokale instructies",
+      "Vraag toestemming voordat je deelnemers van dichtbij fotografeert",
+      "Plan vervoer zonder zelf te rijden na alcohol"
+    ] },
+    { "kind": "steps", "id": "volgende-editie", "title": "Plan pas wanneer de nieuwe kalender er is", "steps": [
+      { "title": "Bevestig", "description": "Controleer datum en programma bij Thailand.go.th, TAT of de provincie." },
+      { "title": "Verdeel", "description": "Bekijk welke onderdelen in de stad en welke bij het lanceerterrein plaatsvinden." },
+      { "title": "Boek flexibel", "description": "Houd ruimte voor weerswijzigingen, drukte en veranderd vervoer." }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Wanneer was Bun Bang Fai Yasothon 2026?", "answer": "Van 8 tot en met 10 mei 2026." },
+      { "question": "Zijn de data ieder jaar hetzelfde?", "answer": "Nee. De traditie keert terug, maar exacte data en programma's worden opnieuw bevestigd." },
+      { "question": "Kun je dicht bij de raketten komen?", "answer": "Alleen waar de officiële organisatie publiek toelaat; afzettingen en instructies zijn leidend." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële evenementbronnen", "items": [
+      { "title": "Yasothon Rocket Festival 2026", "publisher": "Thailand.go.th", "url": "https://thailand.go.th/event-detail/yasothon-rocket-festival-2026?hl=en", "checkedAt": "2026-08-01" },
+      { "title": "Bun Bang Fai Rocket Festival", "publisher": "Tourism Authority of Thailand Japan", "url": "https://www.thailandtravel.or.jp/bun-bang-fai-rocket-festival/", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

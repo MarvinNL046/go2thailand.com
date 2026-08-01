@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "world-of-coffee-bangkok-2026-specialty-coffee-event",
+  "route": "/nl/blog/world-of-coffee-bangkok-2026-specialty-coffee-event/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "World of Coffee Bangkok 2026: archief | Go2Thailand",
+    "description": "World of Coffee Bangkok vond van 7 tot en met 9 mei 2026 plaats in BITEC. Lees de gecontroleerde terugblik zonder oude registratie.",
+    "primaryKeyword": "World of Coffee Bangkok 2026",
+    "secondaryKeywords": ["specialty coffee Bangkok", "World Cup Tasters Bangkok", "BITEC coffee event"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/world-of-coffee-bangkok-2026-specialty-coffee-event/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Evenementarchief · BITEC",
+    "title": "World of Coffee Bangkok 2026",
+    "accent": "Terugblik: 7–9 mei.",
+    "description": "De Aziatische koffiebeurs en het World Cup Tasters Championship in Bangkok zijn afgelopen. Oude badges en registratie zijn niet meer geldig.",
+    "image": "/images/redesign/editorial/world-of-coffee-bangkok-2026-specialty-coffee-event-hero.webp",
+    "imageAlt": "Barista bereidt specialty coffee tijdens een professionele koffiebeurs in Bangkok",
+    "primaryCta": { "label": "Bekijk de terugblik", "href": "#terugblik" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "elapsed",
+    "startsOn": "2026-05-07",
+    "endsOn": "2026-05-09",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "World of Coffee Bangkok 2026 vond van 7 tot en met 9 mei plaats in BITEC en is afgelopen. Deze archiefroute toont geen oude badge, ticketprijs of affiliate-uitgang.",
+  "blocks": [
+    { "kind": "card-grid", "id": "terugblik", "eyebrow": "Historische editie", "title": "Wat Bangkok samenbracht", "cards": [
+      { "title": "Vakbeurs", "description": "Branders, producenten, apparatuur, opleiding en zakelijke contacten kwamen samen in BITEC." },
+      { "title": "Cup Tasters", "description": "Het World Cup Tasters Championship draaide om snelheid en nauwkeurigheid bij sensorisch onderscheid." },
+      { "title": "Thaise koffiesector", "description": "De gaststad gaf lokale koffieprofessionals een internationaal podium." }
+    ] },
+    { "kind": "callout", "id": "geen-registratie", "tone": "warning", "title": "Registratie 2026 is gesloten", "description": "Gebruik geen oude registratie-, badge- of betaallink. Een volgende editie krijgt eigen voorwaarden van de organisator." },
+    { "kind": "steps", "id": "koffieroute", "title": "Vertaal beursinteresse naar Bangkok", "steps": [
+      { "title": "Kies een wijk", "description": "Beperk reistijd en combineer hooguit enkele branders of cafés per dagdeel." },
+      { "title": "Vraag naar de boon", "description": "Herkomst, verwerking en zetmethode vertellen meer dan alleen het interieur." },
+      { "title": "Controleer opening", "description": "Openingstijden en rustige proefmomenten veranderen vaker dan een evergreen gids." }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is World of Coffee Bangkok 2026 nog open?", "answer": "Nee. De beurs vond plaats van 7 tot en met 9 mei 2026." },
+      { "question": "Kan ik via deze pagina een badge kopen?", "answer": "Nee. De registratie is verlopen en er is geen commerciële uitgang." },
+      { "question": "Waar vond het evenement plaats?", "answer": "In BITEC in Bangkok, nabij BTS Bang Na." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire evenementbronnen", "items": [
+      { "title": "World of Coffee Heads to Bangkok in 2026", "publisher": "Specialty Coffee Association", "url": "https://sca.coffee/sca-news/2025/5/16/world-of-coffee-heads-to-bangkok-in-2026-the-third-edition-of-world-of-coffee-asia-3brz5", "checkedAt": "2026-08-01" },
+      { "title": "Bangkok World Coffee Championships", "publisher": "World Coffee Championships", "url": "https://wcc.coffee/bangkok-world-coffee-championships", "checkedAt": "2026-08-01" },
+      { "title": "World of Coffee Bangkok 2026 show information", "publisher": "World of Coffee Asia", "url": "https://asia.worldofcoffee.org/show-info", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

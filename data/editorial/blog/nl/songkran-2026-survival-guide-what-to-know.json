@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "songkran-2026-survival-guide-what-to-know",
+  "route": "/nl/blog/songkran-2026-survival-guide-what-to-know/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Songkran 2026 survival guide: archief | Go2Thailand",
+    "description": "Songkran 2026 is afgelopen en deze dubbele survival guide is gearchiveerd. Gebruik de centrale Songkran-owner voor nieuwe planning.",
+    "primaryKeyword": "Songkran 2026 survival guide",
+    "secondaryKeywords": ["Songkran veiligheid", "Songkran checklist", "Thais nieuwjaar"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/songkran-2026-survival-guide-what-to-know/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Afgelopen editie · samengevoegd",
+    "title": "De Songkran-checklist verhuist.",
+    "accent": "Eén betrouwbare hoofdgids.",
+    "description": "De kalender van 2026 is verstreken en praktisch advies staat voortaan bij de brede Songkran-owner.",
+    "image": "/images/redesign/editorial/songkran-2026-survival-guide-what-to-know-hero.webp",
+    "imageAlt": "Respectvolle Songkranviering met water, bloemen en Thaise nieuwjaarstradities",
+    "primaryCta": { "label": "Lees de hoofdgids", "href": "/nl/blog/songkran-festival-2026-guide/" }
+  },
+  "layout": {
+    "kind": "event-guide",
+    "temporalStatus": "elapsed",
+    "startsOn": "2026-04-09",
+    "endsOn": "2026-04-30",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "immersive",
+    "navigation": "compact",
+    "density": "standard"
+  },
+  "quickAnswer": "Songkran 2026 is afgelopen. Deze overlappende survival guide is gearchiveerd en verwijst naar de centrale Songkran-owner voor culturele context en toekomstige planning.",
+  "blocks": [
+    { "kind": "callout", "id": "archief", "tone": "warning", "title": "Gebruik geen kalender uit 2026", "description": "Lokale evenementen, routes en regels moeten voor een volgende editie opnieuw worden bevestigd.", "cta": { "label": "Open de centrale gids", "href": "/nl/blog/songkran-festival-2026-guide/" } },
+    { "kind": "checklist", "id": "basis", "title": "Praktische basis die blijft gelden", "items": [
+      "Bescherm telefoon, medicijnen en hotelpas tegen water",
+      "Draag schoenen met grip en snel drogende kleding",
+      "Respecteer ouderen, monniken, verkeersdeelnemers en tempelzones",
+      "Rijd niet na alcohol en plan je terugreis vooraf",
+      "Controleer nieuwe programma's bij TAT, gemeente en organisator"
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Kan ik de data van 2026 hergebruiken?", "answer": "Nee. Wacht op de nieuwe landelijke en lokale kalender." },
+      { "question": "Waar staat de actuele hoofdgids?", "answer": "Op de centrale Songkran-route waar status, cultuur en planning samenkomen." },
+      { "question": "Is Songkran alleen een watergevecht?", "answer": "Nee. UNESCO beschrijft een bredere nieuwjaarstraditie rond familie, respect en symbolische reiniging." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bronnen", "items": [
+      { "title": "Songkran Festival 2026 nationwide", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/03/songkran-festival-2026-to-proceed-nationwide-welcoming-global-visitors-to-thailands-unesco-recognised-new-year-celebration/", "checkedAt": "2026-08-01" },
+      { "title": "Songkran in Thailand", "publisher": "UNESCO", "url": "https://ich.unesco.org/en/RL/songkran-in-thailand-traditional-thai-new-year-festival-01719", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

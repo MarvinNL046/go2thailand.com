@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "airasia-tat-fly-your-feelings-free-flights-lisa-2026",
+  "route": "/nl/blog/airasia-tat-fly-your-feelings-free-flights-lisa-2026/",
+  "cluster": "transport",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "AirAsia Fly Your Feelings 2026: archief | Go2Thailand",
+    "description": "De boekingsperiode van AirAsia en TAT's Fly Your Feelings-campagne is verstreken. Bekijk de historische voorwaarden zonder oude kortingsclaim.",
+    "primaryKeyword": "AirAsia Fly Your Feelings 2026",
+    "secondaryKeywords": ["AirAsia TAT Lisa", "TATXLISA", "AirAsia Thailand campagne"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/airasia-tat-fly-your-feelings-free-flights-lisa-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Campagnearchief · boeking gesloten",
+    "title": "Fly Your Feelings 2026",
+    "accent": "Geen verlopen korting verkopen.",
+    "description": "De actie kon tot en met 31 mei 2026 worden geboekt. Een bestaande reis kan nog lopen, maar de promotie is niet opnieuw beschikbaar.",
+    "image": "/images/redesign/editorial/airasia-tat-fly-your-feelings-free-flights-lisa-2026-hero.webp",
+    "imageAlt": "Openbaar vervoer langs de Chao Phraya in Bangkok als beeld bij binnenlands reizen door Thailand",
+    "primaryCta": { "label": "Bekijk de tijdlijn", "href": "#tijdlijn" }
+  },
+  "layout": {
+    "kind": "news-update",
+    "newsStatus": "archived",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "De Fly Your Feelings-campagne kon tot en met 31 mei 2026 worden geboekt. De promotiecode en kansactie zijn verlopen; controleer bestaande reserveringen rechtstreeks bij AirAsia.",
+  "blocks": [
+    { "kind": "comparison", "id": "tijdlijn", "title": "Campagnestatus", "options": [
+      { "title": "Boeken", "description": "De officiële boekingsperiode liep van 1 maart tot en met 31 mei 2026.", "label": "Gesloten" },
+      { "title": "Reizen", "description": "De gepubliceerde reisperiode liep van 15 maart tot en met 30 september 2026.", "label": "Alleen bestaande boeking" },
+      { "title": "Nieuwe vlucht", "description": "Vergelijk een nieuwe reservering op actuele totaalprijs en voorwaarden, los van de campagne.", "label": "Opnieuw controleren" }
+    ] },
+    { "kind": "callout", "id": "geen-cta", "tone": "warning", "title": "Geen oude commerciële uitgang", "description": "Deze archiefpagina toont geen promotiecode, vaste prijs, prijsvraag of affiliateknop." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Werkt TATXLISA nog?", "answer": "Niet volgens de officiële boekingsperiode, die op 31 mei 2026 eindigde." },
+      { "question": "Kan mijn bestaande reis nog geldig zijn?", "answer": "Ja, mogelijk binnen de gepubliceerde reisperiode. Je eigen reservering is leidend." },
+      { "question": "Kan ik via Go2Thailand deze actie boeken?", "answer": "Nee. Deze route is uitsluitend een onafhankelijk campagnearchief." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire campagnebron", "items": [
+      { "title": "AirAsia Teams Up with TAT to Ignite Domestic Tourism", "publisher": "AirAsia Newsroom", "url": "https://newsroom.airasia.com/news/2026/2/20/airasia-teams-up-with-tat-to-ignite-domestic-tourism-following-lisas-footsteps-offering-up-to-15-off-and-a-chance-to-win-free-flights-for-a-year", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

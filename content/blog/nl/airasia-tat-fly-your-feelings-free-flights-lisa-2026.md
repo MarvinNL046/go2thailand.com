@@ -1,45 +1,58 @@
 ---
-title: "AirAsia en TAT lanceren 'Fly Your Feelings' met Lisa-routes"
+title: "AirAsia x TAT Fly Your Feelings 2026: campagnearchief"
 slug: "airasia-tat-fly-your-feelings-free-flights-lisa-2026"
-date: "2026-03-22"
+date: "2026-02-22"
 author:
   name: "Go2Thailand Team"
-category: "news"
-tags: ["AirAsia", "TAT", "Lisa Blackpink", "gratis vluchten Thailand", "vluchtaanbiedingen 2026", "binnenlandse vluchten", "Fly Your Feelings", "Thailand tips", "vakantie Thailand", "Thailand reisgids"]
-image: "/images/blog/thailand-news-default.webp"
-description: "AirAsia slaat de handen ineen met Thailand's toerismebureau TAT voor de Fly Your Feelings-campagne: 15% korting op vluchten naar 8 provincies en kans op een jaar gratis vliegen."
+category: "transport"
+tags: ["AirAsia Thailand", "Fly Your Feelings", "TAT", "Lisa", "campagnearchief"]
+image: "/images/redesign/editorial/airasia-tat-fly-your-feelings-free-flights-lisa-2026-hero.webp"
+description: "De boekingsperiode van AirAsia en TAT's Fly Your Feelings-campagne is verstreken. Dit archief legt uit wat de actie inhield zonder oude korting te verkopen."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-28"
+readingTime: 4
+lastUpdated: "2026-08-01"
 sources:
-  - name: "AirAsia Newsroom — Fly Your Feelings campaign with TAT and Lisa"
+  - name: "AirAsia Newsroom — Fly Your Feelings"
     url: "https://newsroom.airasia.com/news/2026/2/20/airasia-teams-up-with-tat-to-ignite-domestic-tourism-following-lisas-footsteps-offering-up-to-15-off-and-a-chance-to-win-free-flights-for-a-year"
-  - name: "Travel And Tour World — Thailand fuel tax cut and special flight offers 2026"
-    url: "https://www.travelandtourworld.com/news/article/thailand-supports-domestic-tourism-with-fuel-tax-cut-and-special-flight-offers-for-2026/"
-  - name: "Mekong Tourism — Thailand free domestic flights campaign"
-    url: "https://mekongtourism.org/thailand-launches-bold-new-campaign-offering-free-domestic-flights-to-international-visitors-explore-hidden-destinations-and-boost-the-local-economy/"
 ---
 
-## Wat is de Fly Your Feelings-campagne?
+De **Fly Your Feelings-campagne van Thai AirAsia en TAT** had een boekingsperiode van 1 maart tot en met 31 mei 2026. Die periode is verstreken. De bijbehorende promotiecode en kansactie worden hier daarom niet meer als actuele aanbieding getoond.
 
-AirAsia en de Tourism Authority of Thailand (TAT) sloegen in februari 2026 de handen ineen voor "Fly Your Feelings", een campagne die het [binnenlandse toerisme](/blog/thailand-domestic-tourism-push-tat-festival-2026/) een boost moet geven in het voetspoor van [Lisa](/blog/lisa-blackpink-thailand-tourism-ambassador-2026/), de in Thailand geboren Blackpink-superster en officiële toerisme-ambassadeur van het land. Reizigers krijgen 15 procent korting op vluchten naar acht highlight-provincies wanneer ze de promocode **TATXLISA** gebruiken in de AirAsia MOVE-app.
+## Wat hield de campagne in?
 
-## Hoe werkt de actie?
+De actie sloot aan op TAT's campagne met Amazing Thailand-ambassadeur Lisa (Lalisa Manobal). AirAsia koppelde daar tijdelijke korting op binnenlandse routes en een promotionele prijsvraag aan. Volgens de officiële AirAsia-aankondiging gold de reisperiode van 15 maart tot en met 30 september 2026.
 
-Boek via AirAsia MOVE en vul bij het afrekenen de code TATXLISA in voor 15 procent korting op binnenlandse vluchten. Je kunt boeken tussen 15 maart en 30 september 2026 — het staartje van het hoogseizoen én het hele groene seizoen, traditioneel de goedkoopste maanden om binnen Thailand te vliegen. Bekijk onze [gids beste tijd om Thailand te bezoeken](/blog/best-time-to-visit-thailand/) om te zien wat elk seizoen te bieden heeft.
+| Onderdeel | Historische status |
+|---|---|
+| Boekingsperiode | 1 maart–31 mei 2026, afgelopen |
+| Reisperiode | 15 maart–30 september 2026 |
+| Type actie | Tijdelijke korting en kansactie |
+| Actuele boekings-CTA | Geen; oude actievoorwaarden zijn niet meer bruikbaar |
 
-De campagne zet acht provincies in de spotlight die ook in Lisa's toerismecampagnes voorkwamen, zodat bezoekers verder kijken dan [Bangkok](/city/bangkok/) en [Phuket](/city/phuket/).
+Een al geboekte reis kan dus nog binnen de genoemde reisperiode vallen, maar dat maakt de promotie niet opnieuw boekbaar. Controleer een bestaande reservering rechtstreeks in je eigen AirAsia-account.
 
-## Win een jaar lang gratis vliegen
+## Waarom we geen oude korting tonen
 
-Dit is de grote blikvanger: de eerste drie reizigers die tijdens de campagneperiode alle acht provincies bezoeken, winnen een heel jaar lang gratis binnenlandse vluchten met AirAsia. Een flinke bonus voor wie een langere rondreis door [Thailand in 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) plant.
+Een verlopen kortingscode naast een vluchtknop kan de indruk wekken dat de prijs nog beschikbaar is. Dat zou onduidelijk en commercieel onzorgvuldig zijn. Deze pagina bevat daarom geen affiliateknop, geen vaste vluchtprijs en geen claim dat er nu gratis vluchten te winnen zijn.
 
-## Ook Songkran-vluchtdeals
+Voor een nieuwe binnenlandse vlucht vergelijk je actuele vertrektijden, bagagevoorwaarden, luchthaven en totaalprijs rechtstreeks bij de vervoerder. Let vooral op het verschil tussen Bangkok Suvarnabhumi en Don Mueang en controleer of ruimbagage in het gekozen tarief zit.
 
-De Fly Your Feelings-campagne komt bovenop bredere afspraken tussen luchtvaartmaatschappijen rond het [Songkran-festival](/blog/songkran-festival-2026-guide/) van 2026. De Airlines Association of Thailand werkte samen met aangesloten maatschappijen om extra vluchten in te zetten en de maximumprijzen tot 30 procent te verlagen tijdens de drukke aprilperiode — zie [Songkran-vluchtdeals](/blog/songkran-2026-airlines-discount-flights/) voor het complete overzicht. Met een slimme boeking kun je deze aanbiedingen stapelen met de TATXLISA-code voor serieuze besparingen.
+## Wat reizigers uit de campagne kunnen meenemen
 
-## Is deze deal iets voor jou?
+De acht uitgelichte bestemmingen lieten zien dat binnenlandse routes ook toegang geven tot Noord- en Noordoost-Thailand, niet alleen tot bekende strandplaatsen. Een marketingcampagne is echter geen routeadvies. Kies een bestemming op basis van seizoen, reistijd over land, beschikbare dagen en je eigen interesses.
 
-Plan je in 2026 toch al een rondreis tussen Thaise provincies? Dan is deze actie een no-brainer. Vijftien procent korting telt snel op als je meerdere trajecten boekt — bijvoorbeeld [Bangkok](/blog/best-day-trips-from-bangkok/) naar [Chiang Mai](/city/chiang-mai/), dan door naar [Krabi](/city/krabi/) en vervolgens naar [Udon Thani](/city/udon-thani/). De hoofdprijs van een jaar gratis vliegen is een longshot, maar ook zonder te winnen zijn alleen al de kortingen het invoeren van de code waard. Een van de Lisa-hotspots is [de Red Lotus Sea in Udon Thani](/blog/red-lotus-sea-udon-thani-lisa-effect-record-visitors-2026/), waar na haar campagne recordaantallen bezoekers werden geteld — een perfect voorbeeld van wat deze vluchten je kunnen opleveren.
+Wie Bangkok combineert met een tweede regio, doet er goed aan minstens één volledige reisdag vrij te houden wanneer vlucht, transfer en hotelwissel samenkomen.
 
-Download de AirAsia MOVE-app, vul **TATXLISA** in en begin met het uitstippelen van je route. Hulp nodig bij het kiezen van provincies? Kijk in onze [2 weken Thailand route](/blog/thailand-itinerary-2-weeks/) of de [Thailand visumgids](/blog/thailand-visa-guide-2026/) als je de inreispapieren nog moet regelen. Vanuit Nederland vlieg je meestal via Bangkok (KLM biedt directe vluchten vanaf Schiphol), waarna deze binnenlandse deals perfect aansluiten.
+## Veelgestelde vragen
+
+### Werkt de promotiecode uit 2026 nog?
+
+Nee, niet volgens de gepubliceerde boekingsperiode. Gebruik geen oude campagnepagina als garantie voor korting.
+
+### Kan een geboekte reis nog doorgaan?
+
+Mogelijk, wanneer je reservering binnen de officiële reisperiode valt. Je boekingsbevestiging en AirAsia-account zijn leidend.
+
+### Is deze pagina verbonden aan AirAsia?
+
+Nee. Dit is een onafhankelijk campagnearchief van Go2Thailand en bevat geen betaalde boekingsuitgang.

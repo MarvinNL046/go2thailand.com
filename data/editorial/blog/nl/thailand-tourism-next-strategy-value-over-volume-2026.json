@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tourism-next-strategy-value-over-volume-2026",
+  "route": "/nl/blog/thailand-tourism-next-strategy-value-over-volume-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand Tourism Next 2026: samengevoegd | Go2Thailand",
+    "description": "Deze dubbele Tourism Next-pagina is gearchiveerd. Lees de centrale uitleg over Thailands Value over Volume-strategie.",
+    "primaryKeyword": "Thailand Tourism Next 2026",
+    "secondaryKeywords": ["Value over Volume Thailand", "TAT 2026", "Thailand toerismestrategie"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/thailand-tourism-next-strategy-value-over-volume-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Samengevoegde owner",
+    "title": "Tourism Next staat nu op één plek.",
+    "accent": "Lees de centrale Value over Volume-gids.",
+    "description": "Deze route overlapt volledig met de bestaande hoofdgids en blijft alleen als transparante doorverwijzing bestaan.",
+    "image": "/images/redesign/editorial/thailand-tourism-next-strategy-value-over-volume-2026-hero.webp",
+    "imageAlt": "Lokale Thaise reiservaring als symbool voor waardevol en betekenisvol toerisme",
+    "primaryCta": { "label": "Naar de hoofdgids", "href": "/nl/blog/thailand-tourism-shifts-gears-fewer-visitors-better-experiences-2026/" }
+  },
+  "layout": {
+    "kind": "news-update",
+    "newsStatus": "archived",
+    "checkedAt": "2026-08-01",
+    "heroVariant": "editorial",
+    "navigation": "compact",
+    "density": "standard"
+  },
+  "quickAnswer": "Deze route is gearchiveerd om dubbele zoekintentie te voorkomen. De actuele eigenaar is de gids over Thailand Value over Volume.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "jade", "title": "Eén centrale owner", "description": "De hoofdgids behandelt strategie, reizigersimpact en kwaliteitsclaims met dezelfde officiële TAT-bronnen.", "cta": { "label": "Lees de hoofdgids", "href": "/nl/blog/thailand-tourism-shifts-gears-fewer-visitors-better-experiences-2026/" } },
+    { "kind": "card-grid", "id": "kern", "title": "Wat je daar vindt", "cards": [
+      { "title": "Waarde", "description": "Waarom TAT breder kijkt dan bezoekersaantallen alleen." },
+      { "title": "Spreiding", "description": "Wat bestemming en seizoen wel en niet betekenen voor lokale drukte." },
+      { "title": "Kwaliteitscheck", "description": "Hoe je duurzaamheids- en impactclaims zelf toetst." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële strategiebronnen", "items": [
+      { "title": "TAT sets Thailand Tourism Next for value growth plan", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/01/tat-sets-thailand-tourism-next-for-value-growth-plan/", "checkedAt": "2026-08-01" },
+      { "title": "TAT refocuses on Value over Volume", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/04/tat-refocuses-on-value-over-volume-as-2026-tourism-outlook-is-recalibrated/", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

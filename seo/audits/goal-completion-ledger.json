@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T00:06:55.651Z",
+  "generatedAt": "2026-08-01T00:12:13.818Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,11 @@
       "premium": 667,
       "hybrid": 0,
       "noSignature": 33,
-      "exactOwners": 440,
+      "exactOwners": 442,
       "duplicateExactOwnerRoutes": [],
       "contextualAmazonRoutes": 105,
       "amazonLinks": 230,
-      "provisionalInventoryDecisions": 168,
+      "provisionalInventoryDecisions": 161,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -702,24 +702,24 @@
       "closed": true
     },
     "nl:editorial": {
-      "definition": "The Dutch editorial family is in progress. The blog hub and 84 independently reviewed article owners use the typed premium editorial system or a registered specialized renderer with typed evidence. Twenty-seven overlapping, price-led, superseded or elapsed owners are archived with noindex; eleven exact duplicates also redirect permanently to established NL owners. Every remaining article still requires an explicit update, consolidation or retire decision.",
+      "definition": "The Dutch editorial family is in progress. The blog hub and 91 independently reviewed article owners use the typed premium editorial system or a registered specialized renderer with typed evidence. Thirty-two overlapping, price-led, superseded or elapsed owners are archived with noindex; eleven exact duplicates also redirect permanently to established NL owners. Every remaining article still requires an explicit update, consolidation or retire decision.",
       "expected": 253,
-      "complete": 85,
-      "exactOwners": 64,
-      "remainingCount": 168,
+      "complete": 92,
+      "exactOwners": 66,
+      "remainingCount": 161,
       "remaining": [
         "/nl/blog/snorkelen-thailand-beste-eilanden-heldere-zicht/",
         "/nl/blog/beste-streetfood-bangkok-wijken-plekken-proeven/",
         "/nl/blog/koh-samui-voor-nederlanders-vluchten-via-bangkok-transfers-beste-wijken/",
         "/nl/blog/phuket-weer/",
         "/nl/blog/bangkok-travel-tips-reddit/",
-        "/nl/blog/songkran-2026-survival-guide-what-to-know/",
         "/nl/blog/anantara-siam-bangkok-50-million-renovation-garden-suites-2026/",
         "/nl/blog/andaz-one-bangkok-luxury-hotel-lumphini-guide-2026/",
         "/nl/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/",
         "/nl/blog/bangkok-chiang-mai-sleeper-train-guide-2026/",
         "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/",
-        "/nl/blog/bangkok-specialty-coffee-cafe-guide-2026/"
+        "/nl/blog/bangkok-specialty-coffee-cafe-guide-2026/",
+        "/nl/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/"
       ],
       "remainingTruncated": true,
       "evidence": [
@@ -751,7 +751,9 @@
         "seo/audits/nl-editorial-comparison-family-batch-6-2026-08-01.md",
         "seo/research/nl/2026-08-01-editorial-comparison-family-batch-6-current-web.md",
         "seo/audits/nl-editorial-planning-current-affairs-batch-10-2026-08-01.md",
-        "seo/research/nl/2026-08-01-editorial-planning-current-affairs-batch-10-current-web.md"
+        "seo/research/nl/2026-08-01-editorial-planning-current-affairs-batch-10-current-web.md",
+        "seo/audits/nl-editorial-events-policy-batch-8-2026-08-01.md",
+        "seo/research/nl/2026-08-01-editorial-events-policy-batch-8-current-web.md"
       ],
       "closed": false
     },
@@ -7388,12 +7390,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -8760,12 +8762,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -8998,12 +9000,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -9264,12 +9266,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -9348,12 +9350,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -9726,12 +9728,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -10020,12 +10022,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
