@@ -146,6 +146,13 @@ export function NlItineraryGuideTemplate({ guide }: Props) {
         { href: '#vragen', label: 'Vragen', icon: ShieldCheck },
       ]} />
 
+      <section className="border-b border-jade/10 bg-white" aria-label="Redactionele informatie">
+        <div className="container-custom flex flex-col gap-2 py-4 text-xs font-medium text-charcoal/62 sm:flex-row sm:items-center sm:justify-between">
+          <p><span className="font-extrabold text-jade">GO2 Thailand-redactie</span><span className="mx-2 text-jade/25">·</span>Praktische routekeuzes, geen afvinklijst.</p>
+          {guide.updatedAt ? <p className="text-charcoal/52">Laatst bijgewerkt: {guide.updatedAt}</p> : null}
+        </div>
+      </section>
+
       <section id="opbouw" className="section-divider-bottom scroll-mt-24 py-16 lg:py-24">
         <div className="container-custom">
           <div className="grid gap-8 lg:grid-cols-[.72fr_1.28fr] lg:items-end">
@@ -160,7 +167,7 @@ export function NlItineraryGuideTemplate({ guide }: Props) {
               <span className="relative z-10 grid h-9 w-9 place-items-center rounded-full border-4 border-white bg-saffron text-xs font-black text-jade shadow-sm">{index + 1}</span>
               <p className="mt-7 text-[10px] font-extrabold uppercase tracking-[.14em] text-saffron-dark">{base.nights}</p>
               <h2 className="mt-2 font-display text-[2rem] font-semibold leading-none text-jade">{base.title}</h2>
-              <p className="mt-4 text-sm font-medium leading-6 text-charcoal/65">{base.role}</p>
+              <p className="mt-4 text-base font-medium leading-7 text-charcoal/65">{base.role}</p>
               <span className="mt-auto inline-flex items-center gap-2 pt-5 text-sm font-extrabold text-jade">Bekijk de bestemming <ArrowRight size={14} className="text-saffron-dark transition group-hover:translate-x-1" /></span>
             </Link>)}
           </div>
@@ -173,8 +180,8 @@ export function NlItineraryGuideTemplate({ guide }: Props) {
           <ol className="relative space-y-4 before:absolute before:bottom-7 before:left-[1.4rem] before:top-7 before:border-l-2 before:border-dashed before:border-saffron/45">
             {guide.days.map((day, index) => <li key={`${day.day}-${day.title}`} className={`relative grid gap-4 rounded-2xl border p-5 pl-16 sm:grid-cols-[.82fr_1.18fr] sm:p-6 sm:pl-20 ${day.flex ? 'border-saffron/35 bg-[#fff8eb]' : 'border-jade/10 bg-white'}`}>
               <span className={`absolute left-3 top-5 z-10 grid h-8 w-8 place-items-center rounded-full text-[10px] font-black shadow-sm sm:left-5 ${day.flex ? 'bg-saffron text-jade' : 'bg-jade text-white'}`}>{index + 1}</span>
-              <div><p className="text-[10px] font-extrabold uppercase tracking-[.14em] text-saffron-dark">Dag {day.day} · {day.base}</p><h3 className="mt-2 font-display text-[1.8rem] font-semibold leading-none text-jade">{day.title}</h3><p className="mt-3 text-sm font-medium leading-6 text-charcoal/66">{day.focus}</p></div>
-              <div className="flex items-start gap-3 rounded-xl bg-tonal/75 p-4"><Compass size={17} className="mt-0.5 shrink-0 text-saffron-dark" /><div><p className="text-[10px] font-extrabold uppercase tracking-[.12em] text-jade/55">Beslismoment</p><p className="mt-2 text-sm font-bold leading-6 text-jade">{day.decision}</p></div></div>
+              <div><p className="text-[10px] font-extrabold uppercase tracking-[.14em] text-saffron-dark">Dag {day.day} · {day.base}</p><h3 className="mt-2 font-display text-[1.8rem] font-semibold leading-none text-jade">{day.title}</h3><p className="mt-3 text-[15px] font-medium leading-7 text-charcoal/66">{day.focus}</p></div>
+              <div className="flex items-start gap-3 rounded-xl bg-tonal/75 p-4"><Compass size={17} className="mt-0.5 shrink-0 text-saffron-dark" /><div><p className="text-[10px] font-extrabold uppercase tracking-[.12em] text-jade/55">Beslismoment</p><p className="mt-2 text-[15px] font-bold leading-7 text-jade">{day.decision}</p></div></div>
             </li>)}
           </ol>
         </div>
@@ -183,7 +190,7 @@ export function NlItineraryGuideTemplate({ guide }: Props) {
       <section id="flexibel" className="section-divider-bottom scroll-mt-24 py-16 lg:py-24">
         <div className="container-custom">
           <SectionHeading eyebrow="Reserveplan is onderdeel van de route" title="Zo blijft de reis overeind." description="Weer, luchtkwaliteit, parktoegang, zee en eigen energie zijn geen voetnoten. Wissel de dagtaak; behoud zo mogelijk dezelfde hotelbasis." />
-          <div className="mt-9 grid gap-5 md:grid-cols-3">{guide.flexCards.map((card, index) => <article key={card.title} className="relative overflow-hidden rounded-2xl border border-jade/10 bg-white p-6 shadow-editorial-card"><span className="absolute -right-4 -top-8 font-display text-[7rem] font-semibold text-tonal">0{index + 1}</span><Sparkles size={22} className="relative text-saffron-dark" /><h3 className="relative mt-7 font-display text-[1.9rem] font-semibold leading-none text-jade">{card.title}</h3><p className="relative mt-4 text-sm font-medium leading-6 text-charcoal/65">{card.copy}</p><p className="relative mt-5 border-t border-jade/10 pt-4 text-[11px] font-extrabold uppercase tracking-[.1em] text-jade">{card.rule}</p></article>)}</div>
+          <div className="mt-9 grid gap-5 md:grid-cols-3">{guide.flexCards.map((card, index) => <article key={card.title} className="relative overflow-hidden rounded-2xl border border-jade/10 bg-white p-6 shadow-editorial-card"><span className="absolute -right-4 -top-8 font-display text-[7rem] font-semibold text-tonal">0{index + 1}</span><Sparkles size={22} className="relative text-saffron-dark" /><h3 className="relative mt-7 font-display text-[1.9rem] font-semibold leading-none text-jade">{card.title}</h3><p className="relative mt-4 text-[15px] font-medium leading-7 text-charcoal/65">{card.copy}</p><p className="relative mt-5 border-t border-jade/10 pt-4 text-[11px] font-extrabold uppercase tracking-[.1em] text-jade">{card.rule}</p></article>)}</div>
 
           <div className="mt-12 overflow-hidden rounded-2xl bg-jade text-white lg:grid lg:grid-cols-[.72fr_1.28fr]">
             <div className="p-7 lg:p-9"><p className="eyebrow !text-saffron">Overgangen</p><h2 className="font-display text-[2.7rem] font-semibold leading-[.92]">Maak van iedere wissel een keten.</h2><p className="mt-5 text-sm font-medium leading-7 text-white/66">Noteer hotelcheckout, vertrekterminal, hoofdticket, aankomstterminal en laatste transfer apart. Bescherm losse tickets met extra marge.</p></div>
@@ -195,7 +202,7 @@ export function NlItineraryGuideTemplate({ guide }: Props) {
       <section id="boeken" className="section-divider-bottom scroll-mt-24 bg-tonal py-16 lg:py-24">
         <div className="container-custom">
           <SectionHeading eyebrow="Pas na de routekeuze" title="Controleer de actuele uitvoering." description="We tonen geen schijnzekerheid met vaste voorbeeldprijzen. Open de aanbieder, controleer het actuele totaal en vergelijk voorwaarden vóór je boekt." />
-          <div className="mt-9 grid gap-5 lg:grid-cols-3">{bookingCards.map(({ key, icon: Icon, title, copy, label, provider, url }) => <article key={key} className="flex flex-col rounded-2xl border border-jade/10 bg-white p-6 shadow-editorial-card"><span className="grid h-11 w-11 place-items-center rounded-xl border border-jade/10 bg-tonal text-jade"><Icon size={21} /></span><h3 className="mt-6 font-display text-[1.75rem] font-semibold leading-none text-jade">{title}</h3><p className="mt-4 text-sm font-medium leading-6 text-charcoal/65">{copy}</p><a href={withPlacementSubId(url, subId, `${guide.slug}-${key}`)} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-jade btn-jade-pattern group mt-6 w-fit">{label} <ExternalLink size={14} className="text-saffron" /></a><AffiliateDisclosure className="mt-3">Gesponsorde link naar {provider}. Beschikbaarheid, prijs en voorwaarden kunnen wijzigen.</AffiliateDisclosure></article>)}</div>
+          <div className="mt-9 grid gap-5 lg:grid-cols-3">{bookingCards.map(({ key, icon: Icon, title, copy, label, provider, url }) => <article key={key} className="flex flex-col rounded-2xl border border-jade/10 bg-white p-6 shadow-editorial-card"><span className="grid h-11 w-11 place-items-center rounded-xl border border-jade/10 bg-tonal text-jade"><Icon size={21} /></span><h3 className="mt-6 font-display text-[1.75rem] font-semibold leading-none text-jade">{title}</h3><p className="mt-4 text-base font-medium leading-7 text-charcoal/65">{copy}</p><a href={withPlacementSubId(url, subId, `${guide.slug}-${key}`)} target="_blank" rel="noopener noreferrer nofollow sponsored" className="btn-jade btn-jade-pattern group mt-6 w-fit">{label} <ExternalLink size={14} className="text-saffron" /></a><AffiliateDisclosure className="mt-3">Gesponsorde link naar {provider}. Beschikbaarheid, prijs en voorwaarden kunnen wijzigen.</AffiliateDisclosure></article>)}</div>
           <div className="mt-8 grid gap-3 rounded-2xl border border-jade/10 bg-white p-6 sm:grid-cols-3">{['Controleer de exacte terminal of pier', 'Vergelijk het totaal inclusief bagage en transfer', 'Bewaar een land- of rustalternatief'].map((item) => <p key={item} className="flex items-start gap-3 text-sm font-bold leading-6 text-jade"><span className="grid h-6 w-6 shrink-0 place-items-center rounded-full bg-tonal"><Check size={13} className="text-saffron-dark" /></span>{item}</p>)}</div>
         </div>
       </section>
