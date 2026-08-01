@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thai-airways-summer-2026-new-routes-amsterdam-auckland-perth",
+  "route": "/nl/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thai Airways Amsterdam–Bangkok 2026: routecheck",
+    "description": "Controleer de dagelijkse Thai Airways-vlucht Amsterdam–Bangkok, de geplande Auckland-route en bestaande Perth-verbinding zonder verouderde vanafprijzen.",
+    "primaryKeyword": "Thai Airways Amsterdam Bangkok 2026",
+    "secondaryKeywords": ["directe vlucht Amsterdam Bangkok", "Thai Airways Auckland 2026", "Thai Airways Perth"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth/"
+  },
+  "hero": {
+    "eyebrow": "Routecheck 2026",
+    "title": "Amsterdam rechtstreeks naar Bangkok",
+    "accent": "Bevestigd, gepland of al bestaand?",
+    "description": "Scheid de dagelijkse Amsterdam-route van een Auckland-plan en de bestaande Perth-verbinding voordat je vergelijkt.",
+    "image": "/images/redesign/editorial/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth-hero.webp",
+    "imageAlt": "Ongebrand passagiersvliegtuig stijgt bij zonsopkomst op vanaf een luchthaven in Bangkok",
+    "primaryCta": { "label": "Vergelijk de routes", "href": "#status" },
+    "secondaryCta": { "label": "Maak de prijscheck", "href": "#prijs" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Thai Airways vliegt sinds 1 juli 2026 dagelijks non-stop tussen Bangkok en Amsterdam. Auckland was voor later in 2026 gepland; Perth is al onderdeel van het netwerk. Controleer je exacte datum in het officiële boekingssysteem.",
+  "blocks": [
+    { "kind": "comparison", "id": "status", "title": "Drie routes, drie statussen", "options": [
+      { "title": "Amsterdam", "label": "Bevestigd", "description": "Dagelijkse non-stopdienst sinds 1 juli 2026 volgens de officiële routepagina." },
+      { "title": "Auckland", "label": "Gepland", "description": "In officiële investorinformatie voorzien voor later in 2026; alleen boekbaarheid op jouw datum telt." },
+      { "title": "Perth", "label": "Bestaand", "description": "Staat al in het verkoopnetwerk en is dus niet hetzelfde soort nieuwe route als Amsterdam." }
+    ] },
+    { "kind": "checklist", "id": "prijs", "title": "Vergelijk de echte totaalprijs", "items": ["Exact dezelfde reisdata", "Ruimbagage en stoelkeuze", "Wijzigingsvoorwaarden", "Totale reistijd", "Aansluitrisico bij losse tickets"] },
+    { "kind": "callout", "id": "live", "tone": "saffron", "title": "Geen statische vanafprijs", "description": "Vliegtarieven veranderen per datum, markt en tariefklasse. Controleer de werkelijke prijs en voorwaarden op het laatste scherm vóór betaling." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Vliegt Thai Airways rechtstreeks van Amsterdam naar Bangkok?", "answer": "Ja. De officiële routepagina noemt een dagelijkse non-stopdienst sinds 1 juli 2026." },
+      { "question": "Is een directe vlucht altijd goedkoper?", "answer": "Nee. Vergelijk totaalprijs, bagage, reistijd en wijzigingsvoorwaarden voor dezelfde data." },
+      { "question": "Is Auckland al gegarandeerd?", "answer": "De route was officieel gepland voor later in 2026. Alleen een boekbare vlucht op jouw datum is bruikbaar voor je reisplan." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire airlinechecks", "items": [
+      { "title": "Flights to Amsterdam", "publisher": "Thai Airways", "url": "https://www.thaiairways.com/flights/en/flights-to-amsterdam", "checkedAt": "2026-08-01", "note": "Officiële bevestiging van de dagelijkse non-stoproute en startstatus." },
+      { "title": "Management Discussion and Analysis 2025", "publisher": "Thai Airways Investor Relations", "url": "https://ir.thaiairways.com/wp-content/uploads/2026/02/20260226_thai-mda-y2025-EN.pdf", "checkedAt": "2026-08-01", "note": "Officieel netwerkplan voor Amsterdam en Auckland." },
+      { "title": "Destination information", "publisher": "Thai Airways", "url": "https://www.thaiairways.com/flights/en-au/destination-information", "checkedAt": "2026-08-01", "note": "Actuele bestemmings- en boekingscontext voor Perth en Auckland." }
+    ] }
+  ]
+}

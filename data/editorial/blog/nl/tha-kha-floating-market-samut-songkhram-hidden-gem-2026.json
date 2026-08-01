@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "tha-kha-floating-market-samut-songkhram-hidden-gem-2026",
+  "route": "/nl/blog/tha-kha-floating-market-samut-songkhram-hidden-gem-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Tha Kha Floating Market: bezoektips en vervoer",
+    "description": "Bezoek Tha Kha Floating Market met actuele TAT-uren, een rustige route vanaf Bangkok en respectvolle tips voor de lokale kanaalmarkt.",
+    "primaryKeyword": "Tha Kha Floating Market",
+    "secondaryKeywords": ["Tha Kha drijvende markt", "Samut Songkhram markt", "drijvende markt bij Bangkok"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/tha-kha-floating-market-samut-songkhram-hidden-gem-2026/"
+  },
+  "hero": {
+    "eyebrow": "Ochtend aan het kanaal",
+    "title": "Tha Kha Floating Market",
+    "accent": "Klein, lokaal en vroeg",
+    "description": "Plan de juiste ochtend, combineer alleen logische stops en bezoek deze werkende kanaalmarkt met aandacht.",
+    "image": "/images/redesign/editorial/tha-kha-floating-market-samut-songkhram-hidden-gem-2026-hero.webp",
+    "imageAlt": "Lokale verkopers in houten boten met fruit en groenten op een rustig kanaal in Samut Songkhram",
+    "primaryCta": { "label": "Kies je bezoekplan", "href": "#plannen" },
+    "secondaryCta": { "label": "Check de ochtend", "href": "#uren" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "route", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Bezoek Tha Kha op een geverifieerde weekendochtend, bij voorkeur vroeg. Combineer de markt alleen met Amphawa of Maeklong als vervoer en verblijftijd realistisch zijn.",
+  "blocks": [
+    { "kind": "card-grid", "id": "plannen", "eyebrow": "Dagkeuze", "title": "Drie rustige routes", "cards": [
+      { "title": "Alleen Tha Kha", "description": "Goed voor een langzame ochtend met markt, ontbijt en eventueel een lokale boottocht." },
+      { "title": "Tha Kha + Amphawa", "description": "Logisch bij een overnachting: Tha Kha vroeg, Amphawa later wanneer die markt op gang komt." },
+      { "title": "Tha Kha + Maeklong", "description": "Past in één dag als vervoer vooraf vaststaat en je geen onrealistisch kort marktbezoek plant." }
+    ] },
+    { "kind": "callout", "id": "uren", "tone": "cream", "title": "Kalender vóór klok", "description": "TAT noemt weekendochtenden en traditionele marktdagen volgens de maankalender. Controleer kort voor vertrek de actuele dag en uren; rond de middag neemt het aanbod af." },
+    { "kind": "checklist", "id": "respect", "title": "Zo bezoek je de markt zorgvuldig", "items": ["Vraag toestemming voor close-upfoto's", "Blokkeer geen aanlegplek", "Neem kleine coupures mee", "Vraag ingrediënten opnieuw bij elke verkoper", "Laat geen afval aan het kanaal achter"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Tha Kha elke dag open?", "answer": "Nee. Weekendochtenden zijn het meest voorspelbaar; een deel van de traditionele kalender volgt maanfases. Controleer voor vertrek." },
+      { "question": "Is er entree?", "answer": "De markt is een openbare markt. Eten, vervoer en eventuele boottochten betaal je afzonderlijk." },
+      { "question": "Is Tha Kha beter dan Damnoen Saduak?", "answer": "Dat hangt af van je doel. Tha Kha is kleinschaliger; Damnoen Saduak heeft meer toeristische infrastructuur." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bestemmingschecks", "items": [
+      { "title": "Samut Songkhram", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Samut-Songkhram/238", "checkedAt": "2026-08-01", "note": "Officiële provinciale context voor Tha Kha." },
+      { "title": "10 things to do in Samut Songkhram", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-samut-songkhram", "checkedAt": "2026-08-01", "note": "Gepubliceerde markturen, kalender en lokale contactgegevens." }
+    ] }
+  ]
+}

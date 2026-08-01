@@ -1,49 +1,61 @@
 ---
-title: "Thai Airways Zomer 2026: Nieuwe Directe Vluchten naar Amsterdam en Meer"
+title: "Thai Airways Amsterdam–Bangkok in 2026: routecheck"
 slug: "thai-airways-summer-2026-new-routes-amsterdam-auckland-perth"
 date: "2026-03-23"
-author:
-  name: "Go2Thailand Editorial"
+lastUpdated: "2026-08-01"
+description: "Controleer de dagelijkse Thai Airways-vlucht Amsterdam–Bangkok, de geplande Auckland-route en bestaande Perth-verbinding zonder verouderde vanafprijzen."
 category: "transport"
-tags: ["Thai Airways 2026", "Vluchten Bangkok", "Directe vlucht Amsterdam Thailand", "Auckland Thailand", "Perth Thailand", "Thailand luchtvaart", "beste vlucht Thailand", "tips vliegen Amsterdam Bangkok", "directe vlucht Schiphol"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Ontdek de nieuwe zomer 2026 schema van Thai Airways met directe vluchten vanuit Bangkok naar Amsterdam, Auckland en Perth. Boek nu voor je Thailand vakantie en geniet van meer opties en lagere prijzen vanuit Nederland en Oceanië."
+author:
+  name: "Go2Thailand Redactie"
+tags: ["Thai Airways Amsterdam Bangkok", "directe vlucht Thailand", "Thai Airways 2026 routes"]
+image: "/images/redesign/editorial/thai-airways-summer-2026-new-routes-amsterdam-auckland-perth-hero.webp"
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 6
 sources:
-  - name: "Travel And Tour World — Thailand Summer 2026 Flight Schedule"
-    url: "https://www.travelandtourworld.com/news/article/thailand-joins-australia-the-netherlands-new-zealand-and-the-uk-with-major-summer-2026-flight-schedule-offering-passengers-direct-flights-to-amsterdam-auckland-perth-and-more/"
-  - name: "Travel And Tour World — Thai Airways Expands Network in 2026"
-    url: "https://www.travelandtourworld.com/news/article/thai-airways-expands-network-in-2026-with-new-routes-to-china-india-hong-kong-and-regional-destinations/"
-  - name: "The Traveler — Thai Airways Adds New Jets in 2026"
-    url: "https://www.thetraveler.org/thai-airways-adds-new-jets-in-2026-to-power-bangkok-hub/"
+  - name: "Thai Airways — directe vlucht Bangkok–Amsterdam"
+    url: "https://www.thaiairways.com/flights/en/flights-to-amsterdam"
+  - name: "Thai Airways Investor Relations — jaarresultaat 2025 en netwerkplan"
+    url: "https://ir.thaiairways.com/wp-content/uploads/2026/02/20260226_thai-mda-y2025-EN.pdf"
+  - name: "Thai Airways — bestemmingsinformatie"
+    url: "https://www.thaiairways.com/flights/en-au/destination-information"
 ---
 
-## Bangkok Wordt Beter Bereikbaar Dan Ooit
+## Wat is daadwerkelijk bevestigd?
 
-Thai Airways International heeft zijn vluchtenschema voor de zomer van 2026 gepubliceerd, dat loopt van 29 maart tot 24 oktober 2026. De belangrijkste toevoegingen zijn non-stop vluchten vanaf Bangkok Suvarnabhumi naar Amsterdam, Auckland en Perth, waardoor reizigers uit Europa, Oceanië en Australië directe toegang krijgen tot Thailand zonder overstappen. Deze uitbreidingen komen samen met een bredere golf van [nieuwe routes naar Thailand in 2026 van FlyDubai, Norse en Scoot](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/), wat de positie van Bangkok als belangrijke hub versterkt. Het is ook goed om te weten dat [Thai Airways tegelijkertijd de tarieven met 10 tot 15 procent verhoogt vanwege de jetbrandstofkosten](/blog/thai-airways-fare-hike-10-15-percent-fuel-costs-2026/), dus boek vroeg op deze nieuwe routes voor je Thailand reis.
+Thai Airways hervatte op **1 juli 2026** de rechtstreekse verbinding tussen Bangkok en Amsterdam. De eigen routepagina noemt een dagelijkse non-stopdienst met een Airbus A350-900. Dat is voor Nederlandse reizigers het concrete nieuws: je kunt zonder overstap tussen Schiphol en Bangkok vliegen, maar vluchtdata en toesteltype blijven operationeel wijzigbaar.
 
-## Nieuwe Langeafstandsroutes
+In de investor update van februari 2026 stond Auckland als geplande dagelijkse route voor later in 2026. Behandel die planning niet als een garantie totdat jouw exacte reisdatum boekbaar is. Perth is bovendien geen ‘nieuwe’ bestemming in dezelfde betekenis: Thai Airways verkoopt al verbindingen tussen Bangkok en Perth. De oude paginatitel bundelde dus drie verschillende statussen; deze gids scheidt ze bewust.
 
-De route naar Amsterdam is een grote winst voor Europese reizigers, vooral vanuit Nederland. Tot nu toe was KLM de enige maatschappij met een non-stop verbinding tussen de Nederlandse hoofdstad en Bangkok, vaak met vertrek vanaf Schiphol. Met de terugkeer van Thai Airways op deze route neemt de concurrentie toe, wat de prijzen in het drukke zomerseizoen beter onder controle moet houden. Houd er rekening mee dat [verstoringen in het Midden-Oosten-luchtverkeer extra vluchttijd toevoegen op Europa-Azië routes](/blog/middle-east-conflict-thailand-flights-airfare-2026/), wat de werkelijke reistijd naar Amsterdam kan beïnvloeden. Dit is ideaal voor Nederlandse vakantiegangers die op zoek zijn naar de beste reistijd naar Thailand.
+## Amsterdam: zo vergelijk je eerlijk
 
-Auckland markeert de terugkeer van Thai Airways naar Nieuw-Zeeland, een route die tijdens de pandemie werd opgeschort en nooit volledig is hersteld. De dienst wordt verwacht te starten in juli 2026 met meerdere vluchten per week.
+Vergelijk niet alleen het eerste bedrag op een zoekscherm. Zet voor dezelfde datum naast elkaar:
 
-Perth completeert de nieuwe langeafstandstoenames en vult de bestaande Thai Airways-diensten naar Sydney en Melbourne aan. West-Australië ziet een groeiende vraag naar Thaise strandvakanties, wat de route commercieel aantrekkelijk maakt. Reizigers vanuit Perth bereiken [Phuket](/blog/phuket-travel-guide-2026/) en de [beste stranden in Thailand](/blog/best-beaches-thailand/) gemakkelijk via aansluitende binnenlandse vluchten.
+- totale reistijd en aankomsttijd in Bangkok;
+- ruimbagage en stoelkeuze in jouw tariefklasse;
+- wijzigings- en annuleringsvoorwaarden;
+- kosten en risico van een overstap;
+- totaalprijs na belastingen en eventuele toeslagen.
 
-## Uitgebreid Regionetwerk
+De rechtstreekse route kan duurder zijn maar een hotelnacht, lange overstap of gemiste aansluiting voorkomen. Andersom kan een goede overstaproute veel besparen. Gebruik daarom altijd de live prijs voor jouw data en klik door tot het laatste scherm vóór betaling.
 
-Naast de langeafstandskoppen verhoogt Thai Airways ook de frequenties op populaire regionale routes. Diensten naar China, India en Hongkong worden opgeschaald om te voldoen aan de herstellende vraag uit deze belangrijke markten. Bangkok versterkt zijn positie als grote luchtvaartknooppunt in Zuidoost-Azië. [Singapore Airlines lanceert ook non-stop vluchten naar Chiang Mai in 2026](/blog/singapore-airlines-chiang-mai-nonstop-flights-2026/), wat aantoont dat de regionale expansie een branchebrede trend is.
+Voor de eerste uren na aankomst helpt onze [Bangkok-gids](/nl/city/bangkok/) met vervoer en wijkkeuze. Reis je door, bekijk dan [vervoer in Thailand](/nl/transport/) voordat je een te krappe losse aansluiting boekt.
 
-De maatschappij introduceert ook [nieuwe A321neo-vliegtuigen als onderdeel van zijn moderniseringsprogramma voor een vloot van 32 toestellen](/blog/thai-airways-a321neo-fleet-modernization-32-jets-2026/), wat het uitgebreide schema ondersteunt en de ervaring aan boord verbetert. De verbeterde connectiviteit profiteert ook van de [snelwegverbinding tussen drie luchthavens die Suvarnabhumi, Don Mueang en U-Tapao verbindt](/blog/thailand-three-airport-high-speed-rail-2026-update/), waardoor de luchthavens van Bangkok toegankelijker zijn dan ooit.
+## Auckland en Perth in context
 
-## Wat Dit Betekent voor Reizigers
+De planning voor Bangkok–Auckland werd in officiële bedrijfsdocumenten genoemd met een beoogde start later in 2026. Controleer of een rechtstreekse vlucht zichtbaar is in het officiële boekingssysteem; een netwerkplan is geen ticket.
 
-Meer directe routes leiden doorgaans tot lagere prijzen en kortere reistijden. Als je een reis naar Thailand plant vanuit Europa, Australië of Nieuw-Zeeland in de tweede helft van 2026, zijn deze nieuwe Thai Airways-diensten het waard om in de gaten te houden zodra ze in de verkoop gaan. Eerste bezoekers uit deze markten kunnen bijpraten met onze [essentiële gids voor eerste bezoekers aan Thailand in 2026](/blog/thailand-first-time-visitors-essential-guide-2026/).
+Perth staat in het bestaande bestemmings- en boekingsaanbod. Voor een reis Amsterdam–Perth via Bangkok kunnen de overstaptijd en bagagedoorgifte per ticket verschillen. Boek je losse tickets, dan draag je doorgaans zelf het aansluitrisico.
 
-Luchthaven Suvarnabhumi van Bangkok hoort al bij de drukste in Azië, en de Thaise Burgerluchtvaartautoriteit heeft 2026 uitgeroepen tot het "piekhersteljaar" voor de Thaise luchtvaartindustrie. Met meerdere maatschappijen die capaciteit toevoegen, is de concurrentie fel – en dat profiteert de reiziger. Bekijk onze [toerismevooruitzichten voor Thailand in 2026](/blog/thailand-tourism-outlook-2026-hopes-pressure-uncertainty/) voor context over hoe deze luchtvaartgroei past in het grotere plaatje. Zorg voor je vlucht dat je [Thailand visumregelingen in orde zijn](/blog/thailand-visa-guide-2026/), vooral als je reist vanuit een nieuwe markt zoals Nieuw-Zeeland of West-Australië. Voor Nederlanders is dit een veilige en directe optie zonder zorgen over het regenseizoen.
+## Veelgestelde vragen
 
-## Boektips
+### Vliegt Thai Airways rechtstreeks van Amsterdam naar Bangkok?
 
-Thai Airways opent boekingen meestal drie tot vier maanden voor de lancering van een nieuwe route. Check de website van Thai Airways of meld je aan voor prijsalerts via je favoriete boekingplatform. Prijzen op nieuw gelanceerde routes zijn vaak promotioneel in de eerste weken van de verkoop. Als je reist rond de Songkran-periode, kijk ook naar de [Songkran 2026 kortingsvluchten van luchtvaartmaatschappijen](/blog/songkran-2026-airlines-discount-flights/) voor extra deals. Zodra je vluchten geboekt zijn, gebruik onze [Thailand budgetgids voor 2026](/nl/thailand-index/budget/) om je kosten ter plaatse te plannen, en zorg voor [reisverzekering](/blog/travel-insurance-thailand-guide/) die wijzigingen in langeafstand itineraries dekt.
+Ja. De officiële routepagina vermeldt sinds 1 juli 2026 een dagelijkse non-stopdienst. Controleer je exacte datum vanwege operationele wijzigingen.
+
+### Is een directe vlucht altijd goedkoper?
+
+Nee. Vergelijk totaalprijs, bagage, reistijd en voorwaarden. Een lagere zichtbare prijs kan na opties of een extra overnachting duurder uitvallen.
+
+### Is Auckland al gegarandeerd?
+
+De route stond als plan voor later in 2026 in officiële investorinformatie. Alleen een boekbare vlucht op jouw datum is bruikbaar bewijs voor je reisplan.

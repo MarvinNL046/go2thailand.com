@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "space-time-cube-bangkok-immersive-metaverse-museum-2026",
+  "route": "/nl/blog/space-time-cube-bangkok-immersive-metaverse-museum-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Space & Time Cube Bangkok: bezoekersgids | Go2Thailand",
+    "description": "Plan Space & Time Cube Bangkok met een eerlijke locatiecheck, tijdsduur, bereikbaarheid en vergelijking met andere immersieve attracties.",
+    "primaryKeyword": "Space & Time Cube Bangkok",
+    "secondaryKeywords": ["immersieve kunst Bangkok", "indoor attractie Bangkok", "Space Time Cube tickets"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/space-time-cube-bangkok-immersive-metaverse-museum-2026/"
+  },
+  "hero": {
+    "eyebrow": "Indoor Bangkok",
+    "title": "Space & Time Cube Bangkok",
+    "accent": "Past de omweg bij jouw dag?",
+    "description": "Vergelijk locatie, reistijd en type ervaring voordat je een ticket voor deze projectiewereld kiest.",
+    "image": "/images/redesign/editorial/space-time-cube-bangkok-immersive-metaverse-museum-2026-hero.webp",
+    "imageAlt": "Bezoekers in een donkere immersieve projectieruimte met groene en goudkleurige lichtbanen",
+    "primaryCta": { "label": "Maak de locatiecheck", "href": "#keuze" },
+    "secondaryCta": { "label": "Vergelijk ervaringen", "href": "#vergelijk" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Space & Time Cube is vooral sterk als overdekte visuele ervaring. Controleer de actuele Bangkok-vestiging in Season Bangkae, de totale reistijd en het tickettype voordat je boekt.",
+  "blocks": [
+    { "kind": "card-grid", "id": "keuze", "eyebrow": "Eerst kiezen", "title": "Drie beslischecks", "cards": [
+      { "title": "Locatie", "description": "De officiële site noemt Season Bangkae aan Phet Kasem Road; bereken de route vanaf jouw hotel." },
+      { "title": "Ervaring", "description": "Verwacht projecties, spiegels en korte digitale scènes, niet de collectie van een klassiek museum." },
+      { "title": "Totaaltijd", "description": "Reserveer circa 60–90 minuten binnen plus realistische reistijd aan beide kanten." }
+    ] },
+    { "kind": "comparison", "id": "vergelijk", "title": "Welke indoor ervaring past?", "options": [
+      { "title": "Space & Time Cube", "description": "Fotogenieke projectiewereld in westelijk Bangkok; routecheck is doorslaggevend.", "href": "#keuze", "label": "Locatiecheck" },
+      { "title": "Cave Fantasy", "description": "Andere digitale attractie in MBK; vergelijk zones en doel voordat je twee soortgelijke tickets koopt.", "href": "/nl/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/", "label": "Vergelijk" },
+      { "title": "DIB Bangkok", "description": "Kies dit wanneer curatoriële hedendaagse kunst zwaarder weegt dan een interactieve fotostop.", "href": "/nl/blog/dib-bangkok-contemporary-art-museum-khlong-toei-2026/", "label": "Lees museumgids" }
+    ] },
+    { "kind": "callout", "id": "prijs", "tone": "saffron", "title": "Controleer de werkelijke ticketprijs", "description": "Gebruik je exacte datum en vestiging. Controleer tijdslot, inbegrepen zones en annuleringsvoorwaarden bij de aanbieder; een oude vanafprijs is geen actuele prijs." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Space & Time Cube geschikt bij regen?", "answer": "Ja, de ervaring is binnen. Houd wel rekening met het laatste traject en de reistijd vanuit het centrum." },
+      { "question": "Is dit een traditioneel museum?", "answer": "Nee. Verwacht vooral immersieve projecties en visuele scènes, niet een historische collectie met uitgebreide duiding." },
+      { "question": "Hoe lang heb ik nodig?", "answer": "Plan ongeveer 60 tot 90 minuten binnen en voeg de heen- en terugreis apart toe." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire checks", "items": [
+      { "title": "Officiële locaties en installaties", "publisher": "Space & Time Cube", "url": "https://www.spaceandtimecube.com/tha/film", "checkedAt": "2026-08-01", "note": "Vestigingsadres en gepubliceerde digitale scènes." },
+      { "title": "BTS-routekaart", "publisher": "Bangkok Mass Transit System", "url": "https://www.bts.co.th/eng/library/system-structuer.html", "checkedAt": "2026-08-01", "note": "Primaire railkaart voor de routeplanning." }
+    ] }
+  ]
+}

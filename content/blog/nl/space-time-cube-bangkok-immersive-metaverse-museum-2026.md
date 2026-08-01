@@ -1,63 +1,66 @@
 ---
-title: "Immersief Metaverse Museum Bangkok: Space & Time Cube Thailand Gids"
+title: "Space & Time Cube Bangkok: praktische bezoekersgids"
 slug: "space-time-cube-bangkok-immersive-metaverse-museum-2026"
 date: "2026-03-23"
-author:
-  name: "Go2Thailand Team"
+lastUpdated: "2026-08-01"
+description: "Plan Space & Time Cube Bangkok met een eerlijke locatiecheck, tijdsduur, bereikbaarheid en vergelijking met andere immersieve attracties."
 category: "attractions"
-tags: ["Bangkok bezienswaardigheden", "Space Time Cube", "immersieve kunst", "metaverse museum", "Bangkok 2026", "digitale kunst Bangkok", "Seacon Bangkae", "tips Bangkok attracties", "beste musea Thailand", "familie uitjes Bangkok"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Duik in Space & Time Cube, het 1.500 m² grote immersieve metaverse museum in Bangkok met 27 themakamers, 720-graden projecties en bril-vrije 3D hologrammen. Ontdek highlights, tickets en tips voor je Thailand vakantie – ideaal voor een regenachtige dag vanuit Nederland."
+author:
+  name: "Go2Thailand Redactie"
+tags: ["Space & Time Cube Bangkok", "immersieve kunst Bangkok", "indoor attractie Bangkok"]
+image: "/images/redesign/editorial/space-time-cube-bangkok-immersive-metaverse-museum-2026-hero.webp"
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 6
 sources:
-  - name: "Nation Thailand — Modern 3D metaverse museum Bangkok's latest tourist attraction"
-    url: "https://www.nationthailand.com/life/art-culture/40045410"
-  - name: "Trip.com — Bangkok Space & Time Cube+ Tickets 2026"
-    url: "https://www.trip.com/travel-guide/attraction/bangkok/bangkok-space-and-time-cube-149938826/"
-  - name: "TripAdvisor — Space and Time Cube and Modern 3D Metaverse Museum"
-    url: "https://www.tripadvisor.com/AttractionProductReview-g293916-d33074414-Space_and_Time_Cube_and_Modern_3D_Metaverse_Museum-Bangkok.html"
-  - name: "Experience UK — Bangkok Welcomes Space & Time Cube: A Metaverse Museum Revolutionising Tourism"
-    url: "https://www.experienceuk.org/blog/bangkok-welcomes-space-time-cube-a-metaverse-museum-revolutionising-tourism"
+  - name: "Space & Time Cube — officiële locatie en installaties"
+    url: "https://www.spaceandtimecube.com/tha/film"
+  - name: "BTS — officiële routekaart"
+    url: "https://www.bts.co.th/eng/library/system-structuer.html"
 ---
 
-## Een Nieuw Soort Museum in Bangkok
+## Eerst het eerlijke antwoord
 
-Bangkok barst al uit van de tempels, markten en rooftopbars. Maar in 2026 voegt de stad iets écht unieks toe: Space & Time Cube+, een 1.500 vierkante meter groot immersief metaverse museum in de kelder van het Seacon Bangkae-winkelcentrum. Ben je fan van digitale kunst, lichtinstallaties of zoek je gewoon een originele middagactiviteit? Zet dit dan op je [Bangkok reisplanning](/city/bangkok/).
+Space & Time Cube is een indoor ervaring met projecties, spiegels en korte digitale scènes. De officiële site noemt voor Bangkok de vestiging in **Season Bangkae Shopping Center**, aan Phet Kasem Road. Dat ligt buiten het klassieke centrum. Beoordeel deze attractie daarom niet alleen op foto's: kijk vooral of de locatie logisch aansluit op je dagroute.
 
-## Wat is Space & Time Cube?
+Dit is geen traditioneel museum met een historische collectie en ook geen vervanging voor de grote tempels. Het werkt het best als regenplan, gezinsuitje of fotogenieke onderbreking van een drukke stadsdag. Zoek je juist curatoriële hedendaagse kunst, vergelijk dan eerst met [DIB Bangkok](/nl/blog/dib-bangkok-contemporary-art-museum-khlong-toei-2026/). Voor een andere digitale attractie kun je [Cave Fantasy in MBK](/nl/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/) naast deze ervaring leggen.
 
-Space & Time Cube+ combineert geavanceerde projectietechnologie met kunst om omgevingen te creëren die buitenaards aanvoelen. Het museum is verdeeld in drie zones met 27 themakamers, elk ontworpen om bezoekers mee te nemen door fantasievolle settings die oude en moderne elementen vermengen.
+## Wat je binnen kunt verwachten
 
-De stertechnologie is een 720-graden CAVE-systeem – projecties omringen je van alle kanten, inclusief boven en onder. Gecombineerd met bril-vrije 3D-hologramdisplays voelt het écht meeslepend, zonder het ongemak van VR-brillen voor langere tijd.
+De officiële installatiepagina toont meerdere korte digitale scènes, waaronder kosmische, optische, historische en dinosaurusachtige thema's. De ervaring draait om kijken, bewegen en fotograferen; reken niet op lange Nederlandstalige uitleg of een klassieke museumroute.
 
-## Hoogtepunten Binnen
+- **Sterk voor:** visuele prikkels, foto's, kinderen en een volledig overdekte activiteit.
+- **Minder sterk voor:** reizigers die inhoudelijke kunstduiding of een rustige collectie zoeken.
+- **Planbaar:** houd ongeveer 60 tot 90 minuten vrij, maar koop geen tweede vergelijkbare attractie voordat je locatie en programma hebt vergeleken.
 
-Enkele opvallende installaties zijn:
+De precieze zones, ticketvormen en eventuele extra ervaringen kunnen wijzigen. Controleer daarom dezelfde dag de officiële site of het gekozen ticketplatform. Een oude blogprijs is geen goede basis voor je budget.
 
-- **Stroom van Licht en Maanlantaarns** — een kamer waar gloeiende lantaarns lijken te zweven in een oneindige ruimte
-- **Oceaan van Sterren** — een onderwater-thema projectiekamer die voelt als duiken in een bioluminescente zee
-- **Gouden Waterval** — een visueel verbluffende lichtkaskade die reageert op beweging
-- **9D Filmtheater** — een korte attractie met bewegende stoelen, wind, watersproei en trillingen (beschikbaar als extra ticket)
+## Zo past het in je Bangkok-dag
 
-Elke kamer is fotogeniek ontworpen, dus reken op volop kansen voor sociale media-content. De belichting is afgestemd op smartphonecamera's, een slimme toevoeging.
+Season Bangkae ligt aan de westkant van Bangkok. Controleer op de officiële BTS-kaart welke combinatie van rail en laatste taxirit voor jouw vertrekpunt logisch is. Vanaf Sukhumvit, Silom of de oude stad kan de reistijd zwaarder wegen dan de attractie zelf.
 
-## Praktische Informatie
+Een praktische volgorde is:
 
-**Locatie:** Kelderverdieping, Seacon Bangkae, Bang Khae district, Bangkok. Het winkelcentrum is bereikbaar per taxi of Grab; de dichtstbijzijnde BTS-station is Bang Wa, gevolgd door een korte taxirit. Voor een volledig overzicht van vervoer in de stad, bekijk onze [Bangkok openbaar vervoer gids](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/).
+1. controleer de actuele vestiging en openingstijden;
+2. zet de heen- en terugreis in je kaart-app;
+3. vergelijk de totale tijd met een indoor alternatief dichter bij je hotel;
+4. boek pas als de route en annuleringsvoorwaarden duidelijk zijn.
 
-**Openingstijden:** Dagelijks, meestal 10:00–21:00. Check de sociale media van de locatie voor feestdagen.
+Voor de rest van je programma helpt onze [Bangkok-overzichtspagina](/nl/city/bangkok/) je om activiteiten per wijk te groeperen. Zo voorkom je dat één fotogenieke stop een halve dag vervoer kost.
 
-**Tickets:** Standaard entree is te boeken via platforms als Trip.com, GetYourGuide en Klook, vaak met korting ten opzichte van de kassa. Optionele VR-games en 9D-film add-ons zijn beschikbaar tegen extra betaling. Let op: vanaf 2026 rekent Thailand ook een [300 baht toeristeninvoertax](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) – reken dit mee in je budget.
+## Tickets zonder schijnprijs
 
-**Tijd nodig:** De meeste bezoekers doen er 60 tot 90 minuten over om alle 27 kamers te verkennen.
+Toon prijzen alleen live bij de aanbieder. Controleer wat inbegrepen is, voor welke vestiging het ticket geldt, of er een vast tijdslot is en of extra zones apart kosten. Een lage vanafprijs zonder datum, belastingen of voorwaarden is niet vergelijkbaar.
 
-## Voor Wie is Het?
+## Veelgestelde vragen
 
-Space & Time Cube+ is perfect voor koppels, [gezinnen met kinderen](/blog/thailand-with-kids-family-travel-guide/) en solo-reizigers die meer willen dan de standaard tempelrondleiding. Het is ook een topactiviteit voor een regenachtige dag, volledig binnen en airconditioned – ideaal tijdens het regenseizoen in Thailand, wanneer je vanuit Nederland reist.
+### Is Space & Time Cube geschikt bij regen?
 
-Het museum versterkt [Bangkoks reputatie als hub voor immersieve kunstervaringen](/blog/bangkok-best-city-asia-2026-destinasian-award/), naast [Cave Fantasy in MBK Center](/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/) en de seizoensgebonden [Bangkok Art Biennale](/blog/bangkok-art-biennale-2026-angels-mara-guide/). Terwijl je Bangkoks indoor attracties verkent, zijn het nabijgelegen [Thainosaur Museum](/blog/thainosaur-museum-bangkok-dinosaur-attraction-2026/) en het [DIB Bangkok hedendaagse kunstmuseum](/blog/dib-bangkok-contemporary-art-museum-khlong-toei-2026/) ook aanraders. Voor een compleet overzicht van bezienswaardigheden in de stad, blader door de volledige [Bangkok attracties gids](/city/bangkok/attractions/).
+Ja, het is een volledig indoor activiteit. Houd wel rekening met de reistijd en een mogelijk nat laatste traject vanaf station of taxi-uitstapplaats.
 
-Wil je meer van Bangkok ontdekken buiten de gebaande paden, inclusief minder bezochte wijken? Onze [waar te verblijven in Bangkok gids](/blog/where-to-stay-bangkok-neighborhood-guide/) en [beste dagtrips vanuit Bangkok](/blog/best-day-trips-from-bangkok/) zijn goede startpunten. Je kunt ook je reis plannen met de [TAGTHAi app](/blog/tagthai-app-sustainable-travel-guide-2026/), Thailands officiële alles-in-één reisplatform met tickets, routes en eco-opties. Voor eerste bezoekers aan het land dekt onze [Thailand voor beginners gids](/blog/thailand-first-time-visitors-essential-guide-2026/) alles van visa tot vervoer. En voor een spectaculair uitzicht op de Bangkok skyline na je museumbezoek ligt de [MahaNakhon Skywalk](/blog/mahanakhon-skywalk-i-tilt-bangkok-worlds-highest-tilt-2026/) slechts een Grab-ritje verwijderd.
----
+### Is dit een echt museum?
+
+De aanbieder presenteert het als een immersieve kunstervaring. Verwacht projecties en interactieve beelden, niet de collectie en context van een traditioneel museum.
+
+### Hoe lang heb ik nodig?
+
+Voor de meeste bezoekers is 60 tot 90 minuten een bruikbare planningsmarge. Het tempo hangt sterk af van fotograferen, drukte en eventuele extra zones.

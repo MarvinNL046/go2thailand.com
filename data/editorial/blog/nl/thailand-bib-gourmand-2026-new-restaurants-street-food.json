@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-bib-gourmand-2026-new-restaurants-street-food",
+  "route": "/nl/blog/thailand-bib-gourmand-2026-new-restaurants-street-food/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Bib Gourmand Thailand 2026: selectie en planning",
+    "description": "Gebruik de officiële Bib Gourmand Thailand 2026-selectie van 137 zaken en 13 nieuwkomers als routehulp, met actuele openingschecks en budgettips.",
+    "primaryKeyword": "Bib Gourmand Thailand 2026",
+    "secondaryKeywords": ["Michelin Guide Thailand 2026", "betaalbaar eten Thailand", "Bib Gourmand Bangkok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/thailand-bib-gourmand-2026-new-restaurants-street-food/"
+  },
+  "hero": {
+    "eyebrow": "Eten met routegevoel",
+    "title": "Bib Gourmand Thailand 2026",
+    "accent": "137 adressen, één slimme selectie",
+    "description": "Filter per bestemming, controleer het actuele restaurant en kies een goede maaltijd zonder een onlogische omweg.",
+    "image": "/images/redesign/editorial/thailand-bib-gourmand-2026-new-restaurants-street-food-hero.webp",
+    "imageAlt": "Thaise kok dresseert betaalbare regionale gerechten bij een warme open keuken",
+    "primaryCta": { "label": "Bouw je eetroute", "href": "#route" },
+    "secondaryCta": { "label": "Lees de cijfers", "href": "#selectie" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "restaurant", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "De officiële Thailand 2026-selectie telt 137 Bib Gourmand-zaken, waaronder 13 nieuwkomers. Gebruik de lijst per wijk of provincie en controleer actuele uren, vestiging en menu voordat je vertrekt.",
+  "blocks": [
+    { "kind": "card-grid", "id": "selectie", "eyebrow": "Officiële editie", "title": "Wat de cijfers wel zeggen", "cards": [
+      { "title": "137 vermeldingen", "description": "Het totaal aan Bib Gourmand-zaken in de officiële Thailand 2026-selectie." },
+      { "title": "13 nieuwkomers", "description": "Nieuw in deze editie; niet automatisch een ranglijst van de beste dertien restaurants." },
+      { "title": "Meerdere provincies", "description": "Filter op je bestaande route in plaats van voor één naam het land te doorkruisen." }
+    ] },
+    { "kind": "steps", "id": "route", "title": "Van lijst naar haalbare maaltijd", "steps": [
+      { "title": "Filter", "description": "Kies bestemming en keuken in de officiële Michelin Guide." },
+      { "title": "Controleer", "description": "Verifieer vestiging, openingstijden en actuele status bij het restaurant." },
+      { "title": "Plan reserve", "description": "Bewaar een tweede adres in dezelfde wijk voor sluiting, wachtrij of uitverkocht gerecht." }
+    ] },
+    { "kind": "callout", "id": "prijs", "tone": "saffron", "title": "Bib Gourmand is geen vaste prijsgarantie", "description": "Menu's en prijzen wijzigen. Bekijk het actuele menu en vraag dagprijzen voordat je bestelt; de onderscheiding staat voor prijs-kwaliteit volgens Michelin." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Hoeveel Bib Gourmand-zaken telt Thailand in 2026?", "answer": "Michelin publiceerde 137 zaken, waaronder 13 nieuwkomers." },
+      { "question": "Is Bib Gourmand hetzelfde als een Michelinster?", "answer": "Nee. Het is een aparte onderscheiding voor goede prijs-kwaliteit." },
+      { "question": "Moet ik reserveren?", "answer": "Dat verschilt per zaak. Controleer het officiële profiel en de eigen kanalen van het restaurant." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire Michelin-bronnen", "items": [
+      { "title": "Thailand's 2026 Bib Gourmand List", "publisher": "MICHELIN Guide", "url": "https://guide.michelin.com/sg/en/article/michelin-guide-ceremony/bib-gourmand-thailand-2026", "checkedAt": "2026-08-01", "note": "Officiële selectie met 137 zaken en 13 nieuwkomers." },
+      { "title": "The MICHELIN Guide Thailand 2026 edition", "publisher": "Michelin", "url": "https://www.michelin.com/en/publications/products-and-services/thailand-shines-brighter-with-10-new-michelin-star-restaurants", "checkedAt": "2026-08-01", "note": "Volledige editie en verdeling van onderscheidingen." }
+    ] }
+  ]
+}
