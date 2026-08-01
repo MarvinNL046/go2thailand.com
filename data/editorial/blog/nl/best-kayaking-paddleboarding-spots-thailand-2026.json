@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "best-kayaking-paddleboarding-spots-thailand-2026",
+  "route": "/nl/blog/best-kayaking-paddleboarding-spots-thailand-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Kajakken en suppen in Thailand: kies je water",
+    "description": "Vergelijk kajak- en SUP-plekken in Thailand op landschap, niveau, seizoen en veiligheid: Ao Thalane, Ang Thong, Khao Sok en eilanden.",
+    "primaryKeyword": "kajakken Thailand",
+    "secondaryKeywords": ["suppen Thailand", "kajakken Krabi", "kajakken Khao Sok", "SUP Thailand"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/best-kayaking-paddleboarding-spots-thailand-2026/"
+  },
+  "hero": {
+    "eyebrow": "Kies landschap én waterconditie",
+    "title": "Kajakken en suppen in Thailand",
+    "accent": "Rustig water is nooit vanzelfsprekend.",
+    "description": "Mangroves, open zee en een stuwmeer vragen elk een andere techniek en veiligheidsmarge. Kies eerst het watertype, daarna pas de mooie foto.",
+    "image": "/images/redesign/editorial/best-kayaking-paddleboarding-spots-thailand-2026-hero.webp",
+    "imageAlt": "Kajakkers en een suppende reiziger tussen mangroves en kalksteenkliffen in Zuid-Thailand",
+    "primaryCta": { "label": "Vergelijk de plekken", "href": "#plekken" },
+    "secondaryCta": { "label": "Bekijk live activiteiten", "href": "#activiteiten" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Ao Thalane is sterk voor beschutte mangroves, Ang Thong voor een begeleide zeedag en Cheow Lan Lake voor rustig binnenwater met jungledecor. Kies op actuele wind, getij, parktoegang en eigen ervaring.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "plekken",
+      "title": "Vier verschillende peddelervaringen",
+      "cards": [
+        { "title": "Ao Thalane, Krabi", "description": "Mangrovekanalen en kalksteen; getij en smalle passages maken een lokale briefing waardevol.", "label": "Mangrove" },
+        { "title": "Mu Ko Ang Thong", "description": "Zeegebied met eilandlandschap; meestal onderdeel van een begeleide dagtocht vanaf Koh Samui.", "label": "Marine park" },
+        { "title": "Cheow Lan Lake", "description": "Zoet binnenwater tussen karstbergen; combineer alleen met een route en operator die park- en bootlogistiek helder maakt.", "label": "Junglemeer" },
+        { "title": "Koh Lanta of Koh Yao", "description": "Rustige baaien en mangroves kunnen geschikt zijn voor SUP, maar wind en kustligging verschillen per dag.", "label": "Eilandtempo" }
+      ]
+    },
+    {
+      "kind": "comparison",
+      "id": "keuze",
+      "title": "Kajak, SUP of begeleide tour?",
+      "options": [
+        { "title": "Kajak", "description": "Stabieler voor langere routes en vaak geschikter in mangroves of met lichte wind.", "label": "Toegankelijk" },
+        { "title": "SUP", "description": "Vrij uitzicht en rustig tempo, maar gevoeliger voor wind, golven en balans.", "label": "Kalm water" },
+        { "title": "Tour met gids", "description": "Logisch bij getijdekanalen, marine parks en onbekende routecondities; controleer groepsgrootte en reddingsmiddelen.", "label": "Lokale kennis" }
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "activiteiten",
+      "provider": "klook",
+      "title": "Controleer actuele kajak- en SUP-activiteiten",
+      "description": "Vergelijk live operator, route, parkfee, transfer, materiaal en weersbeleid. Annuleer of verplaats wanneer lokale waarschuwingen dat vragen.",
+      "cta": { "label": "Bekijk actuele activiteiten op Klook", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true },
+      "placement": "nl-thailand-kayak-sup",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "checklist",
+      "id": "veiligheid",
+      "title": "Ga alleen het water op na deze checks",
+      "items": ["Actuele wind, regen en onweersverwachting", "Getij en stroming bij kust- en mangroveroutes", "Passend reddingsvest voor iedere deelnemer", "Drinkwater, zonbescherming en waterdichte tas", "Lokale marine- of parkwaarschuwingen", "Duidelijke omkeer- en noodprocedure"]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Wat is de beste plek om te kajakken in Thailand?", "answer": "Dat hangt van het gewenste watertype af. Ao Thalane is sterk voor mangroves, Ang Thong voor zee-eilanden en Cheow Lan Lake voor een junglemeer." },
+        { "question": "Kun je het hele jaar suppen?", "answer": "Niet betrouwbaar op iedere kust. Wind, moesson, golfslag en lokale waarschuwingen zijn belangrijker dan een vaste maandclaim." },
+        { "question": "Heb je een gids nodig?", "answer": "Niet op ieder beschut verhuurwater, maar wel verstandig bij getijdekanalen, marine parks, langere routes of weinig ervaring." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bestemmings- en veiligheidsbronnen",
+      "items": [
+        { "title": "Ao Tha Len and Tha Pom", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ao-tha-len-thalane-bay-tha-pom", "checkedAt": "2026-08-01", "note": "Officiële bestemming- en dagtripcontext." },
+        { "title": "Rainy season destinations: Ratchaprapha and Khao Sok", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/rainy-season-5-place-en", "checkedAt": "2026-08-01", "note": "Officiële landschaps- en seizoenscontext voor Cheow Lan Lake." },
+        { "title": "Marine tourism warning system", "publisher": "Department of Marine and Coastal Resources Thailand", "url": "https://www.dmcr.go.th/detailAll/71372/nws/11", "checkedAt": "2026-08-01", "note": "Waarschuwingscategorieën voor mariene recreatie." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan de juiste kust en basis",
+      "items": [
+        { "title": "Krabi overzicht", "description": "Kies Ao Nang, Railay of een rustigere basis.", "href": "/nl/city/krabi/" },
+        { "title": "Khao Sok", "description": "Plan het nationale park en Cheow Lan als eigen bestemming.", "href": "/nl/city/khao-sok/" },
+        { "title": "Duiken en snorkelen", "description": "Vergelijk een andere wateractiviteit op seizoen en niveau.", "href": "/nl/best-diving-snorkeling-in-thailand/" }
+      ]
+    }
+  ]
+}

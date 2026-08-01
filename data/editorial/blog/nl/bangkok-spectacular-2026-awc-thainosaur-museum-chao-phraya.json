@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya",
+  "route": "/nl/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thainosaur Museum Bangkok: bezoek plannen",
+    "description": "Plan een bezoek aan het geopende Thainosaur Museum bij Asiatique: inhoud, doelgroep, vervoer en wat je vóór vertrek live controleert.",
+    "primaryKeyword": "Thainosaur Museum Bangkok",
+    "secondaryKeywords": ["Bangkok dinosaurus museum", "Thainosaur Asiatique", "Bangkok Spectacular 2026"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/"
+  },
+  "hero": {
+    "eyebrow": "Geopend aan de Chao Phraya",
+    "title": "Thainosaur Museum",
+    "accent": "Thaise prehistorie aan de rivier.",
+    "description": "AWC opende het museum eind 2025 bij Asiatique. Behandel ‘Bangkok Spectacular’ als de lanceringscampagne en plan het museum als een zelfstandige attractie.",
+    "image": "/images/redesign/editorial/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya-hero.webp",
+    "imageAlt": "Dinosaurusskeletten in een warm verlicht museumgebouw aan de Chao Phraya in Bangkok",
+    "primaryCta": { "label": "Bekijk de bezoekkeuze", "href": "#past-het" },
+    "secondaryCta": { "label": "Controleer live informatie", "href": "#live" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Het Thainosaur Museum is een geopende educatieve attractie bij Asiatique The Riverfront. Controleer vóór vertrek de live openingstijden, tickets en eventuele tijdsloten op de officiële museumsite.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "past-het",
+      "title": "Wanneer past het in je Bangkok-dag?",
+      "options": [
+        { "title": "Met kinderen", "description": "Sterke keuze voor visueel leren en een beschutte activiteit; controleer taal, prikkels en pauzemogelijkheden.", "label": "Familie" },
+        { "title": "Als museumbezoek", "description": "Interessant door de focus op in Thailand gevonden dinosaurussen, niet alleen door grote reconstructies.", "label": "Educatief" },
+        { "title": "Als Asiatique-combinatie", "description": "Plan museum en riverfront bewust; openingstijden van winkels en attracties hoeven niet gelijk te lopen.", "label": "Halve dag" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "route",
+      "title": "Van centrum naar de ingang",
+      "steps": [
+        { "title": "Plan de hoofdas", "description": "Reis richting Saphan Taksin of kies een passende taxi- of ritdeelroute vanuit jouw wijk." },
+        { "title": "Controleer het laatste traject", "description": "Bootdiensten en aanlegpunten kunnen veranderen; gebruik de officiële Asiatique- en operatorinformatie." },
+        { "title": "Bewaar tijd voor de riverfront", "description": "Voeg alleen diner, reuzenrad of shopping toe wanneer het museumtempo van je gezelschap dat toelaat." }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "live",
+      "tone": "saffron",
+      "title": "Campagnenaam is geen jaarkalender",
+      "description": "‘Bangkok Spectacular 2026’ liep als lanceringsprogramma van 23 tot en met 31 december 2025. Baseer een huidig bezoek op de museumsite, niet op het oude campagneprogramma.",
+      "cta": { "label": "Open de officiële museumsite", "href": "https://www.thainosaurmuseum.com/en", "external": true }
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is het Thainosaur Museum al open?", "answer": "Ja. AWC meldde de opening op 23 december 2025. Controleer de actuele bezoekersuren rechtstreeks bij het museum." },
+        { "question": "Ligt het museum bij Asiatique?", "answer": "Ja, het museum presenteert zich als onderdeel van Asiatique The Riverfront aan de Chao Phraya." },
+        { "question": "Is Bangkok Spectacular een permanente attractie?", "answer": "Nee, dat was de naam van het lanceringsprogramma. Het museum zelf heeft zijn eigen actuele bezoekersinformatie." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire statusbronnen",
+      "items": [
+        { "title": "Thainosaur Museum", "publisher": "Thainosaur Museum", "url": "https://www.thainosaurmuseum.com/en", "checkedAt": "2026-08-01", "note": "Live museumpositie en bezoekersinformatie." },
+        { "title": "AWC launches Bangkok Spectacular 2026", "publisher": "Asset World Corporation", "url": "https://www.assetworldcorp-th.com/en/newsroom/news-activities/1034/awc-launches-bangkok-spectacular-2026-with-the-auspicious-opening-of-thainosaur-museum-bringing-new-experience-of-art-culture-and-education-to-bangkok", "checkedAt": "2026-08-01", "note": "Openingsdatum en afbakening van de lanceringscampagne." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan de rest van Bangkok",
+      "items": [
+        { "title": "Bangkok overzicht", "description": "Kies wijken en dagclusters rond je verblijf.", "href": "/nl/city/bangkok/" },
+        { "title": "Openbaar vervoer", "description": "Plan de railas en laatste kilometer.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" },
+        { "title": "Bangkok met kinderen", "description": "Vergelijk meer familiegeschikte keuzes.", "href": "/nl/travel-guides/thailand-with-kids/" }
+      ]
+    }
+  ]
+}

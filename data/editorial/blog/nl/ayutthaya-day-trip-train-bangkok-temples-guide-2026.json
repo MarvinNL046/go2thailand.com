@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "ayutthaya-day-trip-train-bangkok-temples-guide-2026",
+  "route": "/nl/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Ayutthaya met de trein vanuit Bangkok | Go2Thailand",
+    "description": "Plan een dagtrip naar Ayutthaya per trein: vertrekstation, tempelroute, vervoer ter plaatse en een realistische terugreis naar Bangkok.",
+    "primaryKeyword": "Ayutthaya met de trein vanuit Bangkok",
+    "secondaryKeywords": ["Bangkok naar Ayutthaya trein", "Ayutthaya dagtrip", "Ayutthaya tempels route"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Dagtrip per spoor",
+    "title": "Ayutthaya met de trein",
+    "accent": "Eerst de route, dan de ruïnes.",
+    "description": "De trein maakt de reis sfeervol en betaalbaar, maar een goede dag valt of staat met het juiste vertrekstation, een compacte tempelkeuze en marge voor de terugrit.",
+    "image": "/images/redesign/editorial/ayutthaya-day-trip-train-bangkok-temples-guide-2026-hero.webp",
+    "imageAlt": "Thaise trein bij zonsopkomst met tempelprangs van Ayutthaya aan de horizon",
+    "primaryCta": { "label": "Plan de dag", "href": "#dagplan" },
+    "secondaryCta": { "label": "Controleer tickets", "href": "#treintickets" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "route", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Vertrek vroeg vanaf het station dat op je actuele ticket staat, beperk je tot drie of vier tempels en kies ter plaatse één vervoersvorm. Controleer de terugtrein dezelfde ochtend opnieuw.",
+  "blocks": [
+    {
+      "kind": "steps",
+      "id": "dagplan",
+      "title": "Een dag die niet uit elkaar valt",
+      "steps": [
+        { "title": "Controleer vertrek en trein", "description": "Zoek op de officiële D-Ticket-omgeving naar jouw datum; Bangkok heeft meerdere stations en niet iedere dienst vertrekt vanaf dezelfde plek." },
+        { "title": "Kies één tempellus", "description": "Combineer bijvoorbeeld Wat Mahathat, Wat Ratchaburana en Wat Phra Si Sanphet voordat je een verder gelegen tempel toevoegt." },
+        { "title": "Leg de terugmarge vast", "description": "Bewaar voldoende tijd voor verkeer op het eiland, de oversteek naar het station en een mogelijk gewijzigde dienstregeling." }
+      ]
+    },
+    {
+      "kind": "comparison",
+      "id": "ter-plaatse",
+      "title": "Hoe beweeg je tussen de tempels?",
+      "options": [
+        { "title": "Fiets", "description": "Vrij en rustig voor een compacte route, maar minder prettig bij hitte, regen of druk verkeer.", "label": "Zelfstandig" },
+        { "title": "Tuktuk met chauffeur", "description": "Praktisch voor verder verspreide ruïnes; spreek route, duur, prijs en eindpunt vooraf af.", "label": "Minste navigatie" },
+        { "title": "Georganiseerde tour", "description": "Meer context en vervoer in één pakket; controleer groepsgrootte, tempels, lunch en terugreis.", "label": "Meeste begeleiding" }
+      ]
+    },
+    {
+      "kind": "affiliate",
+      "id": "treintickets",
+      "provider": "12go",
+      "title": "Bekijk de actuele treinopties",
+      "description": "Vergelijk live vertrektijden, station, klasse en voorwaarden. Controleer de uiteindelijke dienst ook bij State Railway of Thailand.",
+      "cta": { "label": "Bekijk actuele opties bij 12Go", "href": "https://12go.tpo.lv/tNA80urD", "external": true },
+      "placement": "nl-ayutthaya-train-daytrip",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Kun je Ayutthaya als dagtrip per trein doen?", "answer": "Ja. Vertrek vroeg, maak een beperkte tempelroute en controleer de terugrit voordat je het historische park in gaat." },
+        { "question": "Is een fiets altijd de beste keuze?", "answer": "Nee. Afstanden, hitte, regen en verkeer bepalen of een fiets prettig is; een tuktuk of tour kan op zware dagen verstandiger zijn." },
+        { "question": "Vanaf welk station vertrekt de trein?", "answer": "Dat verschilt per dienst. Gebruik de exacte stationsnaam op het actuele ticket en ga niet automatisch uit van Hua Lamphong." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bronnen en live controles",
+      "items": [
+        { "title": "Historic City of Ayutthaya", "publisher": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/576", "checkedAt": "2026-08-01", "note": "Werelderfgoedstatus en historische context." },
+        { "title": "Phra Nakhon Si Ayutthaya", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Phra-Nakhon-Si-Ayutthaya/229", "checkedAt": "2026-08-01", "note": "Officiële bestemmingsinformatie." },
+        { "title": "D-Ticket", "publisher": "State Railway of Thailand", "url": "https://www.dticket.railway.co.th/DTicketPublicWeb/home/Home", "checkedAt": "2026-08-01", "note": "Actuele dienst- en ticketcontrole." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Bouw de dag verder uit",
+      "items": [
+        { "title": "Ayutthaya overzicht", "description": "Kies tempels, wijken en een eventueel verblijf.", "href": "/nl/city/ayutthaya/" },
+        { "title": "Historisch park", "description": "Bekijk de erfgoedowner voor de ruïnes zelf.", "href": "/nl/city/ayutthaya/attractions/ayutthaya-historical-park/" },
+        { "title": "Dagtrips vanuit Bangkok", "description": "Vergelijk Ayutthaya met andere dagkeuzes.", "href": "/nl/best-day-trips-from-bangkok/" }
+      ]
+    }
+  ]
+}

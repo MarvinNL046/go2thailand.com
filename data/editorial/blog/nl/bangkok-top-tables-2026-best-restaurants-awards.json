@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-top-tables-2026-best-restaurants-awards",
+  "route": "/nl/blog/bangkok-top-tables-2026-best-restaurants-awards/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Top Tables Bangkok 2026: zo gebruik je de ranking",
+    "description": "Bekijk de winnaar en categorieën van BK Top Tables 2026 en kies een Bangkok-restaurant op keuken, ervaring, wijk en live voorwaarden.",
+    "primaryKeyword": "Top Tables Bangkok 2026",
+    "secondaryKeywords": ["beste restaurants Bangkok 2026", "BK Top Tables", "fine dining Bangkok"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/bangkok-top-tables-2026-best-restaurants-awards/"
+  },
+  "hero": {
+    "eyebrow": "Een ranking is het begin van je keuze",
+    "title": "Top Tables Bangkok 2026",
+    "accent": "Kies op avond, niet alleen op nummer.",
+    "description": "Côte by Mauro Colagreco staat bovenaan de 2026-lijst van BK Magazine. Gebruik de ranking om te ontdekken, maar controleer menu, locatie en voorwaarden bij het restaurant zelf.",
+    "image": "/images/redesign/editorial/bangkok-top-tables-2026-best-restaurants-awards-hero.webp",
+    "imageAlt": "Verfijnde Thaise tastinggerechten op een tafel in een modern restaurant in Bangkok",
+    "primaryCta": { "label": "Lees de uitslag", "href": "#uitslag" },
+    "secondaryCta": { "label": "Kies jouw avond", "href": "#kiezen" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "restaurant", "heroVariant": "split", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "BK Magazine zette Côte by Mauro Colagreco op één in Top Tables 2026; Baan Tepa won de Thaise categorie en chef Chudaree ‘Tam’ Debhakam kreeg de Chef of the Year-award. Dit is een redactionele ranking, geen universele waarheid.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "uitslag",
+      "title": "De signalen uit de 2026-editie",
+      "cards": [
+        { "title": "Côte by Mauro Colagreco", "description": "Nummer één van de algemene lijst en winnaar voor service en mediterrane keuken.", "label": "Top 20 #1" },
+        { "title": "Baan Tepa", "description": "Winnaar van de Thaise restaurantcategorie; chef Tam werd daarnaast Chef of the Year.", "label": "Beste Thai" },
+        { "title": "Special awards", "description": "Categorieën voor onder meer service, design, tasting menu en prijs-kwaliteit helpen anders kiezen dan op rangnummer.", "label": "Keuzesignaal" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "kiezen",
+      "title": "Van lijst naar passende reservering",
+      "steps": [
+        { "title": "Kies keuken en format", "description": "Een lang tasting menu vraagt een andere avond dan à la carte of een informele maaltijd." },
+        { "title": "Controleer de live menukaart", "description": "Prijzen, gangen, dieetmogelijkheden en servicekosten kunnen na publicatie veranderen." },
+        { "title": "Plan wijk en terugreis", "description": "Een laat diner wordt beter wanneer je vooraf weet hoe je terugkomt en hoeveel reistijd de reservering kost." }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "prijsbeleid",
+      "tone": "cream",
+      "title": "Geen vaste prijsclaims",
+      "description": "Go2Thailand toont hier geen oude menuprijs als boekingsbelofte. Open altijd de actuele menukaart en reserveringsvoorwaarden van het restaurant."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Wat is het beste restaurant van Bangkok in Top Tables 2026?", "answer": "Volgens deze specifieke BK Magazine-ranking is Côte by Mauro Colagreco nummer één." },
+        { "question": "Is Top Tables hetzelfde als Michelin?", "answer": "Nee. Het zijn verschillende selecties met eigen redacties, criteria en categorieën." },
+        { "question": "Moet je vroeg reserveren?", "answer": "Voor populaire tasting-menuzaken is vooraf reserveren verstandig. Controleer live beschikbaarheid en annuleringsvoorwaarden bij het restaurant." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bron van de ranking",
+      "items": [
+        { "title": "Top Tables 2026: Bangkok's 20 best restaurants and beyond", "publisher": "BK Magazine", "url": "https://www.bkmagazine.com/food/restaurants/top-tables-2026-bangkoks-20-best-restaurants-and-beyond/", "checkedAt": "2026-08-01", "note": "Algemene Top 20 en hoofdprijzen." },
+        { "title": "Top 15 Thai restaurants for Top Tables 2026", "publisher": "Top Tables by BK Magazine", "url": "https://toptables.bkmagazine.com/thai-restaurants/top-15-thai-restaurant-for-top-tables-2026/", "checkedAt": "2026-08-01", "note": "Thaise restaurantcategorie." },
+        { "title": "Special Awards for Top Tables 2026", "publisher": "Top Tables by BK Magazine", "url": "https://toptables.bkmagazine.com/special-awards/special-awards-for-top-tables-2026-new-design-tasting-menu-service-wine-list-new-concept-and-value/", "checkedAt": "2026-08-01", "note": "Categorieprijzen en context." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Eet verder door Bangkok",
+      "items": [
+        { "title": "Bangkok streetfood", "description": "Kies lokale buurten en eetmomenten buiten fine dining.", "href": "/nl/blog/bangkok-street-food-beginners/" },
+        { "title": "Specialty coffee", "description": "Bouw een dagroute rond koffie en buurten.", "href": "/nl/blog/bangkok-specialty-coffee-cafe-guide-2026/" },
+        { "title": "Bangkok overzicht", "description": "Plan wijken, verblijf en vervoer als één geheel.", "href": "/nl/city/bangkok/" }
+      ]
+    }
+  ]
+}
