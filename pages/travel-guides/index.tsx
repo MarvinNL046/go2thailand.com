@@ -3,10 +3,10 @@ import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import { getAllTravelGuides } from '../../lib/travel-guides';
 import { TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 import TravelGuideDirectoryNl from '../../components/editorial/TravelGuideDirectoryNl';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 
 interface Guide {
   slug: string;
@@ -40,6 +40,7 @@ export default function TravelGuidesIndex({ guides }: TravelGuidesIndexProps) {
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
   if (isDutchLocale(locale)) return <TravelGuideDirectoryNl />;
+  return <StaticTravelGuideOwnerEn owner="directory" />;
   const trackAffiliate = (url: string, placement: string) =>
     withPlacementSubId(url, 'travel-guides', placement);
 
@@ -177,7 +178,7 @@ export default function TravelGuidesIndex({ guides }: TravelGuidesIndexProps) {
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
   // The NL directory owns its curated labels and claim-safe summaries. Do not
   // serialize the legacy registry (with stale price/ranking copy) into NL HTML.
-  const guides = locale === 'nl' ? [] : getAllTravelGuides();
+  const guides = [];
   return {
     props: { guides },
     revalidate: 604800

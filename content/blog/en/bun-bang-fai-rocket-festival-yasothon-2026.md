@@ -1,5 +1,5 @@
 ---
-title: "Bun Bang Fai: Thailand's Explosive Rocket Festival in Yasothon (May 2026)"
+title: "Bun Bang Fai 2026: Yasothon Rocket Festival Recap"
 slug: "bun-bang-fai-rocket-festival-yasothon-2026"
 date: "2026-03-22"
 author:
@@ -7,10 +7,10 @@ author:
 category: "culture"
 tags: ["Bun Bang Fai", "Rocket Festival", "Yasothon", "Isaan Thailand", "Thailand festivals May 2026"]
 image: "/images/redesign/editorial/bun-bang-fai-rocket-festival-yasothon-2026-hero.webp"
-description: "Every May, the people of Yasothon in northeast Thailand launch giant homemade rockets into the sky to summon the rains. Here is everything you need to know about Bun Bang Fai 2026."
+description: "Bun Bang Fai returned to Yasothon in May 2026. This recap explains the rocket festival and how to prepare for a future edition."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-28"
+lastUpdated: "2026-08-01"
 sources:
   - name: "It's Better in Thailand — Bun Bang Fai Rocket Festival in Yasothon"
     url: "https://itsbetterinthailand.com/festivals/bun-bang-fai-rocket-festival-yasothon/"
@@ -26,7 +26,7 @@ sources:
 
 Bun Bang Fai — the Rocket Festival — is one of Thailand's wildest and least-known celebrations. Every year in May, communities across the [Isaan region](/city/nakhon-ratchasima/) build enormous homemade rockets and launch them into the sky to symbolically seed the clouds and summon the rainy season. The tradition stretches back centuries and blends Buddhist and animist beliefs in a spectacle unlike anything else in [Southeast Asia](/blog/best-time-to-visit-thailand/).
 
-The biggest and most famous event takes place in **Yasothon**, a small city in [northeast Thailand](/city/ubon-ratchathani/). In 2026, the Yasothon Rocket Festival is scheduled for the **second weekend of May (around May 8-10)**.
+The biggest and most famous event takes place in **Yasothon**, a small city in [northeast Thailand](/city/ubon-ratchathani/). The 2026 edition took place in May and has now ended. Festival dates can vary by year, so use this page as cultural and planning context and confirm a future edition through the Tourism Authority of Thailand before booking transport or accommodation.
 
 ## Three Days of Chaos and Celebration
 

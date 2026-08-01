@@ -20,7 +20,7 @@ sources:
     url: "https://whc.unesco.org/en/list/590/"
 ---
 
-While millions of tourists flock to **hidden gems in Thailand** like Phuket and Pattaya each year, the real magic of this Southeast Asian kingdom lies in the lesser-known corners—quiet fishing villages, untouched limestone cliffs, and mountain communities where English is rarely spoken and your presence actually matters to local families. After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and [island-hopping](/blog/thailand-island-hopping-guide/) the southern archipelago, our team has discovered that the best Thai experiences happen when you step off the well-worn tourist trail.
+While millions of tourists flock to **hidden gems in Thailand** like Phuket and Pattaya each year, the real magic of this Southeast Asian kingdom lies in the lesser-known corners—quiet fishing villages, untouched limestone cliffs, and mountain communities where English is rarely spoken and your presence actually matters to local families.
 
 ## Key Takeaways
 
@@ -36,7 +36,7 @@ While millions of tourists flock to **hidden gems in Thailand** like Phuket and 
 
 ## 1. Koh Mak — The Quiet Island Alternative
 
-Koh Mak sits in the eastern Gulf, just 40 kilometers from the Cambodian border, and remains one of Thailand's most underrated islands. Unlike [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/), this island has resisted overdevelopment—there are no jet skis, no nightclubs, and no crowds of drunk tourists. When we visited in February, we found pristine beaches, a genuine fishing community, and locals who were genuinely delighted to see visitors.
+Koh Mak sits in the eastern Gulf, just 40 kilometers from the Cambodian border, and remains one of Thailand's most underrated islands. Unlike [Koh Samui](https://go2-thailand.com/islands/koh-samui/) or [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/), this island has resisted overdevelopment—there are no jet skis, no nightclubs, and no crowds of drunk tourists.
 
 ### The Island's Authentic Charm
 
@@ -51,22 +51,6 @@ The island's main village is a working fishing port where you'll see wooden boat
 
 Accommodation ranges from basic bungalows (300–500 THB) to mid-range resorts (800–1,500 THB). Book ahead during November–February, but walk-ins are usually fine June–September.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -87,22 +71,6 @@ The area around Pai is dotted with natural attractions. Pai Waterfall is a 5-met
 
 Accommodation is budget-friendly: guesthouses from 250–400 THB, mid-range bungalows 600–1,000 THB. The town has a small night market with excellent [Thai street food](https://go2-thailand.com/food/) for 30–50 THB per dish.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 > **Did You Know?** Pai's valley setting at around 500 meters elevation gives it noticeably cooler temperatures than lowland Thailand, especially from November to February when mornings can dip below 15°C. The surrounding mountains create lush jungle scenery dramatically different from the beach areas most tourists visit.
 >
@@ -116,7 +84,7 @@ Accommodation is budget-friendly: guesthouses from 250–400 THB, mid-range bung
 
 ### Trekking and Wildlife Spotting
 
-The park offers guided jungle treks ranging from 2 to 8 hours. During our visit in January, we spotted wild elephants at a distance, heard gibbons calling at dawn, and saw dozens of bird species. The park's waterfall trails are less crowded than similar attractions elsewhere in Thailand and offer genuine wilderness experiences.
+The park offers guided jungle treks ranging from 2 to 8 hours. The park's waterfall trails are less crowded than similar attractions elsewhere in Thailand and offer genuine wilderness experiences.
 
 ### Practical Information
 
@@ -155,22 +123,6 @@ The town's old city is lined with traditional wooden houses and temples that dat
 | **Local bus** | 5 hours | 200 THB | Budget travelers |
 | **Overnight bus from Bangkok** | 10 hours | 400–600 THB | Long-distance convenience |
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -181,25 +133,7 @@ The town's old city is lined with traditional wooden houses and temples that dat
 ### Diving and Snorkeling
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
-Koh Lipe is one of Thailand's best [diving](/best-diving-snorkeling-in-thailand/) destinations, with healthy coral reefs and abundant marine life. The island is a jumping-off point for dives to the Andaman's most pristine sites. When we visited in March, we found dive operators charging 1,500–2,000 THB for day dives, significantly less than prices on more touristy islands.
+Koh Lipe is one of Thailand's best [diving](/best-diving-snorkeling-in-thailand/) destinations, with healthy coral reefs and abundant marine life. The island is a jumping-off point for dives to the Andaman's most pristine sites.
 
 ### Getting There
 
@@ -220,7 +154,7 @@ While [Ayutthaya](https://go2-thailand.com/transport/ayutthaya-to-bangkok/) gets
 
 ### Exploring the Ruins
 
-The historical park is divided into central, northern, and southern zones. The central zone contains the most impressive ruins, including Wat Mahathat with its iconic Buddha head emerging from tree roots. Unlike crowded Ayutthaya, you can often explore Sukhothai's temples in solitude. During our visit in February, we spent an entire day cycling through the park and encountered fewer than a dozen other visitors.
+The historical park is divided into central, northern, and southern zones. The central zone contains the most impressive ruins, including Wat Mahathat with its iconic Buddha head emerging from tree roots. Unlike crowded Ayutthaya, you can often explore Sukhothai's temples in solitude.
 
 ### Practical Logistics
 
@@ -291,22 +225,6 @@ The city itself has beautiful temples and a relaxed atmosphere. The surrounding 
 - Guesthouses: 250–500 THB
 - Mid-range hotels: 700–1,500 THB
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -341,24 +259,6 @@ The island's western beaches are the most developed, with Kai Bae Beach and Lone
 The [Isaan region](https://go2-thailand.com/region/isaan/) (northeastern Thailand) is dramatically undervisited by international tourists, yet it's the heartland of Thai culture. [Udon Thani](/city/udon-thani/) and [Nakhon Phanom](/city/nakhon-phanom/) are two provincial capitals that offer authentic Thai life, excellent food, and genuine hospitality.
 
 ### Cultural Immersion
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 These towns have almost no tourist infrastructure, which means lower prices and authentic interactions. Local markets are working markets for locals. Restaurants serve regional specialties like sticky rice and spicy salads at prices that seem impossible (30–50 THB per dish). The [Mekong](/blog/thailand-mekong-river-cruises-cultural-tourism-2026/) River views from Nakhon Phanom are spectacular, and the town has a relaxed, riverside atmosphere.
@@ -403,22 +303,6 @@ Klong Chao Waterfall is the island's signature attraction—a multi-tiered casca
 
 The island has limited ATM access, so bring cash or arrange transfers in advance.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">[Rent a Car](https://booking.tpo.lv/Nmm5XgwI) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -489,24 +373,6 @@ Khao Sam Roi Yot (covered earlier) is in this province, but the province itself 
 [Koh Yao Noi](/islands/koh-yao-noi/) sits between [Phuket](https://go2-thailand.com/city/phuket/) and Krabi in Phang Nga Bay, yet it remains dramatically quieter than either. The island is a working rubber plantation and fishing community where tourism is secondary to local life. The island has pristine beaches, excellent kayaking, and views of the dramatic limestone karsts that define the region.
 
 ### Island Activities
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 Kayaking around the island's mangrove forests and limestone cliffs is the main activity. The island's beaches are quiet and suitable for swimming. Local restaurants serve fresh seafood at local prices (100–150 THB per dish). The island has a genuine island atmosphere—no jet skis, no party scene, just quiet beaches and local hospitality.
@@ -586,22 +452,6 @@ For trekking, diving, and specialized activities, book through [Klook](https://k
 
 Get a [Thailand eSIM](https://go2-thailand.com/esim/) or local SIM card before arriving. Make sure your [visa](/visa/) is sorted before departure too. This is critical for navigation, booking, and emergency contact. Most providers offer 7–30 day plans with unlimited data for 200–400 THB.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Step 6: Plan Your Itinerary
 
@@ -670,7 +520,7 @@ The key to visiting these places successfully is simple: plan ahead for transpor
 
 Ready to explore? Start by choosing one region that appeals to you, then use the booking guide above to plan your journey. For more detailed itinerary planning, check out our [Thailand itinerary guides](https://go2-thailand.com/itineraries/) or [regional guides](https://go2-thailand.com/region/). Before you travel, make sure you also read our guide to [common Thailand travel mistakes](/blog/10-biggest-thailand-travel-mistakes/) to set yourself up for success.
 
-**Trust Statement:** The Go2Thailand team has lived and traveled throughout Thailand for over 15 years combined. Every destination and recommendation in this guide is based on firsthand experience, not marketing materials. We've eaten at the restaurants, stayed in the guesthouses, and hiked the trails we recommend.
+**Trust Statement:** The Go2Thailand team has lived and traveled throughout Thailand for over 15 years combined. We've eaten at the restaurants, stayed in the guesthouses, and hiked the trails we recommend.
 
 ---
 

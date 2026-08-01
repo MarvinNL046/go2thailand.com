@@ -30,7 +30,7 @@ Nong Han Lake in Kumphawapi district, [Udon Thani](/city/udon-thani/), has long 
 
 TAT's "Amazing Thailand x LISA" campaign, launched in late January 2026, featured footage of Lisa visiting the Red Lotus Sea. The video went viral almost immediately — AirAsia even ran a [free flights promotion tied to the Lisa campaign](/blog/airasia-tat-fly-your-feelings-free-flights-lisa-2026/). Between December 1, 2025, and January 25, 2026, total visitor numbers reached 50,306, split nearly evenly between Thai visitors (51.73 percent) and international tourists (48.27 percent) from countries including China, Laos, Germany, and Japan.
 
-Local boat operators at Ban Diam Pier have felt the surge firsthand. Daily boat trips jumped from an average of around 100 to over 400, with a fleet of 95 boats now running to keep up with demand. The economic impact extends beyond boat rides — nearby homestays, restaurants, and souvenir stalls in Kumphawapi have all reported sharp increases in revenue.
+Daily boat trips jumped from an average of around 100 to over 400, with a fleet of 95 boats now running to keep up with demand. The economic impact extends beyond boat rides — nearby homestays, restaurants, and souvenir stalls in Kumphawapi have all reported sharp increases in revenue.
 
 ## Planning Your Visit
 

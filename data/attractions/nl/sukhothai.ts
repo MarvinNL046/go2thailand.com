@@ -37,7 +37,7 @@ export const sukhothaiAttractionsGuide: AttractionGuideData = {
       title: 'Wat Mahathat',
       type: 'Koninklijk-religieus hart',
       duration: 'Centrale zone',
-      image: '/images/cities/sukhothai/attractions/Wat Mahathat Sukhothai.webp',
+      image: '/images/cities/sukhothai/attractions/wat-mahathat-sukhothai.webp',
       imageAlt: 'Boeddhabeelden, zuilen en chedi’s van Wat Mahathat in Sukhothai',
       description: 'Wat Mahathat is het ruimtelijke anker van de ommuurde stad. Bekijk de relatie tussen centrale chedi, beelden, vijvers en omliggende fundamenten in plaats van alleen één fotopunt.',
       bestFor: 'De schaal van de oude hoofdstad lezen',

@@ -43,7 +43,7 @@ Imagine stepping into a wooden cathedral carved entirely without nails—where e
 
 The **Sanctuary of Truth** is a monumental wooden temple-castle located on Laem Ratchawet in North Pattaya, Chon Buri Province. Built entirely from teak and other hardwoods without a single nail, this structure stands as a testament to ancient Thai architectural wisdom and contemporary craftsmanship. Founded by Mr. Lek Viriyaphan—the same visionary behind the Ancient City and Erawan Elephant Museum—the sanctuary represents a philosophical journey through Buddhist and Hindu teachings carved into its wooden surfaces.
 
-The structure isn't a traditional Buddhist temple in the religious sense; rather, it's a spiritual and artistic monument that explores universal truths through intricate wood sculptures and carvings. Every pillar, beam, and decorative element carries symbolic meaning, reflecting concepts of wisdom, dharma, and the interconnectedness of life. When we visited during the cool season, the craftsmanship was immediately striking—the way light filtered through carved wooden screens created an almost meditative atmosphere that drew visitors deeper into exploration.
+The structure isn't a traditional Buddhist temple in the religious sense; rather, it's a spiritual and artistic monument that explores universal truths through intricate wood sculptures and carvings. Every pillar, beam, and decorative element carries symbolic meaning, reflecting concepts of wisdom, dharma, and the interconnectedness of life.
 
 ### The Architecture and Design Philosophy
 
@@ -69,26 +69,10 @@ The **Sanctuary of Truth** is located in North Pattaya, approximately 30-45 minu
 
 ### Transportation Options from Pattaya
 
-If you're staying in central Pattaya, the most straightforward option is a taxi or ride-sharing app. Expect to pay 150-200 THB ($4-6 USD) for the journey. The ride takes you north along the coast, and you'll see the distinctive wooden structure appearing on the horizon as you approach. During our last visit in February, the journey was smooth with minimal traffic, though peak season (December-January) can see congestion on the main roads.
+If you're staying in central Pattaya, the most straightforward option is a taxi or ride-sharing app. Expect to pay 150-200 THB ($4-6 USD) for the journey. The ride takes you north along the coast, and you'll see the distinctive wooden structure appearing on the horizon as you approach.
 
 Alternatively, many hotels and tour operators offer shuttle services or can arrange private transportation. Some include the sanctuary as part of a larger day tour combining nearby attractions. For independent travelers, renting a scooter is an option, though the coastal road can be busy during peak hours.
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### [Day Trip](https://klook.tpo.lv/7Dt6WApj?subid=blog) Options from Bangkok
 
@@ -122,7 +106,7 @@ Understanding the costs and logistics helps you plan your visit efficiently. The
 | **Guided Tour (English)** | +300-400 | +$8-11 | 1.5-2 hour guided experience with expert commentary |
 | **Photography Pass** | +100 | +$3 | Professional photography permission |
 
-Admission includes access to all interior and exterior areas, shoe storage facilities, and basic amenities. The sanctuary is open daily, though hours may vary seasonally. During our research, standard hours were 8:00 AM to 5:00 PM, with last entry typically at 4:00 PM. It's wise to verify current hours before visiting, as special events or maintenance occasionally affect access.
+Admission includes access to all interior and exterior areas, shoe storage facilities, and basic amenities. The sanctuary is open daily, though hours may vary seasonally. It's wise to verify current hours before visiting, as special events or maintenance occasionally affect access.
 
 ### Dress Code and Etiquette
 
@@ -130,22 +114,6 @@ As a spiritual site, the sanctuary requires respectful dress. Visitors must cove
 
 You must remove your shoes before entering the main wooden structure. The sanctuary provides shoe storage facilities, though many visitors prefer to wear slip-on shoes for convenience. Socks are recommended as the wooden floors can be warm in the sun.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -181,7 +149,7 @@ Your choice between guided and self-guided exploration depends on your interests
 
 Professional guides at the sanctuary provide invaluable context about the symbolism, construction techniques, and philosophical meanings embedded in the carvings. A typical guided tour lasts 1.5 to 2 hours and costs an additional 300-400 THB ($8-11 USD) per person. English-speaking guides are available, though booking in advance ensures availability.
 
-During our research conversations with guides, they emphasized how the sanctuary's design reflects Buddhist cosmology and ancient Thai wisdom. Without this context, many visitors miss the deeper significance of specific carvings and architectural choices. Guides also know the best vantage points for photography and can explain the ongoing restoration and construction work visible throughout the site.
+Without this context, many visitors miss the deeper significance of specific carvings and architectural choices. Guides also know the best vantage points for photography and can explain the ongoing restoration and construction work visible throughout the site.
 
 **Pros of Guided Tours:**
 - **Expert interpretation** of symbolic meanings and architectural details
@@ -212,22 +180,6 @@ Self-guided visits allow you to move at your own pace, spending as much time as 
 - **Less efficient** routing; you may backtrack or miss connections between areas
 - **Photography challenges** without tips on best angles and lighting
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Combination Approach
 
@@ -371,22 +323,6 @@ Successfully booking your sanctuary visit requires understanding your options an
 
 Several platforms offer sanctuary tours and combination packages:
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Booking Timeline and Recommendations
 

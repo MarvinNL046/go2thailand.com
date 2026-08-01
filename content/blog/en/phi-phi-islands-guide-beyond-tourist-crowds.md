@@ -43,7 +43,7 @@ Phi Phi Don is the only inhabited island with permanent residents, shops, restau
 
 ### The Two Sides of Phi Phi Don
 
-**Tonsai Beach and Village** form the chaotic heart of Phi Phi Don. This is where ferries arrive, where the nightlife pulses, and where most tourists congregate. The beach itself is narrow and crowded, lined with beach bars playing electronic music. The village behind it is a labyrinth of narrow alleys packed with souvenir shops, restaurants, and tour operators. When we visited during peak season, navigating Tonsai felt more like navigating a night market than enjoying a tropical paradise.
+**Tonsai Beach and Village** form the chaotic heart of Phi Phi Don. This is where ferries arrive, where the nightlife pulses, and where most tourists congregate. The beach itself is narrow and crowded, lined with beach bars playing electronic music. The village behind it is a labyrinth of narrow alleys packed with souvenir shops, restaurants, and tour operators.
 
 **Loh Dalum Beach**, on the opposite side of the narrow isthmus from Tonsai, offers a slightly calmer alternative. It's still busy but attracts fewer day-trippers since it's not where the ferries dock. The beach curves gently, and the water is clearer than Tonsai's. Several mid-range and budget resorts line this beach, making it a reasonable compromise between accessibility and relative peace.
 
@@ -65,13 +65,13 @@ Phi Phi Don is the only inhabited island with permanent residents, shops, restau
 
 **Maya Bay** on Phi Phi Le is the island's most famous beach, immortalized in the 2000 film *The Beach*. The bay is genuinely stunning—a perfect crescent of white sand framed by 100-meter limestone cliffs, with emerald water that seems almost unreal. The problem? It's also overwhelmingly crowded.
 
-During our visit in November, we counted approximately 3,000 people on the beach at 11 a.m. Speedboats lined the water, tour groups clustered around guides holding colored umbrellas, and finding a patch of sand without someone's towel was nearly impossible. The beach officially closed from 2018 to 2022 for environmental recovery but reopened with visitor limits—though enforcement remains inconsistent.
+Speedboats lined the water, tour groups clustered around guides holding colored umbrellas, and finding a patch of sand without someone's towel was nearly impossible. The beach officially closed from 2018 to 2022 for environmental recovery but reopened with visitor limits—though enforcement remains inconsistent.
 
 ### Visiting Maya Bay Wisely
 
 **Early morning arrival** is non-negotiable if you insist on visiting. Boats departing Tonsai at 6:30 a.m. arrive by 7:30 a.m., giving you 90 minutes of relative peace before the tour groups swarm. Afternoon visits (after 3 p.m.) are slightly quieter as day-trippers depart, but you'll miss the best light for photos.
 
-**Skip the organized tours** if possible. Book a private longtail boat (negotiate 1,500–2,500 THB for 4–6 hours) or join a small-[group tour](https://getyourguide.tpo.lv/GuAFfGGK) with fewer than 15 people. The difference in experience is dramatic. During our private boat trip, we had Maya Bay nearly to ourselves for an hour at sunrise.
+**Skip the organized tours** if possible. Book a private longtail boat (negotiate 1,500–2,500 THB for 4–6 hours) or join a small-[group tour](https://getyourguide.tpo.lv/GuAFfGGK) with fewer than 15 people. The difference in experience is dramatic.
 
 ### Better Alternatives to Maya Bay
 
@@ -81,22 +81,6 @@ During our visit in November, we counted approximately 3,000 people on the beach
 
 **Koh Yung (Mosquito Island)** is a tiny island with a pristine beach and excellent snorkeling. It's rarely visited by tourists and offers the closest thing to a "secret" experience in the Phi Phi archipelago.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -105,24 +89,6 @@ During our visit in November, we counted approximately 3,000 people on the beach
 The waters surrounding Phi Phi Islands teem with marine life—leopard sharks, reef fish, sea turtles, and vibrant coral gardens. Snorkeling and diving are legitimate highlights, but quality varies dramatically depending on where you go and who guides you.
 
 ### Snorkeling: The Real Experience
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Bamboo Island's surrounding reefs** are among the healthiest in the region. The coral remains largely intact, and fish populations are robust. Water clarity typically exceeds 15 meters, making it ideal for snorkeling. Most snorkeling tours include Bamboo Island, Monkey Beach, and Phi Phi Le's eastern side—a solid itinerary that avoids the most degraded reefs.
@@ -160,7 +126,7 @@ Accommodation options range from 300-THB beach huts to 10,000+ THB luxury resort
 
 **Tonsai Village hostels and basic bungalows** are the cheapest option. Expect fan-cooled rooms, shared bathrooms, and noise from nearby bars until 2 a.m. Places like PP Backpackers and Phi Phi Viewpoint Hostel offer social atmospheres and reliable service, but you're paying for location and community, not comfort or quiet.
 
-**Loh Dalum Beach bungalows** offer slightly better value. For 500–700 THB, you'll get a private room with an ensuite bathroom and beach access. The beach is quieter than Tonsai, and you're still within walking distance of restaurants and shops. We stayed at several properties here and found them consistently reliable.
+**Loh Dalum Beach bungalows** offer slightly better value. For 500–700 THB, you'll get a private room with an ensuite bathroom and beach access. The beach is quieter than Tonsai, and you're still within walking distance of restaurants and shops.
 
 ### Mid-Range Options (1,000–2,500 THB)
 
@@ -168,22 +134,6 @@ Accommodation options range from 300-THB beach huts to 10,000+ THB luxury resort
 
 **Tonsai area hotels** in this price range are acceptable if you prioritize convenience over tranquility. Phi Phi Hotel and Phi Phi Banyan Villa offer reliable service and central locations, but expect noise and crowds.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Luxury Options (2,500+ THB)
 
@@ -232,22 +182,6 @@ Krabi's Ao Nang Pier offers a faster, less crowded alternative. The journey is s
 
 Ao Nang is the closest mainland departure point, making it ideal if you're staying in [Krabi](/blog/krabi-travel-guide/). The journey is quick and scenic.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Pro Tips for Ferry Travel
 
@@ -266,24 +200,6 @@ Ao Nang is the closest mainland departure point, making it ideal if you're stayi
 While beaches dominate Phi Phi's appeal, the islands offer surprising cultural and adventure experiences.
 
 ### Hiking and Viewpoints
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Phi Phi Viewpoint** sits 300 meters above Tonsai Beach, accessible via a steep 20-minute hike. The panoramic views of both bays are spectacular, especially at sunset. The hike is well-marked and free, though the path is occasionally slippery. Start early to avoid midday heat.
@@ -370,24 +286,6 @@ Phi Phi is generally safe, but standard precautions apply. Avoid leaving valuabl
 **Alcohol and nightlife safety** is important. Drink spiking occurs occasionally in tourist bars. Never leave drinks unattended, and travel in groups after dark.
 
 ### Money and Costs
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 ATMs are available at Tonsai Village and most resorts, though withdrawal fees are high (150–200 THB). Bring sufficient cash from the mainland if possible. Credit cards are accepted at established restaurants and hotels but not at small vendors.
@@ -479,11 +377,11 @@ Visit May–October (low season), stay on quieter beaches (Loh Dalum, Laem Tong)
 
 **Phi Phi Islands** are worth visiting, but not in the way most tourists experience them. Skip the midday Maya Bay madness, venture beyond Tonsai Village, and discover the quieter beaches and snorkeling sites that make these islands genuinely special. Whether you're seeking luxury isolation at Laem Tong, budget-friendly beach time on Loh Dalum, or adventure through jungle hikes and rock climbing, Phi Phi offers something beyond the Instagram clichés. For equally beautiful but quieter alternatives, consider [Koh Lipe](/blog/koh-lipe-maldives-of-thailand-travel-guide-2026/) or [Koh Kood](/blog/koh-kood-quiet-island-guide-trat-2026/), two of Thailand's best [beach destinations](/blog/best-beaches-thailand/) for those who want to escape the crowds entirely.
 
-The key is intentionality. Plan your visit during shoulder or low seasons, book accommodation away from Tonsai's chaos, and prioritize experiences over famous photo spots. When we returned to Phi Phi after three years away, we stayed on Loh Dalum, took a private boat to Koh Yung, and skipped Maya Bay entirely. It was the best visit yet.
+The key is intentionality. Plan your visit during shoulder or low seasons, book accommodation away from Tonsai's chaos, and prioritize experiences over famous photo spots. It was the best visit yet.
 
 Ready to explore Phi Phi beyond the crowds? Start by checking accommodation options and booking your ferry in advance. For more island inspiration, explore our guides to [Koh Samui](https://go2-thailand.com/islands/koh-samui/), [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/), and [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) for comparison. And if you're planning a broader southern Thailand trip, our [7-day island-hopping itinerary](https://go2-thailand.com/itineraries/7-days-island-hopping/) covers Phi Phi alongside other gems.
 
-**Trust us:** We've spent years exploring Thailand's islands. Phi Phi is beautiful—you just need to know where to find the beauty beyond the crowds.
+Phi Phi is beautiful—you just need to know where to find the beauty beyond the crowds.
 
 ## FAQ
 

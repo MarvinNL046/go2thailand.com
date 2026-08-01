@@ -4,9 +4,11 @@ date: "2026-03-23"
 lastUpdated: "2026-03-29"
 author:
   name: "Go2Thailand Editorial"
+category: "news"
 image: "/images/redesign/editorial/thai-carriers-fuel-surge-tourism-boom-warning-2026-hero.webp"
 tags: ["thailand", "airlines", "fuel costs", "tourism", "flights"]
 summary: "Major Thai carriers including Thai Airways, Bangkok Airways and AirAsia warn that soaring jet fuel prices threaten to undermine Thailand's tourism recovery in 2026."
+description: "A dated report on fuel-cost pressure affecting Thai airlines, with guidance to compare the current complete fare rather than rely on old estimates."
 sources:
   - "https://www.travelandtourworld.com/news/article/thai-airways-bangkok-airways-thai-airasia-nok-air-sound-alarm-rising-fuel-costs-threaten-thailands-tourism-hospitality-boom-in-2026/"
   - "https://www.thetraveler.org/thai-carriers-warn-fuel-surge-could-slow-2026-tourism-boom/"

@@ -102,7 +102,7 @@ export const kohSamuiDestinationGuide: DestinationGuideData = {
     {
       title: 'Waterval, tempel en zuidlus',
       eyebrow: 'Binnenland',
-      image: '/images/extra images/Grootvader en grootmoeder Rocks, Hin Ta Hin Yai, op het eiland Koh Samui, Thailand.webp',
+      image: '/images/cities/koh-samui/hin-ta-hin-yai.webp',
       imageAlt: 'Granietrotsen aan de kust bij Hin Ta Hin Yai op Koh Samui',
       description: 'Combineer Na Muang, één tempel of uitkijkpunt en de zuidkust. Dit is de dag waarop Samui meer wordt dan strandclubs en resorts.',
       decision: 'Maak geen gehaaste volledige eilandronde; kies twee of drie stops op dezelfde helft.',

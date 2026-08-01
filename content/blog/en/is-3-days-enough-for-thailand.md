@@ -2,7 +2,9 @@
 title: "Is 3 Days Enough for Thailand in 2026? Honest Reality"
 slug: "is-3-days-enough-for-thailand"
 excerpt: "Can you really see Thailand in 3 days? Honest assessment - what's possible in a 3-day Bangkok stop vs 5/7/10-day trips, with realistic itineraries."
+description: "Decide whether three days in Thailand is enough, with realistic Bangkok stopover options and alternatives for five-, seven- and ten-day trips."
 date: "2026-04-18"
+lastUpdated: "2026-08-01"
 author: "Go2Thailand Editorial Team"
 category: "Itineraries"
 tags: ["thailand-3-days", "thailand-short-trip", "bangkok-3-days", "stopover-thailand", "thailand-how-many-days"]

@@ -23,7 +23,7 @@ sources:
   - name: "UNESCO World Heritage Centre"
     url: "https://whc.unesco.org/en/list/576/"
 ---
-Imagine standing on the banks of the Chao Phraya River at dawn, camera in hand, as the first light bathes **Wat Arun**'s porcelain spires in golden hues—Thailand's temples aren't just sacred sites; they're living canvases for photographers. With over 41,000 Buddhist temples dotting the kingdom, we've curated the **20 most beautiful temples in Thailand** from our years island-hopping the south and trekking the north. This guide shares our favorite photo ops, lighting tricks, and access tips to help you frame masterpieces.
+Imagine standing on the banks of the Chao Phraya River at dawn, camera in hand, as the first light bathes **Wat Arun**'s porcelain spires in golden hues—Thailand's temples aren't just sacred sites; they're living canvases for photographers.
 
 ## Key Takeaways
 
@@ -39,7 +39,7 @@ Imagine standing on the banks of the Chao Phraya River at dawn, camera in hand, 
 
 ## 1. Iconic Bangkok Temples for Urban Photographers
 
-Bangkok pulses with photogenic **temples** that blend glittering spires against skyscrapers, perfect for cityscape lovers. During our three years navigating its chaos as locals, we chased sunrises here when the heat eased after Songkran in April.
+Bangkok pulses with photogenic **temples** that blend glittering spires against skyscrapers, perfect for cityscape lovers.
 
 ### Wat Phra Kaew and Grand Palace: Emerald Splendor
 
@@ -55,22 +55,6 @@ Wat Pho's massive Reclining Buddha (46m long) shines in golden mosaics, while Wa
 - **Budget Access:** Chao Phraya Express Boat (15 THB/$0.45).
 - **Avoid Peak:** Midday crowds obscure mother-of-pearl inlays.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 [Explore our Bangkok travel guide](https://go2-thailand.com/city/bangkok/) for more on pairing these with street food hunts.
 
@@ -92,32 +76,16 @@ This prang-dominated temple mirrors perfectly in the river at sunset. Pros: Fewe
 >
 > *Source: [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/576/)*
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 Check [Ayutthaya weekend trip from Bangkok](https://go2-thailand.com/blog/ayutthaya-weekend-trip-from-bangkok-2026/) for itineraries.
 
 ## 3. Chiang Mai's Hilltop Sanctuaries
 
-In northern Thailand's misty mountains, Chiang Mai's **temples** perch dramatically, rewarding hikes with panoramic vistas. We lived here three years, timing visits for Yi Peng lantern festivals.
+In northern Thailand's misty mountains, Chiang Mai's **temples** perch dramatically, rewarding hikes with panoramic vistas.
 
 ### Wat Phra That Doi Suthep: Golden Stupa Vistas
 
-Climb 306 steps to this 14th-century chedi; shoot from the Naga staircase at dawn. During our time, fog added ethereal layers—pure magic.
+Climb 306 steps to this 14th-century chedi; shoot from the Naga staircase at dawn.
 
 ### Wat Chedi Luang: Earthquake-Scarred Giant
 
@@ -129,22 +97,6 @@ Its towering chedi (80m originally) frames elephants statues perfectly. **Lens H
 
 [Read our Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/) and [12 best day trips from Chiang Mai](https://go2-thailand.com/blog/12-best-day-trips-from-chiang-mai-temples-waterfalls-mountains/).
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 4. Chiang Rai's Modern Marvels
 
@@ -156,7 +108,7 @@ Artist Chalermchai Kositpipat's all-white design reflects skies like a mirror—
 
 ### Wat Phra Kaew: Hilltop Relic House
 
-Mini-replica of Bangkok's Emerald Buddha temple with misty views. We hiked it in April's heat, rewarded by zero crowds.
+Mini-replica of Bangkok's Emerald Buddha temple with misty views.
 
 **Composition Tip:** Foreground lotus ponds for leading lines.
 
@@ -169,7 +121,7 @@ Mini-replica of Bangkok's Emerald Buddha temple with misty views. We hiked it in
 
 ## 5. Sukhothai's Dawn Serenity
 
-Thailand's first capital (1238-1438) hosts overgrown **temples** in a UNESCO park—ideal for landscape photographers. We rented bikes at sunrise, capturing dew-kissed lotuses.
+Thailand's first capital (1238-1438) hosts overgrown **temples** in a UNESCO park—ideal for landscape photographers.
 
 ### Wat Mahathat: Lotus Bud Central
 
@@ -197,7 +149,7 @@ Peek inside the massive seated Buddha for shaft-lit interiors. **Pro:** Quiet; *
 
 ## 6. Southern Islands' Coastal Shrines
 
-Island-hopping the south, we found cliffside **temples** blending sea and stupa. Phuket and Krabi deliver turquoise backdrops.
+Phuket and Krabi deliver turquoise backdrops.
 
 ### Wat Tham Sua (Tiger Cave Temple), Krabi
 
@@ -209,22 +161,6 @@ Island-hopping the south, we found cliffside **temples** blending sea and stupa.
 
 **Elevation Edge:** Cable car alternative (200 THB).
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">[Book Your Stay](https://booking.tpo.lv/2PT1kR82?subid=blog)</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 7. Lesser-Known Gems in Isaan and Beyond
 
@@ -277,22 +213,6 @@ Group your **20 most beautiful temples** via day trips. Here's our honest breakd
 
 **Booking Guide:** Use apps for real-time availability—book Klook 48hrs ahead for Bangkok combos, private via hotel concierges for north. Check [scooter rental Thailand](https://go2-thailand.com/travel-guides/scooter-rental-thailand/). We may earn a small commission from bookings made through our links, at no extra cost to you.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## Frequently Asked Questions
 
@@ -317,4 +237,4 @@ Early morning (5-7 AM) or civil twilight; hydrate heavily in April's 35°C+. Avo
 ### Are temple tours family-friendly?
 Yes, but steep stairs at hilltops like Doi Suthep challenge kids—opt for flat sites like Wat Pho.
 
-From Bangkok's riverside icons to Chiang Mai's misty peaks, these **20 most beautiful temples in Thailand** offer endless frames drawn from our firsthand treks. Plan your shots with our [Thailand itinerary](https://go2-thailand.com/thailand-itinerary/) or [best places to visit Thailand](https://go2-thailand.com/best-places-to-visit-thailand/). Trust the Go2Thailand Team—we've chased these sunrises so you can focus on the shutter. Book your temple adventure today!
+Plan your shots with our [Thailand itinerary](https://go2-thailand.com/thailand-itinerary/) or [best places to visit Thailand](https://go2-thailand.com/best-places-to-visit-thailand/). Book your temple adventure today!

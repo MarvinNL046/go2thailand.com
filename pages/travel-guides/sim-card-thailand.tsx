@@ -3,5 +3,6 @@ import ThailandEsimSimGuide from '../../components/connectivity/ThailandEsimSimG
 
 export default function SimCardThailandPage() {
   const { locale } = useRouter();
-  return <ThailandEsimSimGuide language={locale === 'nl' ? 'nl' : 'en'} />;
+  const language = locale === 'nl' ? 'nl' : 'en';
+  return language === 'en' ? <div data-premium-template="connectivity-guide-en"><ThailandEsimSimGuide language={language} /></div> : <ThailandEsimSimGuide language={language} />;
 }

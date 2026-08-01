@@ -43,13 +43,13 @@ Every year, as Thailand's monsoon rains begin to fall, one of the world's most f
 
 ## 1. Understanding King Cobra Season in Thailand
 
-**King cobra season** in Thailand aligns with the country's wet or monsoon season, which runs from May through October. During these months, increased rainfall creates ideal conditions for snakes to hunt, breed, and move across the landscape. The **peak cobra season** occurs from June through September, when humidity is highest and prey is most abundant. Our research into local wildlife patterns shows that cobras become noticeably more active during this period, particularly in rural and forested regions.
+**King cobra season** in Thailand aligns with the country's wet or monsoon season, which runs from May through October. During these months, increased rainfall creates ideal conditions for snakes to hunt, breed, and move across the landscape. The **peak cobra season** occurs from June through September, when humidity is highest and prey is most abundant.
 
 The reason for this seasonal spike is straightforward: rain brings out frogs, rodents, and other small animals that king cobras hunt. As food becomes plentiful, cobras expand their range and venture closer to human settlements. However, it's crucial to understand that **king cobra encounters remain extremely rare for tourists** in major cities like Bangkok, Chiang Mai, and popular beach destinations like Phuket. The vast majority of cobra sightings occur in remote agricultural areas, national parks, and rural villages where human-wildlife overlap is greatest.
 
 ### Why Cobras Emerge During the Wet Season
 
-The monsoon rains fundamentally change Thailand's landscape. Standing water in rice paddies, flooded forests, and swollen streams create temporary habitats that attract prey species. King cobras, which can grow up to 3 meters (10 feet) in length, are apex predators that follow their food sources. When frogs and small snakes become abundant, cobras move into areas where they might otherwise remain hidden. During our team's research into seasonal wildlife patterns, we found that local farmers and wildlife experts consistently report increased cobra activity in agricultural regions during June and July.
+The monsoon rains fundamentally change Thailand's landscape. Standing water in rice paddies, flooded forests, and swollen streams create temporary habitats that attract prey species. King cobras, which can grow up to 3 meters (10 feet) in length, are apex predators that follow their food sources. When frogs and small snakes become abundant, cobras move into areas where they might otherwise remain hidden.
 
 ### Regional Variations in Cobra Activity
 
@@ -74,7 +74,6 @@ The primary habitats where king cobras become active during the wet season inclu
 - **River valleys and stream beds** – Swollen waterways and their surrounding vegetation create ideal cobra corridors
 - **Rural villages and farmland** – Areas where human settlement borders natural habitat see the most cobra incidents
 
-When we visited rural areas during the wet season, local guides consistently warned us away from walking near rice paddies at dusk and dawn—the times when cobras hunt most actively.
 
 ### Safest Tourist Destinations During Cobra Season
 
@@ -98,7 +97,6 @@ The **monsoon rains of May through October** don't just increase cobra numbers�
 
 ### Peak Activity Times
 
-During our research into seasonal wildlife patterns, we found that king cobras are most active during:
 
 - **Early morning hours (5:00–7:00 AM)** – Cobras hunt as temperatures rise and prey becomes active
 - **Late afternoon and evening (5:00–8:00 PM)** – Another peak hunting period as temperatures cool
@@ -125,7 +123,7 @@ When traveling to rural or forested areas during the wet season, pack:
 - **Flashlight or headlamp** – Essential if you're out after dark; cobras are easier to spot with a light, and the light often causes them to retreat
 - **First-aid kit** – Include pressure immobilization bandages; see section 8 for details on snake bite response
 
-During our team's time in northern Thailand during the wet season, we found that wearing proper footwear made the biggest difference in feeling confident while hiking. Local guides emphasized that most cobra bites occur on the feet and lower legs of people wearing sandals or walking barefoot.
+Local guides emphasized that most cobra bites occur on the feet and lower legs of people wearing sandals or walking barefoot.
 
 ### Behavioral Safety Rules
 
@@ -137,22 +135,6 @@ Beyond gear, your actions matter most:
 - **Do not approach or provoke snakes** – King cobras will retreat if given the chance; they only attack when cornered or protecting a nest
 - **Check your [accommodation](https://booking.tpo.lv/2PT1kR82?subid=blog)** – Before settling into a room, inspect dark corners, under beds, and in closets; seal gaps under doors with towels
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -171,7 +153,7 @@ The **northern region** experiences the highest cobra activity during monsoon se
 
 ### Northeastern Thailand (Isaan Region)
 
-The **Isaan region**—including provinces like Nakhon Ratchasima, Khon Kaen, and Udon Thani—sees significant cobra activity during the wet season, particularly in rice-growing areas. The flat terrain and extensive agricultural land create perfect conditions for cobras to hunt. During our research into regional wildlife patterns, local farmers in this region reported seeing cobras in or near rice paddies during June and July more frequently than in other months.
+The **Isaan region**—including provinces like Nakhon Ratchasima, Khon Kaen, and Udon Thani—sees significant cobra activity during the wet season, particularly in rice-growing areas. The flat terrain and extensive agricultural land create perfect conditions for cobras to hunt.
 
 If you're exploring the [Isaan region guide](https://go2-thailand.com/region/isaan/), stick to established attractions and avoid walking through agricultural areas at dusk.
 
@@ -199,24 +181,8 @@ When booking jungle treks, hiking tours, or nature activities during the wet sea
 - **Have first-aid training** – Guides should know how to respond to snake bites
 - **Offer daytime-only treks** – Avoid night jungle walks during peak cobra season
 
-During our research into tour operators in northern Thailand, we found that the best guides actively look for cobras as part of their job—not to harm them, but to ensure guests don't accidentally step on one. These guides can spot a cobra from surprising distances and will quietly guide the group away.
+These guides can spot a cobra from surprising distances and will quietly guide the group away.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Best Times to Book Jungle Activities
 
@@ -290,7 +256,6 @@ When booking travel insurance for a trip during the wet season, verify that your
 - **Hospitalization in Thailand** – Confirm coverage at major Thai hospitals like Bumrungrad (Bangkok) and Chiang Mai Ram
 - **Medical evacuation** – If you're in a remote area, evacuation to a major hospital may be necessary
 
-Our research into travel insurance for Thailand found that most comprehensive policies cover snake bites, but it's worth confirming with your provider before you travel.
 
 ### Vaccinations and Health Precautions
 
@@ -302,22 +267,6 @@ While king cobra bites are rare, other health risks increase during the wet seas
 
 For detailed health information, consult our [health and vaccinations guide](https://go2-thailand.com/practical-info/health-vaccinations/).
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -365,7 +314,7 @@ Farmers in the central and northeastern regions view cobra season as a serious b
 - **Maintaining clear areas around homes** – Removing brush and debris eliminates cobra hiding spots
 - **Calling local authorities** if a cobra is spotted near homes or fields
 
-During our time in rural areas, we observed that farmers treat cobras with respect rather than fear. They understand that cobras are part of the ecosystem and that coexistence is possible with proper precautions.
+They understand that cobras are part of the ecosystem and that coexistence is possible with proper precautions.
 
 ### Hotel and Resort Staff
 

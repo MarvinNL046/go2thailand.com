@@ -103,18 +103,6 @@ The room is filled with custom-made antique furniture, real flowers, original ar
 
 After the morning of walking and sweating, a cold shower and an hour in the air conditioning is essential. Use this time to rest, rehydrate, and save energy for the evening ahead.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay in Talad Noi</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book heritage guesthouses and boutique hotels in Talad Noi and the surrounding Chinatown area.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ## Late Afternoon (4:00–5:30 PM): Explore Round Two
 
@@ -218,18 +206,6 @@ Before checking out, take one final morning walk. Revisit your favourite spots, 
 - Cash (many street vendors don't accept cards)
 - Water bottle (stay hydrated; refill at cafés)
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎫</span>
-        <strong style="font-size:18px;color:#1F2937;">Bangkok Walking Tours</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Explore Talad Noi, Chinatown, and Bangkok's hidden neighbourhoods with local guides. Book walking tours, food tours, and cultural experiences.</p>
-      <a href="https://klook.tpo.lv/FVjXFbf3" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#FF5722;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on Klook →</a>
-    </div>
-  </div>
-</div></div>
 
 ## Featured Locations Map
 

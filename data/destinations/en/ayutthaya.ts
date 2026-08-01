@@ -60,7 +60,7 @@ export const ayutthayaDestinationGuideEn: DestinationGuideData = {
       slug: "western-river-loop",
       name: "Western river loop",
       kicker: "Wat Chaiwatthanaram in its own light",
-      image: "/images/cities/ayutthaya/attractions/at Chaiwatthanaram tempel bij nacht, Ayutthaya.webp",
+      image: "/images/cities/ayutthaya/attractions/wat-chaiwatthanaram-night.webp",
       imageAlt: "Wat Chaiwatthanaram beside the river in evening light",
       summary:
         "Wat Chaiwatthanaram lies beyond the central island cluster and deserves a separate late-afternoon block. Its river setting and monumental silhouette feel different from the compact central ruins. A tuk-tuk, driver or well-planned boat route makes the geography clearer.",
@@ -94,7 +94,7 @@ export const ayutthayaDestinationGuideEn: DestinationGuideData = {
     {
       eyebrow: "Historic island",
       title: "Read the central ruins as one royal city",
-      image: "/images/extra images/Buddha head in banyan tree roots at Wat Mahathat temple in Ayutthaya Historical Park, Thailand..webp",
+      image: "/images/cities/ayutthaya/attractions/wat-mahathat-buddha-head.webp",
       imageAlt: "Buddha head among tree roots at Wat Mahathat",
       description:
         "Wat Mahathat’s famous head among roots gains meaning beside Wat Ratchaburana and the former royal temple of Wat Phra Si Sanphet. Slow down, read the basic history and notice how religious and political spaces relate across the island.",

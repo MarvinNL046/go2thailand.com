@@ -61,15 +61,15 @@ export default function BestPlacesPage({ cities }: PageProps) {
       <SEOHead
         title={isNl
           ? `Beste Plekken om te Bezoeken in Thailand 2026 | Go2 Thailand`
-          : `Best Places to Visit in Thailand 2026 | Go2 Thailand`}
+          : `Best Places to Visit in Thailand | Go2Thailand`}
         description={isNl
           ? `Ontdek de ${cities.length} beste plekken om te bezoeken in Thailand in 2026. Van Bangkok en Chiang Mai tot Phuket, Krabi en verborgen parels — vind jouw perfecte Thaise bestemming.`
-          : `Discover the ${cities.length} best places to visit in Thailand in 2026. From Bangkok and Chiang Mai to Phuket, Krabi, and hidden gems — find your perfect Thai destination.`}
+          : `Compare ${cities.length} places to visit in Thailand by region and travel style, from Bangkok and Chiang Mai to Phuket, Krabi and quieter alternatives.`}
       >
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </SEOHead>
 
-      <div className="bg-surface-cream min-h-screen">
+      <div className="bg-surface-cream min-h-screen" data-premium-template="best-places-thailand-directory">
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
@@ -85,6 +85,15 @@ export default function BestPlacesPage({ cities }: PageProps) {
             </div>
           </div>
         </section>
+
+        {!isNl && (
+          <section className="border-y border-jade/10 bg-tonal py-8">
+            <div className="container-custom grid gap-4 lg:grid-cols-[.7fr_1.3fr] lg:items-center">
+              <p className="eyebrow">How to use this directory</p>
+              <p className="text-sm font-medium leading-7 text-charcoal/70">This is a complete regional directory, not a claim that every place suits every traveller. Open a city owner to compare season, travel time, atmosphere and practical trade-offs; use the weather and itinerary hubs before fixing a route.</p>
+            </div>
+          </section>
+        )}
 
         <section className="section-padding">
           <div className="container-custom">

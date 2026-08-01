@@ -34,7 +34,7 @@ This guide covers the 10 best specialty coffee spots across five neighbourhoods,
 
 ## How We Selected These Cafés
 
-Every café in this guide meets three criteria: a Google rating of 4.4 or higher from at least 300 reviews, beans roasted in-house or sourced directly from Thai and international farms, and a focus on specialty-grade coffee rather than commercial blends. We visited each neighbourhood and cross-referenced our picks with local barista recommendations and the specialty coffee community.
+Every café in this guide meets three criteria: a Google rating of 4.4 or higher from at least 300 reviews, beans roasted in-house or sourced directly from Thai and international farms, and a focus on specialty-grade coffee rather than commercial blends.
 
 ---
 

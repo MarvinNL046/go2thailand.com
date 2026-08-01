@@ -81,7 +81,7 @@ export const kohSamuiAttractionsGuide: AttractionGuideData = {
       title: 'Hin Ta & Hin Yai',
       type: 'Kustlandschap',
       duration: '45 tot 90 minuten',
-      image: '/images/extra images/Grootvader en grootmoeder Rocks, Hin Ta Hin Yai, op het eiland Koh Samui, Thailand.webp',
+      image: '/images/cities/koh-samui/hin-ta-hin-yai.webp',
       imageAlt: 'De granieten Hin Ta en Hin Yai-rotsen aan de zuidoostkust van Koh Samui',
       description: 'De opvallende granietformaties zijn een bekende kuststop vlak bij Lamai. Het uitzicht en de rotskust geven meer context dan alleen de twee beroemde vormen.',
       bestFor: 'Een korte stop op een Lamai-route',

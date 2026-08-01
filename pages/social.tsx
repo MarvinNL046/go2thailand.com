@@ -1,4 +1,4 @@
-import { GetStaticProps } from 'next';
+import { GetServerSideProps } from 'next';
 import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -331,7 +331,15 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
   );
 }
 
-export const getStaticProps: GetStaticProps = async ({ locale }) => {
+export const getServerSideProps: GetServerSideProps = async ({ locale }) => {
+  if (locale === 'en') {
+    return {
+      redirect: {
+        destination: '/blog/',
+        permanent: true,
+      },
+    };
+  }
   if (locale === 'nl') {
     return { props: { featuredPosts: [], recentPosts: [] } };
   }

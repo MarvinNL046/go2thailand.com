@@ -39,7 +39,7 @@ Picture yourself lying on a mat in a dimly lit room, the scent of jasmine in the
 
 **Thai massage** (called "nuad boran" in Thai) is a 2,500-year-old healing practice that blends acupressure, assisted yoga stretching, and energy work. Unlike Swedish massage, which focuses on muscle relaxation through kneading, Thai massage works along energy pathways called "sen lines" and uses rhythmic pressure from the therapist's hands, elbows, knees, and feet to release tension and improve circulation.
 
-When we visited a traditional massage school in the Old City of [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we learned that Thai massage is deeply rooted in Buddhist philosophy and Ayurvedic medicine. The practice is considered a form of meditation and healing, not merely a luxury treatment. Many Thai people visit massage clinics weekly for maintenance and preventive health—it's as common as going to a gym in Western countries.
+The practice is considered a form of meditation and healing, not merely a luxury treatment. Many Thai people visit massage clinics weekly for maintenance and preventive health—it's as common as going to a gym in Western countries.
 
 ### The Philosophy Behind the Practice
 
@@ -62,27 +62,9 @@ Thailand offers several distinct massage styles, each with different benefits an
 ### Traditional Thai Massage (Nuad Boran)
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 **Traditional Thai massage** is the full-body experience most visitors seek. A typical session lasts 60–120 minutes and involves the therapist working through your entire body using hands, elbows, knees, and feet. You'll be stretched into yoga-like positions, and pressure is applied along energy lines. The therapist works methodically from your feet upward, finishing with neck and head work.
 
-During our time in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we experienced traditional massage at a certified clinic and felt the difference between a rushed 45-minute session and a proper 90-minute treatment. The longer sessions allow the therapist to work more thoroughly and give your body time to relax into the stretches. This style is best for:
+The longer sessions allow the therapist to work more thoroughly and give your body time to relax into the stretches. This style is best for:
 
 - First-time visitors wanting the "authentic" Thai massage experience
 - People with tight muscles and limited flexibility
@@ -108,7 +90,7 @@ Oil massage is ideal for:
 
 **Thai foot massage** is based on reflexology principles—the belief that pressure points on the feet correspond to organs and systems throughout the body. A typical session lasts 60–90 minutes and focuses entirely on the feet, lower legs, and sometimes the lower back. The therapist uses a wooden stick and hands to apply firm, specific pressure.
 
-In our experience, foot massage is surprisingly intense—don't be surprised if it's uncomfortable at first, especially if your feet are sensitive. Many locals swear by it for overall health and energy. It's perfect for:
+Many locals swear by it for overall health and energy. It's perfect for:
 
 - Budget-conscious travelers (often the cheapest option)
 - People who want targeted treatment without full-body commitment
@@ -130,22 +112,6 @@ This style is excellent for:
 
 **Price range:** THB 250–400 ($7–12 USD) at clinics; THB 500–1,000 ($14–29 USD) at spas.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -157,7 +123,7 @@ Massage prices in Thailand vary dramatically based on location, establishment ty
 
 **Traditional massage clinics** (often attached to massage schools) are the most affordable option. These are legitimate, licensed establishments where students and qualified therapists offer treatments at local prices. A 60-minute traditional massage costs THB 150–250 ($4–7 USD), and 90-minute sessions run THB 200–350 ($6–10 USD).
 
-During our research in [Bangkok](https://go2-thailand.com/city/bangkok/), we found that many of these clinics are excellent quality—therapists are well-trained, and the environment is clean and professional, though perhaps less luxurious than upscale spas. These clinics are where Thai people go for regular massage, which is a good sign of authenticity and value.
+These clinics are where Thai people go for regular massage, which is a good sign of authenticity and value.
 
 **Pros:**
 - **Authentic experience:** You're in the same space as local clients
@@ -244,7 +210,7 @@ Getting around Bangkok to reach these areas is easy — see our [Bangkok public 
 
 [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) is considered the heart of traditional Thai massage. The city has several renowned massage schools, and many therapists here have trained for years in classical techniques. Prices are lower than Bangkok, and the atmosphere is more relaxed and authentic.
 
-During our three years in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we found that regular massage visits were part of local life—we'd see the same therapists weekly and develop genuine relationships. The quality is consistently high, and prices reflect local economics rather than tourist markup.
+The quality is consistently high, and prices reflect local economics rather than tourist markup.
 
 **Best for:**
 - Learning massage (multi-day courses available)
@@ -272,24 +238,6 @@ Island massage is convenient if you're staying at a resort, and many spas offer 
 Understanding the experience beforehand reduces anxiety and helps you relax fully. Here's what happens during a typical session.
 
 ### Before Your Massage: Arrival & Consultation
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 When you arrive, you'll be greeted and asked to remove your shoes (standard in Thailand). The staff will ask about your health history, any injuries, and your massage preferences. Be honest about sensitive areas, injuries, or health conditions—a good therapist will adjust pressure accordingly.
@@ -354,22 +302,6 @@ Thai massage is generally safe for most people, but certain conditions require c
 
 Always disclose health conditions to your therapist. A professional will ask detailed questions and adjust their technique accordingly.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -402,7 +334,7 @@ One of the best souvenirs from Thailand is knowledge. Many visitors take short m
 
 Courses typically run 6–8 hours daily, with mornings focused on theory and afternoons on practice. You'll learn on other students (you'll take turns being therapist and client), so expect to give and receive many massages. The teaching style is hands-on and practical—you'll learn by doing, not just watching.
 
-In our experience, these courses are excellent value and genuinely educational. Even if you never practice professionally, learning massage deepens your appreciation for the art and gives you skills to help friends and family.
+Even if you never practice professionally, learning massage deepens your appreciation for the art and gives you skills to help friends and family.
 
 **Pro tip:** Book courses through reputable schools with online reviews and established reputations. Avoid unmarked "massage schools" offering suspiciously cheap courses.
 
@@ -413,24 +345,6 @@ In our experience, these courses are excellent value and genuinely educational. 
 How and where you book depends on your location, timeline, and preferences.
 
 ### Online Booking Platforms
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Booking platforms** like Klook and GetYourGuide offer pre-booked massage experiences with hotel pickup, English-speaking guides, and guaranteed availability. Prices are higher than direct booking (you're paying platform fees), but convenience is high.
@@ -598,26 +512,10 @@ For more wellness experiences in Thailand, explore our [best wellness retreats g
 
 **Ready to book your first Thai massage?** Use our guides to [find the best spas in Bangkok](https://go2-thailand.com/city/bangkok/attractions/) or [Chiang Mai](https://go2-thailand.com/city/chiang-mai/attractions/), or check current availability and prices through our trusted booking partners below.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
-*The Go2Thailand Team has lived and traveled throughout Thailand for over a decade. We've experienced hundreds of massages—from THB 120 clinics to luxury resort spas—and share this knowledge to help you find authentic, safe, and genuinely therapeutic experiences. Trust our recommendations; we've done the research so you don't have to.*
+*The Go2Thailand Team has lived and traveled throughout Thailand for over a decade.
 
 ## FAQ
 

@@ -49,7 +49,7 @@ export const bangkokDestinationGuideEn: DestinationGuideData = {
       slug: "old-town-riverside",
       name: "Old Town & riverside",
       kicker: "Royal and river Bangkok",
-      image: "/images/cities/bangkok/attractions/grand palace/Chakri Maha Prasat, Grand Palace, bangkok thailand.webp",
+      image: "/images/cities/bangkok/attractions/grand-palace-chakri-maha-prasat.webp",
       imageAlt: "Chakri Maha Prasat inside Bangkok Grand Palace",
       summary:
         "Rattanakosin holds the Grand Palace, Wat Pho and the ferry connection to Wat Arun. The wider riverside adds piers, historic hotels and sunset views. It gives a first visit its historical frame but is not served by BTS at every stop.",
@@ -211,7 +211,7 @@ export const bangkokDestinationGuideEn: DestinationGuideData = {
     { question: "Which is the best month to go to Bangkok?", answer: "Many first-time visitors find the generally cooler, drier stretch from November to February easier for outdoor days. There is no guaranteed best month: current heat, rain, air quality, crowds and your priorities matter more than a label." },
   ],
   relatedGuides: [
-    { title: "Things to do in Bangkok", description: "Build temple, river, market and neighbourhood days without crossing the city at random.", href: "/city/bangkok/attractions/", image: "/images/cities/bangkok/attractions/grand palace/Chakri Maha Prasat, Grand Palace, bangkok thailand.webp", imageAlt: "Grand Palace in Bangkok" },
+    { title: "Things to do in Bangkok", description: "Build temple, river, market and neighbourhood days without crossing the city at random.", href: "/city/bangkok/attractions/", image: "/images/cities/bangkok/attractions/grand-palace-chakri-maha-prasat.webp", imageAlt: "Grand Palace in Bangkok" },
     { title: "Where to stay in Bangkok", description: "Compare areas by transport, evening rhythm and the trip you actually want.", href: "/where-to-stay/bangkok/", image: "/images/redesign/stay-bangkok-rooftop.webp", imageAlt: "Bangkok hotel pool and skyline" },
     { title: "Bangkok street food", description: "Explore dishes and food districts, then choose a practical tasting route.", href: "/city/bangkok/food/", image: "/images/redesign/bangkok-food-yaowarat.webp", imageAlt: "Bangkok street-food dishes" },
   ],

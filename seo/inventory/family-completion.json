@@ -599,29 +599,16 @@
     },
     {
       "key": "en:editorial",
-      "status": "in-progress",
-      "acceptedRoutes": [
-        "/blog/andamanda-phuket-day-songkran-pool-party-2026/",
-        "/blog/bangkok-songkran-2026-khaosan-road-safety-plan/",
-        "/blog/earth-hour-2026-bangkok-thailand-landmarks-lights-off/",
-        "/blog/kraftwerk-multimedia-tour-bangkok-may-2026-concert-guide/",
-        "/blog/pattaya-music-festival-2026-free-beach-concerts-march/",
-        "/blog/pattaya-pride-circuit-festival-asia-lgbtq-june-2026/",
-        "/blog/phra-pradaeng-songkran-2026-mon-culture-samut-prakan/",
-        "/blog/royal-ploughing-ceremony-bangkok-may-2026/",
-        "/blog/s2o-songkran-music-festival-2026-bangkok-edm-water-party/",
-        "/blog/siam-songkran-music-festival-2026-bangkok-guide/",
-        "/blog/silom-edge-songkran-2026-bangkok-water-festival-event/",
-        "/blog/songkran-festival-2026-guide/",
-        "/blog/thailand-tourism-festival-2026-5-must-do-food-culture-highlights/",
-        "/blog/thailand-tourism-festival-2026-culinary-regional-food-guide/",
-        "/blog/thailand-travel-fair-2026-qsncc-bangkok/"
-      ],
+      "status": "complete",
       "evidence": [
         "seo/research/en/2026-08-01-editorial-event-lifecycle-primary-evidence.md",
-        "seo/audits/en-editorial-freshness-lifecycle-2026-08-01.md"
+        "seo/research/en/2026-08-01-editorial-source-freshness-closeout.md",
+        "seo/audits/en-editorial-freshness-lifecycle-2026-08-01.md",
+        "seo/audits/en-editorial-source-freshness-closeout-2026-08-01.md",
+        "seo/audits/en-editorial-personal-experience-remediation-2026-08-01.md",
+        "seo/audits/en-editorial-family-closure-2026-08-01.md"
       ],
-      "note": "The first fifteen volatile English event owners have explicit primary-source lifecycle review and recap framing. The remaining editorial queue is intentionally still open."
+      "note": "All 275 English editorial routes are accepted after complete metadata/source/runtime review, removal of unsupported first-person claims and legacy widgets, explicit lifecycle checks, premium shared rendering and visible current-price/schedule safeguards."
     },
     {
       "key": "en:homepage",
@@ -706,27 +693,30 @@
     },
     {
       "key": "en:manual-review",
-      "status": "in-progress",
-      "acceptedRoutes": [
-        "/grand-palace-tickets/",
-        "/thailand-in/january/",
-        "/thailand-in/february/",
-        "/thailand-in/march/",
-        "/thailand-in/april/",
-        "/thailand-in/may/",
-        "/thailand-in/june/",
-        "/thailand-in/july/",
-        "/thailand-in/august/",
-        "/thailand-in/september/",
-        "/thailand-in/october/",
-        "/thailand-in/november/",
-        "/thailand-in/december/"
-      ],
+      "status": "complete",
       "evidence": [
         "seo/research/en/2026-08-01-manual-review-family-primary-source-gate.md",
         "seo/audits/en-manual-review-family-2026-08-01.md"
       ],
-      "note": "All twelve month owners now have a dedicated English premium source-bound template and Grand Palace has current official access evidence. The remaining manual owners stay open for page-specific verification."
+      "note": "All 35 English manual-review decisions are closed: retained routes have premium source-bound owners and safe schema/affiliate behavior, while the synthetic social feed permanently redirects to the editorial hub."
+    },
+    {
+      "key": "en:transport",
+      "status": "complete",
+      "evidence": [
+        "seo/research/en/2026-08-01-transport-route-specific-evidence.md",
+        "seo/audits/en-transport-family-closure-2026-08-01.md"
+      ],
+      "note": "All 69 English transport decisions are closed: 68 route-safe planning owners expose candidate modes with current source channels and live-total safeguards, while Bangkok to Koh Samui permanently consolidates to its dedicated owner."
+    },
+    {
+      "key": "en:travel-guide",
+      "status": "complete",
+      "evidence": [
+        "seo/research/en/2026-08-01-travel-guide-family-primary-source-gate.md",
+        "seo/audits/en-travel-guide-family-2026-08-01.md"
+      ],
+      "note": "All 74 English travel-guide routes are accepted through premium city, generic and static owners with route-specific intent, current primary-source verification boundaries, safe schema/internal links and restrained disclosed affiliate actions."
     }
   ]
 }

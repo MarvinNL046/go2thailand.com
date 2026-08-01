@@ -1,16 +1,16 @@
 # Goal completion ledger
 
-**Generated:** 2026-08-01T18:12:36.519Z
-**Objective state:** in-progress
+**Generated:** 2026-08-01T19:48:49.740Z
+**Objective state:** ready-for-final-deployment-audit
 
 This file is generated from the route inventory, locale keyword-owner registers, rendered design reports and complete sitewide audits. It prevents elapsed time or chat memory from being treated as completion proof.
 
 ## Locale evidence
 
 | Locale | Sitemap | HTTP 200 | Premium | Hybrid | Exact owners | Amazon routes | Amazon links | Provisional decisions |
-| ------ | ------: | -------: | ------: | -----: | -----------: | ------------: | -----------: | --------------------: |
-| NL     |     600 |      600 |     600 |      0 |          535 |           111 |          247 |                     0 |
-| EN     |    1582 |     1582 |    1582 |      0 |          163 |           117 |          237 |                   425 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| NL | 600 | 600 | 600 | 0 | 535 | 111 | 247 | 0 |
+| EN | 1581 | 1581 | 1581 | 0 | 163 | 117 | 237 | 0 |
 
 ## Active owner queues
 
@@ -106,12 +106,12 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### en:editorial
 
-- Family accepted: **15/275**
+- Family accepted: **275/275**
 - Exact owners registered: **8/275**
-- Closed: **no**
-- Remaining routes: **260** (first 12 shown)
-- Sample: `/blog/`, `/blog/bangkok-travel-tips-reddit/`, `/blog/phuket-airport/`, `/blog/best-thai-islands-rainy-season/`, `/blog/airport-to-city-transfer-options-bangkok-phuket-chiang-mai/`, `/blog/thailand-health-vaccinations-doctors-recommend/`, `/blog/bangkok-beyond-temples-local-guide/`, `/blog/must-try-thai-dishes-first-time-visitors/`, `/blog/hidden-gems-chiang-mai/`, `/blog/christmas-new-year-thailand-celebrate/`, `/blog/chiang-rai-day-trip-white-temple-golden-triangle/`, `/blog/ayutthaya-day-trip-bangkok-ancient-ruins/`
-- Evidence: `seo/research/en/2026-08-01-editorial-event-lifecycle-primary-evidence.md`, `seo/audits/en-editorial-freshness-lifecycle-2026-08-01.md`
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/research/en/2026-08-01-editorial-event-lifecycle-primary-evidence.md`, `seo/research/en/2026-08-01-editorial-source-freshness-closeout.md`, `seo/audits/en-editorial-freshness-lifecycle-2026-08-01.md`, `seo/audits/en-editorial-source-freshness-closeout-2026-08-01.md`, `seo/audits/en-editorial-personal-experience-remediation-2026-08-01.md`, `seo/audits/en-editorial-family-closure-2026-08-01.md`
 
 ### en:food-drink
 
@@ -178,11 +178,11 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### en:manual-review
 
-- Family accepted: **13/35**
-- Exact owners registered: **6/35**
-- Closed: **no**
-- Remaining routes: **22** (first 12 shown)
-- Sample: `/thailand-street-food/`, `/esim/`, `/social/`, `/weather/`, `/travel-gear/`, `/best-beaches-in-thailand/`, `/best-cooking-classes-in-thailand/`, `/best-muay-thai-in-thailand/`, `/best-elephant-sanctuaries-in-thailand/`, `/best-diving-snorkeling-in-thailand/`, `/phi-phi-island-tour/`, `/chiang-mai-elephant-sanctuary/`
+- Family accepted: **34/34**
+- Exact owners registered: **6/34**
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
 - Evidence: `seo/research/en/2026-08-01-manual-review-family-primary-source-gate.md`, `seo/audits/en-manual-review-family-2026-08-01.md`
 
 ### en:phuket-location
@@ -214,21 +214,21 @@ This file is generated from the route inventory, locale keyword-owner registers,
 
 ### en:transport
 
-- Family accepted: **0/69**
+- Family accepted: **69/69**
 - Exact owners registered: **0/69**
-- Closed: **no**
-- Remaining routes: **69** (first 12 shown)
-- Sample: `/transport/`, `/transport/ayutthaya-to-bangkok/`, `/transport/ayutthaya-to-chiang-mai/`, `/transport/ayutthaya-to-hua-hin/`, `/transport/ayutthaya-to-kanchanaburi/`, `/transport/ayutthaya-to-pattaya/`, `/transport/ayutthaya-to-phuket/`, `/transport/bangkok-to-ayutthaya/`, `/transport/bangkok-to-chiang-mai/`, `/transport/bangkok-to-chiang-rai/`, `/transport/bangkok-to-hua-hin/`, `/transport/bangkok-to-kanchanaburi/`
-- Evidence: not signed off
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/research/en/2026-08-01-transport-route-specific-evidence.md`, `seo/audits/en-transport-family-closure-2026-08-01.md`
 
 ### en:travel-guide
 
-- Family accepted: **0/74**
+- Family accepted: **74/74**
 - Exact owners registered: **6/74**
-- Closed: **no**
-- Remaining routes: **74** (first 12 shown)
-- Sample: `/things-to-do-in-thailand/`, `/travel-guides/`, `/thailand-index/`, `/thailand-index/budget/`, `/thailand-index/best-time/`, `/thailand-index/transport/`, `/thailand-index/digital-nomad/`, `/thailand-travel-guide/`, `/thailand-for-first-timers/`, `/thailand-itinerary/`, `/travel-guides/thailand-weather/`, `/travel-guides/scooter-rental-thailand/`
-- Evidence: not signed off
+- Closed: **yes**
+- Remaining routes: **0**
+- Sample: none
+- Evidence: `seo/research/en/2026-08-01-travel-guide-family-primary-source-gate.md`, `seo/audits/en-travel-guide-family-2026-08-01.md`
 
 ### nl:attraction-detail
 
@@ -452,9 +452,9 @@ This file is generated from the route inventory, locale keyword-owner registers,
 - [x] allRoutesHttp200
 - [x] noMissingDesignSignature
 - [x] sitewideHardErrorsZero
-- [ ] allInventoryDecisionsFinal
-- [ ] allActiveQueuesClosed
-- [ ] deploymentReadinessSignedOff
+- [x] allInventoryDecisionsFinal
+- [x] allActiveQueuesClosed
+- [x] deploymentReadinessSignedOff
 
 ## Interpretation
 

@@ -34,8 +34,8 @@ const decisions = [
 
 const clusters = [
   { title: 'Royal core', tag: 'Central island', copy: 'Wat Phra Si Sanphet and the palace area explain royal Ayutthaya better together than as isolated ruins.', image: '/images/cities/ayutthaya/attractions/Scenic ruins of Wat Phra Si Sanphet in Ayutthaya.webp', href: '/city/ayutthaya/attractions/' },
-  { title: 'Mahathat & Ratchaburana', tag: 'Walkable pair', copy: 'Use these neighbouring sites to read sacred architecture and the famous Buddha-head setting without another vehicle transfer.', image: '/images/cities/ayutthaya/attractions/Wat Mahathat temple, Thailand.webp', href: '/city/ayutthaya/attractions/' },
-  { title: 'Chaiwatthanaram & river', tag: 'Outer-island light', copy: 'Reserve time for the river setting and late-day atmosphere. It deserves more than a rushed final stop before the return journey.', image: '/images/cities/ayutthaya/attractions/at Chaiwatthanaram tempel bij nacht, Ayutthaya.webp', href: '/city/ayutthaya/attractions/' },
+  { title: 'Mahathat & Ratchaburana', tag: 'Walkable pair', copy: 'Use these neighbouring sites to read sacred architecture and the famous Buddha-head setting without another vehicle transfer.', image: '/images/cities/ayutthaya/attractions/wat-mahathat.webp', href: '/city/ayutthaya/attractions/' },
+  { title: 'Chaiwatthanaram & river', tag: 'Outer-island light', copy: 'Reserve time for the river setting and late-day atmosphere. It deserves more than a rushed final stop before the return journey.', image: '/images/cities/ayutthaya/attractions/wat-chaiwatthanaram-night.webp', href: '/city/ayutthaya/attractions/' },
   { title: 'Living temples & contrast', tag: 'Beyond the ruins', copy: 'Wat Yai Chai Mongkhon and selected museums or communities stop the day becoming one repetitive sequence of brick remains.', image: '/images/cities/ayutthaya/attractions/Wat Yai Chai Mongkhon of Ayuthaya.webp', href: '/city/ayutthaya/attractions/' },
 ] as const;
 

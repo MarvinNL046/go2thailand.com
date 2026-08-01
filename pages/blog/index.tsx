@@ -362,7 +362,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                   </form>
                   <p className="mt-4 border-t border-white/15 pt-4 text-xs leading-5 text-white/70">
                     {locale === 'nl' ? 'Liever visuele updates? ' : 'Prefer visual updates? '}
-                    <Link href="/social/" className="font-bold text-thailand-gold transition hover:text-white">
+                    <Link href={locale === 'nl' ? '/social/' : '/about/'} className="font-bold text-thailand-gold transition hover:text-white">
                       {locale === 'nl' ? 'Bekijk onze sociale kanalen' : 'Explore our social channels'}
                     </Link>
                     .

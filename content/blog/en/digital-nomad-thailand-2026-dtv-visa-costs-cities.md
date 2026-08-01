@@ -79,11 +79,11 @@ Once you arrive in Thailand, you must complete the [Thailand Digital Arrival Car
 
 ## 2. Monthly Living Costs: Breaking Down the Budget by City
 
-One of Thailand's greatest advantages for digital nomads is its affordability. The cost of living varies dramatically depending on which city you choose, your lifestyle, and how much you prioritize comfort versus budget. During our time living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) and exploring other digital nomad hubs, we tracked spending across different cities to give you realistic numbers.
+One of Thailand's greatest advantages for digital nomads is its affordability. The cost of living varies dramatically depending on which city you choose, your lifestyle, and how much you prioritize comfort versus budget.
 
 ### Budget Breakdown: Chiang Mai (Most Affordable)
 
-[Chiang Mai](https://go2-thailand.com/city/chiang-mai/) is the undisputed capital of the Thailand digital nomad scene, and for good reason — it's where you can live comfortably on the smallest budget while maintaining excellent quality of life. Our research shows a realistic monthly budget breaks down like this:
+[Chiang Mai](https://go2-thailand.com/city/chiang-mai/) is the undisputed capital of the Thailand digital nomad scene, and for good reason — it's where you can live comfortably on the smallest budget while maintaining excellent quality of life.
 
 - **Accommodation:** 8,000–15,000 THB ($220–$410) for a private studio or 1-bedroom apartment in a digital nomad-friendly area like Nimman or Old City. Co-living spaces and shared houses run 10,000–12,000 THB.
 - **Food:** 8,000–12,000 THB ($220–$330) if you eat mostly at local restaurants and markets. Western food and cafes cost more; budget 15,000–20,000 THB if you prefer familiar cuisine.
@@ -97,7 +97,7 @@ One of Thailand's greatest advantages for digital nomads is its affordability. T
 
 ### Bangkok: Premium Pricing, Maximum Amenities
 
-[Bangkok](https://go2-thailand.com/city/bangkok/) is Thailand's capital and offers world-class infrastructure, but prices are significantly higher. In our [experience](https://getyourguide.tpo.lv/GuAFfGGK) exploring Bangkok's digital nomad neighborhoods like Ari, Thonglor, and Ekkamai, we found:
+[Bangkok](https://go2-thailand.com/city/bangkok/) is Thailand's capital and offers world-class infrastructure, but prices are significantly higher.
 
 - **Accommodation:** 20,000–40,000 THB ($550–$1,100) for a modern 1-bedroom apartment in a good neighborhood. Co-living and serviced apartments start at 18,000 THB.
 - **Food:** 12,000–20,000 THB ($330–$550) for a mix of local and Western food.
@@ -124,53 +124,19 @@ Cities like Krabi, Phuket, and Koh Samui offer a middle ground between Chiang Ma
 >
 > *Source: [ASEAN Briefing — Thailand's Minimum Wage 2025](https://www.aseanbriefing.com/news/thailands-new-minimum-wage-for-2025-what-businesses-and-workers-need-to-know/)*
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
 ## 3. Best Cities for Digital Nomads: Where to Set Up Your Remote Office
 
-Choosing the right city is crucial for your digital nomad experience in Thailand. Each city offers a different vibe, community size, and infrastructure. Based on our extensive time in Thailand and conversations with dozens of remote workers, here are the top destinations.
+Choosing the right city is crucial for your digital nomad experience in Thailand. Each city offers a different vibe, community size, and infrastructure.
 
 ### Chiang Mai: The Digital Nomad Capital
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 Chiang Mai is hands-down the most popular city for digital nomads in Thailand, and it's easy to see why. The city has a massive, established community of remote workers, dozens of co-working spaces, excellent food, and a relaxed pace of life that makes it easy to focus on work while enjoying Thailand.
 
-During our 3 years in Chiang Mai, we watched the digital nomad infrastructure grow exponentially. The Nimman neighborhood (locally called "Niman") is the epicenter — it's packed with co-working spaces, cafes with strong WiFi, and restaurants catering to international tastes. The [Old City](/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/) offers more traditional Thai charm at lower prices, and the [Chiang Mai street art scene](/blog/chiang-mai-street-art-walking-guide-old-city-nimman-2026/) is worth exploring on foot. Internet reliability is excellent; most apartments have fiber broadband with speeds of 100+ Mbps.
+The Nimman neighborhood (locally called "Niman") is the epicenter — it's packed with co-working spaces, cafes with strong WiFi, and restaurants catering to international tastes. The [Old City](/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/) offers more traditional Thai charm at lower prices, and the [Chiang Mai street art scene](/blog/chiang-mai-street-art-walking-guide-old-city-nimman-2026/) is worth exploring on foot. Internet reliability is excellent; most apartments have fiber broadband with speeds of 100+ Mbps.
 
 **Why Chiang Mai works for nomads:**
 - **Cost:** Lowest in Thailand — you can live very well on USD $800–$1,200/month. See our dedicated [Chiang Mai cheapest digital nomad city](/blog/chiang-mai-cheapest-digital-nomad-city-2026/) breakdown.
@@ -183,7 +149,7 @@ During our 3 years in Chiang Mai, we watched the digital nomad infrastructure gr
 
 [Bangkok](https://go2-thailand.com/city/bangkok/) is Thailand's economic and cultural hub, and it's increasingly attracting digital nomads who want world-class infrastructure, diverse food, nightlife, and a faster pace. The city has excellent public transport (BTS and MRT), reliable fiber internet, and neighborhoods like Ari, Thonglor, and Ekkamai that cater to expats and remote workers.
 
-When we spent time in Bangkok's digital nomad scene, we found it's more fragmented than Chiang Mai — there's no single "nomad neighborhood" — but the upside is you get access to Bangkok's incredible restaurants, museums, and cultural attractions. Our [Bangkok expat neighbourhood guide](/blog/where-to-live-bangkok-neighborhood-guide-expats/) pinpoints the best districts for long-term stays. The city is also a major hub for [flights](https://trip.tpo.lv/TmObooZ5), making it easy to travel to other countries.
+Our [Bangkok expat neighbourhood guide](/blog/where-to-live-bangkok-neighborhood-guide-expats/) pinpoints the best districts for long-term stays. The city is also a major hub for [flights](https://trip.tpo.lv/TmObooZ5), making it easy to travel to other countries.
 
 **Why Bangkok works for nomads:**
 - **Infrastructure:** World-class; excellent internet, hospitals, and services. [Bangkok's BTS/MRT network](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) makes getting around cheap and fast.
@@ -210,22 +176,6 @@ For those with higher budgets or who want to work from a tropical island, Koh Sa
 
 The trade-off is cost — Koh Samui is more expensive than mainland cities — and the island can feel isolated if you're seeking a large digital nomad community. However, if you prioritize beach life and don't mind paying more, it's an excellent choice.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -245,22 +195,6 @@ Thailand's mobile networks (AIS, Dtac, True Move) offer excellent 4G coverage in
 
 For staying connected while traveling between cities or as a backup to home internet, consider getting a local [Thailand eSIM](https://go2-thailand.com/esim/) or SIM card. Our [best SIM card & eSIM guide 2026](/travel-guides/sim-card-thailand/) compares all the top options. You can buy a SIM at the airport, convenience stores, or mobile shops. Activation takes 5 minutes, and you're online immediately.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Co-working Spaces: Community & Amenities
 
@@ -284,7 +218,7 @@ Choosing accommodation is one of the biggest decisions you'll make as a digital 
 
 For stays of 1+ months, renting an apartment directly is usually the cheapest option. Websites like DDproperty.com, Airbnb, and Facebook groups (search "Chiang Mai Apartments" or "Bangkok Apartments") list thousands of options.
 
-When we rented apartments in Chiang Mai, we found that negotiating directly with landlords often resulted in better prices than online platforms. A 1-bedroom apartment in a good location typically costs 8,000–15,000 THB/month in Chiang Mai, 20,000–40,000 THB in Bangkok.
+A 1-bedroom apartment in a good location typically costs 8,000–15,000 THB/month in Chiang Mai, 20,000–40,000 THB in Bangkok.
 
 **Pro tips for apartment hunting:**
 - **Test the WiFi:** Always visit in person and run a speed test before committing.
@@ -304,22 +238,6 @@ If you're still deciding where to settle or want flexibility, Airbnb and short-t
 
 The advantage is flexibility; the disadvantage is higher cost and less stability. We recommend using Airbnb for your first 1–2 weeks while you explore the city and find a long-term apartment.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">[Rent a Car](https://booking.tpo.lv/Nmm5XgwI) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -328,24 +246,6 @@ The advantage is flexibility; the disadvantage is higher cost and less stability
 Once you've arrived in Thailand on your DTV visa, you have legal obligations to maintain your status. Understanding these requirements is crucial to avoid fines or deportation.
 
 ### The 90-Day Reporting Requirement
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 Under Thai immigration law, any foreigner staying longer than 90 days must notify the nearest Immigration Office of their address. This is called "90-day reporting" and must be done every 90 days for the duration of your stay.
@@ -442,24 +342,6 @@ This is the area where digital nomads often get confused. The tax situation depe
 ### Thailand Tax Residency
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 If you stay in Thailand for more than 180 days in a calendar year, you become a tax resident and may be required to file Thai income tax returns. However, Thailand has tax treaties with many countries that may prevent double taxation.
 
 **Important:** Tax laws are complex and vary by country. We strongly recommend consulting a tax professional or accountant familiar with digital nomad taxation before arriving in Thailand. Many expat accountants in Bangkok and Chiang Mai specialize in this area and charge reasonable fees (2,000–5,000 THB for basic advice).
@@ -484,7 +366,7 @@ Beyond visas, costs, and logistics, here are the insider tips that make the diff
 
 One of the biggest challenges for digital nomads is isolation. Thailand's digital nomad communities are vibrant, but you have to actively join them. Attend co-working events, join Facebook groups, and say yes to social invitations.
 
-During our time in Chiang Mai, we found that the best friendships came from regular co-working space visits and community events. Most cities have weekly meetups, skill-shares, and social events for remote workers.
+Most cities have weekly meetups, skill-shares, and social events for remote workers.
 
 ### Managing Time Zones
 
@@ -514,22 +396,6 @@ One of the joys of being a digital nomad in Thailand is the ability to travel be
 
 Many digital nomads spend 1–3 months in each city, exploring different regions while working. This is entirely feasible with the DTV visa as long as you do your 90-day reporting.
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -569,4 +435,4 @@ Whether you choose the digital nomad capital of Chiang Mai, the big-city energy 
 
 Ready to make the move? Start by exploring our [Digital Nomad Visa guide](https://go2-thailand.com/visa/digital-nomad-visa/) for detailed application steps, then check out our [city guides](https://go2-thailand.com/city/) to find your perfect base. Thailand is waiting.
 
-**Trust Statement:** The Go2Thailand team has lived and worked in Thailand for over a decade, with direct experience in Chiang Mai, Bangkok, and multiple islands. This guide is based on firsthand experience, current 2026 data, and conversations with dozens of digital nomads living in Thailand right now.
+**Trust Statement:** The Go2Thailand team has lived and worked in Thailand for over a decade, with direct experience in Chiang Mai, Bangkok, and multiple islands.

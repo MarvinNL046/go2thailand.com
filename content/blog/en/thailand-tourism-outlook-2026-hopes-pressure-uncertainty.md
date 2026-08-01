@@ -4,9 +4,11 @@ date: "2026-03-23"
 lastUpdated: "2026-03-29"
 author:
   name: "Go2Thailand Editorial"
+category: "news"
 image: "/images/redesign/editorial/thailand-tourism-outlook-2026-hopes-pressure-uncertainty-hero.webp"
 tags: ["thailand", "tourism outlook", "2026", "travel trends", "visitor numbers"]
 summary: "Thailand's tourism sector enters 2026 caught between ambitious growth targets and real-world headwinds including geopolitical tensions, rising costs and shifting visitor behaviour."
+description: "A source-led snapshot of Thailand's 2026 tourism outlook, including demand, cost and policy pressures that travellers should recheck."
 sources:
   - "https://www.travelmole.com/news/thailand-tourism-2026/"
   - "https://www.thaiexaminer.com/thai-news-foreigners/2026/01/06/thailand-targets-growth-of-over-10-in-2026-after-seeing-foreign-tourist-arrivals-fall-by-7-23-in-2025/"

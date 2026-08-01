@@ -43,7 +43,7 @@ At 2,565 meters above sea level, **Doi Inthanon National Park** is home to Thail
 
 **Doi Inthanon National Park** spans 1,005 square kilometers across Chiang Mai Province and protects one of Thailand's most biodiverse ecosystems. The park encompasses rainforest, mixed deciduous forest, and pine forest—each zone supporting different wildlife and plant species. The higher elevation creates a temperate microclimate that's dramatically different from lowland Thailand, making it a crucial refuge for migratory birds and endemic species found nowhere else in the country.
 
-During our three years living in Chiang Mai, we visited Doi Inthanon across all seasons. The park transforms dramatically depending on when you visit—from misty, frost-covered mornings in January to lush, waterfall-fed valleys during the rainy season. The park is managed by the Department of National Parks, Wildlife and Plant Conservation and is well-maintained with clear trails, ranger stations, and visitor facilities.
+The park transforms dramatically depending on when you visit—from misty, frost-covered mornings in January to lush, waterfall-fed valleys during the rainy season. The park is managed by the Department of National Parks, Wildlife and Plant Conservation and is well-maintained with clear trails, ranger stations, and visitor facilities.
 
 ### The Peak Experience
 
@@ -65,7 +65,7 @@ The park is home to over 300 bird species, including rare endemics like the Silv
 
 ## 2. Best Time to Visit Doi Inthanon
 
-The **cool season (November to February)** is unquestionably the best time to visit. During our November visit, we experienced perfect hiking conditions—clear skies, cool temperatures (around 15–18°C at the peak), and minimal rain. December and January see the most visitors, especially around the winter solstice when frost sometimes appears on the ground at dawn.
+The **cool season (November to February)** is unquestionably the best time to visit. December and January see the most visitors, especially around the winter solstice when frost sometimes appears on the ground at dawn.
 
 The **hot season (March to May)** brings temperatures of 20–25°C at the peak—still pleasant compared to the 35–40°C swelter in Chiang Mai city below. However, visibility decreases as haze builds up, and the park becomes drier. The **rainy season (May to October)** transforms the park into a lush green wonderland with powerful waterfalls, but trails become muddy, clouds obscure views, and landslide risks increase on steeper paths.
 
@@ -79,24 +79,8 @@ The **hot season (March to May)** brings temperatures of 20–25°C at the peak�
 
 ### Avoiding Crowds
 
-If you prefer solitude, visit on weekdays in March–May or September–October. Weekends and Thai holidays (especially the winter solstice in December) see significant crowds. When we visited on a Tuesday in April, we had entire trails nearly to ourselves.
+If you prefer solitude, visit on weekdays in March–May or September–October. Weekends and Thai holidays (especially the winter solstice in December) see significant crowds.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 3. Getting to Doi Inthanon: Transportation Options
 
@@ -104,7 +88,7 @@ From [explore our Chiang Mai travel guide](https://go2-thailand.com/city/chiang-
 
 ### Self-Drive or Scooter Rental
 
-This is the most flexible option. [Rent a car](https://booking.tpo.lv/Nmm5XgwI?subid=blog) or scooter in Chiang Mai and drive south on Highway 108 toward Chom Thong district. The road is well-maintained and clearly marked. From Chom Thong town, follow signs to the park entrance (about 40 km further). The drive is scenic, passing through agricultural areas and small villages. We rented a scooter for ฿200–250 per day and enjoyed the freedom to stop at roadside fruit stands and explore side roads.
+This is the most flexible option. [Rent a car](https://booking.tpo.lv/Nmm5XgwI?subid=blog) or scooter in Chiang Mai and drive south on Highway 108 toward Chom Thong district. The road is well-maintained and clearly marked. From Chom Thong town, follow signs to the park entrance (about 40 km further). The drive is scenic, passing through agricultural areas and small villages.
 
 **Pros:** Flexibility, can set your own pace, stop at viewpoints
 **Cons:** Requires confidence driving in Thailand, scooter not ideal for large groups, parking fees at trailheads
@@ -123,22 +107,6 @@ Local minibuses operate from Chiang Mai to Chom Thong town (฿50–80), from wh
 **Pros:** Very affordable, authentic local experience
 **Cons:** Unreliable schedules, limited comfort, may require multiple transfers
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 4. Entrance Fees & Practical Information
 
@@ -163,22 +131,6 @@ Local minibuses operate from Chiang Mai to Chom Thong town (฿50–80), from wh
 - **Snacks:** Energy bars, fruit, nuts
 - **Camera:** The views and wildlife are exceptional
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 5. Hiking Trails & Trekking Options
 
@@ -188,13 +140,13 @@ Doi Inthanon offers trails ranging from easy 30-minute walks to challenging full
 
 **Doi Inthanon Summit Trail:** The most popular route—a short 1-kilometer walk from the parking area to the peak marker. This paved/concrete path is accessible to most fitness levels and offers the iconic "2,565m" sign for photos. On clear days, the views are spectacular; on misty days, it's atmospheric and moody.
 
-**Ang Ka Luang Waterfall Trail:** A gentle 1-kilometer loop through pine forest to a scenic waterfall. The trail is well-maintained and takes about 45 minutes. We visited this in November and saw several bird species; the waterfall was modest but the forest surroundings were beautiful.
+**Ang Ka Luang Waterfall Trail:** A gentle 1-kilometer loop through pine forest to a scenic waterfall. The trail is well-maintained and takes about 45 minutes.
 
 ### Moderate Trails (1.5 to 3 hours)
 
 **Doi Inthanon to Doi Pha Chor Trail:** A more challenging route connecting the main peak to a secondary summit with different forest types. This 5-kilometer trail offers solitude and diverse ecosystems. Allow 2–3 hours depending on fitness and photography stops.
 
-**Monk's Trail (Huay Sai Luang Trail):** A historic pilgrimage route used by monks, this 8-kilometer trail descends through mixed forest to a waterfall and stream. It's moderately challenging with some steep sections. We hiked this in April and encountered very few other visitors despite its beauty.
+**Monk's Trail (Huay Sai Luang Trail):** A historic pilgrimage route used by monks, this 8-kilometer trail descends through mixed forest to a waterfall and stream. It's moderately challenging with some steep sections.
 
 ### Challenging Trails (4+ hours)
 
@@ -204,7 +156,7 @@ Doi Inthanon offers trails ranging from easy 30-minute walks to challenging full
 
 ### Trail Conditions & Safety
 
-All major trails are marked with colored ribbons and signage. The park employs rangers who monitor trails and can provide current conditions. During our visits, trail maintenance was generally good, though some sections become overgrown during the rainy season. Leeches are present during June–October; salt or insect repellent helps deter them.
+All major trails are marked with colored ribbons and signage. The park employs rangers who monitor trails and can provide current conditions. Leeches are present during June–October; salt or insect repellent helps deter them.
 
 The park is very safe in terms of crime or dangerous wildlife. Snakes are present but rarely encountered on busy trails. The main hazards are slippery sections (especially after rain) and getting lost on unmarked side trails—stick to the main routes.
 
@@ -214,7 +166,7 @@ The park is very safe in terms of crime or dangerous wildlife. Snakes are presen
 
 ### Best Birdwatching Spots
 
-**Ang Ka Luang area:** Early morning visits (6–8 AM) yield sightings of Silvered Wood-Pigeon, various flycatchers, and mixed feeding flocks. We spent a morning here in November with binoculars and recorded 25+ species in 2 hours.
+**Ang Ka Luang area:** Early morning visits (6–8 AM) yield sightings of Silvered Wood-Pigeon, various flycatchers, and mixed feeding flocks.
 
 **Doi Pha Chor summit area:** Higher elevation brings raptors, including eagles and buzzards. The open summit area provides good visibility for scanning the sky.
 
@@ -235,22 +187,6 @@ Insects and amphibians are abundant, particularly during the rainy season. Butte
 
 The misty mornings create atmospheric conditions perfect for landscape and wildlife photography. Bring a telephoto lens (200mm+) for birds. The soft, diffused light during foggy conditions is ideal for forest photography without harsh shadows.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 7. Temples & Cultural Sites Within the Park
 
@@ -260,7 +196,7 @@ While Doi Inthanon is primarily a nature destination, it has two significant Bud
 
 These twin chedis (stupas) were built in 1987 and 1992 respectively to honor the late King Bhumibol and Queen Sirikit. Located near the peak at approximately 2,400 meters elevation, the temples are accessible by short walks from the parking area. The architecture is modern Thai Buddhist style, and the views from the temple grounds are exceptional on clear days.
 
-When we visited, the temples were peaceful and quiet—a stark contrast to the crowded lowland temples in Chiang Mai city. Thai visitors often make merit offerings here. The temples are free to enter and respectful dress (covered shoulders and knees) is expected.
+Thai visitors often make merit offerings here. The temples are free to enter and respectful dress (covered shoulders and knees) is expected.
 
 ### Spiritual Significance
 
@@ -300,7 +236,7 @@ Most visitors do Doi Inthanon as a day trip from Chiang Mai, but staying overnig
 
 **Inside the Park:** A small restaurant/shop near the peak area serves basic Thai food, instant noodles, and drinks. Prices are marked up (฿50–120 for a meal), so bring snacks if you prefer budget options.
 
-**Chom Thong:** Local noodle shops and simple Thai restaurants serve authentic, inexpensive food (฿40–80 per meal). No English menus, but pointing works fine. The food is genuinely good—we had excellent khao soi and pad thai at family-run shops.
+**Chom Thong:** Local noodle shops and simple Thai restaurants serve authentic, inexpensive food (฿40–80 per meal). No English menus, but pointing works fine.
 
 **Chiang Mai:** Return to the city for diverse dining, from street food to fine dining. [Explore our Chiang Mai food guide](https://go2-thailand.com/city/chiang-mai/food/) for detailed recommendations.
 
@@ -308,22 +244,6 @@ Most visitors do Doi Inthanon as a day trip from Chiang Mai, but staying overnig
 
 The park has designated picnic areas with tables and shade. Bringing your own food from Chiang Mai is cost-effective and allows you to eat at your own pace while enjoying views.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 10. Practical Booking & Planning Guide
 
@@ -374,7 +294,7 @@ This is significantly cheaper than organized tours but requires more planning an
 
 ## 11. Common Mistakes & What to Avoid
 
-**Arriving too late in the day:** The park's best light and clearest views occur in early morning. Arriving after 10 AM means you'll miss optimal conditions. We learned this the hard way on our first visit—the afternoon clouds rolled in by 11 AM.
+**Arriving too late in the day:** The park's best light and clearest views occur in early morning. Arriving after 10 AM means you'll miss optimal conditions.
 
 **Underdressing for the cold:** Many visitors from Bangkok or southern Thailand are shocked by the cool temperatures. Even in April, the peak can feel chilly in the morning. Layers are essential.
 

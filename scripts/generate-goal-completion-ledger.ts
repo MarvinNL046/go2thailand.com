@@ -213,6 +213,17 @@ for (const [key, rows] of [...inventoryByFamily.entries()].sort(([a], [b]) => a.
   };
 }
 
+const deploymentSignoffPath = resolve(auditDir, 'final-deployment-readiness-2026-08-01.md');
+const deploymentSignoff = existsSync(deploymentSignoffPath)
+  ? readFileSync(deploymentSignoffPath, 'utf8')
+  : '';
+const deploymentReadinessSignedOff = [
+  '**Status:** signed-off',
+  '**Production build:** passed',
+  '**Sitewide routes:** 2,181/2,181 hard-error free',
+  '**Responsive browser QA:** passed',
+].every(proof => deploymentSignoff.includes(proof));
+
 const globalGates = {
   noDuplicateExactOwnerRoutes: Object.values(localeSummary).every((summary: any) => summary.duplicateExactOwnerRoutes.length === 0),
   allRoutesHttp200: Object.values(localeSummary).every((summary: any) => summary.http200 === summary.sitemapRoutes),
@@ -220,7 +231,7 @@ const globalGates = {
   sitewideHardErrorsZero: Object.values(localeSummary).every((summary: any) => summary.sitewide.failedRoutes === 0),
   allInventoryDecisionsFinal: Object.values(localeSummary).every((summary: any) => summary.provisionalInventoryDecisions === 0),
   allActiveQueuesClosed: Object.values(activeQueues).every((queue: any) => queue.closed),
-  deploymentReadinessSignedOff: false,
+  deploymentReadinessSignedOff,
 };
 
 const ledger = {

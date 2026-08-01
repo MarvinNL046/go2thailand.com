@@ -2,7 +2,9 @@
 title: "Phuket vs Koh Samui 2026: Honest Island Comparison"
 slug: "phuket-vs-koh-samui-for-tourists"
 excerpt: "Phuket or Koh Samui for your 2026 Thailand island trip? Honest 10-dim comparison of beaches, prices, parties, weather windows, and which island fits your style."
+description: "Compare Phuket and Koh Samui by beaches, weather patterns, travel style and access so you can choose the island that fits your trip."
 date: "2026-04-18"
+lastUpdated: "2026-08-01"
 author: "Go2Thailand Editorial Team"
 category: "Island Comparisons"
 tags: ["phuket-vs-samui", "thailand-islands", "phuket-2026", "koh-samui-2026", "thailand-beaches"]

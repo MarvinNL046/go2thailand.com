@@ -2,6 +2,8 @@
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { KLOOK_GENERIC, GYG_GENERIC, VIATOR_GENERIC, BOOKING_GENERIC } from '../../lib/affiliates';
+import { useRouter } from 'next/router';
+import { ManualDecisionGuideEn, phiPhiGuideEn } from '../../components/editorial/ManualDecisionGuideEn';
 
 const LAST_VERIFIED = 'April 18, 2026';
 
@@ -131,6 +133,8 @@ const COMMON_MISTAKES = [
 ];
 
 export default function PhiPhiIslandTourPage() {
+  const { locale } = useRouter();
+  if (locale !== 'nl') return <ManualDecisionGuideEn config={phiPhiGuideEn} />;
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
 
   const breadcrumbs = [

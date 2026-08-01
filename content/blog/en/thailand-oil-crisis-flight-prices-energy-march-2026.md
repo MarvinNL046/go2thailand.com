@@ -2,18 +2,23 @@
 title: "Oil Crisis Hits Thailand: Flight Prices Surge and Energy Costs Squeeze Travelers"
 date: "2026-03-21"
 lastUpdated: "2026-03-29"
-description: "Rising oil prices from the Middle East conflict are pushing Thailand flight costs up by over 20%, while the government considers freezing electricity rates. What travelers need to know about the impact on their trip budget."
+description: "A dated March 2026 report on fuel-price pressure in Thailand; travellers should compare current complete airfares and transport costs before booking."
 category: "news"
 author:
   name: "Go2Thailand Team"
 tags: ["thailand travel costs", "flight prices 2026", "oil crisis thailand", "thailand energy prices"]
 image: "/images/redesign/editorial/thailand-oil-crisis-flight-prices-energy-march-2026-hero.webp"
 draft: false
+sources:
+  - name: "Civil Aviation Authority of Thailand: Middle East aviation impact"
+    url: "https://www.caat.or.th/caat-media/199317/"
+  - name: "Thailand Ministry of Energy: March 2026 fuel measures"
+    url: "https://www.energy.go.th/th/minister-news/30419"
 ---
 
 ## Middle East Conflict Drives Up Travel Costs
 
-The ongoing conflict in the Middle East is having a direct impact on travel to Thailand. Airlines have been forced to reroute flights to avoid the conflict zone, significantly increasing operating costs. As a result, ticket prices on routes to and from Thailand have risen by more than 20% in many cases. For background on which routes are affected, see our overview of [new airline routes to Thailand in 2026](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/) and how the [Middle East conflict is impacting Thailand's visitor numbers](/blog/thailand-tourism-2026-middle-east-impact-visitor-numbers/).
+The March 2026 conflict in the Middle East affected some connecting routes to Thailand and increased aviation-fuel pressure. Fare effects varied by airline, route and booking date, so an old percentage is not a reliable quote; compare the current complete fare for your itinerary. For background, see our overview of [new airline routes to Thailand in 2026](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/) and the [Middle East impact on Thailand visitor numbers](/blog/thailand-tourism-2026-middle-east-impact-visitor-numbers/).
 
 The situation escalated after a missile struck a cargo ship carrying Thai sailors in the region. Twenty Thai crew members were rescued and evacuated to a hotel in Oman before being expected to return home. The incident underscored the severity of the disruption to global shipping and air routes.
 

@@ -5,6 +5,7 @@ import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
 import ThailandTravelGuideNl from '../components/editorial/ThailandTravelGuideNl';
+import { StaticTravelGuideOwnerEn } from '../components/travel/StaticTravelGuideOwnerEn';
 
 const topCitiesStatic = [
   { slug: 'bangkok', name: 'Bangkok' },
@@ -31,6 +32,7 @@ export default function ThailandTravelGuide({ topCities, itineraryCount }: Trave
   const isNl = locale === 'nl';
 
   if (isNl) return <ThailandTravelGuideNl />;
+  return <StaticTravelGuideOwnerEn owner="guide" />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -333,7 +335,8 @@ export default function ThailandTravelGuide({ topCities, itineraryCount }: Trave
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  if (locale !== 'nl') return { props: { topCities: [], itineraryCount: 0 }, revalidate: 604800 };
   let topCities = topCitiesStatic;
   let itineraryCount = 14;
 

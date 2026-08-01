@@ -101,6 +101,11 @@ interface BlogPost {
   description: string;
   date: string;
   lastUpdated?: string;
+  sourceCount?: number;
+  editorialVolatility?: {
+    hasPriceOrSchedule: boolean;
+    hasFirstPersonAuthorityClaim: boolean;
+  };
   author: { name: string };
   category: string;
   tags: string[];
@@ -322,7 +327,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost, e
     "datePublished": post.date,
     "dateModified": post.lastUpdated || post.date,
     "author": {
-      "@type": "Person",
+      "@type": /team|editorial/i.test(post.author.name) ? "Organization" : "Person",
       "name": post.author.name
     },
     "publisher": {
@@ -397,9 +402,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost, e
         )}
       </SEOHead>
 
-      <article className="bg-surface-cream min-h-screen">
+      <article className="min-h-screen bg-[#fbf7ef]" data-premium-template="editorial-guide">
         {/* Hero Section */}
-        <section ref={heroRef} className="relative h-[400px] lg:h-[500px]">
+        <section ref={heroRef} className="relative h-[440px] overflow-hidden lg:h-[560px]">
           <Image
             src={post.image}
             alt={post.title}
@@ -407,10 +412,11 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost, e
             className="object-cover"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#003f35]/95 via-[#003f35]/65 to-black/15" />
           <div className="absolute bottom-0 left-0 right-0 text-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
               <div className="max-w-4xl">
+                <p className="mb-4 text-xs font-bold uppercase tracking-[0.22em] text-[#ff9d2e]">Independent Thailand travel guide</p>
                 <div className="flex gap-2 mb-4">
                   <Link
                     href={`/blog/category/${post.category}/`}
@@ -419,8 +425,8 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost, e
                     {post.category}
                   </Link>
                 </div>
-                <h1 className="text-3xl lg:text-5xl font-bold font-heading mb-6">{post.title}</h1>
-                <div className="flex items-center gap-6 text-lg">
+                <h1 className="mb-6 max-w-4xl font-heading text-4xl font-semibold leading-[1.02] lg:text-6xl">{post.title}</h1>
+                <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-white/90">
                   <span>{post.author.name}</span>
                   <span>-</span>
                   <span>{post.date}</span>
@@ -433,11 +439,16 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost, e
         </section>
 
         {/* Breadcrumbs + Last Updated */}
-        <section className="bg-white border-b">
+        <section className="border-b border-[#0b4b40]/10 bg-[#fbf7ef]">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
               <Breadcrumbs items={breadcrumbs} />
               <LastUpdated date={post.lastUpdated || post.date} locale={locale} />
+            </div>
+            <div className="mt-3 flex flex-wrap gap-x-6 gap-y-2 border-t border-[#0b4b40]/10 pt-3 text-xs font-semibold text-[#31574f]" aria-label="Editorial trust signals">
+              <span>Independent editorial selection</span>
+              <span>{post.sourceCount || 0} cited sources</span>
+              <Link href="/about/" className="underline decoration-[#ff9d2e] underline-offset-4">How we review guides</Link>
             </div>
           </div>
         </section>
@@ -451,7 +462,15 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost, e
             <div className="grid lg:grid-cols-12 gap-8">
               {/* Article Content */}
               <div className="lg:col-span-8">
-                <div className="bg-white rounded-2xl shadow-md p-8 lg:p-12">
+                <div className="rounded-[1.75rem] border border-[#0b4b40]/10 bg-white p-6 shadow-[0_24px_70px_rgba(0,63,53,0.08)] sm:p-8 lg:p-12">
+                  {(post.editorialVolatility?.hasPriceOrSchedule || post.editorialVolatility?.hasFirstPersonAuthorityClaim) && (
+                    <aside className="mb-8 rounded-2xl border border-[#ff9d2e]/30 bg-[#fff8ec] p-5" aria-label="Editorial verification note">
+                      <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#c86700]">Check before you travel</p>
+                      <p className="mt-2 text-sm leading-6 text-[#23463f]">
+                        Prices, timetables and access conditions can change. Treat figures and first-person observations in this archive guide as planning context, then verify the latest total and conditions with the cited official source or provider before paying.
+                      </p>
+                    </aside>
+                  )}
                   {/* Share Buttons - Top */}
                   <div className="mb-8 pb-6 border-b border-gray-100">
                     <ShareButtons

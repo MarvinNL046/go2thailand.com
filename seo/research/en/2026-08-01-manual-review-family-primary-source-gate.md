@@ -32,4 +32,17 @@ Scope: the 35 English sitemap routes classified as `en:manual-review` in the goa
 
 ## Research outcome
 
-The family cannot honestly be signed off as a single accepted block yet. The month cluster has now been rebuilt around the official climate boundary, and the Grand Palace owner has been corrected against the current official site. Remaining transactional legacy owners require separate official-source refreshes before family acceptance; the audit records those gates rather than silently treating design coverage as content proof.
+The month cluster was rebuilt around the official climate boundary and the Grand Palace owner was corrected against the current official site. A second closure pass replaced the four highest-risk transactional owners with decision-first source-gated rendering, consolidated the unsupported social feed, removed mutable city-nightlife pricing from English output and verified the remaining evidence-led owners at runtime.
+
+## Closure-pass primary evidence
+
+| Topic | Primary/specialist source | Applied boundary |
+|---|---|---|
+| Elephant facilities | Thailand ACFS, [TAS 6413-2021 good animal practices](https://agristandards.acfs.go.th/en/%E0%B8%9B%E0%B8%B2%E0%B8%87%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87/) | Welfare is assessed across health, records, environment, staff, safety and freedom to express normal behaviour; a “sanctuary” label is not evidence. |
+| Elephant-tourism welfare | World Animal Protection, [2026 Thailand assessment](https://www.worldanimalprotection.org/latest/news/captive-elephants-thailand-tourism-welfare-report-2026/) | Observation-only is a stronger starting signal but not a guarantee; tourist bathing and constant contact are not treated as welfare positives. |
+| Coral-safe diving and snorkelling | Thailand DMCR, [2025 coral-protection measures](https://www.dmcr.go.th/detailAll/73648/nws/) and [operational summary](https://www.dmcr.go.th/detailAll/76917/nws/257) | No touching, feeding, anchoring on reef or invented wildlife guarantee; current ratios/rules come from the official Thai source. |
+| Whale-shark encounters | Thailand DMCR, [interaction guidance](https://www.dmcr.go.th/detailAll/22588/nws/11) | Sightings are never promised and operators must not crowd, touch or block animals. |
+| Phi Phi destination context | Tourism Authority of Thailand, [Ko Phi Phi](https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359) | Supports destination context only; current park access, fees, stops and marine conditions remain live checks. |
+| Muay Thai visitor context | Tourism Authority of Thailand, [Muay Thai](https://www.tourismthailand.org/Articles/muay-thai) | Supports cultural/activity intent; a current stadium card, gym timetable, trainer and price must come from the live official/operator page. |
+
+No operator is certified by Go2Thailand. Klook is used only after the editorial decision and every resulting link is disclosed and marked `nofollow sponsored`.

@@ -76,18 +76,6 @@ New arrivals who want zero friction. Everything is walkable and accessible. If y
 
 Constant traffic, constant noise. You're paying a premium for convenience over space. Most expats we know start in Asok, stay about a year, then move somewhere calmer once they've found their rhythm.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Try Before You Commit</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book a short-term stay in different Bangkok neighbourhoods to test which area fits your lifestyle before signing a long-term lease.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Stays on Booking.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ---
 

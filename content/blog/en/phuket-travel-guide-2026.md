@@ -20,7 +20,7 @@ sources:
     url: "https://www.phuketgazette.net/"
 ---
 
-Phuket isn't just Thailand's largest island—it's a complete destination unto itself, where **Phuket beaches** stretch for miles, ancient temples hide in quiet corners, and world-class dining sits alongside humble street food stalls. When we first arrived on the island, we expected the typical tourist trap; instead, we discovered a layered destination that rewards exploration beyond Patong's neon-lit streets.
+Phuket isn't just Thailand's largest island—it's a complete destination unto itself, where **Phuket beaches** stretch for miles, ancient temples hide in quiet corners, and world-class dining sits alongside humble street food stalls.
 
 Whether you're seeking turquoise waters and sunset cocktails, cultural immersion in centuries-old temples, or hidden coves where locals still outnumber visitors, Phuket delivers. This comprehensive guide covers everything from which neighborhood suits your travel style to the best time to visit and insider tips that transform a good trip into an unforgettable one.
 
@@ -40,24 +40,8 @@ Whether you're seeking turquoise waters and sunset cocktails, cultural immersion
 
 What makes Phuket special isn't just the beaches. It's the contrast: you can meditate at a 400-year-old temple in the morning, snorkel pristine reefs by afternoon, and dine at a Michelin-adjacent restaurant by evening. The island has matured beyond its party reputation, though Patong Beach still thrives as a nightlife hub.
 
-During our three weeks exploring the island, we found that most visitors stick to the same three beaches. The real magic lies in the quieter neighborhoods and lesser-known coves that offer the Phuket experience without the crowds.
+The real magic lies in the quieter neighborhoods and lesser-known coves that offer the Phuket experience without the crowds.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 2. Getting to Phuket: Transportation & Arrival
 
@@ -77,22 +61,6 @@ The airport lies 32 km north of Patong Beach. Options include:
 
 Phuket is roughly 50 km long and 21 km wide. Renting a scooter (200-300 THB/day) works for confident riders, but traffic can be chaotic. We recommend ride-hailing apps (Grab) for safety and convenience—fares are reasonable and drivers are vetted.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Inter-Island Ferries
 
@@ -116,24 +84,6 @@ Phuket's character varies dramatically by neighborhood. Choosing the right area 
 ### Patong Beach: The Vibrant Hub
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 Patong is Phuket's most developed area—think high-rise hotels, international restaurants, and a bustling nightlife scene. It's perfect if you want convenience and energy, but expect crowds and higher prices. The beach itself is long and swimmable, with water sports operators everywhere.
 
 **Best for:** First-time visitors, nightlife seekers, families wanting amenities  
@@ -142,7 +92,7 @@ Patong is Phuket's most developed area—think high-rise hotels, international r
 
 ### Karon Beach: The Sweet Spot
 
-Karon sits just south of Patong but feels worlds away. It's where we spent most of our time—a 4 km crescent of golden sand with a relaxed local atmosphere. The beach is excellent for swimming, with gentle waves and lifeguards. The main road (Patak Road) has excellent local restaurants, massage shops, and markets without the tourist markup.
+Karon sits just south of Patong but feels worlds away. The beach is excellent for swimming, with gentle waves and lifeguards. The main road (Patak Road) has excellent local restaurants, massage shops, and markets without the tourist markup.
 
 **Best for:** Families, digital nomads, beach lovers who want peace  
 **Vibe:** Laid-back, authentic, family-friendly  
@@ -172,22 +122,6 @@ The southern tip of Phuket, Rawai is a working fishing village with a long pier 
 **Vibe:** Authentic, working village, photogenic  
 **Budget:** Budget
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 4. Top Beaches & Water Activities
 
@@ -195,7 +129,7 @@ The southern tip of Phuket, Rawai is a working fishing village with a long pier 
 
 ### The Major Beaches
 
-**[Patong Beach](/city/phuket/attractions/)** is the most famous and crowded—3 km of developed coastline with jet skis, parasailing, and beach clubs. The water is generally safe for swimming, though red flags indicate rough conditions. We found it best visited early morning (before 9 AM) or at sunset to avoid peak crowds.
+**[Patong Beach](/city/phuket/attractions/)** is the most famous and crowded—3 km of developed coastline with jet skis, parasailing, and beach clubs. The water is generally safe for swimming, though red flags indicate rough conditions.
 
 **[Karon Beach](/city/phuket/attractions/)** is our top recommendation for most travelers. It's long, clean, and has excellent facilities without Patong's chaos. The northern end is quieter; the southern end has more restaurants and bars.
 
@@ -218,22 +152,6 @@ All major beaches offer instruction and equipment rental for diving, [snorkeling
 >
 > *Source: [Best Diving & Snorkeling in Thailand](https://go2-thailand.com/best-diving-snorkeling-in-thailand/)*
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 5. Temples, Culture & Spiritual Sites
 
@@ -247,7 +165,7 @@ Perched on a hilltop overlooking the island, the [Big Buddha](/city/phuket/attra
 
 ### Wat Chalong (Chalong Temple)
 
-The most important Buddhist temple in Phuket, [Wat Chalong](/city/phuket/attractions/) dates back 200+ years. The ornate main chedi (stupa) is covered in gold leaf, and the temple grounds are serene and beautifully maintained. We visited early morning when monks were chanting—a profoundly peaceful experience.
+The most important Buddhist temple in Phuket, [Wat Chalong](/city/phuket/attractions/) dates back 200+ years. The ornate main chedi (stupa) is covered in gold leaf, and the temple grounds are serene and beautifully maintained.
 
 **Practical Info:** Open 6 AM-5 PM. Entrance free. Dress respectfully (covered shoulders and knees). Located in Chalong, near the Big Buddha.
 
@@ -268,24 +186,6 @@ This unique temple features a Buddha statue that's partially buried in the groun
 **Thai food** in Phuket ranges from exceptional street food to internationally acclaimed restaurants. The island's multicultural population means you'll find authentic Thai, Chinese, Indian, and Western cuisine.
 
 ### Local Specialties & Where to Eat
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 Phuket's coastal location means fresh seafood is abundant. Local specialties include:
@@ -309,22 +209,6 @@ Karon and Kata beaches have excellent mid-range restaurants (200-400 THB per dis
 
 Phuket has several acclaimed restaurants. Patong and Kamala have international fine dining options (800-2,000 THB per main course), though prices are higher than Bangkok. Many resorts have excellent restaurants open to non-guests.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 7. Day Trips & Island Hopping
 
@@ -389,24 +273,6 @@ Karon and Kata have a more laid-back scene—beach bars with live music, casual 
 ### Money & Costs
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 Phuket is more expensive than rural Thailand but cheaper than [Bangkok](https://go2-thailand.com/city/bangkok/). Budget travelers can live on 800-1,500 THB/day (USD $22-42); mid-range travelers spend 2,000-4,000 THB/day (USD $56-111).
 
 **ATMs** are everywhere. Credit cards are accepted at hotels and restaurants, but cash is essential for street food and small vendors. The exchange rate is typically better at ATMs than money changers.
@@ -421,22 +287,6 @@ Phuket is generally safe. Standard precautions apply: avoid walking alone late a
 
 Most hotels offer free WiFi. For [mobile data](https://saily.tpo.lv/rf9lidnE), purchase a local SIM card (AIS, Dtac, True Move) at the airport or convenience stores. Prepaid plans offer 4G data for 300-500 THB/month.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Visa Requirements
 

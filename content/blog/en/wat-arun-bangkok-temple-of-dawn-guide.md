@@ -37,7 +37,7 @@ Watch the sunrise paint **Wat Arun** in shades of gold and orange, and you'll un
 
 **Wat Arun** has stood sentinel over the Chao Phraya River since the Ayutthaya period, though its current grandeur dates to the reign of King Rama II (1809–1824). Originally called Wat Chaeng, the temple was renamed Wat Arun Ratchawararam when the royal court relocated from [Ayutthaya](/city/ayutthaya/) to establish Bangkok. The temple's most sacred chapter came when it housed the Emerald Buddha—Thailand's most revered image—after it was brought from Vientiane, before the image was later moved to the Grand Palace.
 
-When we visited during the cool season, the temple's spiritual energy was palpable. Local monks moved through the courtyards with quiet purpose, and the sound of chanting echoed from the ordination hall. The main prang (central spire) you see today was reconstructed during the reign of King Rama IV, and its distinctive design—covered in colorful porcelain tiles and Chinese ceramics—reflects a fusion of Thai and Chinese architectural influences that makes Wat Arun instantly recognizable.
+Local monks moved through the courtyards with quiet purpose, and the sound of chanting echoed from the ordination hall. The main prang (central spire) you see today was reconstructed during the reign of King Rama IV, and its distinctive design—covered in colorful porcelain tiles and Chinese ceramics—reflects a fusion of Thai and Chinese architectural influences that makes Wat Arun instantly recognizable.
 
 ### The Prang: Thailand's Most Photogenic Spire
 
@@ -57,7 +57,7 @@ Reaching **Wat Arun** is straightforward, but the journey itself is part of the 
 
 ### The Ferry: The Local's Route
 
-The cheapest and most authentic way to reach Wat Arun is by ferry. Walk to the Wat Pho pier (near the Grand Palace) on the Bangkok side, and catch the cross-river ferry directly to Wat Arun pier. The journey takes 2–3 minutes and costs just 3 THB (~USD 0.08). Ferries run frequently throughout the day, starting around 6 AM. During our last visit, we took the early morning ferry and had the temple nearly to ourselves for the first hour—a stark contrast to the 10 AM rush.
+The cheapest and most authentic way to reach Wat Arun is by ferry. Walk to the Wat Pho pier (near the Grand Palace) on the Bangkok side, and catch the cross-river ferry directly to Wat Arun pier. The journey takes 2–3 minutes and costs just 3 THB (~USD 0.08). Ferries run frequently throughout the day, starting around 6 AM.
 
 **Pro Tip:** Arrive by 6:30 AM if you want sunrise photos without crowds. The light is perfect, and you'll avoid the tour groups that arrive after 8 AM.
 
@@ -69,22 +69,6 @@ If you prefer a guided experience, long-tail boat operators cluster around the W
 
 You can also take a tuk-tuk or taxi to the Wat Arun pier on the Thon Buri side. From central Bangkok (Silom, Sukhumvit), expect to pay 150–250 THB (~USD 4–7) for a tuk-tuk or 200–400 THB for a taxi. However, this route requires navigating Thon Buri's narrow sois (alleys), which can be confusing without a local guide.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 3. Practical Information: Hours, Costs & What to Bring
 
@@ -97,24 +81,6 @@ You can also take a tuk-tuk or taxi to the Wat Arun pier on the Thon Buri side. 
 ### What to Bring & Wear
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 - **Modest clothing:** Shoulders and knees must be covered. Long pants or a maxi skirt and a shirt with sleeves are ideal. Many visitors wear lightweight, breathable fabrics.
 - **Sarong rental:** If you arrive underdressed, sarongs are available for rent at the entrance (20–50 THB).
 - **Comfortable walking shoes:** You'll remove them when entering buildings, so slip-ons are practical.
@@ -122,22 +88,6 @@ You can also take a tuk-tuk or taxi to the Wat Arun pier on the Thon Buri side. 
 - **Water bottle:** Stay hydrated, especially if visiting in hot season.
 - **Camera:** Bring a good camera or smartphone. The light changes dramatically throughout the day.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 4. Exploring the Temple Grounds: A Self-Guided Tour
 
@@ -186,46 +136,12 @@ Four smaller prangs surround the central spire at each cardinal direction. These
 - **March–May (Hot Season):** Temperatures exceed 35°C, and the air is hazy. Early morning visits are essential.
 - **June–October (Rainy Season):** Afternoon showers are common, but mornings are often clear and the temple is less crowded. Bring an umbrella.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 6. Combining Wat Arun with Nearby Attractions
 
 **Wat Arun** is part of Bangkok's "Golden Triangle" of riverside temples. You can easily combine it with other major attractions in a single day.
 
 ### Wat Pho (Temple of the Reclining Buddha)
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 Located directly across the river, [Wat Pho](/blog/wat-pho-bangkok-reclining-buddha/) is home to the 46-meter-long Reclining Buddha—one of Thailand's most iconic images. The temple is larger and more crowded than Wat Arun, but equally essential. Cross the ferry from Wat Arun pier (3 THB, 2 minutes) to reach Wat Pho. Budget 1.5–2 hours for Wat Pho, including the foot massage school if you're interested. Our [Thai massage guide](/blog/thai-massage-guide-types-prices/) explains what to expect from a traditional session.
@@ -253,7 +169,7 @@ The area around Wat Arun is less touristy than the Grand Palace area, which mean
 
 ### Riverside Cafés & Restaurants
 
-Several small cafés line the riverside near Wat Arun pier, offering views of the temple and the Chao Phraya River. These are ideal for breakfast or a quick lunch. Expect to pay 80–200 THB (~USD 2–5.50) for a meal. During our visit, we had excellent pad thai and fresh mango juice at a small stall for under 100 THB.
+Several small cafés line the riverside near Wat Arun pier, offering views of the temple and the Chao Phraya River. These are ideal for breakfast or a quick lunch. Expect to pay 80–200 THB (~USD 2–5.50) for a meal.
 
 ### Local Eateries in Thon Buri
 
@@ -307,24 +223,6 @@ Smartphone cameras perform surprisingly well at Wat Arun, especially in good lig
 - **Photography:** Ask permission before photographing monks. Avoid photographing Buddha images in certain areas (signs will indicate this).
 
 ### Safety & Practical Concerns
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 Wat Arun is one of Bangkok's safest attractions. Petty theft is rare, but keep valuables secure and be aware of your surroundings in crowded areas. The temple grounds are well-maintained and easy to navigate.
@@ -401,22 +299,6 @@ Board a Chao Phraya River dinner cruise. Watch Wat Arun illuminate as the sun se
 
 **Total Cost:** ~2,500–4,000 THB (~USD 70–110) per person (excluding accommodation, meals, and activities).
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## Frequently Asked Questions
 
@@ -455,5 +337,3 @@ Wat Arun is genuinely worth visiting. It's one of Thailand's most important temp
 Our advice? Arrive early, move slowly, and respect the space. Skip the tour groups and the midday heat. Eat where locals eat, and take time to notice the details—the intricate tilework, the monks' morning routines, the way light changes throughout the day. Wat Arun rewards patience and presence.
 
 For more information on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/) and to plan your full Bangkok itinerary, visit our comprehensive city guide. And if you're planning a longer trip, check out our [3-day Bangkok itinerary](https://go2-thailand.com/itineraries/3-days-bangkok/) or [5-day Bangkok and Central Thailand guide](https://go2-thailand.com/itineraries/5-days-bangkok-central/).
-
-**Trust us:** We've explored Bangkok as locals for years, and Wat Arun remains one of our favorite places to return to—especially at dawn.

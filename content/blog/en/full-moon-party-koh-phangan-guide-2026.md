@@ -90,48 +90,14 @@ Accommodation fills up 2–3 weeks before the party, especially during peak seas
 
 **Weekends (January 3, May 1, May 31, August 28, September 26)** draw the largest crowds and highest prices. **December 31 (New Year's Eve)** is the biggest party of the year. If you prefer a slightly less chaotic experience, weekday parties (February 2, March 3, April 2, June 29, July 29, October 26, November 24, December 24) are marginally less crowded, though still substantial. Avoid September–October if possible—monsoon season brings rough seas, occasional ferry cancellations, and a smaller, less festive crowd.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
 ## 3. Getting to Koh Phangan: Transport Options
 
-Reaching [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) requires a ferry or speedboat from the mainland or nearby islands. During our time island-hopping in the south, we tested multiple routes—each has distinct advantages.
+Reaching [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) requires a ferry or speedboat from the mainland or nearby islands.
 
 ### Ferry Routes and Operators
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **From Koh Samui (most popular):**
@@ -154,22 +120,6 @@ Reaching [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) requires a
 - **Consider staying the night after**—ferries are chaotic and overbooked on the morning after; we recommend staying through the next day and departing the following morning
 - **Check weather conditions**—monsoon season (September–October) occasionally causes cancellations
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -254,7 +204,6 @@ The **Full Moon Party Koh Phangan** operates in a legal gray area—alcohol sale
 
 ### Safety Considerations
 
-During our visits, we observed the following risks and mitigation strategies:
 
 **Drink Safety:**
 - **Never leave drinks unattended**—spiking does occur, though less frequently than rumors suggest
@@ -284,22 +233,6 @@ Thai police maintain a visible presence during the Full Moon Party. While the at
 - **Respect for the Thai flag and monarchy** is non-negotiable; any disrespect can result in arrest
 - **Noise complaints** from nearby residents occasionally lead to early party shutdowns (rare but possible)
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -308,24 +241,6 @@ Thai police maintain a visible presence during the Full Moon Party. While the at
 Understanding the true cost of the Full Moon Party helps you plan realistically. Our detailed breakdown:
 
 ### Party Night Budget (Per Person)
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 | Item | Budget | Mid-Range | Splurge |
@@ -350,7 +265,7 @@ Understanding the true cost of the Full Moon Party helps you plan realistically.
 
 ## 7. Alternative Party Experiences on Koh Phangan
 
-Not everyone enjoys the Full Moon Party's scale and chaos. During our extended stay on the island, we discovered excellent alternatives.
+Not everyone enjoys the Full Moon Party's scale and chaos.
 
 ### Half Moon Party (Hat Rin Nok)
 
@@ -386,7 +301,7 @@ Beyond the ferry, navigating the island requires planning, especially on party n
 **Best for:** Exploring the island, flexibility
 **Caution:** Roads are poorly lit at night; many travelers rent motorbikes while intoxicated—this is extremely dangerous
 
-**Our experience:** We rented motorbikes to explore quieter beaches during the day, but strongly advise against riding after the party. Accidents spike dramatically on Full Moon Party nights.
+Accidents spike dramatically on Full Moon Party nights.
 
 ### Taxis and Songthaews (Shared Vans)
 
@@ -417,24 +332,6 @@ If you're spending multiple days on the island, there's plenty beyond the Full M
 ### Snorkeling and Diving
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 Koh Phangan has excellent snorkeling sites, particularly around [Koh Tao](/blog/koh-tao-guide-diving-beaches-budget-travel/) (accessible via day trip) and local reefs. Visibility is best November–April. For dedicated divers, also read about [Koh Tao coral restoration and eco-diving rules](/blog/koh-tao-coral-restoration-eco-diving-rules-2026/) before heading out.
 
 **Popular operators:** Koh Phangan Divers, Phangan Scuba School
@@ -460,22 +357,6 @@ Thong Sala's morning market (open 6–11 AM) offers authentic Thai street food, 
 
 **Must-try:** Fresh mango sticky rice, grilled fish, pad thai from market vendors (40–80 THB/~$1–2 USD)
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -557,5 +438,3 @@ The **Full Moon Party Koh Phangan** is a unique, high-energy experience that att
 Whether you attend for the spectacle, the social scene, or simply to check it off your bucket list, remember that the best experience comes from going with the flow, staying safe, and connecting with fellow travelers. If the Full Moon Party isn't your style, [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) offers plenty of alternatives: snorkeling, yoga, quiet beaches, and authentic island life.
 
 For more insights on southern Thailand travel, check out our [best beaches in Thailand](/best-beaches-in-thailand/) for context on how Koh Phangan fits into your broader Thailand adventure. Planning a longer trip? Our [10-day Thailand itinerary](/blog/thailand-10-day-itinerary/) and [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) both include the southern islands. If cost is a concern, our [Thailand budget 2026 daily costs](/thailand-index/budget/) guide helps you plan realistically. And if you're traveling in November, note that [Phuket is hosting the Global Wellness Summit 2026](/blog/global-wellness-summit-2026-phuket-november/) the same month as the November Full Moon Party — a natural two-island add-on.
-
-**Trust us:** We've lived in and traveled Thailand extensively, and we're sharing genuine, firsthand experience to help you make the most of your journey.

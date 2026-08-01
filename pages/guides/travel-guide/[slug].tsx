@@ -12,16 +12,19 @@ import { normalizeTravelGuide } from '../../../lib/normalize-cluster';
 import { nlCityOwner, normalizeNlInternalHref } from '../../../lib/nl-route-owners';
 import { AffiliateDisclosure } from '../../../components/design/AffiliateDisclosure';
 import { SourceMethodSection } from '../../../components/design/SourceMethodSection';
+import { CityTravelGuideEn } from '../../../components/travel/CityTravelGuideEn';
 // NOTE: clusters.ts imported dynamically in getStaticPaths/Props to avoid bundling 'fs' client-side
 
 interface Props {
   data: TravelGuidePage;
   affiliates: CityAffiliates | null;
+  heroImage: string;
 }
 
-export default function TravelGuidePage({ data, affiliates }: Props) {
+export default function TravelGuidePage({ data, affiliates, heroImage }: Props) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+  if (!isNl) return <CityTravelGuideEn data={data} affiliates={affiliates} heroImage={heroImage} />;
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Reisgidsen' : 'Travel guides', href: '/travel-guides/' },
@@ -288,6 +291,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const { getTravelGuide } = await import('../../../lib/clusters');
+  const { getCityBySlug, getCityImageForSection } = await import('../../../lib/cities');
   const slug = params?.slug as string;
   if (locale === 'nl') {
     return {
@@ -307,8 +311,10 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       metaDescription: String(data.seo.metaDescription).replace(/\bfor 2026\b/gi, '').replace(/\b2026\b/g, '').replace(/\s{2,}/g, ' ').trim(),
     };
   }
+  const city = getCityBySlug(slug, 'en');
+  const heroImage = city ? getCityImageForSection(city, 'hero') : '/images/redesign/thailand-travel-guide-hero-v2.webp';
   return {
-    props: { data, affiliates: getAffiliates(slug) },
+    props: { data, affiliates: getAffiliates(slug), heroImage },
     revalidate: 604800,
   };
 };

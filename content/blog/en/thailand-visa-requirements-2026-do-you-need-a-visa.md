@@ -23,7 +23,7 @@ sources:
   - name: "Thailand Digital Arrival Card (TDAC)"
     url: "https://tdac.immigration.go.th/arrival-card/#/home"
 ---
-Imagine landing at Bangkok's Suvarnabhumi Airport after a long [flight](https://trip.tpo.lv/TmObooZ5?subid=blog), only to face immigration confusion that derails your **Thailand visa requirements** adventure. With rules evolving for 2026, including mandatory digital forms and extended visa-free stays, getting it right means seamless entry to beaches, temples, and street food stalls. We've navigated these checkpoints countless times during our years island-hopping and living in [Chiang Mai travel guide](https://go2-thailand.com/city/chiang-mai/).
+Imagine landing at Bangkok's Suvarnabhumi Airport after a long [flight](https://trip.tpo.lv/TmObooZ5?subid=blog), only to face immigration confusion that derails your **Thailand visa requirements** adventure. With rules evolving for 2026, including mandatory digital forms and extended visa-free stays, getting it right means seamless entry to beaches, temples, and street food stalls.
 
 ## Key Takeaways
 
@@ -37,24 +37,11 @@ Imagine landing at Bangkok's Suvarnabhumi Airport after a long [flight](https://
 | **Long-term options?** | [Digital Nomad Visa](https://go2-thailand.com/visa/digital-nomad-visa/), [Retirement Visa](https://go2-thailand.com/visa/retirement-visa/), or [Thailand Elite Visa](https://go2-thailand.com/visa/thailand-elite-visa/). |
 | **Do I need it for Songkran?** | Same rules apply during April festivals; plan extensions early for peak season. |
 
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ## 1. Understanding Visa-Free Entry to Thailand
 
-**Visa-free entry** lets travelers from over 90 countries skip the embassy hassle for short trips, a game-changer we relied on during our southern island-hops from [Phuket travel guide](https://go2-thailand.com/city/phuket/) to [Koh Samui island guide](https://go2-thailand.com/islands/koh-samui/). In 2026, this scheme remains the simplest path for most tourists, extended to 60 days amid post-pandemic recovery efforts.
+In 2026, this scheme remains the simplest path for most tourists, extended to 60 days amid post-pandemic recovery efforts.
 
-During our three years in Chiang Mai, we saw lines shorten dramatically for visa-exempt nationalities, but always double-check your passport's validity—minimum six months required.
 
 ### Eligible Countries and Durations
 
@@ -95,24 +82,6 @@ Apply at a Thai embassy or consulate abroad—never in Thailand. Processing take
 - **Budget Option:** Apply in neighboring Laos or Cambodia for faster service.
 - **Common Pitfall:** Incomplete forms lead to rejection; use embassy checklists.
 
-When we lived in Chiang Mai, friends flew to Vientiane for theirs—back in 48 hours.
-
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE?subid=blog) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 3. Thailand Digital Arrival Card (TDAC): Mandatory for Everyone
 
@@ -196,22 +165,6 @@ Our team used Elite for multi-year access while based in [northern region guide]
 
 Apply via official portals; we may earn a small commission from bookings made through our links, at no extra cost to you.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Reporting Requirements
 
@@ -230,7 +183,7 @@ In Chiang Mai, we knew expats switching via Muay Thai camps—check [best Muay T
 
 ## 8. Overstays, Fines, and What to Avoid
 
-Overstay fines: 500 THB/day, max 20,000 THB. We saw tourists pay thousands at airports—avoid by extending.
+Overstay fines: 500 THB/day, max 20,000 THB.
 
 **Common Mistakes:**
 - **Ignoring TM6/TDAC:** Entry denial.
@@ -243,22 +196,6 @@ Per [scams safety](https://go2-thailand.com/practical-info/scams-safety/), stick
 >
 > *Source: [Thailand Immigration Act B.E. 2522](https://www.immigration.go.th/)*
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD?subid=blog)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD?subid=blog" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 9. Preparing Documents and Proofs
 
@@ -270,7 +207,7 @@ In our Bangkok days, immigration asked for hotel bookings—have digital proofs 
 
 ## 10. Updates and Where to Check Latest Info
 
-Rules shift; monitor [Visa](https://go2-thailand.com/visa/) and official sites. During our Phuket stays, we checked TAT apps for changes.
+Rules shift; monitor [Visa](https://go2-thailand.com/visa/) and official sites.
 
 **Quick Checklist:**
 - Passport valid 6+ months.
@@ -300,6 +237,6 @@ Mandatory online form for all arrivals, free, submit 3 days early at tdac.immigr
 ### Can I work on a tourist visa in Thailand?
 No, work requires a permit and Non-B visa. Violations lead to fines or bans. Check [expat long stay Thailand](https://go2-thailand.com/travel-guides/expat-long-stay-thailand/).
 
-In summary, **Thailand visa requirements** for 2026 favor visa-free 60-day stays for most, with easy extensions and TDAC for all. Plan ahead to avoid fines and enjoy seamless travel from Bangkok to islands. Ready to book? Head to our [Thailand visa page](https://go2-thailand.com/visa/) for personalized advice. As locals who've lived and explored every corner, we guarantee this guide keeps your trip stress-free. Safe travels!
+In summary, **Thailand visa requirements** for 2026 favor visa-free 60-day stays for most, with easy extensions and TDAC for all. Plan ahead to avoid fines and enjoy seamless travel from Bangkok to islands. Ready to book? Head to our [Thailand visa page](https://go2-thailand.com/visa/) for personalized advice. Safe travels!
 
 Visa eligibility and travel activities are separate decisions. Confirm your entry route first on our [Thailand visa hub](/visa/); only then compare destination-specific experiences in the [Thailand activities guide](/activities/).

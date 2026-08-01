@@ -5,9 +5,11 @@ date: "2026-03-23"
 lastUpdated: "2026-03-29"
 author:
   name: "Go2Thailand Editorial"
+category: "news"
 image: "/images/redesign/editorial/singapore-airlines-chiang-mai-nonstop-flights-2026-hero.webp"
 tags: ["thailand", "chiang-mai", "flights", "singapore-airlines", "aviation"]
 summary: "Singapore Airlines is in talks with Thai aviation authorities to launch nonstop Singapore-Chiang Mai flights, potentially making the northern city its third Thai destination after Bangkok and Phuket."
+description: "A dated route-development report; verify whether Singapore Airlines currently lists a nonstop Chiang Mai service before planning or booking."
 sources:
   - "https://aviationa2z.com/index.php/2026/02/01/singapore-airlines-eyes-new-flights-to-this-thai-destination/"
   - "https://www.travelandtourworld.com/news/article/singapore-airlines-explores-new-nonstop-route-to-chiang-mai-expanding-its-thai-network-to-include-the-popular-northern-destination-following-record-growth-in-bangkok-and-phuket/"

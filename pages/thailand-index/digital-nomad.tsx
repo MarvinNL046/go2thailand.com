@@ -7,6 +7,7 @@ import type { ThailandIndex, BilingualText, IndexCity } from '../../lib/thailand
 import { RankingCard, TableOfContents, NomadTable, VisaTable } from '../../components/index';
 import type { TocItem } from '../../components/index';
 import DigitalNomadThailandGuideNl from '../../components/editorial/DigitalNomadThailandGuideNl';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 
 interface DigitalNomadPageProps {
   data: ThailandIndex | null;
@@ -75,6 +76,7 @@ export default function DigitalNomadPage({ data }: DigitalNomadPageProps) {
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
   if (isDutchLocale(locale)) return <DigitalNomadThailandGuideNl />;
+  return <StaticTravelGuideOwnerEn owner="nomad" />;
   if (!data) return null;
 
   const breadcrumbItems = [
@@ -630,7 +632,7 @@ export default function DigitalNomadPage({ data }: DigitalNomadPageProps) {
 
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
   // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const data = locale === 'nl' ? null : require('../../data/thailand-index.json') as ThailandIndex;
+  const data = locale === 'nl' ? null : null;
   return {
     props: { data },
     revalidate: 604800,

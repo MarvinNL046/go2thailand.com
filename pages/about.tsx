@@ -84,7 +84,7 @@ export default function AboutPage() {
               <p className="text-gray-700 mb-4">
                 {isNl
                   ? <>Bekijk ook onze <Link href="/social/" className="font-semibold text-thailand-blue hover:underline">sociale kanalen en community-updates</Link> voor nieuwe gidsen, visuele inspiratie en verbeteringen aan de website.</>
-                  : <>Follow our <Link href="/social/" className="font-semibold text-thailand-blue hover:underline">social channels and community updates</Link> for new guides, visual inspiration and website improvements.</>}
+                  : <>Read more <Link href="/blog/" className="font-semibold text-thailand-blue hover:underline">travel guides and editorial updates</Link> for new planning ideas, destination inspiration and website improvements.</>}
               </p>
               <p className="text-gray-700">
                 {isNl

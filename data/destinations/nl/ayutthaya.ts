@@ -56,7 +56,7 @@ export const ayutthayaDestinationGuide: DestinationGuideData = {
       slug: 'westelijke-rivierlus',
       name: 'Westelijke rivierlus',
       kicker: 'Wat Chaiwatthanaram',
-      image: '/images/cities/ayutthaya/attractions/at Chaiwatthanaram tempel bij nacht, Ayutthaya.webp',
+      image: '/images/cities/ayutthaya/attractions/wat-chaiwatthanaram-night.webp',
       imageAlt: 'Wat Chaiwatthanaram aan de rivier in Ayutthaya in de avond',
       summary: 'Wat Chaiwatthanaram ligt buiten de centrale eilandcluster en verdient een afzonderlijk laat-middagblok. De architectuur en rivierligging geven een ander silhouet dan de ruïnes in het centrum.',
       bestFor: 'Zacht avondlicht, fotografie en een route met tuk-tuk, chauffeur of boot.',
@@ -87,7 +87,7 @@ export const ayutthayaDestinationGuide: DestinationGuideData = {
     {
       title: 'Lees de centrale ruïnes als koninklijke stad',
       eyebrow: 'Historisch eiland',
-      image: '/images/extra images/Buddha head in banyan tree roots at Wat Mahathat temple in Ayutthaya Historical Park, Thailand..webp',
+      image: '/images/cities/ayutthaya/attractions/wat-mahathat-buddha-head.webp',
       imageAlt: 'Boeddhahoofd tussen boomwortels bij Wat Mahathat in Ayutthaya',
       description: 'Wat Mahathat is bekend om het Boeddhahoofd tussen boomwortels, maar krijgt meer betekenis naast Wat Ratchaburana en de voormalige koninklijke tempel Wat Phra Si Sanphet.',
       decision: 'Begin vroeg, combineer maximaal drie centrale sites en neem de gedragsregels rond religieuze beelden serieus.',

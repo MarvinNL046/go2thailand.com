@@ -9,6 +9,11 @@ tags: ["thailand politics", "anutin charnvirakul", "bhumjaithai party", "thailan
 image: "/images/redesign/editorial/thailand-anutin-reelected-prime-minister-march-2026-hero.webp"
 draft: false
 lastUpdated: "2026-03-29"
+sources:
+  - name: "Thailand Government Public Relations Department: parliamentary vote"
+    url: "https://thailand.prd.go.th/en/content/category/detail/id/48/iid/486890"
+  - name: "Thailand Government Public Relations Department: Royal Command"
+    url: "https://thailand.prd.go.th/en/content/category/detail/id/48/iid/487230"
 ---
 
 ## Anutin Charnvirakul Wins Second Term as Prime Minister

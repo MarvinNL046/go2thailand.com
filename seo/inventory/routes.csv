@@ -1,4 +1,5 @@
 locale,url,path,translation_key,page_type,has_language_pair,template_owner,recommended_action,priority,decision_status,decision_note
+nl,https://go2-thailand.com/nl/social/,/nl/social/,/social/,other,no,manual-review,manual-audit,P3,provisional,"Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig. Taalpaar ontbreekt: bepaal of lokalisatie of bewust locale-specifiek gebruik nodig is."
 nl,https://go2-thailand.com/nl/,/nl/,/,homepage,yes,homepage,keep-improve,P0,provisional,Kernhub; behouden en via het gedeelde designsysteem verbeteren.
 nl,https://go2-thailand.com/nl/city/,/nl/city/,/city/,destination-index,yes,destination-index,keep-improve,P0,provisional,Kernhub; behouden en via het gedeelde designsysteem verbeteren.
 nl,https://go2-thailand.com/nl/activities/,/nl/activities/,/activities/,commercial-activity,yes,commercial-landing,template-improve,P2,provisional,Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.
@@ -6,7 +7,6 @@ nl,https://go2-thailand.com/nl/things-to-do-in-thailand/,/nl/things-to-do-in-tha
 nl,https://go2-thailand.com/nl/transport/,/nl/transport/,/transport/,transport,yes,transport,template-improve,P2,provisional,Schaalbare familie; onderzoek en verbeter eerst het gedeelde template en een pilot-URL.
 nl,https://go2-thailand.com/nl/food/,/nl/food/,/food/,food-drink,yes,food-drink,template-audit,P2,provisional,Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.
 nl,https://go2-thailand.com/nl/drinks/,/nl/drinks/,/drinks/,food-drink,yes,food-drink,template-audit,P2,provisional,Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.
-nl,https://go2-thailand.com/nl/social/,/nl/social/,/social/,other,yes,manual-review,manual-audit,P3,provisional,"Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig."
 nl,https://go2-thailand.com/nl/region/,/nl/region/,/region/,region,yes,region,template-audit,P2,provisional,Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.
 nl,https://go2-thailand.com/nl/weather/,/nl/weather/,/weather/,other,yes,manual-review,manual-audit,P3,provisional,"Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig."
 nl,https://go2-thailand.com/nl/travel-gear/,/nl/travel-gear/,/travel-gear/,other,yes,manual-review,manual-audit,P3,provisional,"Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig."
@@ -608,7 +608,6 @@ en,https://go2-thailand.com/food/,/food/,/food/,food-drink,yes,food-drink,templa
 en,https://go2-thailand.com/thailand-street-food/,/thailand-street-food/,/thailand-street-food/,other,no,manual-review,manual-audit,P3,provisional,"Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig. Taalpaar ontbreekt: bepaal of lokalisatie of bewust locale-specifiek gebruik nodig is."
 en,https://go2-thailand.com/drinks/,/drinks/,/drinks/,food-drink,yes,food-drink,template-audit,P2,provisional,Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.
 en,https://go2-thailand.com/esim/,/esim/,/esim/,other,no,manual-review,manual-audit,P3,provisional,"Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig. Taalpaar ontbreekt: bepaal of lokalisatie of bewust locale-specifiek gebruik nodig is."
-en,https://go2-thailand.com/social/,/social/,/social/,other,yes,manual-review,manual-audit,P3,provisional,"Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig."
 en,https://go2-thailand.com/region/,/region/,/region/,region,yes,region,template-audit,P2,provisional,Behoud voorlopig; valideer indexatiewaarde en templatekwaliteit per cluster.
 en,https://go2-thailand.com/weather/,/weather/,/weather/,other,yes,manual-review,manual-audit,P3,provisional,"Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig."
 en,https://go2-thailand.com/travel-gear/,/travel-gear/,/travel-gear/,other,yes,manual-review,manual-audit,P3,provisional,"Controleer zoekintentie, contentkwaliteit en indexatiewaarde handmatig."

@@ -1,6 +1,6 @@
 # Rendered design coverage
 
-**Captured:** 2026-08-01T05:30:41.449Z
+**Captured:** 2026-08-01T19:44:28.405Z
 **Base URL:** http://localhost:3000
 
 This report separates sitemap routes, rendered design signatures and exact implemented ContentOps owner routes. A premium signature proves that the current HTML uses the shared redesign primitives; it does not by itself prove unique copy or page-level editorial quality.

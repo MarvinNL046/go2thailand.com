@@ -57,9 +57,25 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
           name="keywords"
           content="Thailand top 10 guides, Thailand attraction guides, Thailand restaurant guides, Thailand hotel guides"
         />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          name: rootHubContent.title,
+          description: rootHubContent.description,
+          url: `https://go2-thailand.com/${isNl ? 'nl/' : ''}top-10/`,
+          inLanguage: isNl ? 'nl-NL' : 'en',
+          mainEntity: {
+            '@type': 'ItemList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: isNl ? 'Attractiegidsen' : 'Attraction guides', url: `https://go2-thailand.com/${isNl ? 'nl/' : ''}top-10/attractions/` },
+              { '@type': 'ListItem', position: 2, name: 'Restaurant guides', url: `https://go2-thailand.com/${isNl ? 'nl/' : ''}top-10/restaurants/` },
+              { '@type': 'ListItem', position: 3, name: 'Hotel guides', url: `https://go2-thailand.com/${isNl ? 'nl/' : ''}top-10/hotels/` },
+            ],
+          },
+        }) }} />
       </SEOHead>
 
-      <div className="bg-surface-cream min-h-screen">
+      <div className="bg-surface-cream min-h-screen" data-premium-template="top-ten-directory-hub">
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />

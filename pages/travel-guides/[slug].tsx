@@ -29,6 +29,7 @@ import ThailandShoppingMarketsGuideNl from '../../components/editorial/ThailandS
 import ThaiPhrasesGuideNl from '../../components/editorial/ThaiPhrasesGuideNl';
 import ThailandHiddenGemsGuideNl from '../../components/editorial/ThailandHiddenGemsGuideNl';
 import ThailandHistoryCultureGuideNl from '../../components/editorial/ThailandHistoryCultureGuideNl';
+import { TravelGuideEditorialEn } from '../../components/travel/TravelGuideEditorialEn';
 
 // --- Type definitions ---
 
@@ -333,11 +334,11 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
   const lang = (locale === 'nl' ? 'nl' : 'en') as Lang;
 
   if (guide.slug === 'sim-card-thailand') {
-    return <ThailandEsimSimGuide language={lang} />;
+    return lang === 'en' ? <div data-premium-template="connectivity-guide-en"><ThailandEsimSimGuide language={lang} /></div> : <ThailandEsimSimGuide language={lang} />;
   }
 
   if (guide.slug === '7-eleven-thailand') {
-    return <SevenElevenThailandGuide language={lang} />;
+    return lang === 'en' ? <div data-premium-template="seven-eleven-guide-en"><SevenElevenThailandGuide language={lang} /></div> : <SevenElevenThailandGuide language={lang} />;
   }
 
   if (lang === 'en' && guide.slug === 'dangerous-animals-thailand') {
@@ -365,7 +366,7 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
   }
 
   if (lang === 'en' && guide.slug === 'solo-female-travel-thailand') {
-    return <SoloFemaleThailandGuideEn />;
+    return <div data-premium-template="solo-female-guide-en"><SoloFemaleThailandGuideEn /></div>;
   }
 
   if (lang === 'en' && guide.slug === 'thai-cuisine-food-guide') {
@@ -414,6 +415,10 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
 
   if (lang === 'nl' && guide.slug === 'shopping-markets-thailand') {
     return <ThailandShoppingMarketsGuideNl />;
+  }
+
+  if (lang === 'en') {
+    return <TravelGuideEditorialEn guide={guide} />;
   }
 
   const breadcrumbs = [

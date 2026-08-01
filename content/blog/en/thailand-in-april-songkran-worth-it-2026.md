@@ -4,6 +4,7 @@ slug: "thailand-in-april-songkran-worth-it-2026"
 excerpt: "Should you visit Thailand during Songkran April 13-15, 2026? Real pros/cons, safety risks, flight timing, and the quieter April alternatives if water chaos is not your scene."
 description: "Should you visit Thailand during Songkran April 13-15, 2026? Real pros/cons, safety risks, flight timing, and the quieter April alternatives if water chaos is not your scene."
 date: "2026-04-18"
+lastUpdated: "2026-08-01"
 author:
   name: "Go2Thailand Editorial Team"
 category: "Seasonal"

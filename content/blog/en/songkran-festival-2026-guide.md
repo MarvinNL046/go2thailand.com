@@ -51,7 +51,7 @@ The festival's roots run deep in Buddhist and Hindu traditions. Water symbolizes
 
 ### The Spiritual Side of Songkran
 
-Beyond the water fights, **Songkran** maintains profound spiritual significance. Thais visit temples early in the festival to make merit by offering food to monks, listening to sermons, and participating in water-pouring ceremonies. Many families travel to their hometowns to celebrate with elderly relatives, making it the busiest travel period in Thailand. During our time in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we witnessed the quiet reverence of dawn temple visits contrasted sharply with the afternoon chaos of water battles—a duality that captures Songkran's essence.
+Beyond the water fights, **Songkran** maintains profound spiritual significance. Thais visit temples early in the festival to make merit by offering food to monks, listening to sermons, and participating in water-pouring ceremonies. Many families travel to their hometowns to celebrate with elderly relatives, making it the busiest travel period in Thailand.
 
 ### Modern vs. Traditional Celebrations
 
@@ -76,22 +76,6 @@ The modern **Songkran** experience varies dramatically by location. In [Bangkok]
 
 Different regions celebrate with distinct traditions. In [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), the festival spans the full three days with the Chiang Mai Songkran Parade on April 13, featuring floats, beauty contests, and traditional water blessings. [Bangkok](https://go2-thailand.com/city/bangkok/) concentrates its chaos on April 13–14, with Silom Road and Khao San Road becoming epicenters of water battles. Southern islands like [Phuket](https://go2-thailand.com/city/phuket/) and [Koh Samui](https://go2-thailand.com/islands/koh-samui/) extend festivities through April 17, capitalizing on beach settings and tourist demand.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 3. Best Destinations for Songkran 2026
 
@@ -99,22 +83,6 @@ Choosing where to celebrate **Songkran** depends on your personality and travel 
 
 ### Bangkok: The Urban Water Battlefield
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 [Bangkok](https://go2-thailand.com/city/bangkok/) transforms into a water-soaked metropolis during Songkran. Silom Road—the epicenter of the festival—becomes a multi-block water war where thousands of visitors and locals engage in relentless water gun battles, bucket splashes, and foam fights. The energy is electric, chaotic, and intoxicating.
 
@@ -129,7 +97,7 @@ Choosing where to celebrate **Songkran** depends on your personality and travel 
 
 ### Chiang Mai: Cultural Immersion with Water Fun
 
-[Chiang Mai](https://go2-thailand.com/city/chiang-mai/) offers a more balanced Songkran experience. During our three years in the city, we witnessed how locals and visitors blend tradition with celebration. The Chiang Mai Songkran Festival features the Chiang Mai Songkran Parade, traditional water blessings at temples, and evening water activities around the Old City moat.
+[Chiang Mai](https://go2-thailand.com/city/chiang-mai/) offers a more balanced Songkran experience. The Chiang Mai Songkran Festival features the Chiang Mai Songkran Parade, traditional water blessings at temples, and evening water activities around the Old City moat.
 
 **Best spots in Chiang Mai:**
 
@@ -152,22 +120,6 @@ Southern islands extend Songkran through mid-April, offering beach-based festivi
 
 For a more authentic, less touristy Songkran, consider smaller towns like [Sukhothai](/best-hotels/sukhothai/), Kamphaengphet, or Phrae. These destinations maintain traditional celebrations with genuine local participation, temple ceremonies, and family gatherings. Water activities are gentler, and the atmosphere is festive without the overwhelming crowds. Celebrations take place [across all 76 Thai provinces](/blog/songkran-2026-76-provinces-nationwide-celebrations-guide/), so you are never far from a festival zone.
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 4. Accommodation Booking Strategy for Songkran 2026
 
@@ -197,22 +149,6 @@ For a more authentic, less touristy Songkran, consider smaller towns like [Sukho
 
 **Book cancellation-friendly options**: Songkran plans change; ensure your booking allows free cancellation or modification.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 5. What to Expect: The Songkran Experience
 
@@ -236,26 +172,10 @@ Evening brings organized parades, live music, food stalls, and bar celebrations.
 
 ## 6. Safety, Health, and Practical Considerations
 
-While **Songkran** is generally safe, the massive crowds and water activities present specific risks. Our experience navigating the festival has taught us valuable lessons about staying safe and healthy.
+While **Songkran** is generally safe, the massive crowds and water activities present specific risks.
 
 ### Health and Hygiene Concerns
 
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 **Water quality varies**: In organized areas, water is relatively clean. In crowded zones, buckets may contain questionable water. Avoid getting water in your mouth; use bottled water for drinking and rinsing your mouth.
 
@@ -289,7 +209,7 @@ We strongly recommend [travel insurance](https://go2-thailand.com/travel-insuran
 
 ## 7. What to Pack for Songkran
 
-Packing strategically ensures you enjoy the festival without unnecessary hassles. We've learned through experience what's essential and what's excess.
+Packing strategically ensures you enjoy the festival without unnecessary hassles.
 
 ### Essential Items
 
@@ -314,22 +234,6 @@ Packing strategically ensures you enjoy the festival without unnecessary hassles
 - **Formal clothing**: You'll get soaked; save nice clothes for non-festival days
 - **Heavy luggage**: You'll be moving constantly; travel light
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 8. Festival Etiquette and Cultural Respect
 
@@ -364,22 +268,6 @@ Getting around during **Songkran** requires planning. Traffic congestion, festiv
 
 ### Inter-City Travel
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 **Book transport in advance**: Buses, trains, and flights fill quickly during Songkran. Reserve seats 2–4 weeks ahead.
 

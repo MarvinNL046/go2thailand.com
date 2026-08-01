@@ -6,7 +6,7 @@ interface CityAdventureBannerProps {
   isNl: boolean;
 }
 
-const BANNER_IMAGE = '/images/extra images/Luchtfoto van turquoise wateren in de buurt van Phi Phi-eilanden, Thailand, met weelderige groene kliffen, rotsachtige formaties en boten die door de kalme zee varen..webp';
+const BANNER_IMAGE = '/images/cities/krabi/attractions/phi-phi-aerial.webp';
 
 export function CityAdventureBanner({ affiliateHref, isNl }: CityAdventureBannerProps) {
   return (

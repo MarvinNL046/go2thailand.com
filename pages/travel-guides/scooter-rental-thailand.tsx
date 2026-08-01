@@ -5,6 +5,7 @@ import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import guideData from '../../data/travel-guides/scooter-rental-thailand.json';
 import ThailandScooterRentalGuideNl from '../../components/editorial/ThailandScooterRentalGuideNl';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 
 interface FAQ {
   question: string;
@@ -22,6 +23,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
   if (isNl) {
     return <ThailandScooterRentalGuideNl />;
   }
+  return <StaticTravelGuideOwnerEn owner="scooter" />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -349,10 +351,10 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
   return {
     props: {
-      data: guideData
+      data: locale === 'nl' ? guideData : null
     }
   };
 };

@@ -95,7 +95,7 @@ export const bangkokDestinationGuide: DestinationGuideData = {
     {
       title: 'Lees de koninklijke rivierkern als één verhaal',
       eyebrow: 'Geschiedenis',
-      image: '/images/cities/bangkok/attractions/grand palace/Chakri Maha Prasat, Grand Palace, bangkok thailand.webp',
+      image: '/images/cities/bangkok/attractions/grand-palace-chakri-maha-prasat.webp',
       imageAlt: 'Chakri Maha Prasat in het Grand Palace van Bangkok',
       description: 'Grand Palace, Wat Pho en Wat Arun liggen dicht genoeg voor één sterke dag, maar vragen tijd, respectvolle kleding en pauzes voor hitte.',
       decision: 'Begin vroeg en gebruik de rivieroversteek als deel van de ervaring, niet als losse attractie.',
@@ -187,7 +187,7 @@ export const bangkokDestinationGuide: DestinationGuideData = {
     { question: "Is het veilig om 's nachts door Bangkok te lopen?", answer: 'In drukke, goed verlichte gebieden lopen veel bezoekers ’s avonds zonder problemen, maar veiligheid verschilt per straat en tijdstip. Vermijd stille stegen en risicovolle uitgaanssituaties, let op je drankje en telefoon en neem bij twijfel een betrouwbare taxi of app-rit rechtstreeks naar je verblijf.' },
   ],
   relatedGuides: [
-    { title: 'Wat te doen in Bangkok?', description: 'Bouw je dagen met tempels, wijken, markten en realistische routeclusters.', href: '/city/bangkok/attractions/', image: '/images/cities/bangkok/attractions/grand palace/Chakri Maha Prasat, Grand Palace, bangkok thailand.webp', imageAlt: 'Het Grand Palace in Bangkok' },
+    { title: 'Wat te doen in Bangkok?', description: 'Bouw je dagen met tempels, wijken, markten en realistische routeclusters.', href: '/city/bangkok/attractions/', image: '/images/cities/bangkok/attractions/grand-palace-chakri-maha-prasat.webp', imageAlt: 'Het Grand Palace in Bangkok' },
     { title: 'Waar verblijven in Bangkok?', description: 'Vergelijk de zones en hotels op verbinding, sfeer en avondritme.', href: '/best-hotels/bangkok/', image: '/images/redesign/stay-bangkok-rooftop.webp', imageAlt: 'Hotelzwembad en skyline van Bangkok' },
     { title: 'Eten in Bangkok', description: 'Ontdek gerechten en eetwijken zonder achter één virale hotspot aan te lopen.', href: '/city/bangkok/food/', image: '/images/redesign/bangkok-food-yaowarat.webp', imageAlt: 'Bangkokse streetfoodgerechten op een metalen tafel' },
   ],

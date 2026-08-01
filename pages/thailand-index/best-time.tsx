@@ -6,6 +6,7 @@ import { useRouter } from 'next/router';
 import { useMemo } from 'react';
 import type { ThailandIndex, BilingualText, IndexCity } from '../../lib/thailand-index';
 import { MonthMatrix } from '../../components/index';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 import { normalizeEnInternalHref } from '../../lib/en-route-owners';
 import { normalizeNlInternalHref } from '../../lib/nl-route-owners';
 
@@ -147,6 +148,7 @@ export default function BestTimePage({ data }: BestTimePageProps) {
     })),
   };
 
+  if (locale !== 'nl') return <StaticTravelGuideOwnerEn owner="best-time" />;
   return (
     <>
       <SEOHead

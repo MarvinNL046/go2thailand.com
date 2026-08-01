@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import EmailCapture from '../components/EmailCapture';
 import FirstTimeThailandGuide from '../components/editorial/FirstTimeThailandGuide';
+import { StaticTravelGuideOwnerEn } from '../components/travel/StaticTravelGuideOwnerEn';
 
 const classicRoute = {
   en: [
@@ -87,6 +88,7 @@ export default function ThailandForFirstTimers() {
   const isNl = locale === 'nl';
 
   if (isNl) return <FirstTimeThailandGuide />;
+  return <StaticTravelGuideOwnerEn owner="first-time" />;
 
   const route = isNl ? classicRoute.nl : classicRoute.en;
   const byg = isNl ? beforeYouGo.nl : beforeYouGo.en;

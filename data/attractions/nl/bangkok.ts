@@ -34,7 +34,7 @@ export const bangkokAttractionsGuide: AttractionGuideData = {
       title: 'Grand Palace & Wat Phra Kaew',
       type: 'Koninklijk erfgoed',
       duration: '2 tot 3 uur',
-      image: '/images/cities/bangkok/attractions/grand palace/Chakri Maha Prasat, Grand Palace, bangkok thailand.webp',
+      image: '/images/cities/bangkok/attractions/grand-palace-chakri-maha-prasat.webp',
       imageAlt: 'Chakri Maha Prasat in het Grand Palace-complex in Bangkok',
       description: 'Het Grand Palace en Wat Phra Kaew vormen samen Bangkoks belangrijkste koninklijke tempelcomplex. Kom vroeg, kleed je volgens de voorschriften en behandel dit als een volwaardig bezoek in plaats van een snelle fotostop.',
       bestFor: 'Een eerste kennismaking met historisch Bangkok',

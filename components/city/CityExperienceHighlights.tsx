@@ -10,7 +10,7 @@ interface CityExperienceHighlightsProps {
 const experiences = [
   {
     title: { nl: 'Phi Phi-eilandentour', en: 'Phi Phi island tour' },
-    image: '/images/extra images/Aerial drone Landscape Turquoise lagoon Nui beach koh Phi Phi Don island, Krabi, Thailand. (2).webp',
+    image: '/images/cities/krabi/attractions/nui-beach-drone.webp',
     duration: { nl: 'hele dag', en: 'full day' },
   },
   {

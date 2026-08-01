@@ -35,7 +35,7 @@ Imagine descending 12 meters below the surface, surrounded by schools of barracu
 
 ## 1. Why Koh Tao Is the Diving Capital of Thailand
 
-**Koh Tao diving** has earned its reputation as one of the world's most affordable places to get certified, with PADI Open Water courses starting at just 9,500–12,000 THB (roughly $220–280 USD). When we visited in February, we watched dozens of new divers emerge from the water with enormous grins—the magic moment when underwater exploration clicks into place. If you want a broader overview of [the best diving and snorkeling spots in Thailand](/best-diving-snorkeling-in-thailand/), Koh Tao consistently tops the list.
+**Koh Tao diving** has earned its reputation as one of the world's most affordable places to get certified, with PADI Open Water courses starting at just 9,500–12,000 THB (roughly $220–280 USD). If you want a broader overview of [the best diving and snorkeling spots in Thailand](/best-diving-snorkeling-in-thailand/), Koh Tao consistently tops the list.
 
 The island sits in a unique position in the Gulf of Thailand, where warm currents and nutrient-rich waters create ideal conditions for both marine life and diving visibility. The best time to visit is **February to April**, when seas are calmest and visibility reaches 20–30 meters. During monsoon season (May–October), diving is still possible but conditions are less reliable.
 
@@ -62,28 +62,12 @@ The island hosts dozens of dive schools, most clustered around Sairee Beach and 
 
 For experienced divers, fun dives cost 1,200–1,500 THB per dive, including equipment rental. Many operators offer multi-dive packages at discounts. During peak season (February–March), book courses 1–2 days in advance to secure a spot.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 2. The Best Beaches and Bays
 
 While diving dominates Koh Tao's reputation, the island's beaches are equally compelling. The island's small size (21 square kilometers) means no beach is more than a 20-minute motorbike ride away, yet each has its own character.
 
-**Sairee Beach**, on the western shore, is the island's longest and most developed. It stretches for nearly 2 kilometers and is lined with dive shops, restaurants, and budget bungalows. The sand is golden, the water warm, and the sunset views are spectacular. During our stay, we watched the sky turn orange while sipping [Thai iced tea](https://go2-thailand.com/drinks/thai-iced-tea/) at a beachfront shack—pure simplicity.
+**Sairee Beach**, on the western shore, is the island's longest and most developed. It stretches for nearly 2 kilometers and is lined with dive shops, restaurants, and budget bungalows. The sand is golden, the water warm, and the sunset views are spectacular.
 
 ### Hidden Gems Beyond Sairee
 
@@ -113,24 +97,6 @@ While diving dominates Koh Tao's reputation, the island's beaches are equally co
 **Budget travel in Koh Tao** is absolutely possible, though prices have climbed since the island's diving boom. Here's what you can realistically expect in 2026. For a full picture of [daily travel costs across Thailand](/thailand-index/budget/), see our detailed cost guide. The [Thailand budget backpacker guide](/thailand-index/budget/) also covers the cheapest ways to travel island to island.
 
 ### Accommodation Costs
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Budget Bungalows:** 400–800 THB ($11–22 USD) per night. Basic fan-cooled rooms with shared or private bathrooms. Sairee Beach and Chalok Baan Kao have the most options. Many include simple breakfasts.
@@ -168,22 +134,6 @@ While diving dominates Koh Tao's reputation, the island's beaches are equally co
 >
 > *Source: [Black Turtle Dive — PADI Course Prices Koh Tao](https://www.blackturtledive.com/diving-course-prices/)*
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 4. How to Get to Koh Tao
 
@@ -193,7 +143,7 @@ Getting to **Koh Tao** requires a combination of land and sea travel. The island
 
 **Chumphon**, on the mainland coast, is the closest and most practical departure point. The journey takes 5–6 hours by slow ferry or 2–3 hours by speedboat. Ferries depart daily in the morning (typically 8:00–9:00 AM) and cost 400–600 THB. Speedboats are faster but pricier at 800–1,200 THB.
 
-Getting to Chumphon: From [Bangkok](https://go2-thailand.com/city/bangkok/), take a train (12 hours, 400–1,200 THB) or bus (10–12 hours, 300–800 THB) to Chumphon. During our research, we found the overnight train surprisingly comfortable—you arrive refreshed and ready to catch the morning ferry. The [Bangkok to Chiang Mai sleeper train guide](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) has useful tips for navigating Thai overnight trains if it's your first time.
+Getting to Chumphon: From [Bangkok](https://go2-thailand.com/city/bangkok/), take a train (12 hours, 400–1,200 THB) or bus (10–12 hours, 300–800 THB) to Chumphon. The [Bangkok to Chiang Mai sleeper train guide](/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) has useful tips for navigating Thai overnight trains if it's your first time.
 
 ### From Koh Samui or Koh Phangan
 
@@ -203,22 +153,6 @@ If you're island-hopping, speedboats connect Koh Tao to [Koh Samui](https://go2-
 
 Major operators include Lomprayah, Seatran, and Songserm. During peak season (February–April), ferries can fill up, especially speedboats. Book tickets 1–2 days ahead through your accommodation or at the port. Online booking is available through [12Go Asia](https://12go.tpo.lv/tNA80urD), which aggregates all ferry options and prices.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 5. Where to Stay: Neighborhoods and Recommendations
 
@@ -256,24 +190,6 @@ This eastern bay is the most remote and peaceful. Motorbike access is rough, and
 For many visitors, **scuba diving in Koh Tao** is the main event. The island has perfected the business of teaching diving, with dozens of schools competing for your baht. Here's what you need to know.
 
 ### PADI Certification Levels
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Open Water (OW):** The entry-level certification. Takes 3–4 days and costs 9,500–12,000 THB. You'll learn theory, practice in confined water (the pool or shallow bay), and complete four open water dives. After this, you can dive to 18 meters independently.
@@ -330,7 +246,7 @@ Several yoga studios operate on the island, particularly around Sairee and Chalo
 
 ### Local Favorites
 
-**Fresh Seafood:** The island's fishing boats bring in daily catches. Grilled fish, squid, and prawns are staples at beachside restaurants. A whole grilled fish costs 150–300 THB. During our visits, we'd point at the catch and the cook would grill it to perfection.
+**Fresh Seafood:** The island's fishing boats bring in daily catches. Grilled fish, squid, and prawns are staples at beachside restaurants. A whole grilled fish costs 150–300 THB.
 
 **Pad Thai and Noodle Dishes:** Available everywhere for 40–80 THB. Quality varies, but most are excellent.
 
@@ -366,24 +282,6 @@ Koh Tao's nightlife is modest compared to [Koh Phangan](https://go2-thailand.com
 ### Practical Considerations
 
 
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 **Electricity:** Generated locally and expensive. Switch off lights, fans, and AC when leaving your room. Some bungalows charge extra for AC use.
 
 **Mosquitoes:** Present year-round, especially around dawn and dusk. Use DEET-based repellent.
@@ -396,22 +294,6 @@ Koh Tao's nightlife is modest compared to [Koh Phangan](https://go2-thailand.com
 >
 > *Source: [New Heaven Reef Conservation](https://www.newheavenreefconservation.org/)*
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 10. Practical Information and Safety
 
@@ -475,4 +357,4 @@ The best time to visit is February to April, when conditions are optimal. Book y
 
 For more island inspiration, check out our [complete guide to Thailand's islands](https://go2-thailand.com/islands/) or explore how [Koh Tao compares to nearby Koh Samui and Koh Phangan](https://go2-thailand.com/compare/koh-samui-vs-koh-tao/). And if you're planning a longer Thailand adventure, our [7-day island-hopping itinerary](https://go2-thailand.com/itineraries/7-days-island-hopping/) includes Koh Tao as a must-stop destination.
 
-**Trust us:** We've logged dives here, stayed in the budget bungalows, and eaten countless plates of pad thai on Sairee Beach. Koh Tao is worth every moment.
+Koh Tao is worth every moment.

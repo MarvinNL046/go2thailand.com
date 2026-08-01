@@ -2,7 +2,9 @@
 title: "Is the Full Moon Party Worth It in 2026? Honest Decision Guide"
 slug: "is-full-moon-party-worth-it-2026"
 excerpt: "The Full Moon Party in Koh Phangan - 2026 dates, real safety risks, cost reality, and whether the 30,000-person beach rave lives up to the legend."
+description: "A practical decision guide to Koh Phangan's Full Moon Party, covering who it suits, safety planning and what to verify before attending."
 date: "2026-04-18"
+lastUpdated: "2026-08-01"
 author: "Go2Thailand Editorial Team"
 category: "Nightlife"
 tags: ["full-moon-party-2026", "koh-phangan", "haad-rin", "thailand-nightlife", "fmp-worth-it"]

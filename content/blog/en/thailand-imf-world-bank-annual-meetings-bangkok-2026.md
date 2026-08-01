@@ -1,8 +1,8 @@
 ---
 title: "Bangkok to Host IMF and World Bank Annual Meetings in October 2026"
 date: "2026-03-21"
-lastUpdated: "2026-03-29"
-description: "Bangkok is preparing to welcome over 18,000 delegates from nearly 200 nations for the 2026 IMF and World Bank Annual Meetings at the Queen Sirikit National Convention Center."
+lastUpdated: "2026-08-01"
+description: "Official planning information for the 2026 IMF and World Bank Annual Meetings in Bangkok, including dates, venue and public-stream access."
 category: "news"
 tags: ["bangkok", "imf", "world bank", "mice", "business tourism", "2026"]
 author:
@@ -10,6 +10,11 @@ author:
 reading_time: 4
 image: "/images/redesign/editorial/thailand-imf-world-bank-annual-meetings-bangkok-2026-hero.webp"
 draft: false
+sources:
+  - name: "World Bank Group Annual Meetings"
+    url: "https://www.worldbank.org/en/meetings/splash/annual"
+  - name: "World Bank Group venue and access information"
+    url: "https://www.worldbank.org/en/meetings/splash/annual/venue"
 ---
 
 ## Bangkok Prepares for the 'Olympics of Finance'

@@ -7,6 +7,7 @@ import EmailCapture from '../components/EmailCapture';
 import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/things-to-do-in-thailand';
 import ThailandThingsToDoGuideNl from '../components/editorial/ThailandThingsToDoGuideNl';
+import { StaticTravelGuideOwnerEn } from '../components/travel/StaticTravelGuideOwnerEn';
 
 export default function ThingsToDoPage() {
   const t = useT(i18nStrings);
@@ -14,6 +15,7 @@ export default function ThingsToDoPage() {
   const isNl = locale === 'nl';
 
   if (isNl) return <ThailandThingsToDoGuideNl />;
+  return <StaticTravelGuideOwnerEn owner="things" />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },

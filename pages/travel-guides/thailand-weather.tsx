@@ -3,6 +3,7 @@ import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 import monthlyGuides from '../../data/monthly-guides.json';
 
 interface MonthGuide {
@@ -25,6 +26,7 @@ interface ThailandWeatherPageProps {
 export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+  if (!isNl) return <StaticTravelGuideOwnerEn owner="weather" />;
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -269,8 +271,8 @@ export default function ThailandWeatherPage({ months }: ThailandWeatherPageProps
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
-  const months = Object.values(monthlyGuides);
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  const months = locale === 'nl' ? Object.values(monthlyGuides) : [];
 
   return {
     props: {

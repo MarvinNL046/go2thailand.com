@@ -60,7 +60,7 @@ const experiences = [
   {
     title: 'Old Bangkok by temple cluster',
     copy: 'Group the Grand Palace, Wat Pho and the cross-river approach to Wat Arun. Walking less and crossing the river deliberately makes this day much calmer.',
-    image: '/images/cities/bangkok/attractions/grand palace/Chakri Maha Prasat, Grand Palace, bangkok thailand.webp',
+    image: '/images/cities/bangkok/attractions/grand-palace-chakri-maha-prasat.webp',
     href: '/city/bangkok/attractions/',
     tag: 'Heritage',
   },
@@ -81,7 +81,7 @@ const experiences = [
   {
     title: 'A slower green contrast',
     copy: 'Add Lumphini, Benjakitti or Bang Kachao when heat, traffic and visual overload begin to flatten the experience.',
-    image: '/images/cities/bangkok/attractions/lumpini park/Aerial view of green trees in Lumpini Park, Sathorn district, Bangkok.webp',
+    image: '/images/cities/bangkok/attractions/lumpini-park-aerial.webp',
     href: '/city/bangkok/attractions/bang-kachao/',
     tag: 'Breathing room',
   },

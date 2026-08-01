@@ -4,9 +4,11 @@ date: "2026-03-23"
 lastUpdated: "2026-03-29"
 author:
   name: "Go2Thailand Editorial"
+category: "travel-trends"
 image: "/images/redesign/editorial/thailand-quietcation-trend-tranquil-travel-2026-hero.webp"
 tags: ["thailand", "quietcation", "travel trends", "wellness", "sustainable tourism"]
 summary: "Thailand is leaning into the global quietcation trend for 2026, encouraging travellers to seek peace, privacy and meaningful experiences over crowded tourist hotspots."
+description: "Explore Thailand's quietcation trend and compare slower, lower-crowd travel ideas with practical destination-planning considerations."
 sources:
   - "https://www.travelmole.com/news/thailand-tourism-2026/"
   - "https://www.travelandtourworld.com/news/article/thailands-new-tourism-strategy-for-2026-value-is-the-new-volume-marks-a-shift-to-sustainable-and-high-quality-tourism/"

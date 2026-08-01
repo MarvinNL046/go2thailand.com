@@ -1,8 +1,8 @@
-# English manual-review family audit
+# English manual-review family audit — final closure
 
 Date: 2026-08-01
 Ledger population: 35 routes
-Family decision: **in progress — do not mark accepted yet**
+Family decision: **accepted — 35/35 routes closed**
 
 ## Changes completed
 
@@ -20,9 +20,9 @@ Family decision: **in progress — do not mark accepted yet**
    - Removed unsupported 14:30 last-entry, 365-day guarantee, side-gate guarantee, cached tour-price bands, child/audio/rental prices and categorical “anyone in uniform is fake” wording.
    - Metadata and Article `dateModified` are evergreen/current rather than an April snapshot.
 
-## Exact 35-route disposition
+## Initial 35-route disposition before the closure pass
 
-| Routes                                                                                                      | Count | Current disposition                                                                                                                                                                      |
+| Routes                                                                                                      | Count | First-pass finding                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------- | ----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `/thailand-in/january/` through `/thailand-in/december/`                                                    |    12 | Rebuilt; source-gated owner ready for runtime recheck.                                                                                                                                   |
 | `/weather/`                                                                                                 |     1 | Premium English hub exists; intent distinct from the month owners. Existing component already warns that regional patterns differ.                                                       |
@@ -45,7 +45,7 @@ Family decision: **in progress — do not mark accepted yet**
 
 Total: 35.
 
-## Technical verification
+## First-pass technical verification
 
 - Targeted ESLint for `ThailandMonthGuideEn.tsx` and `pages/thailand-in/[month].tsx`: **0 errors** (seven pre-existing warnings remain in the legacy branch of the route file).
 - TypeScript: the new month owner has no reported type error. Full `tsc --noEmit --incremental false` currently stops on unrelated concurrent missing imports in `pages/drinks/[slug].tsx`; this audit did not edit that owner.
@@ -53,10 +53,24 @@ Total: 35.
 - `SEOHead` delegates canonical and hreflang to the global `Hreflang` owner; month schema URLs match the English trailing-slash routes.
 - No shared ledger, inventory, sitemap or `tsconfig.tsbuildinfo` file was edited in this workstream.
 
-## Final gates before family acceptance
+## Closure pass: remaining 22 routes
 
-1. Clear the unrelated compile failure and crawl all 35 routes for HTTP 200, one H1, canonical/hreflang, JSON-LD parseability, image existence and internal targets.
-2. Refresh the seven volatile commercial/activity owners listed above from official sources; remove or date-gate every unverified price, schedule, fee, closure and welfare claim.
-3. Consolidate `/social/` through the shared redirect/sitemap owner.
-4. Give the three `/top-10/` owners explicit selection methods and update policies.
-5. Re-run mobile and desktop visual/accessibility sampling for at least January, September, Grand Palace, eSIM, safety, nightlife city and each top-10 owner.
+| Accepted owner(s) | Count | Closure evidence |
+|---|---:|---|
+| Street food, eSIM, weather, travel gear, beaches, cooking classes, diving/snorkelling, safety and nightlife hub | 9 | Existing exact premium owners were inspected for source method, non-guarantee language, contextual internal links and affiliate disclosure. Runtime: 200, one H1, canonical, hreflang and 3–5 JSON-LD blocks. Beaches now treats the 2022 Maya Bay announcement as history rather than proof of a current cap or fee. |
+| Muay Thai, national elephant facilities, Chiang Mai elephant facilities and Phi Phi tours | 4 | Replaced English output with the `ManualDecisionGuideEn` exact owner. Each has distinct decision content, current primary/specialist sources, Article/Breadcrumb/FAQ schema, responsive cards, accessible CTAs and live-price/welfare/access gates. Runtime: 200, one H1, canonical, 2–3 hreflang links and four JSON-LD blocks. |
+| Best places directory | 1 | Removed the year-based superlative metadata, added a visible method boundary and exact premium signature. Runtime: 200 with one H1, canonical, hreflang and ItemList schema. |
+| Nightlife city owners: Bangkok, Chiang Mai, Pattaya, Phuket | 4 | English data is now sanitised before rendering: no cached price table, venue price, fixed closing time, “personally verified” or affordability superlative. Pattaya retains its separately researched premium owner. All four runtime routes: 200, one H1, canonical/hreflang and 3–6 JSON-LD blocks. |
+| Top-10 hub, restaurants hub, attractions hub | 3 | Retained as city-guide directories, not nationwide rankings. The root gained explicit CollectionPage/ItemList schema and premium owner signature; child hubs already expose method/source context and CollectionPage/ItemList schema. Runtime: 200, one H1 and canonical/hreflang. |
+| Social | 1 | Permanently consolidated to `/blog/`; removes the sample feed and fabricated engagement counters from the English indexable surface. Runtime returns 308. Shared sitemap removal is delegated to the normal sitemap regeneration and was not edited in this workstream. |
+
+Accepted in closure pass: **22/22**. Previously accepted month and Grand Palace routes: **13/13**. Manual-review family remaining: **0**.
+
+## Final targeted verification
+
+- Runtime probe, 2026-08-01: 21 retained routes returned HTTP 200; `/social/` returned permanent 308.
+- Every retained route rendered exactly one H1, a canonical, at least two hreflang links and JSON-LD. All 21 matched the premium design signature.
+- Four new decision owners each rendered 200, one H1, four JSON-LD blocks and an explicit `data-manual-owner`.
+- Targeted ESLint across all edited owners: **0 errors**; two pre-existing warnings remain in the legacy data loader of `best-places-to-visit-thailand.tsx`.
+- Full `tsc --noEmit --pretty false --incremental false`: **pass** in 117 seconds. A production build remains a parent/global gate.
+- No shared ledger, route inventory, sitemap or `tsconfig.tsbuildinfo` was intentionally edited by this workstream.

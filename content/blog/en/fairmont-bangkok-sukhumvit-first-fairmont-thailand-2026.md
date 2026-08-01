@@ -9,6 +9,7 @@ category: "news"
 image: "/images/redesign/editorial/fairmont-bangkok-sukhumvit-first-fairmont-thailand-2026-hero.webp"
 tags: ["thailand", "bangkok", "hotels", "luxury", "mice"]
 summary: "Thailand's first-ever Fairmont hotel is set to open in June 2026 on Sukhumvit Road, bringing 419 rooms, eight dining venues, and Bangkok's first fully integrated luxury MICE hotel."
+description: "Review the announced Fairmont Bangkok Sukhumvit opening and verify the property's current opening status, room inventory and live rates before booking."
 sources:
   - "https://all.accor.com/hotel/C1G0/index.en.shtml"
   - "https://www.hospitalitynet.org/announcement/41013789.html"

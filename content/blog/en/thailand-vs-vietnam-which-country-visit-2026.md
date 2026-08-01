@@ -20,7 +20,7 @@ sources:
     url: "https://www.numbeo.com/cost-of-living/compare_countries.jsp?country1=Thailand&country2=Vietnam"
 ---
 
-Standing at the crossroads of Southeast Asia's two most visited countries, thousands of travelers face the same question every year: **Thailand vs Vietnam—which destination deserves your time and budget in 2026?** Both nations offer stunning beaches, ancient temples, world-class street food, and backpacker-friendly prices, yet they deliver fundamentally different experiences. After three years living in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), island-hopping Thailand's south, and extensive travels through Vietnam's north and coast, our team can help you make the right choice.
+Standing at the crossroads of Southeast Asia's two most visited countries, thousands of travelers face the same question every year: **Thailand vs Vietnam—which destination deserves your time and budget in 2026?** Both nations offer stunning beaches, ancient temples, world-class street food, and backpacker-friendly prices, yet they deliver fundamentally different experiences.
 
 ## Key Takeaways
 
@@ -42,7 +42,7 @@ The price difference between **Thailand vs Vietnam** is one of the most signific
 
 ### Daily Budget Breakdown
 
-When we visited Hanoi and Ho Chi Minh City, we found street meals for ₫30,000–50,000 (USD 1.20–2), while Bangkok's street food averages ฿40–80 (USD 1.10–2.20). The gap widens with accommodation: a decent guesthouse in Hanoi costs ₫200,000–300,000 (USD 8–12) per night, whereas a similar room in [Bangkok](https://go2-thailand.com/city/bangkok/) runs ฿600–1,000 (USD 17–28).
+The gap widens with accommodation: a decent guesthouse in Hanoi costs ₫200,000–300,000 (USD 8–12) per night, whereas a similar room in [Bangkok](https://go2-thailand.com/city/bangkok/) runs ฿600–1,000 (USD 17–28).
 
 For a detailed breakdown, see our [Thailand budget guide for 2026](/thailand-index/budget/). **Thailand Budget Estimate (per person, mid-range traveler):**
 - Accommodation: ฿400–700/night (USD 11–19)
@@ -62,22 +62,6 @@ For a detailed breakdown, see our [Thailand budget guide for 2026](/thailand-ind
 
 Vietnam's advantage is most dramatic in food, local transport, and budget accommodation. A bowl of pho in Hanoi costs ₫30,000–40,000 (USD 1.20–1.60), while a similar meal in Thailand runs ฿50–80 (USD 1.40–2.20). Overnight buses and trains in Vietnam are considerably cheaper than Thai equivalents.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ### Where Thailand Offers Better Value
 
@@ -91,7 +75,7 @@ Both countries have distinct seasons, but 2026 offers excellent windows for trav
 
 ### Thailand's Ideal Season
 
-**Thailand's cool and dry season runs November through February**—the absolute peak for tourism. During our November visit to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), temperatures hovered around 20–25°C (68–77°F) in the north, with clear skies and zero rain. Southern islands like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) are equally perfect, with calm seas ideal for diving and [snorkeling](https://klook.tpo.lv/7Dt6WApj).
+**Thailand's cool and dry season runs November through February**—the absolute peak for tourism. Southern islands like [Koh Samui](https://go2-thailand.com/islands/koh-samui/) and [Phuket](https://go2-thailand.com/city/phuket/) are equally perfect, with calm seas ideal for diving and [snorkeling](https://klook.tpo.lv/7Dt6WApj).
 
 March through May brings intense heat (35–40°C / 95–104°F) and the start of the rainy season in May. September and October are the wettest months, though prices drop significantly and crowds vanish. Our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) covers this in more detail.
 
@@ -109,22 +93,6 @@ May through September is Vietnam's monsoon season—hot, humid, and rainy, thoug
 
 For 2026, **November through January is optimal for both countries**. If you're choosing between them, consider combining both: spend 10 days in Thailand (Bangkok, islands, or north), then fly to Vietnam for 10–12 days (Hanoi, Ha Long Bay, Ho Chi Minh City). Direct flights between Bangkok and Hanoi/HCMC cost ฿2,000–4,000 (USD 55–110) on budget carriers.
 
-<div data-widget="[12go](https://12go.tpo.lv/tNA80urD)" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -133,24 +101,6 @@ For 2026, **November through January is optimal for both countries**. If you're 
 Both countries have straightforward visa policies for most Western travelers, but the processes differ.
 
 ### Thailand's Visa Options
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 Thailand offers **visa-free entry for 60 days** for most Western nationalities — see our full [Thailand visa guide 2026](/visa/) for all options (US, UK, EU, Australia, Canada). You simply arrive, complete the [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) online 3 days before arrival, and receive a stamp at immigration—no paperwork required.
@@ -209,7 +159,7 @@ Both countries are world-renowned for street food, but the culinary philosophies
 
 ### Thailand's Food Scene
 
-Thai cuisine emphasizes **balance: sweet, sour, salty, and spicy in every dish**. [Pad Thai](https://go2-thailand.com/food/pad-thai/), [green curry](https://go2-thailand.com/food/green-curry/), and [tom yum goong](/food/tom-yum-goong/) are iconic, but the real magic happens in neighborhood markets. When we explored Bangkok's Talad Noi market at dawn, we found fresh [pad krapow moo](https://go2-thailand.com/food/pad-krapow/) (basil pork) for ฿40 (USD 1.10) and steaming bowls of [larb](https://go2-thailand.com/food/larb/) for ฿50 (USD 1.40).
+Thai cuisine emphasizes **balance: sweet, sour, salty, and spicy in every dish**. [Pad Thai](https://go2-thailand.com/food/pad-thai/), [green curry](https://go2-thailand.com/food/green-curry/), and [tom yum goong](/food/tom-yum-goong/) are iconic, but the real magic happens in neighborhood markets.
 
 **Street food costs in Thailand:**
 - Noodle or rice dishes: ฿30–60 (USD 0.85–1.65)
@@ -231,22 +181,6 @@ Vietnamese cuisine is **lighter, fresher, and herb-forward**, with an emphasis o
 
 **Vietnam's food is slightly cheaper and more adventurous** (think street-side snail soup, frog, and exotic meats). **Thailand's food is more refined and accessible** to Western palates. For serious food lovers, Vietnam offers more authentic street-level experiences; for comfort and familiarity, Thailand is safer.
 
-<div data-widget="klook" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -255,24 +189,6 @@ Vietnamese cuisine is **lighter, fresher, and herb-forward**, with an emphasis o
 Both countries boast spectacular coastlines, but the quality and accessibility differ.
 
 ### Thailand's Island Paradise
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 Thailand's islands are **world-class and well-developed**. [Koh Samui](https://go2-thailand.com/islands/koh-samui/) offers luxury resorts and nightlife; [Koh Tao](https://go2-thailand.com/islands/koh-tao/) is the diving capital; [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) delivers dramatic limestone cliffs and turquoise water. See our full [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) for itinerary ideas. The southern islands have calm, warm water year-round (except May–October monsoon season).
@@ -311,7 +227,7 @@ Both countries offer rich cultural experiences, but in different flavors.
 
 Thailand is **deeply Buddhist**, and temples (wats) are central to daily life and tourism. [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) alone has over 300 temples; visiting them is free or costs ฿20–50 (USD 0.55–1.40) for donations. The experience is meditative and accessible—monks are welcoming, and visitors can participate in morning alms-giving ceremonies.
 
-When we spent time in Chiang Mai's Old City, we woke at 5 AM to watch saffron-robed monks collect alms in silent processions. It's a spiritual experience that's deeply woven into daily life, not staged for tourists.
+It's a spiritual experience that's deeply woven into daily life, not staged for tourists.
 
 **Key cultural experiences in Thailand:**
 - **Wat Phra Singh, Chiang Mai**: Ancient temple, peaceful atmosphere, free entry
@@ -368,22 +284,6 @@ Vietnam is **safe for tourists**, but hazards are more pronounced:
 
 **Thailand is marginally safer**, particularly regarding traffic and healthcare quality. Both countries require common sense: avoid displaying expensive items, use registered taxis or apps, and be cautious with street food. Neither country is dangerous for tourists who follow basic precautions.
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -392,24 +292,6 @@ Vietnam is **safe for tourists**, but hazards are more pronounced:
 Accommodation quality varies significantly between the two countries at the same price point.
 
 ### Thailand's Accommodation Landscape
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 Thailand's accommodation is **well-developed and reliable**. A budget guesthouse in Bangkok costs ฿300–500 (USD 8–14) and is usually clean, with private bathroom and fan or AC. Mid-range hotels (฿600–1,200 / USD 17–33) offer air-con, hot water, and decent amenities.
@@ -438,22 +320,6 @@ In quieter towns like Hoi An or Sapa, prices are noticeably lower. Phu Quoc Isla
 
 **Thailand's accommodation is higher quality at the same price point.** Mid-range Thai hotels are newer, cleaner, and better-maintained than Vietnamese equivalents. If comfort matters, Thailand is the better choice. If budget is paramount, Vietnam offers rock-bottom prices.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">[Rent a Car](https://booking.tpo.lv/Nmm5XgwI) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ---
 
@@ -541,16 +407,3 @@ Both are world-class. **Vietnam's food is cheaper and more adventurous**; **Thai
 If you're bringing the family, see our [Thailand with kids guide](/blog/thailand-with-kids-family-travel-guide/) for tips on child-friendly activities and accommodation. For detailed planning, explore our [Thailand travel guides](https://go2-thailand.com/travel-guides/) and [itineraries](https://go2-thailand.com/itineraries/) to customize your perfect trip. Whether you choose Thailand, Vietnam, or both, Southeast Asia in 2026 awaits.
 
 **Ready to book your adventure?** Start with flights, accommodation, and activities using the tools below—and don't forget to complete your [Thailand Digital Arrival Card](https://tdac.immigration.go.th/arrival-card/#/home) at least 3 days before arrival.
-
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>

@@ -57,6 +57,8 @@
     "seo:verify:nl-editorial:accepted": "tsx scripts/verify-nl-editorial-family.ts --accepted-only",
     "seo:verify:nl-editorial-assets": "tsx scripts/verify-nl-editorial-assets.ts",
     "seo:audit:nl-editorial-risk": "tsx scripts/audit-nl-editorial-content-risk.ts",
+    "seo:audit:en-editorial-risk": "tsx scripts/audit-en-editorial-content-risk.ts",
+    "seo:cleanup:en-editorial-widgets": "tsx scripts/cleanup-en-editorial-widgets.ts",
     "seo:audit:nl-sitewide": "tsx scripts/audit-nl-sitewide.ts",
     "seo:audit:en-sitewide": "tsx scripts/audit-en-sitewide.ts",
     "seo:audit:design-coverage": "tsx scripts/audit-design-coverage.ts",

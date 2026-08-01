@@ -7,6 +7,7 @@ import { useMemo } from 'react';
 import type { ThailandIndex, BilingualText } from '../../lib/thailand-index';
 import { RankingCard, TableOfContents, TransportTable } from '../../components/index';
 import type { TocItem } from '../../components/index';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 
 interface TransportPageProps {
   data: ThailandIndex;
@@ -127,6 +128,7 @@ export default function TransportPage({ data }: TransportPageProps) {
     })),
   };
 
+  if (locale !== 'nl') return <StaticTravelGuideOwnerEn owner="transport" />;
   return (
     <>
       <SEOHead

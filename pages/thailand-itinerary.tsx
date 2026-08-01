@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
+import { StaticTravelGuideOwnerEn } from '../components/travel/StaticTravelGuideOwnerEn';
 
 interface ItineraryItem {
   slug: string;
@@ -60,6 +61,7 @@ function getFaqJsonLd(locale: string) {
 export default function ThailandItineraryPage({ itineraries }: PageProps) {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+  if (!isNl) return <StaticTravelGuideOwnerEn owner="itinerary" />;
 
   const dur = isNl ? durations.nl : durations.en;
   const faq = isNl ? faqItems.nl : faqItems.en;
@@ -228,7 +230,8 @@ export default function ThailandItineraryPage({ itineraries }: PageProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  if (locale !== 'nl') return { props: { itineraries: [] }, revalidate: 604800 };
 
   let itineraries: ItineraryItem[] = [];
   try {

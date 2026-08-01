@@ -9,6 +9,7 @@ import { useT } from '../lib/i18n';
 import { strings as i18nStrings } from '../lib/i18n/best-muay-thai-in-thailand';
 import NlTopicalManualGuide from '../components/editorial/NlTopicalManualGuide';
 import { nlTopicalManualGuides } from '../data/editorial/nl-topical-manual';
+import { ManualDecisionGuideEn, muayThaiGuideEn } from '../components/editorial/ManualDecisionGuideEn';
 
 interface MuayThaiActivity {
   name: string;
@@ -77,6 +78,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
   if (isNl) return <NlTopicalManualGuide data={nlTopicalManualGuides['best-muay-thai-in-thailand']} />;
+  if (!isNl) return <ManualDecisionGuideEn config={muayThaiGuideEn} />;
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: isNl ? 'Beste Muay Thai in Thailand' : 'Best Muay Thai in Thailand', href: '/best-muay-thai-in-thailand/' }

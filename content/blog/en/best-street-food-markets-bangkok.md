@@ -22,7 +22,7 @@ sources:
     url: "https://www.bangkokfoodguide.com/"
 ---
 
-After three years navigating the steaming alleyways and neon-lit stalls of **Bangkok street food markets**, we've learned that the city's soul isn't found in its temples or shopping malls—it's in the sizzle of a wok at midnight and the chatter of vendors who've worked the same corner for decades. **Bangkok's street food scene** is where locals eat, where prices stay honest, and where some of Thailand's most authentic flavors come alive after dark. If you're new to [Thai cuisine and want to understand its regional diversity](/travel-guides/thai-cuisine-food-guide), Bangkok's markets are the perfect classroom. First-timers should also check our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) for tips on what to order and how to navigate stalls.
+**Bangkok's street food scene** is where locals eat, where prices stay honest, and where some of Thailand's most authentic flavors come alive after dark. If you're new to [Thai cuisine and want to understand its regional diversity](/travel-guides/thai-cuisine-food-guide), Bangkok's markets are the perfect classroom. First-timers should also check our [Bangkok street food for beginners guide](/blog/best-street-food-markets-bangkok/) for tips on what to order and how to navigate stalls.
 
 ## Key Takeaways
 
@@ -44,7 +44,7 @@ The market operates primarily in the evening (around 5 PM until midnight), and t
 
 ### What to Eat at Yaowarat
 
-**Seafood dominates here**, and for good reason. The stalls closest to Soi Nana (the main alley) specialize in grilled prawns, squid, and fish, cooked over charcoal and served with chili dipping sauces that range from mild to face-melting. One vendor we visited regularly—a woman named Porn who's worked the same corner for 28 years—grills her prawns with just salt and a squeeze of lime, letting the quality of the seafood speak for itself. Expect to pay 150–250 THB for a plate of grilled prawns.
+**Seafood dominates here**, and for good reason. The stalls closest to Soi Nana (the main alley) specialize in grilled prawns, squid, and fish, cooked over charcoal and served with chili dipping sauces that range from mild to face-melting. Expect to pay 150–250 THB for a plate of grilled prawns.
 
 **Boat noodles** (rad kaeng) are another Yaowarat specialty. These are served in small bowls with a rich, dark broth (made from pork or beef), thin noodles, and topped with crispy pork, liver, and fresh herbs. The name comes from the vendors who once sold them from boats in Bangkok's canals. A bowl costs around 40–60 THB and is meant to be eaten quickly, standing or perched on a stool.
 
@@ -56,22 +56,6 @@ The market operates primarily in the evening (around 5 PM until midnight), and t
 - **Follow the locals**—if a stall has a line of Thai people, it's worth the wait
 - **Wear comfortable shoes**—you'll be standing and walking for hours on uneven pavement
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 2. Chatuchak Weekend Market: The Sprawling Food Paradise
 
@@ -81,7 +65,7 @@ The market operates Saturdays and Sundays from 9 AM to 6 PM, and the food vendor
 
 ### Regional Thai Dishes at Chatuchak
 
-During our explorations, we discovered stalls representing every corner of Thailand. **Isaan (northeastern) cuisine** dominates certain sections, with vendors selling [som tam](/food/som-tam/) (spicy papaya salad), [larb](/food/larb/) (minced meat salad), and sticky rice. A plate of larb with sticky rice costs around 50–80 THB. **Northern Thai specialties** like [khao soi](/blog/khao-soi-chiang-mai-guide/) (curry noodles) and [sai ua](/food/sai-ua/) (northern sausage) appear in other clusters, while **southern dishes** like [massaman curry](/food/massaman-curry/) and roti (Thai crepes) are equally represented.
+**Isaan (northeastern) cuisine** dominates certain sections, with vendors selling [som tam](/food/som-tam/) (spicy papaya salad), [larb](/food/larb/) (minced meat salad), and sticky rice. A plate of larb with sticky rice costs around 50–80 THB. **Northern Thai specialties** like [khao soi](/blog/khao-soi-chiang-mai-guide/) (curry noodles) and [sai ua](/food/sai-ua/) (northern sausage) appear in other clusters, while **southern dishes** like [massaman curry](/food/massaman-curry/) and roti (Thai crepes) are equally represented.
 
 One stall we returned to multiple times sold **mango sticky rice**—the dessert that defines Thai sweets. The vendor, an elderly man from Rayong province, used Nam Doc Mai mangoes (the premium variety) and made his sticky rice fresh daily. At 60 THB per serving, it was worth every baht.
 
@@ -93,22 +77,6 @@ One stall we returned to multiple times sold **mango sticky rice**—the dessert
 - **Bring a small backpack**—you'll want your hands free for eating and navigating
 - **The BTS Skytrain Mo Chit station** is directly adjacent; avoid driving if possible due to parking chaos
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 3. Or Tor Kor Market: The Upscale Farmers' Market
 
@@ -117,24 +85,6 @@ If Yaowarat and Chatuchak represent Bangkok's chaotic, authentic street food ene
 Or Tor Kor operates daily from early morning (around 5 AM) until early evening (around 6 PM), with the best selection available mid-morning. The market is famous for its produce—the mangoes, durians, and tropical fruits are among Thailand's finest—but the prepared food section is where visitors find some of Bangkok's best street food at a slightly higher price point.
 
 ### Premium Street Food at Or Tor Kor
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Prepared curries and stir-fries** are sold in individual portions, allowing you to sample multiple dishes without committing to a full meal. We tried a green curry (gaeng keow wan) from one vendor that was noticeably fresher and more vibrant than typical street versions—the herbs were aromatic, the coconut milk rich and balanced. A container costs around 80–120 THB.
@@ -159,7 +109,7 @@ Or Tor Kor operates daily from early morning (around 5 AM) until early evening (
 
 Talad Rot Fai, or the Train Market, occupies a [railway](https://trip.tpo.lv/gNIdNBmi) siding in the Ratchada district and operates primarily on weekends (Friday evenings and Saturday–Sunday). The name comes from its location along an old railway line, and the market has a distinctly retro, bohemian atmosphere compared to other Bangkok markets. The food here is eclectic—vintage Thai classics sit alongside modern fusion dishes and international street food.
 
-When we visited on a Friday night, the market felt like a time warp: vintage clothing stalls, antique furniture, and food vendors creating an atmosphere that's part night market, part flea market, part music festival. The crowd skews younger and more international than Yaowarat, but the food remains authentically Thai.
+The crowd skews younger and more international than Yaowarat, but the food remains authentically Thai.
 
 ### Food Highlights at Talad Rot Fai
 
@@ -191,7 +141,7 @@ When we visited on a Friday night, the market felt like a time warp: vintage clo
 
 Beyond the major markets, **Bangkok's most authentic street food** happens in narrow alleys and side streets where vendors set up temporary stalls each evening. These aren't organized markets with official names—they're organic food ecosystems that have evolved over decades. Soi 38 (off Sukhumvit Road) and Soi Cowboy are two of the most famous, but dozens of similar alleyways exist throughout Bangkok.
 
-Soi 38 is particularly special. The alley is lined with plastic stools and low tables, and vendors arrive around 5 PM to set up grills, woks, and drink stations. The food here is unapologetically local—you won't find many concessions to tourist palates. During our time in Bangkok, we ate at Soi 38 at least twice a week, and we never had the same meal twice.
+Soi 38 is particularly special. The alley is lined with plastic stools and low tables, and vendors arrive around 5 PM to set up grills, woks, and drink stations. The food here is unapologetically local—you won't find many concessions to tourist palates.
 
 ### What Makes These Alleys Special
 
@@ -210,46 +160,12 @@ Soi 38 is particularly special. The alley is lined with plastic stools and low t
 - **Soi Rambuttri (Old City):** Near the Grand Palace; mix of tourist and local food stalls in a charming alley
 - **Soi Nana (Yaowarat):** The main alley branching off Yaowarat Road; seafood and boat noodles dominate
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 6. Understanding Thai Street Food Culture and Ordering Like a Local
 
 To truly enjoy Bangkok's street food markets, you need to understand the culture and etiquette. Thai street food isn't just about eating—it's a social ritual with unwritten rules that, once understood, deepen your experience immensely.
 
 ### The Language of Ordering
-
-
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 Most street food vendors speak minimal English, but ordering is straightforward once you learn a few phrases. Point to what you want and say "nit noi" (a little) or "yai" (big) to indicate portion size. For spice level, use your fingers: one finger = mild, two fingers = medium, three fingers = hot, and four fingers = Thai hot (which can be genuinely dangerous if you're not accustomed to it).
@@ -303,26 +219,10 @@ The **rainy season (May to October)** brings afternoon downpours that can disrup
 - **Talad Rot Fai:** Peak after 8 PM on weekends; Friday nights less crowded than Saturday–Sunday
 - **Soi 38 and hidden alleys:** Peak between 7 PM–9 PM; quieter after 10 PM
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">[Stay Connected](https://saily.tpo.lv/rf9lidnE) in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 9. Food Safety and Health Considerations
 
-A common concern for visitors is food safety at street food markets. In our experience, **Bangkok's established street food vendors maintain high hygiene standards**—they have reputations to protect and regular customers to satisfy. That said, a few precautions are wise:
+A common concern for visitors is food safety at street food markets. That said, a few precautions are wise:
 
 **Eat where there's high turnover.** If a stall is constantly cooking and serving, ingredients are fresh and dishes aren't sitting around. Avoid stalls that appear to have prepared food sitting for extended periods.
 
@@ -337,24 +237,6 @@ A common concern for visitors is food safety at street food markets. In our expe
 In our three years in Bangkok, neither our team nor any of our regular food-exploring friends experienced serious food-related illness from street food. The risk is genuinely low if you use common sense. For broader health and safety advice, read our [scams and safety guide for Thailand](/practical-info/scams-safety/).
 
 ## 10. Combining Markets: A Perfect Bangkok Food Day
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 To maximize your street food experience, consider combining multiple markets in a single day. Here's how we structure a perfect Bangkok food day:
@@ -413,7 +295,6 @@ Start with [our Bangkok food guide](/city/bangkok/food/) to understand the broad
 
 For more detailed planning, use our [Bangkok attractions guide](/city/bangkok/attractions/) and [Bangkok weather guide](/city/bangkok/weather/) to coordinate market time with the rest of the city. If you want to learn to cook what you eat at the markets, the [Blue Elephant Cooking School Bangkok review](/blog/blue-elephant-cooking-school-bangkok-review/) covers that specific class. Budget-conscious travellers can also open our [Thailand budget food guide](/blog/eat-like-local-thailand-under-5-dollars/).
 
-**Trust us: the memories you'll create—and the flavors you'll discover—are worth every step.**
 
 ---
 

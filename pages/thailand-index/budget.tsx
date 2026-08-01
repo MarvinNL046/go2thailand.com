@@ -1,8 +1,8 @@
 import { useRouter } from 'next/router';
 import ThailandBudgetGuide from '../../components/budget/ThailandBudgetGuide';
-import ThailandBudgetGuideEn from '../../components/budget/ThailandBudgetGuideEn';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 
 export default function BudgetPage() {
   const { locale } = useRouter();
-  return locale === 'nl' ? <ThailandBudgetGuide /> : <ThailandBudgetGuideEn />;
+  return locale === 'nl' ? <ThailandBudgetGuide /> : <StaticTravelGuideOwnerEn owner="budget" />;
 }

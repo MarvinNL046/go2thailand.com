@@ -12,6 +12,7 @@ import {
 } from '../../components/index';
 import type { TocItem } from '../../components/index';
 import ThailandDecisionIndexNl from '../../components/editorial/ThailandDecisionIndexNl';
+import { StaticTravelGuideOwnerEn } from '../../components/travel/StaticTravelGuideOwnerEn';
 
 interface ThailandIndexPageProps {
   data: ThailandIndex | null;
@@ -110,6 +111,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
   if (isDutchLocale(locale)) return <ThailandDecisionIndexNl />;
+  return <StaticTravelGuideOwnerEn owner="index" />;
   if (!data) return null;
 
   const tocItems = lang === 'nl' ? tocItemsNl : tocItemsEn;
@@ -835,7 +837,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
 
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
   // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const data = locale === 'nl' ? null : require('../../data/thailand-index.json');
+  const data = locale === 'nl' ? null : null;
   return {
     props: { data },
     revalidate: 604800,

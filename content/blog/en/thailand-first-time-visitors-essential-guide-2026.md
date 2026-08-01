@@ -23,7 +23,7 @@ sources:
   - name: "The Roaming Renegades"
     url: "https://theroamingrenegades.com/thailand-travel-tips/"
 ---
-You're about to board a flight to one of Southeast Asia's most magical destinations—but you're not quite sure what to expect. **Thailand for first-time visitors** can feel overwhelming: the humidity, the traffic, the unfamiliar language, the street food that looks delicious but makes you nervous. After three years living in Chiang Mai and countless trips throughout the kingdom, our team has learned what separates a stressful first visit from an unforgettable one. Here are the 15 essential things every first-time visitor needs to know.
+You're about to board a flight to one of Southeast Asia's most magical destinations—but you're not quite sure what to expect. **Thailand for first-time visitors** can feel overwhelming: the humidity, the traffic, the unfamiliar language, the street food that looks delicious but makes you nervous. Here are the 15 essential things every first-time visitor needs to know.
 
 ## Key Takeaways
 
@@ -51,18 +51,6 @@ As of 2026, all arrivals must complete the **Thailand Digital Arrival Card** onl
 
 If you want to remain beyond the admitted-until date in your passport, an extension may be available as a separate Immigration application. Eligibility, documents and approval depend on the entry route; do not assume an extra 30 days or treat a currency conversion as a fixed current price. Use our [visa-extension guide](https://go2-thailand.com/visa/visa-extension/) before the stamped deadline. The separate 90-day-reporting duty applies to qualifying uninterrupted stays, not simply to every visitor planning a longer trip.
 
-<div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">✈️</span>
-        <strong style="font-size:18px;color:#1F2937;">Find Flights to Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Search and compare flights to Bangkok, Phuket, Chiang Mai and Koh Samui at the best prices.</p>
-      <a href="https://trip.tpo.lv/TmObooZ5" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#0284C7;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Flights on Trip.com →</a>
-    </div>
-  </div>
-</div></div>
 
 ## 2. The Weather Is Extreme—Plan Around Three Seasons
 
@@ -90,7 +78,7 @@ Thailand has three distinct seasons, and choosing the wrong one can ruin your tr
 
 ## 3. Your Money Goes Further Than You Think—But Budget Wisely
 
-Thailand is genuinely affordable, but "budget" means different things. During our time in [Chiang Mai](https://go2-thailand.com/city/chiang-mai/), we watched travelers spend 500 THB ($14 USD) per day on food and accommodation, while others dropped 5,000 THB ($143 USD) daily on luxury hotels and restaurants.
+Thailand is genuinely affordable, but "budget" means different things.
 
 ### Daily Budget Breakdown
 
@@ -118,46 +106,12 @@ Thailand is genuinely affordable, but "budget" means different things. During ou
 - **Currency exchange:** Airport rates are worse than city exchanges. Use ATMs or dedicated exchange booths (SuperRich, Bangkok Bank) for better rates.
 - **Tipping is not mandatory** but appreciated. Rounding up or leaving 5–10% at restaurants is common in tourist areas; street food vendors don't expect tips.
 
-<div data-widget="booking" style="margin:32px 0;"><div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 4. Thai Culture Demands Respect—Especially for the Monarchy
 
 Thailand's culture is warm and welcoming, but there are non-negotiable rules. The most important: **never disrespect the Thai monarchy.** This isn't just etiquette—it's law. Insulting the King, Queen, or royal family can result in up to 15 years imprisonment under Thailand's lèse-majesté laws. This includes social media posts and casual comments.
 
 ### Essential Cultural Dos and Don'ts
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🏨</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Your Stay</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare hotels, resorts, and guesthouses across Thailand with free cancellation on most bookings.</p>
-      <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Search Hotels on Booking.com →</a>
-    </div>
-    <a href="https://booking.tpo.lv/2PT1kR82" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Book Your Stay" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Do:**
@@ -174,7 +128,7 @@ Thailand's culture is warm and welcoming, but there are non-negotiable rules. Th
 - Display affection publicly (holding hands is okay; kissing is not)
 - Bargain aggressively or show frustration with vendors
 
-During our first week in Thailand, we accidentally pointed our feet at a Buddha statue while sitting. A local gently repositioned us—this kind of patient correction is typical. Thais understand tourists make mistakes and are forgiving if you show genuine respect.
+A local gently repositioned us—this kind of patient correction is typical. Thais understand tourists make mistakes and are forgiving if you show genuine respect.
 
 Learn more about [Thai etiquette and culture](https://go2-thailand.com/practical-info/etiquette-culture/) before you go.
 
@@ -202,22 +156,6 @@ One of Thailand's greatest joys is eating from street stalls for 40–100 THB ($
 | **Salads (som tam)** | ⭐⭐⭐ | Busy stalls only |
 | **Pre-made desserts** | ⭐⭐⭐ | Avoid unless freshly made |
 
-<div data-widget="[klook](https://klook.tpo.lv/7Dt6WApj)" style="margin:32px 0;"><div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 6. Transportation Is Cheap and Efficient—If You Know the System
 
@@ -239,26 +177,10 @@ Getting around Thailand is straightforward once you understand the options. We'v
 
 **Ferries:** Essential for island hopping. Prices vary: Bangkok to [Koh Samui](https://go2-thailand.com/islands/koh-samui/) takes 5–8 hours and costs 500–1,500 THB.
 
-<div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚌</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Transport in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Book buses, trains, ferries, and transfers between Thai cities easily online. Compare routes and prices.</p>
-      <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#D97706;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Book Transport on 12Go →</a>
-    </div>
-    <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-12go.jpeg" alt="Scan to visit Book Transport in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #F59E0B33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 7. Scams Exist—But They're Predictable and Avoidable
 
-Thailand has a reputation for scams, but in our experience, they're easily avoided if you know what to watch for. We've never been scammed because we follow simple rules.
+We've never been scammed because we follow simple rules.
 
 ### Common Scams and How to Avoid Them
 
@@ -287,24 +209,6 @@ Staying connected in Thailand is effortless. Unlike some Southeast Asian countri
 ### [Mobile Data](https://saily.tpo.lv/rf9lidnE) Options
 
 
-<div data-widget-fallback style="background:#F0FDF4;border-left:4px solid #22C55E;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🎒</span>
-        <strong style="font-size:18px;color:#1F2937;">Book Tours & Activities</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Skip the hassle — book Thailand day trips, cooking classes, and experiences in advance with instant confirmation.</p>
-      <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#16A34A;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Activities on Klook →</a>
-    </div>
-    <a href="https://klook.tpo.lv/7Dt6WApj" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-klook.jpeg" alt="Scan to visit Book Tours & Activities" style="width:72px;height:72px;border-radius:8px;border:1px solid #22C55E33;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
-
-
 **Local SIM cards:** Buy at the airport or any 7-Eleven. AIS, Dtac, and True Move are the main providers. A 7-day unlimited data plan costs 200–300 THB ($6–9 USD). Activation takes 5 minutes; you'll need your passport.
 
 **eSIM:** If your phone supports eSIM, this is the easiest option. Activate before arrival through providers like [Saily](https://saily.tpo.lv/rf9lidnE) or Airalo. Costs vary but typically 200–500 THB for 7–14 days of data.
@@ -318,22 +222,6 @@ Staying connected in Thailand is effortless. Unlike some Southeast Asian countri
 - **No roaming charges:** Once you have a local SIM, you're not paying international rates
 - **Coverage is excellent:** Even in rural areas, you'll have 4G; mountains and islands may have spotty service
 
-<div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">📱</span>
-        <strong style="font-size:18px;color:#1F2937;">Stay Connected in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Get a Thailand eSIM before you land. No physical SIM needed — activate instantly on your phone.</p>
-      <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#9333EA;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Get Saily eSIM for Thailand →</a>
-    </div>
-    <a href="https://saily.tpo.lv/rf9lidnE" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-saily-1.jpeg" alt="Scan to visit Stay Connected in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #A855F733;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 9. Book Accommodation Early in Peak Season—But Flexibility Pays Off
 
@@ -377,7 +265,7 @@ Download a translation app (Google Translate works well offline) as backup. Most
 
 ## 11. Respect the Beaches and Marine Life—Overtourism Is Real
 
-Thailand's beaches are stunning, but they're fragile. We've watched [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) transform from pristine to overcrowded in a decade. Responsible tourism matters.
+Thailand's beaches are stunning, but they're fragile. Responsible tourism matters.
 
 ### Beach Etiquette
 
@@ -389,22 +277,6 @@ Thailand's beaches are stunning, but they're fragile. We've watched [Koh Phi Phi
 
 Consider visiting less-touristy islands like [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) or [Koh Mak](https://go2-thailand.com/islands/koh-mak/) instead of overcrowded [Koh Samui](https://go2-thailand.com/islands/koh-samui/). You'll have better experiences and less environmental impact. Our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) has the best routes and planning tips.
 
-<div data-widget="getyourguide" style="margin:32px 0;"><div data-widget-fallback style="background:#FFF7ED;border-left:4px solid #F97316;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🗺️</span>
-        <strong style="font-size:18px;color:#1F2937;">Explore Thailand with a Guide</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Discover the best guided tours and activities in Bangkok, Chiang Mai, Phuket and beyond.</p>
-      <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#EA580C;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Browse Tours on GetYourGuide →</a>
-    </div>
-    <a href="https://getyourguide.tpo.lv/GuAFfGGK" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-gyg-1.jpeg" alt="Scan to visit Explore Thailand with a Guide" style="width:72px;height:72px;border-radius:8px;border:1px solid #F9731633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div></div>
 
 ## 12. Domestic Flights Are Affordable—But Buses Are an Experience
 
@@ -426,24 +298,6 @@ Flying domestically is tempting (Bangkok to Phuket: 1,000–2,000 THB), but over
 - Fast (1–2 hours)
 - Predictable arrival times
 - Less physically demanding
-
-
-<div data-widget-fallback style="background:#EFF6FF;border-left:4px solid #3B82F6;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-  <div style="display:flex;align-items:flex-start;gap:16px;">
-    <div style="flex:1;">
-      <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
-        <span style="font-size:28px;line-height:1;">🚗</span>
-        <strong style="font-size:18px;color:#1F2937;">Rent a Car in Thailand</strong>
-      </div>
-      <p style="color:#4B5563;margin:0 0 12px 0;font-size:15px;line-height:1.5;">Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.</p>
-      <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="display:inline-block;background:#2563EB;color:white;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:14px;">Compare Car Rentals →</a>
-    </div>
-    <a href="https://booking.tpo.lv/Nmm5XgwI" target="_blank" rel="noopener noreferrer sponsored" style="flex-shrink:0;text-align:center;text-decoration:none;">
-      <img src="/images/qrcodes/qrcode-booking.com.jpeg" alt="Scan to visit Rent a Car in Thailand" style="width:72px;height:72px;border-radius:8px;border:1px solid #3B82F633;" />
-      <span style="display:block;font-size:10px;color:#6B7280;margin-top:4px;">Scan me</span>
-    </a>
-  </div>
-</div>
 
 
 **Cons:**
