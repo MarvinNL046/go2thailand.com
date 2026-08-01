@@ -16,15 +16,29 @@ interface PageProps {
   cities: City[];
 }
 
-const regionOrder = ['Central Thailand', 'Northern Thailand', 'Southern Thailand', 'Eastern Thailand', 'Western Thailand', 'Other'];
+// `getAllCities()` stores the canonical short region keys. Keep the display
+// labels separate so the directory does not silently render an empty state
+// when the data uses `Central` instead of `Central Thailand`.
+const regionOrder = ['Central', 'Northern', 'Southern', 'Isaan', 'Eastern', 'Western', 'Other'];
 
 const regionNl: Record<string, string> = {
-  'Central Thailand': 'Centraal Thailand',
-  'Northern Thailand': 'Noord-Thailand',
-  'Southern Thailand': 'Zuid-Thailand',
-  'Eastern Thailand': 'Oost-Thailand',
-  'Western Thailand': 'West-Thailand',
+  Central: 'Centraal Thailand',
+  Northern: 'Noord-Thailand',
+  Southern: 'Zuid-Thailand',
+  Isaan: 'Isaan',
+  Eastern: 'Oost-Thailand',
+  Western: 'West-Thailand',
   'Other': 'Overig',
+};
+
+const regionEn: Record<string, string> = {
+  Central: 'Central Thailand',
+  Northern: 'Northern Thailand',
+  Southern: 'Southern Thailand',
+  Isaan: 'Isaan',
+  Eastern: 'Eastern Thailand',
+  Western: 'Western Thailand',
+  Other: 'Other',
 };
 
 export default function BestPlacesPage({ cities }: PageProps) {
@@ -99,7 +113,7 @@ export default function BestPlacesPage({ cities }: PageProps) {
           <div className="container-custom">
             {regionOrder.filter(r => byRegion[r]).map(region => (
               <div key={region} className="mb-12">
-                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{isNl ? regionNl[region] || region : region}</h2>
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{isNl ? regionNl[region] || region : regionEn[region] || region}</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                   {byRegion[region].map(city => (
                     <Link
