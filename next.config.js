@@ -822,6 +822,14 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // The redesigned Trat attraction owner already owns the mainland-versus-
+      // island decision. Retire the stale Koh Kood blog with frozen schedules.
+      {
+        source: "/nl/blog/koh-kood-quiet-island-guide-trat-2026/",
+        destination: "/nl/city/trat/attractions/",
+        permanent: true,
+        locale: false,
+      },
       // Old URL patterns
       {
         source: "/cities/:slug*/",

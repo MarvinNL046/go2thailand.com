@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "koh-kood-quiet-island-guide-trat-2026",
+  "route": "/nl/blog/koh-kood-quiet-island-guide-trat-2026/",
+  "cluster": "destination-guides",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koh Kood vanuit Trat: samengevoegde gids | Go2Thailand",
+    "description": "Deze oude Koh Kood-route is samengevoegd met de actuele Trat-keuzehulp voor vasteland, eilanden, pieren en actuele transfers.",
+    "primaryKeyword": "Koh Kood vanuit Trat archief",
+    "secondaryKeywords": ["Koh Kood Trat", "Trat eilanden", "Koh Kood transfer"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/koh-kood-quiet-island-guide-trat-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Archief · samengevoegde route",
+    "title": "Koh Kood vanuit Trat",
+    "accent": "Gebruik de actuele eilandkeuze",
+    "description": "De vernieuwde Trat-owner scheidt stad, vasteland, pieren en eilanden en voorkomt dat je een oude vaartijd als dienstregeling gebruikt.",
+    "image": "/images/redesign/editorial/koh-kood-quiet-island-guide-trat-2026-hero.webp",
+    "imageAlt": "Rustige tropische kust bij Koh Kood in de provincie Trat",
+    "primaryCta": { "label": "Bekijk de actuele keuzehulp", "href": "/nl/city/trat/attractions/" }
+  },
+  "layout": {
+    "kind": "evergreen-guide",
+    "decisionMode": "compare",
+    "heroVariant": "split",
+    "navigation": "anchors",
+    "density": "standard"
+  },
+  "quickAnswer": "Deze verouderde blogroute is geen zelfstandige Koh Kood-owner meer. Gebruik de actuele Trat-attractiepagina om vasteland, eiland en pierlogistiek uit elkaar te houden en controleer operatorinformatie live.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "samengevoegd",
+      "title": "Waarom de actuele owner sterker is",
+      "options": [
+        { "title": "Geografie", "description": "Trat-stad, vasteland, pieren en eilanden worden afzonderlijk behandeld.", "label": "Eerst kiezen" },
+        { "title": "Transfer", "description": "Koh Chang en Koh Kood of Koh Mak volgen niet blind dezelfde vertrekcorridor.", "label": "Pier controleren" },
+        { "title": "Actualiteit", "description": "Operator, weer, seizoen en voorwaarden worden niet als vaste evergreen-dienstregeling bevroren.", "label": "Live check" }
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "verder",
+      "tone": "jade",
+      "title": "Ga naar de onderhouden Trat-keuzehulp",
+      "description": "Daar vind je de actuele beslislaag voor vasteland, eilanden en de juiste piercorridor.",
+      "cta": { "label": "Bekijk bezienswaardigheden in Trat", "href": "/nl/city/trat/attractions/" }
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Is Trat opnieuw ontworpen?", "answer": "Nee. De bestaande Trat-bestemming en attractieowner blijven ongewijzigd; alleen deze dubbele blogroute is geconsolideerd." },
+        { "question": "Waarom staan hier geen vaartijden of prijzen?", "answer": "Die veranderen per operator, seizoen en datum. Controleer ze rechtstreeks voordat je boekt." },
+        { "question": "Waar begin ik mijn planning?", "answer": "Begin bij de Trat-attractiepagina en bevestig daarna eilandnaam, pier, operator en volledige transferketen." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Onderhouden bronnen",
+      "items": [
+        { "title": "Bezienswaardigheden in Trat", "publisher": "Go2Thailand", "url": "https://go2-thailand.com/nl/city/trat/attractions/", "checkedAt": "2026-08-01", "note": "Geaccepteerde NL-owner voor de keuze tussen stad, vasteland, kust en eilanden." },
+        { "title": "Trat", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Trat/466", "checkedAt": "2026-08-01", "note": "Officiële bestemmingscontext; geen vaste operatorregeling." }
+      ]
+    }
+  ]
+}
