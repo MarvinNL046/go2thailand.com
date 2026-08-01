@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Link from 'next/link';
 import {
   ArrowRight,
@@ -61,6 +60,8 @@ const bookingCards = [
 
 export function NlItineraryGuideTemplate({ guide }: Props) {
   const subId = useSubId();
+  const isIslandRoute = guide.slug === '3-days-islands';
+  const baseSummary = guide.bases.length === 1 ? 'Eén vaste basis' : `${guide.bases.length} vaste bases`;
   const pageUrl = `https://go2-thailand.com/nl/itineraries/${guide.slug}/`;
   const schemas = [
     {
@@ -118,7 +119,7 @@ export function NlItineraryGuideTemplate({ guide }: Props) {
         imageAlt={guide.heroAlt}
         breadcrumbs={[{ label: 'Thailand', href: '/' }, { label: 'Reisroutes', href: '/itineraries/' }, { label: guide.duration }]}
         eyebrow={guide.eyebrow}
-        title={<>{guide.heroTitle}<br /><span className="text-saffron-dark">{guide.heroAccent}.</span></>}
+        title={<>{guide.heroTitle}<br /> <span className="text-saffron-dark">{guide.heroAccent}.</span></>}
         subtitle={guide.subtitle}
         description={guide.intro}
         actions={[
@@ -126,6 +127,14 @@ export function NlItineraryGuideTemplate({ guide }: Props) {
           { label: 'Check actueel vervoer', href: withPlacementSubId(TWELVEGO_GENERIC, subId, `${guide.slug}-hero-transport`), kind: 'secondary', newTab: true, affiliate: true },
         ]}
         disclosure="De vervoerknop is een gesponsorde 12Go-link. Controleer actuele vertrekpunten, voorwaarden en de volledige aansluiting."
+        sideCard={<aside className="absolute bottom-8 right-[max(1.25rem,calc((100vw-1200px)/2))] hidden w-[290px] rounded-2xl border border-white/45 bg-white/88 p-5 text-jade shadow-[0_18px_50px_rgba(18,63,54,0.18)] backdrop-blur-md lg:block">
+          <p className="text-[9px] font-extrabold uppercase tracking-[.16em] text-saffron-dark">In één oogopslag</p>
+          <p className="mt-3 font-display text-[1.8rem] font-semibold leading-none">{guide.title}</p>
+          <div className="mt-5 grid grid-cols-3 gap-2 border-t border-jade/10 pt-4">
+            {[[guide.duration, 'duur'], [guide.network, 'kust'], [guide.moves, 'tempo']].map(([value, label]) => <div key={label}><p className="text-[9px] font-extrabold uppercase tracking-[.12em] text-charcoal/45">{label}</p><p className="mt-1 text-[11px] font-extrabold leading-4 text-jade">{value}</p></div>)}
+          </div>
+          <p className="mt-4 text-[11px] font-medium leading-5 text-charcoal/65">{baseSummary}, één hoofdkeuze per dag en ruimte om het plan aan te passen aan weer, energie en vervoer.</p>
+        </aside>}
         imageClassName="object-cover object-[68%_center]"
       />
 
@@ -152,7 +161,7 @@ export function NlItineraryGuideTemplate({ guide }: Props) {
               <p className="mt-7 text-[9px] font-extrabold uppercase tracking-[.14em] text-saffron-dark">{base.nights}</p>
               <h2 className="mt-2 font-display text-[2rem] font-semibold leading-none text-jade">{base.title}</h2>
               <p className="mt-4 text-xs font-medium leading-6 text-charcoal/65">{base.role}</p>
-              <span className="mt-auto inline-flex items-center gap-2 pt-5 text-xs font-extrabold text-jade">Open plaatscontext <ArrowRight size={14} className="text-saffron-dark transition group-hover:translate-x-1" /></span>
+              <span className="mt-auto inline-flex items-center gap-2 pt-5 text-xs font-extrabold text-jade">Bekijk de bestemming <ArrowRight size={14} className="text-saffron-dark transition group-hover:translate-x-1" /></span>
             </Link>)}
           </div>
         </div>
@@ -191,7 +200,7 @@ export function NlItineraryGuideTemplate({ guide }: Props) {
         </div>
       </section>
 
-      <FaqSplitSection id="vragen" eyebrow="Voor vertrek beslissen" title={`Vragen over ${guide.duration.toLowerCase()} Thailand`} description="De antwoorden bewaken routehaalbaarheid en verwijzen veranderlijke openingstijden, prijzen, documenten en condities bewust naar de actuele bron." items={guide.faqs} />
+      <FaqSplitSection id="vragen" eyebrow="Voor vertrek beslissen" title={isIslandRoute ? 'Vragen over drie dagen aan de Thaise kust' : `Vragen over ${guide.duration.toLowerCase()} Thailand`} description="De antwoorden bewaken routehaalbaarheid en verwijzen veranderlijke openingstijden, prijzen, documenten en condities bewust naar de actuele bron." items={guide.faqs} />
       <RelatedGuidesSection eyebrow="Maak de route van jou" title="Open de volgende beslislaag" guides={guide.related} />
       <SourceMethodSection title="Een routekader, geen dienstregeling" description="Deze gids is samengesteld uit Nederlands zoekintentieonderzoek, zichtbare Google-vragen, bestaande sitegegevens en primaire Thaise of Nederlandse bronnen. Controleer vlak voor vertrek actuele dienstregelingen, parkstatus, weer, zee en reisadvies." sources={[
         { title: 'Bestemmingen en actuele reiscontext', creator: 'Tourism Authority of Thailand', url: 'https://www.tourismthailand.org/Destinations', note: 'Officiële bestemming- en regiocontext als startpunt voor de route.' },
