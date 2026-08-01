@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tat-crisis-monitoring-centre-march-2026",
+  "route": "/nl/blog/thailand-tat-crisis-monitoring-centre-march-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "TAT-crisiscentrum maart 2026: archief | Go2Thailand", "description": "Archiefupdate over het TAT Tourism Crisis Monitoring Centre dat op 1 maart 2026 werd geactiveerd bij vluchtverstoringen.", "primaryKeyword": "TAT crisiscentrum maart 2026", "secondaryKeywords": ["Tourism Crisis Monitoring Centre", "vluchtverstoring Thailand"], "searchIntent": "informational", "canonicalPath": "/nl/blog/thailand-tat-crisis-monitoring-centre-march-2026/", "noindex": true },
+  "hero": { "eyebrow": "Archief · 1 maart 2026", "title": "TAT-crisiscentrum", "accent": "Context bij de activering", "description": "Een gedateerde operationele update, geen actuele waarschuwing.", "image": "/images/redesign/editorial/thailand-tat-crisis-monitoring-centre-march-2026-hero.webp", "imageAlt": "Rustige operationele werkruimte voor vluchtmonitoring in Thailand", "primaryCta": { "label": "Wat werd bevestigd?", "href": "#bevestigd" }, "secondaryCta": { "label": "Actuele stappen", "href": "#actueel" } },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "TAT activeerde het centrum op 1 maart 2026 voor een specifieke vluchtverstoringssituatie. Deze pagina bevestigt niet dat die activering vandaag nog geldt.",
+  "blocks": [
+    { "kind": "prose", "id": "bevestigd", "title": "Bevestigd op 1 maart", "markdown": "TAT coördineerde informatie en hulp met luchthavens, maatschappijen en instanties." },
+    { "kind": "checklist", "id": "actueel", "title": "Bij een actuele verstoring", "items": ["Controleer de maatschappij", "Bewaar berichten en bonnetjes", "Vraag schriftelijk naar opties", "Controleer polis en reisadvies"] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bron", "items": [{ "title": "TAT activates Tourism Crisis Monitoring Centre", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/03/tat-activates-tourism-crisis-monitoring-centre-in-response-to-middle-east-tensions/", "checkedAt": "2026-08-01" }] }
+  ]
+}

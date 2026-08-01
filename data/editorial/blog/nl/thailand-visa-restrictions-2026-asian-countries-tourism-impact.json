@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-visa-restrictions-2026-asian-countries-tourism-impact",
+  "route": "/nl/blog/thailand-visa-restrictions-2026-asian-countries-tourism-impact/",
+  "cluster": "policy",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Thailand visumwijzigingen 2026: status uitgelegd", "description": "Archiefuitleg bij Thaise visumvoorstellen uit 2026: aangekondigd is nog niet effectief. Controleer je situatie via officiële kanalen.", "primaryKeyword": "Thailand visumwijzigingen 2026", "secondaryKeywords": ["Thailand visumvrij 2026", "Thaise visumregels aangekondigd"], "searchIntent": "informational", "canonicalPath": "/nl/blog/thailand-visa-restrictions-2026-asian-countries-tourism-impact/", "noindex": true },
+  "hero": { "eyebrow": "Archief · beleidsstatus", "title": "Visumwijzigingen 2026", "accent": "Aangekondigd ≠ effectief", "description": "Controleer publicatie, ingangsdatum en jouw persoonlijke toelatingsgrond.", "image": "/images/redesign/editorial/thailand-visa-restrictions-2026-asian-countries-tourism-impact-hero.webp", "imageAlt": "Reiziger controleert officiële Thaise visuminformatie naast een paspoort", "primaryCta": { "label": "Begrijp de status", "href": "#status" }, "secondaryCta": { "label": "Naar visumgids", "href": "/nl/visa/" } },
+  "layout": { "kind": "policy-guide", "policyStatus": "announced", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Thaise kabinetsbesluiten uit mei en juli 2026 waren aankondigingen. De officiële berichten zeiden dat ontwerpen pas vijftien dagen na Royal Gazette-publicatie zouden gelden.",
+  "blocks": [
+    { "kind": "steps", "id": "status", "title": "Van besluit naar toepasbare regel", "steps": [{ "title": "Aangekondigd", "description": "Het kabinet keurt een beleidsontwerp goed." }, { "title": "Gepubliceerd", "description": "De juridische tekst verschijnt in de Royal Gazette." }, { "title": "Effectief", "description": "De ingangsdatum of wachttijd is verstreken." }, { "title": "Persoonlijk gecontroleerd", "description": "Paspoort, doel, duur en reisdatum passen binnen de definitieve regel." }] },
+    { "kind": "callout", "id": "redirect", "tone": "warning", "title": "Actuele informatie", "description": "Gebruik voor reisplanning /nl/visa/ en de officiële Thai e-Visa-portal; deze archiefroute hoort daarnaar te verwijzen." },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële bronnen", "items": [{ "title": "Cabinet Approves Revision", "publisher": "Thailand PRD", "url": "https://thailand.prd.go.th/en/content/category/detail/id/48/iid/504639", "checkedAt": "2026-08-01" }, { "title": "Thailand Revises Visa Policy", "publisher": "Thailand PRD", "url": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/522327", "checkedAt": "2026-08-01" }, { "title": "Thai e-Visa", "publisher": "Ministry of Foreign Affairs", "url": "https://www.thaievisa.go.th/", "checkedAt": "2026-08-01" }] }
+  ]
+}

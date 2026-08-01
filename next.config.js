@@ -409,6 +409,18 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/thailand-visa-restrictions-2026-asian-countries-tourism-impact/",
+        destination: "/nl/visa/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thainosaur-museum-bangkok-dinosaur-attraction-2026/",
+        destination: "/nl/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-tourism-festival-2026-zero-waste-sustainability-zone",
+  "route": "/nl/blog/thailand-tourism-festival-2026-zero-waste-sustainability-zone/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Thailand Tourism Festival 2026 Zero Waste | Archief", "description": "Terugblik op de duurzaamheidszone en Zero Waste to Landfills-aanpak van het Thailand Tourism Festival van 25–29 maart 2026.", "primaryKeyword": "Thailand Tourism Festival 2026 zero waste", "secondaryKeywords": ["Road to Sustainability Thailand", "duurzaam evenement Bangkok"], "searchIntent": "informational", "canonicalPath": "/nl/blog/thailand-tourism-festival-2026-zero-waste-sustainability-zone/", "noindex": true },
+  "hero": { "eyebrow": "Afgelopen · 25–29 maart", "title": "Zero Waste op TTF 2026", "accent": "Terugblik op de aanpak", "description": "Wat TAT aankondigde voor afvalscheiding en de Road to Sustainability-zone.", "image": "/images/redesign/editorial/thailand-tourism-festival-2026-zero-waste-sustainability-zone-hero.webp", "imageAlt": "Gescheiden afvalstations na een duurzaam evenement in Bangkok", "primaryCta": { "label": "Bekijk de aanpak", "href": "#aanpak" }, "secondaryCta": { "label": "Bron", "href": "#bronnen" } },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-03-25", "endsOn": "2026-03-29", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Het festival is afgelopen. TAT kondigde 14 tweetalige sorteerstations, vendorregels en materiaalterugwinning aan, maar publiceerde in de gebruikte bron geen onafhankelijke eindmeting.",
+  "blocks": [
+    { "kind": "card-grid", "id": "aanpak", "title": "Aangekondigde onderdelen", "cards": [{ "title": "14 sorteerstations", "description": "Tweetalige afvalpunten met begeleiding." }, { "title": "Vendorregels", "description": "Verkopers kregen richtlijnen voor scheiding." }, { "title": "Upcycling", "description": "Workshops en kunst maakten hergebruik zichtbaar." }] },
+    { "kind": "callout", "id": "bewijs", "tone": "cream", "title": "Doelstelling, geen eindmeting", "description": "Zero Waste to Landfills was de organisatorische aanpak; de bron rapporteert geen gecontroleerd eindresultaat." },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bron", "items": [{ "title": "Thailand Tourism Festival 2026", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/03/thailand-tourism-festival-2026-spotlights-5-must-do-in-thailand-and-honours-her-majesty-queen-sirikit-the-queen-mother/", "checkedAt": "2026-08-01" }] }
+  ]
+}

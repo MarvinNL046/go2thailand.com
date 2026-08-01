@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-star-green-tourism-accreditation-2026",
+  "route": "/nl/blog/thailand-star-green-tourism-accreditation-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "STAR Thailand: duurzame bedrijven controleren | Go2Thailand", "description": "Lees wat de TAT STAR-rating betekent, hoe je een deelnemer controleert en welke vragen je stelt over duurzaam toerisme in Thailand.", "primaryKeyword": "STAR Thailand", "secondaryKeywords": ["TAT STAR rating", "duurzaam toerisme Thailand", "duurzame accommodatie Thailand"], "searchIntent": "informational", "canonicalPath": "/nl/blog/thailand-star-green-tourism-accreditation-2026/" },
+  "hero": { "eyebrow": "Duurzaamheidscheck", "title": "STAR Thailand", "accent": "Van label naar bewijs", "description": "Gebruik het officiële register als startpunt en toets daarna wat een aanbieder concreet doet.", "image": "/images/redesign/editorial/thailand-star-green-tourism-accreditation-2026-hero.webp", "imageAlt": "Medewerkers van een Thaise accommodatie bespreken een duurzaamheidscontrole", "primaryCta": { "label": "Controleer STAR", "href": "#controleren" }, "secondaryCta": { "label": "Lees de bronnen", "href": "#bronnen" } },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "compare", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "STAR is TAT's Thaise duurzaamheidsrating van drie tot vijf sterren. Controleer een bedrijf in het officiële register en vraag daarna naar concrete, meetbare maatregelen.",
+  "blocks": [
+    { "kind": "steps", "id": "controleren", "title": "Een STAR-vermelding controleren", "steps": [{ "title": "Zoek officieel", "description": "Gebruik het deelnemersregister van TAT." }, { "title": "Vergelijk details", "description": "Controleer naam, provincie en bedrijfstype." }, { "title": "Vraag door", "description": "Laat het bedrijf concrete maatregelen en resultaten uitleggen." }] },
+    { "kind": "callout", "id": "nuance", "tone": "warning", "title": "Geen luxesterren", "description": "STAR-sterren beoordelen duurzaamheid binnen het TAT-kader en zijn geen hotelclassificatie." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Is STAR internationaal?", "answer": "Het is een programma van de Tourism Authority of Thailand." }, { "question": "Is ieder groen bedrijf vermeld?", "answer": "Nee. Afwezigheid is geen automatisch oordeel; controleer claims dan rechtstreeks." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire bronnen", "items": [{ "title": "Thailand drives journey to sustainable tourism leadership", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2025/10/thailand-drives-journey-to-sustainable-tourism-leadership/", "checkedAt": "2026-08-01" }, { "title": "STAR deelnemersregister", "publisher": "Tourism Authority of Thailand", "url": "https://www.tatstar.org/companies", "checkedAt": "2026-08-01" }] }
+  ]
+}

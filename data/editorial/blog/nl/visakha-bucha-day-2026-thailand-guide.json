@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "visakha-bucha-day-2026-thailand-guide",
+  "route": "/nl/blog/visakha-bucha-day-2026-thailand-guide/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Visakha Bucha 2026 Thailand: archiefgids | Go2Thailand", "description": "Visakha Bucha viel op 31 mei 2026. Lees de betekenis, praktische gevolgen en etiquette voor een respectvol tempelbezoek.", "primaryKeyword": "Visakha Bucha 2026 Thailand", "secondaryKeywords": ["Visakha Bucha betekenis", "boeddhistische feestdag Thailand"], "searchIntent": "informational", "canonicalPath": "/nl/blog/visakha-bucha-day-2026-thailand-guide/", "noindex": true },
+  "hero": { "eyebrow": "Verstreken · 31 mei 2026", "title": "Visakha Bucha", "accent": "Betekenis en respect", "description": "Een terugblik op de religieuze dag en praktische lessen voor een volgend bezoek.", "image": "/images/redesign/editorial/visakha-bucha-day-2026-thailand-guide-hero.webp", "imageAlt": "Rustige Thaise tempel bij kaarslicht na een Visakha Bucha-ceremonie", "primaryCta": { "label": "Lees de etiquette", "href": "#etiquette" }, "secondaryCta": { "label": "Datumstatus", "href": "#datum" } },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-05-31", "endsOn": "2026-05-31", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Visakha Bucha viel in 2026 op zondag 31 mei; 1 juni was een vervangende vrije dag voor financiële instellingen. Toekomstige data volgen de maankalender.",
+  "blocks": [
+    { "kind": "callout", "id": "datum", "tone": "cream", "title": "Datum verstreken", "description": "Neem 31 mei 2026 niet over voor een volgend jaar; controleer de nieuwe officiële kalender." },
+    { "kind": "checklist", "id": "etiquette", "title": "Respectvol deelnemen", "items": ["Schouders en knieën bedekt", "Telefoon stil", "Niet door een processie lopen", "Fotoregels volgen", "Geen gevangen dieren kopen om vrij te laten"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Was 1 juni ook Visakha Bucha?", "answer": "De religieuze dag was 31 mei; 1 juni was een vervangende vrije dag voor onder meer financiële instellingen." }, { "question": "Was alles gesloten?", "answer": "Nee. Roosters verschilden per organisatie en locatie." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële bronnen", "items": [{ "title": "Visakha Bucha Day 2026", "publisher": "Royal Thai Embassy Wellington", "url": "https://wellington.thaiembassy.org/th/content/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%9A%E0%B8%B9%E0%B8%8A%E0%B8%B2-visakha-bucha-day-2?cate=5d75e39215e39c06b8005478", "checkedAt": "2026-08-01" }, { "title": "Financial Institutions Holiday", "publisher": "Bank of Thailand", "url": "https://www.bot.or.th/en/financial-institutions-holiday.html", "checkedAt": "2026-08-01" }] }
+  ]
+}

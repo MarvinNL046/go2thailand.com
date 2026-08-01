@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-temple-etiquette-dress-code-guide-2026",
+  "route": "/nl/blog/thailand-temple-etiquette-dress-code-guide-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Tempel-etiquette Thailand: kleding en gedrag | Go2Thailand", "description": "Wat draag je in een Thaise tempel? Praktische regels voor kleding, schoenen, foto's, houding en omgang met monniken.", "primaryKeyword": "tempel etiquette Thailand", "secondaryKeywords": ["dresscode Thaise tempel", "Grand Palace dresscode", "tempel bezoeken Thailand"], "searchIntent": "informational", "canonicalPath": "/nl/blog/thailand-temple-etiquette-dress-code-guide-2026/" },
+  "hero": { "eyebrow": "Respectvol bezoeken", "title": "Tempel-etiquette", "accent": "Lokale regels gaan voor", "description": "Een praktische basis voor kleding, schoenen, fotografie en gedrag.", "image": "/images/redesign/editorial/thailand-temple-etiquette-dress-code-guide-2026-hero.webp", "imageAlt": "Respectvol geklede bezoekers zetten hun schoenen bij een Thaise tempel", "primaryCta": { "label": "Bekijk de checklist", "href": "#checklist" }, "secondaryCta": { "label": "Grand Palace", "href": "#verschillen" } },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "learn", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Bedek schouders en knieën, trek schoenen uit waar dat wordt gevraagd, houd voeten van religieuze objecten af en volg altijd de regels van de specifieke tempel.",
+  "blocks": [
+    { "kind": "checklist", "id": "checklist", "title": "Bij de ingang", "items": ["Schouders en knieën bedekt", "Telefoon stil en flits uit", "Schoenen uit waar aangegeven", "Niet aanraken of klimmen", "Lokale instructies volgen"] },
+    { "kind": "comparison", "id": "verschillen", "title": "Basis versus locatie", "options": [{ "title": "Gebruikelijke basis", "description": "Kleed je bedekt, controleer borden en vraag bij twijfel toestemming." }, { "title": "Locatieregel", "description": "Het Grand Palace publiceert een specifieke kledinglijst; andere tempels kunnen eigen foto- en toegangsregels hebben." }] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Is een sarong altijd genoeg?", "answer": "Nee. Een locatie kan eisen dat je kleding zelf aan de dresscode voldoet." }, { "question": "Mag ik monniken fotograferen?", "answer": "Alleen als fotografie is toegestaan en de persoon geen bezwaar heeft." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële regels", "items": [{ "title": "Practical Information and Dress Code", "publisher": "The Grand Palace", "url": "https://www.royalgrandpalace.th/en/visit/practical-information", "checkedAt": "2026-08-01" }] }
+  ]
+}
