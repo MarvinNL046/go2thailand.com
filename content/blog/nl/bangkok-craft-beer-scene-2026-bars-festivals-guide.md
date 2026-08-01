@@ -16,6 +16,8 @@ sources:
     url: "https://beerpeoplefest.com/"
   - name: "Beer People — organiser background"
     url: "https://beerpeoplefest.com/about-us/"
+  - name: "Thailand.go.th — alcohol sales and consumption rules"
+    url: "https://thailand.go.th/public/event-detail/alcohol-sales-and-consumption-rules-updated-in-thailand"
 ---
 
 **People Festival 2026 is voorbij:** de organisator dateerde het evenement op 6–8 maart bij ChangChui in Bangkok. De bredere craft-beerscene is geen eenmalig festival en blijft veranderen. Daarom staat hier geen kwetsbare “beste bars van 2026”-ranglijst, maar een methode om een actuele taproom, Thaise brouwer of nieuw evenement te vinden.
@@ -28,11 +30,17 @@ De [officiële Beer People-site](https://beerpeoplefest.com/) bevestigt dat Peop
 
 Het evenement blijft wel een bruikbaar voorbeeld van hoe breed de scene is: niet alleen bier, maar ook andere kleinschalige dranken, makers, eten, muziek en gesprekken rond de sector kwamen samen. Voor een volgende editie moet Beer People zelf datum, locatie, toegang en deelnemers opnieuw bevestigen.
 
+## Actuele alcoholregels zijn een aparte check
+
+Sinds 29 mei 2026 geldt volgens de Thaise overheidsinformatie als algemene verkoopperiode **11.00–24.00 uur** bij bevoegde verkooppunten. Hotels, internationale luchthavenzones, vergunde uitgaansgelegenheden en goedgekeurde events kunnen onder afzonderlijke voorwaarden vallen. Verkoop kan bovendien worden beperkt bij verkiezingen, belangrijke religieuze dagen of een specifieke bekendmaking.
+
+De wettelijke minimumleeftijd is 20 jaar. Een baropening, eventticket of vermelding in een app bewijst niet dat alcohol op ieder moment mag worden verkocht. Volg de locatie en de actuele officiële bekendmaking; deze pagina is geen juridisch advies.
+
 ## Kies eerst het type plek
 
 ### Taproom van een brouwer
 
-Een taproom is interessant als je de stijl en het verhaal van één maker wilt begrijpen. Vraag welke bieren daadwerkelijk ter plaatse zijn gebrouwen of door dezelfde producent worden gemaakt. Een merknaam op een kraan vertelt niet automatisch waar het bier vandaan komt.
+Een taproom is interessant als je de stijl en het verhaal van één maker wilt begrijpen. Vraag welke bieren daadwerkelijk ter plaatse zijn gebrouwen of door dezelfde producent worden gemaakt. Een merknaam op een kraan vertelt niet automatisch wat de herkomst is.
 
 ### Beer bar met wisselende kranen
 
@@ -77,7 +85,7 @@ Proef op smaak in plaats van prestige:
 - een donkere ale of stout bij geroosterde of zoetere smaken;
 - een zuur of fruitig bier in een klein proefglas wanneer je die stijl niet kent.
 
-Vraag bij allergieën altijd naar ingrediënten en kruiscontact. Bier bevat doorgaans gluten en speciale smaakmakers kunnen extra allergenen introduceren.
+Vraag bij allergieën steeds naar ingrediënten en kruiscontact. Bier bevat doorgaans gluten en speciale smaakmakers kunnen extra allergenen introduceren.
 
 ## Veilig terug en verantwoord proeven
 
@@ -110,11 +118,15 @@ Een hergebruikte poster of doorverkocht ticket is geen bewijs dat een event door
 
 Nee. De editie bij ChangChui liep van 6 tot en met 8 maart 2026 en is verstreken.
 
-### Komt People Festival terug?
+### Hoe laat mag alcohol in Bangkok worden verkocht?
+
+De algemene periode is sinds 29 mei 2026 11.00–24.00 uur, maar uitzonderingen en tijdelijke beperkingen kunnen gelden. Controleer de vergunning en actuele instructie van de locatie.
+
+### Is een volgende editie aangekondigd?
 
 Beer People organiseerde eerdere edities, maar datum en locatie van een volgende editie moeten opnieuw officieel worden bevestigd. Gebruik de organisatorsite, niet de kalender van 2026.
 
-### Waar vind je de beste craft beer in Bangkok?
+### Hoe vind je goede craft beer in Bangkok?
 
 Er bestaat geen duurzame universele nummer één. Kies een actuele taproom of beer bar in een praktische wijk en beoordeel versheid, transparantie, glasformaten, personeel en veilige terugreis.
 
@@ -128,4 +140,4 @@ Dat hangt van de locatie af. Controleer alcoholvrije opties, eten, muziek en zit
 
 ## Status en bronnen
 
-Deze route is op 1 augustus 2026 gesplitst in een verstreken People Festival-archief en een terugkerende Bangkok-scene-gids. Alleen Beer People wordt gebruikt voor de evenementstatus. Barprijzen, vaste taplijsten en ongeverifieerde “beste”-claims zijn verwijderd.
+Deze route is op 1 augustus 2026 gesplitst in een verstreken People Festival-archief en een terugkerende Bangkok-scene-gids. Beer People is de primaire bron voor de evenementstatus; Thailand.go.th onderbouwt alleen de algemene alcoholregels. Barprijzen, vaste taplijsten en ongeverifieerde “beste”-claims zijn verwijderd.

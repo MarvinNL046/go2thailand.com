@@ -12,24 +12,26 @@ featured: false
 readingTime: 5
 lastUpdated: "2026-08-01"
 sources:
+  - name: "Tourism Authority of Thailand Japan — Wat Rong Khun"
+    url: "https://www.thailandtravel.or.jp/white-temple/"
   - name: "Chiang Rai Focus / Wat Rong Khun — prijswijziging"
     url: "https://www.chiangraifocus.com/41740/"
   - name: "Tourism Authority of Thailand — Chiang Rai"
     url: "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Rai/102"
 ---
 
-De **White Temple-entree** voor buitenlandse bezoekers werd per 1 januari 2026 aangepast van 100 naar 200 baht. De lokale bekendmaking noemt daarbij toegang tot de Cave of Art. Dit is gecontroleerd op 1 augustus 2026, maar blijft een momentopname: controleer de actuele entree en bezoekersregels opnieuw vlak voor je gaat.
+De verhoging van de **White Temple-entree** is geen toekomstclaim meer: het tarief voor buitenlandse bezoekers werd per 1 januari 2026 aangepast van 100 naar 200 baht. Een officieel TAT-kanaal vermeldt op 1 augustus 2026 eveneens 200 baht en opening van 08.00 tot 17.00 uur; de lokale aankondiging koppelde de verhoging aan toegang tot de Cave of Art. Dit blijft een live momentopname, geen blijvende prijsgarantie.
 
 Deze pagina behandelt uitsluitend de prijswijziging. Voor een volledige dagroute langs tempels, stad en buitengebied gebruik je de gids met [bezienswaardigheden in Chiang Rai](/nl/city/chiang-rai/attractions/).
 
 ## Wat is precies bevestigd?
 
-Wat Rong Khun kondigde via een lokale publicatie aan dat het tarief voor internationale bezoekers vanaf 1 januari 2026 veranderde. De publicatie vermeldt ook dat de Cave of Art in de nieuwe entree is opgenomen. Daardoor is de wijziging beter onderbouwd dan de oude tekst, die zich op reviews en blogs baseerde.
+Wat Rong Khun kondigde via een lokale publicatie aan dat het tarief voor internationale bezoekers vanaf 1 januari 2026 veranderde. De publicatie vermeldt ook dat de Cave of Art in de nieuwe entree is opgenomen. De actuele TAT Japan-pagina bevestigt het huidige bedrag, maar specificeert die inclusie niet; vraag daarom bij de kassa welke ruimtes op jouw bezoekdag toegankelijk zijn.
 
 Wat we niet als blijvend reisfeit behandelen:
 
 - dat het bedrag nooit meer verandert;
-- dat ieder onderdeel altijd toegankelijk is;
+- dat alle onderdelen op iedere bezoekdag toegankelijk zijn;
 - dat openingstijden iedere dag hetzelfde blijven;
 - dat uitzonderingen voor leeftijd of lengte zonder nieuwe controle gelden;
 - dat een tourprijs gelijkstaat aan de entreeprijs.
@@ -47,7 +49,7 @@ Dat verschil is belangrijk voor je verwachting. Je bezoekt zowel een spiritueel 
 Kijk kort voor vertrek naar vijf dingen:
 
 1. **Entree en inbegrepen ruimtes.** Vraag niet alleen naar het bedrag, maar ook welke delen toegankelijk zijn.
-2. **Tijdelijke sluitingen.** Werk, ceremonies of lokale omstandigheden kunnen een deel van het complex beïnvloeden.
+2. **Opening en tijdelijke sluitingen.** TAT Japan vermeldt 08.00–17.00 uur, maar werk, ceremonies of lokale omstandigheden kunnen toegang beïnvloeden.
 3. **Kledingregels.** Bedek schouders en knieën en volg aanwijzingen bij religieuze ruimtes.
 4. **Fotografie.** Binnenruimtes kunnen andere regels hebben dan het buitenterrein.
 5. **Terugreis.** Wat Rong Khun ligt buiten het compacte centrum; spreek vervoer en ophaalpunt vooraf af.
@@ -68,7 +70,7 @@ Wil je de rest van je reis in de regio plannen, bekijk dan het [Chiang Rai-overz
 
 ### Wat kost de White Temple in 2026?
 
-De gecontroleerde bekendmaking noemt 200 baht voor buitenlandse bezoekers vanaf 1 januari 2026. Controleer het actuele bedrag en de inclusies opnieuw bij het complex.
+TAT Japan en de lokale aankondiging noemen 200 baht voor buitenlandse bezoekers. Controleer het actuele bedrag, opening en inclusies opnieuw bij het complex.
 
 ### Is Wat Rong Khun een gewone boeddhistische tempel?
 

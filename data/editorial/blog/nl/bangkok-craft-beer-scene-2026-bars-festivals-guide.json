@@ -34,7 +34,7 @@
     "navigation": "anchors",
     "density": "standard"
   },
-  "quickAnswer": "People Festival 2026 is verstreken. De Bangkokse craft-beerscene blijft veranderlijk: controleer taplijst, producent, eventstatus en terugreis op de bezoekdag.",
+  "quickAnswer": "People Festival 2026 is verstreken. Controleer voor een craft-beeravond live taplijst, producent, eventstatus, verkoopvoorwaarden en terugreis; de wettelijke minimumleeftijd is 20 jaar.",
   "blocks": [
     {
       "kind": "callout",
@@ -58,8 +58,9 @@
       "kind": "checklist",
       "id": "craft-beer-checklist",
       "title": "Een actuele locatie controleren",
-      "items": ["Taplijst en opening op dezelfde dag", "Producent en productielocatie", "Glasformaat en alcoholpercentage", "Eten en alcoholvrije opties", "Veilige terugreis zonder zelf te rijden"]
+      "items": ["Taplijst en opening op dezelfde dag", "Producent en productielocatie", "Leeftijd, vergunning en actuele verkoopperiode", "Glasformaat, alcoholpercentage en alcoholvrije opties", "Veilige terugreis zonder zelf te rijden"]
     },
+    { "kind": "callout", "id": "alcoholregels", "tone": "warning", "title": "Algemene regel, lokale voorwaarden", "description": "Sinds 29 mei 2026 geldt 11.00–24.00 uur als algemene verkoopperiode en 20 jaar als minimumleeftijd. Uitzonderingen en tijdelijke verboden kunnen gelden." },
     {
       "kind": "faq",
       "id": "craft-beer-faq",
@@ -76,7 +77,8 @@
       "title": "Organisator en freshness",
       "items": [
         { "title": "People Festival 2026", "publisher": "Beer People", "url": "https://beerpeoplefest.com/", "checkedAt": "2026-08-01" },
-        { "title": "Beer People organiser background", "publisher": "Beer People", "url": "https://beerpeoplefest.com/about-us/", "checkedAt": "2026-08-01" }
+        { "title": "Beer People organiser background", "publisher": "Beer People", "url": "https://beerpeoplefest.com/about-us/", "checkedAt": "2026-08-01" },
+        { "title": "Alcohol sales and consumption rules", "publisher": "Thailand.go.th", "url": "https://thailand.go.th/public/event-detail/alcohol-sales-and-consumption-rules-updated-in-thailand", "checkedAt": "2026-08-01" }
       ]
     },
     {

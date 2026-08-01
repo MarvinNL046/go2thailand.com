@@ -34,7 +34,7 @@
     "navigation": "anchors",
     "density": "longform"
   },
-  "quickAnswer": "Tomorrowland Thailand staat gepland voor 11–13 december 2026 in Wisdom Valley en is officieel uitverkocht. Koop alleen via een door Tomorrowland zelf aangewezen officieel kanaal.",
+  "quickAnswer": "Tomorrowland Thailand staat gepland voor 11–13 december 2026 in Wisdom Valley en is uitverkocht. Gebruik alleen de officiële Waiting List; toegang is 20+ en particuliere doorverkoop is geen geldig alternatief.",
   "blocks": [
     {
       "kind": "callout",
@@ -58,7 +58,7 @@
       "kind": "checklist",
       "id": "tomorrowland-checklist",
       "title": "Vlak voor vertrek opnieuw controleren",
-      "items": ["Officiële toegang en identiteitsregels", "Actuele line-up en openingstijden", "Bagage- en prohibited-itemsbeleid", "Shuttle of aangewezen drop-off", "Toegankelijkheid, medicijnen en noodinformatie"]
+      "items": ["Officiële toegang, personalisatie en identiteitsregels", "Minimaal 20 jaar vóór het festival", "Opening en laatste check-in per dag", "Geen herintrede op dezelfde dag", "Bagage-, shuttle-, toegankelijkheids- en medicijnregels"]
     },
     {
       "kind": "faq",
@@ -67,7 +67,8 @@
       "items": [
         { "question": "Wanneer is Tomorrowland Thailand 2026?", "answer": "Van 11 tot en met 13 december 2026 in Wisdom Valley, volgens Tomorrowland en TAT." },
         { "question": "Zijn er nog gewone tickets?", "answer": "De officiële eventsite meldt dat de editie is uitverkocht. Gebruik uitsluitend officieel aangewezen procedures." },
-        { "question": "Ligt Wisdom Valley aan Pattaya Beach?", "answer": "Nee. De locatie ligt in Khao Mai Kaew, Bang Lamung. Plan de laatste kilometers afzonderlijk." }
+        { "question": "Ligt Wisdom Valley aan Pattaya Beach?", "answer": "Nee. De locatie ligt in Khao Mai Kaew, Bang Lamung. Plan de laatste kilometers afzonderlijk." },
+        { "question": "Wat is de minimumleeftijd?", "answer": "Je moet vóór het festival 20 jaar zijn; begeleiding door een volwassene verandert dit niet." }
       ]
     },
     {
@@ -76,6 +77,9 @@
       "title": "Organisator en host destination",
       "items": [
         { "title": "Tomorrowland Thailand official event page", "publisher": "Tomorrowland Thailand", "url": "https://thailand.tomorrowland.com/en/welcome/", "checkedAt": "2026-08-01" },
+        { "title": "Opening hours and check-in", "publisher": "Tomorrowland Thailand", "url": "https://thailand.tomorrowland.com/en/practical/opening-hours/", "checkedAt": "2026-08-01" },
+        { "title": "Age and festival policies", "publisher": "Tomorrowland Thailand", "url": "https://thailand.tomorrowland.com/en/practical/policies/", "checkedAt": "2026-08-01" },
+        { "title": "Official Exchange Desk", "publisher": "Tomorrowland Thailand", "url": "https://thailand.tomorrowland.com/en/sales-info/exchange-desk/", "checkedAt": "2026-08-01" },
         { "title": "Tomorrowland Thailand press room", "publisher": "Tomorrowland", "url": "https://tomorrowlandthailand.press.tomorrowland.com/", "checkedAt": "2026-08-01" },
         { "title": "Tomorrowland Thailand Asian debut", "publisher": "TAT Newsroom", "url": "https://www.tatnews.org/2026/02/tat-announces-tomorrowland-thailand-full-scale-asian-debut-in-december-2026/", "checkedAt": "2026-08-01" }
       ]

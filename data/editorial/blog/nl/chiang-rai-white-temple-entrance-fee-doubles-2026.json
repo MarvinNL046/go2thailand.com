@@ -25,14 +25,14 @@
     "secondaryCta": { "label": "Plan Chiang Rai", "href": "/nl/city/chiang-rai/attractions/" }
   },
   "layout": { "kind": "news-update", "newsStatus": "confirmed", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "anchors", "density": "standard" },
-  "quickAnswer": "Voor buitenlandse bezoekers werd de entree per 1 januari 2026 aangepast van 100 naar 200 baht. Zie dit als een gecontroleerde momentopname, niet als een blijvende prijsgarantie.",
+  "quickAnswer": "Voor buitenlandse bezoekers werd de entree per 1 januari 2026 aangepast van 100 naar 200 baht. TAT Japan bevestigt op 1 augustus ook 08.00–17.00 uur; controleer beide live vóór bezoek.",
   "blocks": [
     { "kind": "callout", "id": "bevestigd", "tone": "saffron", "title": "Wat is bevestigd?", "description": "De aangekondigde wijziging ging op 1 januari 2026 in en omvat volgens de lokale bekendmaking ook toegang tot de Cave of Art. Controleer de actuele voorwaarden opnieuw op de bezoekdag." },
     {
       "kind": "checklist",
       "id": "bezoekcheck",
       "title": "Controleer voor vertrek",
-      "items": ["Actuele entree en welke delen zijn inbegrepen", "Toegang en eventuele tijdelijke sluitingen", "Kledingregels voor het religieuze deel", "Vervoer terug naar Chiang Rai", "Fotoregels per ruimte"]
+      "items": ["Actuele entree en welke delen zijn inbegrepen", "Opening en eventuele tijdelijke sluitingen", "Kledingregels voor het religieuze deel", "Vervoer terug naar Chiang Rai", "Fotoregels per ruimte"]
     },
     {
       "kind": "faq",
@@ -49,6 +49,7 @@
       "id": "bronnen",
       "title": "Bronnen en controle",
       "items": [
+        { "title": "Wat Rong Khun visitor information", "publisher": "Tourism Authority of Thailand Japan", "url": "https://www.thailandtravel.or.jp/white-temple/", "checkedAt": "2026-08-01", "note": "Actuele TAT-vermelding van entree en opening." },
         { "title": "Wat Rong Khun fee announcement", "publisher": "Chiang Rai Focus / Wat Rong Khun", "url": "https://www.chiangraifocus.com/41740/", "checkedAt": "2026-08-01", "note": "Lokale publicatie van de prijswijziging en ingangsdatum." },
         { "title": "Chiang Rai destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Rai/102", "checkedAt": "2026-08-01", "note": "Bestemmingscontext; geen prijsbelofte." }
       ]

@@ -20,7 +20,7 @@ sources:
     url: "https://www.tatnews.org/2026/02/tat-announces-tomorrowland-thailand-full-scale-asian-debut-in-december-2026/"
 ---
 
-Tomorrowland Thailand staat gepland voor **11–13 december 2026** in Wisdom Valley, Khao Mai Kaew in het district Bang Lamung bij Pattaya. De [officiële eventsite](https://thailand.tomorrowland.com/en/welcome/) meldt dat de editie is uitverkocht. Zonder geldige officiële toegang heeft het dus geen zin om naar het terrein te reizen of via een willekeurige verkoper alsnog een ticket te proberen te bemachtigen.
+De organisator dateert Tomorrowland Thailand op **11–13 december 2026** in Wisdom Valley, Khao Mai Kaew in het district Bang Lamung bij Pattaya. De [officiële eventsite](https://thailand.tomorrowland.com/en/welcome/) meldt dat de editie is uitverkocht. Zonder geldige officiële toegang heeft het dus geen zin om naar het terrein te reizen of via een willekeurige verkoper alsnog een ticket te proberen te bemachtigen.
 
 Heb je wel een geldige pass of pakket? Plan dan verblijf en vervoer als afzonderlijke beslissingen. Wisdom Valley is niet hetzelfde als centraal Pattaya of een hotel aan het strand; vertrouw alleen op de organisator voor toegangs-, shuttle- en terreinregels.
 
@@ -32,13 +32,17 @@ Heb je wel een geldige pass of pakket? Plan dan verblijf en vervoer als afzonder
 | Data | 11–13 december 2026. |
 | Locatie | Wisdom Valley, Khao Mai Kaew, Bang Lamung, Chonburi. |
 | Editie | Eerste volledige Tomorrowland-festivaleditie in Azië. |
-| Ticketactie | Gebruik alleen officiële Tomorrowland-kanalen en de officieel beschreven doorverkoop- of exchangeprocedure. |
+| Opening | Vrijdag en zaterdag 13.00–01.00 uur; zondag 13.00–00.00 uur, volgens de organisator. |
+| Leeftijd | Minimaal 20 jaar op het moment van het festival; geen uitzondering met begeleider. |
+| Ticketactie | Gewone verkoop is gesloten. Gebruik alleen de officiële Waiting List of Exchange Desk volgens de gepubliceerde voorwaarden. |
 
 Line-up, openingstijden, toegestane voorwerpen en vervoersinformatie kunnen nog worden bijgewerkt. Controleer daarom kort voor vertrek opnieuw de organisator, ook als je al een bevestiging hebt.
 
 ## Uitverkocht betekent: geen gewone ticket-CTA
 
 De officiële status is leidend. Deze pagina verkoopt of promoot geen alternatieve tickets. Betaal niet via een socialmediabericht, screenshots van een order of een verkoper die beweert dat naamcontrole niet nodig is.
+
+Op 1 augustus 2026 vermeldt Tomorrowland een officiële **Exchange Desk** voor de oorspronkelijke hoofdkoper en een Waiting List voor mogelijke herverkoop. De deadline om geschikte passen voor de Exchange Desk aan te melden is **30 augustus 2026 om 18.00 uur Thaise tijd**. Aanmelding garandeert niet dat een pas wordt verkocht; hotel- en Discover Thailand-pakketten vallen volgens de organisator niet onder deze procedure. Kopers gebruiken uitsluitend de Waiting List in hun Tomorrowland-account.
 
 Controleer bij iedere officiële overdrachtsmogelijkheid:
 
@@ -98,11 +102,13 @@ Lees de voorwaarden die bij jouw eigen product horen. Een dagpas, meerdaagse pas
 - cashless betaling of top-up en terugbetaling;
 - toegankelijkheidsaanvragen.
 
+De organisator publiceert inmiddels ook de check-inlimieten: vrijdag en zaterdag tot 22.00 uur en zondag tot 21.00 uur. Na vertrek is dezelfde dag geen herintrede mogelijk. Behandel deze tijden als actuele operationele informatie en controleer ze opnieuw vlak voor het festival.
+
 Neem medische benodigdheden alleen mee volgens de officiële instructies en vraag tijdig om ondersteuning als je een aanpassing nodig hebt.
 
 ## Wat neem je mee?
 
-Houd het compact en volg altijd de actuele prohibited-items-lijst:
+Houd het compact en volg de meest recente prohibited-items-lijst:
 
 - geldige identificatie en officiële toegangsbevestiging;
 - opgeladen telefoon en kleine powerbank als die is toegestaan;
@@ -138,7 +144,11 @@ In Khao Mai Kaew, district Bang Lamung, provincie Chonburi, in de regio Pattaya.
 
 ### Zijn er nog tickets?
 
-De officiële eventsite vermeldt dat Tomorrowland Thailand 2026 is uitverkocht. Gebruik alleen een door Tomorrowland zelf beschreven officieel kanaal als een exchange- of overdrachtsoptie beschikbaar is.
+De officiële eventsite vermeldt dat Tomorrowland Thailand 2026 is uitverkocht. Op 1 augustus bestaat een officiële Waiting List en Exchange Desk, zonder beschikbaarheidsbelofte; particuliere doorverkoop is geen geldig alternatief.
+
+### Hoe oud moet je zijn?
+
+Je moet uiterlijk vóór het festival 20 jaar zijn. De organisator zegt expliciet dat begeleiding door een volwassene geen uitzondering oplevert.
 
 ### Kun je op het terrein kamperen?
 
@@ -150,4 +160,4 @@ Dat hangt af van je officiële shuttle of eigen vervoersplan en van wat je buite
 
 ## Freshness
 
-Deze pagina is gecontroleerd op 1 augustus 2026. Status: gepland en officieel uitverkocht. Data, locatie en uitverkochtstatus komen van Tomorrowland; TAT ondersteunt de event- en bestemmingscontext. Controleer vlak voor vertrek opnieuw de officiële praktische pagina’s.
+Deze pagina is gecontroleerd op 1 augustus 2026. Status: gepland en officieel uitverkocht; Waiting List en Exchange Desk zijn de enige gepubliceerde vervolgroutes. Data, locatie, openingstijden, leeftijd en toegangsvoorwaarden komen van Tomorrowland; TAT ondersteunt de event- en bestemmingscontext. Controleer vlak voor vertrek opnieuw de officiële praktische pagina’s.

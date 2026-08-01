@@ -18,7 +18,7 @@ sources:
     url: "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/448338"
 ---
 
-De **Global Wellness Summit 2026** staat gepland van **10 tot en met 13 november 2026** bij Angsana Laguna Phuket. Het gaat om een internationale zakelijke bijeenkomst voor leiders en professionals uit de wellnesssector. Het is geen openbaar wellnessfestival en deelname is niet hetzelfde als het boeken van een retreat.
+De organisator dateert de **Global Wellness Summit 2026** op **10 tot en met 13 november 2026** bij Angsana Laguna Phuket. Het gaat om een internationale zakelijke bijeenkomst voor leiders en professionals uit de wellnesssector. Het is geen openbaar wellnessfestival en deelname is niet hetzelfde als het boeken van een retreat.
 
 ## Wat is bevestigd?
 
@@ -27,29 +27,48 @@ De **Global Wellness Summit 2026** staat gepland van **10 tot en met 13 november
 | Data | 10–13 november 2026 |
 | Locatie | Angsana Laguna Phuket |
 | Karakter | Internationale sectorbijeenkomst |
-| Status | Gepland; officiële voorwaarden blijven leidend |
+| Status | Gepland; registratie geopend voor goedgekeurde genodigden |
+| Toegang | Invitation-only voor senior executives; uitnodigingen zijn niet overdraagbaar |
 
 ## Voor wie is de summit bedoeld?
 
-De bijeenkomst richt zich op zakelijke deelnemers uit onder meer hospitality, gezondheid, spa, technologie en investeringen. Controleer het officiële programma en de deelnamevoorwaarden voordat je een reis plant. Een algemene interesse in wellness betekent niet automatisch dat registratie mogelijk of zinvol is.
+De bijeenkomst richt zich op senior executives en zakelijke deelnemers uit onder meer hospitality, gezondheid, spa, technologie en investeringen. De voorwaarden noemen het evenement expliciet **invitation-only**. Nieuwe deelnemers kunnen een uitnodiging aanvragen; dat is nog geen toelatings- of registratiebevestiging.
 
 ## Registratie controleren
 
 Gebruik alleen de officiële summitwebsite voor registratie, programmadetails en voorwaarden. Controleer:
 
-- welk deelnemerstype bij jouw rol past;
+- of je uitnodiging is goedgekeurd en welk deelnemerstype bij jouw rol past;
 - wat bij registratie is inbegrepen;
 - annulerings- en overdrachtsvoorwaarden;
 - toegang tot sessies en nevenprogramma's;
-- eventuele vereisten voor een zakelijke uitnodiging.
+- of pre- en post-summitactiviteiten een aparte boeking vragen.
 
-Go2Thailand noemt geen vaste deelnameprijs, omdat actuele categorieën en voorwaarden op de organisatorwebsite leidend zijn.
+Go2Thailand noemt geen vaste deelnameprijs, omdat actuele categorieën, termijnen en voorwaarden op de organisatorwebsite leidend zijn. De officiële voorwaarden zeggen bovendien dat accommodatie en reis niet bij de summitregistratie zijn inbegrepen.
+
+## Uitnodiging, registratie en betaling zijn drie stappen
+
+Een uitnodigingsaanvraag geeft de organisator informatie om je rol te beoordelen. Pas na goedkeuring kun je de registratie voor het passende deelnemerstype afronden. De voorwaarden noemen uitnodigingen niet-overdraagbaar: een collega kan jouw plek dus niet vanzelf overnemen.
+
+Controleer vóór betaling op dezelfde officiële pagina:
+
+1. dat je delegate-status is goedgekeurd;
+2. welke tariefperiode op dat moment geldt;
+3. welke sessies, maaltijden en sociale onderdelen zijn inbegrepen;
+4. welke annuleringsdeadline en verwerkingskosten gelden;
+5. of een aparte ervaring, hotelkamer of transfer nog los moet worden geboekt.
+
+Maak geen niet-restitueerbare reisboeking op basis van alleen een ingevuld uitnodigingsformulier. De bevestiging van GWS en de voorwaarden bij jouw transactie zijn leidend.
+
+## Agenda en sprekers blijven veranderlijk
+
+De officiële pagina publiceert sprekers en programmaonderdelen terwijl de summit nadert. Behandel een voorlopige naam of sessie niet als garantie voor je reisbesluit. Kies deelname op het zakelijke doel en de totale summit, niet uitsluitend op één aangekondigde spreker. Sla vlak voor vertrek de actuele agenda, locaties van nevenactiviteiten en contactgegevens offline op.
 
 ## Verblijf en vervoer in Phuket
 
 Laguna Phuket ligt niet naast alle andere populaire verblijfsgebieden. Kies accommodatie op basis van officiële eventlogistiek, dagelijkse transfer en je plannen vóór of na de summit. Onze [Phuket-bestemmingsgids](/nl/city/phuket/) helpt bij de bredere planning.
 
-Een vermelding van het evenement is geen bewijs dat een hotelpakket toegang tot de summit bevat. Controleer registratie en verblijf altijd afzonderlijk, tenzij de officiële organisator expliciet anders vermeldt.
+Een vermelding van het evenement is geen bewijs dat een hotelpakket toegang tot de summit bevat. Controleer registratie en verblijf afzonderlijk, tenzij de officiële organisator expliciet anders vermeldt.
 
 ## Maak van een zakenreis geen haastige rondreis
 
@@ -59,11 +78,15 @@ Plan voldoende tijd rond aankomst en vertrek. Combineer de summit alleen met een
 
 ### Is de Global Wellness Summit een publiek festival?
 
-Nee. Het is primair een internationale zakelijke sectorbijeenkomst. Controleer toelating en registratie bij de organisator.
+Nee. Het is een invitation-only zakelijke sectorbijeenkomst voor senior executives. Nieuwe deelnemers kunnen een uitnodiging aanvragen; goedkeuring is vereist vóór registratie.
 
 ### Krijg ik met een hotelboeking toegang?
 
 Niet automatisch. Een verblijf en summitregistratie zijn afzonderlijke producten, tenzij de organisator expliciet een officieel pakket aanbiedt.
+
+### Is registratie op 1 augustus 2026 open?
+
+Ja, voor goedgekeurde deelnemers. Nieuwe deelnemers kunnen via de officiële site een uitnodiging aanvragen. Controleer live tariefperiode, beschikbaarheid en annuleringsvoorwaarden vóór betaling.
 
 ### Waar staat de actuele agenda?
 
