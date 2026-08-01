@@ -186,7 +186,7 @@ const templateCopy = {
     sourceTitle: (city: string) => `How was this ${city} guide researched?`,
     sourceEyebrow: "Sources & method",
     sourceDescription:
-      "The page combines independent English DataForSEO research, fully parsed competitors and primary sources. This owner supports the destination decision; changing weather, transport, hotel and attraction details remain explicit checks.",
+      "The page combines independent English DataForSEO research, fully parsed competitors and primary sources. This guide supports the destination decision; changing weather, transport, hotel and attraction details remain explicit checks.",
   },
 };
 
