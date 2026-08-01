@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "exercise-cope-tiger-2026-korat-air-base-thailand",
+  "route": "/nl/blog/exercise-cope-tiger-2026-korat-air-base-thailand/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Cope Tiger 2026 Korat: verstreken oefening | Go2Thailand",
+    "description": "Cope Tiger 2026 liep van 15 tot en met 27 maart op Korat Air Base en Chandy Range. Lees de bevestigde feiten als historisch archief.",
+    "primaryKeyword": "Cope Tiger 2026 Korat",
+    "secondaryKeywords": ["Korat Air Base oefening", "Cope Tiger Thailand", "luchtmachtoefening Nakhon Ratchasima"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/exercise-cope-tiger-2026-korat-air-base-thailand/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Verstreken defensiearchief",
+    "title": "Cope Tiger 2026",
+    "accent": "De oefening eindigde op 27 maart",
+    "description": "De officiële bron bevestigt periode, locaties en deelnemers. Gebruik deze editie niet als agenda voor een volgend jaar.",
+    "image": "/images/redesign/editorial/exercise-cope-tiger-2026-korat-air-base-thailand-hero.webp",
+    "imageAlt": "Vliegtuigen en grondpersoneel op een luchtmachtbasis bij rustig ochtendlicht",
+    "primaryCta": { "label": "Bekijk de status", "href": "#status" },
+    "secondaryCta": { "label": "Plan Korat", "href": "/nl/city/nakhon-ratchasima/" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-03-15", "endsOn": "2026-03-27", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Cope Tiger 2026 vond van 15 tot en met 27 maart plaats op Korat Air Base en Chandy Range. De editie is afgelopen en blijft alleen als noindex-archief beschikbaar.",
+  "blocks": [
+    { "kind": "callout", "id": "status", "tone": "warning", "title": "Niet gebruiken als toekomstige agenda", "description": "De bron voor 2026 bewijst geen datum, schaal, locatie of publiek programma voor een volgende editie." },
+    { "kind": "card-grid", "id": "feiten", "eyebrow": "Officieel bevestigd", "title": "De editie van maart 2026", "cards": [
+      { "title": "Periode", "description": "15 tot en met 27 maart 2026.", "label": "Afgelopen" },
+      { "title": "Locaties", "description": "Korat Air Base en Chandy Range in Thailand.", "label": "Defensielocaties" },
+      { "title": "Deelnemers", "description": "Luchtmachten van Thailand, Singapore en de Verenigde Staten.", "label": "Trilateraal" },
+      { "title": "Geen bezoekersbelofte", "description": "De bron noemt geen openbare kijkplek of toegang tot de basis.", "label": "Respecteer regels" }
+    ] },
+    { "kind": "checklist", "id": "volgende-editie", "title": "Bij een volgende editie opnieuw controleren", "items": ["Nieuwe officiële data", "Genoemde locaties", "Eventuele openbare programmering", "Lokale fotografie- en droneregels", "Actueel reisadvies"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Kan ik Cope Tiger 2026 nog bezoeken?", "answer": "Nee. De officiële periode eindigde op 27 maart 2026." },
+      { "question": "Is Korat Air Base een attractie?", "answer": "Nee. Het is een operationele militaire locatie; de bron geeft geen publiek toegangsprogramma." },
+      { "question": "Komt de oefening terug?", "answer": "Gebruik pas nieuwe informatie wanneer een bevoegde organisatie een volgende editie aankondigt." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire defensiebron", "items": [
+      { "title": "Singapore, Thailand and the United States Participate in 32nd Exercise Cope Tiger", "publisher": "Singapore Ministry of Defence", "url": "https://www.mindef.gov.sg/news-and-events/latest-releases/18mar26-nr/", "checkedAt": "2026-08-01", "note": "Bevestigt data, locaties, deelnemers en programma van de verstreken editie." }
+    ] },
+    { "kind": "related", "id": "korat", "title": "Plan Nakhon Ratchasima als bestemming", "items": [
+      { "title": "Nakhon Ratchasima", "description": "Plan openbare bezienswaardigheden, vervoer en verblijf los van de oefening.", "href": "/nl/city/nakhon-ratchasima/" },
+      { "title": "Reisadvies Thailand", "description": "Controleer actuele veiligheidsinformatie bij NederlandWereldwijd.", "href": "https://www.nederlandwereldwijd.nl/reisadvies/thailand" }
+    ] }
+  ]
+}

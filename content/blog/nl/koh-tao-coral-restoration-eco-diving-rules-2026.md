@@ -1,57 +1,70 @@
 ---
-title: "Duiken op Koh Tao in 2026: 100.000 koralen geplant en strengere eco-regels"
+title: "Duiken op Koh Tao: actuele rifregels en herstelprojecten"
 slug: "koh-tao-coral-restoration-eco-diving-rules-2026"
 date: "2026-03-22"
 author:
   name: "Go2Thailand Team"
 category: "nature"
-tags: ["Duiken Koh Tao 2026", "koraalherstel Thailand", "zeebehoud Koh Tao", "eco-duikregels", "duurzaam toerisme Thailand", "New Heaven Reef Conservation", "beste duikvakantie Thailand", "milieuvriendelijk duiken Koh Tao", "koraalrestauratie eilanden"]
-image: "/images/blog/thailand-news-default.webp"
-description: "Ontdek Koh Tao in 2026 met meer dan 100.000 geplante koraalfragmenten en nieuwe eco-duiknormen. Duikers en snorkelaars: leer de regels kennen voor een verantwoorde vakantie in dit duikparadijs."
+tags: ["duiken Koh Tao", "koraalregels Thailand", "rifbescherming", "verantwoord duiken"]
+image: "/images/redesign/editorial/koh-tao-coral-restoration-eco-diving-rules-2026-hero.webp"
+description: "Lees de landelijke Thaise regels voor duiken en snorkelen bij koraal, plus een controlelijst voor verantwoord duiken en herstelprojecten op Koh Tao."
 featured: false
-readingTime: 3
-lastUpdated: "2026-03-29"
+readingTime: 7
+lastUpdated: "2026-08-01"
 sources:
-  - name: "Thailand Routes — Scuba Diving in Koh Tao 2026: The Ultimate Guide"
-    url: "https://www.thailandroutes.com/koh-tao-diving-2026-guide/"
-  - name: "New Heaven Dive School — How Coral Spawning Helps Restore Reefs in Koh Tao"
-    url: "https://newheavendiveschool.com/2026/03/19/how-coral-spawning-helps-restore-coral-reefs-in-koh-tao/"
-  - name: "Black Turtle Dive — Coral Restoration Courses on Koh Tao"
-    url: "https://www.blackturtledive.com/conservation/marine-conservation-courses/coral-restoration-in-thailand/"
-  - name: "Nava Scuba Diving — Travel to Koh Tao 2026"
-    url: "https://www.navascuba.com/2026/koh-tao-2026-travel-and-lifestyle-guide/"
+  - name: "DMCR — coral protection measures for diving tourism"
+    url: "https://www.dmcr.go.th/detailAll/73648/nws/"
+  - name: "DMCR — practical diving rules"
+    url: "https://www.dmcr.go.th/detailAll/79430/nws/"
+  - name: "DMCR — Order 755/2561 for Koh Tao, Koh Phangan and Koh Samui"
+    url: "https://newweb.dmcr.go.th/detailAll/29229/nws/"
 ---
 
-## Turtle Island Herschrijft Zijn Rifverhaal
+Voor duiken en snorkelen bij koraal in Thailand gelden landelijke beschermingsmaatregelen. Op Koh Tao komen daar oudere gebiedsregels bij, zoals het verbod op ankeren in rifgebied en op afval of afvalwater in zee. Kies een operator die de briefing, groepsgrootte en drijfvermogen serieus neemt; een “eco”-label alleen is niet genoeg.
 
-[Koh Tao](/islands/koh-tao/) — "Turtle Island" — is al jaren een van de goedkoopste en populairste plekken ter wereld om te leren duiken. Maar in 2026 verdient het eiland een nieuwe reputatie: serieus centrum voor koraalherstel. Er zijn nu meer dan 100.000 koraalfragmenten geplant langs de kust van Koh Tao, waarvan meer dan 30.000 floreren in Chalok Bay alleen. Overlevingspercentages liggen boven de 80 procent na drie maanden, een cijfer dat deze projecten tot de succesvolste rifprogramma's op kleine eilanden in Zuidoost-Azië maakt.
+## Wat zijn de belangrijkste regels?
 
-Koh Tao ligt in de Golf van Thailand, naast zijn bekendere buren — de feestelijke sfeer van [Koh Phangan](/islands/koh-phangan/) en de resortkusten van [Koh Samui](/city/koh-samui/). Voor een volledige vergelijking van de twee duikeilanden, bekijk [Koh Samui vs Koh Tao](/compare/koh-samui-vs-koh-tao/) en [Koh Phangan vs Koh Tao](/compare/koh-phangan-vs-koh-tao/).
+De Department of Marine and Coastal Resources (DMCR) noemt onder meer:
 
-## Waar Het Werk Plaatsvindt
+- raak, trap of sta niet op koraal en onderwaterleven;
+- voer geen zeedieren;
+- laat geen afval achter;
+- doe geen activiteiten die het rif beschadigen, zoals sea walking;
+- houd bij snorkelen afstand van het rif en volg de instructies over zwemvesten;
+- gebruik bij boten een meerboei in plaats van een anker in koraalgebied.
 
-Twee hoofdcampagnes leiden de inspanningen: Junkyard Reef en Black Turtle Reef, beide in partnerschap met het Thaise Departement van Mariene en Kustresources (DMCR). Duikscholen over het hele eiland werken samen met ngo's zoals New Heaven Reef Conservation om koraalfragmenten te verplaatsen, marien leven te monitoren, rommel en visnetten van riffen te verwijderen, en invasieve soorten te volgen.
+Voor begeleide scuba noemt DMCR een maximum van vier duikers per toezichthouder en een verbod op cameragebruik tijdens opleidingsduiken. De juridische tekst en uitvoering zijn leidend; vraag je duikschool hoe zij de regels in jouw cursus of trip toepast.
 
-Vrijwilligers en gecertificeerde duikers kunnen meedoen aan herstelprogramma's van een tot vier weken. Ervaring met duiken is niet nodig — training en certificering zijn inbegrepen. Voor duikers met een PADI- of SSI-kaart zijn er gespecialiseerde koraalherstelcursussen die onderwaterwerk combineren met mariene biologie-theorie.
+## Controleer een duikschool vóór je boekt
 
-Koh Tao is niet de enige plek in Thailand die marien behoud versterkt. De [Similan-eilanden hebben nieuwe duikregels en bezoekerslimieten ingevoerd voor 2026](/blog/similan-islands-diving-snorkelling-new-rules-2026/), en [liveaboard-duiken rond de Similan- en Surin-eilanden](/blog/thailand-liveaboard-diving-guide-similan-surin-2026/) blijft een van de beste manieren om de offshore riffen van Thailand te ervaren met minimale impact op het milieu.
+Vraag welke opleidingsorganisatie wordt gebruikt, wie de instructeur is, hoe groot de groep wordt en wat er gebeurt wanneer zeecondities niet passen bij je niveau. Laat ook materiaal, noodzuurstof, communicatie, verzekering en het plan voor een gemiste ferry of vertraagde opstijging uitleggen.
 
-## Strengere Eco-Duikregels voor 2026
+Beginners hebben baat bij een beschutte oefenomgeving en voldoende tijd voor drijfvermogen. Een goedkope of snelle cursus is geen goede keuze als je vaardigheden worden gehaast. Bekijk ook onze bredere [duikgids voor Koh Tao](/nl/islands/koh-tao/diving/) voor cursus- en locatiekeuze.
 
-Thailand heeft zijn mariene veiligheids- en milieuregelgeving aangescherpt, en Koh Tao staat voorop. Alle gelicentieerde duikoperators moeten nu voldoen aan verbeterde milieunormen en bijgewerkte personeels-certificeringen. Het eiland handhaaft strengere eco-toerismestandaarden, waaronder limieten op bootverkeer in gevoelige rifgebieden.
+## Meedoen aan koraalherstel
 
-Duikers zullen een "No Touch, No Tease"-cultuur opmerken die nu standaard is bij gerenommeerde duikscholen. Praktische regels omvatten een verbod op handschoenen tijdens het duiken — om aanraken van marien leven te ontmoedigen — en verplicht gebruik van koraalvriendelijke zonnecrèmes zonder oxybenzone en octinoxate. Duikleiders krijgen strengere certificeringseisen, en briefings behandelen nu rif-etiquette naast veiligheidsprocedures.
+Herstelwerk vraagt meer dan een fragment op een frame zetten. Vraag naar vergunningen, wetenschappelijke begeleiding, monitoring, soort- en locatiekeuze en wat er gebeurt als een project stopt. Een aanbieder moet kunnen uitleggen waarom actieve restauratie passend is naast het verminderen van schade.
 
-Deze aangescherpte normen passen in Thailands bredere streven naar [duurzaam en verantwoord toerisme in 2026](/blog/thailand-good-travel-certification-41-sustainable-destinations-2026/). De [tagthai-app voor duurzaam reizen](/blog/tagthai-app-sustainable-travel-guide-2026/) helpt duikers gecertificeerde eco-operators te vinden op Koh Tao en daarbuiten.
+De oude claim dat op Koh Tao “meer dan honderdduizend koralen” zouden zijn geplant is niet behouden. Daarvoor ontbrak een actuele primaire bron met duidelijke methode, periode en definitie. Ook overlevingspercentages, aantallen dieren en zichtbaarheid worden niet beloofd.
 
-## Waarom Dit Belangrijk Is voor Bezoekers
+## Voor snorkelaars
 
-Of je nu een beginner-snorkelaar bent of een gevorderde duiker, [Koh Tao in 2026](/blog/koh-tao-guide-diving-beaches-budget-travel/) biedt iets wat zijn feestelijke verleden niet kon: de kans om riffen te zien die zichtbaar herstellen. Chalok Bay, ooit aangetast, herbergt nu dichte koraaltuinen die jonge vissen, zeeschildpadden en zwartpunt rifhaaien aantrekken.
+Blijf horizontaal, houd vinnen uit de buurt van de bodem en jaag geen schildpadden of haaien achterna. Kies een zwemvest of drijfmiddel volgens de lokale regels en je eigen vaardigheid. Zonnebescherming begint met kleding en schaduw; “reef safe” op een verpakking is geen vrijbrief om veel product vlak voor het water aan te brengen.
 
-Koh Tao bereiken is makkelijker dan ooit dankzij [nieuwe vluchtverbindingen naar de luchthaven van Koh Samui](/blog/koh-samui-airport-international-hub-bangkok-airways-2026/) — het dichtstbijzijnde vliegveld — gevolgd door een speedboot of veerboot. Vanuit Samui kun je ook [Ang Thong Marine Park](/city/koh-samui/attractions/ang-thong-marine-park/) bereiken, een ander beschermd eilandengroep dat perfect past in een duitreisplan. Voor Nederlanders is het ideaal met directe vluchten vanaf Schiphol via partners als KLM, gevolgd door een korte overstap.
+## Veelgestelde vragen
 
-Wil je duiken combineren met een wellness-onderbreak, dan liggen [yoga-retraites op nabijgelegen Koh Phangan](/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/) slechts een korte veerbootrit weg. Voor een rustiger eilandervaring na de duikcursussen bieden [Koh Kood](/blog/koh-kood-quiet-island-guide-trat-2026/) en [Koh Lipe](/blog/koh-lipe-maldives-of-thailand-travel-guide-2026/) ongerepte riffen met veel minder drukte.
+### Gelden de regels alleen op Koh Tao?
 
-Koh Tao trekt ook bezoekers aan die zich bekommeren om [ethische wildlife-ontmoetingen in Thailand](/blog/wildlife-conservation-volunteering-thailand-2026-turtles-elephants/) in bredere zin — een herinnering dat verantwoord reizen reikt van het rif tot de olifantsanctuaries in het noorden.
+Nee. De nieuwere DMCR-maatregelen richten zich op duiktoerisme bij Thaise koraalriffen. Voor Koh Tao, Koh Phangan en Koh Samui bestaat daarnaast een specifieke gebiedsorder.
 
-Als je in Thailand wilt duiken en de oceaan beter wilt achterlaten dan je hem aantrof, is Koh Tao de perfecte startplek.
+### Mag ik een camera meenemen tijdens mijn cursus?
+
+DMCR noemt een verbod op cameragebruik tijdens opleidingsduiken. Vraag je instructeur hoe dit op jouw programma wordt toegepast.
+
+### Kan een beginner meedoen aan koraalherstel?
+
+Alleen als een serieus programma passende theorie, vaardigheidstraining, toezicht en vergunningen heeft. Eerst stabiel drijfvermogen leren is belangrijker dan actief werk aan het rif.
+
+### Garandeert verantwoord duiken een gezond rif?
+
+Nee. Het voorkomt extra schade, maar riffen worden ook beïnvloed door hitte, vervuiling, stormen en andere druk.

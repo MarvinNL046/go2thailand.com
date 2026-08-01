@@ -367,6 +367,12 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/khao-sok-floating-bungalows-cheow-lan-lake-glamping-guide-2026/",
+        destination: "/nl/best-hotels/khao-sok/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

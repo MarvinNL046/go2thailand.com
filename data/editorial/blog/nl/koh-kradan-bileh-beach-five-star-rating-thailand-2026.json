@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "koh-kradan-bileh-beach-five-star-rating-thailand-2026",
+  "route": "/nl/blog/koh-kradan-bileh-beach-five-star-rating-thailand-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koh Kradan en Bileh Beach: Beach Star 2025 | Go2Thailand",
+    "description": "Koh Kradan en Bileh Beach kregen vijf sterren in Beach Star 2025. Lees wat de milieuscore wel en niet zegt voor je bezoek.",
+    "primaryKeyword": "Koh Kradan Bileh Beach vijf sterren",
+    "secondaryKeywords": ["Beach Star Thailand 2025", "Koh Kradan milieuscore", "Bileh Beach Koh Hong"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/koh-kradan-bileh-beach-five-star-rating-thailand-2026/"
+  },
+  "hero": {
+    "eyebrow": "Beach Star-beoordeling 2025",
+    "title": "Koh Kradan en Bileh Beach",
+    "accent": "Hoge milieuscore, geen daggarantie",
+    "description": "De PCD-score is een gedateerde beoordeling. Zee, drukte, toegang en zwemcondities controleer je opnieuw.",
+    "image": "/images/redesign/editorial/koh-kradan-bileh-beach-five-star-rating-thailand-2026-hero.webp",
+    "imageAlt": "Aanzicht van een lang eilandstrand en een kleine kalksteenbaai in de Andamanzee",
+    "primaryCta": { "label": "Begrijp de score", "href": "#score" },
+    "secondaryCta": { "label": "Vergelijk de reisvorm", "href": "#reisvorm" }
+  },
+  "layout": { "kind": "news-update", "newsStatus": "confirmed", "checkedAt": "2026-08-01", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "In de officiële Beach Star-resultaten over 2025 kregen Bileh Beach op Koh Hong en Koh Kradan vijf sterren. De score gaat over die beoordelingsronde en garandeert geen actuele drukte, toegang of zwemveiligheid.",
+  "blocks": [
+    { "kind": "card-grid", "id": "score", "eyebrow": "Officiële uitslag", "title": "Twee vijfsterrenscores in context", "cards": [
+      { "title": "Bileh Beach", "description": "De PCD-resultaten zetten het strand op Koh Hong als eerste in de ronde met een score van 98,57.", "label": "Krabi" },
+      { "title": "Koh Kradan", "description": "Het strand staat als tweede in de ronde met een score van 96,33.", "label": "Trang" },
+      { "title": "Geen hotelsterren", "description": "Beach Star beoordeelt strandmilieu en beheer, geen accommodatie of tourpakket.", "label": "Milieu" },
+      { "title": "Momentopname", "description": "Weer, aanspoelsel, drukte en toegang kunnen op jouw dag anders zijn.", "label": "Live check" }
+    ] },
+    { "kind": "comparison", "id": "reisvorm", "title": "Kies op logistiek, niet op sterren alleen", "options": [
+      { "title": "Koh Kradan", "description": "Past in een Trang-eilandroute en kan dagtrip of verblijf zijn, afhankelijk van verbinding en seizoen.", "label": "Eilandbasis" },
+      { "title": "Bileh Beach", "description": "Wordt als bootstop op Koh Hong bezocht; controleer concrete stop, parkstatus en zeecondities.", "label": "Dagtrip" }
+    ] },
+    { "kind": "checklist", "id": "dagcheck", "title": "Controleer vlak voor vertrek", "items": ["Parkopening en toegankelijke zones", "Weer, wind en zee", "Vertrekpier en terugvaart", "Reddingsmiddelen en operatorbriefing", "Inbegrepen parktoegang", "Afval-, koraal-, wildlife- en droneregels", "Annulering bij ongeschikte omstandigheden"] },
+    { "kind": "callout", "id": "grens", "tone": "jade", "title": "Een score is geen zwemwaarschuwing", "description": "Volg de actuele aanwijzingen van park, bemanning en lokale autoriteiten. Een hoge milieuscore vervangt geen beoordeling van omstandigheden op jouw dag." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Zijn dit de eerste vijfsterrenstranden van Thailand?", "answer": "Nee. Historische PCD-publicaties noemen eerdere vijfsterrenresultaten. Dit zijn de toppers van de 2025-ronde." },
+      { "question": "Is Koh Kradan altijd rustig?", "answer": "Nee. Drukte en omstandigheden wisselen per dag en seizoen." },
+      { "question": "Kan ik Bileh Beach over land bereiken?", "answer": "Nee. Het strand ligt op Koh Hong en vraagt een toegestane bootroute." },
+      { "question": "Is zwemmen gegarandeerd veilig?", "answer": "Nee. Volg actuele waarschuwingen en instructies; de score is geen zwemveiligheidsgarantie." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Beoordeling en publicatie", "items": [
+      { "title": "Beach Star results 2025", "publisher": "Pollution Control Department", "url": "https://epo16.pcd.go.th/th/view/?file=oJM3MRkjoF5aBKD2nGq4ZaN4oGq3AHjjoGqaBUD1nGq4ZKN5oGO3ARjloGIaZaDjnGW4YKNloGS3Zxj5oGIaA3D1nGO4A3N4oGI3A0jkoGyaZUD0nGW4AKNloGO3ZxjgoJIaoUEcnJM4Y3OyoJk3nHkzoF9aqKEcnGI4ZaNloF93MRkuoJ9aoUEjnKI4YjWewEb3QWewEb3Q&n=%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7+%E0%B8%9B%E0%B8%B5+68+22092025&t=GTMgq2qxqS9cMUug", "checkedAt": "2026-08-01", "note": "Primaire tabel met stranden, totaalscores en sterren." },
+      { "title": "Thai beach ratings name five-star winners", "publisher": "Nation Thailand", "url": "https://www.nationthailand.com/news/tourism/40064030", "checkedAt": "2026-08-01", "note": "Engelstalige context bij de PCD-publicatie." }
+    ] },
+    { "kind": "related", "id": "regios", "title": "Plan de juiste kustbasis", "items": [
+      { "title": "Trang", "description": "Koppel Koh Kradan aan stad, kust en andere eilanden.", "href": "/nl/city/trang/" },
+      { "title": "Krabi", "description": "Plan Koh Hong vanuit een passende basis en dagroute.", "href": "/nl/city/krabi/" }
+    ] }
+  ]
+}

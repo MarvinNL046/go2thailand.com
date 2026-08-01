@@ -38,7 +38,7 @@ import { SourceMethodSection } from '../design/SourceMethodSection';
 const PAGE_URL = 'https://go2-thailand.com/nl/blog/harbor-island-bangkok-rooftop-waterpark-2026/';
 const PAGE_TITLE = 'Harbor Island Bangkapi: route, tickets en gezinsgids';
 const PAGE_DESCRIPTION = 'Plan Harbor Island op The Mall Lifestore Bangkapi zonder de verkeerde vestiging te boeken. Met zeven zones, route, kinderen, tijden en paklijst.';
-const HERO_IMAGE = '/images/redesign/harbor-island-bangkapi-hero.webp';
+const HERO_IMAGE = '/images/redesign/editorial/harbor-island-bangkok-rooftop-waterpark-2026-hero.webp';
 
 const navItems: PageSectionNavItem[] = [
   { href: '#vestiging', label: 'Juiste vestiging', icon: Store },

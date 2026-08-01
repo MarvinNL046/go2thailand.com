@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "koh-tao-coral-restoration-eco-diving-rules-2026",
+  "route": "/nl/blog/koh-tao-coral-restoration-eco-diving-rules-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koh Tao: koraalregels en verantwoord duiken | Go2Thailand",
+    "description": "Lees de Thaise regels voor duiken en snorkelen bij koraal, plus een controlelijst voor duikscholen en herstelprojecten op Koh Tao.",
+    "primaryKeyword": "Koh Tao koraalregels duiken",
+    "secondaryKeywords": ["verantwoord duiken Koh Tao", "koraalherstel Koh Tao", "DMCR duikregels Thailand"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/koh-tao-coral-restoration-eco-diving-rules-2026/"
+  },
+  "hero": {
+    "eyebrow": "Landelijke rifbescherming",
+    "title": "Verantwoord duiken op Koh Tao",
+    "accent": "Drijfvermogen vóór de foto",
+    "description": "Raak niets aan, voer geen dieren en kies een operator die regels, groepsgrootte en briefing aantoonbaar toepast.",
+    "image": "/images/redesign/editorial/koh-tao-coral-restoration-eco-diving-rules-2026-hero.webp",
+    "imageAlt": "Duiker die ruim boven een koraalrif zweeft met een meerboei en herstelstructuur op afstand",
+    "primaryCta": { "label": "Bekijk de regels", "href": "#regels" },
+    "secondaryCta": { "label": "Controleer je duikschool", "href": "#schoolcheck" }
+  },
+  "layout": { "kind": "policy-guide", "policyStatus": "effective", "effectiveFrom": "2025-04-23", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Bij Thaise koraalriffen gelden regels tegen aanraken, voeren, afval en schadelijke activiteiten. Voor begeleide scuba noemt DMCR maximaal vier duikers per toezichthouder; vraag je operator hoe de regels op jouw trip worden toegepast.",
+  "blocks": [
+    { "kind": "card-grid", "id": "regels", "eyebrow": "DMCR-maatregelen", "title": "Wat je in en op het water doet", "cards": [
+      { "title": "Niet aanraken", "description": "Raak, trap of sta niet op koraal en onderwaterleven.", "label": "Onder water" },
+      { "title": "Niet voeren", "description": "Voer geen vissen of andere zeedieren en jaag ze niet op.", "label": "Wildlife" },
+      { "title": "Geen afval", "description": "Laat niets in zee achter; lozing vanaf boten is verboden.", "label": "Boot" },
+      { "title": "Meerboei gebruiken", "description": "In rifgebied hoort een boot niet te ankeren op koraal.", "label": "Koh Tao-order" },
+      { "title": "Begeleid duiken", "description": "DMCR noemt één toezichthouder voor maximaal vier scuba-duikers.", "label": "Groep" },
+      { "title": "Opleidingsduik", "description": "Tijdens een trainingsduik is cameragebruik volgens de praktische DMCR-uitleg niet toegestaan.", "label": "Leren" }
+    ] },
+    { "kind": "checklist", "id": "schoolcheck", "title": "Vraag dit aan je duikschool", "items": ["Opleidingsorganisatie en instructeur", "Werkelijke groepsgrootte", "Plan bij ongeschikte zeecondities", "Materiaalcheck en noodzuurstof", "Briefing over rifregels", "Verzekering en noodprocedure", "Hoe beginners drijfvermogen oefenen"] },
+    { "kind": "comparison", "id": "herstel", "title": "Herstelproject of marketinglabel?", "options": [
+      { "title": "Controleerbaar programma", "description": "Kan vergunning, wetenschappelijke begeleiding, methode, monitoring en langetermijnbeheer uitleggen.", "label": "Sterker signaal" },
+      { "title": "Alleen een eco-label", "description": "Geeft geen methode, vergunning of meetbaar vervolg en belooft vooral een ervaring.", "label": "Doorvragen" }
+    ] },
+    { "kind": "callout", "id": "claimgrens", "tone": "cream", "title": "Geen aantallen zonder methode", "description": "De eerdere claim over honderdduizend geplante koralen en hoge overleving is verwijderd: er was geen actuele primaire bron met heldere definitie, periode en meetmethode." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Gelden de regels alleen op Koh Tao?", "answer": "Nee. De nieuwere maatregelen gelden voor duiktoerisme bij Thaise koraalriffen; voor Koh Tao bestaat daarnaast een gebiedsorder." },
+      { "question": "Mag ik fotograferen tijdens een cursusduik?", "answer": "DMCR noemt een verbod op cameragebruik tijdens opleidingsduiken. Vraag je instructeur hoe dit wordt toegepast." },
+      { "question": "Kan een beginner koraal herstellen?", "answer": "Alleen binnen een serieus programma met theorie, vaardigheden, vergunningen en passend toezicht." },
+      { "question": "Garandeert verantwoord gedrag een gezond rif?", "answer": "Nee. Het vermindert extra schade, maar riffen staan ook onder druk door hitte, vervuiling en stormen." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire DMCR-bronnen", "items": [
+      { "title": "Coral protection measures for diving tourism", "publisher": "Department of Marine and Coastal Resources", "url": "https://www.dmcr.go.th/detailAll/73648/nws/", "checkedAt": "2026-08-01", "note": "Juridische publicatie van de landelijke maatregelen." },
+      { "title": "Practical diving rules", "publisher": "Department of Marine and Coastal Resources", "url": "https://www.dmcr.go.th/detailAll/79430/nws/", "checkedAt": "2026-08-01", "note": "Publieksuitleg over gedrag, groepsgrootte, snorkelen en opleidingsduiken." },
+      { "title": "Order 755/2561", "publisher": "Department of Marine and Coastal Resources", "url": "https://newweb.dmcr.go.th/detailAll/29229/nws/", "checkedAt": "2026-08-01", "note": "Gebiedsregels voor Koh Tao, Koh Phangan en Koh Samui, waaronder anker- en lozingsverboden." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Plan je duiken per niveau", "items": [
+      { "title": "Duiken op Koh Tao", "description": "Kies cursus, school en zone op ervaring en logistiek.", "href": "/nl/islands/koh-tao/diving/" },
+      { "title": "Snorkelen op Koh Tao", "description": "Vergelijk baaien en check condities en instap.", "href": "/nl/islands/koh-tao/snorkeling/" },
+      { "title": "Koh Tao overzicht", "description": "Koppel zeeactiviteiten aan verblijf en ferry.", "href": "/nl/islands/koh-tao/" }
+    ] }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "harbor-island-bangkok-rooftop-waterpark-2026",
+  "route": "/nl/blog/harbor-island-bangkok-rooftop-waterpark-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Harbor Island Bangkapi: route en gezinscheck | Go2Thailand",
+    "description": "Plan Harbor Island Bangkapi: controleer vestiging, MRT-route, zones, kindvoorwaarden, openingstijd en ticket voordat je vertrekt.",
+    "primaryKeyword": "Harbor Island Bangkapi",
+    "secondaryKeywords": ["Harbor Island Bangkok", "waterpark Bangkok met kinderen", "The Mall Lifestore Bangkapi waterpark"],
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/harbor-island-bangkok-rooftop-waterpark-2026/"
+  },
+  "hero": {
+    "eyebrow": "Rooftopwaterpark aan de Yellow Line",
+    "title": "Harbor Island Bangkapi",
+    "accent": "Controleer vestiging vóór je boekt",
+    "description": "Bangkapi, Bangkae en HarborLand indoor zijn niet hetzelfde. Kies eerst de juiste branch, daarna je ticket en bezoekmoment.",
+    "image": "/images/redesign/editorial/harbor-island-bangkok-rooftop-waterpark-2026-hero.webp",
+    "imageAlt": "Kleurrijk rooftopwaterpark met glijbanen en lazy river boven Bangkok",
+    "primaryCta": { "label": "Kies de vestiging", "href": "#vestiging" },
+    "secondaryCta": { "label": "Routecheck", "href": "#route" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Harbor Island Bangkapi ligt op verdieping drie van The Mall Lifestore Bangkapi. Controleer altijd Bangkapi én Harbor Island, omdat de groep ook een waterpark in Bangkae en droge indoorproducten heeft.",
+  "blocks": [
+    { "kind": "comparison", "id": "vestiging", "title": "Boek het juiste product", "options": [
+      { "title": "Harbor Island Bangkapi", "description": "Rooftopwaterpark op verdieping drie van The Mall Lifestore Bangkapi.", "label": "Deze route" },
+      { "title": "Harbor Island Bangkae", "description": "Een aparte waterparkvestiging aan de westkant van Bangkok.", "label": "Andere route" },
+      { "title": "HarborLand indoor", "description": "Droge indoor playgrounds van dezelfde groep; geen automatisch waterparkticket.", "label": "Ander product" }
+    ] },
+    { "kind": "card-grid", "id": "zones", "eyebrow": "Zeven zones", "title": "Wissel wateractie en rust af", "cards": [
+      { "title": "Super en Little Island", "description": "Grote glijbanen en een spraypark; toegang blijft per toestel afhankelijk van voorwaarden." },
+      { "title": "Lazy en Toys Island", "description": "Drijven en waterspel geven een ander tempo, maar vervangen geen direct toezicht." },
+      { "title": "Jungle en Sky Rider", "description": "Obstakels en hoogte-activiteit met eigen lengte-, gewicht- en gezondheidsregels." },
+      { "title": "Art Island", "description": "Een droge creatieve pauze binnen hetzelfde bezoek." }
+    ] },
+    { "kind": "steps", "id": "route", "title": "Van MRT naar het waterpark", "steps": [
+      { "title": "Reis naar Bang Kapi", "description": "Gebruik de MRT Yellow Line en controleer op de dag zelf de actuele uitgang." },
+      { "title": "Volg The Mall Lifestore", "description": "Station, skywalk en mallroute kunnen veranderen; volg lokale bewegwijzering." },
+      { "title": "Ga naar verdieping drie", "description": "Reserveer extra tijd voor de looproute binnen het complex en ticketcontrole." }
+    ] },
+    { "kind": "checklist", "id": "gezinscheck", "title": "Controleer vóór betaling", "items": ["Bangkapi als vestiging", "Harbor Island als product", "Bezoekerscategorie en toestelregels", "Datum- en sessievoorwaarden", "Locker- en handdoekbeleid", "Weer- en onderhoudsbeleid", "Actuele totaalprijs"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Bangkapi hetzelfde als Bangkae?", "answer": "Nee. Het zijn aparte waterparkvestigingen met een eigen route en opzet." },
+      { "question": "Mag een kind vanaf twee jaar overal in?", "answer": "Nee. De algemene positionering vervangt de regels per toestel niet." },
+      { "question": "Zijn de openingstijden vast?", "answer": "Controleer de officiële branchpagina op je bezoekdag, inclusief feestdagen en tijdelijke wijzigingen." },
+      { "question": "Wat kost een ticket?", "answer": "Gebruik de actuele prijs voor jouw vestiging, datum en bezoekerscategorie; deze gids fixeert geen tarief." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële HarborLand-bronnen", "items": [
+      { "title": "Harbor Island The Mall Lifestore Bangkapi", "publisher": "HarborLand Group", "url": "https://harborlandgroup.com/harbor-island-the-mall-lifestore-bangkapi/", "checkedAt": "2026-08-01", "note": "Locatie, zones en gepubliceerde openingstijden." },
+      { "title": "Branch overview", "publisher": "HarborLand Group", "url": "https://harborlandgroup.com/branch/", "checkedAt": "2026-08-01", "note": "Controle van de verschillende vestigingen en productnamen." }
+    ] }
+  ]
+}

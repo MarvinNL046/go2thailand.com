@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T02:16:25.470Z",
+  "generatedAt": "2026-08-01T02:29:23.069Z",
   "objectiveState": "in-progress",
   "completionRule": "A family is complete only when its cited family or owner evidence proves independent locale research, premium rendered design and technical QA for every route in that family. The goal may end only when every global gate is true and the final deployment-readiness audit is explicitly signed off.",
   "localeSummary": {
@@ -9,11 +9,13 @@
       "premium": 667,
       "hybrid": 0,
       "noSignature": 33,
-      "exactOwners": 505,
-      "duplicateExactOwnerRoutes": [],
+      "exactOwners": 509,
+      "duplicateExactOwnerRoutes": [
+        "/nl/blog/harbor-island-bangkok-rooftop-waterpark-2026/"
+      ],
       "contextualAmazonRoutes": 105,
       "amazonLinks": 230,
-      "provisionalInventoryDecisions": 63,
+      "provisionalInventoryDecisions": 56,
       "designReport": "seo/audits/runtime/design-coverage-nl-2026-07-31.json",
       "sitewideReport": "seo/audits/runtime/nl-travel-guide-progress-2026-07-31.json",
       "sitewide": {
@@ -702,24 +704,24 @@
       "closed": true
     },
     "nl:editorial": {
-      "definition": "The Dutch editorial family is in progress. The blog hub and 189 independently reviewed article owners use the typed premium editorial system or a registered specialized renderer with typed evidence. Sixty-two overlapping, price-led, superseded or elapsed owners are archived with noindex; twenty-three exact duplicates also redirect permanently to established NL owners. Every remaining article still requires an explicit update, consolidation or retire decision.",
+      "definition": "The Dutch editorial family is in progress. The blog hub and 196 independently reviewed article owners use the typed premium editorial system or a registered specialized renderer with typed evidence. Sixty-four overlapping, price-led, superseded or elapsed owners are archived with noindex; twenty-four exact duplicates also redirect permanently to established NL owners. Every remaining article still requires an explicit update, consolidation or retire decision.",
       "expected": 253,
-      "complete": 190,
-      "exactOwners": 129,
-      "remainingCount": 63,
+      "complete": 197,
+      "exactOwners": 133,
+      "remainingCount": 56,
       "remaining": [
         "/nl/blog/koh-kood-quiet-island-guide-trat-2026/",
-        "/nl/blog/exercise-cope-tiger-2026-korat-air-base-thailand/",
-        "/nl/blog/harbor-island-bangkok-rooftop-waterpark-2026/",
-        "/nl/blog/healing-journey-thailand-wellness-campaign-2026/",
-        "/nl/blog/khao-sok-floating-bungalows-cheow-lan-lake-glamping-guide-2026/",
-        "/nl/blog/koh-kradan-bileh-beach-five-star-rating-thailand-2026/",
-        "/nl/blog/koh-tao-coral-restoration-eco-diving-rules-2026/",
-        "/nl/blog/middle-east-conflict-thailand-flights-airfare-2026/",
         "/nl/blog/one-bangkok-shopping-mall-tourist-guide-2026/",
         "/nl/blog/outrigger-phi-phi-island-resort-barefoot-luxury-2026/",
         "/nl/blog/phuket-best-beach-clubs-2026-yona-catch-barra-cuda/",
-        "/nl/blog/royal-ploughing-ceremony-bangkok-may-2026/"
+        "/nl/blog/royal-ploughing-ceremony-bangkok-may-2026/",
+        "/nl/blog/silom-edge-songkran-2026-bangkok-water-festival-event/",
+        "/nl/blog/similan-islands-diving-snorkelling-new-rules-2026/",
+        "/nl/blog/tagthai-app-sustainable-travel-guide-2026/",
+        "/nl/blog/thailand-3-trillion-baht-tourism-target-amazing-5-economy-2026/",
+        "/nl/blog/thailand-4am-closing-time-nightlife-law-2026/",
+        "/nl/blog/thailand-aerothai-1000-flights-cancelled-gulf-crisis-2026/",
+        "/nl/blog/thailand-cycling-tours-2026-chiang-mai-coast-guide/"
       ],
       "remainingTruncated": true,
       "evidence": [
@@ -781,7 +783,9 @@
         "seo/audits/nl-editorial-bangkok-phuket-batch-22-2026-08-01.md",
         "seo/research/nl/2026-08-01-editorial-bangkok-phuket-batch-22.md",
         "seo/audits/2026-08-01-nl-editorial-batch-23-audit.md",
-        "seo/research/nl/2026-08-01-editorial-food-hotels-rail-welfare-batch-23-current-web.md"
+        "seo/research/nl/2026-08-01-editorial-food-hotels-rail-welfare-batch-23-current-web.md",
+        "seo/audits/nl-editorial-aviation-wellness-islands-batch-24-2026-08-01.md",
+        "seo/research/nl/2026-08-01-editorial-aviation-wellness-islands-batch-24-current-web.md"
       ],
       "closed": false
     },
@@ -1018,7 +1022,7 @@
     }
   },
   "globalGates": {
-    "noDuplicateExactOwnerRoutes": true,
+    "noDuplicateExactOwnerRoutes": false,
     "allRoutesHttp200": false,
     "noMissingDesignSignature": false,
     "sitewideHardErrorsZero": true,
@@ -9126,12 +9130,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -9154,7 +9158,7 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": true,
@@ -9168,12 +9172,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -9182,12 +9186,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
       "exactOwner": false,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "family-accepted"
     },
     {
       "locale": "nl",
@@ -9196,12 +9200,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -9210,12 +9214,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
@@ -9224,12 +9228,12 @@
       "templateOwner": "editorial",
       "recommendedAction": "freshness-audit",
       "familyKey": "nl:editorial",
-      "decisionStatus": "provisional",
+      "decisionStatus": "final",
       "httpStatus": 200,
       "designCoverage": "premium-signature",
-      "exactOwner": false,
+      "exactOwner": true,
       "amazonLinks": 0,
-      "proofState": "shared-template-only"
+      "proofState": "exact-owner"
     },
     {
       "locale": "nl",
