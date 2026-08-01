@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "best-party-hostels-thailand-2026-bangkok-islands-chiang-mai",
+  "route": "/nl/blog/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Party hostels in Thailand: kies de juiste sfeer | Go2Thailand",
+    "description": "Vergelijk sociale en party hostels in Bangkok, Chiang Mai en Koh Phangan op sfeer, rust, veiligheid en locatie. Controleer altijd de live prijs.",
+    "primaryKeyword": "party hostels Thailand",
+    "secondaryKeywords": ["party hostel Bangkok", "party hostel Chiang Mai", "hostel Koh Phangan"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai/"
+  },
+  "hero": {
+    "eyebrow": "Sociaal slapen, bewust kiezen",
+    "title": "Party hostels in Thailand",
+    "accent": "Sfeer zonder verrassingen",
+    "description": "Kies niet alleen op de bar of het zwembad. Locatie, huisregels, recente reviews en een goede nachtrust bepalen of een hostel echt bij je past.",
+    "image": "/images/redesign/editorial/best-party-hostels-thailand-2026-bangkok-islands-chiang-mai-hero.webp",
+    "imageAlt": "Volwassen reizigers ontmoeten elkaar in een groene hostelbinnenplaats in Thailand",
+    "primaryCta": { "label": "Vergelijk de plekken", "href": "#bestemmingen" },
+    "secondaryCta": { "label": "Doe de boekcheck", "href": "#boekcheck" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Bangkok past bij een korte, stedelijke start; Chiang Mai bij een socialer ritme met cultuur overdag; Koh Phangan bij eilandnachten rond evenementen. Controleer per hostel de actuele programmering, leeftijdsregels, ligging en recente signalen over rust en veiligheid.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "bestemmingen",
+      "title": "Waar zoek je de sociale sfeer?",
+      "options": [
+        { "title": "Bangkok", "description": "Handig voor een energieke start of afsluiting. Controleer de laatste verbinding terug naar je wijk en het geluid rond je kamer.", "label": "Stad" },
+        { "title": "Chiang Mai", "description": "Een goede mix van gezamenlijke activiteiten, markten en cultuur. De Oude Stad en oostzijde zijn praktisch te voet.", "label": "Rustiger ritme" },
+        { "title": "Koh Phangan", "description": "Kies Haad Rin voor nabijheid van grote feesten of Thong Sala en Ban Tai voor meer afstand en flexibiliteit.", "label": "Eiland" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "boekcheck",
+      "title": "Check dit vóór je boekt",
+      "items": [
+        "Recente reviews over sfeer, schoonmaak en kluisjes",
+        "Stille uren, leeftijdsgrenzen en bezoekersbeleid",
+        "Ligging en veilige terugroute na zonsondergang",
+        "Airconditioning, privacygordijn en stopcontact bij het bed",
+        "Minimumverblijf rond evenementen en annuleringsvoorwaarden",
+        "Totaalprijs voor jouw data; prijzen veranderen per nacht"
+      ]
+    },
+    {
+      "kind": "callout",
+      "id": "veilig-uit",
+      "tone": "warning",
+      "title": "Feest sociaal, maar houd zelf de regie",
+      "description": "Spreek een terugroute af, bewaar paspoort en waardevolle spullen in een eigen slot en laat een drankje niet onbeheerd achter. Rijd niet na alcoholgebruik; kies een officiële taxi of gedeeld vervoer."
+    },
+    {
+      "kind": "affiliate",
+      "id": "live-hostelprijs",
+      "provider": "trip.com",
+      "title": "Controleer actuele verblijven",
+      "description": "Vergelijk voor jouw data het exacte kamertype, de totaalprijs en de voorwaarden. Het live aanbod bij de aanbieder is leidend.",
+      "cta": { "label": "Bekijk actuele beschikbaarheid", "href": "https://trip.tpo.lv/TmObooZ5", "external": true },
+      "placement": "party-hostels-thailand-live-stay-check",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer."
+    },
+    {
+      "kind": "related",
+      "id": "verder-plannen",
+      "title": "Plan de rest van je route",
+      "items": [
+        { "title": "Bangkok", "description": "Kies een wijk die bij je dag- en nachtritme past.", "href": "/nl/city/bangkok/" },
+        { "title": "Chiang Mai", "description": "Combineer sociale avonden met tempels en markten.", "href": "/nl/city/chiang-mai/" },
+        { "title": "Full Moon Party", "description": "Lees de actuele evenement- en veiligheidscontext.", "href": "/nl/blog/full-moon-party-koh-phangan-guide-2026/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Wat is het beste party hostel in Thailand?", "answer": "Er is geen vaste winnaar. De beste keuze hangt af van je bestemming, gewenste intensiteit, slaapbehoefte en actuele programmering." },
+        { "question": "Moet ik rond de Full Moon Party vroeg boeken?", "answer": "Beschikbaarheid en minimumverblijven kunnen rond populaire data snel veranderen. Vergelijk vroeg, maar kies voorwaarden die bij je plan passen." },
+        { "question": "Is een party hostel ook geschikt als ik wil slapen?", "answer": "Soms, maar controleer stille uren, kamerligging en recente reviews. Een sociaal hostel zonder clubconcept kan beter passen als nachtrust prioriteit heeft." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Actuele controlebronnen",
+      "items": [
+        { "title": "Ko Pha-ngan destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko-Pha-ngan/358", "checkedAt": "2026-08-01" },
+        { "title": "Hostels for fun and party in Bangkok", "publisher": "Hostelworld", "url": "https://www.hostelworld.com/hostels/asia/thailand/bangkok/f/party/", "checkedAt": "2026-08-01", "note": "Dynamisch overzicht; prijzen, beschikbaarheid en rangschikking wijzigen." },
+        { "title": "Hostels for fun and party in Chiang Mai", "publisher": "Hostelworld", "url": "https://www.hostelworld.com/hostels/asia/thailand/chiang-mai/f/party/", "checkedAt": "2026-08-01", "note": "Dynamisch overzicht; controleer altijd recente reviews en huisregels." }
+      ]
+    }
+  ]
+}

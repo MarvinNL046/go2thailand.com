@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "cape-fahn-hotel-koh-samui-private-island-luxury-2026",
+  "route": "/nl/blog/cape-fahn-hotel-koh-samui-private-island-luxury-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Cape Fahn Hotel Koh Samui: eerlijke verblijfsgids | Go2Thailand",
+    "description": "Past Cape Fahn Hotel bij jouw reis? Beoordeel de privé-eilandligging, poolvilla’s, bereikbaarheid en live voorwaarden zonder vaste prijsclaims.",
+    "primaryKeyword": "Cape Fahn Hotel Koh Samui",
+    "secondaryKeywords": ["Cape Fahn review", "privé eiland hotel Koh Samui", "poolvilla Choeng Mon"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/cape-fahn-hotel-koh-samui-private-island-luxury-2026/"
+  },
+  "hero": {
+    "eyebrow": "Privé-eiland, praktische afweging",
+    "title": "Cape Fahn Hotel op Koh Samui",
+    "accent": "Voor rust die bestemming wordt",
+    "description": "De eilandligging en zelfstandige poolvilla’s maken dit een bijzonder verblijf. Controleer wel vervoer, villatype en actuele voorwaarden voor jouw data.",
+    "image": "/images/redesign/editorial/cape-fahn-hotel-koh-samui-private-island-luxury-2026-hero.webp",
+    "imageAlt": "Tropische poolvilla op een groen eiland voor de kust van Koh Samui",
+    "primaryCta": { "label": "Bekijk de afweging", "href": "#past-dit-bij-je" },
+    "secondaryCta": { "label": "Controleer live", "href": "#live-prijs" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Cape Fahn past vooral wanneer privacy, een ruime poolvilla en rust nabij Choeng Mon belangrijker zijn dan direct uit je hotel een levendige buurt in lopen. Vergelijk voor jouw data het exacte villatype, transfers, inbegrepen onderdelen en annuleringsvoorwaarden.",
+  "blocks": [
+    {
+      "kind": "comparison",
+      "id": "past-dit-bij-je",
+      "title": "Wanneer past het wel of niet?",
+      "options": [
+        { "title": "Sterke match", "description": "Je zoekt privacy, verblijft graag veel op het resort en ziet de villa zelf als belangrijk onderdeel van de reis.", "label": "Rust en ruimte" },
+        { "title": "Minder logische match", "description": "Je wilt iedere avond spontaan door een levendige wijk lopen of gebruikt hotelvoorzieningen nauwelijks.", "label": "Veel onderweg" }
+      ]
+    },
+    {
+      "kind": "card-grid",
+      "id": "wat-je-krijgt",
+      "eyebrow": "Controleer per boeking",
+      "title": "Vier punten die waarde bepalen",
+      "cards": [
+        { "title": "Villatype", "description": "Het resort noemt zelfstandige poolvilla’s in verschillende formaten. Bekijk plattegrond, bezetting en uitzicht van de exacte categorie." },
+        { "title": "Eilandtransfer", "description": "Vraag hoe en wanneer de verbinding met Koh Samui werkt, vooral bij late aankomst of slecht weer." },
+        { "title": "Eten op locatie", "description": "Long Dtai richt zich op Zuid-Thaise keuken; opening, menu en reservering kunnen veranderen." },
+        { "title": "Volledige eilandhuur", "description": "De officiële site biedt een private-islandoptie. Dit is een aparte aanvraag met eigen capaciteit en voorwaarden." }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "boekcheck",
+      "title": "Vergelijk dezelfde verblijfsvraag",
+      "items": ["Exact villatype en maximale bezetting", "Totaalprijs inclusief belastingen en toeslagen", "Luchthaven- en eilandtransfer", "Ontbijt en andere inbegrepen onderdelen", "Annulering, vooruitbetaling en wijzigingsvoorwaarden", "Toegankelijkheid en mobiliteit op het terrein"]
+    },
+    {
+      "kind": "affiliate",
+      "id": "live-prijs",
+      "provider": "trip.com",
+      "title": "Controleer de actuele verblijfsmogelijkheden",
+      "description": "Bekijk voor jouw data of Cape Fahn of een passend alternatief beschikbaar is. De live totaalprijs en voorwaarden bij de aanbieder zijn leidend.",
+      "cta": { "label": "Bekijk actuele prijzen", "href": "https://trip.tpo.lv/TmObooZ5", "external": true },
+      "placement": "cape-fahn-live-hotel-check",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer."
+    },
+    {
+      "kind": "related",
+      "id": "samui-plannen",
+      "title": "Zet het verblijf in context",
+      "items": [
+        { "title": "Koh Samui", "description": "Bekijk stranden, vervoer en logische verblijfsduur.", "href": "/nl/city/koh-samui/" },
+        { "title": "Beste hotels op Koh Samui", "description": "Vergelijk ook andere gebieden en verblijfstypen.", "href": "/nl/best-hotels/koh-samui/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Ligt Cape Fahn op een privé-eiland?", "answer": "Ja. Volgens het hotel ligt het resort op Koh Fahn, vlak voor Choeng Mon aan de noordoostkant van Koh Samui." },
+        { "question": "Wat kost Cape Fahn Hotel?", "answer": "De prijs verandert met datum, villatype en voorwaarden. Controleer daarom de actuele totaalprijs in plaats van een vast bedrag uit een gids." },
+        { "question": "Kan het hele eiland worden afgehuurd?", "answer": "De officiële site beschrijft een volledige private-islandoptie. Capaciteit, inbegrepen diensten en prijs horen bij een actuele offerte van het hotel." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire hotelbronnen",
+      "items": [
+        { "title": "Cape Fahn Private Islands Hotel", "publisher": "Cape Fahn Hotel", "url": "https://www.capefahnhotel.com/", "checkedAt": "2026-08-01" },
+        { "title": "Private island information", "publisher": "Cape Fahn Hotel", "url": "https://www.capefahnhotel.com/th/private-islands-samui/", "checkedAt": "2026-08-01", "note": "Capaciteit en inbegrepen onderdelen kunnen per offerte wijzigen." },
+        { "title": "Ko Samui destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko-Samui/361", "checkedAt": "2026-08-01" }
+      ]
+    }
+  ]
+}

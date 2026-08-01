@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "camping-thailand-national-parks-guide-2026",
+  "route": "/nl/blog/camping-thailand-national-parks-guide-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Kamperen in nationale parken van Thailand | Go2Thailand",
+    "description": "Praktische gids voor kamperen in Thaise nationale parken: reserveren, seizoen, uitrusting, parkregels en drie logische startpunten.",
+    "primaryKeyword": "kamperen Thailand nationale parken",
+    "secondaryKeywords": ["kamperen Khao Yai", "camping Doi Inthanon", "tent huren Thailand nationaal park"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/camping-thailand-national-parks-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Buiten slapen, goed voorbereid",
+    "title": "Kamperen in Thaise nationale parken",
+    "accent": "Van reservering tot regennacht",
+    "description": "Een parkcamping kan eenvoudig en bijzonder zijn. Controleer opening, voorzieningen en weersrisico’s rechtstreeks bij het park voordat je vertrekt.",
+    "image": "/images/redesign/editorial/camping-thailand-national-parks-guide-2026-hero.webp",
+    "imageAlt": "Groene tent op een aangewezen bergcamping in Thailand bij zonsopkomst",
+    "primaryCta": { "label": "Kies een park", "href": "#parken" },
+    "secondaryCta": { "label": "Pak verstandig in", "href": "#paklijst" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kampeer alleen op een aangewezen terrein en controleer vóór vertrek de actuele opening, reserveringsmethode, entree, huuruitrusting en weerswaarschuwingen. Regels en tarieven verschillen per park en seizoen.",
+  "blocks": [
+    {
+      "kind": "card-grid",
+      "id": "parken",
+      "eyebrow": "Drie verschillende ervaringen",
+      "title": "Waar begin je?",
+      "cards": [
+        { "title": "Khao Yai", "description": "Bos, grasland en wildwaarnemingen op gepaste afstand. Praktisch als natuuruitstap vanuit Centraal-Thailand.", "href": "/nl/city/nakhon-ratchasima/attractions/khao-yai-national-park/" },
+        { "title": "Doi Inthanon", "description": "Koelere bergnachten en wandelpaden. Neem extra lagen mee en controleer seizoenssluitingen.", "href": "/nl/city/chiang-mai/attractions/doi-inthanon/" },
+        { "title": "Erawan", "description": "Combineer een aangewezen camping met Kanchanaburi; check de parkstatus en watervalregels vooraf.", "href": "/nl/city/kanchanaburi/attractions/erawan-national-park/" }
+      ]
+    },
+    {
+      "kind": "steps",
+      "id": "reserveren",
+      "title": "Van plan naar staanplaats",
+      "steps": [
+        { "title": "Controleer het park", "description": "Bekijk opening, toegankelijke zones en eventuele tijdelijke sluitingen via het DNP of het park zelf." },
+        { "title": "Leg je plek vast", "description": "Gebruik de officiële reserveringsroute wanneer die vereist is en bewaar de bevestiging offline." },
+        { "title": "Vraag naar materiaal", "description": "Tent- en beddengoedverhuur is niet overal gelijk; bevestig wat beschikbaar en inbegrepen is." },
+        { "title": "Meld je ter plaatse", "description": "Volg instructies van rangers en zet alleen op binnen de toegewezen campingzone." }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "paklijst",
+      "title": "Compacte kampeercheck",
+      "items": ["Hoofdlamp en reserve-energie", "Lichte regenlaag en droge slaapkleding", "Insectenwering en afgesloten voedselopslag", "Voldoende drinkwater of bevestigde tappunten", "Offline kaart en parkcontact", "Warme laag voor hoger gelegen campings"]
+    },
+    {
+      "kind": "callout",
+      "id": "dieren-en-weer",
+      "tone": "warning",
+      "title": "Blijf op afstand van dieren en waterlopen",
+      "description": "Voer geen dieren, laat geen eten buiten liggen en volg aanwijzingen van rangers. Bij zware regen, onweer of een officiële waarschuwing gaat veiligheid vóór de overnachting."
+    },
+    {
+      "kind": "related",
+      "id": "verder-buiten",
+      "title": "Meer natuur plannen",
+      "items": [
+        { "title": "Khao Yai daggids", "description": "Oriënteer je op routes en bereikbaarheid.", "href": "/nl/blog/khao-yai-national-park-day-trip-guide-2026/" },
+        { "title": "Erawan vanuit Kanchanaburi", "description": "Plan vervoer en een realistische dagindeling.", "href": "/nl/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/" },
+        { "title": "SIM-kaart in Thailand", "description": "Regel een mobiele back-up, maar reken niet overal op bereik.", "href": "/nl/travel-guides/sim-card-thailand/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Kan ik overal in een Thais nationaal park kamperen?", "answer": "Nee. Gebruik alleen aangewezen terreinen en volg de actuele parkregels en rangerinstructies." },
+        { "question": "Kan ik een tent huren?", "answer": "Bij sommige parken wel, maar assortiment, tarieven en beschikbaarheid verschillen. Bevestig dit rechtstreeks vóór vertrek." },
+        { "question": "Wat is de beste kampeerperiode?", "answer": "Dat verschilt per regio en hoogte. Controleer de lokale weersverwachting, parkopening en eventuele seizoenssluiting." }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Officiële controlebronnen",
+      "items": [
+        { "title": "National Park accommodation and services booking", "publisher": "Department of National Parks, Wildlife and Plant Conservation", "url": "https://portal.dnp.go.th/", "checkedAt": "2026-08-01", "note": "Controleer reservering, parkstatus en actuele voorwaarden per park." },
+        { "title": "Camping at Khao Yai", "publisher": "Khao Yai National Park", "url": "https://khaoyainationalpark.com/en/plan-your-visit/thing-to-do/camping", "checkedAt": "2026-08-01" },
+        { "title": "Chiang Mai destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101", "checkedAt": "2026-08-01" }
+      ]
+    }
+  ]
+}

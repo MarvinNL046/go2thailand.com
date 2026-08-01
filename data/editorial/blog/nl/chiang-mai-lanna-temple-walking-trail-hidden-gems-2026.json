@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "chiang-mai-lanna-temple-walking-trail-hidden-gems-2026",
+  "route": "/nl/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/",
+  "cluster": "culture-wellness",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Chiang Mai tempelroute: Lanna-cultuur te voet | Go2Thailand",
+    "description": "Een rustige, zelfgeleide tempelwandeling door de Oude Stad van Chiang Mai, plus een aparte bosroute naar Wat Umong en Wat Pha Lat.",
+    "primaryKeyword": "Chiang Mai tempelroute",
+    "secondaryKeywords": ["tempels Chiang Mai wandelen", "Lanna tempels Chiang Mai", "Wat Umong Wat Pha Lat"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026/"
+  },
+  "hero": {
+    "eyebrow": "Lanna in een rustig tempo",
+    "title": "Chiang Mai tempelroute",
+    "accent": "Eén stadswandeling, één boslus",
+    "description": "Ontdek bakstenen chedi’s, teakhouten viharns en levende gebedsplekken zonder onlogische afstanden in één wandeling te proppen.",
+    "image": "/images/redesign/editorial/chiang-mai-lanna-temple-walking-trail-hidden-gems-2026-hero.webp",
+    "imageAlt": "Reiziger loopt respectvol door een rustige Lanna-tempelhof in Chiang Mai",
+    "primaryCta": { "label": "Loop de stadsroute", "href": "#stadsroute" },
+    "secondaryCta": { "label": "Bekijk de boslus", "href": "#boslus" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Loop in de Oude Stad van Wat Lok Moli via Wat Chiang Man naar Wat Chedi Luang. Plan Wat Umong en Wat Pha Lat als een aparte halve dag met vervoer tussen de locaties; die combinatie is geen aaneengesloten stadswandeling.",
+  "blocks": [
+    {
+      "kind": "steps",
+      "id": "stadsroute",
+      "title": "De compacte stadsroute",
+      "description": "Reken zonder lange stops op ongeveer een halve dag en pas de volgorde aan je verblijf aan.",
+      "steps": [
+        { "title": "Wat Lok Moli", "description": "Begin noordelijk van de gracht bij de bakstenen chedi en donkere houten viharn." },
+        { "title": "Wat Chiang Man", "description": "Wandel de Oude Stad in naar een tempel die nauw met de vroege stadsgeschiedenis verbonden is." },
+        { "title": "Wat Chedi Luang", "description": "Eindig centraal bij de monumentale, deels geruïneerde chedi en neem tijd voor het actieve tempelterrein." }
+      ]
+    },
+    {
+      "kind": "comparison",
+      "id": "boslus",
+      "title": "De boslus plan je apart",
+      "options": [
+        { "title": "Wat Umong", "description": "Een bosrijke tempel ten westen van de stad, bekend om tunnels en een andere sfeer dan de Oude Stad.", "label": "Bos en tunnels" },
+        { "title": "Wat Pha Lat", "description": "Een stille bergtempel langs de route richting Doi Suthep. Ga voorbereid op hoogteverschil en veranderend weer.", "label": "Berghelling" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "etiquette",
+      "title": "Bezoek met respect",
+      "items": ["Bedek schouders en knieën", "Doe schoenen uit waar dat wordt gevraagd", "Praat zacht en blokkeer geen gebedsruimte", "Vraag toestemming voordat je mensen fotografeert", "Raak religieuze objecten niet aan", "Controleer lokale aanwijzingen en opening bij aankomst"]
+    },
+    {
+      "kind": "callout",
+      "id": "verborgen",
+      "tone": "cream",
+      "title": "‘Verborgen’ betekent hier vooral rustiger",
+      "description": "Deze tempels zijn geen geheime plekken en blijven actieve religieuze locaties. Verwacht op feestdagen en populaire uren nog steeds bezoekers."
+    },
+    {
+      "kind": "related",
+      "id": "meer-chiang-mai",
+      "title": "Maak je Chiang Mai-dag compleet",
+      "items": [
+        { "title": "Chiang Mai hoofdgids", "description": "Bepaal wijk, vervoer en verblijfsduur.", "href": "/nl/city/chiang-mai/" },
+        { "title": "Oude Stad", "description": "Lees meer over de historische stadskern.", "href": "/nl/city/chiang-mai/attractions/old-city-chiang-mai/" },
+        { "title": "Doi Suthep", "description": "Plan de bekendste bergtempel als afzonderlijke uitstap.", "href": "/nl/city/chiang-mai/attractions/doi-suthep/" }
+      ]
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "question": "Kan ik alle vijf tempels te voet bezoeken?", "answer": "Niet als één logische stadswandeling. De drie tempels in en rond de Oude Stad vormen een compacte route; Wat Umong en Wat Pha Lat plan je apart." },
+        { "question": "Is de tempelroute gratis?", "answer": "Toegang en donatiebeleid kunnen per tempel veranderen. Controleer de aanwijzingen ter plaatse en neem een kleine contante buffer mee." },
+        { "question": "Wat trek ik aan?", "answer": "Kies kleding die schouders en knieën bedekt en schoenen die je gemakkelijk uitdoet."
+        }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Bestemmingsbronnen",
+      "items": [
+        { "title": "Chiang Mai destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101", "checkedAt": "2026-08-01" },
+        { "title": "Attractions near Chiang Mai moat", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Promotions/78/4-most-visited-tourist-attractions-in-near-chiang-mai-moat", "checkedAt": "2026-08-01" }
+      ]
+    }
+  ]
+}
