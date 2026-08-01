@@ -283,6 +283,18 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/where-to-stay-chiang-mai-neighborhoods/",
+        destination: "/nl/best-hotels/chiang-mai/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-10-day-itinerary/",
+        destination: "/nl/itineraries/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

@@ -33,9 +33,17 @@ const profileDirectory = resolve(root, 'data', 'editorial', 'blog', 'nl');
 const profileSlugs = readdirSync(profileDirectory)
   .filter((file) => file.endsWith('.json'))
   .map((file) => file.replace(/\.json$/, ''));
+const manifestRouteBySlug = new Map(
+  manifest.entries
+    .filter((entry) => entry.kind === 'article' && entry.slug)
+    .map((entry) => [entry.slug as string, entry.route]),
+);
 
 let verifiedProfileCount = 0;
 for (const slug of profileSlugs) {
+  const manifestRoute = manifestRouteBySlug.get(slug);
+  if (acceptedOnly && manifestRoute && !acceptedRoutes.has(manifestRoute)) continue;
+
   const profile = requireNlEditorialProfile(slug);
   if (!acceptedRoutes.has(profile.route)) {
     if (acceptedOnly) continue;
