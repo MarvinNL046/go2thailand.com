@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thai-cooking-classes-chiang-mai",
+  "route": "/nl/blog/thai-cooking-classes-chiang-mai/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Kookcursus Chiang Mai kiezen: praktische gids | Go2Thailand",
+    "description": "Vergelijk kooklessen in Chiang Mai op hands-on tijd, menu, marktbezoek, groepsvorm, dieetafhandeling, vervoer en actuele voorwaarden.",
+    "primaryKeyword": "kookcursus Chiang Mai",
+    "secondaryKeywords": ["Thaise kookles Chiang Mai", "cooking class Chiang Mai", "kookschool Chiang Mai"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/thai-cooking-classes-chiang-mai/"
+  },
+  "hero": {
+    "eyebrow": "Van markt naar wok",
+    "title": "Kookcursus in Chiang Mai",
+    "accent": "Kies wat je werkelijk wilt leren",
+    "description": "Een lang menu is niet automatisch een betere les. Vergelijk techniek, eigen werkplek, dieetafhandeling en vervoer.",
+    "image": "/images/redesign/editorial/thai-cooking-classes-chiang-mai-hero.webp",
+    "imageAlt": "Thaise kookdocent bereidt een gerecht tussen verse ingrediënten in Chiang Mai",
+    "primaryCta": { "label": "Vergelijk lesvormen", "href": "#lesvorm" },
+    "secondaryCta": { "label": "Boekingscheck", "href": "#boeken" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "class", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kies een kookcursus in Chiang Mai op basis van hoeveel je zelf kookt, welke technieken je leert en hoe allergenen of dieetwensen worden behandeld. Controleer menu, ophaalgebied en voorwaarden live.",
+  "blocks": [
+    { "kind": "comparison", "id": "lesvorm", "title": "Welke lesvorm past bij jou?", "options": [
+      { "title": "Kleine hands-on les", "description": "Meer feedback en eigen kooktijd; controleer of iedereen een eigen werkplek heeft.", "label": "Techniek" },
+      { "title": "Markt plus kookles", "description": "Nuttig voor ingrediëntenkennis als het marktdeel uitleg bevat en niet alleen een fotostop is.", "label": "Context" },
+      { "title": "Boerderij of buitenlocatie", "description": "Meer omgeving en vaak transfer; check reistijd, hitte, muggen en terugkomst.", "label": "Halve dag" }
+    ] },
+    { "kind": "steps", "id": "kiezen", "title": "Kies in vier stappen", "steps": [
+      { "title": "Bepaal je leerdoel", "description": "Wil je currypasta, woktechniek, Noord-Thaise gerechten of vooral een sociale activiteit?" },
+      { "title": "Lees het menu als lesplan", "description": "Controleer wat je zelf maakt, wat wordt voorgedaan en wat al voorbereid is." },
+      { "title": "Bespreek dieet en allergie", "description": "Vraag naar pasta, vissaus, garnalenpasta, noten en kruiscontact vóór betaling." },
+      { "title": "Controleer logistiek", "description": "Vergelijk ophaalzone, startpunt, terugkomst, minimumdeelname en annulering." }
+    ] },
+    { "kind": "callout", "id": "veiligheid", "tone": "warning", "title": "Zelf koken vraagt echte keukenhygiëne", "description": "Was handen, scheid rauw en gaar, verhit grondig, houd eten op veilige temperatuur en gebruik veilig water en grondstoffen. Vraag hulp als een werkplek of ingrediënt niet goed voelt." },
+    { "kind": "affiliate", "id": "boeken", "provider": "klook", "title": "Vergelijk actuele kooklessen", "description": "Bekijk menu, locatie, eigen werkplek, groepsgrootte, taal, dieetopties en voorwaarden. Sorteer niet alleen op beoordeling of laagste prijs.", "cta": { "label": "Bekijk actuele lessen", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true }, "placement": "chiang-mai-cooking-class-compare", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is een marktbezoek de moeite waard?", "answer": "Ja als de docent ingrediënten, vervanging en kwaliteit uitlegt. Een korte fotostop zonder les voegt minder toe." },
+      { "question": "Kan een kookles vegetarisch?", "answer": "Vaak, maar tofu of groente is niet genoeg. Vraag ook naar vissaus, garnalenpasta, bouillon en gedeelde materialen." },
+      { "question": "Wat trek je aan?", "answer": "Draag koele kleding en gesloten of stevige schoenen. Vermijd losse mouwen en volg de veiligheidsinstructie bij vuur en messen." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Verdiep je in Chiang Mai food", "items": [
+      { "title": "Eten in Chiang Mai", "description": "Kies gerechten, markten en eetmomenten buiten de les.", "href": "/nl/city/chiang-mai/food/" },
+      { "title": "Khao soi", "description": "Leer het noordelijke gerecht herkennen en bestellen.", "href": "/nl/blog/khao-soi-chiang-mai-guide/" },
+      { "title": "Kooklessen in Thailand", "description": "Vergelijk steden als Chiang Mai niet vaststaat.", "href": "/nl/best-cooking-classes-in-thailand/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Bronnen", "items": [
+      { "title": "Chiang Mai", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang-Mai/101", "checkedAt": "2026-08-01", "note": "Officiële bestemmingscontext." },
+      { "title": "Five keys to safer food", "publisher": "World Health Organization", "url": "https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food", "checkedAt": "2026-08-01", "note": "Voedselveiligheidskader voor een hands-on les." }
+    ] }
+  ]
+}

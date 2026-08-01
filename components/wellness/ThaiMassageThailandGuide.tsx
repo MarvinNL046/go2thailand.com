@@ -35,7 +35,7 @@ import { SectionHeading } from '../design/SectionHeading';
 import { SourceMethodSection } from '../design/SourceMethodSection';
 
 const PAGE_URL = 'https://go2-thailand.com/nl/blog/thai-massage-guide-types-prices/';
-const HERO_IMAGE = '/images/redesign/thai-massage-hero.webp';
+const HERO_IMAGE = '/images/redesign/editorial/thai-massage-guide-types-prices-hero.webp';
 const PAGE_TITLE = 'Thaise massage in Thailand: soorten, prijs en etiquette';
 const PAGE_DESCRIPTION = 'Kies een Thaise massage die bij je past. Vergelijk traditioneel, olie, voet en kruidenkompres, met actuele prijscheck, kleding, consent en veiligheid.';
 
@@ -118,7 +118,7 @@ const faqs = [
   },
   {
     question: 'Wat kost een Thaise massage in Thailand?',
-    answer: 'Er bestaat geen betrouwbare landelijke standaardprijs: stad, locatie, duur, type en serviceniveau maken veel verschil. Als controleerbaar voorbeeld vermeldde Wat Pho op 25 juli 2026 voor Thai massage 340 THB voor 30 minuten, 520 THB voor 60 minuten en 1.040 THB voor 120 minuten. Zie dit niet als marktgemiddelde en controleer altijd de actuele menukaart, duur en toeslagen.',
+    answer: 'Er bestaat geen betrouwbare landelijke standaardprijs: stad, locatie, duur, type en serviceniveau maken veel verschil. Controleer daarom de actuele menukaart van de gekozen aanbieder, inclusief duur, toeslagen en wat wel of niet inbegrepen is.',
   },
   {
     question: 'Hoeveel fooi geef je voor een massage in Thailand?',
@@ -177,7 +177,7 @@ function createSchemas() {
       description: PAGE_DESCRIPTION,
       image: `https://go2-thailand.com${HERO_IMAGE}`,
       datePublished: '2026-03-21',
-      dateModified: '2026-07-25',
+      dateModified: '2026-08-01',
       inLanguage: 'nl-NL',
       mainEntityOfPage: PAGE_URL,
       author: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
@@ -379,14 +379,18 @@ export function ThaiMassageThailandGuide() {
               <div className="overflow-hidden rounded-[28px] border border-jade/10 bg-white shadow-editorial-card">
                 <div className="grid md:grid-cols-[0.42fr_0.58fr]">
                   <div className="bg-jade p-7 text-white sm:p-9">
-                    <p className="eyebrow !text-saffron-light">Officieel voorbeeld</p>
-                    <h3 className="font-display text-[2.65rem] font-semibold leading-[0.9]">Wat Pho op 25 juli 2026</h3>
-                    <p className="mt-5 text-xs font-medium leading-6 text-white/64">De officiële bezoekpagina vermeldde voor Thai massage én foot massage dezelfde drie duurprijzen. Controleer ze opnieuw op je reisdag.</p>
+                    <p className="eyebrow !text-saffron-light">Live controlebron</p>
+                    <h3 className="font-display text-[2.65rem] font-semibold leading-[0.9]">Open de actuele menukaart</h3>
+                    <p className="mt-5 text-xs font-medium leading-6 text-white/64">Een officiële aanbieder laat zien hoe type, duur en setting samen de prijs vormen. Gebruik de menukaart van je reisdag, niet een bedrag uit een oude gids.</p>
                     <a href="https://watpho.com/index.php/en/contact/plan" target="_blank" rel="noopener noreferrer" className="mt-6 inline-flex items-center gap-2 text-xs font-extrabold text-white">Bekijk de actuele bron <ExternalLink size={14} className="text-saffron-light" /></a>
                   </div>
                   <div className="grid divide-y divide-jade/10 p-7 sm:p-9">
-                    {[['30 minuten', '340 THB'], ['60 minuten', '520 THB'], ['120 minuten', '1.040 THB']].map(([duration, price]) => (
-                      <div key={duration} className="flex items-center justify-between gap-4 py-5 first:pt-0 last:pb-0"><span className="text-sm font-extrabold text-jade">{duration}</span><span className="font-display text-[1.8rem] font-semibold text-saffron-dark">{price}</span></div>
+                    {[
+                      ['Type', 'Traditioneel, olie, voet of kompres'],
+                      ['Duur', 'Vergelijk dezelfde sessielengte'],
+                      ['Inbegrepen', 'Kleding, producten en eventuele toeslagen'],
+                    ].map(([label, value]) => (
+                      <div key={label} className="py-5 first:pt-0 last:pb-0"><span className="text-sm font-extrabold text-jade">{label}</span><span className="mt-2 block text-sm font-semibold leading-6 text-charcoal/66">{value}</span></div>
                     ))}
                   </div>
                 </div>
@@ -398,7 +402,7 @@ export function ThaiMassageThailandGuide() {
                   ['Vóór je betaalt', 'Eindbedrag en betaalwijze'],
                 ].map(([title, text], index) => <article key={title} className="rounded-2xl border border-jade/10 bg-white p-5"><span className="grid h-8 w-8 place-items-center rounded-full bg-[#fff0d5] text-xs font-extrabold text-saffron-dark">0{index + 1}</span><h3 className="mt-4 text-sm font-extrabold text-jade">{title}</h3><p className="mt-2 text-xs font-medium leading-5 text-charcoal/62">{text}</p></article>)}
               </div>
-              <p className="mt-5 text-[11px] font-medium leading-5 text-charcoal/56">Wat Pho is hier een transparant prijsanker, geen aanbeveling voor jouw gezondheid en geen landelijk prijsplafond. Valutawaarde, menu’s, promoties en beschikbaarheid kunnen veranderen.</p>
+              <p className="mt-5 text-[11px] font-medium leading-5 text-charcoal/56">Wat Pho is hier alleen een transparante live controlebron, geen aanbeveling voor jouw gezondheid en geen landelijk prijsplafond. Menu’s, promoties en beschikbaarheid kunnen veranderen.</p>
             </div>
           </div>
         </section>
@@ -590,7 +594,7 @@ export function ThaiMassageThailandGuide() {
 
         <SourceMethodSection
           title="Bronnen die erfgoed, prijs en veiligheid uit elkaar houden"
-          description="DFS stuurde de zoekintentie, concurrentiegaten en letterlijke PAA. Voor veranderlijke of health-adjacent claims gebruikten we primaire instanties. Prijzen zijn gedateerd; traditionele begrippen worden als traditie beschreven en niet als bewezen behandeling. Laatst inhoudelijk gecontroleerd: 25 juli 2026."
+          description="Voor veranderlijke en health-adjacent claims gebruiken we primaire instanties. Prijzen worden alleen via een actuele bron gecontroleerd; traditionele begrippen worden als traditie beschreven en niet als bewezen behandeling. Laatst inhoudelijk gecontroleerd: 1 augustus 2026."
           sources={sources}
         />
       </div>

@@ -32,7 +32,7 @@ import { SectionHeading } from '../design/SectionHeading';
 import { SourceMethodSection } from '../design/SourceMethodSection';
 
 const PAGE_URL = 'https://go2-thailand.com/nl/blog/thai-curry-guide-green-red-yellow-massaman-panang/';
-const HERO_IMAGE = '/images/redesign/thai-curry-guide-hero.webp';
+const HERO_IMAGE = '/images/redesign/editorial/thai-curry-guide-green-red-yellow-massaman-panang-hero.webp';
 const PAGE_TITLE = 'Thaise curry kiezen: groen, rood, geel, massaman of panang';
 const PAGE_DESCRIPTION = 'Vergelijk vijf bekende Thaise curry’s op smaak, textuur, pit en allergenen. Met besteltips, Thaise zinnen en een praktische kookgids.';
 
@@ -220,7 +220,7 @@ function createSchemas() {
       description: PAGE_DESCRIPTION,
       image: `https://go2-thailand.com${HERO_IMAGE}`,
       datePublished: '2026-05-06',
-      dateModified: '2026-07-25',
+      dateModified: '2026-08-01',
       inLanguage: 'nl-NL',
       mainEntityOfPage: PAGE_URL,
       author: { '@type': 'Organization', name: 'Go2Thailand', url: 'https://go2-thailand.com/' },
@@ -636,7 +636,7 @@ export function ThaiCurryGuide() {
         <SourceMethodSection
           eyebrow="Bronnen & redactionele methode"
           title="Smaaktaal met ruimte voor variatie"
-          description="Deze gids combineert Thaise publieke cultuur- en handelsbronnen met zelfstandige Nederlandse zoek-, PAA- en concurrentieanalyse. We gebruiken bewust woorden als ‘vaak’ en ‘doorgaans’: curryrecepten zijn geen universele productspecificaties. Laatste inhoudelijke controle: 25 juli 2026."
+          description="Deze gids gebruikt actuele Thaise publieke cultuur- en handelsbronnen en controleert veranderlijke informatie rechtstreeks bij de verantwoordelijke bron. We gebruiken bewust woorden als ‘vaak’ en ‘doorgaans’: curryrecepten zijn geen universele productspecificaties. Laatste inhoudelijke controle: 1 augustus 2026."
           sources={sources}
         />
 

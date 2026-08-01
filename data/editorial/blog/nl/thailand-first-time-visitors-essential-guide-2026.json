@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-first-time-visitors-essential-guide-2026",
+  "route": "/nl/blog/thailand-first-time-visitors-essential-guide-2026/",
+  "cluster": "planning",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Eerste keer Thailand: gids samengevoegd | Go2Thailand",
+    "description": "Deze dubbele startersgids is gearchiveerd. Ga naar onze actuele hoofdpagina voor je eerste reis naar Thailand.",
+    "primaryKeyword": "gearchiveerde eerste Thailand gids",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/thailand-first-time-visitors-essential-guide-2026/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Inhoud samengevoegd",
+    "title": "Je eerste Thailandgids is verhuisd",
+    "accent": "Eén actuele hoofdpagina",
+    "description": "We onderhouden documenten, aankomst en startersadvies voortaan op één duidelijke owner.",
+    "image": "/images/redesign/editorial/thailand-first-time-visitors-essential-guide-2026-hero.webp",
+    "imageAlt": "Reiziger kijkt uit over een Thaise tempel en groen landschap",
+    "primaryCta": { "label": "Open de actuele startersgids", "href": "/nl/thailand-for-first-timers/" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze blogroute is gearchiveerd omdat `/nl/thailand-for-first-timers/` de bestaande owner is voor een eerste reis naar Thailand.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Ga naar de actuele startersgids", "description": "Lees de onderhouden voorbereiding voor documenten, aankomst, routekeuze en praktische aandachtspunten.", "cta": { "label": "Thailand voor de eerste keer", "href": "/nl/thailand-for-first-timers/" } },
+    { "kind": "related", "id": "route", "title": "Daarna je route kiezen", "items": [{ "title": "Thailand in 2 weken", "description": "Gebruik een haalbare route met logische bases en buffertijd.", "href": "/nl/blog/thailand-itinerary-2-weeks/" }] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële aankomstbron", "items": [{ "title": "Thailand Digital Arrival Card manual", "publisher": "Thailand Immigration Bureau", "url": "https://tdac.immigration.go.th/manual/en/", "checkedAt": "2026-08-01" }] }
+  ]
+}

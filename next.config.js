@@ -257,6 +257,32 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      // Consolidate three reviewed NL planning/comparison duplicates into
+      // their stronger canonical owners; English routes remain untouched.
+      {
+        source: "/nl/blog/goedkoopste-vs-duurste-hotel-bangkok/",
+        destination: "/nl/blog/cheapest-vs-most-expensive-hotel-bangkok/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-first-time-visitors-essential-guide-2026/",
+        destination: "/nl/thailand-for-first-timers/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/thailand-with-kids-family-travel-guide/",
+        destination: "/nl/travel-guides/thailand-with-kids/",
+        permanent: true,
+        locale: false,
+      },
+      {
+        source: "/nl/blog/tom-yum-goong-guide/",
+        destination: "/nl/food/tom-yum-goong/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

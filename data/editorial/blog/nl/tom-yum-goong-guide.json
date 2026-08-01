@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "tom-yum-goong-guide",
+  "route": "/nl/blog/tom-yum-goong-guide/",
+  "cluster": "food",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Tom yum goong: samengevoegd met de dish-owner | Go2Thailand", "description": "Deze oude blog is samengevoegd met de complete tom yum goong-pagina voor smaak, bestellen, ingrediënten, allergenen en cultuur.", "primaryKeyword": "tom yum goong oude route", "searchIntent": "navigational", "canonicalPath": "/nl/blog/tom-yum-goong-guide/", "noindex": true },
+  "hero": { "eyebrow": "Samengevoegde gerechtpagina", "title": "Tom yum goong heeft één owner", "accent": "Soep, cultuur en allergenen", "description": "De complete dish-owner houdt bestellen, ingrediënten en UNESCO-context bij elkaar.", "image": "/images/redesign/editorial/tom-yum-goong-guide-hero.webp", "imageAlt": "Kom tom yum goong met garnalen, citroengras en limoenblad", "primaryCta": { "label": "Open de tom yum-gids", "href": "/nl/food/tom-yum-goong/" } },
+  "layout": { "kind": "food-guide", "foodMode": "dish", "heroVariant": "split", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze blogroute is geen afzonderlijke dish-owner meer. Gebruik de complete tom yum goong-pagina voor actuele en samenhangende informatie.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Eén gerecht, één actuele owner", "description": "Vaste prijzen, verzonnen proevervaringen en dubbele receptclaims zijn verwijderd.", "cta": { "label": "Naar tom yum goong", "href": "/nl/food/tom-yum-goong/" } },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire cultuurbron", "items": [{ "title": "Tomyum Kung", "publisher": "UNESCO Intangible Cultural Heritage", "url": "https://ich.unesco.org/en/RL/tomyum-kung-01879", "checkedAt": "2026-08-01", "note": "Inschrijving in 2024 en culturele context van het gerecht." }] }
+  ]
+}

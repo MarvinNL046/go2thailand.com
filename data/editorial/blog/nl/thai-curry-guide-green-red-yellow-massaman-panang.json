@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thai-curry-guide-green-red-yellow-massaman-panang",
+  "route": "/nl/blog/thai-curry-guide-green-red-yellow-massaman-panang/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Thaise curry kiezen: groen, rood, geel en meer | Go2Thailand", "description": "Vergelijk groene, rode, gele, massaman- en panangcurry op smaak, textuur, pit en allergenen. Met besteltips en een praktische thuiskooktaak.", "primaryKeyword": "Thaise curry", "secondaryKeywords": ["Thaise curry soorten", "groene of rode curry", "massaman curry", "panang curry"], "searchIntent": "informational", "canonicalPath": "/nl/blog/thai-curry-guide-green-red-yellow-massaman-panang/" },
+  "hero": { "eyebrow": "Vijf kommen, vijf profielen", "title": "Welke Thaise curry past bij jou?", "accent": "Kleur voorspelt de pit niet", "description": "Vergelijk smaak en textuur, vraag naar de bereiding van vandaag en controleer allergenen per keuken.", "image": "/images/redesign/editorial/thai-curry-guide-green-red-yellow-massaman-panang-hero.webp", "imageAlt": "Vijf verschillende Thaise curry's op tafel bij een keuken aan het water", "primaryCta": { "label": "Vergelijk de curry's", "href": "#vergelijken" }, "secondaryCta": { "label": "Thuis koken", "href": "#thuis" } },
+  "layout": { "kind": "food-guide", "foodMode": "overview", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Groen, rood, geel, massaman en panang verschillen in pasta, aromaten en textuur, maar kleur garandeert geen pittigheid. Vraag naar de bereiding van die dag en benoem allergenen afzonderlijk.",
+  "blocks": [
+    { "kind": "comparison", "id": "vergelijken", "title": "Vijf curryprofielen", "options": [{ "title": "Groen", "description": "Vaak fris-kruidig met groene chili en basilicum; niet automatisch de heetste." }, { "title": "Rood", "description": "Vaak ronder en dieper door gedroogde rode chili; recept bepaalt de pit." }, { "title": "Geel", "description": "Warme specerijen en kurkuma vallen vaak op; mild blijft een vraag." }, { "title": "Massaman", "description": "Stoofachtig, warm gekruid en vaak met aardappel en pinda." }, { "title": "Panang", "description": "Doorgaans dikker, geconcentreerd en geurig door limoenblad." }] },
+    { "kind": "callout", "id": "allergenen", "tone": "warning", "title": "Curry kan verborgen dierlijke ingrediënten en allergenen bevatten", "description": "Vraag naar garnalenpasta, vissaus, bouillon, pinda en kruiscontact. Groenten of tofu maken de basis niet automatisch vegetarisch." },
+    { "kind": "affiliate", "id": "kookles", "provider": "klook", "title": "Leer pasta, timing en balans in een kookles", "description": "Controleer menu, hands-on tijd, dieetopties, locatie en voorwaarden op de actuele aanbiederpagina.", "cta": { "label": "Bekijk actuele kooklessen", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true }, "placement": "thai-curry-cooking-class", "disclosure": "Affiliate-link: Go2Thailand kan commissie ontvangen zonder extra kosten voor jou." },
+    { "kind": "sources", "id": "bronnen", "title": "Thaise publieke bronnen", "items": [{ "title": "Central Thai cuisine", "publisher": "Thailand Foundation", "url": "https://thailandfoundation.or.th/central-thai-cuisine-opening/", "checkedAt": "2026-08-01", "note": "Context voor curry- en kokosmelktradities." }, { "title": "Phanaeng curry", "publisher": "Thailand Foundation", "url": "https://thailandfoundation.or.th/phanaeng-curry-a-thai-culinary-delight/", "checkedAt": "2026-08-01", "note": "Culturele en culinaire context voor panang." }] }
+  ]
+}

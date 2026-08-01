@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-honeymoon-guide-romantic-destinations",
+  "route": "/nl/blog/thailand-honeymoon-guide-romantic-destinations/",
+  "cluster": "planning",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Huwelijksreis Thailand: routes en keuzes | Go2Thailand",
+    "description": "Plan een huwelijksreis naar Thailand rond rust, sfeer en een haalbare route. Vergelijk stad, noorden en kust zonder te veel wissels.",
+    "primaryKeyword": "huwelijksreis Thailand",
+    "secondaryKeywords": ["honeymoon Thailand", "romantische reis Thailand", "Thailand huwelijksreis route"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/thailand-honeymoon-guide-romantic-destinations/"
+  },
+  "hero": {
+    "eyebrow": "Samen vertragen",
+    "title": "Een huwelijksreis die bij jullie past",
+    "accent": "Rust boven routehonger",
+    "description": "Kies maximaal drie bases en besteed alleen extra aan luxe die jullie werkelijk gebruiken.",
+    "image": "/images/redesign/editorial/thailand-honeymoon-guide-romantic-destinations-hero.webp",
+    "imageAlt": "Stel kijkt bij zonsondergang uit over een rustige Thaise baai",
+    "primaryCta": { "label": "Vergelijk reisstijlen", "href": "#reisstijlen" },
+    "secondaryCta": { "label": "Hotelcheck", "href": "#hotelcheck" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Een sterke huwelijksreis combineert hooguit twee of drie bases, een hotel dat bij jullie prioriteiten past en voldoende vrije tijd. Kies eerst sfeer en reistempo, pas daarna de luxe.",
+  "blocks": [
+    { "kind": "comparison", "id": "reisstijlen", "title": "Welke combinatie past?", "options": [{ "title": "Bangkok + één kustbasis", "description": "Een duidelijke mix van stad en strand met beperkt aantal binnenlandse wissels.", "label": "Eerste bezoek" }, { "title": "Chiang Mai + kust", "description": "Cultuur, natuur en strand, met een extra transfer en meer contrast.", "label": "Afwisseling" }, { "title": "Eén rustige regio", "description": "Minimale logistiek en maximale vrije tijd; sterk na een drukke bruiloft.", "label": "Vertragen" }] },
+    { "kind": "checklist", "id": "hotelcheck", "title": "Controleer vóór je boekt", "items": ["Werkelijke transfer vanaf luchthaven of pier", "Ligging van het exacte kamertype", "Recente signalen over rust en onderhoud", "Volledige prijs en inbegrepen onderdelen", "Annuleringsvoorwaarden", "Weerpatroon voor regio en reismaand"] },
+    { "kind": "affiliate", "id": "honeymoon-stays", "provider": "trip.com", "title": "Vergelijk actuele verblijven", "description": "Controleer voor jullie data het exacte kamertype, de totaalprijs en voorwaarden. De actuele aanbiederinformatie is leidend.", "cta": { "label": "Bekijk actuele hotelopties", "href": "https://trip.tpo.lv/TmObooZ5", "external": true }, "placement": "honeymoon-stay-comparison", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jullie betalen daardoor niet meer." },
+    { "kind": "related", "id": "verder-plannen", "title": "Maak de route concreet", "items": [{ "title": "Thailand in 2 weken", "description": "Bekijk een route met logische bases en buffertijd.", "href": "/nl/blog/thailand-itinerary-2-weeks/" }, { "title": "Waar overnachten in Bangkok?", "description": "Kies een buurt die aansluit op jullie stadsdagen.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" }] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Wat is de meest romantische plek in Thailand?", "answer": "Dat is persoonlijk. Kies tussen stadsenergie, noordelijke cultuur en een rustige kust op basis van jullie gezamenlijke prioriteiten." }, { "question": "Hoeveel hotels zijn handig?", "answer": "Twee of drie bases zijn voor veel huwelijksreizen voldoende; meer wissels verminderen vrije tijd." }, { "question": "Moet een huwelijksreis luxe zijn?", "answer": "Nee. Besteed gericht aan ligging, rust of een bijzondere laatste nacht in plaats van aan voorzieningen die je niet gebruikt." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Plan- en veiligheidsbronnen", "items": [{ "title": "Trip Planner", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner", "checkedAt": "2026-08-01" }, { "title": "Chiang Mai destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Chiang%20Mai/101", "checkedAt": "2026-08-01" }, { "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01" }] }
+  ]
+}

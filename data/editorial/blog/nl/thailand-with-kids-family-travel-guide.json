@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-with-kids-family-travel-guide",
+  "route": "/nl/blog/thailand-with-kids-family-travel-guide/",
+  "cluster": "planning",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand met kinderen: gids samengevoegd | Go2Thailand",
+    "description": "Deze dubbele gezinsgids is gearchiveerd. Ga naar onze actuele hoofdpagina over Thailand met kinderen.",
+    "primaryKeyword": "gearchiveerde Thailand gezinsgids",
+    "searchIntent": "navigational",
+    "canonicalPath": "/nl/blog/thailand-with-kids-family-travel-guide/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Inhoud samengevoegd",
+    "title": "De gezinsgids is verhuisd",
+    "accent": "Eén actuele hoofdpagina",
+    "description": "We onderhouden routes, veiligheid en reizen met kinderen voortaan op één duidelijke owner.",
+    "image": "/images/redesign/editorial/thailand-with-kids-family-travel-guide-hero.webp",
+    "imageAlt": "Gezin wandelt samen langs een rustige tropische kust in Thailand",
+    "primaryCta": { "label": "Open de actuele gezinsgids", "href": "/nl/travel-guides/thailand-with-kids/" }
+  },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "editorial", "navigation": "none", "density": "standard" },
+  "quickAnswer": "Deze blogroute is gearchiveerd omdat `/nl/travel-guides/thailand-with-kids/` de bestaande owner is voor Thailand met kinderen.",
+  "blocks": [
+    { "kind": "callout", "id": "samengevoegd", "tone": "cream", "title": "Ga naar de actuele gezinsgids", "description": "Lees de onderhouden informatie over routekeuze, tempo, documenten en veiligheid.", "cta": { "label": "Thailand met kinderen", "href": "/nl/travel-guides/thailand-with-kids/" } },
+    { "kind": "related", "id": "route", "title": "Daarna je route kiezen", "items": [{ "title": "Thailand in 2 weken", "description": "Gebruik de route als vertrekpunt en vertraag waar nodig.", "href": "/nl/blog/thailand-itinerary-2-weeks/" }] },
+    { "kind": "sources", "id": "bronnen", "title": "Actuele veiligheidsbron", "items": [{ "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01" }] }
+  ]
+}

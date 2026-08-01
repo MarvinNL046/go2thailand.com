@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "thailand-vs-vietnam-which-country-visit-2026",
+  "route": "/nl/blog/thailand-vs-vietnam-which-country-visit-2026/",
+  "cluster": "destination-guides",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Thailand of Vietnam? Reisvorm vergeleken | Go2Thailand",
+    "description": "Vergelijk Thailand en Vietnam op routevorm, vervoer, steden, kust en tempo. Kies zonder absolute winnaar of verouderde prijsclaims.",
+    "primaryKeyword": "Thailand of Vietnam",
+    "secondaryKeywords": ["Thailand versus Vietnam", "Vietnam of Thailand vakantie", "Thailand Vietnam vergelijken"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/thailand-vs-vietnam-which-country-visit-2026/"
+  },
+  "hero": {
+    "eyebrow": "Twee sterke reislanden",
+    "title": "Thailand of Vietnam",
+    "accent": "De routevorm beslist",
+    "description": "Thailand werkt als combinatie van regio’s; Vietnam nodigt uit tot een langgerekte noord-zuidroute.",
+    "image": "/images/redesign/editorial/thailand-vs-vietnam-which-country-visit-2026-hero-v2.webp",
+    "imageAlt": "Tempels, kust en stedelijk landschap als vergelijking tussen Thailand en Vietnam",
+    "primaryCta": { "label": "Vergelijk reisvormen", "href": "#vergelijking" },
+    "secondaryCta": { "label": "Maak je keuze", "href": "#keuze" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "country", "heroVariant": "split", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Thailand past vaak bij een combinatie van Bangkok, het noorden en één kustregio. Vietnam past bij een noord-zuidroute langs steden en landschappen. Kies op tempo en interesses, niet op een algemene winnaar.",
+  "blocks": [
+    { "kind": "comparison", "id": "vergelijking", "title": "Twee verschillende routevormen", "options": [{ "title": "Thailand", "description": "Losse, contrasterende bases met veel eilandkeuze; beperk het aantal regio’s om transferdruk te voorkomen.", "label": "Regio’s combineren" }, { "title": "Vietnam", "description": "Een natuurlijke noord-zuidlijn, maar grote afstanden maken bewuste trein- of vluchtkeuzes nodig.", "label": "Doorlopende route" }] },
+    { "kind": "card-grid", "id": "keuze", "eyebrow": "Laat prioriteiten beslissen", "title": "Waar zoek je naar?", "cards": [{ "title": "Veel eilanden", "description": "Thailand geeft een bredere keuze in kust- en eilandstijlen." }, { "title": "Noord-zuidreis", "description": "Vietnam vormt een duidelijke route langs noord, centraal en zuid." }, { "title": "Bangkok en noordelijke tempels", "description": "Kies Thailand als deze combinatie centraal staat." }, { "title": "Vietnamese stads- en keizerlijke geschiedenis", "description": "Kies Vietnam wanneer juist die historische lijn de reis draagt." }] },
+    { "kind": "callout", "id": "vervoer", "tone": "saffron", "title": "Onderschat afstanden niet", "description": "Vietnam Tourism waarschuwt dat lange treinritten veel tijd kosten. Ook in Thailand kunnen regionale wissels een volledige reisdag vullen." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [{ "question": "Is Vietnam goedkoper dan Thailand?", "answer": "Dat verschilt per regio, seizoen en stijl. Vergelijk actuele totaalbedragen voor dezelfde reisbehoefte." }, { "question": "Welk land is beter voor strand?", "answer": "Thailand heeft meer eilandvariatie; Vietnam combineert kust natuurlijk met een noord-zuidroute. Seizoen en gewenste activiteit zijn doorslaggevend." }, { "question": "Kan ik beide landen in één reis combineren?", "answer": "Dat kan, maar bij een korte reis kost het extra vliegdagen. Eén land met minder bases geeft vaak meer rust." }] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële route- en veiligheidsbronnen", "items": [{ "title": "Transport within Vietnam", "publisher": "Vietnam Tourism", "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam", "checkedAt": "2026-08-01" }, { "title": "Trip Planner", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Trip-Planner", "checkedAt": "2026-08-01" }, { "title": "Reisadvies Vietnam", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/vietnam", "checkedAt": "2026-08-01" }, { "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01" }] }
+  ]
+}
