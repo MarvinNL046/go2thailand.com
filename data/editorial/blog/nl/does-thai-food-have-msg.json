@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "does-thai-food-have-msg",
+  "route": "/nl/blog/does-thai-food-have-msg/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Zit er MSG in Thais eten? Heldere ingrediëntencheck",
+    "description": "MSG kan in Thaise gerechten, premixen en sauzen zitten, maar niet altijd. Leer het verschil met glutamaat, gluten en zout en stel gerichte vragen.",
+    "primaryKeyword": "MSG in Thais eten",
+    "secondaryKeywords": ["zit er MSG in Thais eten", "geen MSG Thailand", "mononatriumglutamaat Thailand"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/does-thai-food-have-msg/"
+  },
+  "hero": {
+    "eyebrow": "Ingrediënten, geen aannames",
+    "title": "Zit er MSG in Thais eten?",
+    "accent": "Vraag naar het concrete recept",
+    "description": "Sommige gerechten bevatten toegevoegd MSG en andere niet. Controleer ook premixen, bouillon en sauzen.",
+    "image": "/images/redesign/editorial/does-thai-food-have-msg-hero.webp",
+    "imageAlt": "Thaise wok met smaakmakers en een kleine schaal kristallijn kruidenpoeder",
+    "primaryCta": { "label": "Bekijk de verschillen", "href": "#verschillen" },
+    "secondaryCta": { "label": "Stel vier vragen", "href": "#vragen-aan-de-keuken" }
+  },
+  "layout": { "kind": "food-guide", "foodMode": "overview", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Sommige Thaise gerechten bevatten toegevoegd MSG, andere niet. Vraag ook naar bouillonpoeder, kruidenmixen en sauzen; zonder toegevoegd MSG betekent niet zonder natuurlijk glutamaat, gluten of natrium.",
+  "blocks": [
+    { "kind": "comparison", "id": "verschillen", "title": "Vier begrippen uit elkaar", "options": [
+      { "title": "Toegevoegd MSG", "description": "Mononatriumglutamaat dat los of via een samengesteld product aan het gerecht wordt toegevoegd." },
+      { "title": "Natuurlijk glutamaat", "description": "Glutamaat dat van nature in ingrediënten voorkomt; geen bewijs dat MSG-poeder is gebruikt." },
+      { "title": "Gluten", "description": "Eiwitten in onder meer tarwe, gerst en rogge; iets anders dan glutamaat." },
+      { "title": "Natrium", "description": "Kan ook via zout, vissaus, sojasaus en bouillon in het gerecht komen." }
+    ] },
+    { "kind": "checklist", "id": "vragen-aan-de-keuken", "title": "Vraag dit aan de keuken", "items": ["Wordt los MSG-poeder gebruikt?", "Zit er bouillonpoeder of kruidenmix in?", "Kan het vanaf het begin zonder die toevoeging?", "Welke sauzen en merken worden gebruikt?"] },
+    { "kind": "callout", "id": "gezondheid", "tone": "cream", "title": "Geen persoonlijk medisch oordeel", "description": "Regelgevende beoordelingen zijn geen diagnose. Bespreek klachten of een medisch dieet met een gekwalificeerde zorgverlener." },
+    { "kind": "faq", "id": "faq", "title": "Veelgestelde vragen", "items": [
+      { "question": "Bevat al het Thaise eten MSG?", "answer": "Nee. Gebruik van toegevoegd MSG verschilt per recept, kok en samengesteld product." },
+      { "question": "Is MSG hetzelfde als gluten?", "answer": "Nee. Glutamaat en gluten zijn verschillende stoffen; controleer tarwe en kruiscontact apart." },
+      { "question": "Betekent zonder MSG ook natriumarm?", "answer": "Nee. Andere smaakmakers kunnen natrium bevatten." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële beoordelingen", "items": [
+      { "title": "Questions and Answers on Monosodium glutamate (MSG)", "publisher": "U.S. Food and Drug Administration", "url": "https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg", "checkedAt": "2026-08-01" },
+      { "title": "EFSA reviews safety of glutamates added to food", "publisher": "European Food Safety Authority", "url": "https://www.efsa.europa.eu/en/press/news/170712", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

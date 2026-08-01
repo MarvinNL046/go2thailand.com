@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1, "locale": "nl", "slug": "halal-food-thailand-guide", "route": "/nl/blog/halal-food-thailand-guide/", "cluster": "food", "editorialStatus": "ready", "updatedAt": "2026-08-01",
+  "seo": { "title": "Halal eten in Thailand: certificaat en keukencheck", "description": "Vind halal eten in Thailand met een actuele controle van certificering, ingrediënten, keukenpraktijk en gedeelde apparatuur.", "primaryKeyword": "halal eten Thailand", "secondaryKeywords": ["halal restaurants Thailand", "halal eten Bangkok", "halal certificering Thailand"], "searchIntent": "informational", "canonicalPath": "/nl/blog/halal-food-thailand-guide/" },
+  "hero": { "eyebrow": "Certificaat én keukenpraktijk", "title": "Halal eten in Thailand", "accent": "Controleer de juiste vestiging", "description": "Maak onderscheid tussen gecertificeerd, moslim-eigendom, een halal deelmenu en alleen ‘geen varkensvlees’.", "image": "/images/redesign/editorial/halal-food-thailand-guide-hero.webp", "imageAlt": "Moslimfamilie bestelt eten bij een marktverkoper in Zuid-Thailand", "primaryCta": { "label": "Bekijk vier niveaus", "href": "#niveaus" }, "secondaryCta": { "label": "Keukencheck", "href": "#keukencheck" } },
+  "layout": { "kind": "food-guide", "foodMode": "overview", "heroVariant": "editorial", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Controleer een actuele halalstatus per vestiging en vraag daarnaast naar ingrediënten, vleesleverancier, alcohol, gedeelde grill, olie en keukengerei. ‘Geen varkensvlees’ is geen volledige halalbevestiging.",
+  "blocks": [
+    { "kind": "comparison", "id": "niveaus", "title": "Vier verschillende aanduidingen", "options": [
+      { "title": "Actueel gecertificeerd", "description": "Controleer instantie, vestiging, reikwijdte en geldigheid." },
+      { "title": "Moslim-eigendom", "description": "Nuttige context, maar vraag welke halalpraktijk de zaak volgt." },
+      { "title": "Halal deelmenu", "description": "Vraag of opslag, grill, frituur en gereedschap worden gedeeld." },
+      { "title": "Geen varkensvlees", "description": "Zegt niets over alcohol, andere dierlijke ingrediënten of bereiding." }
+    ] },
+    { "kind": "checklist", "id": "keukencheck", "title": "Vraag dit vóór bestellen", "items": ["Is de hele vestiging halal of alleen een deelmenu?", "Is het certificaat actueel en voor deze locatie?", "Waar komen vlees en samengestelde sauzen vandaan?", "Worden grill, frituurolie of gereedschap gedeeld?", "Kan de medewerker je concrete grenzen bevestigen?"] },
+    { "kind": "callout", "id": "geen-garantie", "tone": "cream", "title": "Verificatie blijft momentgebonden", "description": "Een oude review of foto bewijst geen actuele status. Controleer kort voor je bezoek en vraag de zaak zelf." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is eten zonder varkensvlees automatisch halal?", "answer": "Nee. Ingrediënten, dierlijke herkomst, alcohol en keukenpraktijk blijven relevant." },
+      { "question": "Waar controleer ik Thaise certificering?", "answer": "Begin bij de zoekfuncties en informatie van de Central Islamic Council of Thailand en verifieer de juiste vestiging of het juiste product." },
+      { "question": "Zijn alle producten van een halal merk gecertificeerd?", "answer": "Ga daar niet van uit. Controleer het specifieke product en de productielocatie." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire controlepunten", "items": [
+      { "title": "Halal information and search", "publisher": "The Central Islamic Council of Thailand", "url": "https://www.halal.or.th/en/", "checkedAt": "2026-08-01", "note": "Officiële certificerings- en zoekcontext." },
+      { "title": "Thai Foodie Map 2.0", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Articles/explore-thai-taste-thai-foodie-map-2-0-en", "checkedAt": "2026-08-01", "note": "Bestemmingsinspiratie, niet de certificaatdatabase." }
+    ] }
+  ]
+}
