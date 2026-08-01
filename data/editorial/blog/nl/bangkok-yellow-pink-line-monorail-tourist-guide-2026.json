@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-yellow-pink-line-monorail-tourist-guide-2026",
+  "route": "/nl/blog/bangkok-yellow-pink-line-monorail-tourist-guide-2026/",
+  "cluster": "transport",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "MRT Yellow en Pink Line Bangkok: reizigersgids | Go2Thailand", "description": "Gebruik de Yellow en Pink Line voor buitenwijken, evenementen en overstappen. Controleer live service en het juiste ticket per lijn.", "primaryKeyword": "MRT Yellow Line Pink Line Bangkok", "secondaryKeywords": ["Bangkok monorail", "Yellow Line Bangkok", "Pink Line Bangkok", "IMPACT Muang Thong Thani metro"], "searchIntent": "informational", "canonicalPath": "/nl/blog/bangkok-yellow-pink-line-monorail-tourist-guide-2026/" },
+  "hero": { "eyebrow": "Buiten het klassieke centrum", "title": "Yellow en Pink Line", "accent": "Gebruik ze als je bestemming eraan ligt", "description": "Twee monoraillijnen voor oostelijk en noordelijk Bangkok, met eigen operatorchecks en geen beloofde universele betaalkaart.", "image": "/images/redesign/editorial/bangkok-yellow-pink-line-monorail-tourist-guide-2026-hero.webp", "imageAlt": "Moderne verhoogde monorail boven een Bangkokse stadsboulevard bij gouden avondlicht", "primaryCta": { "label": "Kies je lijn", "href": "#lijnen" }, "secondaryCta": { "label": "Ticket- en servicecheck", "href": "#tickets" } },
+  "layout": { "kind": "evergreen-guide", "decisionMode": "plan", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Yellow is vooral nuttig tussen Lat Phrao en Samrong; Pink voor Nonthaburi, noordelijk Bangkok, Min Buri en Muang Thong Thani. Koop op basis van de actuele operatorinformatie en ga niet uit van één kaart voor het hele netwerk.",
+  "blocks": [
+    { "kind": "comparison", "id": "lijnen", "title": "Welke lijn heb je nodig?", "options": [
+      { "title": "MRT Yellow Line", "description": "Oostelijke corridor met overstappen op Blue Line bij Lat Phrao en BTS bij Samrong.", "label": "Oost en zuidoost", "note": "Hua Mak kan relevant zijn voor Airport Rail Link; reken op een fysieke overstap." },
+      { "title": "MRT Pink Line", "description": "Noordelijke corridor via Nonthaburi, Lak Si en Wat Phra Sri Mahathat naar Min Buri.", "label": "Noord en noordoost", "note": "Gebruik de actuele aftakkingsinformatie voor Muang Thong Thani en IMPACT." }
+    ] },
+    { "kind": "callout", "id": "tickets", "tone": "warning", "title": "Mangmoom-claim verwijderd", "description": "De eerdere pagina beloofde ten onrechte één Mangmoom Card voor alle MRT-lijnen. Bangkok heeft meerdere operators en betaalsystemen; controleer ticket of kaart bij de lijnoperator." },
+    { "kind": "steps", "id": "reizen", "title": "Zo voorkom je een mislukte overstap", "steps": [
+      { "title": "Plan op stationsnaam", "description": "Controleer of gelijknamige of gekoppelde stations een wandeling vereisen." },
+      { "title": "Check de lijnoperator", "description": "EBM beheert de actuele Yellow Line-informatie; NBM de Pink Line-informatie." },
+      { "title": "Houd een betaalalternatief", "description": "Een kaart of contactloze methode kan niet op elk systeem hetzelfde werken." },
+      { "title": "Controleer live service", "description": "Gebruik officiële lijnkanalen of The SKYTRAINs bij onderhoud, weer en evenementen." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Plan het hele netwerk", "items": [
+      { "title": "Bangkok openbaar vervoer", "description": "Vergelijk BTS, MRT, Airport Rail Link en boot.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" },
+      { "title": "Bangkok in vier dagen", "description": "Bekijk wanneer een buitenwijkroute echt in je schema past.", "href": "/nl/blog/bangkok-in-4-dagen-vanuit-nederland-vluchtig-stedentrip-plan/" },
+      { "title": "Waar verblijven in Bangkok", "description": "Kies een wijk die onnodige overstappen beperkt.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" }
+    ] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is de Yellow Line handig voor het centrum?", "answer": "Meestal alleen als vertrek of bestemming aan de oostelijke corridor ligt. Voor klassieke centrumplekken zijn Blue Line en BTS vaak directer." },
+      { "question": "Welke lijn gaat naar IMPACT?", "answer": "Gebruik de Pink Line en controleer de actuele Muang Thong Thani-aftakking en evenementeninformatie bij NBM." },
+      { "question": "Werkt één kaart op alle lijnen?", "answer": "Ga daar niet van uit. Controleer per operator welke ticket- en betaalopties voor jouw rit gelden." }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Officiële vervoersbronnen", "items": [
+      { "title": "Bangkok and vicinities rail projects", "publisher": "Mass Rapid Transit Authority of Thailand", "url": "https://www.mrta.co.th/en/bangkok-and-vicinities", "checkedAt": "2026-08-01" },
+      { "title": "MRT Pink Line", "publisher": "Northern Bangkok Monorail", "url": "https://nbm.co.th/en/index.html", "checkedAt": "2026-08-01" },
+      { "title": "Official MRT service channels", "publisher": "Mass Rapid Transit Authority of Thailand", "url": "https://www.mrta.co.th/th/news-release/21455", "checkedAt": "2026-08-01", "note": "Verwijst naar EBM, NBM en The SKYTRAINs voor lijnstatus." }
+    ] }
+  ]
+}

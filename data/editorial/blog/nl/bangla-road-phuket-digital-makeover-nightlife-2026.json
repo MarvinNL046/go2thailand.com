@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangla-road-phuket-digital-makeover-nightlife-2026",
+  "route": "/nl/blog/bangla-road-phuket-digital-makeover-nightlife-2026/",
+  "cluster": "news-trends",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Bangla Road digitale make-over: claim ingetrokken", "description": "De brede digitale-make-overclaim is niet voldoende onderbouwd. Gebruik de actuele Patong-nightlifegids voor Bangla Road.", "primaryKeyword": "Bangla Road digitale make-over factcheck", "searchIntent": "navigational", "canonicalPath": "/nl/blog/bangla-road-phuket-digital-makeover-nightlife-2026/", "noindex": true },
+  "hero": { "eyebrow": "Superseded", "title": "Bangla Road: digitale claim ingetrokken", "accent": "Ga naar de Patong-nightlife-owner", "description": "Individuele venues gebruiken nieuwe techniek, maar een gebiedsbrede AR- en LED-transformatie kon niet primair worden bevestigd.", "image": "/images/redesign/editorial/bangla-road-phuket-digital-makeover-nightlife-2026-hero.webp", "imageAlt": "Drukke voetgangersstraat met neonverlichting in Patong bij vroege avond", "primaryCta": { "label": "Open Patong nightlife", "href": "/nl/phuket/patong/nightlife/" }, "secondaryCta": { "label": "Lees de factcheck", "href": "#factcheck" } },
+  "layout": { "kind": "news-update", "newsStatus": "superseded", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "De route is superseded en noindex: de gebiedsbrede digitale make-over was onvoldoende onderbouwd. De actuele Patong-nightlifegids is de enige aanbevolen owner voor Bangla Road-keuzehulp.",
+  "blocks": [
+    { "kind": "callout", "id": "factcheck", "tone": "warning", "title": "Onbewezen transformatieverhaal verwijderd", "description": "AR-menu’s, transparante LED-podia, vaste themanachten en publiekspercentages konden niet als gebiedsbrede verandering worden bevestigd. Losse venue-innovatie is geen bewijs voor de hele straat.", "cta": { "label": "Bekijk de actuele owner", "href": "/nl/phuket/patong/nightlife/" } },
+    { "kind": "checklist", "id": "veilig", "title": "Blijvende basis voor een avond in Patong", "items": ["Controleer prijzen en voorwaarden vóór bestellen", "Houd je drankje in zicht", "Betaal tussentijds als een rekening onduidelijk is", "Volg geen opdringerige tout naar een onbekende locatie", "Regel vervoer terug vooraf", "Rijd nooit na alcohol", "Gebruik actuele officiële veiligheidsinformatie"] },
+    { "kind": "related", "id": "owner", "title": "De actuele informatie staat hier", "items": [
+      { "title": "Patong nightlife en Bangla Road", "description": "De centrale owner voor sfeerkeuze, avondritme, consent, rekening en vervoer.", "href": "/nl/phuket/patong/nightlife/" },
+      { "title": "Patong verblijfsgids", "description": "Bepaal eerst of de intensiteit van Patong bij je reis past.", "href": "/nl/phuket/patong/" },
+      { "title": "Reisadvies Thailand", "description": "Controleer actuele Nederlandse veiligheidsinformatie.", "href": "https://www.nederlandwereldwijd.nl/reisadvies/thailand" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Owner- en veiligheidsbronnen", "items": [
+      { "title": "Patong nightlife", "publisher": "Go2Thailand", "url": "https://go2-thailand.com/nl/phuket/patong/nightlife/", "checkedAt": "2026-08-01", "note": "Aanbevolen permanente redirectbestemming." },
+      { "title": "Alcohol sales and consumption rules", "publisher": "Tourism Authority of Thailand Newsroom", "url": "https://www.tatnews.org/2026/05/alcohol-sales-and-consumption-rules-updated-in-thailand-what-tourists-need-to-know/", "checkedAt": "2026-08-01" },
+      { "title": "Reisadvies Thailand", "publisher": "NederlandWereldwijd", "url": "https://www.nederlandwereldwijd.nl/reisadvies/thailand", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

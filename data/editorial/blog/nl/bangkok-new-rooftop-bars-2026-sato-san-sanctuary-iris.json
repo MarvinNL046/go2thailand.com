@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris",
+  "route": "/nl/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/",
+  "cluster": "food",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Nieuwe rooftopbars Bangkok 2026: 3 keuzes | Go2Thailand", "description": "Vergelijk Sato San, Sanctuary en Iris op wijk, sfeer en buitenruimte. Controleer live opening, leeftijd en weerbeleid.", "primaryKeyword": "nieuwe rooftopbars Bangkok 2026", "secondaryKeywords": ["Sato San Bangkok", "Sanctuary Bangkok rooftop", "Iris rooftop Bangkok"], "searchIntent": "commercial-investigation", "canonicalPath": "/nl/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/" },
+  "hero": { "eyebrow": "Drie nieuwe avondtypes", "title": "Rooftopbars Bangkok 2026", "accent": "Kies op wijk en weerplan", "description": "Van Ratchaprasong tot Thonglor en Sathorn: vergelijk de setting en controleer live voorwaarden voordat je reserveert.", "image": "/images/redesign/editorial/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris-hero.webp", "imageAlt": "Groene rooftopbar met zitplaatsen en uitzicht over Bangkok bij zonsondergang", "primaryCta": { "label": "Vergelijk de rooftops", "href": "#vergelijken" }, "secondaryCta": { "label": "Reserveer slim", "href": "#check" } },
+  "layout": { "kind": "food-guide", "foodMode": "restaurant", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Sato San past bij een levendige avond in Ratchaprasong, Sanctuary bij een groene openluchtsetting in Thonglor en Iris bij Sathorn en Lumpini. Controleer dezelfde dag opening, weerbeleid, leeftijd en reserveringsvoorwaarden.",
+  "blocks": [
+    { "kind": "comparison", "id": "vergelijken", "title": "Welke rooftop past bij je route?", "options": [
+      { "title": "Sato San", "description": "32e verdieping van Moxy Bangkok Ratchaprasong, met een Isaan-Japans concept en een levendiger profiel.", "label": "Ratchaprasong", "note": "Officiële venuepagina noemt toegang vanaf 20 jaar." },
+      { "title": "Sanctuary", "description": "Grotendeels openlucht op de 34e verdieping van InterContinental Bangkok Sukhumvit, met groen ontwerp.", "label": "Thonglor", "note": "Vraag wat er bij regen of wind gebeurt." },
+      { "title": "Iris & Wild Iris", "description": "Hotelrooftop bij SO/ Bangkok in de Sathorn- en Lumpini-zone; verifieer details rechtstreeks bij het hotel.", "label": "Sathorn", "note": "Minder zelfstandig gedocumenteerd." }
+    ] },
+    { "kind": "checklist", "id": "check", "title": "Controleer vóór reserveren", "items": ["Actuele opening en minimumleeftijd", "Binnen- of buitenplek", "Regen- en windbeleid", "Dresscode", "Tafelduur en annuleringsvoorwaarden", "Minimum spend en inbegrepen onderdelen", "Belasting en servicekosten", "Veilige terugreis"] },
+    { "kind": "callout", "id": "leeftijd", "tone": "cream", "title": "Alcohol is vanaf 20 jaar", "description": "Thailand kent een wettelijke minimumleeftijd van 20 jaar. Neem identificatie mee; een venue kan aanvullend eigen toegangsbeleid voeren." },
+    { "kind": "related", "id": "verder", "title": "Vergelijk je avond", "items": [
+      { "title": "Bangkok nightlife", "description": "Kies ook uit cocktailbars, live muziek en avondwijken zonder rooftopfocus.", "href": "/nl/city/bangkok/nightlife/" },
+      { "title": "Waar verblijven in Bangkok", "description": "Voorkom een lange terugrit door eerst je wijk te kiezen.", "href": "/nl/blog/where-to-stay-bangkok-neighborhood-guide/" },
+      { "title": "Bangkok openbaar vervoer", "description": "Plan de heenrit en een realistisch alternatief voor terug.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Venue- en regelbronnen", "items": [
+      { "title": "Sato San Rooftop Bar", "publisher": "Sato San / Moxy Bangkok Ratchaprasong", "url": "https://www.satosanrooftopbar.com/", "checkedAt": "2026-08-01" },
+      { "title": "Sanctuary Bangkok", "publisher": "Sanctuary Bangkok", "url": "https://www.sanctuarybangkok.com/", "checkedAt": "2026-08-01" },
+      { "title": "Alcohol sales and consumption rules", "publisher": "Tourism Authority of Thailand Newsroom", "url": "https://www.tatnews.org/2026/05/alcohol-sales-and-consumption-rules-updated-in-thailand-what-tourists-need-to-know/", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}

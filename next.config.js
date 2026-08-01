@@ -355,6 +355,12 @@ const nextConfig = {
         permanent: true,
         locale: false,
       },
+      {
+        source: "/nl/blog/bangla-road-phuket-digital-makeover-nightlife-2026/",
+        destination: "/nl/phuket/patong/nightlife/",
+        permanent: true,
+        locale: false,
+      },
       // Independent EN research preserves the ranking broad owner, the
       // ranking scams spoke and the specialist solo-female guide. Retire
       // only the zero-signal duplicates after their own checks.

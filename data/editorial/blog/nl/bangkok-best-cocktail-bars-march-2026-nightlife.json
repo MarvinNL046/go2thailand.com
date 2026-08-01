@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "bangkok-best-cocktail-bars-march-2026-nightlife",
+  "route": "/nl/blog/bangkok-best-cocktail-bars-march-2026-nightlife/",
+  "cluster": "food",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": { "title": "Cocktailbars Bangkok maart 2026: archief | Go2Thailand", "description": "Deze maartselectie is gearchiveerd. Gebruik actuele venuekanalen en de Bangkok-nightlifegids voor een huidige keuze.", "primaryKeyword": "cocktailbars Bangkok maart 2026 archief", "searchIntent": "navigational", "canonicalPath": "/nl/blog/bangkok-best-cocktail-bars-march-2026-nightlife/", "noindex": true },
+  "hero": { "eyebrow": "Momentopname maart 2026", "title": "Drie cocktailbars", "accent": "Geen actuele ranglijst", "description": "Menu’s, teams en uren veranderen snel. De drie venueprofielen blijven context, maar niet als actuele ‘beste bars’-claim.", "image": "/images/redesign/editorial/bangkok-best-cocktail-bars-march-2026-nightlife-hero.webp", "imageAlt": "Drie verfijnde cocktails op een donkere bar met Bangkokse avondlichten", "primaryCta": { "label": "Open de actuele nightlife-owner", "href": "/nl/city/bangkok/nightlife/" }, "secondaryCta": { "label": "Veilige avondcheck", "href": "#veilig" } },
+  "layout": { "kind": "news-update", "newsStatus": "archived", "checkedAt": "2026-08-01", "heroVariant": "editorial", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "Deze pagina was een tijdelijke selectie uit maart 2026 en is daarom noindex. Kies een actuele venue via de Bangkok-nightlifegids en controleer op de bezoekdag opening, menu en reservering.",
+  "blocks": [
+    { "kind": "callout", "id": "lifecycle", "tone": "warning", "title": "Tijdelijke ranglijst gearchiveerd", "description": "Bar.Yard, Aqua en Rabbit Hole stonden voor verschillende avondtypes, maar een maandenoude topselectie mag niet als actueel advies blijven ranken.", "cta": { "label": "Bekijk Bangkok nightlife", "href": "/nl/city/bangkok/nightlife/" } },
+    { "kind": "comparison", "id": "profielen", "title": "Wat de oorspronkelijke drie keuzes onderscheidden", "options": [
+      { "title": "Bar.Yard", "description": "Open rooftopsetting bij Langsuan; controleer weerbeleid en actuele reservering.", "label": "Rooftop" },
+      { "title": "Aqua", "description": "Hotelbar in een tuinsetting bij Anantara Siam; de venuepagina blijft leidend.", "label": "Rustiger" },
+      { "title": "Rabbit Hole", "description": "Cocktailbar in Thonglor; controleer dezelfde dag de officiële venuekanalen.", "label": "Uitgaanswijk" }
+    ] },
+    { "kind": "checklist", "id": "veilig", "title": "Nuchtere avondcheck", "items": ["Controleer officiële opening en reservering", "Bekijk live menu en totaalvoorwaarden", "Neem identificatie mee; minimumleeftijd is 20", "Houd je drankje in zicht", "Controleer de rekening per ronde", "Regel vervoer terug vóór alcohol"] },
+    { "kind": "sources", "id": "bronnen", "title": "Actuele controlebronnen", "items": [
+      { "title": "Aqua", "publisher": "Anantara Siam Bangkok", "url": "https://www.anantara.com/en/siam-bangkok/restaurants/aqua", "checkedAt": "2026-08-01" },
+      { "title": "Alcohol sales and consumption rules", "publisher": "Tourism Authority of Thailand Newsroom", "url": "https://www.tatnews.org/2026/05/alcohol-sales-and-consumption-rules-updated-in-thailand-what-tourists-need-to-know/", "checkedAt": "2026-08-01" }
+    ] }
+  ]
+}
