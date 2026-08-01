@@ -8,8 +8,10 @@ import EmailCapture from '../components/EmailCapture';
 interface City {
   slug: string;
   name: string;
+  nameNl: string;
   region: string;
-  description: string | null;
+  description: string;
+  descriptionNl: string;
 }
 
 interface PageProps {
@@ -39,6 +41,16 @@ const regionEn: Record<string, string> = {
   Eastern: 'Eastern Thailand',
   Western: 'Western Thailand',
   Other: 'Other',
+};
+
+const regionIntro: Record<string, { en: string; nl: string }> = {
+  Central: { en: 'Big-city energy, royal history and easy first stops from Bangkok.', nl: 'Grote stadsenergie, koninklijke geschiedenis en makkelijk te combineren vanuit Bangkok.' },
+  Northern: { en: 'Mountain air, temple towns and a slower rhythm in the north.', nl: 'Berglucht, tempelsteden en een rustiger reisritme in het noorden.' },
+  Southern: { en: 'Limestone coastlines, tropical islands and unforgettable water days.', nl: 'Kalkstenen kusten, tropische eilanden en dagen op of aan het water.' },
+  Isaan: { en: 'Local food, wide-open landscapes and Thailand beyond the usual route.', nl: 'Lokale smaken, weidse landschappen en Thailand buiten de bekende route.' },
+  Eastern: { en: 'Fruit orchards, beaches and characterful coastal towns near the capital.', nl: 'Fruitboomgaarden, stranden en karaktervolle kustplaatsen dicht bij Bangkok.' },
+  Western: { en: 'Rivers, national parks and memorable escapes west of Bangkok.', nl: 'Rivieren, nationale parken en bijzondere uitstapjes ten westen van Bangkok.' },
+  Other: { en: 'Places that deserve a spot when you want to travel a little differently.', nl: 'Plekken voor wie Thailand eens net even anders wil beleven.' },
 };
 
 export default function BestPlacesPage({ cities }: PageProps) {
@@ -87,11 +99,12 @@ export default function BestPlacesPage({ cities }: PageProps) {
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
-            <div className="text-center">
+            <div className="mx-auto max-w-4xl py-8 text-center lg:py-12">
+              <p className="eyebrow mb-4">{isNl ? 'Vind jouw plek' : 'Find your place'}</p>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
                 {isNl ? 'Beste Plekken om te Bezoeken in Thailand' : 'Best Places to Visit in Thailand'}
               </h1>
-              <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+              <p className="mx-auto max-w-3xl text-lg leading-8 text-gray-600 lg:text-xl">
                 {isNl
                   ? `${cities.length} bestemmingen — van iconische steden tot verborgen parels, gesorteerd per regio.`
                   : `${cities.length} destinations covered — from iconic cities to hidden gems, sorted by region.`}
@@ -100,20 +113,25 @@ export default function BestPlacesPage({ cities }: PageProps) {
           </div>
         </section>
 
-        {!isNl && (
-          <section className="border-y border-jade/10 bg-tonal py-8">
+        <section className="border-y border-jade/10 bg-tonal py-8">
             <div className="container-custom grid gap-4 lg:grid-cols-[.7fr_1.3fr] lg:items-center">
-              <p className="eyebrow">How to use this directory</p>
-              <p className="text-sm font-medium leading-7 text-charcoal/70">This is a complete regional directory, not a claim that every place suits every traveller. Open a city owner to compare season, travel time, atmosphere and practical trade-offs; use the weather and itinerary hubs before fixing a route.</p>
+              <p className="eyebrow">{isNl ? 'Zo gebruik je deze gids' : 'How to use this guide'}</p>
+              <p className="text-sm font-medium leading-7 text-charcoal/70">
+                {isNl
+                  ? 'Niet elke bestemming past bij elke reiziger. Open een stads- of eilandgids om sfeer, reistijd, beste reistijd en praktische keuzes te vergelijken voordat je jouw route vastlegt.'
+                  : 'Not every destination suits every traveller. Open a city or island guide to compare atmosphere, travel time, seasons and practical trade-offs before you set your route.'}
+              </p>
             </div>
-          </section>
-        )}
+        </section>
 
         <section className="section-padding">
           <div className="container-custom">
             {regionOrder.filter(r => byRegion[r]).map(region => (
               <div key={region} className="mb-12">
-                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{isNl ? regionNl[region] || region : regionEn[region] || region}</h2>
+                <div className="mb-6 max-w-2xl">
+                  <h2 className="text-2xl font-bold font-heading text-gray-900">{isNl ? regionNl[region] || region : regionEn[region] || region}</h2>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{regionIntro[region]?.[isNl ? 'nl' : 'en']}</p>
+                </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                   {byRegion[region].map(city => (
                     <Link
@@ -121,12 +139,11 @@ export default function BestPlacesPage({ cities }: PageProps) {
                       href={`/city/${city.slug}/`}
                       className="bg-white rounded-2xl shadow-md p-6 hover:shadow-lg transition-shadow"
                     >
-                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{city.name}</h3>
-                      {city.description && (
-                        <p className="text-gray-600 text-sm line-clamp-2">{city.description}</p>
-                      )}
+                      <p className="mb-2 text-xs font-semibold uppercase tracking-[0.16em] text-orange-500">{isNl ? regionNl[region] || region : regionEn[region] || region}</p>
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{isNl ? city.nameNl : city.name}</h3>
+                      <p className="text-gray-600 text-sm leading-6">{isNl ? city.descriptionNl : city.description}</p>
                       <span className="text-thailand-blue text-sm font-semibold mt-3 inline-block">
-                        {isNl ? `Ontdek ${city.name} →` : `Explore ${city.name} →`}
+                        {isNl ? `Bekijk ${city.nameNl} →` : `Explore ${city.name} →`}
                       </span>
                     </Link>
                   ))}
@@ -195,12 +212,27 @@ export const getStaticProps: GetStaticProps = async () => {
   // eslint-disable-next-line @typescript-eslint/no-var-requires
   const { getAllCities } = require('../lib/cities');
   const allCities = getAllCities();
-  const cities: City[] = allCities.map((c: any) => ({
-    slug: c.slug,
-    name: c.name?.en || c.name || c.slug,
-    region: c.region || 'Other',
-    description: c.categories?.overview?.en || c.description?.en || null,
-  }));
+  const cities: City[] = allCities.map((c: any) => {
+    // The compact index intentionally contains only routing fields. Read the
+    // canonical city record here so every directory card has useful copy.
+    let source: any = {};
+    try {
+      // eslint-disable-next-line @typescript-eslint/no-var-requires
+      source = require(`../data/cities/${c.slug}.json`);
+    } catch (_) {
+      source = c;
+    }
+    const name = source.name || c.name || {};
+    const description = source.description || source.categories?.overview || {};
+    return {
+      slug: c.slug,
+      name: name.en || c.slug,
+      nameNl: name.nl || name.en || c.slug,
+      region: c.region || source.region || 'Other',
+      description: description.en || `Plan your ${name.en || c.slug} trip with practical ideas, highlights and local tips.`,
+      descriptionNl: description.nl || `Plan je reis naar ${name.nl || name.en || c.slug} met praktische tips, highlights en inspiratie.`,
+    };
+  });
 
   return {
     props: { cities },
