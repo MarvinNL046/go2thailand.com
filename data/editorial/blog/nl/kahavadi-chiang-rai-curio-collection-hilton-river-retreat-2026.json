@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "kahavadi-chiang-rai-curio-collection-hilton-river-retreat-2026",
+  "route": "/nl/blog/kahavadi-chiang-rai-curio-collection-hilton-river-retreat-2026/",
+  "cluster": "hotels",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Kahavadi Chiang Rai: ligging en hotelcheck | Go2Thailand",
+    "description": "Beoordeel Kahavadi Chiang Rai op ligging aan de Kok-rivier, Lanna-profiel, kamerkeuze en actuele totaalprijs voor jouw reisdata.",
+    "primaryKeyword": "Kahavadi Chiang Rai",
+    "secondaryKeywords": ["Curio Collection Chiang Rai", "luxe hotel Chiang Rai", "hotel Kok rivier"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/kahavadi-chiang-rai-curio-collection-hilton-river-retreat-2026/"
+  },
+  "hero": {
+    "eyebrow": "Rivierbasis in Noord-Thailand",
+    "title": "Kahavadi Chiang Rai",
+    "accent": "Kies op route, niet op openingsnieuws",
+    "description": "Hilton kondigde de opening op 1 juli 2026 aan. De relevante vraag is nu of de Kok-rivier, het resortprofiel en de afstand tot jouw dagroute bij je passen.",
+    "image": "/images/redesign/editorial/kahavadi-chiang-rai-curio-collection-hilton-river-retreat-2026-hero.webp",
+    "imageAlt": "Lanna-geïnspireerd rivierhotel met tropische tuin en zwembad in Chiang Rai",
+    "primaryCta": { "label": "Bekijk de match", "href": "#match" },
+    "secondaryCta": { "label": "Controleer je kamer", "href": "#kamercheck" }
+  },
+  "layout": { "kind": "hotel-guide", "pricePolicy": "live-price-only", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Kahavadi Chiang Rai is geopend en past vooral bij reizigers die een rustige rivierbasis en een volwaardig hotel belangrijker vinden dan direct in het stadscentrum slapen. Controleer de werkelijke reistijd naar je geplande tempels en het exacte kamertype.",
+  "blocks": [
+    { "kind": "comparison", "id": "match", "title": "Voor wie werkt de ligging?", "options": [
+      { "title": "Rust aan de Kok-rivier", "description": "Je wilt een kalme basis met hotelvoorzieningen en plant vervoer naar de stad vooraf.", "label": "Sterke match" },
+      { "title": "Chiang Rai als meerdaagse basis", "description": "Je combineert stad, tempels en buitengebied zonder iedere avond van hotel te wisselen.", "label": "Logisch" },
+      { "title": "Alles te voet", "description": "Je wilt markten, cafés en stadsstraten direct voor de deur; vergelijk dan een centralere plek.", "label": "Vergelijk" }
+    ] },
+    { "kind": "card-grid", "id": "profiel", "eyebrow": "Officieel bevestigd", "title": "Het hotel in vier punten", "cards": [
+      { "title": "167 kamers en suites", "description": "Hilton noemt een mix van kamers en suites in een Lanna-geïnspireerd ontwerp.", "label": "Omvang" },
+      { "title": "Riviersetting", "description": "Het hotel ligt aan de Kok-rivier in Rim Kok, niet midden in de compacte stadsstraten.", "label": "Ligging" },
+      { "title": "Drie eetconcepten", "description": "De officiële opening noemt Larderley, Tasabiang en The Ledger.", "label": "Eten en drinken" },
+      { "title": "Zwembad en fitness", "description": "Hilton publiceert deze voorzieningen; controleer openingstijden voor jouw verblijf.", "label": "Faciliteiten" }
+    ] },
+    { "kind": "checklist", "id": "kamercheck", "title": "Controleer vóór je boekt", "items": ["Exact kamertype, bed en oppervlakte", "Balkon of rivierzicht alleen als het expliciet staat", "Totaalprijs inclusief belastingen", "Ontbijt en loungevoorwaarden", "Annulering en betaalmoment", "Vervoer naar nachtmarkt en tempelroute", "Of alle gewenste voorzieningen operationeel zijn"] },
+    { "kind": "affiliate", "id": "prijs", "provider": "trip.com", "title": "Bekijk de actuele prijs voor jouw data", "description": "Vergelijk de live totaalprijs, het echte kamertype, ontbijt, belastingen en annuleringsvoorwaarden. Een oud openingstarief is geen betrouwbare prijs.", "cta": { "label": "Controleer actuele hotelprijzen", "href": "https://trip.tpo.lv/TmObooZ5?subid=kahavadi-chiang-rai-nl", "external": true }, "placement": "kahavadi-chiang-rai-live-price", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen na een boeking; jij betaalt daardoor niet meer." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Is Kahavadi Chiang Rai geopend?", "answer": "Ja. Hilton kondigde de opening op 1 juli 2026 aan en de officiële hotelpagina accepteert reserveringen." },
+      { "question": "Ligt het hotel in het centrum?", "answer": "Het ligt in Rim Kok aan de Kok-rivier. Controleer de route naar de nachtmarkt en de attracties in jouw dagplan." },
+      { "question": "Hebben alle kamers rivierzicht?", "answer": "Ga daar niet van uit. Controleer de exacte kamernaam en uitzichtomschrijving voordat je betaalt." },
+      { "question": "Wat kost een verblijf?", "answer": "Dat wisselt per datum, bezetting, kamer en voorwaarden. Alleen de actuele totaalprijs voor jouw zoekopdracht is bruikbaar." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Plan Chiang Rai rond je hotel", "items": [
+      { "title": "Beste hotels in Chiang Rai", "description": "Vergelijk rivier, centrum en buitengebied.", "href": "/nl/best-hotels/chiang-rai/" },
+      { "title": "Chiang Rai overzicht", "description": "Bouw je dagen per gebied.", "href": "/nl/city/chiang-rai/" },
+      { "title": "Chiang Rai bezienswaardigheden", "description": "Test de ligging tegen je tempel- en natuurroute.", "href": "/nl/city/chiang-rai/attractions/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Primaire hotelbronnen", "items": [
+      { "title": "Kahavadi Chiang Rai", "publisher": "Hilton", "url": "https://www.hilton.com/en/hotels/ceiqqqq-kahavadi-chiang-rai/", "checkedAt": "2026-08-01", "note": "Actuele hotelpagina, locatie, kamers en reserveringsstatus." },
+      { "title": "Curio Collection debuts in Northern Thailand", "publisher": "Hilton Stories", "url": "https://stories.hilton.com/apac/releases/curio-collection-by-hilton-debuts-in-northern-thailand-with-kahavadi-chiang-rai", "checkedAt": "2026-08-01", "note": "Bevestigt opening op 1 juli 2026 en het officiële hotelprofiel." }
+    ] }
+  ]
+}

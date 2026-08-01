@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "erawan-falls-kanchanaburi-day-trip-guide-2026",
+  "route": "/nl/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Erawan-watervallen bezoeken: praktische gids | Go2Thailand",
+    "description": "Plan Erawan National Park vanuit Kanchanaburi: parkstatus, zeven niveaus, vervoer, zwemveiligheid en een haalbare dagindeling.",
+    "primaryKeyword": "Erawan watervallen bezoeken",
+    "secondaryKeywords": ["Erawan National Park", "Erawan vanuit Kanchanaburi", "Erawan dagtrip"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/erawan-falls-kanchanaburi-day-trip-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Zeven niveaus, één haalbare dag",
+    "title": "Erawan-watervallen bezoeken",
+    "accent": "Begin bij de parkstatus",
+    "description": "De turquoise poelen zijn het eindpunt. Eerst bepaal je of het park open is, hoe je terugkomt en hoeveel niveaus bij jouw conditie en het weer passen.",
+    "image": "/images/redesign/editorial/erawan-falls-kanchanaburi-day-trip-guide-2026-hero.webp",
+    "imageAlt": "Turquoise kalksteenpoelen en watervallen in het tropische bos van Erawan",
+    "primaryCta": { "label": "Plan je parkdag", "href": "#dagplan" },
+    "secondaryCta": { "label": "Controleer de status", "href": "#parkstatus" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "route", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Vertrek bij voorkeur vanuit Kanchanaburi, controleer dezelfde ochtend de parkstatus en je terugrit, en behandel niveau zeven als bonus. Vanuit Bangkok wordt Erawan al snel een zeer lange dag.",
+  "blocks": [
+    {
+      "kind": "steps",
+      "id": "dagplan",
+      "title": "Een dag die ruimte laat voor het bos",
+      "steps": [
+        { "title": "Controleer park en weer", "description": "Tijdelijke sluitingen door brand, rook, hoogwater of onderhoud zijn mogelijk. Gebruik de actuele parkkanalen, niet een oud schema." },
+        { "title": "Leg de terugrit vast", "description": "Noteer de laatste bruikbare verbinding of spreek met een chauffeur een duidelijke ophaaltijd en plek af." },
+        { "title": "Klim van laag naar hoog", "description": "Beoordeel bij ieder niveau je tijd, grip en energie. De bovenste poelen zijn geen verplicht onderdeel van een geslaagde dag." },
+        { "title": "Daal ruim op tijd af", "description": "Natte kalksteen en boomwortels vragen meer tijd naar beneden dan een kaart doet vermoeden." }
+      ]
+    },
+    {
+      "kind": "comparison",
+      "id": "routekeuze",
+      "title": "Vanuit Kanchanaburi of Bangkok?",
+      "options": [
+        { "title": "Kanchanaburi als basis", "description": "Meer tijd in het park, minder overdrachten en ruimte om vroeg te beginnen.", "label": "Beste balans" },
+        { "title": "Bangkok als dagtour", "description": "Alleen logisch met vroeg vertrek en één hoofdthema. Combineer niet automatisch alle oorlogslocaties én zeven niveaus.", "label": "Lange dag" },
+        { "title": "Overnachten bij het park", "description": "Past bij rustig wandelen of een tweede natuurdag; controleer officiële accommodatie en vervoer vooraf.", "label": "Meeste rust" }
+      ]
+    },
+    {
+      "kind": "checklist",
+      "id": "parkstatus",
+      "title": "Controleer vlak voor vertrek",
+      "items": ["Is het park en het watervalpad vandaag open?", "Welke niveaus zijn toegankelijk?", "Wat is de actuele entree en betaalwijze?", "Hoe laat vertrekt jouw terugrit?", "Zijn zwemzones of voedselregels gewijzigd?", "Past regen, hitte of luchtkwaliteit bij jouw wandeling?"]
+    },
+    {
+      "kind": "affiliate",
+      "id": "tour",
+      "provider": "klook",
+      "title": "Vergelijk een tour met je eigen route",
+      "description": "Controleer ophaalgebied, daadwerkelijke tijd bij de watervallen, inbegrepen entree, groepsgrootte en terugkomsttijd. De live productpagina is leidend.",
+      "cta": { "label": "Bekijk actuele Erawan-tours", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true },
+      "placement": "nl-erawan-daytrip",
+      "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou."
+    },
+    {
+      "kind": "faq",
+      "id": "vragen",
+      "title": "Veelgestelde vragen over Erawan",
+      "items": [
+        { "question": "Kun je alle zeven niveaus op één dag zien?", "answer": "Vaak wel vanuit Kanchanaburi, maar toegankelijkheid, conditie, weer en drukte bepalen de dag. Maak het hoogste niveau een bonus." },
+        { "question": "Kun je zwemmen bij Erawan?", "answer": "Alleen waar het park dat op de dag toestaat. Volg afzettingen, lokale aanwijzingen en regels voor zwemvesten en voedsel." },
+        { "question": "Is Erawan een goede dagtrip vanuit Bangkok?", "answer": "Het kan, maar is lang. Een basis in Kanchanaburi geeft meer tijd in het park en minder logistieke druk." },
+        { "question": "Wat kost de entree?", "answer": "Tarieven kunnen wijzigen. Controleer de actuele prijs bij het Department of National Parks of bij de ingang en baseer je budget niet op oude blogs." }
+      ]
+    },
+    {
+      "kind": "related",
+      "id": "verder",
+      "title": "Plan Kanchanaburi rond één hoofdthema",
+      "items": [
+        { "title": "Kanchanaburi bezienswaardigheden", "description": "Vergelijk Erawan met de andere natuur- en geschiedeniskeuzes.", "href": "/nl/city/kanchanaburi/attractions/" },
+        { "title": "Kanchanaburi overzicht", "description": "Kies verblijf, geschiedenis en natuur zonder de dag te overladen.", "href": "/nl/city/kanchanaburi/" },
+        { "title": "Hotels in Kanchanaburi", "description": "Vergelijk een rustige basis op ligging en live prijs.", "href": "/nl/best-hotels/kanchanaburi/" }
+      ]
+    },
+    {
+      "kind": "sources",
+      "id": "bronnen",
+      "title": "Primaire parkbronnen",
+      "items": [
+        { "title": "Heropening Erawan National Park", "publisher": "Department of National Parks, Wildlife and Plant Conservation", "url": "https://news.dnp.go.th/news/43500", "checkedAt": "2026-08-01", "note": "Bewijst dat tijdelijke sluiting door brand en luchtkwaliteit mogelijk is en dat het park op 22 april 2026 heropende." },
+        { "title": "Erawan National Park", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Attraction/erawan-national-park", "checkedAt": "2026-08-01", "note": "Officiële bestemmingscontext; actuele operationele status blijft een dagcheck." },
+        { "title": "National Park reservation portal", "publisher": "Department of National Parks, Wildlife and Plant Conservation", "url": "https://nps.dnp.go.th/", "checkedAt": "2026-08-01", "note": "Officiële ingang voor park- en accommodatieservices." }
+      ]
+    }
+  ]
+}

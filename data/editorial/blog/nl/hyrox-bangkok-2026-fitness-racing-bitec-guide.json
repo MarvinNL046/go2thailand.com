@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "hyrox-bangkok-2026-fitness-racing-bitec-guide",
+  "route": "/nl/blog/hyrox-bangkok-2026-fitness-racing-bitec-guide/",
+  "cluster": "events",
+  "editorialStatus": "archived",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "HYROX Bangkok 2026 is afgelopen: archief | Go2Thailand",
+    "description": "HYROX Bangkok vond van 20 tot en met 22 maart 2026 plaats in BITEC. Lees de bevestigde editiegegevens en controleer een volgende race apart.",
+    "primaryKeyword": "HYROX Bangkok 2026",
+    "secondaryKeywords": ["HYROX BITEC Bangkok", "fitnessrace Bangkok", "HYROX Thailand"],
+    "searchIntent": "informational",
+    "canonicalPath": "/nl/blog/hyrox-bangkok-2026-fitness-racing-bitec-guide/",
+    "noindex": true
+  },
+  "hero": {
+    "eyebrow": "Eventarchief",
+    "title": "HYROX Bangkok 2026",
+    "accent": "De editie is afgelopen",
+    "description": "De race liep van 20 tot en met 22 maart 2026 in BITEC. Gebruik oude tijden, tickets en categorieën niet voor een volgende editie.",
+    "image": "/images/redesign/editorial/hyrox-bangkok-2026-fitness-racing-bitec-guide-hero.webp",
+    "imageAlt": "Sporters tijdens een indoor hybrid fitnessrace in een grote evenementenhal",
+    "primaryCta": { "label": "Bekijk wat bevestigd was", "href": "#editie" },
+    "secondaryCta": { "label": "Plan Bangkok", "href": "/nl/city/bangkok/" }
+  },
+  "layout": { "kind": "event-guide", "temporalStatus": "elapsed", "startsOn": "2026-03-20", "endsOn": "2026-03-22", "checkedAt": "2026-08-01", "heroVariant": "immersive", "navigation": "anchors", "density": "standard" },
+  "quickAnswer": "HYROX Bangkok 2026 is afgelopen. De officiële racegids bevestigt 20–22 maart 2026 en BITEC; wacht voor een volgende editie op een nieuwe officiële eventpagina.",
+  "blocks": [
+    { "kind": "callout", "id": "editie", "tone": "warning", "title": "Geen actuele ticketgids", "description": "Deze URL bewaart alleen controleerbare informatie over de verstreken editie. Oude startvakken, categorieën, hotels en registratiedeadlines zijn geen advies voor een volgende race." },
+    { "kind": "card-grid", "id": "bevestigd", "title": "Wat voor 2026 bevestigd was", "cards": [
+      { "title": "20–22 maart 2026", "description": "De drie eventdagen staan in de officiële athlete guide.", "label": "Afgelopen" },
+      { "title": "BITEC Bangkok", "description": "De officiële eventdocumentatie noemt Bangkok International Trade & Exhibition Centre.", "label": "Locatie" },
+      { "title": "Hybrid fitnessrace", "description": "Het format combineert hardlooponderdelen met gestandaardiseerde functionele stations.", "label": "Concept" }
+    ] },
+    { "kind": "checklist", "id": "volgende-editie", "title": "Wacht voor een volgende editie op", "items": ["Nieuwe officiële Bangkok-eventpagina", "Bevestigde datum en venue", "Actuele divisies en deelnamevoorwaarden", "Nieuwe athlete guide", "Ticket- of registratiestatus", "Actuele bereikbaarheid en bagageregels"] },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Kan ik nog tickets kopen voor HYROX Bangkok 2026?", "answer": "Nee. De editie van 20 tot en met 22 maart 2026 is verstreken." },
+      { "question": "Is een volgende Bangkok-editie bevestigd?", "answer": "Niet binnen de bronnen van deze controle. Wacht op HYROX zelf en kopieer geen datum uit 2026." },
+      { "question": "Hoe reis je naar BITEC?", "answer": "BITEC ligt bij BTS Bang Na. Controleer voor een nieuw evenement de juiste ingang en actuele route." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Plan Bangkok zonder oude eventagenda", "items": [
+      { "title": "Bangkok overzicht", "description": "Bouw een actuele stadsroute.", "href": "/nl/city/bangkok/" },
+      { "title": "BTS en MRT", "description": "Plan de bereikbaarheid van Bang Na.", "href": "/nl/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/" },
+      { "title": "Muay Thai in Thailand", "description": "Vergelijk een blijvende sportervaring.", "href": "/nl/best-muay-thai-in-thailand/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Eventbronnen", "items": [
+      { "title": "HYROX Bangkok athlete guide", "publisher": "HYROX", "url": "https://hyrox.com/wp-content/uploads/2026/03/20-22-MAR-2026-THA_BKK.pdf", "checkedAt": "2026-08-01", "note": "Bevestigt de verstreken data en locatie; niet hergebruiken voor een volgende editie." },
+      { "title": "BITEC visitor information", "publisher": "Bangkok International Trade & Exhibition Centre", "url": "https://www.bitec.co.th/visitor", "checkedAt": "2026-08-01", "note": "Venue- en bereikbaarheidcontext; eventingang kan per productie verschillen." }
+    ] }
+  ]
+}

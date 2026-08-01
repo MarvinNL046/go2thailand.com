@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "locale": "nl",
+  "slug": "koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026",
+  "route": "/nl/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/",
+  "cluster": "attractions",
+  "editorialStatus": "ready",
+  "updatedAt": "2026-08-01",
+  "seo": {
+    "title": "Koh Larn vanuit Pattaya: ferry en stranden | Go2Thailand",
+    "description": "Plan een Koh Larn-dagtrip vanuit Pattaya: kies de juiste pier en aankomst, vergelijk stranden en controleer ferry, zee en terugreis live.",
+    "primaryKeyword": "Koh Larn vanuit Pattaya",
+    "secondaryKeywords": ["Koh Larn ferry", "Koh Larn dagtrip", "stranden Koh Larn"],
+    "searchIntent": "commercial-investigation",
+    "canonicalPath": "/nl/blog/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026/"
+  },
+  "hero": {
+    "eyebrow": "Eilanddag zonder haast",
+    "title": "Koh Larn vanuit Pattaya",
+    "accent": "Pier, strand, terugrit",
+    "description": "De overtocht is eenvoudig; de kwaliteit van je dag hangt af van waar de boot aankomt, welk strand bij je past en hoeveel marge je voor de laatste terugvaart houdt.",
+    "image": "/images/redesign/editorial/koh-larn-island-day-trip-pattaya-beaches-ferry-guide-2026-hero.webp",
+    "imageAlt": "Uitzicht vanaf een ferry op een turquoise baai en strand van Koh Larn",
+    "primaryCta": { "label": "Plan de overtocht", "href": "#overtocht" },
+    "secondaryCta": { "label": "Kies je strand", "href": "#stranden" }
+  },
+  "layout": { "kind": "destination-guide", "geography": "route", "heroVariant": "immersive", "navigation": "anchors", "density": "longform" },
+  "quickAnswer": "Ga vroeg naar Bali Hai Pier, controleer aan het loket of je boot naar Na Baan of Tawaen gaat en kies één hoofdstrand. Noteer de laatste bruikbare terugvaart zodra je aankomt; tijden en prijzen horen live gecontroleerd te worden.",
+  "blocks": [
+    { "kind": "steps", "id": "overtocht", "title": "Van Pattaya naar een rustige eilanddag", "steps": [
+      { "title": "Ga naar Bali Hai Pier", "description": "Plan extra tijd voor verkeer, kaartverkoop en het vinden van de juiste boot; stap niet automatisch in bij een verkoper op straat." },
+      { "title": "Lees de aankomstpier", "description": "Na Baan en Tawaen geven een ander begin van je dag. Controleer bestemming, vertrek en retourmogelijkheid vóór betaling." },
+      { "title": "Kies één strand als basis", "description": "Verplaats alleen wanneer de sfeer niet past. Elk extra strand kost wachttijd en lokaal vervoer." },
+      { "title": "Bevestig de terugvaart", "description": "Zee, weer en operatie kunnen wijzigen. Houd een eerdere boot als veiligheidsmarge in plaats van op de laatste mogelijkheid te mikken." }
+    ] },
+    { "kind": "comparison", "id": "stranden", "title": "Welk strand past bij je dag?", "options": [
+      { "title": "Tawaen", "description": "De meeste voorzieningen en directe boottoegang, maar meestal ook de meeste drukte en watersport.", "label": "Gemak" },
+      { "title": "Tien", "description": "Een rustiger strandgevoel met minder directe ferrylogistiek; controleer lokaal vervoer.", "label": "Rustiger" },
+      { "title": "Samae", "description": "Ruimer kustgevoel en zonsondergangkant, maar niet automatisch de handigste plek voor je retourboot.", "label": "Ruimte" },
+      { "title": "Nual", "description": "Meer afstand en een natuurlijker randje; houd eten, vervoer, apen en voorzieningen in je afweging.", "label": "Verder weg" }
+    ] },
+    { "kind": "checklist", "id": "dagcheck", "title": "Controleer op de dag zelf", "items": ["Vertrekpier en aankomstpier", "Actuele vertrektijd en loketprijs", "Laatste bruikbare retourvaart", "Wind, regen en zeecondities", "Songthaew-route en afgesproken prijs", "Zwemwaarschuwingen en watersportzone", "Contant geld en opgeladen telefoon"] },
+    { "kind": "affiliate", "id": "tour", "provider": "klook", "title": "Vergelijk een georganiseerde eilandtour", "description": "Een tour kan vervoer en activiteiten bundelen. Controleer vertrekpier, strandtijd, groepsgrootte, inbegrepen onderdelen en weersvoorwaarden op de live productpagina.", "cta": { "label": "Bekijk actuele Koh Larn-tours", "href": "https://klook.tpo.lv/7Dt6WApj", "external": true }, "placement": "nl-koh-larn-daytrip", "disclosure": "Affiliate-link: Go2Thailand kan een commissie ontvangen bij een boeking, zonder extra kosten voor jou." },
+    { "kind": "faq", "id": "vragen", "title": "Veelgestelde vragen", "items": [
+      { "question": "Hoe lang duurt de ferry naar Koh Larn?", "answer": "Reken voor de reguliere overtocht grofweg op 30–45 minuten, maar zie dit niet als dienstgarantie. Controleer boot, pier en omstandigheden ter plaatse." },
+      { "question": "Wat kost de ferry?", "answer": "Prijzen veranderen. Controleer het officiële loket op Bali Hai Pier en bevestig of het om een enkele reis of retour gaat." },
+      { "question": "Wat is het beste strand op Koh Larn?", "answer": "Tawaen past bij gemak, Tien bij een rustiger strandgevoel en Samae bij meer ruimte. De beste keuze hangt af van drukte, vervoer en je retourpier." },
+      { "question": "Moet je een scooter huren?", "answer": "Nee. Songthaews verbinden de belangrijkste zones. Huur alleen een scooter met juiste vergunning, ervaring, helm en verzekering; de wegen zijn steil." }
+    ] },
+    { "kind": "related", "id": "verder", "title": "Bouw Pattaya rond de eilanddag", "items": [
+      { "title": "Pattaya overzicht", "description": "Kies een wijk en het juiste aantal dagen.", "href": "/nl/city/pattaya/" },
+      { "title": "Pattaya bezienswaardigheden", "description": "Vergelijk Koh Larn met andere dagkeuzes.", "href": "/nl/city/pattaya/attractions/" },
+      { "title": "Bangkok naar Pattaya", "description": "Plan de route naar je kustbasis.", "href": "/nl/transport/bangkok-to-pattaya/" }
+    ] },
+    { "kind": "sources", "id": "bronnen", "title": "Directe bestemmingsbronnen", "items": [
+      { "title": "Pattaya destination", "publisher": "Tourism Authority of Thailand", "url": "https://www.tourismthailand.org/Destinations/Provinces/Pattaya/469", "checkedAt": "2026-08-01", "note": "Bevestigt Koh Lan als dagtrip en de bredere bestemmingscontext." },
+      { "title": "Koh Larn", "publisher": "Pattaya.com", "url": "https://www.pattaya.com/explore/islands/koh-larn", "checkedAt": "2026-08-01", "note": "Directe lokale eilandinformatie; ferryprijzen en tijden worden expliciet als live controle behandeld." },
+      { "title": "Pattaya City", "publisher": "Pattaya City", "url": "https://www.pattaya.go.th/", "checkedAt": "2026-08-01", "note": "Officiële gemeentelijke ingang voor actuele lokale mededelingen." }
+    ] }
+  ]
+}
