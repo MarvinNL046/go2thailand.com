@@ -1,16 +1,20 @@
 import { useEffect, useRef } from "react";
 
 export default function InlineAd({ className = "" }: { className?: string }) {
+  const adsEnabled = process.env.NEXT_PUBLIC_ENABLE_ADS === "true";
   const pushed = useRef(false);
 
   useEffect(() => {
+    if (!adsEnabled) return;
     if (pushed.current) return;
     try {
       const adsbygoogle = (window as any).adsbygoogle || [];
       adsbygoogle.push({});
       pushed.current = true;
     } catch {}
-  }, []);
+  }, [adsEnabled]);
+
+  if (!adsEnabled) return null;
 
   return (
     <div className={`my-8 ${className}`}>

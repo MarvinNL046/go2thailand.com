@@ -12,12 +12,16 @@ export default class MyDocument extends Document<MyDocumentProps> {
 
   render() {
     const isProduction = process.env.NODE_ENV === 'production';
+    const adsEnabled = isProduction && process.env.NEXT_PUBLIC_ENABLE_ADS === 'true';
+    const travelpayoutsDriveEnabled =
+      isProduction && process.env.NEXT_PUBLIC_ENABLE_TRAVELPAYOUTS_DRIVE === 'true';
 
     return (
       <Html lang={this.props.locale}>
       <Head>
-        {/* Travelpayouts Drive: site-wide in production, disabled during local QA. */}
-        {isProduction && (
+        {/* Travelpayouts Drive is opt-in. Direct affiliate links work without this
+            monetisation/link-switcher script, which avoids unsolicited popups. */}
+        {travelpayoutsDriveEnabled && (
           <script
             data-noptimize="1"
             data-cfasync="false"
@@ -39,15 +43,20 @@ export default class MyDocument extends Document<MyDocumentProps> {
             <link rel="preconnect" href="https://www.googletagmanager.com" />
             <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
             
-            {/* Google Ads/AdSense */}
-            <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
-            <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
-            <script
-              async
-              src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9667530069853985"
-              crossOrigin="anonymous"
-            />
-            <meta name="google-adsense-account" content="ca-pub-9667530069853985" />
+            {/* Google Ads/AdSense is opt-in while the site is reviewed for
+                intrusive-ad compliance. */}
+            {adsEnabled && (
+              <>
+                <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+                <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+                <script
+                  async
+                  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9667530069853985"
+                  crossOrigin="anonymous"
+                />
+                <meta name="google-adsense-account" content="ca-pub-9667530069853985" />
+              </>
+            )}
             <meta name="p:domain_verify" content="82c2df678f9c93028c81c53ff6ef148d" />
 
             {/* Ahrefs Analytics */}

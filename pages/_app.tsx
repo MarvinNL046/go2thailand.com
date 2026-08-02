@@ -1,7 +1,6 @@
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
 import Script from 'next/script';
-import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -19,6 +18,8 @@ import '../styles/globals.css';
 export default function App({ Component, pageProps }: AppProps) {
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const isProduction = process.env.NODE_ENV === 'production';
+  const promotionalOverlaysEnabled =
+    process.env.NEXT_PUBLIC_ENABLE_PROMOTIONAL_OVERLAYS === 'true';
   const router = useRouter();
   const isNl = router.locale === 'nl';
 
@@ -94,7 +95,7 @@ export default function App({ Component, pageProps }: AppProps) {
       <GoogleConsent />
       <ToastProvider>
         <div className="min-h-screen flex flex-col overflow-x-hidden pb-[calc(4.25rem+env(safe-area-inset-bottom))] lg:pb-0">
-          <PushBanner />
+          {promotionalOverlaysEnabled && <PushBanner />}
           <Header />
           <main className="flex-grow overflow-x-hidden">
             <Component {...pageProps} />
@@ -103,7 +104,7 @@ export default function App({ Component, pageProps }: AppProps) {
           <Footer />
           <CookieConsent />
           <FeedbackRibbon />
-          <ExitIntentPopup />
+          {promotionalOverlaysEnabled && <ExitIntentPopup />}
         </div>
       </ToastProvider>
       <Analytics />
