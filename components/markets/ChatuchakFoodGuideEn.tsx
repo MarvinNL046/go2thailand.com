@@ -38,8 +38,8 @@ import { SourceMethodSection } from '../design/SourceMethodSection';
 
 const PAGE_URL = 'https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/';
 const HERO_IMAGE = '/images/redesign/chatuchak-food-hero.webp';
-const PAGE_TITLE = 'Chatuchak Market food guide: what to eat and a smart route';
-const PAGE_DESCRIPTION = 'Plan what to eat at Chatuchak Market with food sections, a 90-minute tasting route, opening hours, payment advice, allergen checks and a practical market kit.';
+const PAGE_TITLE = 'Chatuchak Weekend Market food: what to eat + smart route';
+const PAGE_DESCRIPTION = 'Find the best way to explore Chatuchak Weekend Market food with a 90-minute tasting route, food sections, opening hours, MRT advice and allergen checks.';
 
 const navItems: PageSectionNavItem[] = [
   { href: '#plan', label: 'Choose a plan', icon: BadgeCheck },

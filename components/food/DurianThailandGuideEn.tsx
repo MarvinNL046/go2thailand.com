@@ -36,8 +36,8 @@ import { SourceMethodSection } from '../design/SourceMethodSection';
 
 const PAGE_URL = 'https://go2-thailand.com/blog/durian-season-thailand-2026-where-to-eat-buy-guide/';
 const HERO_IMAGE = '/images/redesign/durian-season-hero.webp';
-const PAGE_TITLE = 'Durian season in Thailand 2026: when, where and what to try';
-const PAGE_DESCRIPTION = 'Plan your first durian in Thailand with a current regional season calendar, Monthong and Chanee comparison, Bangkok buying checks, orchard route and smell rules.';
+const PAGE_TITLE = 'Durian season Thailand 2026: festivals, buffets & buying guide';
+const PAGE_DESCRIPTION = 'Plan Thailand durian season 2026 with the regional harvest calendar, current festival checks, buffet advice, Bangkok buying tips and a calmer Chanthaburi orchard route.';
 const AMAZON_DURIAN_SLUG: AmazonAffiliateSlug = 'kooky-freeze-dried-monthong-durian';
 
 const navItems: PageSectionNavItem[] = [

@@ -36,9 +36,9 @@ import { SectionHeading } from "../design/SectionHeading";
 import { SourceMethodSection } from "../design/SourceMethodSection";
 
 const PAGE_URL = "https://go2-thailand.com/drinks/";
-const PAGE_TITLE = "Thai drinks: 25 beverages to try in Thailand";
+const PAGE_TITLE = "Thai drinks: 25 traditional drinks to try in Thailand";
 const PAGE_DESCRIPTION =
-  "Choose among 25 Thai drinks, from cha yen and oliang to herbal drinks and Thai beer. Includes ordering phrases, water and ice advice, and current alcohol rules.";
+  "Explore 25 traditional Thai drinks, from cha yen and oliang to herbal drinks and Thai beer, with ordering phrases, water and ice advice, and current alcohol rules.";
 const HERO_IMAGE = "/images/redesign/thai-drinks-hero.webp";
 
 interface Drink {
