@@ -138,6 +138,12 @@ const faqs = [
 
 const sources = [
   {
+    title: 'Eastern Thailand durian output and harvest controls 2026',
+    creator: 'Thailand Department of Agricultural Extension',
+    url: 'https://doaenews.doae.go.th/archives/31324',
+    note: 'Current 2026 official update: eastern production was forecast for March–July, with 1,066,980 tonnes and cultivar-specific minimum cutting dates.',
+  },
+  {
     title: 'Thailand commences the 2026 tropical fruit season',
     creator: 'Government of Thailand',
     url: 'https://thailand.go.th/public/issue-focus-detail/thailand-officially-commences-2026-tropical-fruit-season-strategic-integration-of-gastronomy-soft-power-to-accelerate-grassroots-economic-growth',
@@ -258,7 +264,7 @@ export function DurianThailandGuideEn() {
           <div className="container-custom">
             <div className="grid gap-10 lg:grid-cols-[0.6fr_1.4fr] lg:items-end">
               <SectionHeading eyebrow="One fruit, several calendars" title={<>When is durian<br />season in Thailand?</>} description={<>Plan with a region and year. Combine the harvest window with our <InlineLink href="/blog/best-time-to-visit-thailand/">best time to visit Thailand guide</InlineLink>, because peak fruit volume and the driest travel weather are not automatically the same.</>} />
-              <p className="max-w-3xl text-sm font-medium leading-7 text-charcoal/66">For current planning, Chanthaburi is the strongest official reference: 2026 supply was forecast from February to July, with the greatest volume in May. TAT positions May to July as a prime orchard period in Chanthaburi and Rayong. Use that as an eastern travel window, not a universal biological rule for the whole country.</p>
+              <div className="max-w-3xl space-y-3 text-sm font-medium leading-7 text-charcoal/66"><p>For current planning, Chanthaburi is the strongest official reference: 2026 supply was forecast from February to July, with the greatest volume in May. TAT positions May to July as a prime orchard period in Chanthaburi and Rayong. Use that as an eastern travel window, not a universal biological rule for the whole country.</p><p><strong className="text-jade">2026 harvest update:</strong> Thailand's Department of Agricultural Extension forecast 1,066,980 tonnes from the eastern crop, 22.4% above 2025, across a March–July production season. That larger forecast improves the odds of supply; it does not guarantee ripeness at a specific stall.</p></div>
             </div>
             <div className="mt-10 grid gap-4 lg:grid-cols-4">
               {[
@@ -457,7 +463,7 @@ export function DurianThailandGuideEn() {
         <SourceMethodSection
           eyebrow="Sources & editorial method"
           title="Regional data before a universal calendar"
-          description="Independent English DataForSEO ranking, backlink, keyword-cluster, SERP, competitor and exact-PAA research set the task. Seasonal, cultivar and BTS claims return to Thai government, Department of Agriculture, embassy, TAT and operator sources. Old source prices and unverified future festivals or buffets are excluded. Last substantive review: 26 July 2026."
+          description="Independent English DataForSEO ranking, backlink, keyword-cluster, SERP, competitor and exact-PAA research set the task. Seasonal, cultivar and BTS claims return to Thai government, Department of Agriculture, embassy, TAT and operator sources. Old source prices and unverified future festivals or buffets are excluded. Last substantive review: 8 August 2026."
           sources={sources}
         />
       </div>
